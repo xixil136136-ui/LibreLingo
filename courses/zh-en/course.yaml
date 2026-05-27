@@ -1,0 +1,34 @@
+Course:
+  Language:
+    Name: English
+    IETF BCP 47: en
+
+  For speakers of:
+    Name: Chinese
+    IETF BCP 47: zh
+
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+  Repository: https://github.com/xixil136136-ui/LibreLingo
+
+  Special characters:
+  - "'"
+  - "é"
+  - "á"
+  - "í"
+  - "ó"
+  - "ú"
+  - "ü"
+
+Modules:
+  - basics
+  - food-&-drink
+  - travel
+  - daily-life
+
+Settings:
+    Audio:
+      Enabled: True

@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "안녕하세요, 반갑습니다.",
+      "meaningInSourceLanguage": "你好，很高兴认识你。",
+      "id": "8d7cc030f023",
+      "priority": 0,
+      "group": "0c27bb6df4f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "안녕하세요, 반갑습니다.",
+      "meaning": "你好，很高兴认识你。",
+      "audio": "ea5750e46560a02b14c4de7e7da615be4a5ac6c50bf64785379c7fe88fc445a7",
+      "id": "d0818644cf3a",
+      "priority": 1,
+      "group": "0c27bb6df4f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "감사합니다, 선생님.",
+      "meaningInSourceLanguage": "谢谢您，老师。",
+      "id": "9fe227e223e0",
+      "priority": 0,
+      "group": "a7cfb016ac0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "감사합니다, 선생님.",
+      "meaning": "谢谢您，老师。",
+      "audio": "181c463b6a984f1853035000f33b2d6879f9224e6aa3764d660ad26fd6fe506e",
+      "id": "18fae3cd7532",
+      "priority": 1,
+      "group": "a7cfb016ac0d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "죄송합니다, 늦었습니다.",
+      "meaningInSourceLanguage": "对不起，我迟到了。",
+      "id": "4d406b25e67d",
+      "priority": 0,
+      "group": "0108b8483252"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "죄송합니다, 늦었습니다.",
+      "meaning": "对不起，我迟到了。",
+      "audio": "0f35d9844989bd1bf758ed7f19c2673f4e72b0f15ac1c8a1dadf379b12864d4e",
+      "id": "b4f9cffbe76b",
+      "priority": 1,
+      "group": "0108b8483252"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "네, 괜찮습니다.",
+      "meaningInSourceLanguage": "是的，没关系。",
+      "id": "57719930e6bb",
+      "priority": 0,
+      "group": "6406acafacd2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "네, 괜찮습니다.",
+      "meaning": "是的，没关系。",
+      "audio": "7a7855f9df04b95c6960b57a72ceb9dfc249c5c14e72d118b939f1bb6e9e04e0",
+      "id": "9c6a7d5225ce",
+      "priority": 1,
+      "group": "6406acafacd2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "안녕히 계세요, 또 만나요.",
+      "meaningInSourceLanguage": "再见，下次见。",
+      "id": "4cf9b4ab2553",
+      "priority": 0,
+      "group": "1ac4117ecbfb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "안녕히 계세요, 또 만나요.",
+      "meaning": "再见，下次见。",
+      "audio": "65b3718014efaacf80ef5a12d2665a3884b40d08287205be014321fe8b8e7d64",
+      "id": "78606d9766dc",
+      "priority": 1,
+      "group": "1ac4117ecbfb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "안녕하세요",
+      "meaningInSourceLanguage": "你好",
+      "id": "002d04bfbf53",
+      "priority": 0,
+      "group": "963a0a2b51d1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "안녕하세요"
+      ],
+      "phrase": [
+        {
+          "word": "你好",
+          "definition": "안녕하세요"
+        }
+      ],
+      "id": "16883f1d6497",
+      "priority": 1,
+      "group": "963a0a2b51d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "안녕하세요",
+      "meaning": "你好",
+      "audio": "4a98ae1577427d63d3a39b650537b6744ae0e9cc9be24a686b2d009586c4781f",
+      "id": "629b5b1d2acb",
+      "priority": 1,
+      "group": "963a0a2b51d1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "안녕히 계세요",
+      "meaningInSourceLanguage": "再见",
+      "id": "335989448610",
+      "priority": 0,
+      "group": "cc3f4d8859d6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "안녕히 계세요"
+      ],
+      "phrase": [
+        {
+          "word": "再见",
+          "definition": "안녕히 계세요"
+        }
+      ],
+      "id": "96b696af3db0",
+      "priority": 1,
+      "group": "cc3f4d8859d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "안녕히 계세요",
+      "meaning": "再见",
+      "audio": "a8eb2fe3b2c76be77122e0b93037b629f35f337a56e39aae74de47af40fb2188",
+      "id": "2a03bbaeda8b",
+      "priority": 1,
+      "group": "cc3f4d8859d6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "감사합니다",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "e0f15ca9e27c",
+      "priority": 0,
+      "group": "94a7b427c26d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "감사합니다"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "감사합니다"
+        }
+      ],
+      "id": "3f4f7f4c2253",
+      "priority": 1,
+      "group": "94a7b427c26d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "감사합니다",
+      "meaning": "谢谢",
+      "audio": "cbe081439d3fb1ea9372259738dbc28213952544b8eb0c11a0aaa287e1eb2e7b",
+      "id": "590cad5f5b66",
+      "priority": 1,
+      "group": "94a7b427c26d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "죄송합니다",
+      "meaningInSourceLanguage": "对不起",
+      "id": "23e8c8244b62",
+      "priority": 0,
+      "group": "9f8ba735c3ce"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "죄송합니다"
+      ],
+      "phrase": [
+        {
+          "word": "对不起",
+          "definition": "죄송합니다"
+        }
+      ],
+      "id": "2d859eb92280",
+      "priority": 1,
+      "group": "9f8ba735c3ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "죄송합니다",
+      "meaning": "对不起",
+      "audio": "158594df0c10e507506e3c4fccd262a1e05cc3efb8f26bae80bdc6c98fa25543",
+      "id": "9e333b295149",
+      "priority": 1,
+      "group": "9f8ba735c3ce"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "네",
+      "meaningInSourceLanguage": "是的",
+      "id": "e0d729991115",
+      "priority": 0,
+      "group": "6d38e1397881"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "네"
+      ],
+      "phrase": [
+        {
+          "word": "是的",
+          "definition": "네"
+        }
+      ],
+      "id": "4263a1214add",
+      "priority": 1,
+      "group": "6d38e1397881"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "네",
+      "meaning": "是的",
+      "audio": "78b948181606237ac820d6a839d18def9ff057a77116e7cc6bbf62ebc4f03814",
+      "id": "abfbd2d90c71",
+      "priority": 1,
+      "group": "6d38e1397881"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "아니요",
+      "meaningInSourceLanguage": "不是",
+      "id": "ec560ee2784c",
+      "priority": 0,
+      "group": "62284fdc3069"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "아니요"
+      ],
+      "phrase": [
+        {
+          "word": "不是",
+          "definition": "아니요"
+        }
+      ],
+      "id": "794acb9d69f0",
+      "priority": 1,
+      "group": "62284fdc3069"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아니요",
+      "meaning": "不是",
+      "audio": "e8fac851241f6509c68f93e5da69269a1f9d56e6be03179547c381172d1a8550",
+      "id": "de0031cc5fa1",
+      "priority": 1,
+      "group": "62284fdc3069"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "괜찮습니다",
+      "meaningInSourceLanguage": "没关系",
+      "id": "ebc10986afbf",
+      "priority": 0,
+      "group": "9c2393498a12"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "괜찮습니다"
+      ],
+      "phrase": [
+        {
+          "word": "没关系",
+          "definition": "괜찮습니다"
+        }
+      ],
+      "id": "1a48434c978c",
+      "priority": 1,
+      "group": "9c2393498a12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "괜찮습니다",
+      "meaning": "没关系",
+      "audio": "83d3d974897a89dc2358e295520331827229335bf4f9eb1e663e6eb097fd8c01",
+      "id": "c4fabf36b5e0",
+      "priority": 1,
+      "group": "9c2393498a12"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "잠시만요",
+      "meaningInSourceLanguage": "请稍等",
+      "id": "ee7f6049467e",
+      "priority": 0,
+      "group": "87127f32b817"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "잠시만요"
+      ],
+      "phrase": [
+        {
+          "word": "请稍等",
+          "definition": "잠시만요"
+        }
+      ],
+      "id": "d66e58e574c5",
+      "priority": 1,
+      "group": "87127f32b817"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "잠시만요",
+      "meaning": "请稍等",
+      "audio": "b06e41d4d0f24ae8ac46bba2b5fdd2ce1e9c7d4e0d74a977c69baf5c507d3bad",
+      "id": "1279d810f9bd",
+      "priority": 1,
+      "group": "87127f32b817"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "주세요",
+      "meaningInSourceLanguage": "请给我",
+      "id": "7fd796bcdf11",
+      "priority": 0,
+      "group": "0c190724c056"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "주세요"
+      ],
+      "phrase": [
+        {
+          "word": "请给我",
+          "definition": "주세요"
+        }
+      ],
+      "id": "0ff6bf6553f7",
+      "priority": 1,
+      "group": "0c190724c056"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "주세요",
+      "meaning": "请给我",
+      "audio": "590973f165170ec06156bb334796feff0de53de17029762d56cc169dd10f3906",
+      "id": "f244966060ff",
+      "priority": 1,
+      "group": "0c190724c056"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "만나서 반갑습니다",
+      "meaningInSourceLanguage": "很高兴认识你",
+      "id": "16a785e3cbc1",
+      "priority": 0,
+      "group": "a26843171557"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "만나서 반갑습니다"
+      ],
+      "phrase": [
+        {
+          "word": "很高兴认识你",
+          "definition": "만나서 반갑습니다"
+        }
+      ],
+      "id": "1bafe89da068",
+      "priority": 1,
+      "group": "a26843171557"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "만나서 반갑습니다",
+      "meaning": "很高兴认识你",
+      "audio": "e8d1b5dd8500698ff7d9026db56556bb2f002e254d973d55e50480b2e748fc4a",
+      "id": "7f9d2c48f218",
+      "priority": 1,
+      "group": "a26843171557"
+    }
+  ]
+}

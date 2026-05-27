@@ -1,0 +1,76 @@
+Skill:
+  Name: Basic Foods
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: water
+    Translation: 水
+  - Word: bread
+    Translation: 面包
+  - Word: rice
+    Translation: 米饭
+  - Word: milk
+    Translation: 牛奶
+  - Word: egg
+    Translation: 鸡蛋
+  - Word: chicken
+    Translation: 鸡肉
+  - Word: fish
+    Translation: 鱼
+  - Word: fruit
+    Translation: 水果
+  - Word: vegetable
+    Translation: 蔬菜
+  - Word: tea
+    Translation: 茶
+  - Word: coffee
+    Translation: 咖啡
+  - Word: sugar
+    Translation: 糖
+
+Phrases:
+  - Phrase: I want water.
+    Translation: 我想要水。
+  - Phrase: Bread and milk, please.
+    Translation: 请给我面包和牛奶。
+  - Phrase: I like rice.
+    Translation: 我喜欢米饭。
+  - Phrase: Tea or coffee?
+    Translation: 茶还是咖啡？
+  - Phrase: This is delicious.
+    Translation: 这个很好吃。
+
+Mini-dictionary:
+  English:
+    - fish: 鱼
+    - rice: 米饭
+    - water: 水
+    - sugar: 糖
+    - bread: 面包
+    - tea: 茶
+    - vegetable: 蔬菜
+    - egg: 鸡蛋
+    - milk: 牛奶
+    - fruit: 水果
+    - coffee: 咖啡
+    - chicken: 鸡肉
+  Chinese:
+    - 面包: bread
+    - 咖啡: coffee
+    - 牛奶: milk
+    - 鱼: fish
+    - 茶: tea
+    - 鸡肉: chicken
+    - 水果: fruit
+    - 米饭: rice
+    - 鸡蛋: egg
+    - 糖: sugar
+    - 蔬菜: vegetable
+    - 水: water

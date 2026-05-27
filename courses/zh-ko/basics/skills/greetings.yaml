@@ -1,0 +1,66 @@
+Skill:
+  Name: Greetings
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+
+New words:
+  - Word: 안녕하세요
+    Translation: 你好
+  - Word: 안녕히 계세요
+    Translation: 再见
+  - Word: 감사합니다
+    Translation: 谢谢
+  - Word: 죄송합니다
+    Translation: 对不起
+  - Word: 네
+    Translation: 是的
+  - Word: 아니요
+    Translation: 不是
+  - Word: 괜찮습니다
+    Translation: 没关系
+  - Word: 잠시만요
+    Translation: 请稍等
+  - Word: 주세요
+    Translation: 请给我
+  - Word: 만나서 반갑습니다
+    Translation: 很高兴认识你
+
+Phrases:
+  - Phrase: 안녕하세요, 반갑습니다.
+    Translation: 你好，很高兴认识你。
+  - Phrase: 감사합니다, 선생님.
+    Translation: 谢谢您，老师。
+  - Phrase: 죄송합니다, 늦었습니다.
+    Translation: 对不起，我迟到了。
+  - Phrase: 네, 괜찮습니다.
+    Translation: 是的，没关系。
+  - Phrase: 안녕히 계세요, 또 만나요.
+    Translation: 再见，下次见。
+
+Mini-dictionary:
+  Korean:
+    - 죄송합니다: 对不起
+    - 잠시만요: 请稍等
+    - 괜찮습니다: 没关系
+    - 안녕히 계세요: 再见
+    - 안녕하세요: 你好
+    - 감사합니다: 谢谢
+    - 아니요: 不是
+    - 주세요: 请给我
+    - 만나서 반갑습니다: 很高兴认识你
+    - 네: 是的
+  Chinese:
+    - 再见: 안녕히 계세요
+    - 请稍等: 잠시만요
+    - 是的: 네
+    - 谢谢: 감사합니다
+    - 对不起: 죄송합니다
+    - 很高兴认识你: 만나서 반갑습니다
+    - 没关系: 괜찮습니다
+    - 不是: 아니요
+    - 你好: 안녕하세요
+    - 请给我: 주세요

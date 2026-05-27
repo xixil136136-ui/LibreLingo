@@ -1,0 +1,431 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I see the menu?",
+      "meaningInSourceLanguage": "我能看看菜单吗？",
+      "id": "fe1b0217cbfa",
+      "priority": 0,
+      "group": "796f804f4da4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I see the menu?",
+      "meaning": "我能看看菜单吗？",
+      "audio": "e0bbaa1648f2371ab3ce748bee3026f09f3325001cde14c8efe4e66e2f9de5c4",
+      "id": "aa46d794b59e",
+      "priority": 1,
+      "group": "796f804f4da4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to order.",
+      "meaningInSourceLanguage": "我想点餐。",
+      "id": "6a35ac2cc555",
+      "priority": 0,
+      "group": "fcc75d51c0e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to order.",
+      "meaning": "我想点餐。",
+      "audio": "16c17bcd3fbdda079e02577c353a5d8e7f8055f5a4bc0133d7a6fc6bb02ae054",
+      "id": "ac62fbc2ea65",
+      "priority": 1,
+      "group": "fcc75d51c0e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The bill, please.",
+      "meaningInSourceLanguage": "请给我账单。",
+      "id": "fe57a6c5ed37",
+      "priority": 0,
+      "group": "a57b31808883"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The bill, please.",
+      "meaning": "请给我账单。",
+      "audio": "39f415d53e9e778039eae12c4ea7402719c259af03594b3d5476fbd405b9126a",
+      "id": "52bd92dfe918",
+      "priority": 1,
+      "group": "a57b31808883"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A table for two.",
+      "meaningInSourceLanguage": "两个人的桌子。",
+      "id": "70da0c7115ec",
+      "priority": 0,
+      "group": "1fa7cdf17d2c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A table for two.",
+      "meaning": "两个人的桌子。",
+      "audio": "e4de437b0a8e138470c6581afbbaf9939b29aff19ae32c6a64101b62d09017b8",
+      "id": "13a913623821",
+      "priority": 1,
+      "group": "1fa7cdf17d2c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "This is very good.",
+      "meaningInSourceLanguage": "这个非常好。",
+      "id": "b309674d9eb8",
+      "priority": 0,
+      "group": "88364901d1c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "This is very good.",
+      "meaning": "这个非常好。",
+      "audio": "0797f61dc8c4f9ed9e6ebece1baa332e1684b19739bdd7de0153244ae1e3b0fe",
+      "id": "9a71597effc7",
+      "priority": 1,
+      "group": "88364901d1c8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "menu",
+      "meaningInSourceLanguage": "菜单",
+      "id": "4950b3b09108",
+      "priority": 0,
+      "group": "a1e9b76e8daf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "menu"
+      ],
+      "phrase": [
+        {
+          "word": "菜单",
+          "definition": "menu"
+        }
+      ],
+      "id": "df11a762d541",
+      "priority": 1,
+      "group": "a1e9b76e8daf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "menu",
+      "meaning": "菜单",
+      "audio": "de339828ac07cf73ce6c3a8e951e45f8af28b4975a87d3d0b95c96e498e8cae6",
+      "id": "eeeb7158e5e3",
+      "priority": 1,
+      "group": "a1e9b76e8daf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "waiter",
+      "meaningInSourceLanguage": "服务员",
+      "id": "b3b892c39148",
+      "priority": 0,
+      "group": "54152b31995b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "waiter"
+      ],
+      "phrase": [
+        {
+          "word": "服务员",
+          "definition": "waiter"
+        }
+      ],
+      "id": "bfe235491a9b",
+      "priority": 1,
+      "group": "54152b31995b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waiter",
+      "meaning": "服务员",
+      "audio": "e001ee8b039f01acc403519a97337bc390240837e0743f39360bacba9d81706a",
+      "id": "627b99c041cb",
+      "priority": 1,
+      "group": "54152b31995b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bill",
+      "meaningInSourceLanguage": "账单",
+      "id": "44c4ee99101a",
+      "priority": 0,
+      "group": "469a0b654bc7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bill"
+      ],
+      "phrase": [
+        {
+          "word": "账单",
+          "definition": "bill"
+        }
+      ],
+      "id": "eb4776c9f307",
+      "priority": 1,
+      "group": "469a0b654bc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bill",
+      "meaning": "账单",
+      "audio": "e86055dbb6db8b4b8e239e4fb80d71049bea23971cb4f83b8d3e5c23b3bfaa1a",
+      "id": "16243c35184d",
+      "priority": 1,
+      "group": "469a0b654bc7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "table",
+      "meaningInSourceLanguage": "桌子",
+      "id": "84c7aa608a50",
+      "priority": 0,
+      "group": "32ff1c742981"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "table"
+      ],
+      "phrase": [
+        {
+          "word": "桌子",
+          "definition": "table"
+        }
+      ],
+      "id": "0f7bdf2cbbcd",
+      "priority": 1,
+      "group": "32ff1c742981"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "table",
+      "meaning": "桌子",
+      "audio": "bd916c21d66d17361f048386375b02d9dc617eab4f9f1f21b68d7ab3d33f3182",
+      "id": "0e351a441771",
+      "priority": 1,
+      "group": "32ff1c742981"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "fork",
+      "meaningInSourceLanguage": "叉子",
+      "id": "6a6a2ac072e5",
+      "priority": 0,
+      "group": "c6bfcea58395"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "fork"
+      ],
+      "phrase": [
+        {
+          "word": "叉子",
+          "definition": "fork"
+        }
+      ],
+      "id": "a27ea67e09dd",
+      "priority": 1,
+      "group": "c6bfcea58395"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fork",
+      "meaning": "叉子",
+      "audio": "440e9a1fa9453d09889049fdb48c1046de132f848b4143b68f01481e67aa5638",
+      "id": "56f731dc35af",
+      "priority": 1,
+      "group": "c6bfcea58395"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "knife",
+      "meaningInSourceLanguage": "刀",
+      "id": "703289b091ba",
+      "priority": 0,
+      "group": "fb97c0d0d972"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "knife"
+      ],
+      "phrase": [
+        {
+          "word": "刀",
+          "definition": "knife"
+        }
+      ],
+      "id": "9d63795e7720",
+      "priority": 1,
+      "group": "fb97c0d0d972"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "knife",
+      "meaning": "刀",
+      "audio": "969754217ded3e8e935e992fb3cbe8d27425ad7d774313c4581817ac6f7e6a7b",
+      "id": "663bacdd98da",
+      "priority": 1,
+      "group": "fb97c0d0d972"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "spoon",
+      "meaningInSourceLanguage": "勺子",
+      "id": "21862b80ab5e",
+      "priority": 0,
+      "group": "f47c6e3234e2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "spoon"
+      ],
+      "phrase": [
+        {
+          "word": "勺子",
+          "definition": "spoon"
+        }
+      ],
+      "id": "826da348b845",
+      "priority": 1,
+      "group": "f47c6e3234e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spoon",
+      "meaning": "勺子",
+      "audio": "6a6080a4d4c7932eb3684b4ac4c18594cc173f05f6c465e11aefc59ce9bed324",
+      "id": "1720d6c836eb",
+      "priority": 1,
+      "group": "f47c6e3234e2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "plate",
+      "meaningInSourceLanguage": "盘子",
+      "id": "9b24e00c0f1f",
+      "priority": 0,
+      "group": "20942e495411"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "plate"
+      ],
+      "phrase": [
+        {
+          "word": "盘子",
+          "definition": "plate"
+        }
+      ],
+      "id": "df5b18ddecf2",
+      "priority": 1,
+      "group": "20942e495411"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plate",
+      "meaning": "盘子",
+      "audio": "99eb2cb7dcf00b37370acb40e18c0c3ef72f06d89421fc807a92c557a68ce4c2",
+      "id": "f5447ae68fb6",
+      "priority": 1,
+      "group": "20942e495411"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cup",
+      "meaningInSourceLanguage": "杯子",
+      "id": "adbd72a1dc2a",
+      "priority": 0,
+      "group": "d7e7c6c0fe77"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cup"
+      ],
+      "phrase": [
+        {
+          "word": "杯子",
+          "definition": "cup"
+        }
+      ],
+      "id": "fd0ac93f8991",
+      "priority": 1,
+      "group": "d7e7c6c0fe77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cup",
+      "meaning": "杯子",
+      "audio": "0b37b5206e32ac7f37504d67effaef44a07fb5b2e8f71f518357e2b2a9e23f41",
+      "id": "74c8ffdf213a",
+      "priority": 1,
+      "group": "d7e7c6c0fe77"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tip",
+      "meaningInSourceLanguage": "小费",
+      "id": "5954871cc10b",
+      "priority": 0,
+      "group": "e383dc867f6d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tip"
+      ],
+      "phrase": [
+        {
+          "word": "小费",
+          "definition": "tip"
+        }
+      ],
+      "id": "7148f233a046",
+      "priority": 1,
+      "group": "e383dc867f6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tip",
+      "meaning": "小费",
+      "audio": "dcd037f6423914c52d08a719ea9ecfe3b7342d64d98a0bc8bc07ba45e4c54c5f",
+      "id": "51cf3c9220f0",
+      "priority": 1,
+      "group": "e383dc867f6d"
+    }
+  ]
+}

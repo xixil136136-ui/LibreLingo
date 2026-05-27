@@ -1,0 +1,70 @@
+Skill:
+  Name: Basic Foods
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 水
+    Translation: 水
+  - Word: ご飯
+    Translation: 米饭
+  - Word: パン
+    Translation: 面包
+  - Word: 牛乳
+    Translation: 牛奶
+  - Word: 卵
+    Translation: 鸡蛋
+  - Word: 魚
+    Translation: 鱼
+  - Word: 肉
+    Translation: 肉
+  - Word: 野菜
+    Translation: 蔬菜
+  - Word: 果物
+    Translation: 水果
+  - Word: お茶
+    Translation: 茶
+  - Word: コーヒー
+    Translation: 咖啡
+
+Phrases:
+  - Phrase: 水をください。
+    Translation: 请给我水。
+  - Phrase: ご飯を食べます。
+    Translation: 吃饭。
+  - Phrase: お茶が好きです。
+    Translation: 我喜欢喝茶。
+  - Phrase: 美味しいですね。
+    Translation: 很好吃呢。
+
+Mini-dictionary:
+  Japanese:
+    - お茶: 茶
+    - 牛乳: 牛奶
+    - 水: 水
+    - 肉: 肉
+    - パン: 面包
+    - 野菜: 蔬菜
+    - 魚: 鱼
+    - 果物: 水果
+    - 卵: 鸡蛋
+    - コーヒー: 咖啡
+    - ご飯: 米饭
+  Chinese:
+    - 水: 水
+    - 面包: パン
+    - 肉: 肉
+    - 咖啡: コーヒー
+    - 鱼: 魚
+    - 牛奶: 牛乳
+    - 蔬菜: 野菜
+    - 茶: お茶
+    - 水果: 果物
+    - 米饭: ご飯
+    - 鸡蛋: 卵

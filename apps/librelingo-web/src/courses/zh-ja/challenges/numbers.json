@@ -1,0 +1,397 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "一、二、三。",
+      "meaningInSourceLanguage": "一、二、三。",
+      "id": "ac83331706f6",
+      "priority": 0,
+      "group": "bb55c7c63a5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "一、二、三。",
+      "meaning": "一、二、三。",
+      "audio": "2d310dfce06bf975c3ee4fecdc10e5e97b2a5b3a0309a6dda9c4816af5bdf8eb",
+      "id": "2f56fbdd6784",
+      "priority": 1,
+      "group": "bb55c7c63a5d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "五時です。",
+      "meaningInSourceLanguage": "现在五点钟。",
+      "id": "e7b7fa09e88a",
+      "priority": 0,
+      "group": "a79a8fc29da8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "五時です。",
+      "meaning": "现在五点钟。",
+      "audio": "43ec5043605f121c69059a197defb8604fe73a58cb4acd868e52f7da2b757b9d",
+      "id": "5f1bb45f05ad",
+      "priority": 1,
+      "group": "a79a8fc29da8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "十人います。",
+      "meaningInSourceLanguage": "有十个人。",
+      "id": "bda2aec847ce",
+      "priority": 0,
+      "group": "415e9095a30d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "十人います。",
+      "meaning": "有十个人。",
+      "audio": "a5fa986adc42129af3ff651ff783606bb282d1b50282b932e05b1b73a8a5b0f8",
+      "id": "459e0f7020f3",
+      "priority": 1,
+      "group": "415e9095a30d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "一",
+      "meaningInSourceLanguage": "一（いち）",
+      "id": "1c37745a3ce3",
+      "priority": 0,
+      "group": "cf42c32cd29f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "一"
+      ],
+      "phrase": [
+        {
+          "word": "一（いち）",
+          "definition": "一"
+        }
+      ],
+      "id": "5ddab4a13503",
+      "priority": 1,
+      "group": "cf42c32cd29f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "一",
+      "meaning": "一（いち）",
+      "audio": "fa564a5d3f27704928a5fbeff0d30ae67d286cf2bf926e021e762ab7d5a5a34c",
+      "id": "1bb4b43389d5",
+      "priority": 1,
+      "group": "cf42c32cd29f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "二",
+      "meaningInSourceLanguage": "二（に）",
+      "id": "6c7d6be1c525",
+      "priority": 0,
+      "group": "d5dd95e07775"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "二"
+      ],
+      "phrase": [
+        {
+          "word": "二（に）",
+          "definition": "二"
+        }
+      ],
+      "id": "6f460146215b",
+      "priority": 1,
+      "group": "d5dd95e07775"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "二",
+      "meaning": "二（に）",
+      "audio": "2c2aa81205ce12c347b23b27c404e653556002aae8ac0cb11f1f051e8d538a0d",
+      "id": "09d10d6f1039",
+      "priority": 1,
+      "group": "d5dd95e07775"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "三",
+      "meaningInSourceLanguage": "三（さん）",
+      "id": "827513c619b1",
+      "priority": 0,
+      "group": "908cdeab15eb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "三"
+      ],
+      "phrase": [
+        {
+          "word": "三（さん）",
+          "definition": "三"
+        }
+      ],
+      "id": "6db33fc12430",
+      "priority": 1,
+      "group": "908cdeab15eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "三",
+      "meaning": "三（さん）",
+      "audio": "25e23e9a75a2092b39a7e18bbe3d8f739e6daf19f88621777ce5137dad22737c",
+      "id": "6c0f567d2f12",
+      "priority": 1,
+      "group": "908cdeab15eb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "四",
+      "meaningInSourceLanguage": "四（し/よん）",
+      "id": "d1380e4ddb64",
+      "priority": 0,
+      "group": "e1534066abbb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "四"
+      ],
+      "phrase": [
+        {
+          "word": "四（し/よん）",
+          "definition": "四"
+        }
+      ],
+      "id": "adbe081b0891",
+      "priority": 1,
+      "group": "e1534066abbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "四",
+      "meaning": "四（し/よん）",
+      "audio": "639f1d9e87a7851133f70ded0d8aec23ad8247e32c0a35a16566c96c7461cb3f",
+      "id": "ba183cd0c785",
+      "priority": 1,
+      "group": "e1534066abbb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "五",
+      "meaningInSourceLanguage": "五（ご）",
+      "id": "bd438f928592",
+      "priority": 0,
+      "group": "d14e35f0f7fa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "五"
+      ],
+      "phrase": [
+        {
+          "word": "五（ご）",
+          "definition": "五"
+        }
+      ],
+      "id": "2e94f3950e85",
+      "priority": 1,
+      "group": "d14e35f0f7fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "五",
+      "meaning": "五（ご）",
+      "audio": "e9ecd8aadea0f49ef2bfaf38476f1613ea428c993c92f60bba9bf63694c2ca2c",
+      "id": "b6a7a62563b6",
+      "priority": 1,
+      "group": "d14e35f0f7fa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "六",
+      "meaningInSourceLanguage": "六（ろく）",
+      "id": "ce729456f590",
+      "priority": 0,
+      "group": "4e03b695cd0f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "六"
+      ],
+      "phrase": [
+        {
+          "word": "六（ろく）",
+          "definition": "六"
+        }
+      ],
+      "id": "d98181c87cf5",
+      "priority": 1,
+      "group": "4e03b695cd0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "六",
+      "meaning": "六（ろく）",
+      "audio": "857b7d762869c832b975b08fbcf1fa3e08fd1049c68599c7db0de025b0773123",
+      "id": "15817a0a3e4e",
+      "priority": 1,
+      "group": "4e03b695cd0f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "七",
+      "meaningInSourceLanguage": "七（しち/なな）",
+      "id": "f8bf352bbe61",
+      "priority": 0,
+      "group": "e9f5296b6906"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "七"
+      ],
+      "phrase": [
+        {
+          "word": "七（しち/なな）",
+          "definition": "七"
+        }
+      ],
+      "id": "56064cb758ca",
+      "priority": 1,
+      "group": "e9f5296b6906"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "七",
+      "meaning": "七（しち/なな）",
+      "audio": "56bc5223ae8be4063503e6f61af5329828366acf7287dfacdade3de2f4c65bdc",
+      "id": "a98f24ae3c3c",
+      "priority": 1,
+      "group": "e9f5296b6906"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "八",
+      "meaningInSourceLanguage": "八（はち）",
+      "id": "e55e36d16a47",
+      "priority": 0,
+      "group": "5c78208929c2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "八"
+      ],
+      "phrase": [
+        {
+          "word": "八（はち）",
+          "definition": "八"
+        }
+      ],
+      "id": "20e0d458705e",
+      "priority": 1,
+      "group": "5c78208929c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "八",
+      "meaning": "八（はち）",
+      "audio": "2f6ace8300574d871d578bbc3665349c3c64adcc8e76ca089476562b46063714",
+      "id": "79cc36b5b776",
+      "priority": 1,
+      "group": "5c78208929c2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "九",
+      "meaningInSourceLanguage": "九（く/きゅう）",
+      "id": "7bf1ef9f5092",
+      "priority": 0,
+      "group": "ebb3381c4507"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "九"
+      ],
+      "phrase": [
+        {
+          "word": "九（く/きゅう）",
+          "definition": "九"
+        }
+      ],
+      "id": "b1256fc1b783",
+      "priority": 1,
+      "group": "ebb3381c4507"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "九",
+      "meaning": "九（く/きゅう）",
+      "audio": "fdf466572251911f3d035f78112987cfb35b979ab673ac40e69e6d94f0e58a25",
+      "id": "038e53c71748",
+      "priority": 1,
+      "group": "ebb3381c4507"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "十",
+      "meaningInSourceLanguage": "十（じゅう）",
+      "id": "130b09803652",
+      "priority": 0,
+      "group": "343ca5515cf3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "十"
+      ],
+      "phrase": [
+        {
+          "word": "十（じゅう）",
+          "definition": "十"
+        }
+      ],
+      "id": "f5b2a33d5685",
+      "priority": 1,
+      "group": "343ca5515cf3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "十",
+      "meaning": "十（じゅう）",
+      "audio": "09fb4c2c7d4eed511c1f064aa8c5439fad67674701b40a6a8dbc56873e5bbf33",
+      "id": "9fe351ca0ad0",
+      "priority": 1,
+      "group": "343ca5515cf3"
+    }
+  ]
+}

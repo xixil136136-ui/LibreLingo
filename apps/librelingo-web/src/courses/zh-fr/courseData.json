@@ -1,0 +1,120 @@
+{
+  "languageName": "French",
+  "languageCode": "fr",
+  "uiLanguage": "zh",
+  "specialCharacters": [
+    "é",
+    "è",
+    "ê",
+    "ë",
+    "à",
+    "â",
+    "î",
+    "ï",
+    "ô",
+    "ù",
+    "ç"
+  ],
+  "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+  "license": {
+    "name": {
+      "short": "CC BY-SA 4.0",
+      "full": "Attribution-ShareAlike 4.0 International"
+    },
+    "link": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "modules": [
+    {
+      "title": "Basics",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "bonjour",
+            "bonsoir",
+            "au revoir",
+            "merci",
+            "s'il vous plaît",
+            "pardon",
+            "oui",
+            "non",
+            "de rien",
+            "bonne journée",
+            "Bonjour, comment allez-vous ?",
+            "Merci beaucoup.",
+            "Au revoir, à demain.",
+            "Pardon, je suis en retard.",
+            "De rien, bonne journée !"
+          ],
+          "practiceHref": "greetings",
+          "id": "569673478a3d",
+          "title": "Greetings",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "un",
+            "deux",
+            "trois",
+            "quatre",
+            "cinq",
+            "six",
+            "sept",
+            "huit",
+            "neuf",
+            "dix",
+            "Un, deux, trois.",
+            "Il est cinq heures.",
+            "Il y a dix personnes."
+          ],
+          "practiceHref": "numbers",
+          "id": "38c2ea1c36d2",
+          "title": "Numbers",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Food & Drink",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "eau",
+            "pain",
+            "riz",
+            "lait",
+            "œuf",
+            "poulet",
+            "poisson",
+            "légume",
+            "fruit",
+            "thé",
+            "café",
+            "Je voudrais de l'eau.",
+            "Du pain et du lait, s'il vous plaît.",
+            "J'aime le riz.",
+            "C'est délicieux."
+          ],
+          "practiceHref": "basic-foods",
+          "id": "569673478a3d",
+          "title": "Basic Foods",
+          "levels": 3
+        }
+      ]
+    }
+  ]
+}

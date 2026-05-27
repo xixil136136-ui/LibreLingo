@@ -1,0 +1,6 @@
+Module:
+  Name: "Basics"
+
+Skills:
+  - greetings.yaml
+  - numbers.yaml

@@ -1,0 +1,119 @@
+{
+  "languageName": "Korean",
+  "languageCode": "ko",
+  "uiLanguage": "zh",
+  "specialCharacters": [
+    "가",
+    "나",
+    "다",
+    "라",
+    "마",
+    "바",
+    "사",
+    "아",
+    "자",
+    "차"
+  ],
+  "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+  "license": {
+    "name": {
+      "short": "CC BY-SA 4.0",
+      "full": "Attribution-ShareAlike 4.0 International"
+    },
+    "link": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "modules": [
+    {
+      "title": "Basics",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "안녕하세요",
+            "안녕히 계세요",
+            "감사합니다",
+            "죄송합니다",
+            "네",
+            "아니요",
+            "괜찮습니다",
+            "잠시만요",
+            "주세요",
+            "만나서 반갑습니다",
+            "안녕하세요, 반갑습니다.",
+            "감사합니다, 선생님.",
+            "죄송합니다, 늦었습니다.",
+            "네, 괜찮습니다.",
+            "안녕히 계세요, 또 만나요."
+          ],
+          "practiceHref": "greetings",
+          "id": "569673478a3d",
+          "title": "Greetings",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "일",
+            "이",
+            "삼",
+            "사",
+            "오",
+            "육",
+            "칠",
+            "팔",
+            "구",
+            "십",
+            "일, 이, 삼.",
+            "지금 다섯 시입니다.",
+            "열 명이 있습니다."
+          ],
+          "practiceHref": "numbers",
+          "id": "38c2ea1c36d2",
+          "title": "Numbers",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Food & Drink",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "물",
+            "밥",
+            "빵",
+            "우유",
+            "계란",
+            "생선",
+            "고기",
+            "야채",
+            "과일",
+            "차",
+            "커피",
+            "물 주세요.",
+            "밥을 먹습니다.",
+            "차가 좋아요.",
+            "맛있습니다."
+          ],
+          "practiceHref": "basic-foods",
+          "id": "569673478a3d",
+          "title": "Basic Foods",
+          "levels": 3
+        }
+      ]
+    }
+  ]
+}

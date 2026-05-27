@@ -1,0 +1,431 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the airport?",
+      "meaningInSourceLanguage": "机场在哪里？",
+      "id": "2e816970ffc8",
+      "priority": 0,
+      "group": "d93d433a9d7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the airport?",
+      "meaning": "机场在哪里？",
+      "audio": "215f92626c8084ca204d88052e11110489fba44fa1f2fd4dbbc77ad243076b14",
+      "id": "7b0675afe7c4",
+      "priority": 1,
+      "group": "d93d433a9d7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a taxi.",
+      "meaningInSourceLanguage": "我需要一辆出租车。",
+      "id": "cea235a7d7fe",
+      "priority": 0,
+      "group": "8dbc188faddc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a taxi.",
+      "meaning": "我需要一辆出租车。",
+      "audio": "de4ef35ffb758ddf86c0edb2fc60a79e6b4b6516128eeadaa109860fea6947a3",
+      "id": "fecff2dff90f",
+      "priority": 1,
+      "group": "8dbc188faddc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much is the ticket?",
+      "meaningInSourceLanguage": "这张票多少钱？",
+      "id": "e6a815b669cc",
+      "priority": 0,
+      "group": "0f043cf1be83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much is the ticket?",
+      "meaning": "这张票多少钱？",
+      "audio": "5ffe2cfb3934dce496f9885bfb69ea574e8ad5824ece203488f1d8799b6703c9",
+      "id": "45b73860acca",
+      "priority": 1,
+      "group": "0f043cf1be83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The train is late.",
+      "meaningInSourceLanguage": "火车晚点了。",
+      "id": "d860a1a6019e",
+      "priority": 0,
+      "group": "fdd720b7d6f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The train is late.",
+      "meaning": "火车晚点了。",
+      "audio": "b32e6990a460a45b1c9bbb3bc7b339b25be0384fcd1a936802ee859fa768de75",
+      "id": "617136db4638",
+      "priority": 1,
+      "group": "fdd720b7d6f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have a reservation.",
+      "meaningInSourceLanguage": "我有预约。",
+      "id": "56a78ba00136",
+      "priority": 0,
+      "group": "55fbefa48b7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have a reservation.",
+      "meaning": "我有预约。",
+      "audio": "f5f165735f8a4c05801c1f3b3da6f9864298cd1d94aa675529bb29ec0ac61b69",
+      "id": "acf3c2358a0a",
+      "priority": 1,
+      "group": "55fbefa48b7f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "airport",
+      "meaningInSourceLanguage": "机场",
+      "id": "59a3820884bf",
+      "priority": 0,
+      "group": "bfe9504670aa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "airport"
+      ],
+      "phrase": [
+        {
+          "word": "机场",
+          "definition": "airport"
+        }
+      ],
+      "id": "b199bbc805f7",
+      "priority": 1,
+      "group": "bfe9504670aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "airport",
+      "meaning": "机场",
+      "audio": "59fe11fa683d40ccf432f354c9213a26f4315ac923140544d9e18c2ebe40c89b",
+      "id": "94eda1a752c7",
+      "priority": 1,
+      "group": "bfe9504670aa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "train",
+      "meaningInSourceLanguage": "火车",
+      "id": "60e338599e58",
+      "priority": 0,
+      "group": "8b28932029e4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "train"
+      ],
+      "phrase": [
+        {
+          "word": "火车",
+          "definition": "train"
+        }
+      ],
+      "id": "0a13b052c56f",
+      "priority": 1,
+      "group": "8b28932029e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "train",
+      "meaning": "火车",
+      "audio": "d4483344a01a8d909daa63f7983dee51b9d1a6c9342e93e3937a8cf201693f00",
+      "id": "8999b7904f0a",
+      "priority": 1,
+      "group": "8b28932029e4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bus",
+      "meaningInSourceLanguage": "公共汽车",
+      "id": "716263a06bd2",
+      "priority": 0,
+      "group": "e57d9eed9fd9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bus"
+      ],
+      "phrase": [
+        {
+          "word": "公共汽车",
+          "definition": "bus"
+        }
+      ],
+      "id": "122fad67a7a3",
+      "priority": 1,
+      "group": "e57d9eed9fd9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bus",
+      "meaning": "公共汽车",
+      "audio": "f53ff6046350c75fc83e80b839dd09f4940ebb656c9f3ca498372818c92739d3",
+      "id": "c6dab262077d",
+      "priority": 1,
+      "group": "e57d9eed9fd9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "taxi",
+      "meaningInSourceLanguage": "出租车",
+      "id": "0f1c288e3544",
+      "priority": 0,
+      "group": "bff42e6b4b51"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "taxi"
+      ],
+      "phrase": [
+        {
+          "word": "出租车",
+          "definition": "taxi"
+        }
+      ],
+      "id": "bf5e3d10e00c",
+      "priority": 1,
+      "group": "bff42e6b4b51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "taxi",
+      "meaning": "出租车",
+      "audio": "f4ddd9900a770cc4e3e6b8e31f35caff887e895ebf11a508b805e21d73e94c73",
+      "id": "c4bbf474f1bb",
+      "priority": 1,
+      "group": "bff42e6b4b51"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "subway",
+      "meaningInSourceLanguage": "地铁",
+      "id": "777cf68d94df",
+      "priority": 0,
+      "group": "c018e9c311a2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "subway"
+      ],
+      "phrase": [
+        {
+          "word": "地铁",
+          "definition": "subway"
+        }
+      ],
+      "id": "85979e9461b4",
+      "priority": 1,
+      "group": "c018e9c311a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "subway",
+      "meaning": "地铁",
+      "audio": "38249711e1f6c148d4c7416c1b0555659d2a8556e822bea68aa9c552ffea6fa7",
+      "id": "58a68f66d4f5",
+      "priority": 1,
+      "group": "c018e9c311a2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ticket",
+      "meaningInSourceLanguage": "票",
+      "id": "a256c17a77a3",
+      "priority": 0,
+      "group": "b257d46b6341"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ticket"
+      ],
+      "phrase": [
+        {
+          "word": "票",
+          "definition": "ticket"
+        }
+      ],
+      "id": "ba7093358ab6",
+      "priority": 1,
+      "group": "b257d46b6341"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ticket",
+      "meaning": "票",
+      "audio": "cfd51f89c4c0b1603fd5b7223935aa080dec8fca6bd2d8712e1ba4a8dde81ba2",
+      "id": "28d7ace15a84",
+      "priority": 1,
+      "group": "b257d46b6341"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "passport",
+      "meaningInSourceLanguage": "护照",
+      "id": "b878c8f4b6b0",
+      "priority": 0,
+      "group": "4eb54fd7bc5f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "passport"
+      ],
+      "phrase": [
+        {
+          "word": "护照",
+          "definition": "passport"
+        }
+      ],
+      "id": "e86d34325c01",
+      "priority": 1,
+      "group": "4eb54fd7bc5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "passport",
+      "meaning": "护照",
+      "audio": "b2401e9f708d64bbd5500b983c2115a75bc9b1352bdaba7dad0084d0a2601ee3",
+      "id": "6f282db5a55d",
+      "priority": 1,
+      "group": "4eb54fd7bc5f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hotel",
+      "meaningInSourceLanguage": "酒店",
+      "id": "06f0dd16b5b1",
+      "priority": 0,
+      "group": "cacdfb225ba6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hotel"
+      ],
+      "phrase": [
+        {
+          "word": "酒店",
+          "definition": "hotel"
+        }
+      ],
+      "id": "e19b9e45042e",
+      "priority": 1,
+      "group": "cacdfb225ba6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hotel",
+      "meaning": "酒店",
+      "audio": "25cb233d96d5f0d610b38f744f13e3e4a451b08b5a077d9ba27d4c8c739a7ef8",
+      "id": "81664500965a",
+      "priority": 1,
+      "group": "cacdfb225ba6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "luggage",
+      "meaningInSourceLanguage": "行李",
+      "id": "00dd8675dbc9",
+      "priority": 0,
+      "group": "cecec45d3b87"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "luggage"
+      ],
+      "phrase": [
+        {
+          "word": "行李",
+          "definition": "luggage"
+        }
+      ],
+      "id": "684e4b5b5df7",
+      "priority": 1,
+      "group": "cecec45d3b87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "luggage",
+      "meaning": "行李",
+      "audio": "88cb8c24a036a91326ffd007f3bba52cf4aebb65fa91c7338941ab3c9010673b",
+      "id": "40efca0faf85",
+      "priority": 1,
+      "group": "cecec45d3b87"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "platform",
+      "meaningInSourceLanguage": "站台",
+      "id": "271721a9d0a0",
+      "priority": 0,
+      "group": "e3828692f922"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "platform"
+      ],
+      "phrase": [
+        {
+          "word": "站台",
+          "definition": "platform"
+        }
+      ],
+      "id": "cb0869499d82",
+      "priority": 1,
+      "group": "e3828692f922"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "platform",
+      "meaning": "站台",
+      "audio": "eb0db0ba5c022483999296c58aa2f97ded1e57011bf402e454dafdac0619af35",
+      "id": "e6b4fc967632",
+      "priority": 1,
+      "group": "e3828692f922"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+Skill:
+  Name: Restaurant
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: menu
+    Translation: 菜单
+  - Word: waiter
+    Translation: 服务员
+  - Word: bill
+    Translation: 账单
+  - Word: table
+    Translation: 桌子
+  - Word: fork
+    Translation: 叉子
+  - Word: knife
+    Translation: 刀
+  - Word: spoon
+    Translation: 勺子
+  - Word: plate
+    Translation: 盘子
+  - Word: cup
+    Translation: 杯子
+  - Word: tip
+    Translation: 小费
+
+Phrases:
+  - Phrase: Can I see the menu?
+    Translation: 我能看看菜单吗？
+  - Phrase: I'd like to order.
+    Translation: 我想点餐。
+  - Phrase: The bill, please.
+    Translation: 请给我账单。
+  - Phrase: A table for two.
+    Translation: 两个人的桌子。
+  - Phrase: This is very good.
+    Translation: 这个非常好。
+
+Mini-dictionary:
+  English:
+    - menu: 菜单
+    - tip: 小费
+    - waiter: 服务员
+    - knife: 刀
+    - plate: 盘子
+    - spoon: 勺子
+    - bill: 账单
+    - table: 桌子
+    - fork: 叉子
+    - cup: 杯子
+  Chinese:
+    - 小费: tip
+    - 刀: knife
+    - 杯子: cup
+    - 服务员: waiter
+    - 盘子: plate
+    - 勺子: spoon
+    - 叉子: fork
+    - 菜单: menu
+    - 桌子: table
+    - 账单: bill

@@ -236,5 +236,61 @@
     "source": "English",
     "target": "Dutch",
     "description": "Dutch for English speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-en",
+      "jsonFolder": "zh-en"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "english-from-chinese",
+    "source": "Chinese",
+    "target": "English",
+    "description": "English for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-ja",
+      "jsonFolder": "zh-ja"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "japanese-from-chinese",
+    "source": "Chinese",
+    "target": "Japanese",
+    "description": "Japanese for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-ko",
+      "jsonFolder": "zh-ko"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "korean-from-chinese",
+    "source": "Chinese",
+    "target": "Korean",
+    "description": "Korean for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-fr",
+      "jsonFolder": "zh-fr"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "french-from-chinese",
+    "source": "Chinese",
+    "target": "French",
+    "description": "French for Chinese speakers"
   }
 ]

@@ -1,0 +1,70 @@
+Skill:
+  Name: Greetings
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+
+New words:
+  - Word: hello
+    Translation: 你好
+  - Word: goodbye
+    Translation: 再见
+  - Word: good morning
+    Translation: 早上好
+  - Word: good evening
+    Translation: 晚上好
+  - Word: how are you
+    Translation: 你好吗
+  - Word: I'm fine
+    Translation: 我很好
+  - Word: please
+    Translation: 请
+  - Word: thank you
+    Translation: 谢谢
+  - Word: you're welcome
+    Translation: 不客气
+  - Word: sorry
+    Translation: 对不起
+
+Phrases:
+  - Phrase: Hello, how are you?
+    Translation: 你好，你好吗？
+  - Phrase: Good morning, thank you.
+    Translation: 早上好，谢谢。
+  - Phrase: I'm fine, thank you.
+    Translation: 我很好，谢谢。
+  - Phrase: Goodbye, see you later.
+    Translation: 再见，回头见。
+  - Phrase: Please, come in.
+    Translation: 请进。
+
+Mini-dictionary:
+  English:
+    - hello: 你好
+    - goodbye: 再见
+    - good morning: 早上好
+    - good evening: 晚上好
+    - how are you: 你好吗
+    - I'm fine: 我很好
+    - please: 请
+    - thank you: 谢谢
+    - you're welcome: 不客气
+    - sorry: 对不起
+    - see you later: 回头见
+    - come in: 进来
+  Chinese:
+    - 你好: hello
+    - 再见: goodbye
+    - 早上好: good morning
+    - 晚上好: good evening
+    - 你好吗: how are you
+    - 我很好: I'm fine
+    - 请: please
+    - 谢谢: thank you
+    - 不客气: you're welcome
+    - 对不起: sorry
+    - 回头见: see you later
+    - 进来: come in

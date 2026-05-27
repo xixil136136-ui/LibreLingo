@@ -1,0 +1,72 @@
+Skill:
+  Name: Numbers
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: one
+    Translation: 一
+  - Word: two
+    Translation: 二
+  - Word: three
+    Translation: 三
+  - Word: four
+    Translation: 四
+  - Word: five
+    Translation: 五
+  - Word: six
+    Translation: 六
+  - Word: seven
+    Translation: 七
+  - Word: eight
+    Translation: 八
+  - Word: nine
+    Translation: 九
+  - Word: ten
+    Translation: 十
+
+Phrases:
+  - Phrase: One, two, three.
+    Translation: 一、二、三。
+  - Phrase: Four and five.
+    Translation: 四和五。
+  - Phrase: Six, seven, eight.
+    Translation: 六、七、八。
+  - Phrase: Nine and ten.
+    Translation: 九和十。
+  - Phrase: It's five o'clock.
+    Translation: 现在五点钟。
+
+Mini-dictionary:
+  English:
+    - one: 一
+    - two: 二
+    - three: 三
+    - four: 四
+    - five: 五
+    - six: 六
+    - seven: 七
+    - eight: 八
+    - nine: 九
+    - ten: 十
+    - o'clock: 点钟
+    - and: 和
+  Chinese:
+    - 一: one
+    - 二: two
+    - 三: three
+    - 四: four
+    - 五: five
+    - 六: six
+    - 七: seven
+    - 八: eight
+    - 九: nine
+    - 十: ten
+    - 点钟: o'clock
+    - 和: and

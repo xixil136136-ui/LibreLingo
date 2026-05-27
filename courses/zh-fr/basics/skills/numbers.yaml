@@ -1,0 +1,64 @@
+Skill:
+  Name: Numbers
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: un
+    Translation: 一
+  - Word: deux
+    Translation: 二
+  - Word: trois
+    Translation: 三
+  - Word: quatre
+    Translation: 四
+  - Word: cinq
+    Translation: 五
+  - Word: six
+    Translation: 六
+  - Word: sept
+    Translation: 七
+  - Word: huit
+    Translation: 八
+  - Word: neuf
+    Translation: 九
+  - Word: dix
+    Translation: 十
+
+Phrases:
+  - Phrase: Un, deux, trois.
+    Translation: 一、二、三。
+  - Phrase: Il est cinq heures.
+    Translation: 现在五点钟。
+  - Phrase: Il y a dix personnes.
+    Translation: 有十个人。
+
+Mini-dictionary:
+  French:
+    - sept: 七
+    - dix: 十
+    - neuf: 九
+    - huit: 八
+    - deux: 二
+    - six: 六
+    - trois: 三
+    - quatre: 四
+    - cinq: 五
+    - un: 一
+  Chinese:
+    - 七: sept
+    - 八: huit
+    - 四: quatre
+    - 九: neuf
+    - 三: trois
+    - 二: deux
+    - 一: un
+    - 十: dix
+    - 五: cinq
+    - 六: six

@@ -1,0 +1,66 @@
+Skill:
+  Name: Greetings
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+
+New words:
+  - Word: bonjour
+    Translation: 你好/早上好
+  - Word: bonsoir
+    Translation: 晚上好
+  - Word: au revoir
+    Translation: 再见
+  - Word: merci
+    Translation: 谢谢
+  - Word: s'il vous plaît
+    Translation: 请
+  - Word: pardon
+    Translation: 对不起
+  - Word: oui
+    Translation: 是的
+  - Word: non
+    Translation: 不是
+  - Word: de rien
+    Translation: 不客气
+  - Word: bonne journée
+    Translation: 祝好
+
+Phrases:
+  - Phrase: Bonjour, comment allez-vous ?
+    Translation: 你好，您好吗？
+  - Phrase: Merci beaucoup.
+    Translation: 非常感谢。
+  - Phrase: Au revoir, à demain.
+    Translation: 再见，明天见。
+  - Phrase: Pardon, je suis en retard.
+    Translation: 对不起，我迟到了。
+  - Phrase: De rien, bonne journée !
+    Translation: 不客气，祝好！
+
+Mini-dictionary:
+  French:
+    - bonsoir: 晚上好
+    - non: 不是
+    - de rien: 不客气
+    - s'il vous plaît: 请
+    - bonne journée: 祝好
+    - oui: 是的
+    - bonjour: 你好/早上好
+    - pardon: 对不起
+    - au revoir: 再见
+    - merci: 谢谢
+  Chinese:
+    - 再见: au revoir
+    - 请: s'il vous plaît
+    - 晚上好: bonsoir
+    - 不是: non
+    - 祝好: bonne journée
+    - 你好/早上好: bonjour
+    - 是的: oui
+    - 谢谢: merci
+    - 对不起: pardon
+    - 不客气: de rien

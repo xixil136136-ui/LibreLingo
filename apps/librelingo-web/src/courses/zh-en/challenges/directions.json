@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the station?",
+      "meaningInSourceLanguage": "车站在哪里？",
+      "id": "78ee0000c603",
+      "priority": 0,
+      "group": "3bd2240f1362"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the station?",
+      "meaning": "车站在哪里？",
+      "audio": "bb34d6d8028f7b7a1d60b78c214158826c275545fa545817c8273b6812f7159c",
+      "id": "090b63a4510f",
+      "priority": 1,
+      "group": "3bd2240f1362"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Turn left here.",
+      "meaningInSourceLanguage": "在这里左转。",
+      "id": "eafb8da603a7",
+      "priority": 0,
+      "group": "34cd4de25dbe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Turn left here.",
+      "meaning": "在这里左转。",
+      "audio": "a9a4d0116f7a35f5e707d2ed0125d131ab8dd64f00980816266b7a1f43a99547",
+      "id": "1deae52203f0",
+      "priority": 1,
+      "group": "34cd4de25dbe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Go straight ahead.",
+      "meaningInSourceLanguage": "一直往前走。",
+      "id": "07479fee7b94",
+      "priority": 0,
+      "group": "6b6613baf5bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Go straight ahead.",
+      "meaning": "一直往前走。",
+      "audio": "e53a874f522279ee5164c93174728afbba10cb3df15e312b214f8cb50c0e3ede",
+      "id": "fddeea74d53b",
+      "priority": 1,
+      "group": "6b6613baf5bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is it far from here?",
+      "meaningInSourceLanguage": "离这里远吗？",
+      "id": "4292071b7747",
+      "priority": 0,
+      "group": "9d6798a1abf4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is it far from here?",
+      "meaning": "离这里远吗？",
+      "audio": "7a7251efb4743189d101d9a1936d193d170e7e7bbb415eb36a541d166b1e482f",
+      "id": "ba4ef0fd450f",
+      "priority": 1,
+      "group": "9d6798a1abf4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a map.",
+      "meaningInSourceLanguage": "我需要一张地图。",
+      "id": "bc8525aac21d",
+      "priority": 0,
+      "group": "fbe261a97540"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a map.",
+      "meaning": "我需要一张地图。",
+      "audio": "cd11683a02e8a090094b413114ee2981523f8bf512df8b5e799dfe379ad61f7d",
+      "id": "d32df9f3b1d0",
+      "priority": 1,
+      "group": "fbe261a97540"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "left",
+      "meaningInSourceLanguage": "左边",
+      "id": "119b95c85976",
+      "priority": 0,
+      "group": "ae7922759c02"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "left"
+      ],
+      "phrase": [
+        {
+          "word": "左边",
+          "definition": "left"
+        }
+      ],
+      "id": "040ef03b05dd",
+      "priority": 1,
+      "group": "ae7922759c02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "left",
+      "meaning": "左边",
+      "audio": "ac01873e141f860713c70f7fb4d1edc542243e10da574548c9546de44fc36ee7",
+      "id": "4a1e1a0e4d27",
+      "priority": 1,
+      "group": "ae7922759c02"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "right",
+      "meaningInSourceLanguage": "右边",
+      "id": "7f7a1ba0e1c2",
+      "priority": 0,
+      "group": "576187f3a5ff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "right"
+      ],
+      "phrase": [
+        {
+          "word": "右边",
+          "definition": "right"
+        }
+      ],
+      "id": "52e631c1587b",
+      "priority": 1,
+      "group": "576187f3a5ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right",
+      "meaning": "右边",
+      "audio": "3817fefa6522fc9503c019f1b712a3aebad25bcae74d92181bb4eebd882ba1a6",
+      "id": "4eb187712e2b",
+      "priority": 1,
+      "group": "576187f3a5ff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "straight",
+      "meaningInSourceLanguage": "直走",
+      "id": "bc3eb5904eae",
+      "priority": 0,
+      "group": "53124f76a563"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "straight"
+      ],
+      "phrase": [
+        {
+          "word": "直走",
+          "definition": "straight"
+        }
+      ],
+      "id": "b3e20c2a1754",
+      "priority": 1,
+      "group": "53124f76a563"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "straight",
+      "meaning": "直走",
+      "audio": "49fbf82108d60efa3519545a15d77bbfc3a88d65dd98c3ca8aa8887cfcfa037b",
+      "id": "dfda223bae30",
+      "priority": 1,
+      "group": "53124f76a563"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "here",
+      "meaningInSourceLanguage": "这里",
+      "id": "0cdd1fe83e1f",
+      "priority": 0,
+      "group": "cc661eb84449"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "here"
+      ],
+      "phrase": [
+        {
+          "word": "这里",
+          "definition": "here"
+        }
+      ],
+      "id": "06426f3a153a",
+      "priority": 1,
+      "group": "cc661eb84449"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "here",
+      "meaning": "这里",
+      "audio": "fa37a3744c652261a6ba01828f0d5835ace5369949e7b18bc4d7b3108eb6b93f",
+      "id": "e3a1d2e83dcc",
+      "priority": 1,
+      "group": "cc661eb84449"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "there",
+      "meaningInSourceLanguage": "那里",
+      "id": "29ddf698d7bf",
+      "priority": 0,
+      "group": "984ccca4542e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "there"
+      ],
+      "phrase": [
+        {
+          "word": "那里",
+          "definition": "there"
+        }
+      ],
+      "id": "cb5e30841921",
+      "priority": 1,
+      "group": "984ccca4542e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "there",
+      "meaning": "那里",
+      "audio": "898347e708cc74b2d2201b7a020138796a3a4fefa9c746019955b5e8c9d06174",
+      "id": "3fe51230b814",
+      "priority": 1,
+      "group": "984ccca4542e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "near",
+      "meaningInSourceLanguage": "附近",
+      "id": "9e7115d29c93",
+      "priority": 0,
+      "group": "25915f2365cf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "near"
+      ],
+      "phrase": [
+        {
+          "word": "附近",
+          "definition": "near"
+        }
+      ],
+      "id": "acde513f48d0",
+      "priority": 1,
+      "group": "25915f2365cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "near",
+      "meaning": "附近",
+      "audio": "0f56be5ac4de839f22f329d53d7197e4a8186ee196e31f070239b44b3a3b5a1f",
+      "id": "487efcd49eec",
+      "priority": 1,
+      "group": "25915f2365cf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "far",
+      "meaningInSourceLanguage": "远",
+      "id": "0f3ea51c2d7e",
+      "priority": 0,
+      "group": "19011bfdeea0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "far"
+      ],
+      "phrase": [
+        {
+          "word": "远",
+          "definition": "far"
+        }
+      ],
+      "id": "79e5a191dd31",
+      "priority": 1,
+      "group": "19011bfdeea0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "far",
+      "meaning": "远",
+      "audio": "d330faf7748a63a3e43fbf30791c822c50a9ebdcbb0935d19ea020ef9e04dcc9",
+      "id": "b2fc2557d243",
+      "priority": 1,
+      "group": "19011bfdeea0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "map",
+      "meaningInSourceLanguage": "地图",
+      "id": "8516a2e4a8e7",
+      "priority": 0,
+      "group": "b67f8816bac1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "map"
+      ],
+      "phrase": [
+        {
+          "word": "地图",
+          "definition": "map"
+        }
+      ],
+      "id": "3bc8663e5584",
+      "priority": 1,
+      "group": "b67f8816bac1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "map",
+      "meaning": "地图",
+      "audio": "64af9254b78de088bab189584700e389fc0e69397581e1d988ca030d7b937254",
+      "id": "d492866414aa",
+      "priority": 1,
+      "group": "b67f8816bac1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "street",
+      "meaningInSourceLanguage": "街道",
+      "id": "a636e08799d1",
+      "priority": 0,
+      "group": "8b6e9d8e51ea"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "street"
+      ],
+      "phrase": [
+        {
+          "word": "街道",
+          "definition": "street"
+        }
+      ],
+      "id": "2ce4610f759d",
+      "priority": 1,
+      "group": "8b6e9d8e51ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "street",
+      "meaning": "街道",
+      "audio": "cb265445584945e662d51a94853551a91de9d88166ac478b0f71418921b1cea7",
+      "id": "4851a06b41cb",
+      "priority": 1,
+      "group": "8b6e9d8e51ea"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "road",
+      "meaningInSourceLanguage": "路",
+      "id": "0b26a73044ae",
+      "priority": 0,
+      "group": "14fca6b51deb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "road"
+      ],
+      "phrase": [
+        {
+          "word": "路",
+          "definition": "road"
+        }
+      ],
+      "id": "1be2a31304eb",
+      "priority": 1,
+      "group": "14fca6b51deb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "road",
+      "meaning": "路",
+      "audio": "5e391f80e609dea96c783b11d13d2581799d7842747f34df3ba7cbab067acc4c",
+      "id": "c3b6ade01152",
+      "priority": 1,
+      "group": "14fca6b51deb"
+    }
+  ]
+}

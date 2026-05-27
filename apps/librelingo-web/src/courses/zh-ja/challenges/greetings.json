@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "こんにちは、元気ですか？",
+      "meaningInSourceLanguage": "你好，你好吗？",
+      "id": "8ffa271ebd26",
+      "priority": 0,
+      "group": "e23cc29c05fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "こんにちは、元気ですか？",
+      "meaning": "你好，你好吗？",
+      "audio": "eaeb7840269684d30865c5666afb70171b77b8f3ceefcc2bb7b479c0fc06280d",
+      "id": "c0081484a419",
+      "priority": 1,
+      "group": "e23cc29c05fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ありがとうございます。",
+      "meaningInSourceLanguage": "非常感谢。",
+      "id": "62b3357ee7a6",
+      "priority": 0,
+      "group": "c4a260755743"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ありがとうございます。",
+      "meaning": "非常感谢。",
+      "audio": "23b10260af8d24600f4c461b1ec03920ce88a61549b0446328171b3f10854cd6",
+      "id": "2f389f7c3945",
+      "priority": 1,
+      "group": "c4a260755743"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "すみません、ちょっと待ってください。",
+      "meaningInSourceLanguage": "对不起，请稍等。",
+      "id": "a2f1767c4dc6",
+      "priority": 0,
+      "group": "1597f9e2c848"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "すみません、ちょっと待ってください。",
+      "meaning": "对不起，请稍等。",
+      "audio": "bbfe06bdeb7da316e675a2addd8ce37f5a9c8481e48db6389f00f544ac6a9706",
+      "id": "17b7c3da3e66",
+      "priority": 1,
+      "group": "1597f9e2c848"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "おはようございます、先生。",
+      "meaningInSourceLanguage": "早上好，老师。",
+      "id": "0a664638b509",
+      "priority": 0,
+      "group": "47baa180ba75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "おはようございます、先生。",
+      "meaning": "早上好，老师。",
+      "audio": "ca07995d79d1c0edd7e241f426892c6ea83b5bb30e1c9042269c0fe43d7cbaa7",
+      "id": "f182f936b28e",
+      "priority": 1,
+      "group": "47baa180ba75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "さようなら、また会いましょう。",
+      "meaningInSourceLanguage": "再见，后会有期。",
+      "id": "ac06228bb649",
+      "priority": 0,
+      "group": "b8cb2b2cbfbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "さようなら、また会いましょう。",
+      "meaning": "再见，后会有期。",
+      "audio": "2109e995d60f73503b8a205bfd1700fb8e8f410fce5a3f7b061252de81eccfc5",
+      "id": "381614f91f18",
+      "priority": 1,
+      "group": "b8cb2b2cbfbb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "こんにちは",
+      "meaningInSourceLanguage": "你好",
+      "id": "e9c455fcda47",
+      "priority": 0,
+      "group": "f1bf13ec1980"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "こんにちは"
+      ],
+      "phrase": [
+        {
+          "word": "你好",
+          "definition": "こんにちは"
+        }
+      ],
+      "id": "5f2ed963c0a2",
+      "priority": 1,
+      "group": "f1bf13ec1980"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "こんにちは",
+      "meaning": "你好",
+      "audio": "bb1fb3790826e9c56c29387e1d3f513270a249cb1a19c5de213be4ce1ba6a736",
+      "id": "a999416aeb6b",
+      "priority": 1,
+      "group": "f1bf13ec1980"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "さようなら",
+      "meaningInSourceLanguage": "再见",
+      "id": "a2eed471ba26",
+      "priority": 0,
+      "group": "9abc84cf5d43"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "さようなら"
+      ],
+      "phrase": [
+        {
+          "word": "再见",
+          "definition": "さようなら"
+        }
+      ],
+      "id": "2efd3081593b",
+      "priority": 1,
+      "group": "9abc84cf5d43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "さようなら",
+      "meaning": "再见",
+      "audio": "8899c6797a4810ab72bb1fc1ef55607befbbe892f6f2ebaa6a78eb79b64a938c",
+      "id": "fc3b61f9f905",
+      "priority": 1,
+      "group": "9abc84cf5d43"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "おはようございます",
+      "meaningInSourceLanguage": "早上好",
+      "id": "ac2acc09339e",
+      "priority": 0,
+      "group": "937c78b378ed"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "おはようございます"
+      ],
+      "phrase": [
+        {
+          "word": "早上好",
+          "definition": "おはようございます"
+        }
+      ],
+      "id": "749a94d10599",
+      "priority": 1,
+      "group": "937c78b378ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "おはようございます",
+      "meaning": "早上好",
+      "audio": "89032c00af1a9e1f42871b6411e3e642c5d99f466fc3ef3a15b3aa95aa2ef5bb",
+      "id": "4ac09c8a95ac",
+      "priority": 1,
+      "group": "937c78b378ed"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "こんばんは",
+      "meaningInSourceLanguage": "晚上好",
+      "id": "58d2a9b1b501",
+      "priority": 0,
+      "group": "7d3e6adb6e03"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "こんばんは"
+      ],
+      "phrase": [
+        {
+          "word": "晚上好",
+          "definition": "こんばんは"
+        }
+      ],
+      "id": "c3bc6f653326",
+      "priority": 1,
+      "group": "7d3e6adb6e03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "こんばんは",
+      "meaning": "晚上好",
+      "audio": "f296f32478d76065e35e9cd53faa053f73ef449665199efe70c4a8e48eb9d6c5",
+      "id": "3049989471cc",
+      "priority": 1,
+      "group": "7d3e6adb6e03"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ありがとう",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "0a78e415133c",
+      "priority": 0,
+      "group": "df123c4d078d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ありがとう"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "ありがとう"
+        }
+      ],
+      "id": "edbbdc23e2a0",
+      "priority": 1,
+      "group": "df123c4d078d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ありがとう",
+      "meaning": "谢谢",
+      "audio": "9c5eb4968b4068dcb103afd89d20f54995554c8ad6e9f3aedf4eb39646c7697c",
+      "id": "133b353df966",
+      "priority": 1,
+      "group": "df123c4d078d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "すみません",
+      "meaningInSourceLanguage": "对不起/不好意思",
+      "id": "0c7ef7802d1e",
+      "priority": 0,
+      "group": "2f3a9ab38b63"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "すみません"
+      ],
+      "phrase": [
+        {
+          "word": "对不起/不好意思",
+          "definition": "すみません"
+        }
+      ],
+      "id": "ed970b1f40bc",
+      "priority": 1,
+      "group": "2f3a9ab38b63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "すみません",
+      "meaning": "对不起/不好意思",
+      "audio": "90c2f5c216a5ee12d514ca6c96a02ecdc4943eaab8765bddd2618662ea73b955",
+      "id": "7f976f15ff5c",
+      "priority": 1,
+      "group": "2f3a9ab38b63"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "はい",
+      "meaningInSourceLanguage": "是的",
+      "id": "d56fd8637331",
+      "priority": 0,
+      "group": "caa41408fc90"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "はい"
+      ],
+      "phrase": [
+        {
+          "word": "是的",
+          "definition": "はい"
+        }
+      ],
+      "id": "ebf66d7022d7",
+      "priority": 1,
+      "group": "caa41408fc90"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "はい",
+      "meaning": "是的",
+      "audio": "4e19c427effb21e8b6032c537537f5445d249b6fa3da54bcf153f1ca4b4e15ed",
+      "id": "63c91440fca4",
+      "priority": 1,
+      "group": "caa41408fc90"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "いいえ",
+      "meaningInSourceLanguage": "不是",
+      "id": "ea54bff437e9",
+      "priority": 0,
+      "group": "bce86d6750e9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "いいえ"
+      ],
+      "phrase": [
+        {
+          "word": "不是",
+          "definition": "いいえ"
+        }
+      ],
+      "id": "c6a6902f1a9f",
+      "priority": 1,
+      "group": "bce86d6750e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "いいえ",
+      "meaning": "不是",
+      "audio": "479da749c0d3ff13d744c7f52a078095aac0f4b2f25a29ec6218a45056dd7e79",
+      "id": "3c4445fb3982",
+      "priority": 1,
+      "group": "bce86d6750e9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "お願いします",
+      "meaningInSourceLanguage": "请",
+      "id": "6ab8169ed4e4",
+      "priority": 0,
+      "group": "5acd5b4661af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "お願いします"
+      ],
+      "phrase": [
+        {
+          "word": "请",
+          "definition": "お願いします"
+        }
+      ],
+      "id": "6b7231252345",
+      "priority": 1,
+      "group": "5acd5b4661af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "お願いします",
+      "meaning": "请",
+      "audio": "138f40d1ebb252df30ae97b39f87cf4b4aefb63f0517bf00ac0b15b5fed3b8d7",
+      "id": "6af41b4da5a9",
+      "priority": 1,
+      "group": "5acd5b4661af"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "大丈夫",
+      "meaningInSourceLanguage": "没关系",
+      "id": "62c932eb4f07",
+      "priority": 0,
+      "group": "e2727dfa6934"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "大丈夫"
+      ],
+      "phrase": [
+        {
+          "word": "没关系",
+          "definition": "大丈夫"
+        }
+      ],
+      "id": "2e2a0ff2d967",
+      "priority": 1,
+      "group": "e2727dfa6934"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "大丈夫",
+      "meaning": "没关系",
+      "audio": "94d31618362ec591ec523dd77a72394048a919824b08d7f9c2d3196160604ef4",
+      "id": "798d505541ca",
+      "priority": 1,
+      "group": "e2727dfa6934"
+    }
+  ]
+}

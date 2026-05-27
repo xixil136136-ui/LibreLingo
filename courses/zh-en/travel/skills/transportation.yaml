@@ -1,0 +1,68 @@
+Skill:
+  Name: Transportation
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: airport
+    Translation: 机场
+  - Word: train
+    Translation: 火车
+  - Word: bus
+    Translation: 公共汽车
+  - Word: taxi
+    Translation: 出租车
+  - Word: subway
+    Translation: 地铁
+  - Word: ticket
+    Translation: 票
+  - Word: passport
+    Translation: 护照
+  - Word: hotel
+    Translation: 酒店
+  - Word: luggage
+    Translation: 行李
+  - Word: platform
+    Translation: 站台
+
+Phrases:
+  - Phrase: Where is the airport?
+    Translation: 机场在哪里？
+  - Phrase: I need a taxi.
+    Translation: 我需要一辆出租车。
+  - Phrase: How much is the ticket?
+    Translation: 这张票多少钱？
+  - Phrase: The train is late.
+    Translation: 火车晚点了。
+  - Phrase: I have a reservation.
+    Translation: 我有预约。
+
+Mini-dictionary:
+  English:
+    - hotel: 酒店
+    - airport: 机场
+    - subway: 地铁
+    - luggage: 行李
+    - taxi: 出租车
+    - passport: 护照
+    - platform: 站台
+    - train: 火车
+    - bus: 公共汽车
+    - ticket: 票
+  Chinese:
+    - 票: ticket
+    - 行李: luggage
+    - 护照: passport
+    - 火车: train
+    - 公共汽车: bus
+    - 出租车: taxi
+    - 酒店: hotel
+    - 站台: platform
+    - 机场: airport
+    - 地铁: subway

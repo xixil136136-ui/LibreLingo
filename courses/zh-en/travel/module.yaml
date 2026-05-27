@@ -1,0 +1,6 @@
+Module:
+  Name: "Travel"
+
+Skills:
+  - directions.yaml
+  - transportation.yaml

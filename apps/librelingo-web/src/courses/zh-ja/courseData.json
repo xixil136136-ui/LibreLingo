@@ -1,0 +1,124 @@
+{
+  "languageName": "Japanese",
+  "languageCode": "ja",
+  "uiLanguage": "zh",
+  "specialCharacters": [
+    "あ",
+    "い",
+    "う",
+    "え",
+    "お",
+    "か",
+    "き",
+    "く",
+    "け",
+    "こ",
+    "さ",
+    "し",
+    "す",
+    "せ",
+    "そ"
+  ],
+  "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+  "license": {
+    "name": {
+      "short": "CC BY-SA 4.0",
+      "full": "Attribution-ShareAlike 4.0 International"
+    },
+    "link": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "modules": [
+    {
+      "title": "Basics",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "こんにちは",
+            "さようなら",
+            "おはようございます",
+            "こんばんは",
+            "ありがとう",
+            "すみません",
+            "はい",
+            "いいえ",
+            "お願いします",
+            "大丈夫",
+            "こんにちは、元気ですか？",
+            "ありがとうございます。",
+            "すみません、ちょっと待ってください。",
+            "おはようございます、先生。",
+            "さようなら、また会いましょう。"
+          ],
+          "practiceHref": "greetings",
+          "id": "569673478a3d",
+          "title": "Greetings",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "一",
+            "二",
+            "三",
+            "四",
+            "五",
+            "六",
+            "七",
+            "八",
+            "九",
+            "十",
+            "一、二、三。",
+            "五時です。",
+            "十人います。"
+          ],
+          "practiceHref": "numbers",
+          "id": "38c2ea1c36d2",
+          "title": "Numbers",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Food & Drink",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "水",
+            "ご飯",
+            "パン",
+            "牛乳",
+            "卵",
+            "魚",
+            "肉",
+            "野菜",
+            "果物",
+            "お茶",
+            "コーヒー",
+            "水をください。",
+            "ご飯を食べます。",
+            "お茶が好きです。",
+            "美味しいですね。"
+          ],
+          "practiceHref": "basic-foods",
+          "id": "569673478a3d",
+          "title": "Basic Foods",
+          "levels": 3
+        }
+      ]
+    }
+  ]
+}

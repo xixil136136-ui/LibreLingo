@@ -1,0 +1,70 @@
+Skill:
+  Name: Basic Foods
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: eau
+    Translation: 水
+  - Word: pain
+    Translation: 面包
+  - Word: riz
+    Translation: 米饭
+  - Word: lait
+    Translation: 牛奶
+  - Word: œuf
+    Translation: 鸡蛋
+  - Word: poulet
+    Translation: 鸡肉
+  - Word: poisson
+    Translation: 鱼
+  - Word: légume
+    Translation: 蔬菜
+  - Word: fruit
+    Translation: 水果
+  - Word: thé
+    Translation: 茶
+  - Word: café
+    Translation: 咖啡
+
+Phrases:
+  - Phrase: Je voudrais de l'eau.
+    Translation: 我想要水。
+  - Phrase: Du pain et du lait, s'il vous plaît.
+    Translation: 请给我面包和牛奶。
+  - Phrase: J'aime le riz.
+    Translation: 我喜欢米饭。
+  - Phrase: C'est délicieux.
+    Translation: 这个很好吃。
+
+Mini-dictionary:
+  French:
+    - légume: 蔬菜
+    - café: 咖啡
+    - thé: 茶
+    - riz: 米饭
+    - lait: 牛奶
+    - pain: 面包
+    - poulet: 鸡肉
+    - eau: 水
+    - fruit: 水果
+    - poisson: 鱼
+    - œuf: 鸡蛋
+  Chinese:
+    - 水: eau
+    - 咖啡: café
+    - 鸡肉: poulet
+    - 鱼: poisson
+    - 蔬菜: légume
+    - 鸡蛋: œuf
+    - 水果: fruit
+    - 牛奶: lait
+    - 茶: thé
+    - 面包: pain
+    - 米饭: riz

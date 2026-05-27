@@ -1,0 +1,431 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's sunny today.",
+      "meaningInSourceLanguage": "今天天气晴朗。",
+      "id": "5fd1cc65ff99",
+      "priority": 0,
+      "group": "d473e195aef5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's sunny today.",
+      "meaning": "今天天气晴朗。",
+      "audio": "85d1aef2d56e187be838abcf82a075f84ad9ed8df40c502aa0fa9e61a02022e1",
+      "id": "00f19776042a",
+      "priority": 1,
+      "group": "d473e195aef5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's going to rain.",
+      "meaningInSourceLanguage": "要下雨了。",
+      "id": "06a285aaa957",
+      "priority": 0,
+      "group": "cacb4e9e11bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's going to rain.",
+      "meaning": "要下雨了。",
+      "audio": "2a28384599fc1c6ad49e0cc238f3e115d60773eba5cd137642cb5ed0f76f4eed",
+      "id": "8631fcfef869",
+      "priority": 1,
+      "group": "cacb4e9e11bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's very cold outside.",
+      "meaningInSourceLanguage": "外面很冷。",
+      "id": "a09b85cccf83",
+      "priority": 0,
+      "group": "468ca54e06c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's very cold outside.",
+      "meaning": "外面很冷。",
+      "audio": "86a313a3c7b14aee3ce7a994d1bd20ddcd6c94acedc89adc41843d184c4328ab",
+      "id": "2e07d4a57d73",
+      "priority": 1,
+      "group": "468ca54e06c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's the temperature?",
+      "meaningInSourceLanguage": "多少度？",
+      "id": "e514098d65c8",
+      "priority": 0,
+      "group": "e0f45d3dbc1c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's the temperature?",
+      "meaning": "多少度？",
+      "audio": "7dbd143a190c71d101e433739f8da64a9e378687c7e02b22b1fe3691f7d99aa3",
+      "id": "0a63c12d1551",
+      "priority": 1,
+      "group": "e0f45d3dbc1c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bring an umbrella.",
+      "meaningInSourceLanguage": "带上雨伞。",
+      "id": "2de8892aa09f",
+      "priority": 0,
+      "group": "516fac72165a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bring an umbrella.",
+      "meaning": "带上雨伞。",
+      "audio": "fa17b53ab8d2820a35c657f79ae43726ff833b208a32878781247d71aa4eec61",
+      "id": "d842db828c2c",
+      "priority": 1,
+      "group": "516fac72165a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sunny",
+      "meaningInSourceLanguage": "晴天",
+      "id": "4ac08302f366",
+      "priority": 0,
+      "group": "bf9b09b36e88"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sunny"
+      ],
+      "phrase": [
+        {
+          "word": "晴天",
+          "definition": "sunny"
+        }
+      ],
+      "id": "56c0c1b3afdb",
+      "priority": 1,
+      "group": "bf9b09b36e88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sunny",
+      "meaning": "晴天",
+      "audio": "d6120867af8f0e3c23bd606b25064bee6ae0568f5f5fce1e5cf7d21328fa6a27",
+      "id": "ddaea199a8c2",
+      "priority": 1,
+      "group": "bf9b09b36e88"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "rain",
+      "meaningInSourceLanguage": "雨",
+      "id": "ccbb9668c1ca",
+      "priority": 0,
+      "group": "9f68e7c28cab"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "rain"
+      ],
+      "phrase": [
+        {
+          "word": "雨",
+          "definition": "rain"
+        }
+      ],
+      "id": "3466ba8e19a4",
+      "priority": 1,
+      "group": "9f68e7c28cab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rain",
+      "meaning": "雨",
+      "audio": "bdfbf6452843c721e5bb1a60fe1a15de050a98899db6d0580e774119c1373431",
+      "id": "850fff66baaf",
+      "priority": 1,
+      "group": "9f68e7c28cab"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "snow",
+      "meaningInSourceLanguage": "雪",
+      "id": "6fd82906731f",
+      "priority": 0,
+      "group": "792a60c90170"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "snow"
+      ],
+      "phrase": [
+        {
+          "word": "雪",
+          "definition": "snow"
+        }
+      ],
+      "id": "88bf1de5c0c0",
+      "priority": 1,
+      "group": "792a60c90170"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snow",
+      "meaning": "雪",
+      "audio": "1bc34cd6bd856216edea8a08055e944fe5bb85a4946c1b635d81f883590290b8",
+      "id": "3231f61650e4",
+      "priority": 1,
+      "group": "792a60c90170"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "wind",
+      "meaningInSourceLanguage": "风",
+      "id": "70c2bb7aa85e",
+      "priority": 0,
+      "group": "de02a367d178"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "wind"
+      ],
+      "phrase": [
+        {
+          "word": "风",
+          "definition": "wind"
+        }
+      ],
+      "id": "9bc0bff6e09b",
+      "priority": 1,
+      "group": "de02a367d178"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wind",
+      "meaning": "风",
+      "audio": "a8a1896e9ae48202f9b7ab3e22ebe201fda4e4de88f6f3b8e86e046b0278572e",
+      "id": "5e0bd90825a5",
+      "priority": 1,
+      "group": "de02a367d178"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cloud",
+      "meaningInSourceLanguage": "云",
+      "id": "2f58f550ad38",
+      "priority": 0,
+      "group": "853aa7ca5da7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cloud"
+      ],
+      "phrase": [
+        {
+          "word": "云",
+          "definition": "cloud"
+        }
+      ],
+      "id": "f18987516644",
+      "priority": 1,
+      "group": "853aa7ca5da7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cloud",
+      "meaning": "云",
+      "audio": "cb7dfcfd9dac682437e82bc21ce8d7b3ebe0b89aa512f796cb3eff74a6ebe759",
+      "id": "614d12b5186e",
+      "priority": 1,
+      "group": "853aa7ca5da7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cold",
+      "meaningInSourceLanguage": "冷",
+      "id": "7c397864f6eb",
+      "priority": 0,
+      "group": "7312d44caf46"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cold"
+      ],
+      "phrase": [
+        {
+          "word": "冷",
+          "definition": "cold"
+        }
+      ],
+      "id": "177b8fd49ced",
+      "priority": 1,
+      "group": "7312d44caf46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cold",
+      "meaning": "冷",
+      "audio": "5fa8138e73a9cee0b4aaecd62cc0b660c098ebc66b03ab1371a3efc2ed5b8166",
+      "id": "fe1412964340",
+      "priority": 1,
+      "group": "7312d44caf46"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hot",
+      "meaningInSourceLanguage": "热",
+      "id": "d213339a6940",
+      "priority": 0,
+      "group": "d3425d93d54b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hot"
+      ],
+      "phrase": [
+        {
+          "word": "热",
+          "definition": "hot"
+        }
+      ],
+      "id": "ee2b5a289fd9",
+      "priority": 1,
+      "group": "d3425d93d54b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hot",
+      "meaning": "热",
+      "audio": "28a37205a96e7b56ca4babdf37932447f1c53633fb08b641c864121903f032fb",
+      "id": "f206d418fecb",
+      "priority": 1,
+      "group": "d3425d93d54b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "warm",
+      "meaningInSourceLanguage": "温暖",
+      "id": "53d390aa572b",
+      "priority": 0,
+      "group": "64b6cfe76280"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "warm"
+      ],
+      "phrase": [
+        {
+          "word": "温暖",
+          "definition": "warm"
+        }
+      ],
+      "id": "497c437f3fd5",
+      "priority": 1,
+      "group": "64b6cfe76280"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "warm",
+      "meaning": "温暖",
+      "audio": "a67e0203cd3446845f6c67b131f05fd5f6060ba4e23b1368d265b438b3dc057f",
+      "id": "d71e0d6455ae",
+      "priority": 1,
+      "group": "64b6cfe76280"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "temperature",
+      "meaningInSourceLanguage": "温度",
+      "id": "5bdea9ae0093",
+      "priority": 0,
+      "group": "7e668f3e230a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "temperature"
+      ],
+      "phrase": [
+        {
+          "word": "温度",
+          "definition": "temperature"
+        }
+      ],
+      "id": "c477a958400e",
+      "priority": 1,
+      "group": "7e668f3e230a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temperature",
+      "meaning": "温度",
+      "audio": "589fc45ba570e9a15f07f40dad6458bdb377ddf595c519a1d96f9402acd2a87e",
+      "id": "35c27226d64b",
+      "priority": 1,
+      "group": "7e668f3e230a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "umbrella",
+      "meaningInSourceLanguage": "雨伞",
+      "id": "d9212aa4d7fc",
+      "priority": 0,
+      "group": "cee2594f0c0c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "umbrella"
+      ],
+      "phrase": [
+        {
+          "word": "雨伞",
+          "definition": "umbrella"
+        }
+      ],
+      "id": "f18d2ca21ea3",
+      "priority": 1,
+      "group": "cee2594f0c0c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "umbrella",
+      "meaning": "雨伞",
+      "audio": "216d0f18ab3baa9aee0c128aaa82234ec99f0c364f8c073bfa0c1834d2a533d0",
+      "id": "42d1371f7187",
+      "priority": 1,
+      "group": "cee2594f0c0c"
+    }
+  ]
+}

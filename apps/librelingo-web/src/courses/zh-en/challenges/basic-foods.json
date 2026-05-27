@@ -1,0 +1,499 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I want water.",
+      "meaningInSourceLanguage": "我想要水。",
+      "id": "8c122b300ef5",
+      "priority": 0,
+      "group": "3c5147a170a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I want water.",
+      "meaning": "我想要水。",
+      "audio": "39f91249992cdf36d118652cfd94d4443f4e8c11e0bc67b489959fe1e6bb80cf",
+      "id": "a08fce2c020b",
+      "priority": 1,
+      "group": "3c5147a170a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bread and milk, please.",
+      "meaningInSourceLanguage": "请给我面包和牛奶。",
+      "id": "595455555148",
+      "priority": 0,
+      "group": "8292d2d1968f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bread and milk, please.",
+      "meaning": "请给我面包和牛奶。",
+      "audio": "ad44bc60f5c0b990ff1b683e3826d23602d388b457fdb98dd467e2f7c8219023",
+      "id": "fa1f02febda5",
+      "priority": 1,
+      "group": "8292d2d1968f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like rice.",
+      "meaningInSourceLanguage": "我喜欢米饭。",
+      "id": "81fd5d202aea",
+      "priority": 0,
+      "group": "6a621672b6dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like rice.",
+      "meaning": "我喜欢米饭。",
+      "audio": "008117c69e2a982bf960ae4933e5f367d738697381cb66af73517eeb189338ea",
+      "id": "0bccdb2b12de",
+      "priority": 1,
+      "group": "6a621672b6dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tea or coffee?",
+      "meaningInSourceLanguage": "茶还是咖啡？",
+      "id": "a04ad91e1890",
+      "priority": 0,
+      "group": "b521cc857174"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tea or coffee?",
+      "meaning": "茶还是咖啡？",
+      "audio": "3b86c4d617baeb3eb442058ec5d257dee053293fc684b2ea990efe48ef45bc1e",
+      "id": "0f474be713e2",
+      "priority": 1,
+      "group": "b521cc857174"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "This is delicious.",
+      "meaningInSourceLanguage": "这个很好吃。",
+      "id": "2f1cbe2dc633",
+      "priority": 0,
+      "group": "808348492500"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "This is delicious.",
+      "meaning": "这个很好吃。",
+      "audio": "8d6141d5f906e30b4e387f2f23c2794c02154978270c22c18219e9ce53cf2ad0",
+      "id": "00e9f93ac5cb",
+      "priority": 1,
+      "group": "808348492500"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "water",
+      "meaningInSourceLanguage": "水",
+      "id": "87ced82ed3fe",
+      "priority": 0,
+      "group": "d11ac4d9a324"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "water"
+      ],
+      "phrase": [
+        {
+          "word": "水",
+          "definition": "water"
+        }
+      ],
+      "id": "2e8ae7a62dae",
+      "priority": 1,
+      "group": "d11ac4d9a324"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "water",
+      "meaning": "水",
+      "audio": "58444940cfe30f9844b724fc63e884c4f307c7b94066292158a997fafe1f84ac",
+      "id": "72afcac7acc8",
+      "priority": 1,
+      "group": "d11ac4d9a324"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bread",
+      "meaningInSourceLanguage": "面包",
+      "id": "6b9e70220497",
+      "priority": 0,
+      "group": "a71b0051a43f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bread"
+      ],
+      "phrase": [
+        {
+          "word": "面包",
+          "definition": "bread"
+        }
+      ],
+      "id": "ab3a3b8b0c53",
+      "priority": 1,
+      "group": "a71b0051a43f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bread",
+      "meaning": "面包",
+      "audio": "f2701948bbca9667ff0687a857226ca994031edb50d5184ce1287664ae9a8e32",
+      "id": "3371e928a3c9",
+      "priority": 1,
+      "group": "a71b0051a43f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "rice",
+      "meaningInSourceLanguage": "米饭",
+      "id": "295fbc69bd3f",
+      "priority": 0,
+      "group": "da3a0f1a0733"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "rice"
+      ],
+      "phrase": [
+        {
+          "word": "米饭",
+          "definition": "rice"
+        }
+      ],
+      "id": "32407d33c0b5",
+      "priority": 1,
+      "group": "da3a0f1a0733"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rice",
+      "meaning": "米饭",
+      "audio": "e53274b34273a16e163d19e58e2db240422e5c261c30c52bbb2c495c9d8e476d",
+      "id": "e5e4961facce",
+      "priority": 1,
+      "group": "da3a0f1a0733"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "milk",
+      "meaningInSourceLanguage": "牛奶",
+      "id": "f604fd4d80ad",
+      "priority": 0,
+      "group": "9e281becd676"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "milk"
+      ],
+      "phrase": [
+        {
+          "word": "牛奶",
+          "definition": "milk"
+        }
+      ],
+      "id": "c9118d29ca2c",
+      "priority": 1,
+      "group": "9e281becd676"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "milk",
+      "meaning": "牛奶",
+      "audio": "fe6dae4f12fb58a878f80e1853dbc218a2432344ef2bc7f70ef46f89a67ebb86",
+      "id": "54d1d8deeb17",
+      "priority": 1,
+      "group": "9e281becd676"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "egg",
+      "meaningInSourceLanguage": "鸡蛋",
+      "id": "a60a89eb84f0",
+      "priority": 0,
+      "group": "25a1570e0631"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "egg"
+      ],
+      "phrase": [
+        {
+          "word": "鸡蛋",
+          "definition": "egg"
+        }
+      ],
+      "id": "999851845862",
+      "priority": 1,
+      "group": "25a1570e0631"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "egg",
+      "meaning": "鸡蛋",
+      "audio": "19bcaaa3d2ca022b935a66d064b1195f8d51092033e30c36ed7b4120bf6a48c1",
+      "id": "3bcd2b8f0a0f",
+      "priority": 1,
+      "group": "25a1570e0631"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "chicken",
+      "meaningInSourceLanguage": "鸡肉",
+      "id": "93bf37e491f4",
+      "priority": 0,
+      "group": "0df286851661"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "chicken"
+      ],
+      "phrase": [
+        {
+          "word": "鸡肉",
+          "definition": "chicken"
+        }
+      ],
+      "id": "e9447c4ef2dc",
+      "priority": 1,
+      "group": "0df286851661"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chicken",
+      "meaning": "鸡肉",
+      "audio": "123cd0e7e30b03a5211414251341ed3c7d437db3f21fa8eed6d5b540863821ff",
+      "id": "03cc27e561e9",
+      "priority": 1,
+      "group": "0df286851661"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "fish",
+      "meaningInSourceLanguage": "鱼",
+      "id": "b8dd206db138",
+      "priority": 0,
+      "group": "066278174b2e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "fish"
+      ],
+      "phrase": [
+        {
+          "word": "鱼",
+          "definition": "fish"
+        }
+      ],
+      "id": "54954b1bb331",
+      "priority": 1,
+      "group": "066278174b2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fish",
+      "meaning": "鱼",
+      "audio": "e9912b9c6f856ddb5cc56da2bb160cbac2c5d543957ba33d4ffdea6b83171f73",
+      "id": "4003e66b6327",
+      "priority": 1,
+      "group": "066278174b2e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "fruit",
+      "meaningInSourceLanguage": "水果",
+      "id": "6de9612dda8b",
+      "priority": 0,
+      "group": "305d9eecf312"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "fruit"
+      ],
+      "phrase": [
+        {
+          "word": "水果",
+          "definition": "fruit"
+        }
+      ],
+      "id": "65d9aafa700f",
+      "priority": 1,
+      "group": "305d9eecf312"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fruit",
+      "meaning": "水果",
+      "audio": "7156dca878f061077ce7b10ed43c1073708f0b76a94d4ca49e3210f787483dbc",
+      "id": "8ba050333417",
+      "priority": 1,
+      "group": "305d9eecf312"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "vegetable",
+      "meaningInSourceLanguage": "蔬菜",
+      "id": "baf86f3868b4",
+      "priority": 0,
+      "group": "c53d03ca5252"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "vegetable"
+      ],
+      "phrase": [
+        {
+          "word": "蔬菜",
+          "definition": "vegetable"
+        }
+      ],
+      "id": "56b983aee6eb",
+      "priority": 1,
+      "group": "c53d03ca5252"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vegetable",
+      "meaning": "蔬菜",
+      "audio": "8489607046f720e52e305c15ad0aa2fd67185ba08ed947baf5548ac14e09459a",
+      "id": "0dedef66ec48",
+      "priority": 1,
+      "group": "c53d03ca5252"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tea",
+      "meaningInSourceLanguage": "茶",
+      "id": "064cb8ad6a76",
+      "priority": 0,
+      "group": "2dccb84aa38c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tea"
+      ],
+      "phrase": [
+        {
+          "word": "茶",
+          "definition": "tea"
+        }
+      ],
+      "id": "0d7c61b62ac8",
+      "priority": 1,
+      "group": "2dccb84aa38c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tea",
+      "meaning": "茶",
+      "audio": "81d569bff184b6af4e324e391278b90f336f870eecf37c628ce3d7e96e14908f",
+      "id": "28a973572ca3",
+      "priority": 1,
+      "group": "2dccb84aa38c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "coffee",
+      "meaningInSourceLanguage": "咖啡",
+      "id": "f72e2c8c60b6",
+      "priority": 0,
+      "group": "6fea8be92053"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "coffee"
+      ],
+      "phrase": [
+        {
+          "word": "咖啡",
+          "definition": "coffee"
+        }
+      ],
+      "id": "64e561338496",
+      "priority": 1,
+      "group": "6fea8be92053"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coffee",
+      "meaning": "咖啡",
+      "audio": "d1f69a2820474dbbe920b0e528145efc6f013fcdc92def2cad10ef31c1a91aea",
+      "id": "293917e44fe9",
+      "priority": 1,
+      "group": "6fea8be92053"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sugar",
+      "meaningInSourceLanguage": "糖",
+      "id": "91ce6d872a07",
+      "priority": 0,
+      "group": "a6c3f4e3b1df"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sugar"
+      ],
+      "phrase": [
+        {
+          "word": "糖",
+          "definition": "sugar"
+        }
+      ],
+      "id": "c21ea19489d1",
+      "priority": 1,
+      "group": "a6c3f4e3b1df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sugar",
+      "meaning": "糖",
+      "audio": "df4674833594c09bb920053f15e320f2264922685fac54142139d9c9a35d4c16",
+      "id": "c21683ad11b9",
+      "priority": 1,
+      "group": "a6c3f4e3b1df"
+    }
+  ]
+}

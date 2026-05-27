@@ -1,0 +1,6 @@
+Module:
+  Name: "Food & Drink"
+
+Skills:
+  - basic-foods.yaml
+  - restaurant.yaml

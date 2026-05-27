@@ -1,0 +1,397 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "일, 이, 삼.",
+      "meaningInSourceLanguage": "一、二、三。",
+      "id": "31003230b2eb",
+      "priority": 0,
+      "group": "eb187cb581ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "일, 이, 삼.",
+      "meaning": "一、二、三。",
+      "audio": "282d267c042f6199b15eeaeea40b61637dfd29e5ce2ff91e7146e65f5f0b8c61",
+      "id": "466fbd74cd53",
+      "priority": 1,
+      "group": "eb187cb581ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "지금 다섯 시입니다.",
+      "meaningInSourceLanguage": "现在五点钟。",
+      "id": "46aee7313716",
+      "priority": 0,
+      "group": "48345e88621b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "지금 다섯 시입니다.",
+      "meaning": "现在五点钟。",
+      "audio": "8e8d8f8d95a4129c766fe96b68d2bce2c1ebc4fc2dab7f857a2c4a3810360e40",
+      "id": "e1792b213163",
+      "priority": 1,
+      "group": "48345e88621b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "열 명이 있습니다.",
+      "meaningInSourceLanguage": "有十个人。",
+      "id": "d40c02501470",
+      "priority": 0,
+      "group": "46b8434649b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "열 명이 있습니다.",
+      "meaning": "有十个人。",
+      "audio": "63f9c32476864307e2cbc80629c6e6924e00fd9453dd698a4e87528deb51ceca",
+      "id": "b17e1a043773",
+      "priority": 1,
+      "group": "46b8434649b1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "일",
+      "meaningInSourceLanguage": "一",
+      "id": "d5e5c77d8286",
+      "priority": 0,
+      "group": "c5dbb960a261"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "일"
+      ],
+      "phrase": [
+        {
+          "word": "一",
+          "definition": "일"
+        }
+      ],
+      "id": "fc7ea0091fee",
+      "priority": 1,
+      "group": "c5dbb960a261"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "일",
+      "meaning": "一",
+      "audio": "1e674d905c1cc58c9da0bce58f97e1a591ef5e127fb91cc33cb55b0a07705478",
+      "id": "5b33c4b77fd3",
+      "priority": 1,
+      "group": "c5dbb960a261"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "이",
+      "meaningInSourceLanguage": "二",
+      "id": "419134154d7c",
+      "priority": 0,
+      "group": "6a4f0961b65b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "이"
+      ],
+      "phrase": [
+        {
+          "word": "二",
+          "definition": "이"
+        }
+      ],
+      "id": "3e91abff71a6",
+      "priority": 1,
+      "group": "6a4f0961b65b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "이",
+      "meaning": "二",
+      "audio": "719e5a258a6dafe641620b00dd04c619e6cd57e2fc7ae530b43aa06df1a2a0c9",
+      "id": "b330049e0237",
+      "priority": 1,
+      "group": "6a4f0961b65b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "삼",
+      "meaningInSourceLanguage": "三",
+      "id": "accaba72e255",
+      "priority": 0,
+      "group": "8eb5cea59368"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "삼"
+      ],
+      "phrase": [
+        {
+          "word": "三",
+          "definition": "삼"
+        }
+      ],
+      "id": "b52fa999d6a2",
+      "priority": 1,
+      "group": "8eb5cea59368"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "삼",
+      "meaning": "三",
+      "audio": "9acd50095cc72fcaf4b88d0a5df4ecdc1968bfedf43809fa7253e0eb86305ae7",
+      "id": "cfd8687e9fcb",
+      "priority": 1,
+      "group": "8eb5cea59368"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "사",
+      "meaningInSourceLanguage": "四",
+      "id": "d69e58ff4e3f",
+      "priority": 0,
+      "group": "d5e232364b82"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "사"
+      ],
+      "phrase": [
+        {
+          "word": "四",
+          "definition": "사"
+        }
+      ],
+      "id": "c9d2713e57ae",
+      "priority": 1,
+      "group": "d5e232364b82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "사",
+      "meaning": "四",
+      "audio": "3906cff5553b5c26f5a52b4bb3613d984c3fa1e462af4d47c2e04df4c02af3b8",
+      "id": "48bba168a251",
+      "priority": 1,
+      "group": "d5e232364b82"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "오",
+      "meaningInSourceLanguage": "五",
+      "id": "5d7ac6a52b27",
+      "priority": 0,
+      "group": "8089385af610"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "오"
+      ],
+      "phrase": [
+        {
+          "word": "五",
+          "definition": "오"
+        }
+      ],
+      "id": "f4f3fbc8fac4",
+      "priority": 1,
+      "group": "8089385af610"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "오",
+      "meaning": "五",
+      "audio": "bf1b437f183864aeb1b1bfeee0672ac942d26145c7eefaaa688b69416611fe9a",
+      "id": "357605a86a1a",
+      "priority": 1,
+      "group": "8089385af610"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "육",
+      "meaningInSourceLanguage": "六",
+      "id": "a5897fd1b5cf",
+      "priority": 0,
+      "group": "b8ee69d1705c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "육"
+      ],
+      "phrase": [
+        {
+          "word": "六",
+          "definition": "육"
+        }
+      ],
+      "id": "8cbafd185bc2",
+      "priority": 1,
+      "group": "b8ee69d1705c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "육",
+      "meaning": "六",
+      "audio": "9b0cde80952bb9282811a5ee34f0d26f68b92805441f84cf45b103d8cd5dbd2a",
+      "id": "81f29831da14",
+      "priority": 1,
+      "group": "b8ee69d1705c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "칠",
+      "meaningInSourceLanguage": "七",
+      "id": "212a9ac30f75",
+      "priority": 0,
+      "group": "0c9c01fc7ea5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "칠"
+      ],
+      "phrase": [
+        {
+          "word": "七",
+          "definition": "칠"
+        }
+      ],
+      "id": "a169bf79cb3c",
+      "priority": 1,
+      "group": "0c9c01fc7ea5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "칠",
+      "meaning": "七",
+      "audio": "6ab45003039863d01b4e533aadf4c9c2a9d19300a6d14a3390b8a2514a10d795",
+      "id": "a80653631f7e",
+      "priority": 1,
+      "group": "0c9c01fc7ea5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "팔",
+      "meaningInSourceLanguage": "八",
+      "id": "3460191a4b25",
+      "priority": 0,
+      "group": "49c284ca9974"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "팔"
+      ],
+      "phrase": [
+        {
+          "word": "八",
+          "definition": "팔"
+        }
+      ],
+      "id": "897142fe9e8f",
+      "priority": 1,
+      "group": "49c284ca9974"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "팔",
+      "meaning": "八",
+      "audio": "e92eeef005a29777b5a1f60b60baf7e5a37ac9181a67ea97e6c85eb64e65fa3b",
+      "id": "a3bce8c7189c",
+      "priority": 1,
+      "group": "49c284ca9974"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "구",
+      "meaningInSourceLanguage": "九",
+      "id": "fbe36027774e",
+      "priority": 0,
+      "group": "a016c6a9f6e7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "구"
+      ],
+      "phrase": [
+        {
+          "word": "九",
+          "definition": "구"
+        }
+      ],
+      "id": "8158d02b1aca",
+      "priority": 1,
+      "group": "a016c6a9f6e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "구",
+      "meaning": "九",
+      "audio": "f60c2cbded2107229aa34f4b089da29706f1459b20f6dc2e3235ca8888a8c83a",
+      "id": "e67585b56377",
+      "priority": 1,
+      "group": "a016c6a9f6e7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "십",
+      "meaningInSourceLanguage": "十",
+      "id": "3671a5e20737",
+      "priority": 0,
+      "group": "de6d729ba244"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "십"
+      ],
+      "phrase": [
+        {
+          "word": "十",
+          "definition": "십"
+        }
+      ],
+      "id": "1678440bfb44",
+      "priority": 1,
+      "group": "de6d729ba244"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "십",
+      "meaning": "十",
+      "audio": "c4673b0ef1fea4bcf09e1a529f7e16d425c30a7271a5e6292d423096d9b8be72",
+      "id": "23236900a595",
+      "priority": 1,
+      "group": "de6d729ba244"
+    }
+  ]
+}

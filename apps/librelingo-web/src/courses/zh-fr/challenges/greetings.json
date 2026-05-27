@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bonjour, comment allez-vous ?",
+      "meaningInSourceLanguage": "你好，您好吗？",
+      "id": "1275dae71d5f",
+      "priority": 0,
+      "group": "585a7a5e7342"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bonjour, comment allez-vous ?",
+      "meaning": "你好，您好吗？",
+      "audio": "df3bbba58eabbaf932ba4e89f100516ccb86eeb16e3ffa17b64fcd2c16d09a39",
+      "id": "66882e0ca6df",
+      "priority": 1,
+      "group": "585a7a5e7342"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Merci beaucoup.",
+      "meaningInSourceLanguage": "非常感谢。",
+      "id": "b9189fa0b793",
+      "priority": 0,
+      "group": "5d89dd71df94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Merci beaucoup.",
+      "meaning": "非常感谢。",
+      "audio": "eec6ae336eb66eb94c5d3754cf0d66b03bd10ab333c97a97420af711081bc971",
+      "id": "6cc48158d010",
+      "priority": 1,
+      "group": "5d89dd71df94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Au revoir, à demain.",
+      "meaningInSourceLanguage": "再见，明天见。",
+      "id": "7da0d9ed97fb",
+      "priority": 0,
+      "group": "a8165fbf93dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Au revoir, à demain.",
+      "meaning": "再见，明天见。",
+      "audio": "9c2e3b2b38c75c71685d4878e662422a18dc955a33485391db1e6212e42304a4",
+      "id": "3276e725785f",
+      "priority": 1,
+      "group": "a8165fbf93dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pardon, je suis en retard.",
+      "meaningInSourceLanguage": "对不起，我迟到了。",
+      "id": "871ecc8f617f",
+      "priority": 0,
+      "group": "57e2c6ca115a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pardon, je suis en retard.",
+      "meaning": "对不起，我迟到了。",
+      "audio": "fd87afb55d5e4631a589b1ef82da2b7ad29a61a115964c8318bb0c3a1f57145a",
+      "id": "eab0a4f64430",
+      "priority": 1,
+      "group": "57e2c6ca115a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "De rien, bonne journée !",
+      "meaningInSourceLanguage": "不客气，祝好！",
+      "id": "174fb37228b9",
+      "priority": 0,
+      "group": "1f96ed8787b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "De rien, bonne journée !",
+      "meaning": "不客气，祝好！",
+      "audio": "86fb1d820075ca5a87888923b91e3fbcdd98c7b890260cca953a9af79952efeb",
+      "id": "60f1008a7ae8",
+      "priority": 1,
+      "group": "1f96ed8787b5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bonjour",
+      "meaningInSourceLanguage": "你好/早上好",
+      "id": "436f286752c7",
+      "priority": 0,
+      "group": "1d48ffbb0129"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bonjour"
+      ],
+      "phrase": [
+        {
+          "word": "你好/早上好",
+          "definition": "bonjour"
+        }
+      ],
+      "id": "d216fe1f6bb4",
+      "priority": 1,
+      "group": "1d48ffbb0129"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bonjour",
+      "meaning": "你好/早上好",
+      "audio": "7cd792fb882c388361e2b83a8e61e9baad57ee16e0a694b4cabca2d4085ac5d5",
+      "id": "05f4cf7701cf",
+      "priority": 1,
+      "group": "1d48ffbb0129"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bonsoir",
+      "meaningInSourceLanguage": "晚上好",
+      "id": "511f1e8e5508",
+      "priority": 0,
+      "group": "90e0128a0538"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bonsoir"
+      ],
+      "phrase": [
+        {
+          "word": "晚上好",
+          "definition": "bonsoir"
+        }
+      ],
+      "id": "624fc69ffdc9",
+      "priority": 1,
+      "group": "90e0128a0538"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bonsoir",
+      "meaning": "晚上好",
+      "audio": "6e8ed60abe083246511719095d00baabdc66c6545c5c4766c59f7589acf58189",
+      "id": "e57adb6e5fea",
+      "priority": 1,
+      "group": "90e0128a0538"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "au revoir",
+      "meaningInSourceLanguage": "再见",
+      "id": "77fad2368ffa",
+      "priority": 0,
+      "group": "3e2162047576"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "au revoir"
+      ],
+      "phrase": [
+        {
+          "word": "再见",
+          "definition": "au revoir"
+        }
+      ],
+      "id": "e4cf6b936494",
+      "priority": 1,
+      "group": "3e2162047576"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "au revoir",
+      "meaning": "再见",
+      "audio": "8bd81098196d2fa2e5f44d6383bfe10ea1764a8e23b1e8efc6bbd32e4878783e",
+      "id": "cf29c94496ba",
+      "priority": 1,
+      "group": "3e2162047576"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "merci",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "1520d40ba760",
+      "priority": 0,
+      "group": "d160b474778e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "merci"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "merci"
+        }
+      ],
+      "id": "6ce130fa54a5",
+      "priority": 1,
+      "group": "d160b474778e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "merci",
+      "meaning": "谢谢",
+      "audio": "d5297201ab2abe06aaf8a7d3f29029126298a99840714f37e8e206b111854f1a",
+      "id": "5396ac38947c",
+      "priority": 1,
+      "group": "d160b474778e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "s'il vous plaît",
+      "meaningInSourceLanguage": "请",
+      "id": "7ba507e4c452",
+      "priority": 0,
+      "group": "20fccae8ac81"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "s'il vous plaît"
+      ],
+      "phrase": [
+        {
+          "word": "请",
+          "definition": "s'il vous plaît"
+        }
+      ],
+      "id": "24c827cb870c",
+      "priority": 1,
+      "group": "20fccae8ac81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "s'il vous plaît",
+      "meaning": "请",
+      "audio": "e1aeb9f3078dc4caeea00486a7231ae3f4daf56d4b9367cc07451f3efb17b54c",
+      "id": "b545bb999b42",
+      "priority": 1,
+      "group": "20fccae8ac81"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pardon",
+      "meaningInSourceLanguage": "对不起",
+      "id": "1ec2ed0eb9ec",
+      "priority": 0,
+      "group": "c6b3dde6bdfb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pardon"
+      ],
+      "phrase": [
+        {
+          "word": "对不起",
+          "definition": "pardon"
+        }
+      ],
+      "id": "381e353bfdd5",
+      "priority": 1,
+      "group": "c6b3dde6bdfb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pardon",
+      "meaning": "对不起",
+      "audio": "b4c4efcf8a29de8697b21ca3d210d12309500a1055c5062279b047fc02b98352",
+      "id": "23afb0ae67e2",
+      "priority": 1,
+      "group": "c6b3dde6bdfb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "oui",
+      "meaningInSourceLanguage": "是的",
+      "id": "3c9202e13f64",
+      "priority": 0,
+      "group": "275405eda6e7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "oui"
+      ],
+      "phrase": [
+        {
+          "word": "是的",
+          "definition": "oui"
+        }
+      ],
+      "id": "22ab75b54cec",
+      "priority": 1,
+      "group": "275405eda6e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oui",
+      "meaning": "是的",
+      "audio": "d72a207e00fb50af7e30ad7330ea8b6c539a56dbd09b7f89c874bda99633aeb2",
+      "id": "bcfb32a908dc",
+      "priority": 1,
+      "group": "275405eda6e7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "non",
+      "meaningInSourceLanguage": "不是",
+      "id": "f0e015347868",
+      "priority": 0,
+      "group": "0cca38e3c154"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "non"
+      ],
+      "phrase": [
+        {
+          "word": "不是",
+          "definition": "non"
+        }
+      ],
+      "id": "1965444d7d71",
+      "priority": 1,
+      "group": "0cca38e3c154"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "non",
+      "meaning": "不是",
+      "audio": "718125865724a286d5ea653a5d099068370b1649d7fabf026a738eaafb10df3c",
+      "id": "35b42fe7af36",
+      "priority": 1,
+      "group": "0cca38e3c154"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "de rien",
+      "meaningInSourceLanguage": "不客气",
+      "id": "be12f0a64eb3",
+      "priority": 0,
+      "group": "fb931551fcd8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "de rien"
+      ],
+      "phrase": [
+        {
+          "word": "不客气",
+          "definition": "de rien"
+        }
+      ],
+      "id": "9051dab35b49",
+      "priority": 1,
+      "group": "fb931551fcd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "de rien",
+      "meaning": "不客气",
+      "audio": "10757fa5a62cbe1bb861ef70c4de7ec0d47f0df234439d96a50a4b451823b37f",
+      "id": "5011f6c7720b",
+      "priority": 1,
+      "group": "fb931551fcd8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bonne journée",
+      "meaningInSourceLanguage": "祝好",
+      "id": "70100f94c5e9",
+      "priority": 0,
+      "group": "d21d4e9700ff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bonne journée"
+      ],
+      "phrase": [
+        {
+          "word": "祝好",
+          "definition": "bonne journée"
+        }
+      ],
+      "id": "94960dfe8ffa",
+      "priority": 1,
+      "group": "d21d4e9700ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bonne journée",
+      "meaning": "祝好",
+      "audio": "ed56fabb04d06c1de5e25e7b30d156cbaf69de5f90bb7d6153e98082e51e6b06",
+      "id": "aa3257e3d3a8",
+      "priority": 1,
+      "group": "d21d4e9700ff"
+    }
+  ]
+}

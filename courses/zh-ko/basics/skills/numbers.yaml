@@ -1,0 +1,64 @@
+Skill:
+  Name: Numbers
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 일
+    Translation: 一
+  - Word: 이
+    Translation: 二
+  - Word: 삼
+    Translation: 三
+  - Word: 사
+    Translation: 四
+  - Word: 오
+    Translation: 五
+  - Word: 육
+    Translation: 六
+  - Word: 칠
+    Translation: 七
+  - Word: 팔
+    Translation: 八
+  - Word: 구
+    Translation: 九
+  - Word: 십
+    Translation: 十
+
+Phrases:
+  - Phrase: 일, 이, 삼.
+    Translation: 一、二、三。
+  - Phrase: 지금 다섯 시입니다.
+    Translation: 现在五点钟。
+  - Phrase: 열 명이 있습니다.
+    Translation: 有十个人。
+
+Mini-dictionary:
+  Korean:
+    - 일: 一
+    - 사: 四
+    - 구: 九
+    - 삼: 三
+    - 칠: 七
+    - 오: 五
+    - 팔: 八
+    - 육: 六
+    - 이: 二
+    - 십: 十
+  Chinese:
+    - 四: 사
+    - 九: 구
+    - 三: 삼
+    - 八: 팔
+    - 二: 이
+    - 七: 칠
+    - 十: 십
+    - 五: 오
+    - 六: 육
+    - 一: 일

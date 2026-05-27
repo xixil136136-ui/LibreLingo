@@ -1,0 +1,70 @@
+Skill:
+  Name: Basic Foods
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 물
+    Translation: 水
+  - Word: 밥
+    Translation: 米饭
+  - Word: 빵
+    Translation: 面包
+  - Word: 우유
+    Translation: 牛奶
+  - Word: 계란
+    Translation: 鸡蛋
+  - Word: 생선
+    Translation: 鱼
+  - Word: 고기
+    Translation: 肉
+  - Word: 야채
+    Translation: 蔬菜
+  - Word: 과일
+    Translation: 水果
+  - Word: 차
+    Translation: 茶
+  - Word: 커피
+    Translation: 咖啡
+
+Phrases:
+  - Phrase: 물 주세요.
+    Translation: 请给我水。
+  - Phrase: 밥을 먹습니다.
+    Translation: 吃饭。
+  - Phrase: 차가 좋아요.
+    Translation: 我喜欢茶。
+  - Phrase: 맛있습니다.
+    Translation: 很好吃。
+
+Mini-dictionary:
+  Korean:
+    - 커피: 咖啡
+    - 과일: 水果
+    - 계란: 鸡蛋
+    - 야채: 蔬菜
+    - 빵: 面包
+    - 물: 水
+    - 고기: 肉
+    - 밥: 米饭
+    - 우유: 牛奶
+    - 차: 茶
+    - 생선: 鱼
+  Chinese:
+    - 茶: 차
+    - 咖啡: 커피
+    - 蔬菜: 야채
+    - 鱼: 생선
+    - 水: 물
+    - 鸡蛋: 계란
+    - 面包: 빵
+    - 米饭: 밥
+    - 水果: 과일
+    - 肉: 고기
+    - 牛奶: 우유

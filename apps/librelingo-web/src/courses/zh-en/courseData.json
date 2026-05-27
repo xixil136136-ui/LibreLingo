@@ -1,0 +1,270 @@
+{
+  "languageName": "English",
+  "languageCode": "en",
+  "uiLanguage": "zh",
+  "specialCharacters": [
+    "'",
+    "é",
+    "á",
+    "í",
+    "ó",
+    "ú",
+    "ü"
+  ],
+  "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+  "license": {
+    "name": {
+      "short": "CC BY-SA 4.0",
+      "full": "Attribution-ShareAlike 4.0 International"
+    },
+    "link": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "modules": [
+    {
+      "title": "Basics",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "hello",
+            "goodbye",
+            "good morning",
+            "good evening",
+            "how are you",
+            "I'm fine",
+            "please",
+            "thank you",
+            "you're welcome",
+            "sorry",
+            "Hello, how are you?",
+            "Good morning, thank you.",
+            "I'm fine, thank you.",
+            "Goodbye, see you later.",
+            "Please, come in."
+          ],
+          "practiceHref": "greetings",
+          "id": "569673478a3d",
+          "title": "Greetings",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "one",
+            "two",
+            "three",
+            "four",
+            "five",
+            "six",
+            "seven",
+            "eight",
+            "nine",
+            "ten",
+            "One, two, three.",
+            "Four and five.",
+            "Six, seven, eight.",
+            "Nine and ten.",
+            "It's five o'clock."
+          ],
+          "practiceHref": "numbers",
+          "id": "38c2ea1c36d2",
+          "title": "Numbers",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Food & Drink",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "water",
+            "bread",
+            "rice",
+            "milk",
+            "egg",
+            "chicken",
+            "fish",
+            "fruit",
+            "vegetable",
+            "tea",
+            "coffee",
+            "sugar",
+            "I want water.",
+            "Bread and milk, please.",
+            "I like rice.",
+            "Tea or coffee?",
+            "This is delicious."
+          ],
+          "practiceHref": "basic-foods",
+          "id": "569673478a3d",
+          "title": "Basic Foods",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "menu",
+            "waiter",
+            "bill",
+            "table",
+            "fork",
+            "knife",
+            "spoon",
+            "plate",
+            "cup",
+            "tip",
+            "Can I see the menu?",
+            "I'd like to order.",
+            "The bill, please.",
+            "A table for two.",
+            "This is very good."
+          ],
+          "practiceHref": "restaurant",
+          "id": "38c2ea1c36d2",
+          "title": "Restaurant",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Travel",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "left",
+            "right",
+            "straight",
+            "here",
+            "there",
+            "near",
+            "far",
+            "map",
+            "street",
+            "road",
+            "Where is the station?",
+            "Turn left here.",
+            "Go straight ahead.",
+            "Is it far from here?",
+            "I need a map."
+          ],
+          "practiceHref": "directions",
+          "id": "569673478a3d",
+          "title": "Directions",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "airport",
+            "train",
+            "bus",
+            "taxi",
+            "subway",
+            "ticket",
+            "passport",
+            "hotel",
+            "luggage",
+            "platform",
+            "Where is the airport?",
+            "I need a taxi.",
+            "How much is the ticket?",
+            "The train is late.",
+            "I have a reservation."
+          ],
+          "practiceHref": "transportation",
+          "id": "38c2ea1c36d2",
+          "title": "Transportation",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Daily Life",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "shop",
+            "price",
+            "expensive",
+            "cheap",
+            "money",
+            "discount",
+            "size",
+            "color",
+            "try on",
+            "receipt",
+            "How much is this?",
+            "It's too expensive.",
+            "Do you have a discount?",
+            "Can I try this on?",
+            "I'll take it."
+          ],
+          "practiceHref": "shopping",
+          "id": "569673478a3d",
+          "title": "Shopping",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "sunny",
+            "rain",
+            "snow",
+            "wind",
+            "cloud",
+            "cold",
+            "hot",
+            "warm",
+            "temperature",
+            "umbrella",
+            "It's sunny today.",
+            "It's going to rain.",
+            "It's very cold outside.",
+            "What's the temperature?",
+            "Bring an umbrella."
+          ],
+          "practiceHref": "weather",
+          "id": "38c2ea1c36d2",
+          "title": "Weather",
+          "levels": 3
+        }
+      ]
+    }
+  ]
+}

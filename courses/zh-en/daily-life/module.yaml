@@ -1,0 +1,6 @@
+Module:
+  Name: "Daily Life"
+
+Skills:
+  - shopping.yaml
+  - weather.yaml

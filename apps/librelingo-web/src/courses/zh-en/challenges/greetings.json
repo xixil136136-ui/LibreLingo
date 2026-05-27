@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hello, how are you?",
+      "meaningInSourceLanguage": "你好，你好吗？",
+      "id": "cfcef87f81ce",
+      "priority": 0,
+      "group": "0cde95f87cbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hello, how are you?",
+      "meaning": "你好，你好吗？",
+      "audio": "ba5334b79d3729d35bbf24cc67960d762a2927560d35ddcebee11cec5701d963",
+      "id": "64d8f37d6f73",
+      "priority": 1,
+      "group": "0cde95f87cbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Good morning, thank you.",
+      "meaningInSourceLanguage": "早上好，谢谢。",
+      "id": "a34fe7bd833f",
+      "priority": 0,
+      "group": "f825f0c96796"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Good morning, thank you.",
+      "meaning": "早上好，谢谢。",
+      "audio": "fae41caf2460d06637f7e89c40f1363447791360c02d6bf98351489628d6448e",
+      "id": "892e79f19468",
+      "priority": 1,
+      "group": "f825f0c96796"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm fine, thank you.",
+      "meaningInSourceLanguage": "我很好，谢谢。",
+      "id": "b644812bcff3",
+      "priority": 0,
+      "group": "8a9e4e9dbe88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm fine, thank you.",
+      "meaning": "我很好，谢谢。",
+      "audio": "16b7dc88f8ce5ae171ebe6c657731b52e845931e827ae7042398ee5bf27304b8",
+      "id": "f1e880209ca6",
+      "priority": 1,
+      "group": "8a9e4e9dbe88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Goodbye, see you later.",
+      "meaningInSourceLanguage": "再见，回头见。",
+      "id": "d174d6b83c96",
+      "priority": 0,
+      "group": "340237b809dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Goodbye, see you later.",
+      "meaning": "再见，回头见。",
+      "audio": "8843c8a6d755e35a186931ed11ded128589d2b04901fa5039f327c1170fa0116",
+      "id": "cb6c851dc321",
+      "priority": 1,
+      "group": "340237b809dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please, come in.",
+      "meaningInSourceLanguage": "请进。",
+      "id": "6ddfa614723c",
+      "priority": 0,
+      "group": "c03b7487cee8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please, come in.",
+      "meaning": "请进。",
+      "audio": "2fc39c2f5f63fc7d12e71c7572b4f8c71031d2716dd34629e88f93ed43e0c0ee",
+      "id": "e11ed33acb81",
+      "priority": 1,
+      "group": "c03b7487cee8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hello",
+      "meaningInSourceLanguage": "你好",
+      "id": "e83e49bc7937",
+      "priority": 0,
+      "group": "702eed718305"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hello"
+      ],
+      "phrase": [
+        {
+          "word": "你好",
+          "definition": "hello"
+        }
+      ],
+      "id": "e601df39afc1",
+      "priority": 1,
+      "group": "702eed718305"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hello",
+      "meaning": "你好",
+      "audio": "af76f3b7ac63cd40f5407080a5ed29c98a554f18d2e124d7a4fd7eed30c634a7",
+      "id": "1870572b258f",
+      "priority": 1,
+      "group": "702eed718305"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "goodbye",
+      "meaningInSourceLanguage": "再见",
+      "id": "3fabb093bb1d",
+      "priority": 0,
+      "group": "0bf87a3561fb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "goodbye"
+      ],
+      "phrase": [
+        {
+          "word": "再见",
+          "definition": "goodbye"
+        }
+      ],
+      "id": "9ec0d9605312",
+      "priority": 1,
+      "group": "0bf87a3561fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "goodbye",
+      "meaning": "再见",
+      "audio": "ef20e8456fe74e3467a3f052e5c7c129f687f4b30a06d70d31d5cbf25d6a47ff",
+      "id": "3c7974532a55",
+      "priority": 1,
+      "group": "0bf87a3561fb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "good morning",
+      "meaningInSourceLanguage": "早上好",
+      "id": "8f754342cf6f",
+      "priority": 0,
+      "group": "0682032d96ef"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "good morning"
+      ],
+      "phrase": [
+        {
+          "word": "早上好",
+          "definition": "good morning"
+        }
+      ],
+      "id": "c1698eef19fa",
+      "priority": 1,
+      "group": "0682032d96ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "good morning",
+      "meaning": "早上好",
+      "audio": "841591a53882aa32659dcb3f76f34ff9a6fbc996a0af9cf27d99d08608dc3ad8",
+      "id": "7fa5417aa6d5",
+      "priority": 1,
+      "group": "0682032d96ef"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "good evening",
+      "meaningInSourceLanguage": "晚上好",
+      "id": "485c34fbe233",
+      "priority": 0,
+      "group": "d2726fc0229e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "good evening"
+      ],
+      "phrase": [
+        {
+          "word": "晚上好",
+          "definition": "good evening"
+        }
+      ],
+      "id": "9cf649db975b",
+      "priority": 1,
+      "group": "d2726fc0229e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "good evening",
+      "meaning": "晚上好",
+      "audio": "1456333a0d659aedff22b7307b98391821f051763cd8c1788b1100c419c8b56e",
+      "id": "cbd3ffc45449",
+      "priority": 1,
+      "group": "d2726fc0229e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "how are you",
+      "meaningInSourceLanguage": "你好吗",
+      "id": "9a2faa4382c5",
+      "priority": 0,
+      "group": "9b451601ef26"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "how are you"
+      ],
+      "phrase": [
+        {
+          "word": "你好吗",
+          "definition": "how are you"
+        }
+      ],
+      "id": "d11006f7e938",
+      "priority": 1,
+      "group": "9b451601ef26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "how are you",
+      "meaning": "你好吗",
+      "audio": "37546a50f8bf3b6deb626107b17f108a038ed18c0b464cc574f3f404f39135d0",
+      "id": "ffa67b5ec47c",
+      "priority": 1,
+      "group": "9b451601ef26"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "I'm fine",
+      "meaningInSourceLanguage": "我很好",
+      "id": "e5a1b72e6bce",
+      "priority": 0,
+      "group": "68cc48f1d687"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "I'm fine"
+      ],
+      "phrase": [
+        {
+          "word": "我很好",
+          "definition": "I'm fine"
+        }
+      ],
+      "id": "bc7650744abe",
+      "priority": 1,
+      "group": "68cc48f1d687"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm fine",
+      "meaning": "我很好",
+      "audio": "18e81d33c341afdbd989a32dfdf49e9eefc3b46df352f229459a712802954d03",
+      "id": "56d13b5bd4a4",
+      "priority": 1,
+      "group": "68cc48f1d687"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "please",
+      "meaningInSourceLanguage": "请",
+      "id": "e3ad19e3812b",
+      "priority": 0,
+      "group": "02675fc5c2e0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "please"
+      ],
+      "phrase": [
+        {
+          "word": "请",
+          "definition": "please"
+        }
+      ],
+      "id": "cc77ebf5c382",
+      "priority": 1,
+      "group": "02675fc5c2e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "please",
+      "meaning": "请",
+      "audio": "6865021aa022531160285d95871eaf5ed059e65ab7d32e03aa70689259f14ba0",
+      "id": "3ed72ab57372",
+      "priority": 1,
+      "group": "02675fc5c2e0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "thank you",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "450c90635ff0",
+      "priority": 0,
+      "group": "090c4244ac28"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "thank you"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "thank you"
+        }
+      ],
+      "id": "ad1aa6ab7b66",
+      "priority": 1,
+      "group": "090c4244ac28"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thank you",
+      "meaning": "谢谢",
+      "audio": "b9cd5ad1f5b4d0a4135b0144538231d9ba712607be019b577b0d33c763fd08e6",
+      "id": "c5359cebca45",
+      "priority": 1,
+      "group": "090c4244ac28"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "you're welcome",
+      "meaningInSourceLanguage": "不客气",
+      "id": "4fbbed4cb281",
+      "priority": 0,
+      "group": "b9b68a4b48e0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "you're welcome"
+      ],
+      "phrase": [
+        {
+          "word": "不客气",
+          "definition": "you're welcome"
+        }
+      ],
+      "id": "997632e4043d",
+      "priority": 1,
+      "group": "b9b68a4b48e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "you're welcome",
+      "meaning": "不客气",
+      "audio": "695735f72f326d48365265f1f1928e1034b1a4a9d2f900b52f81918c5e64a93e",
+      "id": "50aaf8a24f03",
+      "priority": 1,
+      "group": "b9b68a4b48e0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sorry",
+      "meaningInSourceLanguage": "对不起",
+      "id": "9f71614ffe81",
+      "priority": 0,
+      "group": "d79a47362e74"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sorry"
+      ],
+      "phrase": [
+        {
+          "word": "对不起",
+          "definition": "sorry"
+        }
+      ],
+      "id": "12dce5fd5a89",
+      "priority": 1,
+      "group": "d79a47362e74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sorry",
+      "meaning": "对不起",
+      "audio": "ee3efa94bd90d1a1c742c32a69b324c2f6afe913ad434dfd0628e137f9dba052",
+      "id": "e50be28682bd",
+      "priority": 1,
+      "group": "d79a47362e74"
+    }
+  ]
+}

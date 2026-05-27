@@ -1,0 +1,448 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "水をください。",
+      "meaningInSourceLanguage": "请给我水。",
+      "id": "2237dd0ba6ec",
+      "priority": 0,
+      "group": "0374ea45db2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "水をください。",
+      "meaning": "请给我水。",
+      "audio": "22d7991c2339a67263e38148e694d1410e988539c3216e5c80a9bda73453a057",
+      "id": "1e1a557ad873",
+      "priority": 1,
+      "group": "0374ea45db2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ご飯を食べます。",
+      "meaningInSourceLanguage": "吃饭。",
+      "id": "6a4d4f67c125",
+      "priority": 0,
+      "group": "734b27170168"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ご飯を食べます。",
+      "meaning": "吃饭。",
+      "audio": "0d58c6e4a97a6366a9b2b1d2f7199cb94e66ae3214034dd801898b8899dfdb8b",
+      "id": "9fb2762a82b7",
+      "priority": 1,
+      "group": "734b27170168"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "お茶が好きです。",
+      "meaningInSourceLanguage": "我喜欢喝茶。",
+      "id": "967d93cd9d44",
+      "priority": 0,
+      "group": "1bf8776f069f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "お茶が好きです。",
+      "meaning": "我喜欢喝茶。",
+      "audio": "787193ae5bbf21f0737907112c4a85e82cbe052364310396ccad10fac4d0ce9f",
+      "id": "3287f18deb44",
+      "priority": 1,
+      "group": "1bf8776f069f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "美味しいですね。",
+      "meaningInSourceLanguage": "很好吃呢。",
+      "id": "d8baaaf5fab5",
+      "priority": 0,
+      "group": "ded55ac4534c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "美味しいですね。",
+      "meaning": "很好吃呢。",
+      "audio": "f0957da26311faf06cf525ea334cbd4d0b56432eb692c6314dc510d59d051b0b",
+      "id": "d1dcc21d0852",
+      "priority": 1,
+      "group": "ded55ac4534c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "水",
+      "meaningInSourceLanguage": "水",
+      "id": "cce348553223",
+      "priority": 0,
+      "group": "5d0958fc4d84"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "水"
+      ],
+      "phrase": [
+        {
+          "word": "水",
+          "definition": "水"
+        }
+      ],
+      "id": "c9949376be0d",
+      "priority": 1,
+      "group": "5d0958fc4d84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "水",
+      "meaning": "水",
+      "audio": "823cce93950a6e971cf098268c9df74a5af37d6bb6c96958149c3f099badc18e",
+      "id": "1bf4fa7e7982",
+      "priority": 1,
+      "group": "5d0958fc4d84"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ご飯",
+      "meaningInSourceLanguage": "米饭",
+      "id": "a4f2a0b3c9f9",
+      "priority": 0,
+      "group": "309a48461453"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ご飯"
+      ],
+      "phrase": [
+        {
+          "word": "米饭",
+          "definition": "ご飯"
+        }
+      ],
+      "id": "96cbcee804c1",
+      "priority": 1,
+      "group": "309a48461453"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ご飯",
+      "meaning": "米饭",
+      "audio": "c839408ee566c681a7bc90e6de16dbb95b9d952a942df162cbc0c0d31ea1a566",
+      "id": "5a5640aed267",
+      "priority": 1,
+      "group": "309a48461453"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "パン",
+      "meaningInSourceLanguage": "面包",
+      "id": "c16aff54d454",
+      "priority": 0,
+      "group": "5ce827c7de3e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "パン"
+      ],
+      "phrase": [
+        {
+          "word": "面包",
+          "definition": "パン"
+        }
+      ],
+      "id": "8000bd33afdb",
+      "priority": 1,
+      "group": "5ce827c7de3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "パン",
+      "meaning": "面包",
+      "audio": "92ba49730cfab386fc9974885fb35114154c6db7ad59c85a1fc34a0278273956",
+      "id": "4473c3a213ce",
+      "priority": 1,
+      "group": "5ce827c7de3e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "牛乳",
+      "meaningInSourceLanguage": "牛奶",
+      "id": "f3c32c618100",
+      "priority": 0,
+      "group": "c0006afa8d89"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "牛乳"
+      ],
+      "phrase": [
+        {
+          "word": "牛奶",
+          "definition": "牛乳"
+        }
+      ],
+      "id": "5380a691e1eb",
+      "priority": 1,
+      "group": "c0006afa8d89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "牛乳",
+      "meaning": "牛奶",
+      "audio": "959b55f5f88064815b6ae9d5612ca0c22b80ede2a0b7e89c98da635c041fd73b",
+      "id": "6c2abc058be6",
+      "priority": 1,
+      "group": "c0006afa8d89"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "卵",
+      "meaningInSourceLanguage": "鸡蛋",
+      "id": "a8840e728ce4",
+      "priority": 0,
+      "group": "682da495b703"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "卵"
+      ],
+      "phrase": [
+        {
+          "word": "鸡蛋",
+          "definition": "卵"
+        }
+      ],
+      "id": "967966eb27c2",
+      "priority": 1,
+      "group": "682da495b703"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "卵",
+      "meaning": "鸡蛋",
+      "audio": "0133a44d8a47277d9eb612308437927785d07fad709e1e2eed569c35a50f75f9",
+      "id": "6d41b5c7f404",
+      "priority": 1,
+      "group": "682da495b703"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "魚",
+      "meaningInSourceLanguage": "鱼",
+      "id": "313ed732039b",
+      "priority": 0,
+      "group": "c4a4e40dd295"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "魚"
+      ],
+      "phrase": [
+        {
+          "word": "鱼",
+          "definition": "魚"
+        }
+      ],
+      "id": "ab0438d520b5",
+      "priority": 1,
+      "group": "c4a4e40dd295"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "魚",
+      "meaning": "鱼",
+      "audio": "2c55c8456594a6c2485bf2ed17d835418f7cabda5c1bfa4e8d9316aac56c0235",
+      "id": "64564a6fcdf2",
+      "priority": 1,
+      "group": "c4a4e40dd295"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "肉",
+      "meaningInSourceLanguage": "肉",
+      "id": "b60715451a05",
+      "priority": 0,
+      "group": "747019c632ef"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "肉"
+      ],
+      "phrase": [
+        {
+          "word": "肉",
+          "definition": "肉"
+        }
+      ],
+      "id": "e6e14b8f4366",
+      "priority": 1,
+      "group": "747019c632ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "肉",
+      "meaning": "肉",
+      "audio": "d1ce8c7fc2ffb1ad6d74e65a299869b42c9d1eeea779b008c57916823585f9b1",
+      "id": "107d7e9af553",
+      "priority": 1,
+      "group": "747019c632ef"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "野菜",
+      "meaningInSourceLanguage": "蔬菜",
+      "id": "df83b29e5d17",
+      "priority": 0,
+      "group": "d2063190c9a6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "野菜"
+      ],
+      "phrase": [
+        {
+          "word": "蔬菜",
+          "definition": "野菜"
+        }
+      ],
+      "id": "59c0f6c9de7e",
+      "priority": 1,
+      "group": "d2063190c9a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "野菜",
+      "meaning": "蔬菜",
+      "audio": "566be5e69d7032bb5de1de0ff60b0b7ac77f1efabec5cf8006798eb350c2f50a",
+      "id": "b7fb8262d72c",
+      "priority": 1,
+      "group": "d2063190c9a6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "果物",
+      "meaningInSourceLanguage": "水果",
+      "id": "4a76f1cecaf1",
+      "priority": 0,
+      "group": "d2c9b26112af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "果物"
+      ],
+      "phrase": [
+        {
+          "word": "水果",
+          "definition": "果物"
+        }
+      ],
+      "id": "269eab8bc1d4",
+      "priority": 1,
+      "group": "d2c9b26112af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "果物",
+      "meaning": "水果",
+      "audio": "beb1080bd67b593b0e7632e72b1e569cce451058cd08611494c5a05ed2bb84ab",
+      "id": "521e8e701872",
+      "priority": 1,
+      "group": "d2c9b26112af"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "お茶",
+      "meaningInSourceLanguage": "茶",
+      "id": "b65e890e2d67",
+      "priority": 0,
+      "group": "d4777c0f76e3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "お茶"
+      ],
+      "phrase": [
+        {
+          "word": "茶",
+          "definition": "お茶"
+        }
+      ],
+      "id": "067a0f34d62c",
+      "priority": 1,
+      "group": "d4777c0f76e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "お茶",
+      "meaning": "茶",
+      "audio": "0206a35d7b3afc5b3da9bc006dcb03474ed12e6db5822bf5abb1b615cc990d26",
+      "id": "0e0648c5335a",
+      "priority": 1,
+      "group": "d4777c0f76e3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "コーヒー",
+      "meaningInSourceLanguage": "咖啡",
+      "id": "7fd9f868fcb0",
+      "priority": 0,
+      "group": "fadb44029283"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "コーヒー"
+      ],
+      "phrase": [
+        {
+          "word": "咖啡",
+          "definition": "コーヒー"
+        }
+      ],
+      "id": "afae07278de2",
+      "priority": 1,
+      "group": "fadb44029283"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "コーヒー",
+      "meaning": "咖啡",
+      "audio": "118059e27bdd2811be1f76a267a6e5a0ecac9890e5874e77f0a05c134045b1b0",
+      "id": "d21de973bc0e",
+      "priority": 1,
+      "group": "fadb44029283"
+    }
+  ]
+}
