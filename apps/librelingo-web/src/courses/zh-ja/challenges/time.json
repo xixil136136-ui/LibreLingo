@@ -1,0 +1,448 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "朝に。",
+      "meaningInSourceLanguage": "在早上。",
+      "id": "daa46dfdf22f",
+      "priority": 0,
+      "group": "1901f6f8433c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "朝に。",
+      "meaning": "在早上。",
+      "audio": "c80d8083bd92a10f62841bc2e699e380ca8a0e6eee9188e1aaaf3b4c89c7aab3",
+      "id": "e36bd036ece9",
+      "priority": 1,
+      "group": "1901f6f8433c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "また明日。",
+      "meaningInSourceLanguage": "明天见。",
+      "id": "7d5950f48afe",
+      "priority": 0,
+      "group": "ebbee26d01e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "また明日。",
+      "meaning": "明天见。",
+      "audio": "50b4faf069b0c9201191c9dd7d75eb269b481961a5319950df5b2f2b32816aa4",
+      "id": "d631e1e7afa9",
+      "priority": 1,
+      "group": "ebbee26d01e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "早朝です。",
+      "meaningInSourceLanguage": "现在是清晨。",
+      "id": "6dabf9eee191",
+      "priority": 0,
+      "group": "3a30f5f330c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "早朝です。",
+      "meaning": "现在是清晨。",
+      "audio": "89b643ede9179d569831f924c34fbad0efbdf9a1994a775498aa57cdae2ce3b1",
+      "id": "69cdd2462d4c",
+      "priority": 1,
+      "group": "3a30f5f330c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "今は暇です。",
+      "meaningInSourceLanguage": "我现在有空。",
+      "id": "9b717ec2f318",
+      "priority": 0,
+      "group": "441bcf62a548"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "今は暇です。",
+      "meaning": "我现在有空。",
+      "audio": "8d83b0f27b007fa5bc373cdcae9ec2f48d320f573219a334c232f09ad1b7a87d",
+      "id": "8d20ce327b50",
+      "priority": 1,
+      "group": "441bcf62a548"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "また後で。",
+      "meaningInSourceLanguage": "回头见。",
+      "id": "c5a9c8d365bc",
+      "priority": 0,
+      "group": "b4041bc20254"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "また後で。",
+      "meaning": "回头见。",
+      "audio": "99bb621ce641e9d3f3f728cd9a71576b246e38031c73ff32995dd55af5e4b5b7",
+      "id": "c6d2c74f8572",
+      "priority": 1,
+      "group": "b4041bc20254"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "午後に。",
+      "meaningInSourceLanguage": "在下午。",
+      "id": "23364e194fcd",
+      "priority": 0,
+      "group": "7ac900935178"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "午後に。",
+      "meaning": "在下午。",
+      "audio": "61f7cdac8a4e0177cf7787de8cc78b7f64c92bae954c672589408ad36f2718f9",
+      "id": "985cc98c00b4",
+      "priority": 1,
+      "group": "7ac900935178"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "朝",
+      "meaningInSourceLanguage": "早上",
+      "id": "e729235b30cd",
+      "priority": 0,
+      "group": "1e1689e0e6a5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "朝"
+      ],
+      "phrase": [
+        {
+          "word": "早上",
+          "definition": "朝"
+        }
+      ],
+      "id": "4d8f22edaaac",
+      "priority": 1,
+      "group": "1e1689e0e6a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "朝",
+      "meaning": "早上",
+      "audio": "16e2d2805356a82686a3ea8acc54d820287e053f1b6b279f6616cc78f73e1ad1",
+      "id": "3b168675c6e1",
+      "priority": 1,
+      "group": "1e1689e0e6a5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "午後",
+      "meaningInSourceLanguage": "下午",
+      "id": "111e1d971027",
+      "priority": 0,
+      "group": "8e3f60acc1ed"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "午後"
+      ],
+      "phrase": [
+        {
+          "word": "下午",
+          "definition": "午後"
+        }
+      ],
+      "id": "f54b8cf63cf8",
+      "priority": 1,
+      "group": "8e3f60acc1ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "午後",
+      "meaning": "下午",
+      "audio": "4ac3abeada10a78384b31c6402fba88556536f63d5f4cf6825724813cd900f6d",
+      "id": "8570b72697da",
+      "priority": 1,
+      "group": "8e3f60acc1ed"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "夕方",
+      "meaningInSourceLanguage": "晚上",
+      "id": "1365923713b1",
+      "priority": 0,
+      "group": "cf642eb04a2c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "夕方"
+      ],
+      "phrase": [
+        {
+          "word": "晚上",
+          "definition": "夕方"
+        }
+      ],
+      "id": "95d28d84127e",
+      "priority": 1,
+      "group": "cf642eb04a2c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "夕方",
+      "meaning": "晚上",
+      "audio": "3950280eddb54cad4e5961de0cfe945b4caabe331f802b8c533432a0495f6574",
+      "id": "66d9109b8594",
+      "priority": 1,
+      "group": "cf642eb04a2c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "夜",
+      "meaningInSourceLanguage": "夜晚",
+      "id": "5cd7df2c4f30",
+      "priority": 0,
+      "group": "e897f9cb4fa6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "夜"
+      ],
+      "phrase": [
+        {
+          "word": "夜晚",
+          "definition": "夜"
+        }
+      ],
+      "id": "9e3138b7d347",
+      "priority": 1,
+      "group": "e897f9cb4fa6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "夜",
+      "meaning": "夜晚",
+      "audio": "9e08f19f7274fd3e34b8ad3a6bad8999ea30c12d3bfa26f397a4b0e7500838f5",
+      "id": "b340237dc359",
+      "priority": 1,
+      "group": "e897f9cb4fa6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "今日",
+      "meaningInSourceLanguage": "今天",
+      "id": "d83d4b7319f3",
+      "priority": 0,
+      "group": "f040c887085c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "今日"
+      ],
+      "phrase": [
+        {
+          "word": "今天",
+          "definition": "今日"
+        }
+      ],
+      "id": "68ee14029336",
+      "priority": 1,
+      "group": "f040c887085c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "今日",
+      "meaning": "今天",
+      "audio": "09fdd3683552bd0c66b2351298e5a62483103921876f350f1624927e7c89caea",
+      "id": "623332f84162",
+      "priority": 1,
+      "group": "f040c887085c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "明日",
+      "meaningInSourceLanguage": "明天",
+      "id": "e0abd11b82a1",
+      "priority": 0,
+      "group": "68c0c58114e8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "明日"
+      ],
+      "phrase": [
+        {
+          "word": "明天",
+          "definition": "明日"
+        }
+      ],
+      "id": "401b6875c3a1",
+      "priority": 1,
+      "group": "68c0c58114e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "明日",
+      "meaning": "明天",
+      "audio": "3c742c8123a7fd0f4eb06f3842ba99cb24ff81775d791b3607a46e58ba52d893",
+      "id": "27867b91d7d5",
+      "priority": 1,
+      "group": "68c0c58114e8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "昨日",
+      "meaningInSourceLanguage": "昨天",
+      "id": "c1bcd69ddc13",
+      "priority": 0,
+      "group": "0c69abeb2913"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "昨日"
+      ],
+      "phrase": [
+        {
+          "word": "昨天",
+          "definition": "昨日"
+        }
+      ],
+      "id": "a1a2e0797e25",
+      "priority": 1,
+      "group": "0c69abeb2913"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "昨日",
+      "meaning": "昨天",
+      "audio": "ac9cf6ff6f716e849b9cd94e1fbdf9eb133682ebeabb4c7512fb921ff955d17a",
+      "id": "05228b411735",
+      "priority": 1,
+      "group": "0c69abeb2913"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "今",
+      "meaningInSourceLanguage": "现在",
+      "id": "f1ed60672466",
+      "priority": 0,
+      "group": "765e75776ca2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "今"
+      ],
+      "phrase": [
+        {
+          "word": "现在",
+          "definition": "今"
+        }
+      ],
+      "id": "1b84ac9470d3",
+      "priority": 1,
+      "group": "765e75776ca2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "今",
+      "meaning": "现在",
+      "audio": "8762a06d6a9f7ba9f2818ea8e622e7480a04d973f711bfedb0fbc0a7cda9bc60",
+      "id": "6d8791655fea",
+      "priority": 1,
+      "group": "765e75776ca2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "後で",
+      "meaningInSourceLanguage": "稍后",
+      "id": "552d28281fa3",
+      "priority": 0,
+      "group": "f410d10ee899"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "後で"
+      ],
+      "phrase": [
+        {
+          "word": "稍后",
+          "definition": "後で"
+        }
+      ],
+      "id": "e69a4ff72dae",
+      "priority": 1,
+      "group": "f410d10ee899"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "後で",
+      "meaning": "稍后",
+      "audio": "c50fb628ff4536ec62e47ae3c387896a81d798a0258b5ffa64071193fa439dc1",
+      "id": "358259b4e04f",
+      "priority": 1,
+      "group": "f410d10ee899"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "早い",
+      "meaningInSourceLanguage": "早",
+      "id": "5ff211881634",
+      "priority": 0,
+      "group": "2397d584b43d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "早い"
+      ],
+      "phrase": [
+        {
+          "word": "早",
+          "definition": "早い"
+        }
+      ],
+      "id": "7767d454ba07",
+      "priority": 1,
+      "group": "2397d584b43d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "早い",
+      "meaning": "早",
+      "audio": "c84336dc0b4915584bd5eb408fcba34cab83df464322820bf425ad1130f8ad57",
+      "id": "d678e136b13f",
+      "priority": 1,
+      "group": "2397d584b43d"
+    }
+  ]
+}

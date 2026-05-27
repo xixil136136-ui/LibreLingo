@@ -1,0 +1,822 @@
+{
+  "id": "57dc93dc8711",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "copyright",
+      "meaningInSourceLanguage": "版权",
+      "id": "1e9386ffa588",
+      "priority": 0,
+      "group": "bc2538a4ea1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "copyright",
+      "meaning": "版权",
+      "audio": "30f40cc4670443008c73473fd981a663",
+      "id": "6de5a1ab2fc1",
+      "priority": 1,
+      "group": "bc2538a4ea1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "patent",
+      "meaningInSourceLanguage": "专利",
+      "id": "3c23e66732e4",
+      "priority": 0,
+      "group": "7e7df2fccd51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "patent",
+      "meaning": "专利",
+      "audio": "40c3e06efd874e15ac63f94b72b5ab05",
+      "id": "c1c677b98366",
+      "priority": 1,
+      "group": "7e7df2fccd51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "indemnity",
+      "meaningInSourceLanguage": "赔偿",
+      "id": "e9d34f1a785e",
+      "priority": 0,
+      "group": "68c3e7555495"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "indemnity",
+      "meaning": "赔偿",
+      "audio": "45727ea08f1d4295a046caf2166c6dc4",
+      "id": "861983e0cc62",
+      "priority": 1,
+      "group": "68c3e7555495"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "liability",
+      "meaningInSourceLanguage": "责任",
+      "id": "ad6e5b877a96",
+      "priority": 0,
+      "group": "ac4575a49a25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "liability",
+      "meaning": "责任",
+      "audio": "2b22178a249e4129b5122f676ccba02b",
+      "id": "14b901c07800",
+      "priority": 1,
+      "group": "ac4575a49a25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shareholder",
+      "meaningInSourceLanguage": "股东",
+      "id": "833befdc28b4",
+      "priority": 0,
+      "group": "e8c29cc0af81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shareholder",
+      "meaning": "股东",
+      "audio": "9453a04b29c74bc29e6bb9781fee9bed",
+      "id": "c7b49cacf836",
+      "priority": 1,
+      "group": "e8c29cc0af81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "board of directors",
+      "meaningInSourceLanguage": "董事会",
+      "id": "606819b8bee4",
+      "priority": 0,
+      "group": "43613e6e1e2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "board of directors",
+      "meaning": "董事会",
+      "audio": "a06f2f9627bc46c7b467183257edd717",
+      "id": "75abb430099d",
+      "priority": 1,
+      "group": "43613e6e1e2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "annual report",
+      "meaningInSourceLanguage": "年度报告",
+      "id": "1adb47e47ae7",
+      "priority": 0,
+      "group": "a3149cd667d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "annual report",
+      "meaning": "年度报告",
+      "audio": "56cce909dff845a3a48e297c4df8a53d",
+      "id": "7fad0b91c5ea",
+      "priority": 1,
+      "group": "a3149cd667d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quarterly report",
+      "meaningInSourceLanguage": "季度报告",
+      "id": "2b0317558e02",
+      "priority": 0,
+      "group": "8a17af7da84e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quarterly report",
+      "meaning": "季度报告",
+      "audio": "61ccb50d18744733895256b8fab5ea1f",
+      "id": "703bc0682728",
+      "priority": 1,
+      "group": "8a17af7da84e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "balance sheet",
+      "meaningInSourceLanguage": "资产负债表",
+      "id": "59aa9960615c",
+      "priority": 0,
+      "group": "1c0738112582"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "balance sheet",
+      "meaning": "资产负债表",
+      "audio": "1787dd699a81449abf10028a2a9f5a12",
+      "id": "1d1d87ade5d5",
+      "priority": 1,
+      "group": "1c0738112582"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "income statement",
+      "meaningInSourceLanguage": "损益表",
+      "id": "c139babf71e5",
+      "priority": 0,
+      "group": "39f4558328eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "income statement",
+      "meaning": "损益表",
+      "audio": "ecdf71aa524f4161bc4c44b5e86e8351",
+      "id": "47c6695301e9",
+      "priority": 1,
+      "group": "39f4558328eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cash flow",
+      "meaningInSourceLanguage": "现金流",
+      "id": "5a0d19f9ce39",
+      "priority": 0,
+      "group": "fe7e0df2279b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cash flow",
+      "meaning": "现金流",
+      "audio": "4f43d46e0ff94788a06fbcde9ff917a0",
+      "id": "eba1845547fb",
+      "priority": 1,
+      "group": "fe7e0df2279b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "profit margin",
+      "meaningInSourceLanguage": "利润率",
+      "id": "59af789c78c9",
+      "priority": 0,
+      "group": "2e325811a259"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "profit margin",
+      "meaning": "利润率",
+      "audio": "3aa9b9401a4e436db3e253af577c5584",
+      "id": "da2685d5828d",
+      "priority": 1,
+      "group": "2e325811a259"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ROI",
+      "meaningInSourceLanguage": "投资回报率",
+      "id": "7091e675654b",
+      "priority": 0,
+      "group": "5236d1ba8e08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ROI",
+      "meaning": "投资回报率",
+      "audio": "1e56a14c89ed4087aff02ea3fa18af17",
+      "id": "ca254876446f",
+      "priority": 1,
+      "group": "5236d1ba8e08"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "break-even",
+      "meaningInSourceLanguage": "盈亏平衡",
+      "id": "eef969ff13d6",
+      "priority": 0,
+      "group": "712ed38a23e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "break-even",
+      "meaning": "盈亏平衡",
+      "audio": "87ad00e8b5e7478cb0021ec75cbacf17",
+      "id": "c486c6189e35",
+      "priority": 1,
+      "group": "712ed38a23e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scalable",
+      "meaningInSourceLanguage": "可扩展的",
+      "id": "3f6d984b4f17",
+      "priority": 0,
+      "group": "fc9105648f04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scalable",
+      "meaning": "可扩展的",
+      "audio": "902ef5b143da4c7f9a9a4414b7388646",
+      "id": "5b205dfe67b9",
+      "priority": 1,
+      "group": "fc9105648f04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sustainable",
+      "meaningInSourceLanguage": "可持续的",
+      "id": "4193c99c2783",
+      "priority": 0,
+      "group": "975fdf61c252"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sustainable",
+      "meaning": "可持续的",
+      "audio": "eea1c28b6e6f4457a6ca6e42b4959f05",
+      "id": "106f5eabbc24",
+      "priority": 1,
+      "group": "975fdf61c252"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "competitive",
+      "meaningInSourceLanguage": "有竞争力的",
+      "id": "ebf3ae868017",
+      "priority": 0,
+      "group": "ddc8ac53fa96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "competitive",
+      "meaning": "有竞争力的",
+      "audio": "81aa4fc9c4f64a468ff09af95ddab0f0",
+      "id": "685bf4d70f18",
+      "priority": 1,
+      "group": "ddc8ac53fa96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "disruptive",
+      "meaningInSourceLanguage": "颠覆性的",
+      "id": "9a1ac566b248",
+      "priority": 0,
+      "group": "9ca4a3efec0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "disruptive",
+      "meaning": "颠覆性的",
+      "audio": "6f89b396deb5476eacd32b86de764848",
+      "id": "ee22f69e10ea",
+      "priority": 1,
+      "group": "9ca4a3efec0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leverage",
+      "meaningInSourceLanguage": "杠杆",
+      "id": "1590a2ea2cbc",
+      "priority": 0,
+      "group": "a3c8d0fd445f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leverage",
+      "meaning": "杠杆",
+      "audio": "7db98124f57945188a6535ba689e1867",
+      "id": "2977297434cf",
+      "priority": 1,
+      "group": "a3c8d0fd445f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "synergy",
+      "meaningInSourceLanguage": "协同效应",
+      "id": "618dc8624352",
+      "priority": 0,
+      "group": "2d85d4d1a50f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "synergy",
+      "meaning": "协同效应",
+      "audio": "6a20b69a6ddc48b7b5e14b78bf67ebe6",
+      "id": "f45fb3666727",
+      "priority": 1,
+      "group": "2d85d4d1a50f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "benchmark",
+      "meaningInSourceLanguage": "基准",
+      "id": "cbbab35ab31c",
+      "priority": 0,
+      "group": "37a6519e8230"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "benchmark",
+      "meaning": "基准",
+      "audio": "5b56027f32504adf95618f88a8bc7b47",
+      "id": "8b46f62f590a",
+      "priority": 1,
+      "group": "37a6519e8230"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "best practice",
+      "meaningInSourceLanguage": "最佳实践",
+      "id": "9afd0535d97d",
+      "priority": 0,
+      "group": "45f51797a262"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "best practice",
+      "meaning": "最佳实践",
+      "audio": "20ec2eecfa494b01b0c11d8656a1dc16",
+      "id": "36bec34e8336",
+      "priority": 1,
+      "group": "45f51797a262"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "KPI",
+      "meaningInSourceLanguage": "关键绩效指标",
+      "id": "574cf860b561",
+      "priority": 0,
+      "group": "42c8444a47ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "KPI",
+      "meaning": "关键绩效指标",
+      "audio": "5656eca6ede44946be987ce998f01e6c",
+      "id": "ae82db984e3f",
+      "priority": 1,
+      "group": "42c8444a47ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "OKR",
+      "meaningInSourceLanguage": "目标和关键成果",
+      "id": "a8f210e17196",
+      "priority": 0,
+      "group": "783cc297d7b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "OKR",
+      "meaning": "目标和关键成果",
+      "audio": "c3d52529d0ab4e87a6949356873e50fb",
+      "id": "45a6bc1c9458",
+      "priority": 1,
+      "group": "783cc297d7b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "SWOT analysis",
+      "meaningInSourceLanguage": "SWOT分析",
+      "id": "991d41ae1462",
+      "priority": 0,
+      "group": "b7d6f5db7ed6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "SWOT analysis",
+      "meaning": "SWOT分析",
+      "audio": "c1b6cd58d4f14582925086d96793b958",
+      "id": "54dd0ed437bd",
+      "priority": 1,
+      "group": "b7d6f5db7ed6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "PEST analysis",
+      "meaningInSourceLanguage": "PEST分析",
+      "id": "9ffd6f4d4446",
+      "priority": 0,
+      "group": "2a7ec5362e84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "PEST analysis",
+      "meaning": "PEST分析",
+      "audio": "c0e3f897636140099cee72ea4f929949",
+      "id": "218f3fb38121",
+      "priority": 1,
+      "group": "2a7ec5362e84"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "due diligence",
+      "meaningInSourceLanguage": "尽职调查",
+      "id": "239af009b745",
+      "priority": 0,
+      "group": "69d28b3bc4f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "due diligence",
+      "meaning": "尽职调查",
+      "audio": "eb0b85395d4141d48f49446690126fb9",
+      "id": "82b826d0cc4b",
+      "priority": 1,
+      "group": "69d28b3bc4f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "feasibility study",
+      "meaningInSourceLanguage": "可行性研究",
+      "id": "258d0707a6fb",
+      "priority": 0,
+      "group": "4022f789a2f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "feasibility study",
+      "meaning": "可行性研究",
+      "audio": "d0c581509c5b4d74b7f05605d238db8d",
+      "id": "3499f91a710b",
+      "priority": 1,
+      "group": "4022f789a2f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "market research",
+      "meaningInSourceLanguage": "市场调研",
+      "id": "7141db9d9aa0",
+      "priority": 0,
+      "group": "93842296b0cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "market research",
+      "meaning": "市场调研",
+      "audio": "9e7cef3754914096a69efd0246c05cfb",
+      "id": "44e0c81288ad",
+      "priority": 1,
+      "group": "93842296b0cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "competitive analysis",
+      "meaningInSourceLanguage": "竞争分析",
+      "id": "b14a0de4b5f0",
+      "priority": 0,
+      "group": "ecafc97536ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "competitive analysis",
+      "meaning": "竞争分析",
+      "audio": "0e045a43d37148e995b64b11cf58ea76",
+      "id": "1b3a452a1392",
+      "priority": 1,
+      "group": "ecafc97536ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "target audience",
+      "meaningInSourceLanguage": "目标受众",
+      "id": "90bf888d98e9",
+      "priority": 0,
+      "group": "4f1e14c3f992"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "target audience",
+      "meaning": "目标受众",
+      "audio": "65b5031b0bdc447a81bc01a7f1540309",
+      "id": "2c5f31b905d3",
+      "priority": 1,
+      "group": "4f1e14c3f992"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "demographics",
+      "meaningInSourceLanguage": "人口统计",
+      "id": "13326a191359",
+      "priority": 0,
+      "group": "1172572170d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "demographics",
+      "meaning": "人口统计",
+      "audio": "10c96541b0024b39886e0610542d4db8",
+      "id": "2c2980728ad2",
+      "priority": 1,
+      "group": "1172572170d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customer segment",
+      "meaningInSourceLanguage": "客户细分",
+      "id": "cad0d062ca15",
+      "priority": 0,
+      "group": "7f8d60e5e3c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customer segment",
+      "meaning": "客户细分",
+      "audio": "3aeb3f8e0efc4dc7b4383bea73c3cca7",
+      "id": "19218fd02dd7",
+      "priority": 1,
+      "group": "7f8d60e5e3c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "value proposition",
+      "meaningInSourceLanguage": "价值主张",
+      "id": "6e9a15fdd2c8",
+      "priority": 0,
+      "group": "3d17781a261b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "value proposition",
+      "meaning": "价值主张",
+      "audio": "b1d2bc6522fb422e9ab102bef4c0ccac",
+      "id": "43a274a8e672",
+      "priority": 1,
+      "group": "3d17781a261b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "unique selling point",
+      "meaningInSourceLanguage": "独特卖点",
+      "id": "3264949bbf0e",
+      "priority": 0,
+      "group": "0a8501d127f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "unique selling point",
+      "meaning": "独特卖点",
+      "audio": "f5837a49da6e4b759f41b0f2311e8369",
+      "id": "fa6d211f07e7",
+      "priority": 1,
+      "group": "0a8501d127f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "differentiation",
+      "meaningInSourceLanguage": "差异化",
+      "id": "2573f864f0ab",
+      "priority": 0,
+      "group": "9f6d287bc998"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "differentiation",
+      "meaning": "差异化",
+      "audio": "14a3b696c02d457da23572ba23e9544e",
+      "id": "8eb370867da7",
+      "priority": 1,
+      "group": "9f6d287bc998"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brand awareness",
+      "meaningInSourceLanguage": "品牌知名度",
+      "id": "ac5cfb5d0432",
+      "priority": 0,
+      "group": "d21e6ce91ca0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brand awareness",
+      "meaning": "品牌知名度",
+      "audio": "8d44f4721aa840e49560b1b3a3543575",
+      "id": "4a5ebb62a57d",
+      "priority": 1,
+      "group": "d21e6ce91ca0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brand loyalty",
+      "meaningInSourceLanguage": "品牌忠诚度",
+      "id": "879fe41df09e",
+      "priority": 0,
+      "group": "5ef2c371f8eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brand loyalty",
+      "meaning": "品牌忠诚度",
+      "audio": "236ad748fab44cb1a3990cac008208e8",
+      "id": "fb1b03b3067f",
+      "priority": 1,
+      "group": "5ef2c371f8eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customer retention",
+      "meaningInSourceLanguage": "客户留存",
+      "id": "3119a1fe7511",
+      "priority": 0,
+      "group": "8b3c1d028fce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customer retention",
+      "meaning": "客户留存",
+      "audio": "5e10a8ca2537440285b45483c3c7a5b4",
+      "id": "903f160709a2",
+      "priority": 1,
+      "group": "8b3c1d028fce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customer acquisition",
+      "meaningInSourceLanguage": "客户获取",
+      "id": "f36970e74333",
+      "priority": 0,
+      "group": "6e7111a07415"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customer acquisition",
+      "meaning": "客户获取",
+      "audio": "e73bd27a58214a4696117a1cffc4793d",
+      "id": "8e47e1d43452",
+      "priority": 1,
+      "group": "6e7111a07415"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conversion rate",
+      "meaningInSourceLanguage": "转化率",
+      "id": "a629452802f0",
+      "priority": 0,
+      "group": "2c6e69af0565"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conversion rate",
+      "meaning": "转化率",
+      "audio": "1c34eb1e8099477ca17e3927a149d96f",
+      "id": "0b7ac53d5d72",
+      "priority": 1,
+      "group": "2c6e69af0565"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "click-through rate",
+      "meaningInSourceLanguage": "点击率",
+      "id": "55f43f848c1f",
+      "priority": 0,
+      "group": "064004163b43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "click-through rate",
+      "meaning": "点击率",
+      "audio": "0e4fd5f891c94907b08ab625539c24fd",
+      "id": "90e371a7d9bc",
+      "priority": 1,
+      "group": "064004163b43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lead generation",
+      "meaningInSourceLanguage": "潜在客户生成",
+      "id": "0c1cc137690f",
+      "priority": 0,
+      "group": "12de38fb0bbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lead generation",
+      "meaning": "潜在客户生成",
+      "audio": "099adc0a3c81430d9e02a747313b8245",
+      "id": "b4dd22b8ef1b",
+      "priority": 1,
+      "group": "12de38fb0bbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sales funnel",
+      "meaningInSourceLanguage": "销售漏斗",
+      "id": "a18ee4f6febf",
+      "priority": 0,
+      "group": "c6ba4e80b4e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sales funnel",
+      "meaning": "销售漏斗",
+      "audio": "10d16fb144b3412b9d840ea854817e37",
+      "id": "10a2daf370b6",
+      "priority": 1,
+      "group": "c6ba4e80b4e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cold call",
+      "meaningInSourceLanguage": "陌生电话",
+      "id": "888e8480add0",
+      "priority": 0,
+      "group": "a5743cd68d98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cold call",
+      "meaning": "陌生电话",
+      "audio": "7cf9dbdfafff4ef183eaec63631a7c08",
+      "id": "4f377f847071",
+      "priority": 1,
+      "group": "a5743cd68d98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cold email",
+      "meaningInSourceLanguage": "陌生邮件",
+      "id": "3780d77fdc49",
+      "priority": 0,
+      "group": "21e1b5edfa33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cold email",
+      "meaning": "陌生邮件",
+      "audio": "4b9dc79a462b4a22928ac2526d7e5de9",
+      "id": "98a7568a2148",
+      "priority": 1,
+      "group": "21e1b5edfa33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "follow up",
+      "meaningInSourceLanguage": "跟进",
+      "id": "b9a1379d1f5c",
+      "priority": 0,
+      "group": "49d879ed86e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "follow up",
+      "meaning": "跟进",
+      "audio": "a87b6bb975f6473fa869b50ee50092ae",
+      "id": "2998774b64cb",
+      "priority": 1,
+      "group": "49d879ed86e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prospect",
+      "meaningInSourceLanguage": "潜在客户",
+      "id": "a35d2a38a2ad",
+      "priority": 0,
+      "group": "72d036f31976"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prospect",
+      "meaning": "潜在客户",
+      "audio": "c4bbf4985a2b484b8376d62bfc9ff2a9",
+      "id": "25773e15d783",
+      "priority": 1,
+      "group": "72d036f31976"
+    }
+  ]
+}

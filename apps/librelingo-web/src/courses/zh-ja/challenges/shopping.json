@@ -1,0 +1,482 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "これはいくらですか？",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "8f4abda50ba2",
+      "priority": 0,
+      "group": "f7559e14e8ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "これはいくらですか？",
+      "meaning": "这个多少钱？",
+      "audio": "fcfa17bdab9ed0d9d17379bc0bd5d813195aad4d1be4224119270472ecc1a3e1",
+      "id": "9818e13cc256",
+      "priority": 1,
+      "group": "f7559e14e8ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "高すぎます。",
+      "meaningInSourceLanguage": "太贵了。",
+      "id": "eab3de284c91",
+      "priority": 0,
+      "group": "89eb5f9df9e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "高すぎます。",
+      "meaning": "太贵了。",
+      "audio": "c848a1dd9fb7265386a3e63d3ed88942148588c5f7694aa01ebe7d28097f45b7",
+      "id": "4e5050c628c3",
+      "priority": 1,
+      "group": "89eb5f9df9e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "これは品質が良いです。",
+      "meaningInSourceLanguage": "这个质量很好。",
+      "id": "5d5004338bcf",
+      "priority": 0,
+      "group": "9cc29cb27bff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "これは品質が良いです。",
+      "meaning": "这个质量很好。",
+      "audio": "761c504f8f313591457e3d9b9217e90dd786e1735aa5403f0981a8a26e9267bb",
+      "id": "a0f4e66f79d2",
+      "priority": 1,
+      "group": "9cc29cb27bff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "店は営業中ですか？",
+      "meaningInSourceLanguage": "商店开门吗？",
+      "id": "a74e53e0fd1d",
+      "priority": 0,
+      "group": "842d7810a41d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "店は営業中ですか？",
+      "meaning": "商店开门吗？",
+      "audio": "3db12c9777361d7316c1474ab23eb0ebe0485eabdcc0297b2fc9c0e1a4eff12b",
+      "id": "be8033b33b50",
+      "priority": 1,
+      "group": "842d7810a41d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "今日は閉店です。",
+      "meaningInSourceLanguage": "今天关门了。",
+      "id": "6a35d6e07727",
+      "priority": 0,
+      "group": "ec1e2dc6783d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "今日は閉店です。",
+      "meaning": "今天关门了。",
+      "audio": "5a890a53052aebceca50e0c15f237b4430fcb19d50dc5f027834516dfca2dfa7",
+      "id": "677168f35851",
+      "priority": 1,
+      "group": "ec1e2dc6783d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "これを返品できますか？",
+      "meaningInSourceLanguage": "能退货吗？",
+      "id": "2381298b581f",
+      "priority": 0,
+      "group": "839100ed0ef1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "これを返品できますか？",
+      "meaning": "能退货吗？",
+      "audio": "a2d35a6ddebf3c298f21bfe4cfe291814f3055e3d1983247bf3b4aa3abc74f0d",
+      "id": "d02c177850ce",
+      "priority": 1,
+      "group": "839100ed0ef1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "店はあそこです。",
+      "meaningInSourceLanguage": "商店在那里。",
+      "id": "9304948a0202",
+      "priority": 0,
+      "group": "baf1f9eda00f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "店はあそこです。",
+      "meaning": "商店在那里。",
+      "audio": "142348e46f45ff4bee60e7b1cbc64d55623876d8249c5f63c8fc9204f3f7a8e4",
+      "id": "e61eb5f81483",
+      "priority": 1,
+      "group": "baf1f9eda00f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "お金がありません。",
+      "meaningInSourceLanguage": "我没钱。",
+      "id": "d571a51c3aaa",
+      "priority": 0,
+      "group": "e49e4e0aa578"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "お金がありません。",
+      "meaning": "我没钱。",
+      "audio": "52a0c61ab7781bd4f29900cda940850f661225e9e3a13dcbbeabf1e6cc06b145",
+      "id": "33907e3d2091",
+      "priority": 1,
+      "group": "e49e4e0aa578"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "店",
+      "meaningInSourceLanguage": "商店",
+      "id": "61206e144c81",
+      "priority": 0,
+      "group": "52f6f57ba00f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "店"
+      ],
+      "phrase": [
+        {
+          "word": "商店",
+          "definition": "店"
+        }
+      ],
+      "id": "e1fd190e5940",
+      "priority": 1,
+      "group": "52f6f57ba00f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "店",
+      "meaning": "商店",
+      "audio": "898cbe506ce7d94f048d210391f2a78aa3aaa5d8673656a6e7cd47e0db00cc33",
+      "id": "f04b9097a484",
+      "priority": 1,
+      "group": "52f6f57ba00f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "値段",
+      "meaningInSourceLanguage": "价格",
+      "id": "77542743d5c3",
+      "priority": 0,
+      "group": "caa5e88ac0a5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "値段"
+      ],
+      "phrase": [
+        {
+          "word": "价格",
+          "definition": "値段"
+        }
+      ],
+      "id": "9cb73e0642db",
+      "priority": 1,
+      "group": "caa5e88ac0a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "値段",
+      "meaning": "价格",
+      "audio": "47f4be34f4e07a2c6499c4ea104bc313fd765ca177944db57234d905f30b8ebc",
+      "id": "c4e234944dd2",
+      "priority": 1,
+      "group": "caa5e88ac0a5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "高い",
+      "meaningInSourceLanguage": "贵的",
+      "id": "15d1633895e3",
+      "priority": 0,
+      "group": "eea1522d8de9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "高い"
+      ],
+      "phrase": [
+        {
+          "word": "贵的",
+          "definition": "高い"
+        }
+      ],
+      "id": "405e8089fae2",
+      "priority": 1,
+      "group": "eea1522d8de9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "高い",
+      "meaning": "贵的",
+      "audio": "a4ff69467d6f48374c4f6334f8100b94e16aafb9170c90a852815179d325dd75",
+      "id": "4856d75a0e63",
+      "priority": 1,
+      "group": "eea1522d8de9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "安い",
+      "meaningInSourceLanguage": "便宜的",
+      "id": "865abde6a154",
+      "priority": 0,
+      "group": "267e7f15165f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "安い"
+      ],
+      "phrase": [
+        {
+          "word": "便宜的",
+          "definition": "安い"
+        }
+      ],
+      "id": "134198b4fc1a",
+      "priority": 1,
+      "group": "267e7f15165f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "安い",
+      "meaning": "便宜的",
+      "audio": "fefae3775c8fb19e03f944f054c475d9dd18f43e19ec22be1e71e52ab6037dd2",
+      "id": "9fa2499bfbc2",
+      "priority": 1,
+      "group": "267e7f15165f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "お金",
+      "meaningInSourceLanguage": "钱",
+      "id": "caab01f8c6ad",
+      "priority": 0,
+      "group": "c9afa82a7ce8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "お金"
+      ],
+      "phrase": [
+        {
+          "word": "钱",
+          "definition": "お金"
+        }
+      ],
+      "id": "1f0c80d5928d",
+      "priority": 1,
+      "group": "c9afa82a7ce8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "お金",
+      "meaning": "钱",
+      "audio": "e161c748dc388834cef14ac737bc492e9b72ed3e1c0396d7d93b87afd9e10c03",
+      "id": "40d93d94a5f8",
+      "priority": 1,
+      "group": "c9afa82a7ce8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "品質",
+      "meaningInSourceLanguage": "质量",
+      "id": "f95391617a5e",
+      "priority": 0,
+      "group": "c4c1e2fd2c8c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "品質"
+      ],
+      "phrase": [
+        {
+          "word": "质量",
+          "definition": "品質"
+        }
+      ],
+      "id": "ffd299a4d1e7",
+      "priority": 1,
+      "group": "c4c1e2fd2c8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "品質",
+      "meaning": "质量",
+      "audio": "de0600f9752d199f661daed268e0cba5b113a2cf96b6bac04b53a7372b5a45f7",
+      "id": "ff84b621c1d4",
+      "priority": 1,
+      "group": "c4c1e2fd2c8c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ブランド",
+      "meaningInSourceLanguage": "品牌",
+      "id": "2b241e186613",
+      "priority": 0,
+      "group": "9319c5fadf5d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ブランド"
+      ],
+      "phrase": [
+        {
+          "word": "品牌",
+          "definition": "ブランド"
+        }
+      ],
+      "id": "b1fe1abb4fd0",
+      "priority": 1,
+      "group": "9319c5fadf5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ブランド",
+      "meaning": "品牌",
+      "audio": "7e401e147719738a52ceb89e2909a2ee522c7e5d64fca19f4fb2250980125270",
+      "id": "65a90ce4146c",
+      "priority": 1,
+      "group": "9319c5fadf5d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "返品",
+      "meaningInSourceLanguage": "退货",
+      "id": "3d7a170cc442",
+      "priority": 0,
+      "group": "0b8d633d5ca1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "返品"
+      ],
+      "phrase": [
+        {
+          "word": "退货",
+          "definition": "返品"
+        }
+      ],
+      "id": "fa42016c10eb",
+      "priority": 1,
+      "group": "0b8d633d5ca1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "返品",
+      "meaning": "退货",
+      "audio": "b0176be5d242ce8b83726bd901a94b023534a00a0cc4da23ece2da310884d3f2",
+      "id": "7a0a458daf95",
+      "priority": 1,
+      "group": "0b8d633d5ca1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "営業中",
+      "meaningInSourceLanguage": "营业",
+      "id": "1da62262ccd0",
+      "priority": 0,
+      "group": "724f804e1f50"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "営業中"
+      ],
+      "phrase": [
+        {
+          "word": "营业",
+          "definition": "営業中"
+        }
+      ],
+      "id": "c0a1b3e633ff",
+      "priority": 1,
+      "group": "724f804e1f50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "営業中",
+      "meaning": "营业",
+      "audio": "29ce7c6fab4c649680b45934f405966e32fbc7c33a2698c729bb56bd98bc10a0",
+      "id": "3a4a5036f300",
+      "priority": 1,
+      "group": "724f804e1f50"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "閉店",
+      "meaningInSourceLanguage": "关门",
+      "id": "9dcda100be64",
+      "priority": 0,
+      "group": "60f54e2b57e7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "閉店"
+      ],
+      "phrase": [
+        {
+          "word": "关门",
+          "definition": "閉店"
+        }
+      ],
+      "id": "ae2e4c52108d",
+      "priority": 1,
+      "group": "60f54e2b57e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "閉店",
+      "meaning": "关门",
+      "audio": "73128c8ef5ccb3e0d7da3339d5aa2fb8c23e694f7a38b8eafa9f449c29b53062",
+      "id": "236cf5f024fe",
+      "priority": 1,
+      "group": "60f54e2b57e7"
+    }
+  ]
+}

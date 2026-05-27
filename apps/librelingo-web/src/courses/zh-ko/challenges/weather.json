@@ -1,0 +1,482 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "오늘 날씨가 맑아요.",
+      "meaningInSourceLanguage": "今天天气晴朗。",
+      "id": "6b2e5322246b",
+      "priority": 0,
+      "group": "72751e108e3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "오늘 날씨가 맑아요.",
+      "meaning": "今天天气晴朗。",
+      "audio": "d5b2f6a99e33f8a03fab3d3ebdcd69610e1577508a58c5a780ae7fc0ddec892a",
+      "id": "15f7483faaea",
+      "priority": 1,
+      "group": "72751e108e3e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "비가 올 거예요.",
+      "meaningInSourceLanguage": "要下雨了。",
+      "id": "f2a1f4bb0bd6",
+      "priority": 0,
+      "group": "63fecaabe67b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "비가 올 거예요.",
+      "meaning": "要下雨了。",
+      "audio": "bcc59dd37fa8439dbdfeab065bca37c186c94ad8c6857fd463723c7248c7f2f8",
+      "id": "3188465bd1a9",
+      "priority": 1,
+      "group": "63fecaabe67b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "밖이 아주 추워요.",
+      "meaningInSourceLanguage": "外面很冷。",
+      "id": "ad18590f7d19",
+      "priority": 0,
+      "group": "3fec27a41594"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "밖이 아주 추워요.",
+      "meaning": "外面很冷。",
+      "audio": "31133ac5358708e13b308f100e86817c120fae4e5e6f7ef71df614963f192e6c",
+      "id": "42330a0ecbb6",
+      "priority": 1,
+      "group": "3fec27a41594"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "우산 가져가세요.",
+      "meaningInSourceLanguage": "带上雨伞。",
+      "id": "d8cf7fadd5e2",
+      "priority": 0,
+      "group": "bb20b0ee49d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "우산 가져가세요.",
+      "meaning": "带上雨伞。",
+      "audio": "d6d5103c00018d14fa21d34f5e92d7b4dec5bed3dddd9606c9d2db076e339de5",
+      "id": "436589dfcd90",
+      "priority": 1,
+      "group": "bb20b0ee49d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "기온이 몇 도예요?",
+      "meaningInSourceLanguage": "多少度？",
+      "id": "32c8d8d713ed",
+      "priority": 0,
+      "group": "b6d0e17ebb88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "기온이 몇 도예요?",
+      "meaning": "多少度？",
+      "audio": "cb05d4a81735c4c47cc9ce445d672744b3363a128e74363a1d54ab67dcec55de",
+      "id": "ae2db3dd0fc2",
+      "priority": 1,
+      "group": "b6d0e17ebb88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "눈이 와요.",
+      "meaningInSourceLanguage": "下雪了。",
+      "id": "b1b00cfca3c4",
+      "priority": 0,
+      "group": "8a1c9b58be65"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "눈이 와요.",
+      "meaning": "下雪了。",
+      "audio": "b90400b0507242a91d56a21d041ea559fa4dac99159065964ee1480aaec2053e",
+      "id": "913215db7c69",
+      "priority": 1,
+      "group": "8a1c9b58be65"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "오늘 따뜻해요.",
+      "meaningInSourceLanguage": "今天很暖和。",
+      "id": "f9dd4e4189fb",
+      "priority": 0,
+      "group": "2b767bb78ed3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "오늘 따뜻해요.",
+      "meaning": "今天很暖和。",
+      "audio": "e7a90cc35f5fdf5126403ac46af4d971422079017d92f38d32837f9906bbc26c",
+      "id": "5761dd2fd226",
+      "priority": 1,
+      "group": "2b767bb78ed3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "바람이 불어요.",
+      "meaningInSourceLanguage": "刮风了。",
+      "id": "8358246dc282",
+      "priority": 0,
+      "group": "d6ec99b56722"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "바람이 불어요.",
+      "meaning": "刮风了。",
+      "audio": "945d5f340029b0cdc002c8d40cef6fbcf25bc8d093f7f37328036bf7eccd74e0",
+      "id": "8738350ed4e7",
+      "priority": 1,
+      "group": "d6ec99b56722"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "맑음",
+      "meaningInSourceLanguage": "晴天",
+      "id": "97250eea7b87",
+      "priority": 0,
+      "group": "0f88ded7f2af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "맑음"
+      ],
+      "phrase": [
+        {
+          "word": "晴天",
+          "definition": "맑음"
+        }
+      ],
+      "id": "307e44e9bacc",
+      "priority": 1,
+      "group": "0f88ded7f2af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "맑음",
+      "meaning": "晴天",
+      "audio": "34edfa252aa6edfef3a8a611bdfc3294fcc29f3dff379b0670bf624402e95dbb",
+      "id": "ab3c49985e11",
+      "priority": 1,
+      "group": "0f88ded7f2af"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "비",
+      "meaningInSourceLanguage": "雨",
+      "id": "90e4aa0e95b8",
+      "priority": 0,
+      "group": "98df75c43949"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "비"
+      ],
+      "phrase": [
+        {
+          "word": "雨",
+          "definition": "비"
+        }
+      ],
+      "id": "feb8d7245c6c",
+      "priority": 1,
+      "group": "98df75c43949"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "비",
+      "meaning": "雨",
+      "audio": "f8d74e888ecd98c148ea45cfcd179d02315cced8ee380906c1c4ab276a32e17d",
+      "id": "d0b4be0f8123",
+      "priority": 1,
+      "group": "98df75c43949"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "눈",
+      "meaningInSourceLanguage": "雪",
+      "id": "104464335e9f",
+      "priority": 0,
+      "group": "6a422d139dad"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "눈"
+      ],
+      "phrase": [
+        {
+          "word": "雪",
+          "definition": "눈"
+        }
+      ],
+      "id": "8d93c41437b6",
+      "priority": 1,
+      "group": "6a422d139dad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "눈",
+      "meaning": "雪",
+      "audio": "9594cb5f7b876b966dca5c03055f566941086cf06dac465cb94e03f192a3a007",
+      "id": "901ef1c28ee4",
+      "priority": 1,
+      "group": "6a422d139dad"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "바람",
+      "meaningInSourceLanguage": "风",
+      "id": "d19ab1d312a6",
+      "priority": 0,
+      "group": "5a10ca208d75"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "바람"
+      ],
+      "phrase": [
+        {
+          "word": "风",
+          "definition": "바람"
+        }
+      ],
+      "id": "db7e04dc4a82",
+      "priority": 1,
+      "group": "5a10ca208d75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "바람",
+      "meaning": "风",
+      "audio": "1763725cf785401d0a44fa67c175875b64519bf0fca322c3a77fb2d0a09f87de",
+      "id": "2d7c2e4b1bbc",
+      "priority": 1,
+      "group": "5a10ca208d75"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "구름",
+      "meaningInSourceLanguage": "云",
+      "id": "aabb314d8de4",
+      "priority": 0,
+      "group": "6a5578bcab5a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "구름"
+      ],
+      "phrase": [
+        {
+          "word": "云",
+          "definition": "구름"
+        }
+      ],
+      "id": "70e002f902c2",
+      "priority": 1,
+      "group": "6a5578bcab5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "구름",
+      "meaning": "云",
+      "audio": "0212632c6f8e892e0650542282464eaa19d7aac1ddcfe442e55f0ac306679b63",
+      "id": "7f0705f37a8a",
+      "priority": 1,
+      "group": "6a5578bcab5a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "춥다",
+      "meaningInSourceLanguage": "冷",
+      "id": "17c97ca90ed1",
+      "priority": 0,
+      "group": "7403713605b9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "춥다"
+      ],
+      "phrase": [
+        {
+          "word": "冷",
+          "definition": "춥다"
+        }
+      ],
+      "id": "220fba8c6bd1",
+      "priority": 1,
+      "group": "7403713605b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "춥다",
+      "meaning": "冷",
+      "audio": "7dd16defe28575cad14f617dded67c5477d3ef731069666013f37365906fcea0",
+      "id": "446faa2d6d1b",
+      "priority": 1,
+      "group": "7403713605b9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "덥다",
+      "meaningInSourceLanguage": "热",
+      "id": "87cc6c380d90",
+      "priority": 0,
+      "group": "c5a20804b3a1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "덥다"
+      ],
+      "phrase": [
+        {
+          "word": "热",
+          "definition": "덥다"
+        }
+      ],
+      "id": "917c3bac9e8b",
+      "priority": 1,
+      "group": "c5a20804b3a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "덥다",
+      "meaning": "热",
+      "audio": "b543b2af2a1c98a8a9ef65d068ea34c2705e4c0002e2aa857f116e344bbb4faf",
+      "id": "41ead7a65d8b",
+      "priority": 1,
+      "group": "c5a20804b3a1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "따뜻하다",
+      "meaningInSourceLanguage": "温暖",
+      "id": "4626a9d08cac",
+      "priority": 0,
+      "group": "ffdd3e3bc9fe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "따뜻하다"
+      ],
+      "phrase": [
+        {
+          "word": "温暖",
+          "definition": "따뜻하다"
+        }
+      ],
+      "id": "86e75d35b75b",
+      "priority": 1,
+      "group": "ffdd3e3bc9fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "따뜻하다",
+      "meaning": "温暖",
+      "audio": "0bad93c258c8754617ac9131bf6e2f9d0e1104bacc9aa1ae13d98c4b64dfe64d",
+      "id": "9a4cace5fccf",
+      "priority": 1,
+      "group": "ffdd3e3bc9fe"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "기온",
+      "meaningInSourceLanguage": "温度",
+      "id": "fe415740676f",
+      "priority": 0,
+      "group": "19bf5492bcb6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "기온"
+      ],
+      "phrase": [
+        {
+          "word": "温度",
+          "definition": "기온"
+        }
+      ],
+      "id": "1171c9b00323",
+      "priority": 1,
+      "group": "19bf5492bcb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "기온",
+      "meaning": "温度",
+      "audio": "cb9ad54481d9090aed71c775cfd4f803e59b91cc72cdac433e1429b6261fe199",
+      "id": "31a526988f8f",
+      "priority": 1,
+      "group": "19bf5492bcb6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "우산",
+      "meaningInSourceLanguage": "雨伞",
+      "id": "8adc95bf299a",
+      "priority": 0,
+      "group": "c3b24f9c0125"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "우산"
+      ],
+      "phrase": [
+        {
+          "word": "雨伞",
+          "definition": "우산"
+        }
+      ],
+      "id": "9745dbb5e7c5",
+      "priority": 1,
+      "group": "c3b24f9c0125"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "우산",
+      "meaning": "雨伞",
+      "audio": "7755134b615a36a7bb7994056dc22430d3686a1d84fe5e2c36d3d7c613b049d6",
+      "id": "47eae525aee6",
+      "priority": 1,
+      "group": "c3b24f9c0125"
+    }
+  ]
+}

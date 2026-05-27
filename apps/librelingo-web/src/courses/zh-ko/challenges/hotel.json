@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "방이 필요해요.",
+      "meaningInSourceLanguage": "我需要一个房间。",
+      "id": "ae942a772e71",
+      "priority": 0,
+      "group": "1d090f6cc9bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "방이 필요해요.",
+      "meaning": "我需要一个房间。",
+      "audio": "db67d7c8a30cd87bf2708382dc7717e0db4a48a582d03d1e4592b7520797a3c4",
+      "id": "793ca7dbf1ff",
+      "priority": 1,
+      "group": "1d090f6cc9bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "하루에 얼마예요?",
+      "meaningInSourceLanguage": "每晚多少钱？",
+      "id": "9c4fe2a73ad5",
+      "priority": 0,
+      "group": "1439edcf7635"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "하루에 얼마예요?",
+      "meaning": "每晚多少钱？",
+      "audio": "2ac0950fd0fddfc13b453bbd04e51e24c589924a52b1dcb14b100ba5c3c419a2",
+      "id": "558c1093c769",
+      "priority": 1,
+      "group": "1439edcf7635"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "화장실이 어디예요?",
+      "meaningInSourceLanguage": "浴室在哪里？",
+      "id": "8fa440cf8054",
+      "priority": 0,
+      "group": "1ffa47dddac1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "화장실이 어디예요?",
+      "meaning": "浴室在哪里？",
+      "audio": "21a6e4723c2b0cb53d5b1546e84c20e5c3ebf3dfa802ffad4848c8baa4ce668e",
+      "id": "eda0aa89220b",
+      "priority": 1,
+      "group": "1ffa47dddac1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "수건 좀 주세요.",
+      "meaningInSourceLanguage": "能给我一条毛巾吗？",
+      "id": "ae163e013add",
+      "priority": 0,
+      "group": "d2f9e1718bee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "수건 좀 주세요.",
+      "meaning": "能给我一条毛巾吗？",
+      "audio": "fdefb808abfbc45840e18c2a07d554ffc5a07bd1e5cee573167b3a9618d8327d",
+      "id": "da9459f10190",
+      "priority": 1,
+      "group": "d2f9e1718bee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "침대가 편해요.",
+      "meaningInSourceLanguage": "床很舒服。",
+      "id": "182d3a50f314",
+      "priority": 0,
+      "group": "feb633ab6271"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "침대가 편해요.",
+      "meaning": "床很舒服。",
+      "audio": "3a00bf0c73360742efb3059e9c6b0058173558cb57877ea1290baab06e058e24",
+      "id": "bd59579aae0e",
+      "priority": 1,
+      "group": "feb633ab6271"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "저는 여기 손님이에요.",
+      "meaningInSourceLanguage": "我是这里的客人。",
+      "id": "deef3deb77b3",
+      "priority": 0,
+      "group": "c62d88e78a51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "저는 여기 손님이에요.",
+      "meaning": "我是这里的客人。",
+      "audio": "dec1e5b95e0626765cacf59dc070ed11313add55aaeb29f6efb5120f43a0a2bd",
+      "id": "654ffa51e038",
+      "priority": 1,
+      "group": "c62d88e78a51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "리셉션이 이 층에 있어요?",
+      "meaningInSourceLanguage": "前台在这一层吗？",
+      "id": "c1b251c47972",
+      "priority": 0,
+      "group": "814a543644b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "리셉션이 이 층에 있어요?",
+      "meaning": "前台在这一层吗？",
+      "audio": "e7818909010fcc7767a97e08c7a6bc3f6c741a9b1d0fe8e9365ca4e01005484e",
+      "id": "e18dc3d3e870",
+      "priority": 1,
+      "group": "814a543644b0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "방",
+      "meaningInSourceLanguage": "房间",
+      "id": "1e70b7d80c93",
+      "priority": 0,
+      "group": "5dc1a09bb9fd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "방"
+      ],
+      "phrase": [
+        {
+          "word": "房间",
+          "definition": "방"
+        }
+      ],
+      "id": "7406f9d25ea7",
+      "priority": 1,
+      "group": "5dc1a09bb9fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "방",
+      "meaning": "房间",
+      "audio": "dbe13a0490f1cbf6c84869cc669d49cb264431edabf288433c0f2d7a1a501c0e",
+      "id": "bb879738c82f",
+      "priority": 1,
+      "group": "5dc1a09bb9fd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "침대",
+      "meaningInSourceLanguage": "床",
+      "id": "ae7930147320",
+      "priority": 0,
+      "group": "f5c4b50e33cb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "침대"
+      ],
+      "phrase": [
+        {
+          "word": "床",
+          "definition": "침대"
+        }
+      ],
+      "id": "65e025487658",
+      "priority": 1,
+      "group": "f5c4b50e33cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "침대",
+      "meaning": "床",
+      "audio": "4d15d1ccf8e76c79cc53eabd03f5007b7cbdf087162bb56a8d3237d16f4132d2",
+      "id": "9686e5f0b4d9",
+      "priority": 1,
+      "group": "f5c4b50e33cb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "샤워",
+      "meaningInSourceLanguage": "淋浴",
+      "id": "cefad657c7fd",
+      "priority": 0,
+      "group": "adf9625e47f2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "샤워"
+      ],
+      "phrase": [
+        {
+          "word": "淋浴",
+          "definition": "샤워"
+        }
+      ],
+      "id": "4e3ef46a20ed",
+      "priority": 1,
+      "group": "adf9625e47f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "샤워",
+      "meaning": "淋浴",
+      "audio": "896c14e29509242f3672ab233f2141b6f44c96f4fcfb424e6ac668b5afe56468",
+      "id": "27a677fcc830",
+      "priority": 1,
+      "group": "adf9625e47f2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "화장실",
+      "meaningInSourceLanguage": "浴室",
+      "id": "b2f190392b16",
+      "priority": 0,
+      "group": "6b2e6e7b4367"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "화장실"
+      ],
+      "phrase": [
+        {
+          "word": "浴室",
+          "definition": "화장실"
+        }
+      ],
+      "id": "a3414b7044be",
+      "priority": 1,
+      "group": "6b2e6e7b4367"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "화장실",
+      "meaning": "浴室",
+      "audio": "0557bf34b3fcc9a78643fad04d4a7e6cbff8ed72730cf57be16dd5c5e69c8a54",
+      "id": "33fcc15ea999",
+      "priority": 1,
+      "group": "6b2e6e7b4367"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "수건",
+      "meaningInSourceLanguage": "毛巾",
+      "id": "6a30657eefe4",
+      "priority": 0,
+      "group": "2279005d57ff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "수건"
+      ],
+      "phrase": [
+        {
+          "word": "毛巾",
+          "definition": "수건"
+        }
+      ],
+      "id": "bdf115ba176c",
+      "priority": 1,
+      "group": "2279005d57ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "수건",
+      "meaning": "毛巾",
+      "audio": "fb08ffb86c790799f9188da9ceabf37e921d51133b8a6f8b0ab248265943c2d5",
+      "id": "227001e2074a",
+      "priority": 1,
+      "group": "2279005d57ff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "베개",
+      "meaningInSourceLanguage": "枕头",
+      "id": "d5c80dd03bd8",
+      "priority": 0,
+      "group": "3f233496afa3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "베개"
+      ],
+      "phrase": [
+        {
+          "word": "枕头",
+          "definition": "베개"
+        }
+      ],
+      "id": "ffaeeaea9a36",
+      "priority": 1,
+      "group": "3f233496afa3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "베개",
+      "meaning": "枕头",
+      "audio": "5f97d361cb11867a56c83f8f31537c0047cc9e5506b38febb57835b277b8d1ec",
+      "id": "5f9b7cbf8e31",
+      "priority": 1,
+      "group": "3f233496afa3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "담요",
+      "meaningInSourceLanguage": "毯子",
+      "id": "c1a6b7bcb412",
+      "priority": 0,
+      "group": "a66c6ddd47ae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "담요"
+      ],
+      "phrase": [
+        {
+          "word": "毯子",
+          "definition": "담요"
+        }
+      ],
+      "id": "9609d5e125dd",
+      "priority": 1,
+      "group": "a66c6ddd47ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "담요",
+      "meaning": "毯子",
+      "audio": "8a499d8812ddbfff4c1d34d8f1cc49132659a129aac7876427d8b6086b04e937",
+      "id": "89865573d7a3",
+      "priority": 1,
+      "group": "a66c6ddd47ae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "층",
+      "meaningInSourceLanguage": "楼层",
+      "id": "93c0e35e9ee5",
+      "priority": 0,
+      "group": "b8b10734fde4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "층"
+      ],
+      "phrase": [
+        {
+          "word": "楼层",
+          "definition": "층"
+        }
+      ],
+      "id": "7e35a240f823",
+      "priority": 1,
+      "group": "b8b10734fde4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "층",
+      "meaning": "楼层",
+      "audio": "49e494c9b5a0bfec0b7ce19dab3f81785db06246763baef527c9d43cc585a854",
+      "id": "b71956c5a16e",
+      "priority": 1,
+      "group": "b8b10734fde4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "리셉션",
+      "meaningInSourceLanguage": "前台",
+      "id": "dc5c07addedd",
+      "priority": 0,
+      "group": "56c6efb89309"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "리셉션"
+      ],
+      "phrase": [
+        {
+          "word": "前台",
+          "definition": "리셉션"
+        }
+      ],
+      "id": "2bf41c2c6826",
+      "priority": 1,
+      "group": "56c6efb89309"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "리셉션",
+      "meaning": "前台",
+      "audio": "5360fa5bdecddca6442cff31c0793380a31428a4d8c4cc60a70a5796e3c94675",
+      "id": "e9920ef89f13",
+      "priority": 1,
+      "group": "56c6efb89309"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "손님",
+      "meaningInSourceLanguage": "客人",
+      "id": "3f6425c8a767",
+      "priority": 0,
+      "group": "c1ab6d0f1a47"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "손님"
+      ],
+      "phrase": [
+        {
+          "word": "客人",
+          "definition": "손님"
+        }
+      ],
+      "id": "d77bfb2b5425",
+      "priority": 1,
+      "group": "c1ab6d0f1a47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "손님",
+      "meaning": "客人",
+      "audio": "95b126a1b4e002b7c95f82156189f3da220b226f75d7d0e96c8dfd95c770df37",
+      "id": "51e5b0f05a83",
+      "priority": 1,
+      "group": "c1ab6d0f1a47"
+    }
+  ]
+}

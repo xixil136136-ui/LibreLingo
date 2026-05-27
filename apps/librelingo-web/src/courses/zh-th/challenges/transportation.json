@@ -1,0 +1,431 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ป้ายรถเมล์อยู่ที่ไหน",
+      "meaningInSourceLanguage": "公共汽车站在哪里？",
+      "id": "50af93891c9a",
+      "priority": 0,
+      "group": "ebe28355a702"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ป้ายรถเมล์อยู่ที่ไหน",
+      "meaning": "公共汽车站在哪里？",
+      "audio": "3ee499309b3f98488d1f32fab7459a3e3ff031986d86d2a31be35daafbbcf2a6",
+      "id": "1f2f84caece3",
+      "priority": 1,
+      "group": "ebe28355a702"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "รถไฟล่าช้า",
+      "meaningInSourceLanguage": "火车晚点了。",
+      "id": "916cb9c2d4c3",
+      "priority": 0,
+      "group": "35b9829b4a58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "รถไฟล่าช้า",
+      "meaning": "火车晚点了。",
+      "audio": "daa6d18f82ed74afcc6adbf7b4e1b8f57911d4f9f6ae81656d4c39d603abdcf6",
+      "id": "9977242bf9eb",
+      "priority": 1,
+      "group": "35b9829b4a58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันมีกระเป๋าเดินทาง",
+      "meaningInSourceLanguage": "我有行李。",
+      "id": "fb356f59d0b4",
+      "priority": 0,
+      "group": "0eb36ffeca69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันมีกระเป๋าเดินทาง",
+      "meaning": "我有行李。",
+      "audio": "2852ea4e5cec2f86059b8534e2f45c76418fc3855ce09ed147a36973b12ef7b2",
+      "id": "ae4b775e1f7f",
+      "priority": 1,
+      "group": "0eb36ffeca69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "รถไฟเท่าไหร่",
+      "meaningInSourceLanguage": "火车票多少钱？",
+      "id": "4f1e8aa7f854",
+      "priority": 0,
+      "group": "8c1a50f4d5b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "รถไฟเท่าไหร่",
+      "meaning": "火车票多少钱？",
+      "audio": "623c6b6f53c0502baa2b924ab4aa72bf3fd1808bddc31d065b700735d4bfd38b",
+      "id": "bcfa4a67f9e1",
+      "priority": 1,
+      "group": "8c1a50f4d5b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ที่จอดแท็กซี่อยู่ที่ไหน",
+      "meaningInSourceLanguage": "出租车站在哪里？",
+      "id": "1b397a9202dd",
+      "priority": 0,
+      "group": "0d396416f5cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ที่จอดแท็กซี่อยู่ที่ไหน",
+      "meaning": "出租车站在哪里？",
+      "audio": "a65746c231c5e73e7142b6b6e6db6a5ff1725c80168045db66e6aafca7e1155d",
+      "id": "51c93d0619de",
+      "priority": 1,
+      "group": "0d396416f5cd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "รถไฟ",
+      "meaningInSourceLanguage": "火车",
+      "id": "83e654d1b3f8",
+      "priority": 0,
+      "group": "1a278e282c20"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "รถไฟ"
+      ],
+      "phrase": [
+        {
+          "word": "火车",
+          "definition": "รถไฟ"
+        }
+      ],
+      "id": "81dc9ab47a2e",
+      "priority": 1,
+      "group": "1a278e282c20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "รถไฟ",
+      "meaning": "火车",
+      "audio": "8966c93c350e3c3473473a9c01e1389c7bad904e890fbb10eca24e6ed4ff563c",
+      "id": "5d05126d3af2",
+      "priority": 1,
+      "group": "1a278e282c20"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "รถเมล์",
+      "meaningInSourceLanguage": "公共汽车",
+      "id": "d0f040303f9c",
+      "priority": 0,
+      "group": "db5181c28572"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "รถเมล์"
+      ],
+      "phrase": [
+        {
+          "word": "公共汽车",
+          "definition": "รถเมล์"
+        }
+      ],
+      "id": "ffd080a8784c",
+      "priority": 1,
+      "group": "db5181c28572"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "รถเมล์",
+      "meaning": "公共汽车",
+      "audio": "ceeb486a6af2cdc1a2228729ad79448630788cd3f406213f8198ce0acf2ab826",
+      "id": "2fa2e33e463c",
+      "priority": 1,
+      "group": "db5181c28572"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แท็กซี่",
+      "meaningInSourceLanguage": "出租车",
+      "id": "3e57106b67b0",
+      "priority": 0,
+      "group": "0935d83b603a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แท็กซี่"
+      ],
+      "phrase": [
+        {
+          "word": "出租车",
+          "definition": "แท็กซี่"
+        }
+      ],
+      "id": "b09b96d2ea63",
+      "priority": 1,
+      "group": "0935d83b603a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แท็กซี่",
+      "meaning": "出租车",
+      "audio": "99339db7b70b6e1afbb8e27e716df66ef78b0605fdc0bfd0844a5a6b86fcc23b",
+      "id": "ba50421c9280",
+      "priority": 1,
+      "group": "0935d83b603a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "รถไฟฟ้า",
+      "meaningInSourceLanguage": "地铁",
+      "id": "f746631ea186",
+      "priority": 0,
+      "group": "1d5405d641fc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "รถไฟฟ้า"
+      ],
+      "phrase": [
+        {
+          "word": "地铁",
+          "definition": "รถไฟฟ้า"
+        }
+      ],
+      "id": "eb2af7c93ca7",
+      "priority": 1,
+      "group": "1d5405d641fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "รถไฟฟ้า",
+      "meaning": "地铁",
+      "audio": "b642a3ae4c5e6bc4bd259c159549f139ecc3cfe6131e4c6f5dd3413d31f607f4",
+      "id": "3b3d3eb4888d",
+      "priority": 1,
+      "group": "1d5405d641fc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "โรงแรม",
+      "meaningInSourceLanguage": "酒店",
+      "id": "1e96c76bef02",
+      "priority": 0,
+      "group": "30dee5bb697c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "โรงแรม"
+      ],
+      "phrase": [
+        {
+          "word": "酒店",
+          "definition": "โรงแรม"
+        }
+      ],
+      "id": "0b04e3c25c14",
+      "priority": 1,
+      "group": "30dee5bb697c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "โรงแรม",
+      "meaning": "酒店",
+      "audio": "4e47f9ac233618385e56130bb8123f0fef8188718a58e3b5fb04a364cfe83290",
+      "id": "c9004559c440",
+      "priority": 1,
+      "group": "30dee5bb697c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "กระเป๋า",
+      "meaningInSourceLanguage": "行李",
+      "id": "8f89ae908be4",
+      "priority": 0,
+      "group": "b324e7c48021"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "กระเป๋า"
+      ],
+      "phrase": [
+        {
+          "word": "行李",
+          "definition": "กระเป๋า"
+        }
+      ],
+      "id": "4eb32bf39dfd",
+      "priority": 1,
+      "group": "b324e7c48021"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "กระเป๋า",
+      "meaning": "行李",
+      "audio": "4dd48cef3a6574daf962c09995e5c5a5f8900d861bd3f7ff5a473936b45ace87",
+      "id": "83d2247fca2b",
+      "priority": 1,
+      "group": "b324e7c48021"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สถานี",
+      "meaningInSourceLanguage": "车站",
+      "id": "1d3b7bded9f6",
+      "priority": 0,
+      "group": "e311e0c6044e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สถานี"
+      ],
+      "phrase": [
+        {
+          "word": "车站",
+          "definition": "สถานี"
+        }
+      ],
+      "id": "80209facbe98",
+      "priority": 1,
+      "group": "e311e0c6044e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สถานี",
+      "meaning": "车站",
+      "audio": "e1b35dbe6071f40daef9dbe4a96fbfb49db771592a08608697fee648df53c574",
+      "id": "edea0450e867",
+      "priority": 1,
+      "group": "e311e0c6044e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เที่ยวบิน",
+      "meaningInSourceLanguage": "航班",
+      "id": "6e87210614de",
+      "priority": 0,
+      "group": "d901620cb7af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เที่ยวบิน"
+      ],
+      "phrase": [
+        {
+          "word": "航班",
+          "definition": "เที่ยวบิน"
+        }
+      ],
+      "id": "5d3e6de4e91f",
+      "priority": 1,
+      "group": "d901620cb7af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เที่ยวบิน",
+      "meaning": "航班",
+      "audio": "e2732776d01931d49ed246c37f17c0ad34413d98dcbfbd77a68ca500b4b2c046",
+      "id": "2eb2d3f5f4c4",
+      "priority": 1,
+      "group": "d901620cb7af"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ล่าช้า",
+      "meaningInSourceLanguage": "延误",
+      "id": "4cb0899b698e",
+      "priority": 0,
+      "group": "27385531ce60"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ล่าช้า"
+      ],
+      "phrase": [
+        {
+          "word": "延误",
+          "definition": "ล่าช้า"
+        }
+      ],
+      "id": "8bb389667e6e",
+      "priority": 1,
+      "group": "27385531ce60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ล่าช้า",
+      "meaning": "延误",
+      "audio": "ac56aa78643bc4e606f0f8e4d82711a601d72fc1af098d9ebfb14ec3e85f20d8",
+      "id": "73b96703030a",
+      "priority": 1,
+      "group": "27385531ce60"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ขึ้นเครื่อง",
+      "meaningInSourceLanguage": "登机",
+      "id": "1149994d22b4",
+      "priority": 0,
+      "group": "d609ca001404"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ขึ้นเครื่อง"
+      ],
+      "phrase": [
+        {
+          "word": "登机",
+          "definition": "ขึ้นเครื่อง"
+        }
+      ],
+      "id": "1bfec69f9c42",
+      "priority": 1,
+      "group": "d609ca001404"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขึ้นเครื่อง",
+      "meaning": "登机",
+      "audio": "98d4fb92bb8f3a58ee169f5a1b5151017a8b85c9882dea1aecfc674acedb1630",
+      "id": "a2c29a4716a4",
+      "priority": 1,
+      "group": "d609ca001404"
+    }
+  ]
+}

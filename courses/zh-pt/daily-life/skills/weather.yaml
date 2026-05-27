@@ -1,0 +1,74 @@
+Skill:
+  Name: Weather
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: ensolarado
+    Translation: 晴天
+  - Word: chuva
+    Translation: 雨
+  - Word: neve
+    Translation: 雪
+  - Word: vento
+    Translation: 风
+  - Word: nuvem
+    Translation: 云
+  - Word: frio
+    Translation: 冷
+  - Word: quente
+    Translation: 热
+  - Word: ameno
+    Translation: 温暖
+  - Word: temperatura
+    Translation: 温度
+  - Word: guarda-chuva
+    Translation: 雨伞
+
+Phrases:
+  - Phrase: Hoje está ensolarado.
+    Translation: 今天天气晴朗。
+  - Phrase: Vai chover.
+    Translation: 要下雨了。
+  - Phrase: Está muito frio lá fora.
+    Translation: 外面很冷。
+  - Phrase: Leve um guarda-chuva.
+    Translation: 带上雨伞。
+  - Phrase: Qual é a temperatura?
+    Translation: 多少度？
+  - Phrase: Está nevando.
+    Translation: 下雪了。
+  - Phrase: Hoje está ameno.
+    Translation: 今天很暖和。
+  - Phrase: Está ventando.
+    Translation: 刮风了。
+
+Mini-dictionary:
+  Portuguese:
+    - quente: 热
+    - ensolarado: 晴天
+    - temperatura: 温度
+    - frio: 冷
+    - vento: 风
+    - guarda-chuva: 雨伞
+    - neve: 雪
+    - nuvem: 云
+    - chuva: 雨
+    - ameno: 温暖
+  Chinese:
+    - 冷: frio
+    - 晴天: ensolarado
+    - 风: vento
+    - 雨: chuva
+    - 温暖: ameno
+    - 雪: neve
+    - 热: quente
+    - 温度: temperatura
+    - 云: nuvem
+    - 雨伞: guarda-chuva

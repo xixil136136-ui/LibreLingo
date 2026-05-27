@@ -1,0 +1,924 @@
+{
+  "id": "d4debe33919e",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "computer",
+      "meaningInSourceLanguage": "电脑",
+      "id": "149101c3c678",
+      "priority": 0,
+      "group": "26de9b5711ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "computer",
+      "meaning": "电脑",
+      "audio": "005b9b2721c64fcf8e897ea1610c8ef4",
+      "id": "2351f928e7ae",
+      "priority": 1,
+      "group": "26de9b5711ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "laptop",
+      "meaningInSourceLanguage": "笔记本电脑",
+      "id": "faa7fc4ded5b",
+      "priority": 0,
+      "group": "903a7cc373e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "laptop",
+      "meaning": "笔记本电脑",
+      "audio": "27b1610e2e4d47898aafb9e7d687c74b",
+      "id": "f0d0b6e64df9",
+      "priority": 1,
+      "group": "903a7cc373e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "desktop",
+      "meaningInSourceLanguage": "台式机",
+      "id": "5a331afbfc90",
+      "priority": 0,
+      "group": "6b712f73963a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "desktop",
+      "meaning": "台式机",
+      "audio": "98fe0461f9254351b22aa08af4e46f96",
+      "id": "ac6207d4b519",
+      "priority": 1,
+      "group": "6b712f73963a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tablet",
+      "meaningInSourceLanguage": "平板电脑",
+      "id": "de76f3f5ce9d",
+      "priority": 0,
+      "group": "316d3e58ea20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tablet",
+      "meaning": "平板电脑",
+      "audio": "e0a23f8937c64f0c8d68a648f2bedf06",
+      "id": "526a7c758479",
+      "priority": 1,
+      "group": "316d3e58ea20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smartphone",
+      "meaningInSourceLanguage": "智能手机",
+      "id": "299187065074",
+      "priority": 0,
+      "group": "2ed657413348"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smartphone",
+      "meaning": "智能手机",
+      "audio": "2cf744ffbfa8432ba45ddd91a288a7cb",
+      "id": "29720a3e773b",
+      "priority": 1,
+      "group": "2ed657413348"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monitor",
+      "meaningInSourceLanguage": "显示器",
+      "id": "e7d1b1356cf7",
+      "priority": 0,
+      "group": "3a14a6413c37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monitor",
+      "meaning": "显示器",
+      "audio": "bd25480f1cad4deda645b15b68766a94",
+      "id": "e54edd1244ff",
+      "priority": 1,
+      "group": "3a14a6413c37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "keyboard",
+      "meaningInSourceLanguage": "键盘",
+      "id": "5e0d523b37e4",
+      "priority": 0,
+      "group": "d33a606cf3e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "keyboard",
+      "meaning": "键盘",
+      "audio": "ee26f81c0e514190b6e41a38acc4daf3",
+      "id": "aa2760bb5c89",
+      "priority": 1,
+      "group": "d33a606cf3e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mouse",
+      "meaningInSourceLanguage": "鼠标",
+      "id": "eb8f9b2d802a",
+      "priority": 0,
+      "group": "9631d003d08a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mouse",
+      "meaning": "鼠标",
+      "audio": "92f3360ab2424482a40d30beb9d7ae91",
+      "id": "bacf655f2b29",
+      "priority": 1,
+      "group": "9631d003d08a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "printer",
+      "meaningInSourceLanguage": "打印机",
+      "id": "df9059f437de",
+      "priority": 0,
+      "group": "391f57decb6b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "printer",
+      "meaning": "打印机",
+      "audio": "0be2d7e1b7d44c00a7b69a93c837c50f",
+      "id": "5a16ef9505b0",
+      "priority": 1,
+      "group": "391f57decb6b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scanner",
+      "meaningInSourceLanguage": "扫描仪",
+      "id": "0e33be9ff6b9",
+      "priority": 0,
+      "group": "a8e9214f5e44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scanner",
+      "meaning": "扫描仪",
+      "audio": "e1c0e304d69c452aa5f3b9236da475a0",
+      "id": "ecf34022890d",
+      "priority": 1,
+      "group": "a8e9214f5e44"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speaker",
+      "meaningInSourceLanguage": "扬声器",
+      "id": "df8109f70fe7",
+      "priority": 0,
+      "group": "69ff10563cd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speaker",
+      "meaning": "扬声器",
+      "audio": "8051956f57924c0889311c8718883db5",
+      "id": "0dc70566ff32",
+      "priority": 1,
+      "group": "69ff10563cd8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "microphone",
+      "meaningInSourceLanguage": "麦克风",
+      "id": "41c06b4914e0",
+      "priority": 0,
+      "group": "15be664a0592"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "microphone",
+      "meaning": "麦克风",
+      "audio": "d7d2f56f50704691a4dd79eec666564f",
+      "id": "f82f941dd3a0",
+      "priority": 1,
+      "group": "15be664a0592"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "webcam",
+      "meaningInSourceLanguage": "摄像头",
+      "id": "fa3d939699c8",
+      "priority": 0,
+      "group": "1367b51afafd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "webcam",
+      "meaning": "摄像头",
+      "audio": "ca9455cd439a48b880b06ea346195f7b",
+      "id": "eece0e73eba9",
+      "priority": 1,
+      "group": "1367b51afafd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hardware",
+      "meaningInSourceLanguage": "硬件",
+      "id": "70a19513c700",
+      "priority": 0,
+      "group": "4b92e0ab8c9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hardware",
+      "meaning": "硬件",
+      "audio": "6581c595010a420d88760449f9261af7",
+      "id": "816d03baa597",
+      "priority": 1,
+      "group": "4b92e0ab8c9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "software",
+      "meaningInSourceLanguage": "软件",
+      "id": "06203835fffc",
+      "priority": 0,
+      "group": "17d6cc781134"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "software",
+      "meaning": "软件",
+      "audio": "03fb9ef702b645a387134bdac152cefe",
+      "id": "00645b7719aa",
+      "priority": 1,
+      "group": "17d6cc781134"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "operating system",
+      "meaningInSourceLanguage": "操作系统",
+      "id": "b7537cc2aabf",
+      "priority": 0,
+      "group": "4f993b6e28ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "operating system",
+      "meaning": "操作系统",
+      "audio": "529ea890c1294c28bc2675539e01ff39",
+      "id": "7a98960b340e",
+      "priority": 1,
+      "group": "4f993b6e28ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "program",
+      "meaningInSourceLanguage": "程序",
+      "id": "686d0c124700",
+      "priority": 0,
+      "group": "e7728a2869e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "program",
+      "meaning": "程序",
+      "audio": "c3c249fb601441f7af0c75c0f4f6b650",
+      "id": "06429e5de130",
+      "priority": 1,
+      "group": "e7728a2869e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "application",
+      "meaningInSourceLanguage": "应用程序",
+      "id": "1a6d3227c72f",
+      "priority": 0,
+      "group": "8e906fb7ee8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "application",
+      "meaning": "应用程序",
+      "audio": "f76b17294cf34be9a84659980141756b",
+      "id": "8036a7624ded",
+      "priority": 1,
+      "group": "8e906fb7ee8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "app",
+      "meaningInSourceLanguage": "应用",
+      "id": "8f85e6aae363",
+      "priority": 0,
+      "group": "c9f2811e0809"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "app",
+      "meaning": "应用",
+      "audio": "bea5052247f644c0a8c806c0d817dcd5",
+      "id": "319f06ec20d0",
+      "priority": 1,
+      "group": "c9f2811e0809"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "browser",
+      "meaningInSourceLanguage": "浏览器",
+      "id": "86265668e509",
+      "priority": 0,
+      "group": "3d9d931b0505"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "browser",
+      "meaning": "浏览器",
+      "audio": "11b9382da3034e38ba3696771ae3e535",
+      "id": "07cd99fe3a7b",
+      "priority": 1,
+      "group": "3d9d931b0505"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "search engine",
+      "meaningInSourceLanguage": "搜索引擎",
+      "id": "fb129abd0f84",
+      "priority": 0,
+      "group": "6876a02a3d02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "search engine",
+      "meaning": "搜索引擎",
+      "audio": "2a9e30818ed242159ff1c03831797604",
+      "id": "36759217937a",
+      "priority": 1,
+      "group": "6876a02a3d02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "website",
+      "meaningInSourceLanguage": "网站",
+      "id": "78a5e7a9d01c",
+      "priority": 0,
+      "group": "19abc5637fd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "website",
+      "meaning": "网站",
+      "audio": "1991071b88ca465aa1b05f31a291f0d0",
+      "id": "84638f6ea76f",
+      "priority": 1,
+      "group": "19abc5637fd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "webpage",
+      "meaningInSourceLanguage": "网页",
+      "id": "0ad4bd72dd89",
+      "priority": 0,
+      "group": "55682bf35284"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "webpage",
+      "meaning": "网页",
+      "audio": "430e0d66acad4452b6ff74a8d01afc1f",
+      "id": "07a4bd6beb4a",
+      "priority": 1,
+      "group": "55682bf35284"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "link",
+      "meaningInSourceLanguage": "链接",
+      "id": "3c307c4c6727",
+      "priority": 0,
+      "group": "8ed10230af13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "link",
+      "meaning": "链接",
+      "audio": "d5b35925d3b54bb3bb5cf12a6ded9ea9",
+      "id": "744b144a725d",
+      "priority": 1,
+      "group": "8ed10230af13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "URL",
+      "meaningInSourceLanguage": "网址",
+      "id": "72e55dbd62f4",
+      "priority": 0,
+      "group": "cbc136f9afc9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "URL",
+      "meaning": "网址",
+      "audio": "0c514156a33046ab836a44a888633415",
+      "id": "b93970d62cbb",
+      "priority": 1,
+      "group": "cbc136f9afc9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "download",
+      "meaningInSourceLanguage": "下载",
+      "id": "d0ee0dc01262",
+      "priority": 0,
+      "group": "1a9c9a69a4f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "download",
+      "meaning": "下载",
+      "audio": "42ab260eaf714ae1854a67eced57d0e4",
+      "id": "2564f34d6df5",
+      "priority": 1,
+      "group": "1a9c9a69a4f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "upload",
+      "meaningInSourceLanguage": "上传",
+      "id": "0bb222b9893a",
+      "priority": 0,
+      "group": "056461112809"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "upload",
+      "meaning": "上传",
+      "audio": "fffd2eadf33b474483cd5a1ed37f2cac",
+      "id": "418a73225dd8",
+      "priority": 1,
+      "group": "056461112809"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "install",
+      "meaningInSourceLanguage": "安装",
+      "id": "8b9d99d5a165",
+      "priority": 0,
+      "group": "653fb40b4f80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "install",
+      "meaning": "安装",
+      "audio": "eb1c0485767f4b8db9e88269971f1f98",
+      "id": "05d83f743633",
+      "priority": 1,
+      "group": "653fb40b4f80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "uninstall",
+      "meaningInSourceLanguage": "卸载",
+      "id": "3dd0c90a6ed0",
+      "priority": 0,
+      "group": "40721aaa9e04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "uninstall",
+      "meaning": "卸载",
+      "audio": "b896bb752d8249a68b7e714d29c0a5f1",
+      "id": "b7cf5b703a2b",
+      "priority": 1,
+      "group": "40721aaa9e04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "update",
+      "meaningInSourceLanguage": "更新",
+      "id": "661e24723bd4",
+      "priority": 0,
+      "group": "b13023cb2d12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "update",
+      "meaning": "更新",
+      "audio": "fd80b91f3d3446bab282165a95332911",
+      "id": "252cd2bb0189",
+      "priority": 1,
+      "group": "b13023cb2d12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "upgrade",
+      "meaningInSourceLanguage": "升级",
+      "id": "7bff256cc3be",
+      "priority": 0,
+      "group": "d70a0e6e013b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "upgrade",
+      "meaning": "升级",
+      "audio": "c662b5c41a154116aa3c5aaf9c383290",
+      "id": "c2f9b58400cc",
+      "priority": 1,
+      "group": "d70a0e6e013b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "backup",
+      "meaningInSourceLanguage": "备份",
+      "id": "4c5ad0fea673",
+      "priority": 0,
+      "group": "54c353ad265e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "backup",
+      "meaning": "备份",
+      "audio": "c8fce986d2b9407ba17a5b7ed821f87b",
+      "id": "fd799129618c",
+      "priority": 1,
+      "group": "54c353ad265e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "restore",
+      "meaningInSourceLanguage": "恢复",
+      "id": "435b21056304",
+      "priority": 0,
+      "group": "1678eab5970f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "restore",
+      "meaning": "恢复",
+      "audio": "6c4eaa705fa94987a80ee65c24be95d9",
+      "id": "111aa4caff30",
+      "priority": 1,
+      "group": "1678eab5970f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "file",
+      "meaningInSourceLanguage": "文件",
+      "id": "8952b63c8d1a",
+      "priority": 0,
+      "group": "2acb56af68a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "file",
+      "meaning": "文件",
+      "audio": "3c92d7c8bde94a62a3a5c8c42adfc07b",
+      "id": "2d07690a3bc6",
+      "priority": 1,
+      "group": "2acb56af68a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "folder",
+      "meaningInSourceLanguage": "文件夹",
+      "id": "f0624407d08e",
+      "priority": 0,
+      "group": "327fa3f48f36"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "folder",
+      "meaning": "文件夹",
+      "audio": "4e64fade837b436a8ba075f8c6f1106c",
+      "id": "12a80d563727",
+      "priority": 1,
+      "group": "327fa3f48f36"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "document",
+      "meaningInSourceLanguage": "文档",
+      "id": "57528ea822b8",
+      "priority": 0,
+      "group": "d5f1a6993a04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "document",
+      "meaning": "文档",
+      "audio": "aa94e7e039c14e6c8d6e0aef0eea44cf",
+      "id": "0a12dcbc80ca",
+      "priority": 1,
+      "group": "d5f1a6993a04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "image",
+      "meaningInSourceLanguage": "图片",
+      "id": "9cc437a6c404",
+      "priority": 0,
+      "group": "1220f09fe8c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "image",
+      "meaning": "图片",
+      "audio": "c1f9729f1725400492b386ea5d5252f8",
+      "id": "a5bb165ab69c",
+      "priority": 1,
+      "group": "1220f09fe8c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "video",
+      "meaningInSourceLanguage": "视频",
+      "id": "ba37404d0f98",
+      "priority": 0,
+      "group": "bb4f27b7b269"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "video",
+      "meaning": "视频",
+      "audio": "1a5bb6846020485d8809e46cfd8afa77",
+      "id": "677c7359adea",
+      "priority": 1,
+      "group": "bb4f27b7b269"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "audio",
+      "meaningInSourceLanguage": "音频",
+      "id": "efdbc44c2192",
+      "priority": 0,
+      "group": "819e65df08ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "audio",
+      "meaning": "音频",
+      "audio": "85d3331d06344590a3b19130bd80b242",
+      "id": "8982b668075b",
+      "priority": 1,
+      "group": "819e65df08ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "database",
+      "meaningInSourceLanguage": "数据库",
+      "id": "178399dee407",
+      "priority": 0,
+      "group": "92eefec7c370"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "database",
+      "meaning": "数据库",
+      "audio": "9f484bfe1a394530b588977f6e628c95",
+      "id": "9e1d5b818158",
+      "priority": 1,
+      "group": "92eefec7c370"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "server",
+      "meaningInSourceLanguage": "服务器",
+      "id": "6494e2c18dc0",
+      "priority": 0,
+      "group": "f3813139e05c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "server",
+      "meaning": "服务器",
+      "audio": "f86440bcedda4df096a3087b4601f7df",
+      "id": "22361055400a",
+      "priority": 1,
+      "group": "f3813139e05c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "network",
+      "meaningInSourceLanguage": "网络",
+      "id": "c335c90e3555",
+      "priority": 0,
+      "group": "ed3890c67bc3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "network",
+      "meaning": "网络",
+      "audio": "61bbb84795964fb0a7b2d0f2d211d79e",
+      "id": "fb5b8b2754e8",
+      "priority": 1,
+      "group": "ed3890c67bc3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cloud",
+      "meaningInSourceLanguage": "云",
+      "id": "74a48da735f1",
+      "priority": 0,
+      "group": "538f25e26e15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cloud",
+      "meaning": "云",
+      "audio": "174f97200a7c4f7e9dc56e9cec90220e",
+      "id": "0ca6a42c52d1",
+      "priority": 1,
+      "group": "538f25e26e15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "storage",
+      "meaningInSourceLanguage": "存储",
+      "id": "981b770a372c",
+      "priority": 0,
+      "group": "af7abbee228b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "storage",
+      "meaning": "存储",
+      "audio": "9ec2ccbf8a98424a953fb564f28d54da",
+      "id": "dd26d24dad26",
+      "priority": 1,
+      "group": "af7abbee228b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "memory",
+      "meaningInSourceLanguage": "内存",
+      "id": "6ab851cb9715",
+      "priority": 0,
+      "group": "42fa40c525f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "memory",
+      "meaning": "内存",
+      "audio": "b534a19a4583470586c4cf402d7c64ec",
+      "id": "7bb8db65de47",
+      "priority": 1,
+      "group": "42fa40c525f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hard drive",
+      "meaningInSourceLanguage": "硬盘",
+      "id": "3c18cc087f6f",
+      "priority": 0,
+      "group": "825cf34ddd46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hard drive",
+      "meaning": "硬盘",
+      "audio": "9f7556c5626f4e9981250ca19c87414a",
+      "id": "a41db6730843",
+      "priority": 1,
+      "group": "825cf34ddd46"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "SSD",
+      "meaningInSourceLanguage": "固态硬盘",
+      "id": "c231aa0b9836",
+      "priority": 0,
+      "group": "c829acc6b349"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "SSD",
+      "meaning": "固态硬盘",
+      "audio": "cec07d0dbace44bd8d99b638a0916db6",
+      "id": "3336e9281694",
+      "priority": 1,
+      "group": "c829acc6b349"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "USB",
+      "meaningInSourceLanguage": "U盘",
+      "id": "c5d88af49a69",
+      "priority": 0,
+      "group": "735aef1869cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "USB",
+      "meaning": "U盘",
+      "audio": "3d6c14daf789495396e1d14fad044a25",
+      "id": "c7e594237f0f",
+      "priority": 1,
+      "group": "735aef1869cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Internet",
+      "meaningInSourceLanguage": "互联网",
+      "id": "a4fe74024b4d",
+      "priority": 0,
+      "group": "a6e833cb202d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Internet",
+      "meaning": "互联网",
+      "audio": "3fbdc506900a417f9c4eb5b7d1a41b20",
+      "id": "408cf28f4351",
+      "priority": 1,
+      "group": "a6e833cb202d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "WiFi",
+      "meaningInSourceLanguage": "无线网络",
+      "id": "b395d51c492f",
+      "priority": 0,
+      "group": "e39b5dbed480"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "WiFi",
+      "meaning": "无线网络",
+      "audio": "77139ea3d1424454bb64320a63b56146",
+      "id": "d06ca51670f4",
+      "priority": 1,
+      "group": "e39b5dbed480"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ethernet",
+      "meaningInSourceLanguage": "以太网",
+      "id": "edec600a9fca",
+      "priority": 0,
+      "group": "d1ca02a2b7eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ethernet",
+      "meaning": "以太网",
+      "audio": "02c1196cc2c644199eb77223cf5e41f4",
+      "id": "3e2ccea4e900",
+      "priority": 1,
+      "group": "d1ca02a2b7eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "IP address",
+      "meaningInSourceLanguage": "IP地址",
+      "id": "aa9d6aae7a56",
+      "priority": 0,
+      "group": "f712939e05cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "IP address",
+      "meaning": "IP地址",
+      "audio": "9c83195a38db4f0d97eb20683d0dac94",
+      "id": "dbfafbf058be",
+      "priority": 1,
+      "group": "f712939e05cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "domain",
+      "meaningInSourceLanguage": "域名",
+      "id": "02bfec87d0e1",
+      "priority": 0,
+      "group": "7ce74d06a6ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "domain",
+      "meaning": "域名",
+      "audio": "399c40e2057a43ee9950207e77d412da",
+      "id": "af39404a9877",
+      "priority": 1,
+      "group": "7ce74d06a6ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "protocol",
+      "meaningInSourceLanguage": "协议",
+      "id": "09e312fd04f9",
+      "priority": 0,
+      "group": "e383cbd56180"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "protocol",
+      "meaning": "协议",
+      "audio": "3494911d95b447f6ac81cce382a6d1e7",
+      "id": "bb27bcb6dc25",
+      "priority": 1,
+      "group": "e383cbd56180"
+    }
+  ]
+}

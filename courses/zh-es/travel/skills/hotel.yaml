@@ -1,0 +1,72 @@
+Skill:
+  Name: Hotel
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: habitación
+    Translation: 房间
+  - Word: cama
+    Translation: 床
+  - Word: ducha
+    Translation: 淋浴
+  - Word: baño
+    Translation: 浴室
+  - Word: toalla
+    Translation: 毛巾
+  - Word: almohada
+    Translation: 枕头
+  - Word: manta
+    Translation: 毯子
+  - Word: piso
+    Translation: 楼层
+  - Word: recepción
+    Translation: 前台
+  - Word: huésped
+    Translation: 客人
+
+Phrases:
+  - Phrase: Necesito una habitación.
+    Translation: 我需要一个房间。
+  - Phrase: ¿Cuánto por noche?
+    Translation: 每晚多少钱？
+  - Phrase: ¿Dónde está el baño?
+    Translation: 浴室在哪里？
+  - Phrase: ¿Puedo tener una toalla?
+    Translation: 能给我一条毛巾吗？
+  - Phrase: La cama es cómoda.
+    Translation: 床很舒服。
+  - Phrase: Soy un huésped aquí.
+    Translation: 我是这里的客人。
+  - Phrase: ¿La recepción está en este piso?
+    Translation: 前台在这一层吗？
+
+Mini-dictionary:
+  Spanish:
+    - piso: 楼层
+    - cama: 床
+    - recepción: 前台
+    - ducha: 淋浴
+    - almohada: 枕头
+    - manta: 毯子
+    - huésped: 客人
+    - baño: 浴室
+    - habitación: 房间
+    - toalla: 毛巾
+  Chinese:
+    - 浴室: baño
+    - 床: cama
+    - 毯子: manta
+    - 客人: huésped
+    - 枕头: almohada
+    - 毛巾: toalla
+    - 淋浴: ducha
+    - 房间: habitación
+    - 楼层: piso
+    - 前台: recepción

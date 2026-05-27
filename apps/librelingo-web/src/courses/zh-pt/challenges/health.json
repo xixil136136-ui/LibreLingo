@@ -1,0 +1,465 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Preciso de um médico.",
+      "meaningInSourceLanguage": "我需要医生。",
+      "id": "bfbbe3a3b089",
+      "priority": 0,
+      "group": "75b4ea3c7fb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Preciso de um médico.",
+      "meaning": "我需要医生。",
+      "audio": "cead9b5f93e015adf520d43ec7a0a5fd1758bbed25c4ba2f937971db9e56207d",
+      "id": "344f1cf4a8e2",
+      "priority": 1,
+      "group": "75b4ea3c7fb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Onde fica o hospital?",
+      "meaningInSourceLanguage": "医院在哪里？",
+      "id": "5da4478294cd",
+      "priority": 0,
+      "group": "ea8b112d8c38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Onde fica o hospital?",
+      "meaning": "医院在哪里？",
+      "audio": "b3a8d9f8a43aa3648e55952a1c961575bd668d5e74065807b70825bad0096670",
+      "id": "d8808bd3a521",
+      "priority": 1,
+      "group": "ea8b112d8c38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Estou com dor de cabeça.",
+      "meaningInSourceLanguage": "我头痛。",
+      "id": "8c1607b7a9e8",
+      "priority": 0,
+      "group": "34a68133b39f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Estou com dor de cabeça.",
+      "meaning": "我头痛。",
+      "audio": "680939a53e3cefc9fd0f39a2b14a797c9f264ef45bfe84831fda7129b50e4204",
+      "id": "308d8426986b",
+      "priority": 1,
+      "group": "34a68133b39f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Estou com febre.",
+      "meaningInSourceLanguage": "我发烧了。",
+      "id": "9ee74bbdad42",
+      "priority": 0,
+      "group": "a417f29843ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Estou com febre.",
+      "meaning": "我发烧了。",
+      "audio": "cb74ec6e84216e966be392a38b4668e2fc55990fe0c8a857774ac19c3f5e625f",
+      "id": "9574601c005a",
+      "priority": 1,
+      "group": "a417f29843ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tome este remédio.",
+      "meaningInSourceLanguage": "吃这个药。",
+      "id": "eb987e0e4dc6",
+      "priority": 0,
+      "group": "a81b97a175c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tome este remédio.",
+      "meaning": "吃这个药。",
+      "audio": "01eac96f094551fcae9f7aba3624091c6216dece46bb437bb017e94f7628571f",
+      "id": "3de22820b3a8",
+      "priority": 1,
+      "group": "a81b97a175c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Você precisa de descanso.",
+      "meaningInSourceLanguage": "你需要休息。",
+      "id": "ee947bb9190d",
+      "priority": 0,
+      "group": "17093543a40e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Você precisa de descanso.",
+      "meaning": "你需要休息。",
+      "audio": "506ae3f62aba8c04c9c44852a5a74bfebea521f6bd624ba13ff5cb85111ba5ae",
+      "id": "dc1556259f91",
+      "priority": 1,
+      "group": "17093543a40e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Estou com dor de estômago.",
+      "meaningInSourceLanguage": "我肚子痛。",
+      "id": "8206dee6be7d",
+      "priority": 0,
+      "group": "11a057be8414"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Estou com dor de estômago.",
+      "meaning": "我肚子痛。",
+      "audio": "6e5e1d5fea8ad1f1e9160d3510214540f917417693ea36f6b8e57ec036efe4e3",
+      "id": "5601fa969d6b",
+      "priority": 1,
+      "group": "11a057be8414"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "médico",
+      "meaningInSourceLanguage": "医生",
+      "id": "03298d2d3467",
+      "priority": 0,
+      "group": "d1dea5a6d2a7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "médico"
+      ],
+      "phrase": [
+        {
+          "word": "医生",
+          "definition": "médico"
+        }
+      ],
+      "id": "8246b5f48eea",
+      "priority": 1,
+      "group": "d1dea5a6d2a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "médico",
+      "meaning": "医生",
+      "audio": "cbddaa67ddf3f4ea26a1a04c4c32fc18759d019caa5640d3d225fc2efc42a28b",
+      "id": "6a67f1f3d762",
+      "priority": 1,
+      "group": "d1dea5a6d2a7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hospital",
+      "meaningInSourceLanguage": "医院",
+      "id": "f5971d382cb8",
+      "priority": 0,
+      "group": "48bb21f0ec44"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hospital"
+      ],
+      "phrase": [
+        {
+          "word": "医院",
+          "definition": "hospital"
+        }
+      ],
+      "id": "7c75a096a68e",
+      "priority": 1,
+      "group": "48bb21f0ec44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hospital",
+      "meaning": "医院",
+      "audio": "8fde6671dabb9e961b78d824d37aa85248e6c8d2a6e37a48aaab87fc02b58924",
+      "id": "3f8fdca99369",
+      "priority": 1,
+      "group": "48bb21f0ec44"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "remédio",
+      "meaningInSourceLanguage": "药",
+      "id": "b3680cfa73d7",
+      "priority": 0,
+      "group": "8cd814cf6037"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "remédio"
+      ],
+      "phrase": [
+        {
+          "word": "药",
+          "definition": "remédio"
+        }
+      ],
+      "id": "5f48d00befa0",
+      "priority": 1,
+      "group": "8cd814cf6037"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "remédio",
+      "meaning": "药",
+      "audio": "625b48d06e3e7ffb0a264afd38e6aa250e6a0cac0820c837ab0e7d8cb37bddae",
+      "id": "8f3443fadff5",
+      "priority": 1,
+      "group": "8cd814cf6037"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dor de cabeça",
+      "meaningInSourceLanguage": "头痛",
+      "id": "44a7a37cc1ab",
+      "priority": 0,
+      "group": "6edb07fd121b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dor de cabeça"
+      ],
+      "phrase": [
+        {
+          "word": "头痛",
+          "definition": "dor de cabeça"
+        }
+      ],
+      "id": "a1171347ca69",
+      "priority": 1,
+      "group": "6edb07fd121b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dor de cabeça",
+      "meaning": "头痛",
+      "audio": "8f999a048efe91e869b4dfb78be9b1ea3a848b21fb76a2432217ae302926d0de",
+      "id": "c60274dd4155",
+      "priority": 1,
+      "group": "6edb07fd121b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "febre",
+      "meaningInSourceLanguage": "发烧",
+      "id": "780d2d9c54ca",
+      "priority": 0,
+      "group": "38fd4bf27848"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "febre"
+      ],
+      "phrase": [
+        {
+          "word": "发烧",
+          "definition": "febre"
+        }
+      ],
+      "id": "27d023e5202b",
+      "priority": 1,
+      "group": "38fd4bf27848"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "febre",
+      "meaning": "发烧",
+      "audio": "7c40a7fd55dd437313816105bfd4c59523c4f6354f000d89c2e8e43e6cc351af",
+      "id": "96d139ba68c7",
+      "priority": 1,
+      "group": "38fd4bf27848"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tosse",
+      "meaningInSourceLanguage": "咳嗽",
+      "id": "a3213137e480",
+      "priority": 0,
+      "group": "63b78ea553a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tosse"
+      ],
+      "phrase": [
+        {
+          "word": "咳嗽",
+          "definition": "tosse"
+        }
+      ],
+      "id": "3a0479944e6d",
+      "priority": 1,
+      "group": "63b78ea553a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tosse",
+      "meaning": "咳嗽",
+      "audio": "c9d2ae24e34c256f7b98cb50fb416ba56d472d523158eb65aeac5b251e2066f9",
+      "id": "ccfe48a8b97a",
+      "priority": 1,
+      "group": "63b78ea553a0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dor",
+      "meaningInSourceLanguage": "疼痛",
+      "id": "ec31a89e8bfc",
+      "priority": 0,
+      "group": "c8ed1587a5c0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dor"
+      ],
+      "phrase": [
+        {
+          "word": "疼痛",
+          "definition": "dor"
+        }
+      ],
+      "id": "e310e99d1622",
+      "priority": 1,
+      "group": "c8ed1587a5c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dor",
+      "meaning": "疼痛",
+      "audio": "1da43a3e6c47fe1b64f8be47a13b1ef4dbd4135197c6a01aaa925f5169fd550b",
+      "id": "d8ba57feffc7",
+      "priority": 1,
+      "group": "c8ed1587a5c0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "farmácia",
+      "meaningInSourceLanguage": "药店",
+      "id": "306f3a1960b2",
+      "priority": 0,
+      "group": "582ed7efd3e3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "farmácia"
+      ],
+      "phrase": [
+        {
+          "word": "药店",
+          "definition": "farmácia"
+        }
+      ],
+      "id": "f9e627146bb6",
+      "priority": 1,
+      "group": "582ed7efd3e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "farmácia",
+      "meaning": "药店",
+      "audio": "e64d07daec5752aa12507a8a3cd260306418025c351520020fb4271c8b1ce923",
+      "id": "dc3053bce57a",
+      "priority": 1,
+      "group": "582ed7efd3e3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "descanso",
+      "meaningInSourceLanguage": "休息",
+      "id": "37adc59716d0",
+      "priority": 0,
+      "group": "f76cef9a1e76"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "descanso"
+      ],
+      "phrase": [
+        {
+          "word": "休息",
+          "definition": "descanso"
+        }
+      ],
+      "id": "7919de203f20",
+      "priority": 1,
+      "group": "f76cef9a1e76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "descanso",
+      "meaning": "休息",
+      "audio": "abc8daa81ef21d1f7f957eeb95c91aeb05be560bd751825b0992e19aaf8654b5",
+      "id": "bf6e63800db9",
+      "priority": 1,
+      "group": "f76cef9a1e76"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dor de estômago",
+      "meaningInSourceLanguage": "肚子痛",
+      "id": "473ef1905e43",
+      "priority": 0,
+      "group": "5df7f6e7af31"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dor de estômago"
+      ],
+      "phrase": [
+        {
+          "word": "肚子痛",
+          "definition": "dor de estômago"
+        }
+      ],
+      "id": "9ab05090d9e8",
+      "priority": 1,
+      "group": "5df7f6e7af31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dor de estômago",
+      "meaning": "肚子痛",
+      "audio": "5fdb187659e91bbb35e5a23b02234586ba4521eaec08ff5eca6654abe58815cf",
+      "id": "647ef532dcd3",
+      "priority": 1,
+      "group": "5df7f6e7af31"
+    }
+  ]
+}

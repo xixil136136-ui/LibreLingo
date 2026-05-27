@@ -1,0 +1,431 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Где автобусная остановка?",
+      "meaningInSourceLanguage": "公共汽车站在哪里？",
+      "id": "f8d4a8bb41eb",
+      "priority": 0,
+      "group": "30f4814e12ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Где автобусная остановка?",
+      "meaning": "公共汽车站在哪里？",
+      "audio": "50c3c7c409748a67119c7b8cbd562e55bc33c91cc0f1767a7278d1da7140e536",
+      "id": "fd9884370196",
+      "priority": 1,
+      "group": "30f4814e12ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Поезд задерживается.",
+      "meaningInSourceLanguage": "火车晚点了。",
+      "id": "e678a63b7af7",
+      "priority": 0,
+      "group": "da05bbd5da9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Поезд задерживается.",
+      "meaning": "火车晚点了。",
+      "audio": "e6ede7190b041828591e05b7b4aed8c2286f75f7c18469762064959c14b66127",
+      "id": "426c2b07b09f",
+      "priority": 1,
+      "group": "da05bbd5da9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня есть багаж.",
+      "meaningInSourceLanguage": "我有行李。",
+      "id": "d5fcd75b5509",
+      "priority": 0,
+      "group": "116822ffbc80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня есть багаж.",
+      "meaning": "我有行李。",
+      "audio": "7b442a80bdd3675caeae9bf851de7d93931b7af46fbcbceed095cb1132699eae",
+      "id": "e2ff9f25e78b",
+      "priority": 1,
+      "group": "116822ffbc80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сколько стоит поезд?",
+      "meaningInSourceLanguage": "火车票多少钱？",
+      "id": "836f8c4792e0",
+      "priority": 0,
+      "group": "778a7b113e1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сколько стоит поезд?",
+      "meaning": "火车票多少钱？",
+      "audio": "ce66c8176e8d52528da68794e33b07d8e98b98883970c731c2ba5f12c9c537a1",
+      "id": "068215c83390",
+      "priority": 1,
+      "group": "778a7b113e1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Где стоянка такси?",
+      "meaningInSourceLanguage": "出租车站在哪里？",
+      "id": "f65d44f3abc1",
+      "priority": 0,
+      "group": "b1690b446a0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Где стоянка такси?",
+      "meaning": "出租车站在哪里？",
+      "audio": "01c3d8f0d9c223e414fbc6b7e56dbdf047e39268f8179bbf28c9ac73ab5073c9",
+      "id": "1287640c6318",
+      "priority": 1,
+      "group": "b1690b446a0f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "поезд",
+      "meaningInSourceLanguage": "火车",
+      "id": "9d98933012f1",
+      "priority": 0,
+      "group": "e89e21272e76"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "поезд"
+      ],
+      "phrase": [
+        {
+          "word": "火车",
+          "definition": "поезд"
+        }
+      ],
+      "id": "ebb40f7aab97",
+      "priority": 1,
+      "group": "e89e21272e76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "поезд",
+      "meaning": "火车",
+      "audio": "24e4db573f7fa8bc6a7347d291035588f5a2796b23861077c3e07a70feba5af3",
+      "id": "a5855cff307b",
+      "priority": 1,
+      "group": "e89e21272e76"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "автобус",
+      "meaningInSourceLanguage": "公共汽车",
+      "id": "a03a7ab1104f",
+      "priority": 0,
+      "group": "bb86981eeaad"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "автобус"
+      ],
+      "phrase": [
+        {
+          "word": "公共汽车",
+          "definition": "автобус"
+        }
+      ],
+      "id": "d7dcc656eb23",
+      "priority": 1,
+      "group": "bb86981eeaad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "автобус",
+      "meaning": "公共汽车",
+      "audio": "04b7f7a9693054e030129c1956c95d7be13399c6e8e8d791391aedf15ff66ccc",
+      "id": "0b7b3014be91",
+      "priority": 1,
+      "group": "bb86981eeaad"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "такси",
+      "meaningInSourceLanguage": "出租车",
+      "id": "769a8e21e159",
+      "priority": 0,
+      "group": "7901bacec221"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "такси"
+      ],
+      "phrase": [
+        {
+          "word": "出租车",
+          "definition": "такси"
+        }
+      ],
+      "id": "a9c7590b2624",
+      "priority": 1,
+      "group": "7901bacec221"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "такси",
+      "meaning": "出租车",
+      "audio": "eb1532d1cf968a71fc669e0c7a169ca854baca0426bccad7206b47983a07f2cb",
+      "id": "660490de1115",
+      "priority": 1,
+      "group": "7901bacec221"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "метро",
+      "meaningInSourceLanguage": "地铁",
+      "id": "f49af658ca2d",
+      "priority": 0,
+      "group": "3395d74fa6b6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "метро"
+      ],
+      "phrase": [
+        {
+          "word": "地铁",
+          "definition": "метро"
+        }
+      ],
+      "id": "ce4dbae881e9",
+      "priority": 1,
+      "group": "3395d74fa6b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "метро",
+      "meaning": "地铁",
+      "audio": "d55d3f418c805e6a0cdfa5f5c3730aebddfe410444f9ec5be5178b832572a6e4",
+      "id": "8b31bb9b6531",
+      "priority": 1,
+      "group": "3395d74fa6b6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "отель",
+      "meaningInSourceLanguage": "酒店",
+      "id": "dbfa4f1acd27",
+      "priority": 0,
+      "group": "58f9ab16a42e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "отель"
+      ],
+      "phrase": [
+        {
+          "word": "酒店",
+          "definition": "отель"
+        }
+      ],
+      "id": "f2ebd3f82568",
+      "priority": 1,
+      "group": "58f9ab16a42e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "отель",
+      "meaning": "酒店",
+      "audio": "17037177244892e7e2e5b5309c29824ca00912cef1666131deecd8cf65c07c54",
+      "id": "399e073aea54",
+      "priority": 1,
+      "group": "58f9ab16a42e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "багаж",
+      "meaningInSourceLanguage": "行李",
+      "id": "53f52be95406",
+      "priority": 0,
+      "group": "c77bf941d378"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "багаж"
+      ],
+      "phrase": [
+        {
+          "word": "行李",
+          "definition": "багаж"
+        }
+      ],
+      "id": "f737eca5a27d",
+      "priority": 1,
+      "group": "c77bf941d378"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "багаж",
+      "meaning": "行李",
+      "audio": "c7ac03331892ecf814262b3fbf20b81da78bcb9f8c8111431701da175bc5d944",
+      "id": "b8b837006a56",
+      "priority": 1,
+      "group": "c77bf941d378"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вокзал",
+      "meaningInSourceLanguage": "车站",
+      "id": "4d3fa6c7346e",
+      "priority": 0,
+      "group": "6edd2bd35082"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вокзал"
+      ],
+      "phrase": [
+        {
+          "word": "车站",
+          "definition": "вокзал"
+        }
+      ],
+      "id": "9061a742dfd1",
+      "priority": 1,
+      "group": "6edd2bd35082"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вокзал",
+      "meaning": "车站",
+      "audio": "6c37ca1bd058b608fd361c01e584de1f767f38bd101db4fc2232319d338aa701",
+      "id": "b421d4224510",
+      "priority": 1,
+      "group": "6edd2bd35082"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рейс",
+      "meaningInSourceLanguage": "航班",
+      "id": "621c14118d6e",
+      "priority": 0,
+      "group": "87a1a6c3c40c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рейс"
+      ],
+      "phrase": [
+        {
+          "word": "航班",
+          "definition": "рейс"
+        }
+      ],
+      "id": "8f502fbb453d",
+      "priority": 1,
+      "group": "87a1a6c3c40c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рейс",
+      "meaning": "航班",
+      "audio": "c00f42828d1b137ca5a93381da4c36acf49a08068bc019289b2475d3ff579b00",
+      "id": "6d385c0e6047",
+      "priority": 1,
+      "group": "87a1a6c3c40c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "задержка",
+      "meaningInSourceLanguage": "延误",
+      "id": "b0eaf0269786",
+      "priority": 0,
+      "group": "82c447aea8a2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "задержка"
+      ],
+      "phrase": [
+        {
+          "word": "延误",
+          "definition": "задержка"
+        }
+      ],
+      "id": "2f92b0efc2ee",
+      "priority": 1,
+      "group": "82c447aea8a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "задержка",
+      "meaning": "延误",
+      "audio": "30058f8a90d615d277ae94d22598bca7f0d9912462ee9e3d235f4830955f9467",
+      "id": "476cde24bab8",
+      "priority": 1,
+      "group": "82c447aea8a2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "посадка",
+      "meaningInSourceLanguage": "登机",
+      "id": "002d31eebd49",
+      "priority": 0,
+      "group": "eb67c37a349b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "посадка"
+      ],
+      "phrase": [
+        {
+          "word": "登机",
+          "definition": "посадка"
+        }
+      ],
+      "id": "80eeb68be8af",
+      "priority": 1,
+      "group": "eb67c37a349b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "посадка",
+      "meaning": "登机",
+      "audio": "054347da367adbb8f9fa91a286aae8cbdb13d920957d4d54f85b0e68861bddb4",
+      "id": "a28a202b5d3a",
+      "priority": 1,
+      "group": "eb67c37a349b"
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "id": "cadaa31c42bb",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "firewall",
+      "meaningInSourceLanguage": "防火墙",
+      "id": "a93367e38293",
+      "priority": 0,
+      "group": "eb7da0dc9ce9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "firewall",
+      "meaning": "防火墙",
+      "audio": "dea8d63ab95c1472b2e3c3b5b5c19fa625a9437b781a2b5c08105c3ea5d77bc7",
+      "id": "ca77312a205a",
+      "priority": 1,
+      "group": "eb7da0dc9ce9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "encryption",
+      "meaningInSourceLanguage": "加密",
+      "id": "41743f28fd9c",
+      "priority": 0,
+      "group": "bbf1ed50b5a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "encryption",
+      "meaning": "加密",
+      "audio": "ccc38b6825c64e595aa9a068ead1cafbc7d1653cee679a51d31d9b57ab7d6273",
+      "id": "1e74cc7ad24a",
+      "priority": 1,
+      "group": "bbf1ed50b5a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "VPN",
+      "meaningInSourceLanguage": "虚拟专用网络",
+      "id": "ba0c1e7663ca",
+      "priority": 0,
+      "group": "c34a1415b7b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "VPN",
+      "meaning": "虚拟专用网络",
+      "audio": "a9fab2c11972242ace72e31c656085429619ca384035f6108a29915d3a67254b",
+      "id": "dbd70ab51da9",
+      "priority": 1,
+      "group": "c34a1415b7b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antivirus",
+      "meaningInSourceLanguage": "杀毒软件",
+      "id": "5d916c4cd6d0",
+      "priority": 0,
+      "group": "587ea7a0edd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antivirus",
+      "meaning": "杀毒软件",
+      "audio": "c840062eee56bcb04a73914eabd92339dcc69eb6e1688af79062023475519af7",
+      "id": "7656a9746de2",
+      "priority": 1,
+      "group": "587ea7a0edd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "malware",
+      "meaningInSourceLanguage": "恶意软件",
+      "id": "68290c75dee0",
+      "priority": 0,
+      "group": "2018fd0727c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "malware",
+      "meaning": "恶意软件",
+      "audio": "50b290398ae57ea1ad61d3c82d9584306d9d90cf4f3f2cf0ccb4803cb2bedb4c",
+      "id": "36aafc7218bc",
+      "priority": 1,
+      "group": "2018fd0727c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "virus",
+      "meaningInSourceLanguage": "病毒",
+      "id": "f5aa3da434cb",
+      "priority": 0,
+      "group": "edc12e8a7bc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "virus",
+      "meaning": "病毒",
+      "audio": "4b67052245b37a40a4cc0f9ead7a6fb8cb409797254d8417da6142c8e75bc304",
+      "id": "a33b835a9bf5",
+      "priority": 1,
+      "group": "edc12e8a7bc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "worm",
+      "meaningInSourceLanguage": "蠕虫",
+      "id": "287b86ef0b61",
+      "priority": 0,
+      "group": "87b55d68cac3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "worm",
+      "meaning": "蠕虫",
+      "audio": "31a9b97224457504673054a7c777aa1acfe87748e4aa6ffa0ae1f1aafe64320a",
+      "id": "04545b6124e0",
+      "priority": 1,
+      "group": "87b55d68cac3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trojan",
+      "meaningInSourceLanguage": "木马",
+      "id": "f53df5786586",
+      "priority": 0,
+      "group": "9ce7c67876cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trojan",
+      "meaning": "木马",
+      "audio": "0530e1e976329066be23cf86c0c8840fa4243b614dc0d4bd8e4e8c2317c07914",
+      "id": "403520ebcf8e",
+      "priority": 1,
+      "group": "9ce7c67876cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ransomware",
+      "meaningInSourceLanguage": "勒索软件",
+      "id": "32e38308aa74",
+      "priority": 0,
+      "group": "c9aefb91f56d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ransomware",
+      "meaning": "勒索软件",
+      "audio": "d38ff73092d58ac3c49b4ac38531b7fb665fbfb0e4f1bd53bdc1ab70cb5b626a",
+      "id": "044d3ebe3eaa",
+      "priority": 1,
+      "group": "c9aefb91f56d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "phishing",
+      "meaningInSourceLanguage": "网络钓鱼",
+      "id": "acb43e0064d6",
+      "priority": 0,
+      "group": "0cc9f4c89d89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "phishing",
+      "meaning": "网络钓鱼",
+      "audio": "3c1152e499dda6a3b68e135c8d3ed74df578de0bd9f72de1ec98caa36abb8e36",
+      "id": "f9f6b9ec52d2",
+      "priority": 1,
+      "group": "0cc9f4c89d89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spyware",
+      "meaningInSourceLanguage": "间谍软件",
+      "id": "5ebc76e640ef",
+      "priority": 0,
+      "group": "b4b06fa39083"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spyware",
+      "meaning": "间谍软件",
+      "audio": "5bc3dde5c54034a6199d83a25428f57793e35a93d51f9793a93577cf209466ac",
+      "id": "dbdb959e6eed",
+      "priority": 1,
+      "group": "b4b06fa39083"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "adware",
+      "meaningInSourceLanguage": "广告软件",
+      "id": "cbd9e5a7c947",
+      "priority": 0,
+      "group": "9a57612ed833"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "adware",
+      "meaning": "广告软件",
+      "audio": "7b11347a5fff4d7e814d1bcba82b0dd50c94d9d92e3dd68682b6a9ebdaf618ea",
+      "id": "5a15a4db777d",
+      "priority": 1,
+      "group": "9a57612ed833"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hacker",
+      "meaningInSourceLanguage": "黑客",
+      "id": "4d87ebcda13f",
+      "priority": 0,
+      "group": "7767dabcefe8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hacker",
+      "meaning": "黑客",
+      "audio": "339d6e73b8a0808dc8637739fd9486a9469a4bda2520a3142f6ea10b45b5abf1",
+      "id": "4289c1dec736",
+      "priority": 1,
+      "group": "7767dabcefe8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cyber attack",
+      "meaningInSourceLanguage": "网络攻击",
+      "id": "ea4633bf43a9",
+      "priority": 0,
+      "group": "b5b4973be35e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cyber attack",
+      "meaning": "网络攻击",
+      "audio": "b5bb48d98359ee0c1f2d097d0ac4f9c8fe588ee2bee2026c6b66a5975a7023c7",
+      "id": "b10927390776",
+      "priority": 1,
+      "group": "b5b4973be35e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "DDoS",
+      "meaningInSourceLanguage": "分布式拒绝服务",
+      "id": "34a5fbeb4d39",
+      "priority": 0,
+      "group": "3d2b2b1840ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "DDoS",
+      "meaning": "分布式拒绝服务",
+      "audio": "b3bafbd949c6ce7935410b8941d34bc1b6e5cad15ca56bd682df107beb31bed8",
+      "id": "739ca433d915",
+      "priority": 1,
+      "group": "3d2b2b1840ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "breach",
+      "meaningInSourceLanguage": "数据泄露",
+      "id": "ada772344fa4",
+      "priority": 0,
+      "group": "52fe12a9ff59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "breach",
+      "meaning": "数据泄露",
+      "audio": "8c3f3a83dd8605b070ee585228ac5b25a2dffbd5b2d9aa1af431610fb99c7d37",
+      "id": "585eb10ec282",
+      "priority": 1,
+      "group": "52fe12a9ff59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vulnerability",
+      "meaningInSourceLanguage": "漏洞",
+      "id": "9d63943e76c2",
+      "priority": 0,
+      "group": "6f5bcf0b2347"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vulnerability",
+      "meaning": "漏洞",
+      "audio": "90956e33ea68ac7fdae9edf9e4090d50841335a0f40fb501c4388738c8686446",
+      "id": "bab2fa133aca",
+      "priority": 1,
+      "group": "6f5bcf0b2347"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exploit",
+      "meaningInSourceLanguage": "利用",
+      "id": "9e26e4b0c310",
+      "priority": 0,
+      "group": "223c55405f45"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exploit",
+      "meaning": "利用",
+      "audio": "390feb9e447a51b21902654bfa180ad77a788a8f73237a9dd8e7d81923ba7e3f",
+      "id": "fc78250cdb24",
+      "priority": 1,
+      "group": "223c55405f45"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "patch",
+      "meaningInSourceLanguage": "补丁",
+      "id": "015fc5960585",
+      "priority": 0,
+      "group": "06e42c7b4cc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "patch",
+      "meaning": "补丁",
+      "audio": "871a3978d4cd476e4bc9c564520b508c80aec0f57e1067543fa97b14a3510ec4",
+      "id": "702dcd26990a",
+      "priority": 1,
+      "group": "06e42c7b4cc1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "authentication",
+      "meaningInSourceLanguage": "认证",
+      "id": "52780fbd870e",
+      "priority": 0,
+      "group": "91725ef7d117"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "authentication",
+      "meaning": "认证",
+      "audio": "e956d9479b467722b85714da468f52496b2265bbaae259353563183491bf9346",
+      "id": "1597ab71257e",
+      "priority": 1,
+      "group": "91725ef7d117"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "authorization",
+      "meaningInSourceLanguage": "授权",
+      "id": "51f7f623c94e",
+      "priority": 0,
+      "group": "75e0e11affe8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "authorization",
+      "meaning": "授权",
+      "audio": "b12c3e4876003588259a331e790b12e228332282842ab812c6b3f7e2bac234aa",
+      "id": "888c5d43a7e0",
+      "priority": 1,
+      "group": "75e0e11affe8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "biometric",
+      "meaningInSourceLanguage": "生物识别",
+      "id": "d90499f6d555",
+      "priority": 0,
+      "group": "6b03a7dc35bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "biometric",
+      "meaning": "生物识别",
+      "audio": "74763426b162c4e304a21d5e8052a49e52621e0364309561c693785cc8aba658",
+      "id": "4831e689e953",
+      "priority": 1,
+      "group": "6b03a7dc35bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fingerprint",
+      "meaningInSourceLanguage": "指纹",
+      "id": "7d59e76c1221",
+      "priority": 0,
+      "group": "1262dd337a77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fingerprint",
+      "meaning": "指纹",
+      "audio": "73d5cc40a0a04eb7d377d41ce2cca1f2f41c502491bada69668df01e1f3a792e",
+      "id": "9789a8e321ea",
+      "priority": 1,
+      "group": "1262dd337a77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "facial recognition",
+      "meaningInSourceLanguage": "面部识别",
+      "id": "d6e644c6c249",
+      "priority": 0,
+      "group": "b281c76bf3a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "facial recognition",
+      "meaning": "面部识别",
+      "audio": "8af26467810deb240de91312cf6f096cb0569cc5e1dc781940ee2082bcffeb82",
+      "id": "0ae223847e39",
+      "priority": 1,
+      "group": "b281c76bf3a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "two-factor authentication",
+      "meaningInSourceLanguage": "双因素认证",
+      "id": "897faf94c58e",
+      "priority": 0,
+      "group": "ace04c45b840"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "two-factor authentication",
+      "meaning": "双因素认证",
+      "audio": "34bafbbfbdeacf32cd8045df515bbdc42b539d5376119f678e382dc622d4da92",
+      "id": "15ab04bcf9d2",
+      "priority": 1,
+      "group": "ace04c45b840"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "CAPTCHA",
+      "meaningInSourceLanguage": "验证码",
+      "id": "636aaa80c198",
+      "priority": 0,
+      "group": "0cc8b3e36664"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "CAPTCHA",
+      "meaning": "验证码",
+      "audio": "0c0cea1c07ef98300068fa738c9be98541aa1b1432b3f1efa1c7927662253c79",
+      "id": "a0a437ad68c6",
+      "priority": 1,
+      "group": "0cc8b3e36664"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "SSL",
+      "meaningInSourceLanguage": "SSL证书",
+      "id": "42009515cb1e",
+      "priority": 0,
+      "group": "c68751bbba7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "SSL",
+      "meaning": "SSL证书",
+      "audio": "245e01b72a35836c82017e7d59621972f3a47ec9d020ea1d9a9a815b17565f40",
+      "id": "a6e8c73fde02",
+      "priority": 1,
+      "group": "c68751bbba7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "HTTPS",
+      "meaningInSourceLanguage": "HTTPS",
+      "id": "7100362281c9",
+      "priority": 0,
+      "group": "589b4c628b93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "HTTPS",
+      "meaning": "HTTPS",
+      "audio": "2cecdfa2fca89aa20c9a6b5458cfcbd4b23bd2fdb962b19304d72c70d9475e66",
+      "id": "62a82bfacf73",
+      "priority": 1,
+      "group": "589b4c628b93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "certificate",
+      "meaningInSourceLanguage": "证书",
+      "id": "187a986d7716",
+      "priority": 0,
+      "group": "c77168721e40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "certificate",
+      "meaning": "证书",
+      "audio": "b77e09638180975eaebce2071bad10b5b56ba6f8f5689ee3006cf784ec55e845",
+      "id": "8b45e5a12084",
+      "priority": 1,
+      "group": "c77168721e40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "public key",
+      "meaningInSourceLanguage": "公钥",
+      "id": "bb3e81e475f7",
+      "priority": 0,
+      "group": "fca36454821b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "public key",
+      "meaning": "公钥",
+      "audio": "cc8c2ad892d1279cefc12e89d84d6e069aa336df8161258a27a9269e3557bb08",
+      "id": "7b5392915dad",
+      "priority": 1,
+      "group": "fca36454821b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "private key",
+      "meaningInSourceLanguage": "私钥",
+      "id": "f76ce16fd4d6",
+      "priority": 0,
+      "group": "57219cb4d964"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "private key",
+      "meaning": "私钥",
+      "audio": "12f13d43bf0fdb3fa485ec68630b54c401ddc3041cd48717f49ea0d2788c4c2d",
+      "id": "dfac7a95f79d",
+      "priority": 1,
+      "group": "57219cb4d964"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hash",
+      "meaningInSourceLanguage": "哈希",
+      "id": "1d0eed074756",
+      "priority": 0,
+      "group": "fed2b976e356"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hash",
+      "meaning": "哈希",
+      "audio": "7c04c27f4e4dc64b4b26ed48ab878556207bcaa3a5d1883d725ba691e6756081",
+      "id": "0cce5da94d8b",
+      "priority": 1,
+      "group": "fed2b976e356"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blockchain",
+      "meaningInSourceLanguage": "区块链",
+      "id": "b91324e348a8",
+      "priority": 0,
+      "group": "eee73f820874"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blockchain",
+      "meaning": "区块链",
+      "audio": "1c6389cfd1d8f53b3526718be9bd58b26e1e517270e3fbc15dde1a87c8f8aaed",
+      "id": "c4f6136ef12c",
+      "priority": 1,
+      "group": "eee73f820874"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cryptocurrency",
+      "meaningInSourceLanguage": "加密货币",
+      "id": "3885ede219b4",
+      "priority": 0,
+      "group": "2900870c590f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cryptocurrency",
+      "meaning": "加密货币",
+      "audio": "07660f95c336432004e9197e9c2acbf8f5304e3bf9988dafd80cc06bb54cb488",
+      "id": "31d3788fd592",
+      "priority": 1,
+      "group": "2900870c590f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bitcoin",
+      "meaningInSourceLanguage": "比特币",
+      "id": "ee4f82dca64c",
+      "priority": 0,
+      "group": "c7113f2e8ec5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bitcoin",
+      "meaning": "比特币",
+      "audio": "a0cb044c41d847ee2c62fd62983fbb90a9facb4b07cf0bed78ab94f0300bc1b7",
+      "id": "dc45c50c7ff7",
+      "priority": 1,
+      "group": "c7113f2e8ec5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ethereum",
+      "meaningInSourceLanguage": "以太坊",
+      "id": "21c917ad2010",
+      "priority": 0,
+      "group": "fecff92ac008"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ethereum",
+      "meaning": "以太坊",
+      "audio": "b6b1d142730ab881045ce6f4a6380b3227deccc54c7fd80d10dbf68c1064a1e6",
+      "id": "cf2800a12fab",
+      "priority": 1,
+      "group": "fecff92ac008"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smart contract",
+      "meaningInSourceLanguage": "智能合约",
+      "id": "53dcc024c5fd",
+      "priority": 0,
+      "group": "c91b48082943"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smart contract",
+      "meaning": "智能合约",
+      "audio": "844b174978f2fddee9d1bbad1d5b78b2a2990d3a63ed76ae98bc647fcd3812ce",
+      "id": "edbfeae356de",
+      "priority": 1,
+      "group": "c91b48082943"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mining",
+      "meaningInSourceLanguage": "挖矿",
+      "id": "62eeb4be4571",
+      "priority": 0,
+      "group": "425fe3a30a1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mining",
+      "meaning": "挖矿",
+      "audio": "ea63d0d19960aadfe3532f52fb95c466f439379e04dbdbcb3aa8c41f20548662",
+      "id": "90c75331a43e",
+      "priority": 1,
+      "group": "425fe3a30a1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wallet",
+      "meaningInSourceLanguage": "钱包",
+      "id": "80fa4d73a8ad",
+      "priority": 0,
+      "group": "36c2e8192352"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wallet",
+      "meaning": "钱包",
+      "audio": "54c3fd7d35e9bc97a3207b6d6cb71644d5d2db9baa0fa5466b2916f08de834f3",
+      "id": "9e458c3b5358",
+      "priority": 1,
+      "group": "36c2e8192352"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "node",
+      "meaningInSourceLanguage": "节点",
+      "id": "2c63e6b49b16",
+      "priority": 0,
+      "group": "bc12fc4cfe8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "node",
+      "meaning": "节点",
+      "audio": "f92bfd669399701edfc9ba6214872353bbff8e167a5be4fb38e6b8d8f1aa0ada",
+      "id": "b56d2d3f5135",
+      "priority": 1,
+      "group": "bc12fc4cfe8c"
+    }
+  ]
+}

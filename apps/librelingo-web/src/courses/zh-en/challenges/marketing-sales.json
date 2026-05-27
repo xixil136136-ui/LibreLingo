@@ -1,0 +1,686 @@
+{
+  "id": "59f32ebc0b2a",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "advertisement",
+      "meaningInSourceLanguage": "广告",
+      "id": "1d79750842c2",
+      "priority": 0,
+      "group": "ed8bd9a5b6b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "advertisement",
+      "meaning": "广告",
+      "audio": "54e7d419940dc454cd5752a48d074aa057902a767e0911c5ee50eecb25a7ef20",
+      "id": "76bda6d9fd5f",
+      "priority": 1,
+      "group": "ed8bd9a5b6b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marketing",
+      "meaningInSourceLanguage": "营销",
+      "id": "b260053428bf",
+      "priority": 0,
+      "group": "56243c70ace2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marketing",
+      "meaning": "营销",
+      "audio": "b2b8d9566fca9b698ccab29e0da56ed4dca3fd01e42c8ea4b8556fe501508516",
+      "id": "82cb52734a43",
+      "priority": 1,
+      "group": "56243c70ace2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brand",
+      "meaningInSourceLanguage": "品牌",
+      "id": "4345ebfed2e8",
+      "priority": 0,
+      "group": "19664567adbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brand",
+      "meaning": "品牌",
+      "audio": "1432a438b523b0396bcc11fbfaabd6bf19f969f75b99fea8b2761c520bf05d21",
+      "id": "1efa16133681",
+      "priority": 1,
+      "group": "19664567adbd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "campaign",
+      "meaningInSourceLanguage": "活动",
+      "id": "6f0c85ed2cb2",
+      "priority": 0,
+      "group": "c541c3021a32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "campaign",
+      "meaning": "活动",
+      "audio": "bfe17253885cc7085e8606d5ad3b2846096302163aa0c0739237157fd47a3866",
+      "id": "cb7730a7eee3",
+      "priority": 1,
+      "group": "c541c3021a32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "target",
+      "meaningInSourceLanguage": "目标",
+      "id": "2e7d57c7c16b",
+      "priority": 0,
+      "group": "84afb701e347"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "target",
+      "meaning": "目标",
+      "audio": "fc615687cc023b4219bac87d0ee1b9eba8cea83c6164ce9edf64003ed5f6bfb6",
+      "id": "da13c7091371",
+      "priority": 1,
+      "group": "84afb701e347"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "audience",
+      "meaningInSourceLanguage": "受众",
+      "id": "cd831f8cf0bc",
+      "priority": 0,
+      "group": "ebb53b3ca83d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "audience",
+      "meaning": "受众",
+      "audio": "6ca16d9ec18a3c324483336fcef6ac8f77b8509f17b9962a7b97856f9df4d2ba",
+      "id": "bb8983227f23",
+      "priority": 1,
+      "group": "ebb53b3ca83d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customer",
+      "meaningInSourceLanguage": "客户",
+      "id": "e0042a922f57",
+      "priority": 0,
+      "group": "0e8d08fa6594"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customer",
+      "meaning": "客户",
+      "audio": "f42052227b422646577a5789d5d9a91fd9ac37506f9a9dc87d09e3bf1e0bf0c0",
+      "id": "cbcb7b669df1",
+      "priority": 1,
+      "group": "0e8d08fa6594"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "client",
+      "meaningInSourceLanguage": "客户",
+      "id": "686604804136",
+      "priority": 0,
+      "group": "6adbfff9ccc2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "client",
+      "meaning": "客户",
+      "audio": "0de3c50da0e73f89347a93830014986104564c24c3565400ed58a3486f9affd0",
+      "id": "6817157f679a",
+      "priority": 1,
+      "group": "6adbfff9ccc2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "consumer",
+      "meaningInSourceLanguage": "消费者",
+      "id": "4a8f7d85bc7b",
+      "priority": 0,
+      "group": "f218de96a7e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "consumer",
+      "meaning": "消费者",
+      "audio": "a11963de9a3bd69241ba8fd3da1a879f66a2f34a035d00baa71411552029a732",
+      "id": "4ea74c8b7a9d",
+      "priority": 1,
+      "group": "f218de96a7e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "product",
+      "meaningInSourceLanguage": "产品",
+      "id": "3569976590b8",
+      "priority": 0,
+      "group": "7e86486dd193"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "product",
+      "meaning": "产品",
+      "audio": "3e6f182095f8a8712690702ce7d0fe040e05430a8f3ca5286ce5d9a9b9424d1c",
+      "id": "2a50daf04cca",
+      "priority": 1,
+      "group": "7e86486dd193"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "service",
+      "meaningInSourceLanguage": "服务",
+      "id": "4b6c9250ecbe",
+      "priority": 0,
+      "group": "3a8ae89aff29"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "service",
+      "meaning": "服务",
+      "audio": "f856e4f2c5b55a4b5fd1a067a8a41df7f6c952c565e7570e74e1363949784342",
+      "id": "afc313002875",
+      "priority": 1,
+      "group": "3a8ae89aff29"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "price",
+      "meaningInSourceLanguage": "价格",
+      "id": "114c4e64270a",
+      "priority": 0,
+      "group": "9ad677843614"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "price",
+      "meaning": "价格",
+      "audio": "e53c9f3465b58188910650447781911eb241826ce42d41b3821b11c71b13072f",
+      "id": "4f78f2d67f9d",
+      "priority": 1,
+      "group": "9ad677843614"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "promotion",
+      "meaningInSourceLanguage": "促销",
+      "id": "7abb1a55dfd0",
+      "priority": 0,
+      "group": "c5f65b871ea5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "promotion",
+      "meaning": "促销",
+      "audio": "fc347caf5c7d4fd348ea554168c683742cacddab1348e7d333e9fd66e50625be",
+      "id": "b47473721829",
+      "priority": 1,
+      "group": "c5f65b871ea5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "distributor",
+      "meaningInSourceLanguage": "分销商",
+      "id": "08c357ca1e61",
+      "priority": 0,
+      "group": "2911b24ce026"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "distributor",
+      "meaning": "分销商",
+      "audio": "a5e9f42923d7412b49ddcc2a52d1f5f06a02a0399dda76e483ad8b76b9cfe70b",
+      "id": "687ef86d772e",
+      "priority": 1,
+      "group": "2911b24ce026"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "retailer",
+      "meaningInSourceLanguage": "零售商",
+      "id": "bf94d4c0225b",
+      "priority": 0,
+      "group": "3583fce2a223"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retailer",
+      "meaning": "零售商",
+      "audio": "c37d9e73187f07ed048570e5e3125d1f6a8c6a3d359478bd703fe0b7dc629298",
+      "id": "23499e39b108",
+      "priority": 1,
+      "group": "3583fce2a223"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wholesaler",
+      "meaningInSourceLanguage": "批发商",
+      "id": "56845247c0c3",
+      "priority": 0,
+      "group": "60e0bcba9ed2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wholesaler",
+      "meaning": "批发商",
+      "audio": "afb71cd7176f8f9176fde7d48d86efe1d2d3502b3e49c6a9ac603059dc2caadc",
+      "id": "f0258257d545",
+      "priority": 1,
+      "group": "60e0bcba9ed2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "supplier",
+      "meaningInSourceLanguage": "供应商",
+      "id": "6e088a5b6a49",
+      "priority": 0,
+      "group": "543bc972ed9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "supplier",
+      "meaning": "供应商",
+      "audio": "7378752fed3feb194efe41a171113ed9991c39b87889bc2cacfe1544a68a88b8",
+      "id": "8e41e3c5ffce",
+      "priority": 1,
+      "group": "543bc972ed9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vendor",
+      "meaningInSourceLanguage": "供应商",
+      "id": "4bd3f4b0fdd3",
+      "priority": 0,
+      "group": "a24e8238e6d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vendor",
+      "meaning": "供应商",
+      "audio": "300759e0a974a012ab0d610604d5ee8fcb95d46231496fe80f7eee381d2dcf6a",
+      "id": "65a9a603809f",
+      "priority": 1,
+      "group": "a24e8238e6d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lead",
+      "meaningInSourceLanguage": "线索",
+      "id": "b18cc47595f3",
+      "priority": 0,
+      "group": "29bbb52c2f0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lead",
+      "meaning": "线索",
+      "audio": "095459684ef6c8786f0414aa7c5bd8e87bab2373ee53d7632a263add1841d2f6",
+      "id": "3428ac6ff1d7",
+      "priority": 1,
+      "group": "29bbb52c2f0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conversion",
+      "meaningInSourceLanguage": "转化",
+      "id": "39740fec44ca",
+      "priority": 0,
+      "group": "bcd9673402f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conversion",
+      "meaning": "转化",
+      "audio": "ae5a32ba7f19da720a1a902706de25f0c830acf5d10e3ce87bd6cf06bce9b895",
+      "id": "9ddd7700d154",
+      "priority": 1,
+      "group": "bcd9673402f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "revenue",
+      "meaningInSourceLanguage": "收入",
+      "id": "d86de77c0f8e",
+      "priority": 0,
+      "group": "3896b7a44373"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "revenue",
+      "meaning": "收入",
+      "audio": "d2d39120e5f1385fc76223ac72b78efccde747171e2357752f0003eb3bd16eb8",
+      "id": "5608b60a2507",
+      "priority": 1,
+      "group": "3896b7a44373"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "profit",
+      "meaningInSourceLanguage": "利润",
+      "id": "05432b62eb71",
+      "priority": 0,
+      "group": "6751a992cfd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "profit",
+      "meaning": "利润",
+      "audio": "a78b339130359963140f9f262f25c0649868990c12989c04415d8873bb9fb29f",
+      "id": "1ee01d9aa272",
+      "priority": 1,
+      "group": "6751a992cfd3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "margin",
+      "meaningInSourceLanguage": "利润率",
+      "id": "bc7c5c7da5cd",
+      "priority": 0,
+      "group": "95b29bac7137"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "margin",
+      "meaning": "利润率",
+      "audio": "1b3ad713c449d2c891e8c2175730b26e6a433c7503b013b1215e891c97619dff",
+      "id": "6ecf0e0369d9",
+      "priority": 1,
+      "group": "95b29bac7137"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ROI",
+      "meaningInSourceLanguage": "投资回报率",
+      "id": "272802abf15b",
+      "priority": 0,
+      "group": "e102659426bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ROI",
+      "meaning": "投资回报率",
+      "audio": "970154f9f847bc84632f4ce4e3a05a4e56cd322e88a26216cf9c20e9b79fab08",
+      "id": "280159ff07a1",
+      "priority": 1,
+      "group": "e102659426bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quota",
+      "meaningInSourceLanguage": "配额",
+      "id": "30bb81a6707d",
+      "priority": 0,
+      "group": "cd6de838e6b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quota",
+      "meaning": "配额",
+      "audio": "49ee3f1f183b71d59454ee19eb1cce83d81d29968e1359b51c6a86a7b59e5ba2",
+      "id": "d652eec79440",
+      "priority": 1,
+      "group": "cd6de838e6b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "commission",
+      "meaningInSourceLanguage": "佣金",
+      "id": "c8d97e8b7d5a",
+      "priority": 0,
+      "group": "6c8a46456c6a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "commission",
+      "meaning": "佣金",
+      "audio": "67ea684bd8efcebb6ae3f909d2d17b330540799eadd3c7768f5fd42a78aa7f6f",
+      "id": "46c3b2b50625",
+      "priority": 1,
+      "group": "6c8a46456c6a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bonus",
+      "meaningInSourceLanguage": "奖金",
+      "id": "5f87b1f0c8af",
+      "priority": 0,
+      "group": "d09fd97cf6d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bonus",
+      "meaning": "奖金",
+      "audio": "853c686760646ceca640b321a5cd59f510e32661a98b4a0fb313794ecac9dc7c",
+      "id": "7371db7073bd",
+      "priority": 1,
+      "group": "d09fd97cf6d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "incentive",
+      "meaningInSourceLanguage": "激励",
+      "id": "62849295878d",
+      "priority": 0,
+      "group": "0ed9ad4ba80a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "incentive",
+      "meaning": "激励",
+      "audio": "2564fa58f60e5c99f248cee10770d2289860a019abc5986b9ab52df8b90fe313",
+      "id": "f54dd1a35648",
+      "priority": 1,
+      "group": "0ed9ad4ba80a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cold call",
+      "meaningInSourceLanguage": "陌生电话",
+      "id": "7eec27e50a2c",
+      "priority": 0,
+      "group": "176d8ce74fcf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cold call",
+      "meaning": "陌生电话",
+      "audio": "f5f021489e4cbc1aa5ea7d8b0cb57c781ffaf7044e1e94ec3bdc745bdc44d4db",
+      "id": "a59879e88e35",
+      "priority": 1,
+      "group": "176d8ce74fcf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pitch",
+      "meaningInSourceLanguage": "推销",
+      "id": "b17c87cbf430",
+      "priority": 0,
+      "group": "33501aa4f585"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pitch",
+      "meaning": "推销",
+      "audio": "f9c511da0f916ecf6e40b377bcc6324f625704c4352135b0498189e3daf9dbc8",
+      "id": "2a7f0daac9da",
+      "priority": 1,
+      "group": "33501aa4f585"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "proposal",
+      "meaningInSourceLanguage": "提案",
+      "id": "94e063888bd7",
+      "priority": 0,
+      "group": "36568859bde5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "proposal",
+      "meaning": "提案",
+      "audio": "ab9b3357efc781a116d2691b23db1ce1063a5f06d87edf3c64663a804f3f407d",
+      "id": "048eaf24ddba",
+      "priority": 1,
+      "group": "36568859bde5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contract",
+      "meaningInSourceLanguage": "合同",
+      "id": "f8f81624698b",
+      "priority": 0,
+      "group": "14f92ad13493"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contract",
+      "meaning": "合同",
+      "audio": "b7e1e18dc7f59ae3a72dd58288b4b6a78a80234b5c7e4b1fd4778afb131b9ba5",
+      "id": "db30444d9742",
+      "priority": 1,
+      "group": "14f92ad13493"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "invoice",
+      "meaningInSourceLanguage": "发票",
+      "id": "32bdad08431e",
+      "priority": 0,
+      "group": "b414ce52c47b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "invoice",
+      "meaning": "发票",
+      "audio": "be66b29227973516b5ef420cc8aaf8935b58521a23bf9ae053f416f2a1979720",
+      "id": "6c70bcc3f27f",
+      "priority": 1,
+      "group": "b414ce52c47b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "survey",
+      "meaningInSourceLanguage": "调查",
+      "id": "0699929aac4d",
+      "priority": 0,
+      "group": "fcbf536eb88d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "survey",
+      "meaning": "调查",
+      "audio": "aa26d541384c7ece129422795dadb1ffee31902502a2a7dbfafde8c8c91ca384",
+      "id": "27542dc876e9",
+      "priority": 1,
+      "group": "fcbf536eb88d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "feedback",
+      "meaningInSourceLanguage": "反馈",
+      "id": "886833833887",
+      "priority": 0,
+      "group": "0290b3cbd9e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "feedback",
+      "meaning": "反馈",
+      "audio": "7c047953cef33620de095ce4276237eb091efc7d4cda4ae34e7a6675ba2c3e27",
+      "id": "de3ea4609d0e",
+      "priority": 1,
+      "group": "0290b3cbd9e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "testimonial",
+      "meaningInSourceLanguage": "推荐信",
+      "id": "83ef246220c4",
+      "priority": 0,
+      "group": "6ae4171f5c67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "testimonial",
+      "meaning": "推荐信",
+      "audio": "596467b5891e73a762c2ca9e048251a72624be910080ea09883dd8bac8148ee2",
+      "id": "4098d55d1ad3",
+      "priority": 1,
+      "group": "6ae4171f5c67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "case study",
+      "meaningInSourceLanguage": "案例研究",
+      "id": "b442f466620f",
+      "priority": 0,
+      "group": "39619d7eb30e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "case study",
+      "meaning": "案例研究",
+      "audio": "4b64bb218da5acdf2804a48fe954988cd1d33339eb0707d615f7335c0eb5d804",
+      "id": "f81b828cbe2c",
+      "priority": 1,
+      "group": "39619d7eb30e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "market share",
+      "meaningInSourceLanguage": "市场份额",
+      "id": "9eab2ed300d7",
+      "priority": 0,
+      "group": "d8cad2cdf846"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "market share",
+      "meaning": "市场份额",
+      "audio": "0513a3f9ce5e6fc08071112093918429a806cf27f4ab42f48296cb32c865289e",
+      "id": "738dfd7803de",
+      "priority": 1,
+      "group": "d8cad2cdf846"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "competitor",
+      "meaningInSourceLanguage": "竞争对手",
+      "id": "7b6ae951463b",
+      "priority": 0,
+      "group": "3920a09db798"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "competitor",
+      "meaning": "竞争对手",
+      "audio": "42c8753cdbbe57501f561de3d70611e01ecf43cffac842b77f1dbc75b842fd98",
+      "id": "4a74f5899460",
+      "priority": 1,
+      "group": "3920a09db798"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "differentiation",
+      "meaningInSourceLanguage": "差异化",
+      "id": "6b7db70d5b5a",
+      "priority": 0,
+      "group": "da94ebf35bb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "differentiation",
+      "meaning": "差异化",
+      "audio": "14893f9c4ef870c3ce45d00d75e93fb97ef41016c4d53c4fa08943801c361fa3",
+      "id": "d77bf6650fce",
+      "priority": 1,
+      "group": "da94ebf35bb1"
+    }
+  ]
+}

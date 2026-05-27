@@ -45,26 +45,26 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - poulet: 鸡肉
-    - lait: 牛奶
-    - fruit: 水果
-    - eau: 水
     - café: 咖啡
-    - riz: 米饭
-    - pain: 面包
-    - œuf: 鸡蛋
-    - thé: 茶
-    - légume: 蔬菜
+    - eau: 水
+    - poulet: 鸡肉
     - poisson: 鱼
+    - riz: 米饭
+    - thé: 茶
+    - œuf: 鸡蛋
+    - légume: 蔬菜
+    - fruit: 水果
+    - pain: 面包
+    - lait: 牛奶
   Chinese:
-    - 面包: pain
-    - 茶: thé
     - 鸡蛋: œuf
-    - 鸡肉: poulet
     - 蔬菜: légume
+    - 米饭: riz
+    - 茶: thé
+    - 咖啡: café
+    - 面包: pain
     - 水果: fruit
+    - 鸡肉: poulet
+    - 牛奶: lait
     - 水: eau
     - 鱼: poisson
-    - 米饭: riz
-    - 牛奶: lait
-    - 咖啡: café

@@ -1,0 +1,70 @@
+Skill:
+  Name: Home
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: casa
+    Translation: 房子
+  - Word: porta
+    Translation: 门
+  - Word: janela
+    Translation: 窗户
+  - Word: cozinha
+    Translation: 厨房
+  - Word: quarto
+    Translation: 卧室
+  - Word: jardim
+    Translation: 花园
+  - Word: garagem
+    Translation: 车库
+  - Word: escadas
+    Translation: 楼梯
+  - Word: quintal
+    Translation: 院子
+  - Word: telhado
+    Translation: 屋顶
+
+Phrases:
+  - Phrase: Esta é minha casa.
+    Translation: 这是我的房子。
+  - Phrase: Abra a porta.
+    Translation: 开门。
+  - Phrase: A cozinha é grande.
+    Translation: 厨房很大。
+  - Phrase: O quarto está limpo.
+    Translation: 卧室很干净。
+  - Phrase: Há um jardim.
+    Translation: 有一个花园。
+  - Phrase: Feche a janela.
+    Translation: 关窗。
+
+Mini-dictionary:
+  Portuguese:
+    - telhado: 屋顶
+    - jardim: 花园
+    - garagem: 车库
+    - casa: 房子
+    - porta: 门
+    - escadas: 楼梯
+    - quarto: 卧室
+    - cozinha: 厨房
+    - janela: 窗户
+    - quintal: 院子
+  Chinese:
+    - 厨房: cozinha
+    - 楼梯: escadas
+    - 车库: garagem
+    - 花园: jardim
+    - 院子: quintal
+    - 窗户: janela
+    - 屋顶: telhado
+    - 房子: casa
+    - 卧室: quarto
+    - 门: porta

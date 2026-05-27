@@ -1,0 +1,975 @@
+{
+  "id": "b580298503bb",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "corporate law",
+      "meaningInSourceLanguage": "公司法",
+      "id": "c42fb8e6ecbf",
+      "priority": 0,
+      "group": "6eb6e50c0383"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "corporate law",
+      "meaning": "公司法",
+      "audio": "3dd4c1fb6e79487ea720e9921b7a0138",
+      "id": "24d8853eba33",
+      "priority": 1,
+      "group": "6eb6e50c0383"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "corporation",
+      "meaningInSourceLanguage": "公司",
+      "id": "d7dbfe2a177d",
+      "priority": 0,
+      "group": "71a9a0ce5316"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "corporation",
+      "meaning": "公司",
+      "audio": "7aec3157865b4109a1b66b2f45353c51",
+      "id": "20d1818bdae5",
+      "priority": 1,
+      "group": "71a9a0ce5316"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "limited liability company",
+      "meaningInSourceLanguage": "有限责任公司",
+      "id": "2e3defae831a",
+      "priority": 0,
+      "group": "d83ef9eb87fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "limited liability company",
+      "meaning": "有限责任公司",
+      "audio": "395e905f252c42daa366a36763b5c063",
+      "id": "764336a3ccb0",
+      "priority": 1,
+      "group": "d83ef9eb87fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "partnership",
+      "meaningInSourceLanguage": "合伙",
+      "id": "3fb4f089dafa",
+      "priority": 0,
+      "group": "21dad0e7ef9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "partnership",
+      "meaning": "合伙",
+      "audio": "a1c94bc9790944e893a353673469a015",
+      "id": "f7dc9a9b28f2",
+      "priority": 1,
+      "group": "21dad0e7ef9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "joint venture",
+      "meaningInSourceLanguage": "合资企业",
+      "id": "5bbc57a0f7cc",
+      "priority": 0,
+      "group": "39909929bdff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "joint venture",
+      "meaning": "合资企业",
+      "audio": "c135e65955cc4979a8fb8442846c28f0",
+      "id": "4372155743ab",
+      "priority": 1,
+      "group": "39909929bdff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "holding company",
+      "meaningInSourceLanguage": "控股公司",
+      "id": "519c4505def4",
+      "priority": 0,
+      "group": "ea5d3b905c49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "holding company",
+      "meaning": "控股公司",
+      "audio": "fc12b3ac93194434bf1f480a813a3d0d",
+      "id": "976c594a8c19",
+      "priority": 1,
+      "group": "ea5d3b905c49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "subsidiary",
+      "meaningInSourceLanguage": "子公司",
+      "id": "7a6f91e69d8a",
+      "priority": 0,
+      "group": "9b5489c91b4c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "subsidiary",
+      "meaning": "子公司",
+      "audio": "87c6078a6ace4e9dbeff241f20482b95",
+      "id": "701f97103c61",
+      "priority": 1,
+      "group": "9b5489c91b4c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parent company",
+      "meaningInSourceLanguage": "母公司",
+      "id": "e389ba703553",
+      "priority": 0,
+      "group": "e2a5cc849663"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parent company",
+      "meaning": "母公司",
+      "audio": "f1fef32e44fc48ceb14418c6ac4c1f48",
+      "id": "dfae5194edc8",
+      "priority": 1,
+      "group": "e2a5cc849663"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "board of directors",
+      "meaningInSourceLanguage": "董事会",
+      "id": "c72cef4f6ab7",
+      "priority": 0,
+      "group": "896acb88917d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "board of directors",
+      "meaning": "董事会",
+      "audio": "59a7b92503fe4acf963c4db433c5f7f2",
+      "id": "272e0b4132fb",
+      "priority": 1,
+      "group": "896acb88917d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shareholder",
+      "meaningInSourceLanguage": "股东",
+      "id": "37673dd36250",
+      "priority": 0,
+      "group": "270d10bfc3c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shareholder",
+      "meaning": "股东",
+      "audio": "7c6ab83d824e42829e3fa3a9856866de",
+      "id": "f8380a5ad88e",
+      "priority": 1,
+      "group": "270d10bfc3c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shareholder meeting",
+      "meaningInSourceLanguage": "股东大会",
+      "id": "db04ec4b5db6",
+      "priority": 0,
+      "group": "d3036de88d2c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shareholder meeting",
+      "meaning": "股东大会",
+      "audio": "becc4a7b3ae1456e8be54de1f50b0959",
+      "id": "40a61bf9788b",
+      "priority": 1,
+      "group": "d3036de88d2c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "proxy",
+      "meaningInSourceLanguage": "代理投票",
+      "id": "d9c246aed53b",
+      "priority": 0,
+      "group": "757214318b07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "proxy",
+      "meaning": "代理投票",
+      "audio": "9e6443892f1540748a5486977c10b631",
+      "id": "6eb34909980c",
+      "priority": 1,
+      "group": "757214318b07"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiduciary duty",
+      "meaningInSourceLanguage": "信托义务",
+      "id": "8fef4444728d",
+      "priority": 0,
+      "group": "7dc804b00d72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiduciary duty",
+      "meaning": "信托义务",
+      "audio": "6612f96798f34d7b841bfae000ed3647",
+      "id": "2dfd035a80df",
+      "priority": 1,
+      "group": "7dc804b00d72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "duty of care",
+      "meaningInSourceLanguage": "谨慎义务",
+      "id": "12f0f9c6a091",
+      "priority": 0,
+      "group": "b0feadf5549e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "duty of care",
+      "meaning": "谨慎义务",
+      "audio": "bd6cfb9de2ba48b2be2e572b455b71d9",
+      "id": "d170739da6c1",
+      "priority": 1,
+      "group": "b0feadf5549e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "duty of loyalty",
+      "meaningInSourceLanguage": "忠诚义务",
+      "id": "2eadafa67c5f",
+      "priority": 0,
+      "group": "6a3818ec3d83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "duty of loyalty",
+      "meaning": "忠诚义务",
+      "audio": "95bf03c5a402474dba60ab74f214335c",
+      "id": "3c893acb777c",
+      "priority": 1,
+      "group": "6a3818ec3d83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "business judgment rule",
+      "meaningInSourceLanguage": "商业判断规则",
+      "id": "55157fc7e234",
+      "priority": 0,
+      "group": "dee451d06a09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "business judgment rule",
+      "meaning": "商业判断规则",
+      "audio": "7c69f03a580a441eac5813ef80c3ee83",
+      "id": "de54c6a76b43",
+      "priority": 1,
+      "group": "dee451d06a09"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "piercing the corporate veil",
+      "meaningInSourceLanguage": "刺破公司面纱",
+      "id": "189f5de4379f",
+      "priority": 0,
+      "group": "6f9c9d3df6ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "piercing the corporate veil",
+      "meaning": "刺破公司面纱",
+      "audio": "cf26cabd3f744b4baaf59a83e854e0b4",
+      "id": "0b2ef0501000",
+      "priority": 1,
+      "group": "6f9c9d3df6ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "merger",
+      "meaningInSourceLanguage": "合并",
+      "id": "92074a166314",
+      "priority": 0,
+      "group": "e7cc30c7f26e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "merger",
+      "meaning": "合并",
+      "audio": "876e8524aadd4802a252034e0c8995fa",
+      "id": "2962c60d4a8d",
+      "priority": 1,
+      "group": "e7cc30c7f26e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acquisition",
+      "meaningInSourceLanguage": "收购",
+      "id": "c5c0c32f84aa",
+      "priority": 0,
+      "group": "137b3e0ff6f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acquisition",
+      "meaning": "收购",
+      "audio": "8448beb1d9754101b19e0f50472bfe9a",
+      "id": "0bd1c44e6b34",
+      "priority": 1,
+      "group": "137b3e0ff6f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tender offer",
+      "meaningInSourceLanguage": "要约收购",
+      "id": "78c42d09a8a8",
+      "priority": 0,
+      "group": "00a811cd2c7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tender offer",
+      "meaning": "要约收购",
+      "audio": "4a443e7ab8e8432780bc641ca886a806",
+      "id": "4b76badf4e76",
+      "priority": 1,
+      "group": "00a811cd2c7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hostile takeover",
+      "meaningInSourceLanguage": "敌意收购",
+      "id": "93c9483e6441",
+      "priority": 0,
+      "group": "9517e55c9563"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hostile takeover",
+      "meaning": "敌意收购",
+      "audio": "9eca6faaf83d4984857783ae3c29e9dc",
+      "id": "48a0c16b5214",
+      "priority": 1,
+      "group": "9517e55c9563"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "poison pill",
+      "meaningInSourceLanguage": "毒丸计划",
+      "id": "5d6e8dbe836c",
+      "priority": 0,
+      "group": "c7e71f19b4f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "poison pill",
+      "meaning": "毒丸计划",
+      "audio": "db0da9b49c6b41769b53f5ef202ab9d6",
+      "id": "a65ab2c19ece",
+      "priority": 1,
+      "group": "c7e71f19b4f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "golden parachute",
+      "meaningInSourceLanguage": "黄金降落伞",
+      "id": "ca5ba8fb3ce0",
+      "priority": 0,
+      "group": "8594e8c8bc82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "golden parachute",
+      "meaning": "黄金降落伞",
+      "audio": "907cabf6a1e54c06baaf05256073d0ce",
+      "id": "297efa10c655",
+      "priority": 1,
+      "group": "8594e8c8bc82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antitakeover",
+      "meaningInSourceLanguage": "反收购",
+      "id": "446636334364",
+      "priority": 0,
+      "group": "a2b751e3af71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antitakeover",
+      "meaning": "反收购",
+      "audio": "73ba6c5f921d4e9190fe82ea95b0bf21",
+      "id": "0bdc742ec54a",
+      "priority": 1,
+      "group": "a2b751e3af71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "SEC",
+      "meaningInSourceLanguage": "美国证券交易委员会",
+      "id": "11c71e5ae0ba",
+      "priority": 0,
+      "group": "aeb806efeaa6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "SEC",
+      "meaning": "美国证券交易委员会",
+      "audio": "8502419332e04dc0aa1ec08871a1d75d",
+      "id": "33719aa21f2c",
+      "priority": 1,
+      "group": "aeb806efeaa6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "securities law",
+      "meaningInSourceLanguage": "证券法",
+      "id": "10dfa8860d94",
+      "priority": 0,
+      "group": "6dec3ba9650f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "securities law",
+      "meaning": "证券法",
+      "audio": "dfcf08124ec84dedb0f12da132eb23f4",
+      "id": "3c94542a98a9",
+      "priority": 1,
+      "group": "6dec3ba9650f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prospectus",
+      "meaningInSourceLanguage": "招股说明书",
+      "id": "af9b73d63ac2",
+      "priority": 0,
+      "group": "62b77e60e31b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prospectus",
+      "meaning": "招股说明书",
+      "audio": "6a5b314bdfa34488afc7364afb7e5983",
+      "id": "dd0b14c40562",
+      "priority": 1,
+      "group": "62b77e60e31b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "insider trading",
+      "meaningInSourceLanguage": "内幕交易",
+      "id": "b5ed08ceec0d",
+      "priority": 0,
+      "group": "a5ae2ff09c91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "insider trading",
+      "meaning": "内幕交易",
+      "audio": "6ce1c4b4c0764bab8a8b9b6ebc5e1515",
+      "id": "10ad011e71a7",
+      "priority": 1,
+      "group": "a5ae2ff09c91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "disclosure",
+      "meaningInSourceLanguage": "披露",
+      "id": "eeb579b2f3e5",
+      "priority": 0,
+      "group": "cc761ba8f89b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "disclosure",
+      "meaning": "披露",
+      "audio": "ace5180f1271401e859da641258bcf49",
+      "id": "41f29c550b42",
+      "priority": 1,
+      "group": "cc761ba8f89b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "material information",
+      "meaningInSourceLanguage": "重大信息",
+      "id": "7c0b2a4a4b3f",
+      "priority": 0,
+      "group": "5017d145ea56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "material information",
+      "meaning": "重大信息",
+      "audio": "f6fe42a36e7d4fa68e4055ad4238ffeb",
+      "id": "7b6676ba36ea",
+      "priority": 1,
+      "group": "5017d145ea56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "registration",
+      "meaningInSourceLanguage": "注册",
+      "id": "b373a4b6d3a2",
+      "priority": 0,
+      "group": "031b8f90cf83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "registration",
+      "meaning": "注册",
+      "audio": "af1b2d8d46694736957a9e683496957c",
+      "id": "a9860531acc8",
+      "priority": 1,
+      "group": "031b8f90cf83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bankruptcy",
+      "meaningInSourceLanguage": "破产",
+      "id": "51db6392780f",
+      "priority": 0,
+      "group": "906ad1d113a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bankruptcy",
+      "meaning": "破产",
+      "audio": "5bdf4a3c491d4e088d6424700796c2e3",
+      "id": "9dee365300b8",
+      "priority": 1,
+      "group": "906ad1d113a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Chapter 7",
+      "meaningInSourceLanguage": "第七章破产",
+      "id": "71c586373fa2",
+      "priority": 0,
+      "group": "816c77c614b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Chapter 7",
+      "meaning": "第七章破产",
+      "audio": "d779c040545b4a7ba041082de7973b10",
+      "id": "eb58fdd840e5",
+      "priority": 1,
+      "group": "816c77c614b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Chapter 11",
+      "meaningInSourceLanguage": "第十一章破产",
+      "id": "221534b9aac4",
+      "priority": 0,
+      "group": "8d2e29738987"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Chapter 11",
+      "meaning": "第十一章破产",
+      "audio": "b3f2dad5211740fc946952b9569be476",
+      "id": "e65c9df7c57b",
+      "priority": 1,
+      "group": "8d2e29738987"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Chapter 13",
+      "meaningInSourceLanguage": "第十三章破产",
+      "id": "b1c39f314907",
+      "priority": 0,
+      "group": "e8bab33df38f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Chapter 13",
+      "meaning": "第十三章破产",
+      "audio": "b1a8b748ef2c488eaba526eb24748ea3",
+      "id": "b357be43b632",
+      "priority": 1,
+      "group": "e8bab33df38f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "creditor",
+      "meaningInSourceLanguage": "债权人",
+      "id": "98a132d41a1d",
+      "priority": 0,
+      "group": "9c3b652762f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "creditor",
+      "meaning": "债权人",
+      "audio": "e6005133395b4a4ab3392635642c9f5a",
+      "id": "6038c5df3257",
+      "priority": 1,
+      "group": "9c3b652762f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debtor",
+      "meaningInSourceLanguage": "债务人",
+      "id": "940d4c0a162b",
+      "priority": 0,
+      "group": "88cceec53ab3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debtor",
+      "meaning": "债务人",
+      "audio": "411d385affbc4b309337fdd542c11561",
+      "id": "fc946121fb29",
+      "priority": 1,
+      "group": "88cceec53ab3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "liquidation",
+      "meaningInSourceLanguage": "清算",
+      "id": "81f5c2fb4a47",
+      "priority": 0,
+      "group": "6d34e3c09e70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "liquidation",
+      "meaning": "清算",
+      "audio": "dcc5920512624f6a98cc505a95ed1a1c",
+      "id": "fa5006ce2fe5",
+      "priority": 1,
+      "group": "6d34e3c09e70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reorganization",
+      "meaningInSourceLanguage": "重组",
+      "id": "c6f46a64ca8b",
+      "priority": 0,
+      "group": "191ba39eaf99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reorganization",
+      "meaning": "重组",
+      "audio": "27784645b15445c389061adc673f4ab8",
+      "id": "87b9601ac4e3",
+      "priority": 1,
+      "group": "191ba39eaf99"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "automatic stay",
+      "meaningInSourceLanguage": "自动中止",
+      "id": "c7246a8552b8",
+      "priority": 0,
+      "group": "996f7c48fbe2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "automatic stay",
+      "meaning": "自动中止",
+      "audio": "9d8421badcb2409b80a405dc945abcb5",
+      "id": "7b0362a809f7",
+      "priority": 1,
+      "group": "996f7c48fbe2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trustee",
+      "meaningInSourceLanguage": "受托人",
+      "id": "36fad2f969dd",
+      "priority": 0,
+      "group": "45148916ba6a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trustee",
+      "meaning": "受托人",
+      "audio": "7b254651be3446daa32557a6331cdc40",
+      "id": "a7896ccfd55b",
+      "priority": 1,
+      "group": "45148916ba6a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "secured debt",
+      "meaningInSourceLanguage": "担保债务",
+      "id": "c4af1891c0af",
+      "priority": 0,
+      "group": "6b87f0befa49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "secured debt",
+      "meaning": "担保债务",
+      "audio": "e2ae6afe248c46ceb4a32b57e903a6f9",
+      "id": "28770f07f297",
+      "priority": 1,
+      "group": "6b87f0befa49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "unsecured debt",
+      "meaningInSourceLanguage": "无担保债务",
+      "id": "1fe141dbae32",
+      "priority": 0,
+      "group": "d9fc40debcaf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "unsecured debt",
+      "meaning": "无担保债务",
+      "audio": "026c559f66fa4eda82b27388b0871635",
+      "id": "a5ab383b7a6d",
+      "priority": 1,
+      "group": "d9fc40debcaf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "priority",
+      "meaningInSourceLanguage": "优先权",
+      "id": "52ad71f6bc4f",
+      "priority": 0,
+      "group": "27f7d5f8844e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "priority",
+      "meaning": "优先权",
+      "audio": "249a8c0a814148baba0b2da5eec9a420",
+      "id": "d5bca83942ee",
+      "priority": 1,
+      "group": "27f7d5f8844e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discharge",
+      "meaningInSourceLanguage": "债务免除",
+      "id": "413f87666886",
+      "priority": 0,
+      "group": "455dd030e4ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discharge",
+      "meaning": "债务免除",
+      "audio": "1f4a2e2f33ed477390ce1d924e7f6b5b",
+      "id": "41afe3f005e5",
+      "priority": 1,
+      "group": "455dd030e4ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antitrust law",
+      "meaningInSourceLanguage": "反垄断法",
+      "id": "cc46c6c1da32",
+      "priority": 0,
+      "group": "10f7fa483f1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antitrust law",
+      "meaning": "反垄断法",
+      "audio": "218acbb0dbea47a8aa0bbca92271a275",
+      "id": "16184d4f280d",
+      "priority": 1,
+      "group": "10f7fa483f1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monopoly",
+      "meaningInSourceLanguage": "垄断",
+      "id": "6c77e101e23a",
+      "priority": 0,
+      "group": "347c2af5e8a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monopoly",
+      "meaning": "垄断",
+      "audio": "9f2a551fb1294db6aed52e3e6f7589ce",
+      "id": "c75ad15af98e",
+      "priority": 1,
+      "group": "347c2af5e8a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monopolization",
+      "meaningInSourceLanguage": "垄断化",
+      "id": "d6cf2d8a9a42",
+      "priority": 0,
+      "group": "5595a8318e49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monopolization",
+      "meaning": "垄断化",
+      "audio": "735374b0b36347a6aed1364105cd0216",
+      "id": "ba943cddc812",
+      "priority": 1,
+      "group": "5595a8318e49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "price fixing",
+      "meaningInSourceLanguage": "价格固定",
+      "id": "f9fdaabcaee2",
+      "priority": 0,
+      "group": "6cf6b9d834d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "price fixing",
+      "meaning": "价格固定",
+      "audio": "f047f6c3daaa4c0cab961bc22b565ddd",
+      "id": "e39c00ce3560",
+      "priority": 1,
+      "group": "6cf6b9d834d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "market allocation",
+      "meaningInSourceLanguage": "市场分配",
+      "id": "c032164c101a",
+      "priority": 0,
+      "group": "bcafdde02e9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "market allocation",
+      "meaning": "市场分配",
+      "audio": "512017b661684cd78cd6b7ae2f5e6da1",
+      "id": "4f175b907b1a",
+      "priority": 1,
+      "group": "bcafdde02e9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bid rigging",
+      "meaningInSourceLanguage": "投标操纵",
+      "id": "c16660b601fa",
+      "priority": 0,
+      "group": "43e1c8533ddd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bid rigging",
+      "meaning": "投标操纵",
+      "audio": "a639a83d3c924d2991d4b827a048df51",
+      "id": "2ee6b85b0b38",
+      "priority": 1,
+      "group": "43e1c8533ddd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "predatory pricing",
+      "meaningInSourceLanguage": "掠夺性定价",
+      "id": "cb57b842ce3c",
+      "priority": 0,
+      "group": "761bbd582805"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "predatory pricing",
+      "meaning": "掠夺性定价",
+      "audio": "d3bfb239edd74931a6990285a223a790",
+      "id": "42dfaf477f50",
+      "priority": 1,
+      "group": "761bbd582805"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tying",
+      "meaningInSourceLanguage": "捆绑销售",
+      "id": "e08b2792336f",
+      "priority": 0,
+      "group": "15a499add3b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tying",
+      "meaning": "捆绑销售",
+      "audio": "f23a0d859fc946688477ac6429507135",
+      "id": "d6d955906fd0",
+      "priority": 1,
+      "group": "15a499add3b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exclusive dealing",
+      "meaningInSourceLanguage": "独家交易",
+      "id": "7bb2624739a9",
+      "priority": 0,
+      "group": "fac534b81489"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exclusive dealing",
+      "meaning": "独家交易",
+      "audio": "9166b41d7bff48faa4557b4b6313b9bc",
+      "id": "ac6f27890e88",
+      "priority": 1,
+      "group": "fac534b81489"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "merger review",
+      "meaningInSourceLanguage": "合并审查",
+      "id": "87a73e4f5d23",
+      "priority": 0,
+      "group": "d7a0b5ec0f6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "merger review",
+      "meaning": "合并审查",
+      "audio": "d0efd83cc3a840ca801af7ebffc50097",
+      "id": "6733c429d374",
+      "priority": 1,
+      "group": "d7a0b5ec0f6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "relevant market",
+      "meaningInSourceLanguage": "相关市场",
+      "id": "9585dfddf09d",
+      "priority": 0,
+      "group": "f4cb2de3fb8f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "relevant market",
+      "meaning": "相关市场",
+      "audio": "83a0cd10d85f4555941e2b6cbcd1374b",
+      "id": "32299b774b9e",
+      "priority": 1,
+      "group": "f4cb2de3fb8f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "market power",
+      "meaningInSourceLanguage": "市场力量",
+      "id": "c35de5192a87",
+      "priority": 0,
+      "group": "b18031a41357"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "market power",
+      "meaning": "市场力量",
+      "audio": "928356c7adb749fe90ad9b95441353d9",
+      "id": "7baa8b306abd",
+      "priority": 1,
+      "group": "b18031a41357"
+    }
+  ]
+}

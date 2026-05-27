@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - die Empfehlung: 推荐
-    - köstlich: 美味
-    - der Kellner: 服务员
-    - Ich möchte: 我想要
-    - die Rechnung: 账单
     - bestellen: 点餐
-    - die Speisekarte: 菜单
+    - Ich möchte: 我想要
     - ein Tisch für zwei: 两人桌
+    - die Speisekarte: 菜单
+    - die Rechnung: 账单
+    - köstlich: 美味
     - das Tagesgericht: 今日特价
+    - der Kellner: 服务员
+    - die Empfehlung: 推荐
     - die Reservierung: 预约
   Chinese:
-    - 账单: die Rechnung
+    - 美味: köstlich
     - 预约: die Reservierung
     - 两人桌: ein Tisch für zwei
-    - 点餐: bestellen
-    - 今日特价: das Tagesgericht
-    - 美味: köstlich
-    - 我想要: Ich möchte
-    - 菜单: die Speisekarte
-    - 服务员: der Kellner
     - 推荐: die Empfehlung
+    - 点餐: bestellen
+    - 菜单: die Speisekarte
+    - 今日特价: das Tagesgericht
+    - 账单: die Rechnung
+    - 服务员: der Kellner
+    - 我想要: Ich möchte

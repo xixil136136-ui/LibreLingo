@@ -1,0 +1,1281 @@
+{
+  "id": "e548d39484c8",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "house",
+      "meaningInSourceLanguage": "房子",
+      "id": "775f5d326535",
+      "priority": 0,
+      "group": "06e3dbd0a696"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "house",
+      "meaning": "房子",
+      "audio": "c950df2ca3434180a6ac4fbcc153004f",
+      "id": "f0f06500b1fa",
+      "priority": 1,
+      "group": "06e3dbd0a696"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "apartment",
+      "meaningInSourceLanguage": "公寓",
+      "id": "fb3c77470143",
+      "priority": 0,
+      "group": "167980ac69d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "apartment",
+      "meaning": "公寓",
+      "audio": "6769ab58d2f548de92403749167fa6f3",
+      "id": "006a51a408ab",
+      "priority": 1,
+      "group": "167980ac69d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "room",
+      "meaningInSourceLanguage": "房间",
+      "id": "eab7d7b7c782",
+      "priority": 0,
+      "group": "267040cf9ca6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "room",
+      "meaning": "房间",
+      "audio": "fc09c8b2ceb6458aac7c93ecee3924dd",
+      "id": "f4d33d0dd1b3",
+      "priority": 1,
+      "group": "267040cf9ca6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bedroom",
+      "meaningInSourceLanguage": "卧室",
+      "id": "7a37e66d626d",
+      "priority": 0,
+      "group": "0621661bffad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bedroom",
+      "meaning": "卧室",
+      "audio": "786276c59a154518b1b02feefdd2f1c6",
+      "id": "1b8a49fd8af8",
+      "priority": 1,
+      "group": "0621661bffad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "living room",
+      "meaningInSourceLanguage": "客厅",
+      "id": "8e2ddfb77a32",
+      "priority": 0,
+      "group": "553e718dd964"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "living room",
+      "meaning": "客厅",
+      "audio": "9d09c454d2b84734b190eedf49c168b8",
+      "id": "4a94e6498766",
+      "priority": 1,
+      "group": "553e718dd964"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kitchen",
+      "meaningInSourceLanguage": "厨房",
+      "id": "52b78d4eeb7b",
+      "priority": 0,
+      "group": "562c44d12591"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kitchen",
+      "meaning": "厨房",
+      "audio": "779048e8b8e54f89bd9f8a733ee0b8f9",
+      "id": "318c3db0baf7",
+      "priority": 1,
+      "group": "562c44d12591"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bathroom",
+      "meaningInSourceLanguage": "浴室",
+      "id": "4a69a65335d9",
+      "priority": 0,
+      "group": "e2066b1aa81c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bathroom",
+      "meaning": "浴室",
+      "audio": "160e21da6254476c8fbf9e855713e6e6",
+      "id": "f18a8f42db88",
+      "priority": 1,
+      "group": "e2066b1aa81c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dining room",
+      "meaningInSourceLanguage": "餐厅",
+      "id": "141f1640b67e",
+      "priority": 0,
+      "group": "88a6359b20f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dining room",
+      "meaning": "餐厅",
+      "audio": "62c509d758224ea1892385a469fcb4be",
+      "id": "8e00bd74cf8b",
+      "priority": 1,
+      "group": "88a6359b20f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "study",
+      "meaningInSourceLanguage": "书房",
+      "id": "10acc766e290",
+      "priority": 0,
+      "group": "4c72d9283f0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "study",
+      "meaning": "书房",
+      "audio": "7ca49a691fc84401adc53c24bb77fd9b",
+      "id": "77f5f5e6450e",
+      "priority": 1,
+      "group": "4c72d9283f0d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "balcony",
+      "meaningInSourceLanguage": "阳台",
+      "id": "2289b62b734e",
+      "priority": 0,
+      "group": "335522483c60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "balcony",
+      "meaning": "阳台",
+      "audio": "668957f758a1487c97932efef3219836",
+      "id": "9bf35f11793d",
+      "priority": 1,
+      "group": "335522483c60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "garage",
+      "meaningInSourceLanguage": "车库",
+      "id": "8f81b230fbe7",
+      "priority": 0,
+      "group": "321055161094"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garage",
+      "meaning": "车库",
+      "audio": "3a4a5d73e9a044d49c513b190586df08",
+      "id": "e81b327e96b7",
+      "priority": 1,
+      "group": "321055161094"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "garden",
+      "meaningInSourceLanguage": "花园",
+      "id": "021efbe66753",
+      "priority": 0,
+      "group": "5cbeb61b4a32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garden",
+      "meaning": "花园",
+      "audio": "9bd8841e039a4fb883e1a5a94d218011",
+      "id": "0c30389c4e4f",
+      "priority": 1,
+      "group": "5cbeb61b4a32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "door",
+      "meaningInSourceLanguage": "门",
+      "id": "b08a02c15701",
+      "priority": 0,
+      "group": "daf0b789979b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "door",
+      "meaning": "门",
+      "audio": "218694be1f504a429c15e2d54d16c053",
+      "id": "13f7b1908722",
+      "priority": 1,
+      "group": "daf0b789979b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "window",
+      "meaningInSourceLanguage": "窗户",
+      "id": "1688cccdbe8d",
+      "priority": 0,
+      "group": "5a320cb45a14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "window",
+      "meaning": "窗户",
+      "audio": "dfd46fa42dbe4932bd7faf459e2ede50",
+      "id": "5cb004e09e1f",
+      "priority": 1,
+      "group": "5a320cb45a14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wall",
+      "meaningInSourceLanguage": "墙",
+      "id": "e772267f671e",
+      "priority": 0,
+      "group": "10febce1f0d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wall",
+      "meaning": "墙",
+      "audio": "d85d200e59fa4d73bcd8bed5dbeb8cdf",
+      "id": "e8cb77be1997",
+      "priority": 1,
+      "group": "10febce1f0d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "floor",
+      "meaningInSourceLanguage": "地板",
+      "id": "c2185aabb91e",
+      "priority": 0,
+      "group": "185d42175025"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "floor",
+      "meaning": "地板",
+      "audio": "c979e4e667814a7fb64868accf8ef788",
+      "id": "ef7991f8a292",
+      "priority": 1,
+      "group": "185d42175025"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ceiling",
+      "meaningInSourceLanguage": "天花板",
+      "id": "aa7ba19790f3",
+      "priority": 0,
+      "group": "f79c9e3e812e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ceiling",
+      "meaning": "天花板",
+      "audio": "3ba960f8ccdc45d2802d3262abf41955",
+      "id": "2a051a113a61",
+      "priority": 1,
+      "group": "f79c9e3e812e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roof",
+      "meaningInSourceLanguage": "屋顶",
+      "id": "67f20b137eb9",
+      "priority": 0,
+      "group": "8faedbce6153"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roof",
+      "meaning": "屋顶",
+      "audio": "8cb9a021681b453e8d7a2d20317d9846",
+      "id": "1262ec114795",
+      "priority": 1,
+      "group": "8faedbce6153"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stairs",
+      "meaningInSourceLanguage": "楼梯",
+      "id": "14876c0252fd",
+      "priority": 0,
+      "group": "f213230ed0bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stairs",
+      "meaning": "楼梯",
+      "audio": "f9ee107d1ded4771a045247028de7120",
+      "id": "9bc62375c5e2",
+      "priority": 1,
+      "group": "f213230ed0bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "furniture",
+      "meaningInSourceLanguage": "家具",
+      "id": "fe4c45b4feb7",
+      "priority": 0,
+      "group": "d1d950988191"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "furniture",
+      "meaning": "家具",
+      "audio": "310866ec76254cb6b1d4f134c217a50f",
+      "id": "d1d09e15ff16",
+      "priority": 1,
+      "group": "d1d950988191"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "table",
+      "meaningInSourceLanguage": "桌子",
+      "id": "cd1cbec23183",
+      "priority": 0,
+      "group": "fd099468bf0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "table",
+      "meaning": "桌子",
+      "audio": "98890e41d17847688b9127ee1ce425e0",
+      "id": "493393099999",
+      "priority": 1,
+      "group": "fd099468bf0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chair",
+      "meaningInSourceLanguage": "椅子",
+      "id": "9d759eea460c",
+      "priority": 0,
+      "group": "d7aede09e3fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chair",
+      "meaning": "椅子",
+      "audio": "86ce457e789f49ddb08ab9753afca31b",
+      "id": "cfccb7a4d4ef",
+      "priority": 1,
+      "group": "d7aede09e3fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sofa",
+      "meaningInSourceLanguage": "沙发",
+      "id": "f8d21ab8deff",
+      "priority": 0,
+      "group": "3f53b3630c6a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sofa",
+      "meaning": "沙发",
+      "audio": "e1a4a19ded334dff8f07361d1bb8c39d",
+      "id": "29ef3a2701bd",
+      "priority": 1,
+      "group": "3f53b3630c6a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bed",
+      "meaningInSourceLanguage": "床",
+      "id": "7d24fb7cfdfe",
+      "priority": 0,
+      "group": "b356cd146423"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bed",
+      "meaning": "床",
+      "audio": "a49f567930734f1f82d7e19017ffa553",
+      "id": "68752fa707b4",
+      "priority": 1,
+      "group": "b356cd146423"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "desk",
+      "meaningInSourceLanguage": "书桌",
+      "id": "810bc6f6b172",
+      "priority": 0,
+      "group": "1c1a50c683fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "desk",
+      "meaning": "书桌",
+      "audio": "7cec8640cc1c4accac8bd9a509845b10",
+      "id": "1d44ca5a931e",
+      "priority": 1,
+      "group": "1c1a50c683fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bookshelf",
+      "meaningInSourceLanguage": "书架",
+      "id": "c671e89a0f06",
+      "priority": 0,
+      "group": "0b2f61ef599e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bookshelf",
+      "meaning": "书架",
+      "audio": "b731b14613f847c0ae71fdcb4fdd07fa",
+      "id": "fcfa366c41a5",
+      "priority": 1,
+      "group": "0b2f61ef599e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cabinet",
+      "meaningInSourceLanguage": "柜子",
+      "id": "2cf162e34f6f",
+      "priority": 0,
+      "group": "d270ee7b1299"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cabinet",
+      "meaning": "柜子",
+      "audio": "3dc2e73f77d64b0d8b7eb614ea842db5",
+      "id": "1edc92606299",
+      "priority": 1,
+      "group": "d270ee7b1299"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drawer",
+      "meaningInSourceLanguage": "抽屉",
+      "id": "d170f7a46eb4",
+      "priority": 0,
+      "group": "0a48fcd24f8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drawer",
+      "meaning": "抽屉",
+      "audio": "6680510ce0ea4007b04152eb7fc61a10",
+      "id": "b1f716b133b3",
+      "priority": 1,
+      "group": "0a48fcd24f8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mirror",
+      "meaningInSourceLanguage": "镜子",
+      "id": "ba96bc6a5f94",
+      "priority": 0,
+      "group": "8349d5c6d524"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mirror",
+      "meaning": "镜子",
+      "audio": "f61499475a0949d791a6e46688b8820a",
+      "id": "fba952110275",
+      "priority": 1,
+      "group": "8349d5c6d524"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lamp",
+      "meaningInSourceLanguage": "灯",
+      "id": "fcf935221ac7",
+      "priority": 0,
+      "group": "e3ae538723a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lamp",
+      "meaning": "灯",
+      "audio": "add7d2efa0924544a9dc8f95086dabbb",
+      "id": "f31ab5316ee6",
+      "priority": 1,
+      "group": "e3ae538723a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "curtain",
+      "meaningInSourceLanguage": "窗帘",
+      "id": "cb08eefdd628",
+      "priority": 0,
+      "group": "46367b9231cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "curtain",
+      "meaning": "窗帘",
+      "audio": "65ad273ff79f48fbaa31c6cfcd7044c8",
+      "id": "2a8809df5fba",
+      "priority": 1,
+      "group": "46367b9231cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "carpet",
+      "meaningInSourceLanguage": "地毯",
+      "id": "2c6c3df498ff",
+      "priority": 0,
+      "group": "04cfb82399a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carpet",
+      "meaning": "地毯",
+      "audio": "4c71a4d783304944b87dfa9331df15dd",
+      "id": "dfe641e1b3a3",
+      "priority": 1,
+      "group": "04cfb82399a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pillow",
+      "meaningInSourceLanguage": "枕头",
+      "id": "81bd939b7d6e",
+      "priority": 0,
+      "group": "3e2bd5f8d252"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pillow",
+      "meaning": "枕头",
+      "audio": "260eef923b5646c3b4458320e61cb385",
+      "id": "13f47784fda6",
+      "priority": 1,
+      "group": "3e2bd5f8d252"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blanket",
+      "meaningInSourceLanguage": "毯子",
+      "id": "7661a3a7f2b7",
+      "priority": 0,
+      "group": "2b3a892fdbc0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blanket",
+      "meaning": "毯子",
+      "audio": "f187222d1862485c8641628dea7c1281",
+      "id": "30c35e747c18",
+      "priority": 1,
+      "group": "2b3a892fdbc0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sheet",
+      "meaningInSourceLanguage": "床单",
+      "id": "9db2a247903e",
+      "priority": 0,
+      "group": "2265b57cf45f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sheet",
+      "meaning": "床单",
+      "audio": "6b70e998cd2840e99444464b4f7f99c7",
+      "id": "b950696ed32a",
+      "priority": 1,
+      "group": "2265b57cf45f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "towel",
+      "meaningInSourceLanguage": "毛巾",
+      "id": "33e1c718b81c",
+      "priority": 0,
+      "group": "3f5ef9732338"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "towel",
+      "meaning": "毛巾",
+      "audio": "83004646f58b4883a829382c03584fa5",
+      "id": "ec7003d54570",
+      "priority": 1,
+      "group": "3f5ef9732338"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soap",
+      "meaningInSourceLanguage": "肥皂",
+      "id": "1e602f9f31ca",
+      "priority": 0,
+      "group": "9993f379c8e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soap",
+      "meaning": "肥皂",
+      "audio": "fc765facf1db48c892877f5ba8770d3e",
+      "id": "56ebd317e65c",
+      "priority": 1,
+      "group": "9993f379c8e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shampoo",
+      "meaningInSourceLanguage": "洗发水",
+      "id": "19afcee5e825",
+      "priority": 0,
+      "group": "850713258b40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shampoo",
+      "meaning": "洗发水",
+      "audio": "55f768c738694b48bd47ea685d621b18",
+      "id": "c66f75687b41",
+      "priority": 1,
+      "group": "850713258b40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toothbrush",
+      "meaningInSourceLanguage": "牙刷",
+      "id": "2bfaa8f8c833",
+      "priority": 0,
+      "group": "59a8dd5f40f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toothbrush",
+      "meaning": "牙刷",
+      "audio": "bfaeac32f0334acfa36a6cbb74faf99f",
+      "id": "5012e39399d3",
+      "priority": 1,
+      "group": "59a8dd5f40f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toothpaste",
+      "meaningInSourceLanguage": "牙膏",
+      "id": "78df73ce8ca0",
+      "priority": 0,
+      "group": "ada3972ecd30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toothpaste",
+      "meaning": "牙膏",
+      "audio": "a902311bdb184c9687062a9168b0f127",
+      "id": "02269feb82b1",
+      "priority": 1,
+      "group": "ada3972ecd30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comb",
+      "meaningInSourceLanguage": "梳子",
+      "id": "483df25f14ba",
+      "priority": 0,
+      "group": "d8f20ffa08e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comb",
+      "meaning": "梳子",
+      "audio": "b8a7581da2c44cb0ad59a36eda7a8f1b",
+      "id": "c5addc049737",
+      "priority": 1,
+      "group": "d8f20ffa08e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toilet",
+      "meaningInSourceLanguage": "马桶",
+      "id": "b708f058ebd8",
+      "priority": 0,
+      "group": "f1ee9ca9bd60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toilet",
+      "meaning": "马桶",
+      "audio": "a97c94983f8240668d8330d027dcbef6",
+      "id": "5b35c2ead9e3",
+      "priority": 1,
+      "group": "f1ee9ca9bd60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shower",
+      "meaningInSourceLanguage": "淋浴",
+      "id": "90eb0b9d47fc",
+      "priority": 0,
+      "group": "4c0236a59c53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shower",
+      "meaning": "淋浴",
+      "audio": "8333bb109b7940dc9183c224fbbef3c9",
+      "id": "3fa02034c2e5",
+      "priority": 1,
+      "group": "4c0236a59c53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bathtub",
+      "meaningInSourceLanguage": "浴缸",
+      "id": "01211849dc39",
+      "priority": 0,
+      "group": "bfc4a979d5f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bathtub",
+      "meaning": "浴缸",
+      "audio": "a8e441c4a33142b19af5fb28bca332e6",
+      "id": "984b6cb2eeb3",
+      "priority": 1,
+      "group": "bfc4a979d5f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sink",
+      "meaningInSourceLanguage": "水槽",
+      "id": "253312c99199",
+      "priority": 0,
+      "group": "6b5d40407c27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sink",
+      "meaning": "水槽",
+      "audio": "6db774c0c26842b787d9aa8b6a7a6f7b",
+      "id": "dd75d240f5a4",
+      "priority": 1,
+      "group": "6b5d40407c27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tap",
+      "meaningInSourceLanguage": "水龙头",
+      "id": "81346ee66a35",
+      "priority": 0,
+      "group": "7381bf5ee65f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tap",
+      "meaning": "水龙头",
+      "audio": "03ec9df7bfb248a7ad9efcb31bae629a",
+      "id": "b7428a6d1637",
+      "priority": 1,
+      "group": "7381bf5ee65f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bucket",
+      "meaningInSourceLanguage": "水桶",
+      "id": "17bd446ecc82",
+      "priority": 0,
+      "group": "4b4d0c59c2ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bucket",
+      "meaning": "水桶",
+      "audio": "cefbca1519934a65a6f2bef607dfe0f4",
+      "id": "a839c376ac19",
+      "priority": 1,
+      "group": "4b4d0c59c2ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "broom",
+      "meaningInSourceLanguage": "扫帚",
+      "id": "ae953a1e22d5",
+      "priority": 0,
+      "group": "bc4cc0d0dd2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "broom",
+      "meaning": "扫帚",
+      "audio": "449f4fba76ef4f53a9d6bbd5f2f4e4aa",
+      "id": "318b83182416",
+      "priority": 1,
+      "group": "bc4cc0d0dd2f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mop",
+      "meaningInSourceLanguage": "拖把",
+      "id": "f89a3ad9746d",
+      "priority": 0,
+      "group": "66ae02d250a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mop",
+      "meaning": "拖把",
+      "audio": "5cfa02df75824a1291f91e6ccda052ec",
+      "id": "e2d5c7b903c9",
+      "priority": 1,
+      "group": "66ae02d250a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "detergent",
+      "meaningInSourceLanguage": "清洁剂",
+      "id": "9ba4a32856c6",
+      "priority": 0,
+      "group": "47ce76efa7be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "detergent",
+      "meaning": "清洁剂",
+      "audio": "ac5e0014dd0b4501a2a14f82f4825c63",
+      "id": "30f1f5c33a3a",
+      "priority": 1,
+      "group": "47ce76efa7be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trash",
+      "meaningInSourceLanguage": "垃圾",
+      "id": "31448aed7c5d",
+      "priority": 0,
+      "group": "45f6b6bec48e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trash",
+      "meaning": "垃圾",
+      "audio": "e24d9e39b1064f26adf3fcea4e19eb59",
+      "id": "49749c1e2979",
+      "priority": 1,
+      "group": "45f6b6bec48e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recycle bin",
+      "meaningInSourceLanguage": "回收箱",
+      "id": "bf20feaee192",
+      "priority": 0,
+      "group": "0282800bf952"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recycle bin",
+      "meaning": "回收箱",
+      "audio": "3c67388865a8406b8b118648ca98cde3",
+      "id": "438d1dede0fa",
+      "priority": 1,
+      "group": "0282800bf952"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "key",
+      "meaningInSourceLanguage": "钥匙",
+      "id": "ca55026baa96",
+      "priority": 0,
+      "group": "c4b4a0d4de9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "key",
+      "meaning": "钥匙",
+      "audio": "fa026e04b1f14900ac833d24753f34a8",
+      "id": "44e3278b6e6f",
+      "priority": 1,
+      "group": "c4b4a0d4de9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lock",
+      "meaningInSourceLanguage": "锁",
+      "id": "e462731ccef9",
+      "priority": 0,
+      "group": "c44158f9b27e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lock",
+      "meaning": "锁",
+      "audio": "0628717c48b84365b6c486b6da36938f",
+      "id": "eb4a3aebbd3b",
+      "priority": 1,
+      "group": "c44158f9b27e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "remote control",
+      "meaningInSourceLanguage": "遥控器",
+      "id": "cde77bd3b755",
+      "priority": 0,
+      "group": "dbd949d5f939"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "remote control",
+      "meaning": "遥控器",
+      "audio": "a6851469804349eb92c9db60c97a92ec",
+      "id": "ed91323e9f51",
+      "priority": 1,
+      "group": "dbd949d5f939"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "switch",
+      "meaningInSourceLanguage": "开关",
+      "id": "679e4b4235c5",
+      "priority": 0,
+      "group": "00c1da23fc55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "switch",
+      "meaning": "开关",
+      "audio": "227cdce741f342fdbf82700e70a5b861",
+      "id": "343b69d66d7b",
+      "priority": 1,
+      "group": "00c1da23fc55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plug",
+      "meaningInSourceLanguage": "插头",
+      "id": "1ccb3e3991ee",
+      "priority": 0,
+      "group": "7c6fd8abede1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plug",
+      "meaning": "插头",
+      "audio": "4e217b9c18f34fe48278a7e0555b3100",
+      "id": "b2ee15223750",
+      "priority": 1,
+      "group": "7c6fd8abede1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "socket",
+      "meaningInSourceLanguage": "插座",
+      "id": "333c1efba856",
+      "priority": 0,
+      "group": "7008b3c3e44d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "socket",
+      "meaning": "插座",
+      "audio": "e137c9dd0abf41bebdb3a3b4bb1acdab",
+      "id": "80fe605d7f66",
+      "priority": 1,
+      "group": "7008b3c3e44d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "battery",
+      "meaningInSourceLanguage": "电池",
+      "id": "e24d3bbb4457",
+      "priority": 0,
+      "group": "d01c74f798be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "battery",
+      "meaning": "电池",
+      "audio": "a3d5d9b5248c47f9858f3f1fc92a7a26",
+      "id": "dfc7b1f5f0be",
+      "priority": 1,
+      "group": "d01c74f798be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "alarm clock",
+      "meaningInSourceLanguage": "闹钟",
+      "id": "4fd9441437c0",
+      "priority": 0,
+      "group": "0bbbecaf0404"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "alarm clock",
+      "meaning": "闹钟",
+      "audio": "c22af59a11754831a3b87c6b41506f51",
+      "id": "7e8d4f8c2b01",
+      "priority": 1,
+      "group": "0bbbecaf0404"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "telephone",
+      "meaningInSourceLanguage": "电话",
+      "id": "88368ff83f20",
+      "priority": 0,
+      "group": "07917e664e13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "telephone",
+      "meaning": "电话",
+      "audio": "ab7b6ae47bde4d1f9450e7a5e2a46a17",
+      "id": "8358d8ad630f",
+      "priority": 1,
+      "group": "07917e664e13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "television",
+      "meaningInSourceLanguage": "电视",
+      "id": "1d481f5e5c5c",
+      "priority": 0,
+      "group": "01dbd54b961b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "television",
+      "meaning": "电视",
+      "audio": "5dc61e6b26594ab386bf1bfe436233fc",
+      "id": "3f5128388f67",
+      "priority": 1,
+      "group": "01dbd54b961b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "computer",
+      "meaningInSourceLanguage": "电脑",
+      "id": "ffcd8cd93b2a",
+      "priority": 0,
+      "group": "56e315334fa6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "computer",
+      "meaning": "电脑",
+      "audio": "919540417eb24dbdad7e621a8b0ee038",
+      "id": "d675f8e48690",
+      "priority": 1,
+      "group": "56e315334fa6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "laptop",
+      "meaningInSourceLanguage": "笔记本电脑",
+      "id": "e9e8258a21d3",
+      "priority": 0,
+      "group": "c0ada0fd6d16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "laptop",
+      "meaning": "笔记本电脑",
+      "audio": "b1fdf7ed19df476881312c0e2c0d7375",
+      "id": "1c735f8db68d",
+      "priority": 1,
+      "group": "c0ada0fd6d16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tablet",
+      "meaningInSourceLanguage": "平板电脑",
+      "id": "9d4b35a067b4",
+      "priority": 0,
+      "group": "a21c35abed22"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tablet",
+      "meaning": "平板电脑",
+      "audio": "b89801a7bbd24f68885fb2b2cbe3be6e",
+      "id": "b95c3174f3f8",
+      "priority": 1,
+      "group": "a21c35abed22"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "phone",
+      "meaningInSourceLanguage": "手机",
+      "id": "4a337a8166df",
+      "priority": 0,
+      "group": "525eadf331c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "phone",
+      "meaning": "手机",
+      "audio": "1103e80c0075460d89b1040ac1a83157",
+      "id": "de18f1afac98",
+      "priority": 1,
+      "group": "525eadf331c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "charger",
+      "meaningInSourceLanguage": "充电器",
+      "id": "79fef6809528",
+      "priority": 0,
+      "group": "1926f70511cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "charger",
+      "meaning": "充电器",
+      "audio": "c5eba407b79f4e12b8ca0b737a60ab24",
+      "id": "8b3b68bd577b",
+      "priority": 1,
+      "group": "1926f70511cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "headphones",
+      "meaningInSourceLanguage": "耳机",
+      "id": "520e247f2184",
+      "priority": 0,
+      "group": "fc697c511d71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "headphones",
+      "meaning": "耳机",
+      "audio": "4e06703db1924fae9fe35922ce56031a",
+      "id": "dd96663409e7",
+      "priority": 1,
+      "group": "fc697c511d71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speaker",
+      "meaningInSourceLanguage": "扬声器",
+      "id": "fea928a3273e",
+      "priority": 0,
+      "group": "38e24b1a7d12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speaker",
+      "meaning": "扬声器",
+      "audio": "caeb803a103840b9bdb3d83af27903e6",
+      "id": "d3fb750101b5",
+      "priority": 1,
+      "group": "38e24b1a7d12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "camera",
+      "meaningInSourceLanguage": "相机",
+      "id": "86acb0508927",
+      "priority": 0,
+      "group": "3067c82e4e0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "camera",
+      "meaning": "相机",
+      "audio": "1e0f51835a4f4a6aa785b9718dc1b4fe",
+      "id": "f51d271ce196",
+      "priority": 1,
+      "group": "3067c82e4e0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "printer",
+      "meaningInSourceLanguage": "打印机",
+      "id": "94e34e5794ab",
+      "priority": 0,
+      "group": "495ff7d91597"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "printer",
+      "meaning": "打印机",
+      "audio": "5f2a779dcb144eb7ab56721d7e5174ea",
+      "id": "e0671b495c74",
+      "priority": 1,
+      "group": "495ff7d91597"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "washing machine",
+      "meaningInSourceLanguage": "洗衣机",
+      "id": "2ff3135e9ed2",
+      "priority": 0,
+      "group": "e6dcf54caed4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "washing machine",
+      "meaning": "洗衣机",
+      "audio": "c1bc01739eed4fc5b51600377117be86",
+      "id": "bff6af7d6dcc",
+      "priority": 1,
+      "group": "e6dcf54caed4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dryer",
+      "meaningInSourceLanguage": "烘干机",
+      "id": "61e75a11e4ef",
+      "priority": 0,
+      "group": "f5caf26f71e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dryer",
+      "meaning": "烘干机",
+      "audio": "45076ac8ecd445c88523b13444e52cc0",
+      "id": "5200f34e21f2",
+      "priority": 1,
+      "group": "f5caf26f71e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vacuum cleaner",
+      "meaningInSourceLanguage": "吸尘器",
+      "id": "6bba8b230b95",
+      "priority": 0,
+      "group": "2a44993cb790"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vacuum cleaner",
+      "meaning": "吸尘器",
+      "audio": "bcd1d442226c4f6a84dda3658c32231e",
+      "id": "1a5fcf1f692e",
+      "priority": 1,
+      "group": "2a44993cb790"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "iron",
+      "meaningInSourceLanguage": "熨斗",
+      "id": "56d6f0934df8",
+      "priority": 0,
+      "group": "d5ee11e865ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "iron",
+      "meaning": "熨斗",
+      "audio": "57370e35c04f4420bd91893a046dd92a",
+      "id": "c59b2827ce90",
+      "priority": 1,
+      "group": "d5ee11e865ad"
+    }
+  ]
+}

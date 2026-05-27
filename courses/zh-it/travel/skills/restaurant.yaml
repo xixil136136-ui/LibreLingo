@@ -1,0 +1,70 @@
+Skill:
+  Name: Restaurant
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: ristorante
+    Translation: 餐厅
+  - Word: bevanda
+    Translation: 饮料
+  - Word: cibo
+    Translation: 食物
+  - Word: tovagliolo
+    Translation: 餐巾
+  - Word: sale
+    Translation: 盐
+  - Word: pepe
+    Translation: 胡椒
+  - Word: bicchiere
+    Translation: 玻璃杯
+  - Word: bottiglia
+    Translation: 瓶子
+  - Word: dolce
+    Translation: 甜点
+  - Word: piatto principale
+    Translation: 主菜
+
+Phrases:
+  - Phrase: Voglio una bevanda.
+    Translation: 我想要一杯饮料。
+  - Phrase: Il cibo è buono.
+    Translation: 食物很好。
+  - Phrase: Posso avere un bicchiere d'acqua?
+    Translation: 能给我一杯水吗？
+  - Phrase: Abbiamo bisogno di una bottiglia di vino.
+    Translation: 我们需要一瓶酒。
+  - Phrase: Vorrei il dolce.
+    Translation: 我想要甜点。
+  - Phrase: Passami il sale, per favore.
+    Translation: 请把盐递给我。
+
+Mini-dictionary:
+  Italian:
+    - bicchiere: 玻璃杯
+    - sale: 盐
+    - piatto principale: 主菜
+    - bevanda: 饮料
+    - pepe: 胡椒
+    - dolce: 甜点
+    - ristorante: 餐厅
+    - cibo: 食物
+    - bottiglia: 瓶子
+    - tovagliolo: 餐巾
+  Chinese:
+    - 食物: cibo
+    - 主菜: piatto principale
+    - 玻璃杯: bicchiere
+    - 盐: sale
+    - 饮料: bevanda
+    - 餐巾: tovagliolo
+    - 餐厅: ristorante
+    - 甜点: dolce
+    - 瓶子: bottiglia
+    - 胡椒: pepe

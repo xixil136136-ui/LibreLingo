@@ -1,0 +1,431 @@
+{
+  "id": "a1ed264e7ea8",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "party",
+      "meaningInSourceLanguage": "派对",
+      "id": "f22efa8613b4",
+      "priority": 0,
+      "group": "eeb208bb7b15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "party",
+      "meaning": "派对",
+      "audio": "7509e128b5dcc2db9c4dbc85140b2dfdfe84e6101d342f065a510b5e1e3f42b0",
+      "id": "4ecb04c2128b",
+      "priority": 1,
+      "group": "eeb208bb7b15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "birthday",
+      "meaningInSourceLanguage": "生日",
+      "id": "0ba812cbff6d",
+      "priority": 0,
+      "group": "0883f292b8d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "birthday",
+      "meaning": "生日",
+      "audio": "22cf8e1a10b994e1d89f8b7708dabd99b80d2a34d3c460de83c6b0c64af28b8c",
+      "id": "42b4696d1f17",
+      "priority": 1,
+      "group": "0883f292b8d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "celebration",
+      "meaningInSourceLanguage": "庆祝",
+      "id": "846ca7053221",
+      "priority": 0,
+      "group": "50ad4be8c337"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "celebration",
+      "meaning": "庆祝",
+      "audio": "ac0b409bd9b6ca13c0174e686f280676ecb1d0b2a9093532d9566f6d3b34c167",
+      "id": "d83127100d69",
+      "priority": 1,
+      "group": "50ad4be8c337"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "festival",
+      "meaningInSourceLanguage": "节日",
+      "id": "7ea3983a98a2",
+      "priority": 0,
+      "group": "c7b031df2f00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "festival",
+      "meaning": "节日",
+      "audio": "a7c5e940d798a96984b3d486f10525157254a0476c7f19499e341bce69a69fd2",
+      "id": "efd2482fe281",
+      "priority": 1,
+      "group": "c7b031df2f00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ceremony",
+      "meaningInSourceLanguage": "仪式",
+      "id": "7eed6822b208",
+      "priority": 0,
+      "group": "a25315ba6938"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ceremony",
+      "meaning": "仪式",
+      "audio": "6ca98be54a77d1881f53cc00cef9068956f6cab6a84a317dfc7ad15d7d42e8fa",
+      "id": "b7deb3a1d540",
+      "priority": 1,
+      "group": "a25315ba6938"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "funeral",
+      "meaningInSourceLanguage": "葬礼",
+      "id": "5082b27542c1",
+      "priority": 0,
+      "group": "1a56495eec40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "funeral",
+      "meaning": "葬礼",
+      "audio": "4d0daba257fa8d11036045081f0da06828acf108bc8633b067ca8cc28b0b5f62",
+      "id": "9c08e0c7a91d",
+      "priority": 1,
+      "group": "1a56495eec40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meeting",
+      "meaningInSourceLanguage": "会议",
+      "id": "b19466826dbc",
+      "priority": 0,
+      "group": "022b8d7b2bdd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meeting",
+      "meaning": "会议",
+      "audio": "2e18059a74e67aa2f4458f620f5c7e4df96445c80f0f76c5c1dab8f7e0273eae",
+      "id": "e87b1bd5e6bd",
+      "priority": 1,
+      "group": "022b8d7b2bdd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gathering",
+      "meaningInSourceLanguage": "聚会",
+      "id": "5ef3f5bcad59",
+      "priority": 0,
+      "group": "da8fa80212a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gathering",
+      "meaning": "聚会",
+      "audio": "7808df2027763666d10846a0a4e3ea20914d0c60aafc61ec5870b42235dfadb8",
+      "id": "bac0bb2ede97",
+      "priority": 1,
+      "group": "da8fa80212a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reunion",
+      "meaningInSourceLanguage": "团聚",
+      "id": "fc0eec719321",
+      "priority": 0,
+      "group": "1fc0326930fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reunion",
+      "meaning": "团聚",
+      "audio": "9da1fcea19592bf1ffcd1f639a0954fe6db0b0400fab9ff72dd157f8af3d0052",
+      "id": "cc799cd16750",
+      "priority": 1,
+      "group": "1fc0326930fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conference",
+      "meaningInSourceLanguage": "会议",
+      "id": "08e253513509",
+      "priority": 0,
+      "group": "d9086b03bece"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conference",
+      "meaning": "会议",
+      "audio": "eb342e14df368820eefb230dc3f95389ac086865a2add85130b88ac296c3e42c",
+      "id": "8d3839f47b1f",
+      "priority": 1,
+      "group": "d9086b03bece"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seminar",
+      "meaningInSourceLanguage": "研讨会",
+      "id": "1288596ffe6e",
+      "priority": 0,
+      "group": "dc15b2ff1367"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seminar",
+      "meaning": "研讨会",
+      "audio": "edb5143d67865721a53bd4ce3e2bce1489a85a5a273efaac5cf51501eda3f126",
+      "id": "47b2f145ebb0",
+      "priority": 1,
+      "group": "dc15b2ff1367"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "workshop",
+      "meaningInSourceLanguage": "工作坊",
+      "id": "13dae604b807",
+      "priority": 0,
+      "group": "c415a7482c73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "workshop",
+      "meaning": "工作坊",
+      "audio": "a83c4dd33a92dc6a2637bc216c08c771b8f2ac3a941eebb9cdf9c30822a8ee6e",
+      "id": "a463b356accc",
+      "priority": 1,
+      "group": "c415a7482c73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dinner party",
+      "meaningInSourceLanguage": "晚宴",
+      "id": "66559414518a",
+      "priority": 0,
+      "group": "abf10a1bbc02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dinner party",
+      "meaning": "晚宴",
+      "audio": "aa12b324f06288371bc1bd206417d3ae2e880cab3f9fae3850bd618a2432f8d8",
+      "id": "ba18187fcea6",
+      "priority": 1,
+      "group": "abf10a1bbc02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "barbecue",
+      "meaningInSourceLanguage": "烧烤",
+      "id": "7d1f9fb15b68",
+      "priority": 0,
+      "group": "a08b51a53868"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "barbecue",
+      "meaning": "烧烤",
+      "audio": "c4f3f3690ae3815388f83321f0d481029488c737e66476969964b076847c1267",
+      "id": "9d7063302ae9",
+      "priority": 1,
+      "group": "a08b51a53868"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "picnic",
+      "meaningInSourceLanguage": "野餐",
+      "id": "76cbcf1620f0",
+      "priority": 0,
+      "group": "8cf4fe2a9da1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "picnic",
+      "meaning": "野餐",
+      "audio": "6e60c015609406953d0db5566a998d085dd56c107ad49b2cfbd70ed8339781f5",
+      "id": "39010552a5da",
+      "priority": 1,
+      "group": "8cf4fe2a9da1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "potluck",
+      "meaningInSourceLanguage": "自带食物聚会",
+      "id": "88a4ac7554dc",
+      "priority": 0,
+      "group": "6543f36e4b18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "potluck",
+      "meaning": "自带食物聚会",
+      "audio": "115dca891db249ebd17b0225ff397b4a64cb680c4c809bf1e28e193922e3ff69",
+      "id": "ee47111325d2",
+      "priority": 1,
+      "group": "6543f36e4b18"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cocktail",
+      "meaningInSourceLanguage": "鸡尾酒会",
+      "id": "86ddf4d68195",
+      "priority": 0,
+      "group": "a22b36abef5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cocktail",
+      "meaning": "鸡尾酒会",
+      "audio": "d31d6077cab3f1c50ad291397dbcdc90739b8377d34c6ae8635bfcb0a2daf8ea",
+      "id": "18f2a1f07823",
+      "priority": 1,
+      "group": "a22b36abef5e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reception",
+      "meaningInSourceLanguage": "接待会",
+      "id": "7f5d046c6a16",
+      "priority": 0,
+      "group": "1b64c91f99b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reception",
+      "meaning": "接待会",
+      "audio": "049d577956af659d9986a0bc990c8fd63e72b3d05e436dad75757f37d94d8837",
+      "id": "5f4b74385f9d",
+      "priority": 1,
+      "group": "1b64c91f99b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "graduation",
+      "meaningInSourceLanguage": "毕业",
+      "id": "4e3e4caae10e",
+      "priority": 0,
+      "group": "5ebb619e955b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "graduation",
+      "meaning": "毕业",
+      "audio": "574d139e5425d9b4b3807bb955680be100456fe89a1493482b20f84498495253",
+      "id": "39bea46afbed",
+      "priority": 1,
+      "group": "5ebb619e955b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "engagement",
+      "meaningInSourceLanguage": "订婚",
+      "id": "e303fdfbbb01",
+      "priority": 0,
+      "group": "733bd9c4b23e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "engagement",
+      "meaning": "订婚",
+      "audio": "a2e81bfbce99be6ed3766def968d76b0a351b0a4d684f6372e003592ccefb057",
+      "id": "b93b76f3f3a8",
+      "priority": 1,
+      "group": "733bd9c4b23e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baby shower",
+      "meaningInSourceLanguage": "婴儿送礼会",
+      "id": "d1b50c8ba375",
+      "priority": 0,
+      "group": "c9ac5ac95f89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baby shower",
+      "meaning": "婴儿送礼会",
+      "audio": "0eec4175e580b814c4672143cd98158ad0b2aa274d5e076f0812692bb3adb11e",
+      "id": "3eb40828f554",
+      "priority": 1,
+      "group": "c9ac5ac95f89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wedding reception",
+      "meaningInSourceLanguage": "婚宴",
+      "id": "17c2851762db",
+      "priority": 0,
+      "group": "5e7504a2d958"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wedding reception",
+      "meaning": "婚宴",
+      "audio": "37bc54e7d0a8f1857de46b441464eee12d2600fe436138c9475d6077c067dd6f",
+      "id": "04e92169dc5b",
+      "priority": 1,
+      "group": "5e7504a2d958"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anniversary party",
+      "meaningInSourceLanguage": "周年派对",
+      "id": "5aebbaac0ce5",
+      "priority": 0,
+      "group": "55de8f7e5046"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anniversary party",
+      "meaning": "周年派对",
+      "audio": "ee203e4033d45203d93e09a6bdb1add658158c18ee27be515711616c75dbeffe",
+      "id": "9ad31f07c29f",
+      "priority": 1,
+      "group": "55de8f7e5046"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "surprise party",
+      "meaningInSourceLanguage": "惊喜派对",
+      "id": "33f406c18236",
+      "priority": 0,
+      "group": "e3218c759c79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "surprise party",
+      "meaning": "惊喜派对",
+      "audio": "cd869e7768fb51fb42d6c0c3616efeeea735c89fc183eafd2b167cef48536978",
+      "id": "29a8e10abcf9",
+      "priority": 1,
+      "group": "e3218c759c79"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "costume party",
+      "meaningInSourceLanguage": "化妆舞会",
+      "id": "7dd827b510fd",
+      "priority": 0,
+      "group": "2c9bfedbb10a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "costume party",
+      "meaning": "化妆舞会",
+      "audio": "6e67b3e9fa550878b0f3f7b75756f6187bfa6556de6447e7f8c6d4bf88c5c4d7",
+      "id": "3e40e2956b23",
+      "priority": 1,
+      "group": "2c9bfedbb10a"
+    }
+  ]
+}

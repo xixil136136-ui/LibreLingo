@@ -56,23 +56,23 @@ Phrases:
 Mini-dictionary:
   French:
     - departure: 出发
-    - passport: 护照
     - customs: 海关
     - ticket: 票
-    - airport: 机场
-    - round trip: 往返
-    - arrival: 到达
     - platform: 站台
     - one-way: 单程
     - visa: 签证
+    - round trip: 往返
+    - arrival: 到达
+    - passport: 护照
+    - airport: 机场
   Chinese:
-    - 到达: arrival
-    - 机场: airport
+    - 护照: passport
     - 站台: platform
+    - 签证: visa
     - 单程: one-way
     - 海关: customs
-    - 护照: passport
-    - 签证: visa
-    - 出发: departure
     - 往返: round trip
+    - 到达: arrival
+    - 机场: airport
     - 票: ticket
+    - 出发: departure

@@ -112,6 +112,311 @@
       ]
     },
     {
+      "title": "Travel",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "sinistra",
+            "destra",
+            "dritto",
+            "qui",
+            "lì",
+            "vicino",
+            "lontano",
+            "mappa",
+            "strada",
+            "via",
+            "Gira a sinistra qui.",
+            "Vai dritto.",
+            "Dov'è la stazione?",
+            "È lontano da qui?",
+            "Ho bisogno di una mappa."
+          ],
+          "practiceHref": "directions",
+          "id": "569673478a3d",
+          "title": "Directions",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "treno",
+            "autobus",
+            "taxi",
+            "metropolitana",
+            "hotel",
+            "bagaglio",
+            "stazione",
+            "volo",
+            "ritardo",
+            "imbarco",
+            "Dov'è la fermata dell'autobus?",
+            "Il treno è in ritardo.",
+            "Ho bagaglio.",
+            "Quanto costa il treno?",
+            "Dov'è il posteggio dei taxi?"
+          ],
+          "practiceHref": "transportation",
+          "id": "38c2ea1c36d2",
+          "title": "Transportation",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "stanza",
+            "letto",
+            "doccia",
+            "bagno",
+            "asciugamano",
+            "cuscino",
+            "coperta",
+            "piano",
+            "reception",
+            "ospite",
+            "Ho bisogno di una stanza.",
+            "Quanto a notte?",
+            "Dov'è il bagno?",
+            "Posso avere un asciugamano?",
+            "Il letto è comodo.",
+            "Sono un ospite qui.",
+            "La reception è a questo piano?"
+          ],
+          "practiceHref": "hotel",
+          "id": "d7279e4777cd",
+          "title": "Hotel",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "ristorante",
+            "bevanda",
+            "cibo",
+            "tovagliolo",
+            "sale",
+            "pepe",
+            "bicchiere",
+            "bottiglia",
+            "dolce",
+            "piatto principale",
+            "Voglio una bevanda.",
+            "Il cibo è buono.",
+            "Posso avere un bicchiere d'acqua?",
+            "Abbiamo bisogno di una bottiglia di vino.",
+            "Vorrei il dolce.",
+            "Passami il sale, per favore."
+          ],
+          "practiceHref": "restaurant",
+          "id": "379dca1c8ae9",
+          "title": "Restaurant",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "negozio",
+            "prezzo",
+            "caro",
+            "economico",
+            "soldi",
+            "qualità",
+            "marca",
+            "reso",
+            "aperto",
+            "chiuso",
+            "Quanto costa questo?",
+            "È troppo caro.",
+            "Questa è buona qualità.",
+            "Il negozio è aperto?",
+            "Oggi è chiuso.",
+            "Posso rendere questo?",
+            "Il negozio è laggiù.",
+            "Non ho soldi."
+          ],
+          "practiceHref": "shopping",
+          "id": "e859eeaa5871",
+          "title": "Shopping",
+          "levels": 4
+        }
+      ]
+    },
+    {
+      "title": "Daily Life",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "soleggiato",
+            "pioggia",
+            "neve",
+            "vento",
+            "nuvola",
+            "freddo",
+            "caldo",
+            "tiepido",
+            "temperatura",
+            "ombrello",
+            "Oggi c'è sole.",
+            "Pioverà.",
+            "Fa molto freddo fuori.",
+            "Porta un ombrello.",
+            "Qual è la temperatura?",
+            "Nevica.",
+            "Oggi fa tiepido.",
+            "C'è vento."
+          ],
+          "practiceHref": "weather",
+          "id": "569673478a3d",
+          "title": "Weather",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "mattina",
+            "pomeriggio",
+            "sera",
+            "notte",
+            "oggi",
+            "domani",
+            "ieri",
+            "adesso",
+            "più tardi",
+            "presto",
+            "Al mattino.",
+            "A domani.",
+            "È mattina presto.",
+            "Sono libero ora.",
+            "A più tardi.",
+            "Nel pomeriggio."
+          ],
+          "practiceHref": "time",
+          "id": "38c2ea1c36d2",
+          "title": "Time",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "madre",
+            "padre",
+            "sorella",
+            "fratello",
+            "figlia",
+            "figlio",
+            "moglie",
+            "marito",
+            "amico",
+            "bambino",
+            "Questa è mia madre.",
+            "Mio padre è alto.",
+            "Ho una sorella.",
+            "Mio fratello è giovane.",
+            "Lei è la mia amica.",
+            "Il bambino è felice.",
+            "Mia moglie è gentile."
+          ],
+          "practiceHref": "family",
+          "id": "d7279e4777cd",
+          "title": "Family",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "casa",
+            "porta",
+            "finestra",
+            "cucina",
+            "camera da letto",
+            "giardino",
+            "garage",
+            "scale",
+            "cortile",
+            "tetto",
+            "Questa è la mia casa.",
+            "Apri la porta.",
+            "La cucina è grande.",
+            "La camera da letto è pulita.",
+            "C'è un giardino.",
+            "Chiudi la finestra."
+          ],
+          "practiceHref": "home",
+          "id": "379dca1c8ae9",
+          "title": "Home",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "dottore",
+            "ospedale",
+            "medicina",
+            "mal di testa",
+            "febbre",
+            "tosse",
+            "dolore",
+            "farmacia",
+            "riposo",
+            "mal di stomaco",
+            "Ho bisogno di un dottore.",
+            "Dov'è l'ospedale?",
+            "Ho mal di testa.",
+            "Ho la febbre.",
+            "Prendi questa medicina.",
+            "Hai bisogno di riposo.",
+            "Ho mal di stomaco."
+          ],
+          "practiceHref": "health",
+          "id": "e859eeaa5871",
+          "title": "Health",
+          "levels": 4
+        }
+      ]
+    },
+    {
       "title": "Conversations",
       "skills": [
         {

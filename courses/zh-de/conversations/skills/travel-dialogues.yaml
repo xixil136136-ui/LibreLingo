@@ -56,23 +56,23 @@ Phrases:
 Mini-dictionary:
   German:
     - die Ankunft: 到达
+    - der Reisepass: 护照
+    - die Abfahrt: 出发
     - der Zoll: 海关
-    - einfach: 单程
     - das Visum: 签证
+    - der Flughafen: 机场
+    - einfach: 单程
+    - der Bahnsteig: 站台
     - hin und zurück: 往返
     - die Fahrkarte: 票
-    - die Abfahrt: 出发
-    - der Bahnsteig: 站台
-    - der Reisepass: 护照
-    - der Flughafen: 机场
   Chinese:
-    - 机场: der Flughafen
-    - 海关: der Zoll
     - 出发: die Abfahrt
-    - 往返: hin und zurück
     - 签证: das Visum
-    - 护照: der Reisepass
     - 单程: einfach
-    - 到达: die Ankunft
-    - 站台: der Bahnsteig
+    - 护照: der Reisepass
     - 票: die Fahrkarte
+    - 海关: der Zoll
+    - 到达: die Ankunft
+    - 机场: der Flughafen
+    - 站台: der Bahnsteig
+    - 往返: hin und zurück

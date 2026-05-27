@@ -1,0 +1,754 @@
+{
+  "id": "cf1df74b59ce",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "boil",
+      "meaningInSourceLanguage": "煮",
+      "id": "a47242781cd5",
+      "priority": 0,
+      "group": "35f7a5346c73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boil",
+      "meaning": "煮",
+      "audio": "851b7c928c880ac3b4638a0b584d76731c9c1ecb907550cbf297e785afdf76b0",
+      "id": "c906ed9a33b5",
+      "priority": 1,
+      "group": "35f7a5346c73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fry",
+      "meaningInSourceLanguage": "炒",
+      "id": "5f721c60c3e1",
+      "priority": 0,
+      "group": "196c61d75619"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fry",
+      "meaning": "炒",
+      "audio": "f9c7be66b40740435e2dea56246f72e2c7e3cbee5d87b2ff409b71f4081a5cbc",
+      "id": "5b3de7b99a30",
+      "priority": 1,
+      "group": "196c61d75619"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bake",
+      "meaningInSourceLanguage": "烤",
+      "id": "0cf8267fd08b",
+      "priority": 0,
+      "group": "8f701256bd95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bake",
+      "meaning": "烤",
+      "audio": "4b04861b227469ca311be14437f281e8c6928ac2ba09f6041b467f9e6498c1d5",
+      "id": "ba75cfd52cbe",
+      "priority": 1,
+      "group": "8f701256bd95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grill",
+      "meaningInSourceLanguage": "烧烤",
+      "id": "2de2c60c2bfa",
+      "priority": 0,
+      "group": "45e8ea9d7942"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grill",
+      "meaning": "烧烤",
+      "audio": "6707da9d49ba9cdba70ad81de13bef70c199f7b15d8018ed41501ffdf5a84861",
+      "id": "c2ae1048d993",
+      "priority": 1,
+      "group": "45e8ea9d7942"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "steam",
+      "meaningInSourceLanguage": "蒸",
+      "id": "b82dba40d496",
+      "priority": 0,
+      "group": "904a87d097db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "steam",
+      "meaning": "蒸",
+      "audio": "1be866a741b864aae94f63f9d540a122e5545843e0e269af44c04f41041d41b8",
+      "id": "135ee3106611",
+      "priority": 1,
+      "group": "904a87d097db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roast",
+      "meaningInSourceLanguage": "烤",
+      "id": "2c90a9daaa57",
+      "priority": 0,
+      "group": "cadc1f6fafe0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roast",
+      "meaning": "烤",
+      "audio": "575bd655e17600979cfa231a9a133e2c56cf4e0ecd6addcc59ff3dca5501c4ca",
+      "id": "e55f0f39f5a4",
+      "priority": 1,
+      "group": "cadc1f6fafe0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stir-fry",
+      "meaningInSourceLanguage": "翻炒",
+      "id": "f1c7f61af706",
+      "priority": 0,
+      "group": "76f5ae3dcb98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stir-fry",
+      "meaning": "翻炒",
+      "audio": "b2d0e12e9564a7f94b9a7c08ed1b10a87998c4b7eb53569fa46cda445fcd8789",
+      "id": "37966611fe9c",
+      "priority": 1,
+      "group": "76f5ae3dcb98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deep-fry",
+      "meaningInSourceLanguage": "油炸",
+      "id": "19bb5a01d242",
+      "priority": 0,
+      "group": "19bdb6c95aeb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deep-fry",
+      "meaning": "油炸",
+      "audio": "f283e064a65cfb7009f324fb900ddcf2526962029f9f9a91987c3f8e9f2b6d0b",
+      "id": "76409b407e5d",
+      "priority": 1,
+      "group": "19bdb6c95aeb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "poach",
+      "meaningInSourceLanguage": "水煮",
+      "id": "ecbf2a9c3c15",
+      "priority": 0,
+      "group": "a45de9b82b24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "poach",
+      "meaning": "水煮",
+      "audio": "4b9b0ebb1fcb659a41c7044cf7a7bc85875c8cad9247a43b1cbc9a87d719f621",
+      "id": "9e13d78b4baa",
+      "priority": 1,
+      "group": "a45de9b82b24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "braise",
+      "meaningInSourceLanguage": "炖",
+      "id": "947d90168d37",
+      "priority": 0,
+      "group": "9fa7af2d337c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "braise",
+      "meaning": "炖",
+      "audio": "3376cb15c218a9ff12bb07d3bf2942a6bf3a4736e40d8da7fb396081d8cf53e2",
+      "id": "d50e831fe09d",
+      "priority": 1,
+      "group": "9fa7af2d337c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "simmer",
+      "meaningInSourceLanguage": "慢炖",
+      "id": "1eb0ac8406ad",
+      "priority": 0,
+      "group": "82bba36237a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "simmer",
+      "meaning": "慢炖",
+      "audio": "e762d96d165d3883b74d677a1b6ff3e58a60da6e582430f0d1f9da1172424cda",
+      "id": "72816bced23a",
+      "priority": 1,
+      "group": "82bba36237a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "barbecue",
+      "meaningInSourceLanguage": "烧烤",
+      "id": "cf680aa90062",
+      "priority": 0,
+      "group": "2aae9f0c2419"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "barbecue",
+      "meaning": "烧烤",
+      "audio": "79fc07e7a7f2304ea4e7d691b05b3b83f3580ce4fb1ac2dffdca7b1639f1cc6a",
+      "id": "b791b1ae8340",
+      "priority": 1,
+      "group": "2aae9f0c2419"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marinate",
+      "meaningInSourceLanguage": "腌制",
+      "id": "0b444a408591",
+      "priority": 0,
+      "group": "394ffd09e8fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marinate",
+      "meaning": "腌制",
+      "audio": "c5c23d3d157198b17bbc7c31e1f56a10d9b5fc7883caa4f4c5ec0bb7bb971299",
+      "id": "91674c3b7c33",
+      "priority": 1,
+      "group": "394ffd09e8fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "season",
+      "meaningInSourceLanguage": "调味",
+      "id": "2b00d7cfa457",
+      "priority": 0,
+      "group": "5755e4b0c78d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "season",
+      "meaning": "调味",
+      "audio": "dc34628649844af69f18abdbd91e0ddc2aa4d53d5c308ccd76d035afb6778a94",
+      "id": "8541218bd410",
+      "priority": 1,
+      "group": "5755e4b0c78d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chop",
+      "meaningInSourceLanguage": "切碎",
+      "id": "c2297b354bc5",
+      "priority": 0,
+      "group": "bfb710ed9ed4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chop",
+      "meaning": "切碎",
+      "audio": "48816b8404798507a7b2c0bfdb54c7900faa16804abb8fb2406b5d36f11c7dfb",
+      "id": "dcacf7a81fe0",
+      "priority": 1,
+      "group": "bfb710ed9ed4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "slice",
+      "meaningInSourceLanguage": "切片",
+      "id": "6212a2f76e72",
+      "priority": 0,
+      "group": "e19451b7d2d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "slice",
+      "meaning": "切片",
+      "audio": "aeb3280d0a368722477f3f0b304dc9a6bd467135dd335b54ccfb1ce978f1af44",
+      "id": "48e853659e79",
+      "priority": 1,
+      "group": "e19451b7d2d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dice",
+      "meaningInSourceLanguage": "切丁",
+      "id": "a8b83db26702",
+      "priority": 0,
+      "group": "14a8bd4622a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dice",
+      "meaning": "切丁",
+      "audio": "183bdee0e30bc6386108dbd0919b34421b42cafc20994f82c24dca9809e5ee2e",
+      "id": "daed9efc11f4",
+      "priority": 1,
+      "group": "14a8bd4622a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grate",
+      "meaningInSourceLanguage": "磨碎",
+      "id": "bd320612fa9f",
+      "priority": 0,
+      "group": "afeec8f0e3c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grate",
+      "meaning": "磨碎",
+      "audio": "cf8408224db1fc4a968d47352c45040c1f6762e5c35b02f6a9551470b66adb51",
+      "id": "88be026e257d",
+      "priority": 1,
+      "group": "afeec8f0e3c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peel",
+      "meaningInSourceLanguage": "削皮",
+      "id": "033981de5542",
+      "priority": 0,
+      "group": "4f4cb094273e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peel",
+      "meaning": "削皮",
+      "audio": "04bb893af56c19411891e4742573d65561636cbe74bbc27aece77ecee69802b2",
+      "id": "dd64e36448fa",
+      "priority": 1,
+      "group": "4f4cb094273e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mix",
+      "meaningInSourceLanguage": "混合",
+      "id": "9957cf05152c",
+      "priority": 0,
+      "group": "a28502c651bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mix",
+      "meaning": "混合",
+      "audio": "23683d6f35d53a75c4bc5aa1f2f024b9b3d964eafa9bbdd3f6767c7a26eff445",
+      "id": "db3fffaf63f8",
+      "priority": 1,
+      "group": "a28502c651bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stir",
+      "meaningInSourceLanguage": "搅拌",
+      "id": "837e22c067fb",
+      "priority": 0,
+      "group": "3fb7d12ebc87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stir",
+      "meaning": "搅拌",
+      "audio": "af4f54403e0dbd6f3bdd99e1788e4b30312ff3fa8b336f1a6b937a8640929b05",
+      "id": "6fcda8e82fda",
+      "priority": 1,
+      "group": "3fb7d12ebc87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "whisk",
+      "meaningInSourceLanguage": "搅拌",
+      "id": "b199e18931e7",
+      "priority": 0,
+      "group": "42621cd550e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "whisk",
+      "meaning": "搅拌",
+      "audio": "1143499ed7cd2189c17b1b22bda4f5ecda8e733eb52939002a0b7437f2ba66f4",
+      "id": "03f220e082d0",
+      "priority": 1,
+      "group": "42621cd550e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blend",
+      "meaningInSourceLanguage": "搅拌",
+      "id": "66f7925cf49e",
+      "priority": 0,
+      "group": "39e4700fb2a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blend",
+      "meaning": "搅拌",
+      "audio": "d19d89484087c3398479f5700d482d343c05e2090d047c7562f4f9eded0b1826",
+      "id": "3f575b68bf28",
+      "priority": 1,
+      "group": "39e4700fb2a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "knead",
+      "meaningInSourceLanguage": "揉",
+      "id": "86e8e9d80996",
+      "priority": 0,
+      "group": "3c1a45c898f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "knead",
+      "meaning": "揉",
+      "audio": "7afd458fac58a77c6fb3dc6a4c59bb827a17de96add7814f4b73f2c76f8b3724",
+      "id": "d3dadb7f2f69",
+      "priority": 1,
+      "group": "3c1a45c898f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roll",
+      "meaningInSourceLanguage": "擀",
+      "id": "74b5844bebd2",
+      "priority": 0,
+      "group": "4233e8e57541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roll",
+      "meaning": "擀",
+      "audio": "fa763b82e875105ee38bbe2f1ca02e1929d60e89db55f14030c728bd728767b8",
+      "id": "c084c5594ba2",
+      "priority": 1,
+      "group": "4233e8e57541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pour",
+      "meaningInSourceLanguage": "倒",
+      "id": "b022555bf5c3",
+      "priority": 0,
+      "group": "f03ef9f5cbec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pour",
+      "meaning": "倒",
+      "audio": "ce172e89011a0bfe8819c027f1e6d837e95878bbe31da1914baa95b94d669925",
+      "id": "6f7b8d0d0629",
+      "priority": 1,
+      "group": "f03ef9f5cbec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spread",
+      "meaningInSourceLanguage": "涂抹",
+      "id": "66a7bf7c5012",
+      "priority": 0,
+      "group": "6216fd8ec130"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spread",
+      "meaning": "涂抹",
+      "audio": "7eb6aea22e2ba74cab8ab28eee765d2fac8e8b9ed45bdbafd797350528aaa09a",
+      "id": "6b9ed6db105b",
+      "priority": 1,
+      "group": "6216fd8ec130"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sprinkle",
+      "meaningInSourceLanguage": "撒",
+      "id": "a93ed0c1042f",
+      "priority": 0,
+      "group": "e36fc3154aec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sprinkle",
+      "meaning": "撒",
+      "audio": "9e91f254166c926a67a7aa040136c303c774db6de59f8e3e767ddf42fba6c5e0",
+      "id": "e3fbab8e4445",
+      "priority": 1,
+      "group": "e36fc3154aec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drain",
+      "meaningInSourceLanguage": "沥干",
+      "id": "b310ac9be6e5",
+      "priority": 0,
+      "group": "116cdfc0a2c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drain",
+      "meaning": "沥干",
+      "audio": "3299d1ded8b81963302c5540c601a32a0b70ac71fe6bd2ade12e861cfef1985c",
+      "id": "3708453b1ee5",
+      "priority": 1,
+      "group": "116cdfc0a2c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strain",
+      "meaningInSourceLanguage": "过滤",
+      "id": "4975c499e9a1",
+      "priority": 0,
+      "group": "8c12227c9d67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strain",
+      "meaning": "过滤",
+      "audio": "8e83f8f92e17b1bef8642bfb9fd8e8ebe20075ea320226837885e522bfbc0089",
+      "id": "c080b9c9bd0a",
+      "priority": 1,
+      "group": "8c12227c9d67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "measure",
+      "meaningInSourceLanguage": "测量",
+      "id": "ec9f2cf65321",
+      "priority": 0,
+      "group": "2df4333c5cb8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "measure",
+      "meaning": "测量",
+      "audio": "cd09333ed20fed188ca99a1db551a4b3045685a6d8b8603c0ff6c4285ca80a4e",
+      "id": "5eeae7a916ff",
+      "priority": 1,
+      "group": "2df4333c5cb8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weigh",
+      "meaningInSourceLanguage": "称重",
+      "id": "30edb6d0ee3a",
+      "priority": 0,
+      "group": "153e546d287e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weigh",
+      "meaning": "称重",
+      "audio": "aad04c6b03b1f1391b4fd26572cdf4d42d64959fb73e9d3aa65763dd6fc08704",
+      "id": "df3ad3aaf641",
+      "priority": 1,
+      "group": "153e546d287e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recipe",
+      "meaningInSourceLanguage": "食谱",
+      "id": "ba1ca62925ef",
+      "priority": 0,
+      "group": "860fcd534134"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recipe",
+      "meaning": "食谱",
+      "audio": "d292ef2e44c7c0f9629f125a0ac1bec7a2796a14467da826fef0b20a401ef1e7",
+      "id": "e290a73836f0",
+      "priority": 1,
+      "group": "860fcd534134"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ingredient",
+      "meaningInSourceLanguage": "食材",
+      "id": "458be21b96ed",
+      "priority": 0,
+      "group": "df5ecd8a0f31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ingredient",
+      "meaning": "食材",
+      "audio": "fc7ea60d8e432a647fb59198be28d81a39637049ca37b0583d7c91154115eef4",
+      "id": "33dfc530925f",
+      "priority": 1,
+      "group": "df5ecd8a0f31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "portion",
+      "meaningInSourceLanguage": "份量",
+      "id": "07df849c3390",
+      "priority": 0,
+      "group": "bfe6534f71dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "portion",
+      "meaning": "份量",
+      "audio": "59dfc0335ceb4ca2616a9ae6ae33652220ee257255b7299467fe6aeeea20198f",
+      "id": "f7f4770a1d7d",
+      "priority": 1,
+      "group": "bfe6534f71dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calorie",
+      "meaningInSourceLanguage": "卡路里",
+      "id": "04e406990e0a",
+      "priority": 0,
+      "group": "7f01100b69da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calorie",
+      "meaning": "卡路里",
+      "audio": "1dfe3dbef984a04fa31ea7359cdefebdd4ffe611eb8f04404447ef4116e9b07c",
+      "id": "69332012d980",
+      "priority": 1,
+      "group": "7f01100b69da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nutrition",
+      "meaningInSourceLanguage": "营养",
+      "id": "de8551e041c0",
+      "priority": 0,
+      "group": "213fe5c2534c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nutrition",
+      "meaning": "营养",
+      "audio": "1c2ef97b1f72f1d708b13497daba2c143eed3976c4dbb3ca8f8dae5f841f9ae8",
+      "id": "87db6418f2e5",
+      "priority": 1,
+      "group": "213fe5c2534c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vitamin",
+      "meaningInSourceLanguage": "维生素",
+      "id": "b452255a4b99",
+      "priority": 0,
+      "group": "b3c7f6136211"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vitamin",
+      "meaning": "维生素",
+      "audio": "c15dd0c2404d772a1be0ed28dd8de2e702cec56dcb9722babb9aa1bfff1e442b",
+      "id": "216f1d8ddf85",
+      "priority": 1,
+      "group": "b3c7f6136211"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "protein",
+      "meaningInSourceLanguage": "蛋白质",
+      "id": "23e1c2e3f24d",
+      "priority": 0,
+      "group": "756067f27561"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "protein",
+      "meaning": "蛋白质",
+      "audio": "13a79f93530e7ad955099c6fad9264438441d39f3455b1133c4dfa48cb5342fd",
+      "id": "d4f853de5966",
+      "priority": 1,
+      "group": "756067f27561"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "carbohydrate",
+      "meaningInSourceLanguage": "碳水化合物",
+      "id": "6a39be205708",
+      "priority": 0,
+      "group": "2c3f36c13f2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carbohydrate",
+      "meaning": "碳水化合物",
+      "audio": "6fbc032f0547c79b59c469823996cfd7c5ba994fa4fcbbce0d07e2ef5b654695",
+      "id": "3555a8995725",
+      "priority": 1,
+      "group": "2c3f36c13f2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fat",
+      "meaningInSourceLanguage": "脂肪",
+      "id": "d67501606f20",
+      "priority": 0,
+      "group": "166f9a1b838b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fat",
+      "meaning": "脂肪",
+      "audio": "a5d50b5a0fb6a0bb88052d10c3623c59e4e29af5277cc7fcb061585547e24727",
+      "id": "5a8bd1d43a1c",
+      "priority": 1,
+      "group": "166f9a1b838b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiber",
+      "meaningInSourceLanguage": "纤维",
+      "id": "36dd141a76f4",
+      "priority": 0,
+      "group": "4940b8978856"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiber",
+      "meaning": "纤维",
+      "audio": "aca79f9e1122ee7964defbd1c00c015075870c30ab3524446c4f76db225992b9",
+      "id": "78f4156796f4",
+      "priority": 1,
+      "group": "4940b8978856"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mineral",
+      "meaningInSourceLanguage": "矿物质",
+      "id": "87371fd58ef8",
+      "priority": 0,
+      "group": "ead1d8ce67de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mineral",
+      "meaning": "矿物质",
+      "audio": "20af4460346705d9318071de8cf745bfaef0da3fe5eb9178173cbbb5cb3f1225",
+      "id": "3e8c35ec1006",
+      "priority": 1,
+      "group": "ead1d8ce67de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diet",
+      "meaningInSourceLanguage": "饮食",
+      "id": "0a7ec363507f",
+      "priority": 0,
+      "group": "a5e65c0f7528"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diet",
+      "meaning": "饮食",
+      "audio": "26ebfa6dba97ddf42cfad42b243311a146124d788836ee36e66de754075d677d",
+      "id": "19f35a5d2e3b",
+      "priority": 1,
+      "group": "a5e65c0f7528"
+    }
+  ]
+}

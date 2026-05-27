@@ -1,0 +1,448 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Le matin.",
+      "meaningInSourceLanguage": "在早上。",
+      "id": "3a4b2153630f",
+      "priority": 0,
+      "group": "7d0e7d56ab8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Le matin.",
+      "meaning": "在早上。",
+      "audio": "8553ccd33a91f6fb2b1cd4ee4cfafdf854163cfb57899f6e42685c5c575eb73f",
+      "id": "f4e4ca7c78e2",
+      "priority": 1,
+      "group": "7d0e7d56ab8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "À demain.",
+      "meaningInSourceLanguage": "明天见。",
+      "id": "82999df9541b",
+      "priority": 0,
+      "group": "9877f3c9cc8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "À demain.",
+      "meaning": "明天见。",
+      "audio": "e3bbea1183ec66e49d86719db7113ebbd853624f0936b0ddde443e7092e482c2",
+      "id": "88feff0ca785",
+      "priority": 1,
+      "group": "9877f3c9cc8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "C'est tôt le matin.",
+      "meaningInSourceLanguage": "现在是清晨。",
+      "id": "f7f9d75e3447",
+      "priority": 0,
+      "group": "002a21a18919"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "C'est tôt le matin.",
+      "meaning": "现在是清晨。",
+      "audio": "af419c0e41e1261d8391d046d2dba030c60665ed0ffb62ce3886f1f5701e5354",
+      "id": "56a1cc7a4526",
+      "priority": 1,
+      "group": "002a21a18919"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Je suis libre maintenant.",
+      "meaningInSourceLanguage": "我现在有空。",
+      "id": "1a094a3fd6cd",
+      "priority": 0,
+      "group": "53ccc95c8a57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Je suis libre maintenant.",
+      "meaning": "我现在有空。",
+      "audio": "9fe5a143bb219eb1271b868b755ab4c01dc0912b532c6c08c4fce9273b872cd0",
+      "id": "220165c54301",
+      "priority": 1,
+      "group": "53ccc95c8a57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "À plus tard.",
+      "meaningInSourceLanguage": "回头见。",
+      "id": "582885119f6c",
+      "priority": 0,
+      "group": "b9afc9f038e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "À plus tard.",
+      "meaning": "回头见。",
+      "audio": "35b988958b9fa8ce18b67072b7503a6e652e935c6db8e6671f2c9af5e95ea8ee",
+      "id": "54f8a60683c4",
+      "priority": 1,
+      "group": "b9afc9f038e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "L'après-midi.",
+      "meaningInSourceLanguage": "在下午。",
+      "id": "ef614722394f",
+      "priority": 0,
+      "group": "d363c3084c2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "L'après-midi.",
+      "meaning": "在下午。",
+      "audio": "6095d8f0dc93efa9db2e66d647441d70764c5b833a445d2e1d8b5a8b0895d583",
+      "id": "3548cea545ab",
+      "priority": 1,
+      "group": "d363c3084c2b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "matin",
+      "meaningInSourceLanguage": "早上",
+      "id": "03898a9dbc1d",
+      "priority": 0,
+      "group": "ddad310d6504"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "matin"
+      ],
+      "phrase": [
+        {
+          "word": "早上",
+          "definition": "matin"
+        }
+      ],
+      "id": "b6c054ed722d",
+      "priority": 1,
+      "group": "ddad310d6504"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "matin",
+      "meaning": "早上",
+      "audio": "d6518fe6db676ec4a894d60245d62415c93f78ee5d725c2f7d96d2f11862d624",
+      "id": "f92c2502fed6",
+      "priority": 1,
+      "group": "ddad310d6504"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "après-midi",
+      "meaningInSourceLanguage": "下午",
+      "id": "768cf170b6aa",
+      "priority": 0,
+      "group": "96688d7f0f44"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "après-midi"
+      ],
+      "phrase": [
+        {
+          "word": "下午",
+          "definition": "après-midi"
+        }
+      ],
+      "id": "ea70f093ee75",
+      "priority": 1,
+      "group": "96688d7f0f44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "après-midi",
+      "meaning": "下午",
+      "audio": "5acd317cbc1b6b5fb38f222b2dc97945bd58efea5a2ee2a2842e0cb62ba36805",
+      "id": "5f65e99eb5da",
+      "priority": 1,
+      "group": "96688d7f0f44"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "soir",
+      "meaningInSourceLanguage": "晚上",
+      "id": "a7199fad72ff",
+      "priority": 0,
+      "group": "94aac4deb379"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "soir"
+      ],
+      "phrase": [
+        {
+          "word": "晚上",
+          "definition": "soir"
+        }
+      ],
+      "id": "569fe367a17b",
+      "priority": 1,
+      "group": "94aac4deb379"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soir",
+      "meaning": "晚上",
+      "audio": "ac90f916c54b429aa21a5df04f1e8f3b3020b166aa782a4be444c44d7de335e0",
+      "id": "2d20a1e58a2a",
+      "priority": 1,
+      "group": "94aac4deb379"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "nuit",
+      "meaningInSourceLanguage": "夜晚",
+      "id": "05205a09306a",
+      "priority": 0,
+      "group": "4565ef553e8f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "nuit"
+      ],
+      "phrase": [
+        {
+          "word": "夜晚",
+          "definition": "nuit"
+        }
+      ],
+      "id": "0df733fbddf6",
+      "priority": 1,
+      "group": "4565ef553e8f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nuit",
+      "meaning": "夜晚",
+      "audio": "802728131cc9a3d1e9a04a4c63b9312ff8ba0cbbe8397bf746b11b60fff4e9e1",
+      "id": "4f6d40ea7a4d",
+      "priority": 1,
+      "group": "4565ef553e8f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "aujourd'hui",
+      "meaningInSourceLanguage": "今天",
+      "id": "33dae55cef0f",
+      "priority": 0,
+      "group": "8837f5ac71b4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "aujourd'hui"
+      ],
+      "phrase": [
+        {
+          "word": "今天",
+          "definition": "aujourd'hui"
+        }
+      ],
+      "id": "e62ed17d0409",
+      "priority": 1,
+      "group": "8837f5ac71b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aujourd'hui",
+      "meaning": "今天",
+      "audio": "ff04f04e85760fc71aab15400404d15ee1689d81871f77d7cefbbde43abd9460",
+      "id": "328f6042f7cb",
+      "priority": 1,
+      "group": "8837f5ac71b4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "demain",
+      "meaningInSourceLanguage": "明天",
+      "id": "ee7b76efdf5e",
+      "priority": 0,
+      "group": "9bbef4146a1b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "demain"
+      ],
+      "phrase": [
+        {
+          "word": "明天",
+          "definition": "demain"
+        }
+      ],
+      "id": "184e806a4c08",
+      "priority": 1,
+      "group": "9bbef4146a1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "demain",
+      "meaning": "明天",
+      "audio": "8e927e4c9d06a56ce6922a38d678610c4ea0f2bf5849c52c2b9d41bb54576967",
+      "id": "fd1745ed4b6a",
+      "priority": 1,
+      "group": "9bbef4146a1b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hier",
+      "meaningInSourceLanguage": "昨天",
+      "id": "4b7ef9c2b6b9",
+      "priority": 0,
+      "group": "429e7635c374"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hier"
+      ],
+      "phrase": [
+        {
+          "word": "昨天",
+          "definition": "hier"
+        }
+      ],
+      "id": "8a2f95c01109",
+      "priority": 1,
+      "group": "429e7635c374"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hier",
+      "meaning": "昨天",
+      "audio": "32972e5970dbd7248cbc32c4323f27a5d9518f720b68b71c4096a78c254d20fc",
+      "id": "2ece5387b3e8",
+      "priority": 1,
+      "group": "429e7635c374"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "maintenant",
+      "meaningInSourceLanguage": "现在",
+      "id": "e78a787af982",
+      "priority": 0,
+      "group": "024073588ab1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "maintenant"
+      ],
+      "phrase": [
+        {
+          "word": "现在",
+          "definition": "maintenant"
+        }
+      ],
+      "id": "ea26721b9e0f",
+      "priority": 1,
+      "group": "024073588ab1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maintenant",
+      "meaning": "现在",
+      "audio": "1bcb46038d2611505689b7365ec067f57b8792211e6cd4320014f4ec9a90436f",
+      "id": "72bfde1126f1",
+      "priority": 1,
+      "group": "024073588ab1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "plus tard",
+      "meaningInSourceLanguage": "稍后",
+      "id": "19cd9dc89ef1",
+      "priority": 0,
+      "group": "11b8af17c80f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "plus tard"
+      ],
+      "phrase": [
+        {
+          "word": "稍后",
+          "definition": "plus tard"
+        }
+      ],
+      "id": "227106a70be4",
+      "priority": 1,
+      "group": "11b8af17c80f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plus tard",
+      "meaning": "稍后",
+      "audio": "c2e34a8f8f8632474cd0a404dec4f75c715fb9d2dd9160e189a95f738333688b",
+      "id": "353381ceb48a",
+      "priority": 1,
+      "group": "11b8af17c80f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tôt",
+      "meaningInSourceLanguage": "早",
+      "id": "d7a0dc34f31c",
+      "priority": 0,
+      "group": "4678a5eef09d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tôt"
+      ],
+      "phrase": [
+        {
+          "word": "早",
+          "definition": "tôt"
+        }
+      ],
+      "id": "1fbf74ba661e",
+      "priority": 1,
+      "group": "4678a5eef09d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tôt",
+      "meaning": "早",
+      "audio": "397a235f23902f59b211b38fb90d4f33e434de8b1d5b563ff8c3cc67fd029f75",
+      "id": "2fa586320c6c",
+      "priority": 1,
+      "group": "4678a5eef09d"
+    }
+  ]
+}

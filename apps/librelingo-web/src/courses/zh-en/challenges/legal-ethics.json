@@ -1,0 +1,975 @@
+{
+  "id": "0f3edde90fe7",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "administrative license law",
+      "meaningInSourceLanguage": "行政许可法",
+      "id": "c85d32038640",
+      "priority": 0,
+      "group": "5bc79b42288f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "administrative license law",
+      "meaning": "行政许可法",
+      "audio": "4568e7ae879f45f7b172cad4491c5508",
+      "id": "00ea9c25a735",
+      "priority": 1,
+      "group": "5bc79b42288f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "administrative punishment law",
+      "meaningInSourceLanguage": "行政处罚法",
+      "id": "5e0a3a7cdfc0",
+      "priority": 0,
+      "group": "181328acd331"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "administrative punishment law",
+      "meaning": "行政处罚法",
+      "audio": "4e632a7bd5ee49e6ace495624ed4d059",
+      "id": "0760e28dcad6",
+      "priority": 1,
+      "group": "181328acd331"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "administrative reconsideration law",
+      "meaningInSourceLanguage": "行政复议法",
+      "id": "dbc88bb284a5",
+      "priority": 0,
+      "group": "3b9c4317cada"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "administrative reconsideration law",
+      "meaning": "行政复议法",
+      "audio": "289cece2b4c2456faec6905b1ecaf093",
+      "id": "f74da4e27d28",
+      "priority": 1,
+      "group": "3b9c4317cada"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legislation law",
+      "meaningInSourceLanguage": "立法法",
+      "id": "c5ad00ef6d83",
+      "priority": 0,
+      "group": "75fd2898a270"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legislation law",
+      "meaning": "立法法",
+      "audio": "59717a900da84f23a457e085a39abb69",
+      "id": "77e8af53d7ba",
+      "priority": 1,
+      "group": "75fd2898a270"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "criminal law of China",
+      "meaningInSourceLanguage": "中华人民共和国刑法",
+      "id": "d810cf0f27b3",
+      "priority": 0,
+      "group": "d09223811aeb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "criminal law of China",
+      "meaning": "中华人民共和国刑法",
+      "audio": "92c4489ba8f34022824ae936ac7a95bd",
+      "id": "daa1db651a5d",
+      "priority": 1,
+      "group": "d09223811aeb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "death penalty with reprieve",
+      "meaningInSourceLanguage": "死刑缓期执行",
+      "id": "306c0954f44e",
+      "priority": 0,
+      "group": "74978df114e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "death penalty with reprieve",
+      "meaning": "死刑缓期执行",
+      "audio": "2d80b1cdc46647008f95dbb492c510b0",
+      "id": "8aaccb383834",
+      "priority": 1,
+      "group": "74978df114e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "public security organ",
+      "meaningInSourceLanguage": "公安机关",
+      "id": "7f0c9cd6a864",
+      "priority": 0,
+      "group": "13a8f19e4a64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "public security organ",
+      "meaning": "公安机关",
+      "audio": "4e8e48e291594c3ca77e8a161bb34bf2",
+      "id": "d922e9645235",
+      "priority": 1,
+      "group": "13a8f19e4a64"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "state security organ",
+      "meaningInSourceLanguage": "国家安全机关",
+      "id": "391b846256c7",
+      "priority": 0,
+      "group": "e024121fe28d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "state security organ",
+      "meaning": "国家安全机关",
+      "audio": "cf14669cc9e84a87bf6f536c7032ba6d",
+      "id": "1c66647d69d9",
+      "priority": 1,
+      "group": "e024121fe28d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "judicial organ",
+      "meaningInSourceLanguage": "司法机关",
+      "id": "10f7d545328c",
+      "priority": 0,
+      "group": "db69788fadce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "judicial organ",
+      "meaning": "司法机关",
+      "audio": "f97a9e90ca974623900f2df26f525114",
+      "id": "0777bea05d97",
+      "priority": 1,
+      "group": "db69788fadce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "procuratorial organ",
+      "meaningInSourceLanguage": "检察机关",
+      "id": "a45bacbab1a0",
+      "priority": 0,
+      "group": "9db7af9379f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "procuratorial organ",
+      "meaning": "检察机关",
+      "audio": "e9b9a7105a7c426d8acdc3554fa45d7d",
+      "id": "4e2972c2f87d",
+      "priority": 1,
+      "group": "9db7af9379f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legal supervision",
+      "meaningInSourceLanguage": "法律监督",
+      "id": "33821b00406b",
+      "priority": 0,
+      "group": "7b0bcea4c04c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legal supervision",
+      "meaning": "法律监督",
+      "audio": "a72ff968e28a4393991072c506165db0",
+      "id": "d23f82354d60",
+      "priority": 1,
+      "group": "7b0bcea4c04c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arrest approval",
+      "meaningInSourceLanguage": "逮捕批准",
+      "id": "204619dabd68",
+      "priority": 0,
+      "group": "81b34d8a2d9d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arrest approval",
+      "meaning": "逮捕批准",
+      "audio": "47e3d0cf6f7843d9839aafb57d4a8a8b",
+      "id": "35481d50b9ca",
+      "priority": 1,
+      "group": "81b34d8a2d9d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prosecution",
+      "meaningInSourceLanguage": "公诉",
+      "id": "7de8cec530a7",
+      "priority": 0,
+      "group": "91fd146571ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prosecution",
+      "meaning": "公诉",
+      "audio": "f6a60a78bbc246ab8775fc9799936827",
+      "id": "13188c65ac69",
+      "priority": 1,
+      "group": "91fd146571ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "private prosecution",
+      "meaningInSourceLanguage": "自诉",
+      "id": "71715edf6aba",
+      "priority": 0,
+      "group": "0bb7f9f57e21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "private prosecution",
+      "meaning": "自诉",
+      "audio": "8a8602a166a041f5b69cb778804e60e0",
+      "id": "2e4305889b35",
+      "priority": 1,
+      "group": "0bb7f9f57e21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "criminal detention",
+      "meaningInSourceLanguage": "刑事拘留",
+      "id": "b043eafb4866",
+      "priority": 0,
+      "group": "5cb365b49b30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "criminal detention",
+      "meaning": "刑事拘留",
+      "audio": "476f16d294ad47488b691e867e23d723",
+      "id": "3bce211fe1b5",
+      "priority": 1,
+      "group": "5cb365b49b30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "residential surveillance",
+      "meaningInSourceLanguage": "监视居住",
+      "id": "03cdbc19c98c",
+      "priority": 0,
+      "group": "9065f4cef483"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "residential surveillance",
+      "meaning": "监视居住",
+      "audio": "1d10a017b9cd42c4aed03687cf7766c1",
+      "id": "7458325627e8",
+      "priority": 1,
+      "group": "9065f4cef483"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bail pending trial",
+      "meaningInSourceLanguage": "取保候审",
+      "id": "0177cc717292",
+      "priority": 0,
+      "group": "56c6ac7302f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bail pending trial",
+      "meaning": "取保候审",
+      "audio": "9f04defe9d2145b58a17bfd21f0f45c4",
+      "id": "a71be0437054",
+      "priority": 1,
+      "group": "56c6ac7302f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "verdict of guilt",
+      "meaningInSourceLanguage": "有罪判决",
+      "id": "dd6e9886cb3e",
+      "priority": 0,
+      "group": "58fb5f539230"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "verdict of guilt",
+      "meaning": "有罪判决",
+      "audio": "c34f0fb159654f548d05c28e7a9ec6bb",
+      "id": "4a70e408d848",
+      "priority": 1,
+      "group": "58fb5f539230"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "verdict of innocence",
+      "meaningInSourceLanguage": "无罪判决",
+      "id": "ff84887b20c6",
+      "priority": 0,
+      "group": "65937799f394"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "verdict of innocence",
+      "meaning": "无罪判决",
+      "audio": "a161d329119148fd8514ffdb130559c0",
+      "id": "28ef643890d4",
+      "priority": 1,
+      "group": "65937799f394"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mediation",
+      "meaningInSourceLanguage": "调解",
+      "id": "0a77e07461fe",
+      "priority": 0,
+      "group": "e352642630f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mediation",
+      "meaning": "调解",
+      "audio": "9acc862dec674eae9c6339c2487337ee",
+      "id": "7c3f7507d3b5",
+      "priority": 1,
+      "group": "e352642630f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arbitration",
+      "meaningInSourceLanguage": "仲裁",
+      "id": "72054f6e2108",
+      "priority": 0,
+      "group": "86fe51c909dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arbitration",
+      "meaning": "仲裁",
+      "audio": "c6b1969dd28648b0b45b5613cbcbbe96",
+      "id": "67271e343755",
+      "priority": 1,
+      "group": "86fe51c909dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "notarization",
+      "meaningInSourceLanguage": "公证",
+      "id": "676846a18432",
+      "priority": 0,
+      "group": "f8466e065d9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "notarization",
+      "meaning": "公证",
+      "audio": "846791a065f14e1b9547172489027267",
+      "id": "d48bc388389a",
+      "priority": 1,
+      "group": "f8466e065d9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legal consultation",
+      "meaningInSourceLanguage": "法律咨询",
+      "id": "83e46a9a0886",
+      "priority": 0,
+      "group": "86a5d4a11483"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legal consultation",
+      "meaning": "法律咨询",
+      "audio": "7418157753724f959cfb2002b7772c36",
+      "id": "ef788bf53a91",
+      "priority": 1,
+      "group": "86a5d4a11483"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legal representative",
+      "meaningInSourceLanguage": "法定代表人",
+      "id": "f18aef647b68",
+      "priority": 0,
+      "group": "57d941bf9fef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legal representative",
+      "meaning": "法定代表人",
+      "audio": "6f315889ed7b4f6f9e0d338849862d8f",
+      "id": "f0e52b234df8",
+      "priority": 1,
+      "group": "57d941bf9fef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "power of attorney",
+      "meaningInSourceLanguage": "授权委托书",
+      "id": "6147a14d5183",
+      "priority": 0,
+      "group": "01d7ae3e2dc2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "power of attorney",
+      "meaning": "授权委托书",
+      "audio": "99cdd9a259cc4bf59cf93d2ca88700e8",
+      "id": "cf389515954e",
+      "priority": 1,
+      "group": "01d7ae3e2dc2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "statute of limitations in China",
+      "meaningInSourceLanguage": "中国诉讼时效",
+      "id": "b527340f81ce",
+      "priority": 0,
+      "group": "3528367b5dac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "statute of limitations in China",
+      "meaning": "中国诉讼时效",
+      "audio": "2b7a952a8b59407e916ef56526a0b6e9",
+      "id": "17bf670627d4",
+      "priority": 1,
+      "group": "3528367b5dac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "choice of law",
+      "meaningInSourceLanguage": "法律选择",
+      "id": "5a7a6537d537",
+      "priority": 0,
+      "group": "536e25628d33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "choice of law",
+      "meaning": "法律选择",
+      "audio": "3f08c1d558c14faf9d80dfb6a77b2dfc",
+      "id": "3666c41dfcd9",
+      "priority": 1,
+      "group": "536e25628d33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "foreign-related civil relations",
+      "meaningInSourceLanguage": "涉外民事关系",
+      "id": "d3d6d2a19824",
+      "priority": 0,
+      "group": "74e996f7741e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "foreign-related civil relations",
+      "meaning": "涉外民事关系",
+      "audio": "2fe1e3f221334c2d8aff46ccac8dec68",
+      "id": "4a9a1310e2ec",
+      "priority": 1,
+      "group": "74e996f7741e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recognition of foreign judgments",
+      "meaningInSourceLanguage": "外国判决的承认",
+      "id": "843d587f8813",
+      "priority": 0,
+      "group": "556e5657e06e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recognition of foreign judgments",
+      "meaning": "外国判决的承认",
+      "audio": "847c5228511940a59ce801e249189aad",
+      "id": "d5d1cb931e27",
+      "priority": 1,
+      "group": "556e5657e06e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to work",
+      "meaningInSourceLanguage": "工作权",
+      "id": "72ae108975b9",
+      "priority": 0,
+      "group": "a373e865524d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to work",
+      "meaning": "工作权",
+      "audio": "d1130e28cd4848739a5fa0e9d62eaf45",
+      "id": "7c262e5493f8",
+      "priority": 1,
+      "group": "a373e865524d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to education",
+      "meaningInSourceLanguage": "教育权",
+      "id": "b371aefa60b2",
+      "priority": 0,
+      "group": "8f1fcd12d528"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to education",
+      "meaning": "教育权",
+      "audio": "3a45f7b151be4f2b9506d4f48d1e216c",
+      "id": "12c8b92d839c",
+      "priority": 1,
+      "group": "8f1fcd12d528"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to health",
+      "meaningInSourceLanguage": "健康权",
+      "id": "c207b28a9b62",
+      "priority": 0,
+      "group": "333e9b859ff8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to health",
+      "meaning": "健康权",
+      "audio": "6abe6f08fe7843938116fd8fca3152d4",
+      "id": "a9cb1a963ed2",
+      "priority": 1,
+      "group": "333e9b859ff8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to housing",
+      "meaningInSourceLanguage": "住房权",
+      "id": "25880ab9b94f",
+      "priority": 0,
+      "group": "3f253faa7618"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to housing",
+      "meaning": "住房权",
+      "audio": "110948beb0b043dc9da518d333e8cad8",
+      "id": "a934108ff6d0",
+      "priority": 1,
+      "group": "3f253faa7618"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to food",
+      "meaningInSourceLanguage": "食物权",
+      "id": "93ad2559528c",
+      "priority": 0,
+      "group": "b0ea2e34ac68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to food",
+      "meaning": "食物权",
+      "audio": "1e1a1d30dce548b1a9e058aba5b69be1",
+      "id": "ab974c06c39f",
+      "priority": 1,
+      "group": "b0ea2e34ac68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to water",
+      "meaningInSourceLanguage": "水权",
+      "id": "e57b3e3cd3d2",
+      "priority": 0,
+      "group": "0dc6d6b88547"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to water",
+      "meaning": "水权",
+      "audio": "d66a713edc1a4293a7170a8f01963ae4",
+      "id": "96588a77e6c9",
+      "priority": 1,
+      "group": "0dc6d6b88547"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to privacy",
+      "meaningInSourceLanguage": "隐私权",
+      "id": "c98f652fe1b9",
+      "priority": 0,
+      "group": "1910dcefd388"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to privacy",
+      "meaning": "隐私权",
+      "audio": "1fa1e3ad721a491e808d6ac51f684996",
+      "id": "a2a66de11103",
+      "priority": 1,
+      "group": "1910dcefd388"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to life",
+      "meaningInSourceLanguage": "生命权",
+      "id": "deae268f6a2e",
+      "priority": 0,
+      "group": "66a13afad5d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to life",
+      "meaning": "生命权",
+      "audio": "0010600031be40ccb71996e2d694f119",
+      "id": "2e9811f17b87",
+      "priority": 1,
+      "group": "66a13afad5d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to liberty",
+      "meaningInSourceLanguage": "自由权",
+      "id": "5039c853b9c7",
+      "priority": 0,
+      "group": "71b670123c77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to liberty",
+      "meaning": "自由权",
+      "audio": "b4c00984283049788bfb1e45ae046bfb",
+      "id": "7d9415e6de3c",
+      "priority": 1,
+      "group": "71b670123c77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to security",
+      "meaningInSourceLanguage": "安全权",
+      "id": "be2e73ecbc58",
+      "priority": 0,
+      "group": "ac1386a0b116"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to security",
+      "meaning": "安全权",
+      "audio": "8301ab040ff44dbf9a88fb7e2717db2e",
+      "id": "9812c71e2b80",
+      "priority": 1,
+      "group": "ac1386a0b116"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to assembly",
+      "meaningInSourceLanguage": "集会权",
+      "id": "949bba1f05cc",
+      "priority": 0,
+      "group": "725026194cec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to assembly",
+      "meaning": "集会权",
+      "audio": "ad8ea456a3db464587707ca1de077276",
+      "id": "5cff27a1da03",
+      "priority": 1,
+      "group": "725026194cec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to petition",
+      "meaningInSourceLanguage": "请愿权",
+      "id": "bf3cfea58c47",
+      "priority": 0,
+      "group": "70a2f4d634cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to petition",
+      "meaning": "请愿权",
+      "audio": "49e0d005797448f187d7b1d663e33134",
+      "id": "aff06f167a94",
+      "priority": 1,
+      "group": "70a2f4d634cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to marriage",
+      "meaningInSourceLanguage": "婚姻权",
+      "id": "76e08133f124",
+      "priority": 0,
+      "group": "3045831accb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to marriage",
+      "meaning": "婚姻权",
+      "audio": "3166e9882c95430cb1f9d519eddd5136",
+      "id": "69e069a10d2b",
+      "priority": 1,
+      "group": "3045831accb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to travel",
+      "meaningInSourceLanguage": "旅行权",
+      "id": "357a16247125",
+      "priority": 0,
+      "group": "881bd4eb25d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to travel",
+      "meaning": "旅行权",
+      "audio": "8d821b02588f4ebb9181d9d576717854",
+      "id": "b9548e1e18aa",
+      "priority": 1,
+      "group": "881bd4eb25d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to expression",
+      "meaningInSourceLanguage": "表达权",
+      "id": "49e7b2c81e34",
+      "priority": 0,
+      "group": "5f68a278c649"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to expression",
+      "meaning": "表达权",
+      "audio": "e7fc0f47d00c4d4280137f61fc80fd81",
+      "id": "068ee5b388c5",
+      "priority": 1,
+      "group": "5f68a278c649"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to belief",
+      "meaningInSourceLanguage": "信仰权",
+      "id": "03b73847c831",
+      "priority": 0,
+      "group": "fd0c4476e42a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to belief",
+      "meaning": "信仰权",
+      "audio": "27489093d4d84adca70fe5f3a29e98c1",
+      "id": "8b530d35bfd3",
+      "priority": 1,
+      "group": "fd0c4476e42a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to counsel",
+      "meaningInSourceLanguage": "律师权",
+      "id": "3cb719c96c0b",
+      "priority": 0,
+      "group": "42bd408c4124"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to counsel",
+      "meaning": "律师权",
+      "audio": "d000a42e0cec471da7018492b846587c",
+      "id": "87d33fccdeca",
+      "priority": 1,
+      "group": "42bd408c4124"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to appeal",
+      "meaningInSourceLanguage": "上诉权",
+      "id": "4854f4936a63",
+      "priority": 0,
+      "group": "6b8489c7f345"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to appeal",
+      "meaning": "上诉权",
+      "audio": "49eddbc1a97348a6a026631f0c75a60e",
+      "id": "7feb5c875a80",
+      "priority": 1,
+      "group": "6b8489c7f345"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to confront",
+      "meaningInSourceLanguage": "对质权",
+      "id": "2766b2963279",
+      "priority": 0,
+      "group": "931e0d07c884"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to confront",
+      "meaning": "对质权",
+      "audio": "9c567807fff140f9aa081afa3281102b",
+      "id": "82014e14633e",
+      "priority": 1,
+      "group": "931e0d07c884"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to silence",
+      "meaningInSourceLanguage": "沉默权",
+      "id": "a1a83d507854",
+      "priority": 0,
+      "group": "fd26cea683e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to silence",
+      "meaning": "沉默权",
+      "audio": "d3c414f2c64c4954a4ec14c7fbbaf546",
+      "id": "4d77378060c3",
+      "priority": 1,
+      "group": "fd26cea683e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to vote",
+      "meaningInSourceLanguage": "投票权",
+      "id": "aba3a03b832f",
+      "priority": 0,
+      "group": "2b19fedca7b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to vote",
+      "meaning": "投票权",
+      "audio": "e8c19e4553aa460a8f296116256ea71f",
+      "id": "cf4ffe8ae22d",
+      "priority": 1,
+      "group": "2b19fedca7b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to run",
+      "meaningInSourceLanguage": "竞选权",
+      "id": "825ee65bd456",
+      "priority": 0,
+      "group": "72aac92dc4da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to run",
+      "meaning": "竞选权",
+      "audio": "d1ed5dcd11734a67a454c84bda12c93c",
+      "id": "789e0527c7d6",
+      "priority": 1,
+      "group": "72aac92dc4da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to protest",
+      "meaningInSourceLanguage": "抗议权",
+      "id": "d2cf6740d960",
+      "priority": 0,
+      "group": "36493862d877"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to protest",
+      "meaning": "抗议权",
+      "audio": "cf19393bda88477ab0f2f1688f8796d5",
+      "id": "5ea0978d5e60",
+      "priority": 1,
+      "group": "36493862d877"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to strike",
+      "meaningInSourceLanguage": "罢工权",
+      "id": "75b561ae5927",
+      "priority": 0,
+      "group": "1eef7c7c76a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to strike",
+      "meaning": "罢工权",
+      "audio": "35fc1ebb62cd4105a27dd595689081e2",
+      "id": "f64644fd8536",
+      "priority": 1,
+      "group": "1eef7c7c76a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to property",
+      "meaningInSourceLanguage": "财产权",
+      "id": "a3d68eff19e0",
+      "priority": 0,
+      "group": "57919d7a6fac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to property",
+      "meaning": "财产权",
+      "audio": "42ac369d973d48efa18e9fc0b5d5ec21",
+      "id": "47255cb895a3",
+      "priority": 1,
+      "group": "57919d7a6fac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to contract",
+      "meaningInSourceLanguage": "合同权",
+      "id": "2610f0d7e074",
+      "priority": 0,
+      "group": "9987caf14f1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to contract",
+      "meaning": "合同权",
+      "audio": "e129df2e573f48b494974ee5f400921d",
+      "id": "9eb149089c72",
+      "priority": 1,
+      "group": "9987caf14f1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to sue",
+      "meaningInSourceLanguage": "起诉权",
+      "id": "5bf1bb3783ad",
+      "priority": 0,
+      "group": "315e9340b0f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to sue",
+      "meaning": "起诉权",
+      "audio": "9d505d72f8c247d583f1942103dcd494",
+      "id": "92ecf2b6ca87",
+      "priority": 1,
+      "group": "315e9340b0f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to defend",
+      "meaningInSourceLanguage": "辩护权",
+      "id": "bc8f5b000276",
+      "priority": 0,
+      "group": "c44df60ceba2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to defend",
+      "meaning": "辩护权",
+      "audio": "331aeeac0e4941789d6a0a4156f3836f",
+      "id": "472e20b6fa23",
+      "priority": 1,
+      "group": "c44df60ceba2"
+    }
+  ]
+}

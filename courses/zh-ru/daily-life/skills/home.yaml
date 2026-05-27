@@ -1,0 +1,70 @@
+Skill:
+  Name: Home
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: дом
+    Translation: 房子
+  - Word: дверь
+    Translation: 门
+  - Word: окно
+    Translation: 窗户
+  - Word: кухня
+    Translation: 厨房
+  - Word: спальня
+    Translation: 卧室
+  - Word: сад
+    Translation: 花园
+  - Word: гараж
+    Translation: 车库
+  - Word: лестница
+    Translation: 楼梯
+  - Word: двор
+    Translation: 院子
+  - Word: крыша
+    Translation: 屋顶
+
+Phrases:
+  - Phrase: Это мой дом.
+    Translation: 这是我的房子。
+  - Phrase: Откройте дверь.
+    Translation: 开门。
+  - Phrase: Кухня большая.
+    Translation: 厨房很大。
+  - Phrase: Спальня чистая.
+    Translation: 卧室很干净。
+  - Phrase: Там есть сад.
+    Translation: 有一个花园。
+  - Phrase: Закройте окно.
+    Translation: 关窗。
+
+Mini-dictionary:
+  Russian:
+    - дом: 房子
+    - сад: 花园
+    - кухня: 厨房
+    - лестница: 楼梯
+    - окно: 窗户
+    - крыша: 屋顶
+    - спальня: 卧室
+    - гараж: 车库
+    - двор: 院子
+    - дверь: 门
+  Chinese:
+    - 屋顶: крыша
+    - 院子: двор
+    - 门: дверь
+    - 房子: дом
+    - 卧室: спальня
+    - 窗户: окно
+    - 花园: сад
+    - 车库: гараж
+    - 厨房: кухня
+    - 楼梯: лестница

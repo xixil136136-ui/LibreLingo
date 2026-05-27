@@ -1,0 +1,703 @@
+{
+  "id": "e764411c833c",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "doctor",
+      "meaningInSourceLanguage": "医生",
+      "id": "d0c6693b913a",
+      "priority": 0,
+      "group": "3d9ac1c57046"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doctor",
+      "meaning": "医生",
+      "audio": "7bbac1a1dcb48e6db6c3bbeed3da4d739849ca4644e4ef019a4305a5caa7a459",
+      "id": "7e9e5c5c9d8f",
+      "priority": 1,
+      "group": "3d9ac1c57046"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nurse",
+      "meaningInSourceLanguage": "护士",
+      "id": "2226a9edace9",
+      "priority": 0,
+      "group": "4cbcff2d146e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nurse",
+      "meaning": "护士",
+      "audio": "05ddfa758a0dc6a0400691791bc4ed2499c192cb05fbd448f69d57e4b189b076",
+      "id": "366c8e73f72c",
+      "priority": 1,
+      "group": "4cbcff2d146e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "surgeon",
+      "meaningInSourceLanguage": "外科医生",
+      "id": "09c19584e810",
+      "priority": 0,
+      "group": "61e97d859cf4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "surgeon",
+      "meaning": "外科医生",
+      "audio": "fade3fa8337647d22bdb73fcd5b53b13e63adc9daf57e4c1f4c9040ae388bf69",
+      "id": "5985ea8189fa",
+      "priority": 1,
+      "group": "61e97d859cf4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dentist",
+      "meaningInSourceLanguage": "牙医",
+      "id": "2f35a2cc695b",
+      "priority": 0,
+      "group": "283ea5a733a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dentist",
+      "meaning": "牙医",
+      "audio": "c81efca85664c8ac8be17d77c0599eb90ca0008dbacbd1588158c3e9463400e3",
+      "id": "ec7b8bf7c289",
+      "priority": 1,
+      "group": "283ea5a733a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pharmacist",
+      "meaningInSourceLanguage": "药剂师",
+      "id": "cc46755929c3",
+      "priority": 0,
+      "group": "9279ca7e6049"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pharmacist",
+      "meaning": "药剂师",
+      "audio": "26a7a35eb22269631c56e8477e7abe3f9449aac8709721807586f76abd1bb783",
+      "id": "81c5e6d3a754",
+      "priority": 1,
+      "group": "9279ca7e6049"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "patient",
+      "meaningInSourceLanguage": "病人",
+      "id": "742c13efc314",
+      "priority": 0,
+      "group": "bd0cbd2c685b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "patient",
+      "meaning": "病人",
+      "audio": "eca8e1220d8c9289d41678e73cff13199806224864a97777e6df1a4530db70f2",
+      "id": "de2c49a9c2c8",
+      "priority": 1,
+      "group": "bd0cbd2c685b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hospital",
+      "meaningInSourceLanguage": "医院",
+      "id": "e9ab894c0fbc",
+      "priority": 0,
+      "group": "c1d5f9a11a92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hospital",
+      "meaning": "医院",
+      "audio": "c904d2e9a371d0c7fcf6e7add9f9f4282de00c9c1b276e0f551da963f03057b3",
+      "id": "747e190ac590",
+      "priority": 1,
+      "group": "c1d5f9a11a92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clinic",
+      "meaningInSourceLanguage": "诊所",
+      "id": "489c2892cf4c",
+      "priority": 0,
+      "group": "40037f720da8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clinic",
+      "meaning": "诊所",
+      "audio": "a3799870c9f847c1dd104a7e810b3653a88c1a0c880969eaca457a559b1b3853",
+      "id": "e08c419b0f9f",
+      "priority": 1,
+      "group": "40037f720da8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pharmacy",
+      "meaningInSourceLanguage": "药房",
+      "id": "709ac31779e5",
+      "priority": 0,
+      "group": "52f2e0151169"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pharmacy",
+      "meaning": "药房",
+      "audio": "8d25d9adc856d2f00f877bb8accb304c286fa1f4ba267f957e46ad52df00735e",
+      "id": "a97d320765bd",
+      "priority": 1,
+      "group": "52f2e0151169"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "emergency room",
+      "meaningInSourceLanguage": "急诊室",
+      "id": "9fe78f5e359a",
+      "priority": 0,
+      "group": "eda277662a66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "emergency room",
+      "meaning": "急诊室",
+      "audio": "8558ea3933d64a54de8c5508a53f6a45b888feed4330d5aa7718c5536697d592",
+      "id": "392cb7c9876c",
+      "priority": 1,
+      "group": "eda277662a66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "operating room",
+      "meaningInSourceLanguage": "手术室",
+      "id": "d1fd125b1c54",
+      "priority": 0,
+      "group": "c8c893e54fb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "operating room",
+      "meaning": "手术室",
+      "audio": "eec3fe8224d60206258d0b3a0eb6502a61204d66a8548dc55d5abd4c7a350a50",
+      "id": "c48950da9a65",
+      "priority": 1,
+      "group": "c8c893e54fb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ward",
+      "meaningInSourceLanguage": "病房",
+      "id": "300759539085",
+      "priority": 0,
+      "group": "5e705142d202"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ward",
+      "meaning": "病房",
+      "audio": "25792a25f750630ac0c497c6292a60a660cce3f1ab438f5e6cafa13e88be56a2",
+      "id": "90d0146c1493",
+      "priority": 1,
+      "group": "5e705142d202"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ambulance",
+      "meaningInSourceLanguage": "救护车",
+      "id": "a2cf01841744",
+      "priority": 0,
+      "group": "12542cfdae7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ambulance",
+      "meaning": "救护车",
+      "audio": "8dc2d0256ef90643f8e9de461db8a5380c4d7dd4594a1386c8f1e555d0e97e0b",
+      "id": "dea916cf4d53",
+      "priority": 1,
+      "group": "12542cfdae7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prescription",
+      "meaningInSourceLanguage": "处方",
+      "id": "fc6689c155a2",
+      "priority": 0,
+      "group": "84934f8817e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prescription",
+      "meaning": "处方",
+      "audio": "1550940fa975ac9a0d482497c0e860e6b4a17639ab4a69e74058a6aabc90e7c2",
+      "id": "d49e6e57da16",
+      "priority": 1,
+      "group": "84934f8817e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "medicine",
+      "meaningInSourceLanguage": "药",
+      "id": "c6c997184753",
+      "priority": 0,
+      "group": "0ae22381c4ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "medicine",
+      "meaning": "药",
+      "audio": "b7bcf2d1830477d6da115c4e09d8c62ccf201428c743f79858e6a6b57a872f96",
+      "id": "68b1c71eebf0",
+      "priority": 1,
+      "group": "0ae22381c4ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pill",
+      "meaningInSourceLanguage": "药片",
+      "id": "bda2f9b42895",
+      "priority": 0,
+      "group": "cbab48424147"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pill",
+      "meaning": "药片",
+      "audio": "6eebb1954eeb9de716d53f891d272728d66169b04c628dd703b03567b4a30c56",
+      "id": "39bbd8d2cbe7",
+      "priority": 1,
+      "group": "cbab48424147"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "capsule",
+      "meaningInSourceLanguage": "胶囊",
+      "id": "1626ac5f3414",
+      "priority": 0,
+      "group": "efabe1ee93c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "capsule",
+      "meaning": "胶囊",
+      "audio": "c8053649862c8691c62903ac8970ec8b5fa0a460da614a25173d5294ffcf6628",
+      "id": "9c575ba77ab5",
+      "priority": 1,
+      "group": "efabe1ee93c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "syrup",
+      "meaningInSourceLanguage": "糖浆",
+      "id": "83d3def38472",
+      "priority": 0,
+      "group": "0ac4805decbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "syrup",
+      "meaning": "糖浆",
+      "audio": "07c85e084488377681c685a83e62aadec8a141d34e3b61ea882afb96cb7fde7f",
+      "id": "092ee0501d6c",
+      "priority": 1,
+      "group": "0ac4805decbb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "injection",
+      "meaningInSourceLanguage": "注射",
+      "id": "6a7ebe5204b1",
+      "priority": 0,
+      "group": "f1afab54d00d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "injection",
+      "meaning": "注射",
+      "audio": "390ae20b143fd13d0bd0f4f4f6347c0f663e8934f5d284543dd523ef501e353a",
+      "id": "2c5d47c39513",
+      "priority": 1,
+      "group": "f1afab54d00d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "IV",
+      "meaningInSourceLanguage": "静脉输液",
+      "id": "0bf2e697c793",
+      "priority": 0,
+      "group": "96012ec544f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "IV",
+      "meaning": "静脉输液",
+      "audio": "395b366143ea4158ca556208ff8e59efbdd4d1c897409703dc93ef2debdb9c05",
+      "id": "ff6f6fe16212",
+      "priority": 1,
+      "group": "96012ec544f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vaccine",
+      "meaningInSourceLanguage": "疫苗",
+      "id": "609650530200",
+      "priority": 0,
+      "group": "60265f1f20c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vaccine",
+      "meaning": "疫苗",
+      "audio": "fba7fd8ade602df3ed6e8e297f8837c80a5ac73546c838bfcdaf839243ad9f56",
+      "id": "5085e7e9e03e",
+      "priority": 1,
+      "group": "60265f1f20c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bandage",
+      "meaningInSourceLanguage": "绷带",
+      "id": "9a13209701e7",
+      "priority": 0,
+      "group": "60da1cf31ddb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bandage",
+      "meaning": "绷带",
+      "audio": "9edb0c8fa458ce45479cde9e4aec69e21de0b8dd4fd564e26675c9677e4469c8",
+      "id": "fda7ca845aba",
+      "priority": 1,
+      "group": "60da1cf31ddb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plaster",
+      "meaningInSourceLanguage": "创可贴",
+      "id": "31db35a000ad",
+      "priority": 0,
+      "group": "0fb871c2557d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plaster",
+      "meaning": "创可贴",
+      "audio": "e8d4aa2c756ba54793599fc5987f053df02ef567b77d9f87f3f4d3af58437aee",
+      "id": "b61ed67f9d25",
+      "priority": 1,
+      "group": "0fb871c2557d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stethoscope",
+      "meaningInSourceLanguage": "听诊器",
+      "id": "333c1787dcc3",
+      "priority": 0,
+      "group": "1e276d64400c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stethoscope",
+      "meaning": "听诊器",
+      "audio": "05d414a3ce82396a82a8d0590f416557af8f5a8f2ae12eb292ca08bd1f793abb",
+      "id": "1b1229070b18",
+      "priority": 1,
+      "group": "1e276d64400c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thermometer",
+      "meaningInSourceLanguage": "体温计",
+      "id": "22765cd352a4",
+      "priority": 0,
+      "group": "ba5711d7f8fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thermometer",
+      "meaning": "体温计",
+      "audio": "fa27139508a32ea28fc4933035990c171b63461e20c36c7e0d59ab89705d332b",
+      "id": "5abbcd7aa392",
+      "priority": 1,
+      "group": "ba5711d7f8fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blood pressure monitor",
+      "meaningInSourceLanguage": "血压计",
+      "id": "b33e1ed485bf",
+      "priority": 0,
+      "group": "92872e4e5595"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blood pressure monitor",
+      "meaning": "血压计",
+      "audio": "5e5ce8039bf6213c3e66281044f2c36c297c3669f4d536b626e0340806b2a525",
+      "id": "3feac703fec5",
+      "priority": 1,
+      "group": "92872e4e5595"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wheelchair",
+      "meaningInSourceLanguage": "轮椅",
+      "id": "cd6b2b657814",
+      "priority": 0,
+      "group": "d5ebc1597a7b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wheelchair",
+      "meaning": "轮椅",
+      "audio": "cf5e7bce6f64c6bd1395ad4e047669a8e040d2be837251b7479831fc8b843c40",
+      "id": "f2e73a657db0",
+      "priority": 1,
+      "group": "d5ebc1597a7b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crutches",
+      "meaningInSourceLanguage": "拐杖",
+      "id": "78b4ee35e927",
+      "priority": 0,
+      "group": "b163b6e6c1da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crutches",
+      "meaning": "拐杖",
+      "audio": "5ed65d8421a6c1bc9d99e57ffe8eeeb8e1944dafbd4613329fbd96dbd710ee7e",
+      "id": "ae12f8a6b1e8",
+      "priority": 1,
+      "group": "b163b6e6c1da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "X-ray",
+      "meaningInSourceLanguage": "X光",
+      "id": "c9b7cc431da5",
+      "priority": 0,
+      "group": "67034a79e17f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "X-ray",
+      "meaning": "X光",
+      "audio": "5e7fb5c08e38572663db9b4dab8ffa62699c4f620d6d615f03dd85e8b50887b6",
+      "id": "d43d4e445363",
+      "priority": 1,
+      "group": "67034a79e17f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "MRI",
+      "meaningInSourceLanguage": "核磁共振",
+      "id": "940904afbc62",
+      "priority": 0,
+      "group": "b98e4f6c06ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "MRI",
+      "meaning": "核磁共振",
+      "audio": "14d5b81505c91d3176279ae2b083ecd8af56f7eb5a1b3845a3b2f24010429cf3",
+      "id": "743773466521",
+      "priority": 1,
+      "group": "b98e4f6c06ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "CT scan",
+      "meaningInSourceLanguage": "CT扫描",
+      "id": "28d6d31d8b85",
+      "priority": 0,
+      "group": "27dbfe7d0dc0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "CT scan",
+      "meaning": "CT扫描",
+      "audio": "3b347b44569d572c83f8772a50d8c68527d3f9d702366822ccbbfb361f397ed9",
+      "id": "b3fa5422acdb",
+      "priority": 1,
+      "group": "27dbfe7d0dc0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "surgery",
+      "meaningInSourceLanguage": "手术",
+      "id": "49138d4d3452",
+      "priority": 0,
+      "group": "e029b7af8beb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "surgery",
+      "meaning": "手术",
+      "audio": "563b068f96f3f4e52da97f9f2e214abd182c98c9f443825849ad7ac1238b962e",
+      "id": "df4a8b9bce06",
+      "priority": 1,
+      "group": "e029b7af8beb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "treatment",
+      "meaningInSourceLanguage": "治疗",
+      "id": "fd68f72f7d4d",
+      "priority": 0,
+      "group": "76552ef7bcf4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "treatment",
+      "meaning": "治疗",
+      "audio": "702672f40f33b807f9ef3774469fdc77c8ca33037a1f6d731184bae60e23474b",
+      "id": "70a912310676",
+      "priority": 1,
+      "group": "76552ef7bcf4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "therapy",
+      "meaningInSourceLanguage": "疗法",
+      "id": "9991d0ff949a",
+      "priority": 0,
+      "group": "380e0dcc7628"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "therapy",
+      "meaning": "疗法",
+      "audio": "8ef476fab50e35c9f982e54d2e642ec89ede49e175494c2a1ac487500a9210c7",
+      "id": "19c21be03fb8",
+      "priority": 1,
+      "group": "380e0dcc7628"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diagnosis",
+      "meaningInSourceLanguage": "诊断",
+      "id": "ae79ec97aae8",
+      "priority": 0,
+      "group": "9ca9812c72fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diagnosis",
+      "meaning": "诊断",
+      "audio": "2f0f82fc27ce6307879488b54c43a2857771c68d15a0f7e1da7d9b58e91fac9f",
+      "id": "f41d51599932",
+      "priority": 1,
+      "group": "9ca9812c72fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "examination",
+      "meaningInSourceLanguage": "检查",
+      "id": "82486219dd0c",
+      "priority": 0,
+      "group": "d137c0f4d6cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "examination",
+      "meaning": "检查",
+      "audio": "fb792310ea117b8d5faf7e6e9d14345031a0f75d6fb4dbe376ca54597311cb6d",
+      "id": "7e4ba6966351",
+      "priority": 1,
+      "group": "d137c0f4d6cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "test",
+      "meaningInSourceLanguage": "化验",
+      "id": "172858d1e325",
+      "priority": 0,
+      "group": "a530f118fc92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "test",
+      "meaning": "化验",
+      "audio": "288f36daa526deaed64d5704186a49504357d05c6125031bc1b6848ceb7c6bd3",
+      "id": "e8585b937176",
+      "priority": 1,
+      "group": "a530f118fc92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blood test",
+      "meaningInSourceLanguage": "验血",
+      "id": "4706ff5bdf29",
+      "priority": 0,
+      "group": "1e8708a9ef50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blood test",
+      "meaning": "验血",
+      "audio": "a2513aaa39cd3cd2dd3f148dfa2683bf9e7bc7974332c703cf695525297bd9cb",
+      "id": "a91b2a5392ec",
+      "priority": 1,
+      "group": "1e8708a9ef50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "urine test",
+      "meaningInSourceLanguage": "验尿",
+      "id": "ee164a71de6b",
+      "priority": 0,
+      "group": "6f3de4b9b206"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "urine test",
+      "meaning": "验尿",
+      "audio": "b7f11e1cf3a0bfdfd7396e4a93bad74016a9e772acdd0c7660433d21bb68a21b",
+      "id": "d55f35066818",
+      "priority": 1,
+      "group": "6f3de4b9b206"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "check-up",
+      "meaningInSourceLanguage": "体检",
+      "id": "d4e31ac51025",
+      "priority": 0,
+      "group": "20eeee75dd3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check-up",
+      "meaning": "体检",
+      "audio": "d62f1a4323314b86f9c7c412169bd6b54dc2f5cb2b0478897ad905ef7f3f95f4",
+      "id": "1b5bbb49dfac",
+      "priority": 1,
+      "group": "20eeee75dd3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "health",
+      "meaningInSourceLanguage": "健康",
+      "id": "b80849749aa7",
+      "priority": 0,
+      "group": "cd33c42333e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "health",
+      "meaning": "健康",
+      "audio": "84bfe5d986128ae6b3e6f593554b99ea7801d3a843aaed9c187e251b319c1252",
+      "id": "111f4517d65e",
+      "priority": 1,
+      "group": "cd33c42333e9"
+    }
+  ]
+}

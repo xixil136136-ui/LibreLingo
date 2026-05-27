@@ -48,26 +48,26 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - pão: 面包
-    - chá: 茶
-    - peixe: 鱼
     - leite: 牛奶
-    - arroz: 米饭
-    - fruta: 水果
-    - café: 咖啡
-    - ovo: 鸡蛋
     - legume: 蔬菜
+    - café: 咖啡
     - frango: 鸡肉
+    - peixe: 鱼
+    - fruta: 水果
     - água: 水
+    - ovo: 鸡蛋
+    - arroz: 米饭
+    - chá: 茶
+    - pão: 面包
   Chinese:
+    - 咖啡: café
     - 米饭: arroz
     - 牛奶: leite
-    - 鸡肉: frango
-    - 蔬菜: legume
-    - 茶: chá
     - 水果: fruta
-    - 鸡蛋: ovo
+    - 蔬菜: legume
     - 面包: pão
-    - 鱼: peixe
+    - 鸡肉: frango
     - 水: água
-    - 咖啡: café
+    - 鸡蛋: ovo
+    - 鱼: peixe
+    - 茶: chá

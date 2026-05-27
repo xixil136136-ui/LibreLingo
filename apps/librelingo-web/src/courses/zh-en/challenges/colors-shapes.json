@@ -1,0 +1,1774 @@
+{
+  "id": "301f55580f47",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "red",
+      "meaningInSourceLanguage": "红色",
+      "id": "3c234aebe2c6",
+      "priority": 0,
+      "group": "e510eb03a3e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "red",
+      "meaning": "红色",
+      "audio": "b04eae9afef6413aa5e9ed8cd7f3d11e",
+      "id": "87c55a026fee",
+      "priority": 1,
+      "group": "e510eb03a3e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blue",
+      "meaningInSourceLanguage": "蓝色",
+      "id": "fc8896004f40",
+      "priority": 0,
+      "group": "1a8980573cf2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blue",
+      "meaning": "蓝色",
+      "audio": "513b0c640f9d427298b4d026ff43b056",
+      "id": "fc6b5bc37a4a",
+      "priority": 1,
+      "group": "1a8980573cf2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "green",
+      "meaningInSourceLanguage": "绿色",
+      "id": "31e0a0dc50b7",
+      "priority": 0,
+      "group": "e3e86b5ffda6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "green",
+      "meaning": "绿色",
+      "audio": "872d28b6807c456a90e5704384d16133",
+      "id": "5583487e2855",
+      "priority": 1,
+      "group": "e3e86b5ffda6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yellow",
+      "meaningInSourceLanguage": "黄色",
+      "id": "881eb4a5e8e0",
+      "priority": 0,
+      "group": "311415b743c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yellow",
+      "meaning": "黄色",
+      "audio": "a2bd69529b9e41b7b3a77545922b6817",
+      "id": "75a0c803dccb",
+      "priority": 1,
+      "group": "311415b743c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "white",
+      "meaningInSourceLanguage": "白色",
+      "id": "40064db7b0a8",
+      "priority": 0,
+      "group": "a575f6d29075"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "white",
+      "meaning": "白色",
+      "audio": "aade7194b4884a6399f3818fc79c6a47",
+      "id": "e0a905efc1d6",
+      "priority": 1,
+      "group": "a575f6d29075"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "black",
+      "meaningInSourceLanguage": "黑色",
+      "id": "5b69f7bdf357",
+      "priority": 0,
+      "group": "8c43ab89e98c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "black",
+      "meaning": "黑色",
+      "audio": "253e09d6fbb14e9ebb214c8062f7c6c1",
+      "id": "ea6fff7a2615",
+      "priority": 1,
+      "group": "8c43ab89e98c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gray",
+      "meaningInSourceLanguage": "灰色",
+      "id": "9c81bdced24c",
+      "priority": 0,
+      "group": "35bc44da9b6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gray",
+      "meaning": "灰色",
+      "audio": "63059563629b4c85a9fe8f503462d5e0",
+      "id": "f40f7e8d1f1d",
+      "priority": 1,
+      "group": "35bc44da9b6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brown",
+      "meaningInSourceLanguage": "棕色",
+      "id": "29047f007a19",
+      "priority": 0,
+      "group": "6d0e9291d538"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brown",
+      "meaning": "棕色",
+      "audio": "5c9e8cbd360c430f9b2c6845884f8ddc",
+      "id": "e73a4c562329",
+      "priority": 1,
+      "group": "6d0e9291d538"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pink",
+      "meaningInSourceLanguage": "粉色",
+      "id": "ac1cdad9b1d5",
+      "priority": 0,
+      "group": "dfccae5982ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pink",
+      "meaning": "粉色",
+      "audio": "704f15c9ca394e27969cfade30bb0234",
+      "id": "698896f9ffc4",
+      "priority": 1,
+      "group": "dfccae5982ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "purple",
+      "meaningInSourceLanguage": "紫色",
+      "id": "7913753d88d7",
+      "priority": 0,
+      "group": "1f5343cfc996"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "purple",
+      "meaning": "紫色",
+      "audio": "0f9d874dfa244cb0a5e85d41e0bbdd0d",
+      "id": "a169dda46858",
+      "priority": 1,
+      "group": "1f5343cfc996"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orange",
+      "meaningInSourceLanguage": "橙色",
+      "id": "33e71dbb8188",
+      "priority": 0,
+      "group": "cb1b9061326b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orange",
+      "meaning": "橙色",
+      "audio": "3e03536602bb4d4dbad0181402b19209",
+      "id": "c1d6f4624546",
+      "priority": 1,
+      "group": "cb1b9061326b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gold",
+      "meaningInSourceLanguage": "金色",
+      "id": "03444c2ee6a9",
+      "priority": 0,
+      "group": "3a1e0fd9ca1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gold",
+      "meaning": "金色",
+      "audio": "d7dd1855f2684839b44d8e2a30bf3072",
+      "id": "9778de9abf93",
+      "priority": 1,
+      "group": "3a1e0fd9ca1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "silver",
+      "meaningInSourceLanguage": "银色",
+      "id": "022147ff8117",
+      "priority": 0,
+      "group": "85956f0a4061"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "silver",
+      "meaning": "银色",
+      "audio": "63809a0e49764bae8666895149fddf8a",
+      "id": "1ceff8430645",
+      "priority": 1,
+      "group": "85956f0a4061"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "navy",
+      "meaningInSourceLanguage": "深蓝色",
+      "id": "a0fe19b7d066",
+      "priority": 0,
+      "group": "53b8c796adbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "navy",
+      "meaning": "深蓝色",
+      "audio": "5b7ec806a1fa448daced68f02ce4af63",
+      "id": "815178b242f6",
+      "priority": 1,
+      "group": "53b8c796adbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beige",
+      "meaningInSourceLanguage": "米色",
+      "id": "9f14f245cab5",
+      "priority": 0,
+      "group": "bb49bf3af80f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beige",
+      "meaning": "米色",
+      "audio": "c66804d2bc064516bc9e8b2ad688bc79",
+      "id": "39349f4c47cd",
+      "priority": 1,
+      "group": "bb49bf3af80f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cream",
+      "meaningInSourceLanguage": "奶油色",
+      "id": "e185246d0322",
+      "priority": 0,
+      "group": "bb78ceb0b396"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cream",
+      "meaning": "奶油色",
+      "audio": "a3f2777c8b5a47bd9823869e62daae42",
+      "id": "261afe8e1775",
+      "priority": 1,
+      "group": "bb78ceb0b396"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "maroon",
+      "meaningInSourceLanguage": "栗色",
+      "id": "501af92ffa8e",
+      "priority": 0,
+      "group": "dd3fc8f7395b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maroon",
+      "meaning": "栗色",
+      "audio": "2721cee3c3284bb48c0fa91476a974e4",
+      "id": "7425600ac6dc",
+      "priority": 1,
+      "group": "dd3fc8f7395b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "teal",
+      "meaningInSourceLanguage": "蓝绿色",
+      "id": "16c19558209f",
+      "priority": 0,
+      "group": "d641988a4581"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teal",
+      "meaning": "蓝绿色",
+      "audio": "d57c59a0cb524903b0667fd256f07d68",
+      "id": "5fb363a00df1",
+      "priority": 1,
+      "group": "d641988a4581"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "indigo",
+      "meaningInSourceLanguage": "靛蓝",
+      "id": "9ebb43e3d8cc",
+      "priority": 0,
+      "group": "80483b1850fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "indigo",
+      "meaning": "靛蓝",
+      "audio": "1957baca3d5b4b0e84a29109d43ea8bb",
+      "id": "b2cf4c050b56",
+      "priority": 1,
+      "group": "80483b1850fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "violet",
+      "meaningInSourceLanguage": "紫罗兰",
+      "id": "72514ef59c90",
+      "priority": 0,
+      "group": "82e6228aefa6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "violet",
+      "meaning": "紫罗兰",
+      "audio": "0efbc65ad4504d63b05ee44fbfc09f3e",
+      "id": "b79c93a78cfc",
+      "priority": 1,
+      "group": "82e6228aefa6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turquoise",
+      "meaningInSourceLanguage": "绿松石色",
+      "id": "dd1b1e22a67b",
+      "priority": 0,
+      "group": "a323c0dfffb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turquoise",
+      "meaning": "绿松石色",
+      "audio": "773bf30d0abb4edc9dcd6c323fd08f85",
+      "id": "b9a03435dcf2",
+      "priority": 1,
+      "group": "a323c0dfffb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lavender",
+      "meaningInSourceLanguage": "薰衣草色",
+      "id": "50ff70451145",
+      "priority": 0,
+      "group": "bed1ab4495d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lavender",
+      "meaning": "薰衣草色",
+      "audio": "c6e6bf6ccf294f95a5c0470fe8bc8d84",
+      "id": "d21a62dcaa8e",
+      "priority": 1,
+      "group": "bed1ab4495d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coral",
+      "meaningInSourceLanguage": "珊瑚色",
+      "id": "7b505dd21709",
+      "priority": 0,
+      "group": "350d4a64e59e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coral",
+      "meaning": "珊瑚色",
+      "audio": "a723f569ff7a4a5ba4bf6622cc0be359",
+      "id": "4adb39f49f23",
+      "priority": 1,
+      "group": "350d4a64e59e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salmon",
+      "meaningInSourceLanguage": "鲑鱼色",
+      "id": "604a25d5f071",
+      "priority": 0,
+      "group": "43bbdf08f373"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salmon",
+      "meaning": "鲑鱼色",
+      "audio": "a7989dfa8116494ca1baf3e69fe82c0c",
+      "id": "0ffa630a6e94",
+      "priority": 1,
+      "group": "43bbdf08f373"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mint",
+      "meaningInSourceLanguage": "薄荷色",
+      "id": "e430f6c58bf5",
+      "priority": 0,
+      "group": "564b44b95759"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mint",
+      "meaning": "薄荷色",
+      "audio": "baa5f38290394e80a03c3877ec385f06",
+      "id": "3eca14126a63",
+      "priority": 1,
+      "group": "564b44b95759"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "olive",
+      "meaningInSourceLanguage": "橄榄色",
+      "id": "be4ca86ec4b0",
+      "priority": 0,
+      "group": "ef2710d6c6ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "olive",
+      "meaning": "橄榄色",
+      "audio": "c421c4aeb62e4d4eb9ee8578da60f6b5",
+      "id": "2b63394fdc4a",
+      "priority": 1,
+      "group": "ef2710d6c6ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peach",
+      "meaningInSourceLanguage": "桃色",
+      "id": "8d70a7287c10",
+      "priority": 0,
+      "group": "69597113f5d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peach",
+      "meaning": "桃色",
+      "audio": "76c59969b8014a658f9ef1322de863fc",
+      "id": "18e2d181f7a6",
+      "priority": 1,
+      "group": "69597113f5d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ivory",
+      "meaningInSourceLanguage": "象牙色",
+      "id": "8c5d2be58084",
+      "priority": 0,
+      "group": "f045d4718d45"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ivory",
+      "meaning": "象牙色",
+      "audio": "f6148facdd924067b82695e3bd31c9ca",
+      "id": "0e69351e6a32",
+      "priority": 1,
+      "group": "f045d4718d45"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "charcoal",
+      "meaningInSourceLanguage": "炭灰色",
+      "id": "cfa5344673f6",
+      "priority": 0,
+      "group": "b60703063f3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "charcoal",
+      "meaning": "炭灰色",
+      "audio": "8cec12e0a97d4782b6ac10aab30e1c3e",
+      "id": "fd9760d53891",
+      "priority": 1,
+      "group": "b60703063f3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "burgundy",
+      "meaningInSourceLanguage": "酒红色",
+      "id": "b5215243d683",
+      "priority": 0,
+      "group": "248bdf3d0786"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "burgundy",
+      "meaning": "酒红色",
+      "audio": "6806f437ed1d4c3ba517a72491852c33",
+      "id": "82d7a2ed50ab",
+      "priority": 1,
+      "group": "248bdf3d0786"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blonde",
+      "meaningInSourceLanguage": "金色",
+      "id": "ff8b016f9881",
+      "priority": 0,
+      "group": "a7bd3f92fbb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blonde",
+      "meaning": "金色",
+      "audio": "6fd8e22f55714084894f00fa0927a067",
+      "id": "6fc707245df9",
+      "priority": 1,
+      "group": "a7bd3f92fbb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bronze",
+      "meaningInSourceLanguage": "青铜色",
+      "id": "22c9f5516ba3",
+      "priority": 0,
+      "group": "19f86d832748"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bronze",
+      "meaning": "青铜色",
+      "audio": "f63801977cb64c65bfe6d43dff4349cb",
+      "id": "f9a445895be5",
+      "priority": 1,
+      "group": "19f86d832748"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crimson",
+      "meaningInSourceLanguage": "深红",
+      "id": "763ebb77ba0b",
+      "priority": 0,
+      "group": "a7664a583789"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crimson",
+      "meaning": "深红",
+      "audio": "13ca62b2a40449dbb09f89abac0016ed",
+      "id": "f5e2a81b91ed",
+      "priority": 1,
+      "group": "a7664a583789"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "emerald",
+      "meaningInSourceLanguage": "祖母绿",
+      "id": "4e0a7c2d0e71",
+      "priority": 0,
+      "group": "f5f08a1478ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "emerald",
+      "meaning": "祖母绿",
+      "audio": "89f8ffebf78047bfae9a397482689c96",
+      "id": "0daa895f15b9",
+      "priority": 1,
+      "group": "f5f08a1478ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ruby",
+      "meaningInSourceLanguage": "红宝石色",
+      "id": "f3b30486abbc",
+      "priority": 0,
+      "group": "d8b08aefa6bd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ruby",
+      "meaning": "红宝石色",
+      "audio": "a75b95dfe7264741ada1e36847969583",
+      "id": "2ab214c3f0f3",
+      "priority": 1,
+      "group": "d8b08aefa6bd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sapphire",
+      "meaningInSourceLanguage": "蓝宝石色",
+      "id": "2c6d9fd47ae3",
+      "priority": 0,
+      "group": "09ab33c16f0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sapphire",
+      "meaning": "蓝宝石色",
+      "audio": "5058e389cd7b46b7bb808ea46288d23c",
+      "id": "2d061bd3a8d1",
+      "priority": 1,
+      "group": "09ab33c16f0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jade",
+      "meaningInSourceLanguage": "翡翠色",
+      "id": "430d8596657b",
+      "priority": 0,
+      "group": "2b7f6781012c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jade",
+      "meaning": "翡翠色",
+      "audio": "bd250ff586bb4ad59ebdf9bb4cd11049",
+      "id": "47d5d164e944",
+      "priority": 1,
+      "group": "2b7f6781012c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "amber",
+      "meaningInSourceLanguage": "琥珀色",
+      "id": "176313d29ad9",
+      "priority": 0,
+      "group": "b8281bfcaa38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "amber",
+      "meaning": "琥珀色",
+      "audio": "7722eff1843a42d8a1e4dfb50e96798b",
+      "id": "1f1172651b84",
+      "priority": 1,
+      "group": "b8281bfcaa38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scarlet",
+      "meaningInSourceLanguage": "猩红色",
+      "id": "9fb81d99e6e1",
+      "priority": 0,
+      "group": "220d588781f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scarlet",
+      "meaning": "猩红色",
+      "audio": "6c89d7fdcc974ff49b9c6693c8e0806c",
+      "id": "42ca2655ac1d",
+      "priority": 1,
+      "group": "220d588781f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mauve",
+      "meaningInSourceLanguage": "紫红色",
+      "id": "8858e8f2d641",
+      "priority": 0,
+      "group": "24c6013552b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mauve",
+      "meaning": "紫红色",
+      "audio": "bdb3bde8e40a4aefbad39ed4d92fe787",
+      "id": "dd957f541a48",
+      "priority": 1,
+      "group": "24c6013552b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aqua",
+      "meaningInSourceLanguage": "浅绿色",
+      "id": "4d6494bdcca1",
+      "priority": 0,
+      "group": "3ffaf2326557"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aqua",
+      "meaning": "浅绿色",
+      "audio": "dc73eb5c6a874386a1cc434f30dcbdfc",
+      "id": "05685a6113c8",
+      "priority": 1,
+      "group": "3ffaf2326557"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lime",
+      "meaningInSourceLanguage": "酸橙色",
+      "id": "a30f71871df5",
+      "priority": 0,
+      "group": "282f2b2cff73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lime",
+      "meaning": "酸橙色",
+      "audio": "e47892b52fe14a4c835b5fbc31a40845",
+      "id": "822d98f68476",
+      "priority": 1,
+      "group": "282f2b2cff73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tan",
+      "meaningInSourceLanguage": "棕褐色",
+      "id": "bcd0e80bd8d6",
+      "priority": 0,
+      "group": "d40cd224c975"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tan",
+      "meaning": "棕褐色",
+      "audio": "242a8577306c422d9b7dad4bf7d197ec",
+      "id": "78440892688c",
+      "priority": 1,
+      "group": "d40cd224c975"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "khaki",
+      "meaningInSourceLanguage": "卡其色",
+      "id": "1fcc2f0d4c9f",
+      "priority": 0,
+      "group": "90bdb7e95d2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "khaki",
+      "meaning": "卡其色",
+      "audio": "8dbdc49ec0e5412a9580f6ccd861b918",
+      "id": "876a965de2ba",
+      "priority": 1,
+      "group": "90bdb7e95d2f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plum",
+      "meaningInSourceLanguage": "李子色",
+      "id": "a7cd78fe82d8",
+      "priority": 0,
+      "group": "48e7bd699b47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plum",
+      "meaning": "李子色",
+      "audio": "5aac7cb98134430ab0a6fb8c5b853673",
+      "id": "a04ba139e324",
+      "priority": 1,
+      "group": "48e7bd699b47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wine",
+      "meaningInSourceLanguage": "酒红色",
+      "id": "d695387fcfcc",
+      "priority": 0,
+      "group": "4eb91c4b49de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wine",
+      "meaning": "酒红色",
+      "audio": "3fbd25f04fae40b38e29dfb6832dec80",
+      "id": "dceb6269ff39",
+      "priority": 1,
+      "group": "4eb91c4b49de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fluorescent",
+      "meaningInSourceLanguage": "荧光色",
+      "id": "dd281c8647e3",
+      "priority": 0,
+      "group": "7dbf6797f8a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fluorescent",
+      "meaning": "荧光色",
+      "audio": "3a6316ea76174dd28d49c6e4dc5aebbe",
+      "id": "4facfebe6b9f",
+      "priority": 1,
+      "group": "7dbf6797f8a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "transparent",
+      "meaningInSourceLanguage": "透明的",
+      "id": "be2be10df644",
+      "priority": 0,
+      "group": "d539c21b4f4f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "transparent",
+      "meaning": "透明的",
+      "audio": "dbc1259cbb994ebe8397c402df9e2997",
+      "id": "5d50fc631d02",
+      "priority": 1,
+      "group": "d539c21b4f4f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bright",
+      "meaningInSourceLanguage": "明亮的",
+      "id": "e6c921b28ca4",
+      "priority": 0,
+      "group": "5cd2cb5b45ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bright",
+      "meaning": "明亮的",
+      "audio": "06cd3fa28533410fbfa48b5ab49b5f2b",
+      "id": "c804a9488b4a",
+      "priority": 1,
+      "group": "5cd2cb5b45ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dark",
+      "meaningInSourceLanguage": "深色的",
+      "id": "bd123f3f9b55",
+      "priority": 0,
+      "group": "c348b8bb22c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dark",
+      "meaning": "深色的",
+      "audio": "f8146307de6940ffbd082bb92832ab98",
+      "id": "faa49385e4b7",
+      "priority": 1,
+      "group": "c348b8bb22c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "light",
+      "meaningInSourceLanguage": "浅色的",
+      "id": "372f40ff04ff",
+      "priority": 0,
+      "group": "8754979f4634"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "light",
+      "meaning": "浅色的",
+      "audio": "027a5c290c524921b07b6964f8b44b42",
+      "id": "b89ecd44a69c",
+      "priority": 1,
+      "group": "8754979f4634"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "colorful",
+      "meaningInSourceLanguage": "多彩的",
+      "id": "6c363db64c0b",
+      "priority": 0,
+      "group": "1ff9fa6610d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "colorful",
+      "meaning": "多彩的",
+      "audio": "b1da4fa6cc7842b0bc0ab2f92c22bb45",
+      "id": "da42934cd306",
+      "priority": 1,
+      "group": "1ff9fa6610d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shiny",
+      "meaningInSourceLanguage": "闪亮的",
+      "id": "eca366afa032",
+      "priority": 0,
+      "group": "2b8daab24500"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shiny",
+      "meaning": "闪亮的",
+      "audio": "80f174278a174473853f3a50d0fa76b0",
+      "id": "632943eada84",
+      "priority": 1,
+      "group": "2b8daab24500"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dull",
+      "meaningInSourceLanguage": "暗淡的",
+      "id": "e12c57e1170c",
+      "priority": 0,
+      "group": "a0428863dbc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dull",
+      "meaning": "暗淡的",
+      "audio": "c4406f1249094af3a1f40d24ee8d9194",
+      "id": "8b7268a90be9",
+      "priority": 1,
+      "group": "a0428863dbc7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "matching",
+      "meaningInSourceLanguage": "相配的",
+      "id": "9089d346871f",
+      "priority": 0,
+      "group": "33ea1b2bc873"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "matching",
+      "meaning": "相配的",
+      "audio": "96c5758a73494479bb19921da1a9ca01",
+      "id": "e93a944a70e7",
+      "priority": 1,
+      "group": "33ea1b2bc873"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contrasting",
+      "meaningInSourceLanguage": "对比的",
+      "id": "3d2430e5686d",
+      "priority": 0,
+      "group": "564b59c3a218"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contrasting",
+      "meaning": "对比的",
+      "audio": "539cfe41e4034e63ac66e4e91e79bf83",
+      "id": "a46eee68a2d1",
+      "priority": 1,
+      "group": "564b59c3a218"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "circle",
+      "meaningInSourceLanguage": "圆形",
+      "id": "7ed44eb550d3",
+      "priority": 0,
+      "group": "5954c02f6869"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "circle",
+      "meaning": "圆形",
+      "audio": "4817a675bd184042ab8837c4aba4f112",
+      "id": "114d2f812d9d",
+      "priority": 1,
+      "group": "5954c02f6869"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "square",
+      "meaningInSourceLanguage": "正方形",
+      "id": "07486b94d90b",
+      "priority": 0,
+      "group": "2da718c3653f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "square",
+      "meaning": "正方形",
+      "audio": "5912e5dae6c9474090ce714aaa8e70a3",
+      "id": "307f02baaa84",
+      "priority": 1,
+      "group": "2da718c3653f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "triangle",
+      "meaningInSourceLanguage": "三角形",
+      "id": "12adebe8054a",
+      "priority": 0,
+      "group": "a119ba3b6de7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "triangle",
+      "meaning": "三角形",
+      "audio": "70c90d13c78642c8a3208719f58099db",
+      "id": "609204baaec6",
+      "priority": 1,
+      "group": "a119ba3b6de7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rectangle",
+      "meaningInSourceLanguage": "长方形",
+      "id": "69059782b23e",
+      "priority": 0,
+      "group": "2d9cf320c7a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rectangle",
+      "meaning": "长方形",
+      "audio": "deee76fa17a242e7a249d64af2caac9c",
+      "id": "ae99f3e1c81b",
+      "priority": 1,
+      "group": "2d9cf320c7a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oval",
+      "meaningInSourceLanguage": "椭圆形",
+      "id": "164f9e050a97",
+      "priority": 0,
+      "group": "5c890a555725"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oval",
+      "meaning": "椭圆形",
+      "audio": "323ba3e08bc840f1be57ecf23ceea24a",
+      "id": "22b47eaffeb3",
+      "priority": 1,
+      "group": "5c890a555725"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diamond",
+      "meaningInSourceLanguage": "菱形",
+      "id": "4bfcffc47a96",
+      "priority": 0,
+      "group": "354f1638a461"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diamond",
+      "meaning": "菱形",
+      "audio": "fe0fe930ecfd40b4b243847d3a00912a",
+      "id": "156d880cd009",
+      "priority": 1,
+      "group": "354f1638a461"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "star",
+      "meaningInSourceLanguage": "星形",
+      "id": "6d12476e7796",
+      "priority": 0,
+      "group": "447c6f2aed8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "star",
+      "meaning": "星形",
+      "audio": "33821459e277401a9fb77fce7dddd394",
+      "id": "690fbd3fe18c",
+      "priority": 1,
+      "group": "447c6f2aed8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heart",
+      "meaningInSourceLanguage": "心形",
+      "id": "03ca350e3a86",
+      "priority": 0,
+      "group": "b31855895fad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heart",
+      "meaning": "心形",
+      "audio": "4451a9f04b3b461cbbd2ab58667c9c6b",
+      "id": "12629d4ed9ac",
+      "priority": 1,
+      "group": "b31855895fad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crescent",
+      "meaningInSourceLanguage": "月牙形",
+      "id": "a09093e7857c",
+      "priority": 0,
+      "group": "750aada8d7cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crescent",
+      "meaning": "月牙形",
+      "audio": "9aa087d9f762476ca621cc14d63516e5",
+      "id": "d81e643a71be",
+      "priority": 1,
+      "group": "750aada8d7cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pentagon",
+      "meaningInSourceLanguage": "五边形",
+      "id": "f45d9f4a7e89",
+      "priority": 0,
+      "group": "eaffc3ec6af4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pentagon",
+      "meaning": "五边形",
+      "audio": "aa224afc653141ea9b08709ecb2c0abd",
+      "id": "f3d8b567191f",
+      "priority": 1,
+      "group": "eaffc3ec6af4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hexagon",
+      "meaningInSourceLanguage": "六边形",
+      "id": "589b330b6e0d",
+      "priority": 0,
+      "group": "e608b8c5e940"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hexagon",
+      "meaning": "六边形",
+      "audio": "0bfd7f3462a34c42ac087dc70d286792",
+      "id": "c50b469010ea",
+      "priority": 1,
+      "group": "e608b8c5e940"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "octagon",
+      "meaningInSourceLanguage": "八边形",
+      "id": "2a5554775611",
+      "priority": 0,
+      "group": "33cc547f7f64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "octagon",
+      "meaning": "八边形",
+      "audio": "395193e73e1d4750997fae2610cc6733",
+      "id": "f84c3cb50254",
+      "priority": 1,
+      "group": "33cc547f7f64"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sphere",
+      "meaningInSourceLanguage": "球体",
+      "id": "17b214c3d221",
+      "priority": 0,
+      "group": "217ab0fd52e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sphere",
+      "meaning": "球体",
+      "audio": "ac226aeb232546719ebed4b2a05ddfd4",
+      "id": "af58d6870549",
+      "priority": 1,
+      "group": "217ab0fd52e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cube",
+      "meaningInSourceLanguage": "立方体",
+      "id": "8aa81afd328b",
+      "priority": 0,
+      "group": "cd1c8b17d2c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cube",
+      "meaning": "立方体",
+      "audio": "327b8d9e54aa45c8987aecee33e5a181",
+      "id": "648184a1adad",
+      "priority": 1,
+      "group": "cd1c8b17d2c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cylinder",
+      "meaningInSourceLanguage": "圆柱体",
+      "id": "4d999afa2f29",
+      "priority": 0,
+      "group": "e44ef5d3f180"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cylinder",
+      "meaning": "圆柱体",
+      "audio": "37fe08f78f9e4c2d8e4fb45dc64aa162",
+      "id": "f09a3a989a2f",
+      "priority": 1,
+      "group": "e44ef5d3f180"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cone",
+      "meaningInSourceLanguage": "圆锥体",
+      "id": "222c3a315681",
+      "priority": 0,
+      "group": "3ac4a2ed177d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cone",
+      "meaning": "圆锥体",
+      "audio": "185aef43910d4e6dac6a9640fef98c21",
+      "id": "b578578cd0f5",
+      "priority": 1,
+      "group": "3ac4a2ed177d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pyramid",
+      "meaningInSourceLanguage": "金字塔形",
+      "id": "da9e5d2a2c06",
+      "priority": 0,
+      "group": "8aa3a1dae8a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pyramid",
+      "meaning": "金字塔形",
+      "audio": "73f456e3c2f740a69b100fcd54dd4cb0",
+      "id": "c9ae392dd6cd",
+      "priority": 1,
+      "group": "8aa3a1dae8a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cross",
+      "meaningInSourceLanguage": "十字形",
+      "id": "e247098027e7",
+      "priority": 0,
+      "group": "30136ed84bdd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cross",
+      "meaning": "十字形",
+      "audio": "bc276765a71448f8a410737c3c49796a",
+      "id": "c4c430f3ff85",
+      "priority": 1,
+      "group": "30136ed84bdd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arrow",
+      "meaningInSourceLanguage": "箭头形",
+      "id": "e93fae87a5a6",
+      "priority": 0,
+      "group": "d3c8bb30639a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arrow",
+      "meaning": "箭头形",
+      "audio": "d9c5b3b15b9643879504b08ee6230dc8",
+      "id": "1456edb49591",
+      "priority": 1,
+      "group": "d3c8bb30639a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "line",
+      "meaningInSourceLanguage": "线条",
+      "id": "ed0f25f0815a",
+      "priority": 0,
+      "group": "9141d53bb6e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "line",
+      "meaning": "线条",
+      "audio": "528ae012542d4d9f91d3f7828daec00b",
+      "id": "40bc29e884af",
+      "priority": 1,
+      "group": "9141d53bb6e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "curve",
+      "meaningInSourceLanguage": "曲线",
+      "id": "a301628d9c7a",
+      "priority": 0,
+      "group": "44023b55c5da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "curve",
+      "meaning": "曲线",
+      "audio": "836d0e159f0a4295b21ebb287f89232f",
+      "id": "6cda70a5485c",
+      "priority": 1,
+      "group": "44023b55c5da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spiral",
+      "meaningInSourceLanguage": "螺旋形",
+      "id": "7a6ecec1f333",
+      "priority": 0,
+      "group": "29905418df33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spiral",
+      "meaning": "螺旋形",
+      "audio": "3f0b146732c2491e9a61157e783bdb98",
+      "id": "3380592c871e",
+      "priority": 1,
+      "group": "29905418df33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wave",
+      "meaningInSourceLanguage": "波浪形",
+      "id": "a67f3d258c4e",
+      "priority": 0,
+      "group": "24a9f4bb1f2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wave",
+      "meaning": "波浪形",
+      "audio": "1c56df1c3b464bcaae1cccd6a81f6a73",
+      "id": "b37ea3942342",
+      "priority": 1,
+      "group": "24a9f4bb1f2f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zigzag",
+      "meaningInSourceLanguage": "锯齿形",
+      "id": "5a102997b89c",
+      "priority": 0,
+      "group": "19ae8e505172"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zigzag",
+      "meaning": "锯齿形",
+      "audio": "2346860dad1e476a8ef989de626afff6",
+      "id": "8e0a3de7e29c",
+      "priority": 1,
+      "group": "19ae8e505172"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "semicircle",
+      "meaningInSourceLanguage": "半圆形",
+      "id": "9a7983510fcc",
+      "priority": 0,
+      "group": "7ff7901907ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "semicircle",
+      "meaning": "半圆形",
+      "audio": "6b0bc2f49c3542b9aa1dcbe50bcbed80",
+      "id": "8509e41696c2",
+      "priority": 1,
+      "group": "7ff7901907ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ring",
+      "meaningInSourceLanguage": "环形",
+      "id": "715ace51c117",
+      "priority": 0,
+      "group": "1d0aeff36722"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ring",
+      "meaning": "环形",
+      "audio": "732d6afe36304bb98e0831a246201e3e",
+      "id": "9b639e0ca373",
+      "priority": 1,
+      "group": "1d0aeff36722"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arc",
+      "meaningInSourceLanguage": "弧形",
+      "id": "a27b74d6f149",
+      "priority": 0,
+      "group": "d91a371b0054"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arc",
+      "meaning": "弧形",
+      "audio": "cd980838c3da413da5116dbe7018a5f9",
+      "id": "c2501890d82c",
+      "priority": 1,
+      "group": "d91a371b0054"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shape",
+      "meaningInSourceLanguage": "形状",
+      "id": "7e63e3b02f27",
+      "priority": 0,
+      "group": "4c3a8052b0f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shape",
+      "meaning": "形状",
+      "audio": "9f7d12221f33414a960c220e407dd331",
+      "id": "efb257fe561d",
+      "priority": 1,
+      "group": "4c3a8052b0f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pattern",
+      "meaningInSourceLanguage": "图案",
+      "id": "eaf65881a106",
+      "priority": 0,
+      "group": "d85b8433323d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pattern",
+      "meaning": "图案",
+      "audio": "25af16016531467988010f098613b8b3",
+      "id": "afc0eb664909",
+      "priority": 1,
+      "group": "d85b8433323d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "design",
+      "meaningInSourceLanguage": "设计",
+      "id": "54654dd65353",
+      "priority": 0,
+      "group": "9514ebb3e606"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "design",
+      "meaning": "设计",
+      "audio": "ae534513042c4deaad44594b551e5b29",
+      "id": "eca5c97db7c4",
+      "priority": 1,
+      "group": "9514ebb3e606"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dot",
+      "meaningInSourceLanguage": "点",
+      "id": "05b1be722bb5",
+      "priority": 0,
+      "group": "bec0e2be5e33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dot",
+      "meaning": "点",
+      "audio": "adf8db2c89c94faca1d60c039f172b74",
+      "id": "3e2a07647465",
+      "priority": 1,
+      "group": "bec0e2be5e33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stripe",
+      "meaningInSourceLanguage": "条纹",
+      "id": "e62e9a454d68",
+      "priority": 0,
+      "group": "af9ff21f114a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stripe",
+      "meaning": "条纹",
+      "audio": "2577d13dd8ee42c883b17aa804e7bbe2",
+      "id": "a40b6ff3776a",
+      "priority": 1,
+      "group": "af9ff21f114a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "checker",
+      "meaningInSourceLanguage": "格子图案",
+      "id": "53873966feeb",
+      "priority": 0,
+      "group": "f4f7a4cbd6bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "checker",
+      "meaning": "格子图案",
+      "audio": "fdc72c52a34a4f19a86556045a5d3663",
+      "id": "c7b1be36ed2f",
+      "priority": 1,
+      "group": "f4f7a4cbd6bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gradient",
+      "meaningInSourceLanguage": "渐变",
+      "id": "e818ebc8abdf",
+      "priority": 0,
+      "group": "e4589a4108a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gradient",
+      "meaning": "渐变",
+      "audio": "ba8565532f9d4d3a81dce947255eb00a",
+      "id": "8220f1df32d8",
+      "priority": 1,
+      "group": "e4589a4108a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shade",
+      "meaningInSourceLanguage": "色调",
+      "id": "9ab89fde4254",
+      "priority": 0,
+      "group": "d62647ec2bbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shade",
+      "meaning": "色调",
+      "audio": "55a0715eb2a54b3a97dbdec97f0be17e",
+      "id": "38ce0218d702",
+      "priority": 1,
+      "group": "d62647ec2bbd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tint",
+      "meaningInSourceLanguage": "浅色",
+      "id": "5e347b063289",
+      "priority": 0,
+      "group": "e1610b2ec173"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tint",
+      "meaning": "浅色",
+      "audio": "5f6bfed78f27435abb2cd8ddfe6961e1",
+      "id": "286db618372e",
+      "priority": 1,
+      "group": "e1610b2ec173"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pigment",
+      "meaningInSourceLanguage": "颜料",
+      "id": "f43e35219ede",
+      "priority": 0,
+      "group": "33dd3d0bba82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pigment",
+      "meaning": "颜料",
+      "audio": "3e67653cd0224b5cadaeee3a1bee0ae9",
+      "id": "e6318bf59143",
+      "priority": 1,
+      "group": "33dd3d0bba82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dye",
+      "meaningInSourceLanguage": "染料",
+      "id": "10512d90dfcc",
+      "priority": 0,
+      "group": "c1191198f6b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dye",
+      "meaning": "染料",
+      "audio": "06af1944f03d4d1bb0e4e038df02e3f1",
+      "id": "2e080f503e0d",
+      "priority": 1,
+      "group": "c1191198f6b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paint",
+      "meaningInSourceLanguage": "油漆",
+      "id": "9705c327d67f",
+      "priority": 0,
+      "group": "399c3f4f2e3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paint",
+      "meaning": "油漆",
+      "audio": "e43f1e2481844b9286ead5bb57c2f881",
+      "id": "14d6c8022592",
+      "priority": 1,
+      "group": "399c3f4f2e3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monochrome",
+      "meaningInSourceLanguage": "单色",
+      "id": "d6b4c5a147ec",
+      "priority": 0,
+      "group": "9085013de8c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monochrome",
+      "meaning": "单色",
+      "audio": "026edee5e41a4505bfaace8ee20857eb",
+      "id": "2fefa5b1da25",
+      "priority": 1,
+      "group": "9085013de8c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "multicolor",
+      "meaningInSourceLanguage": "多彩色",
+      "id": "1f542c0cd396",
+      "priority": 0,
+      "group": "1ec9e0a50c9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "multicolor",
+      "meaning": "多彩色",
+      "audio": "5845e2d46c6d4f88b030dadbb22695c7",
+      "id": "5a51fb19ed25",
+      "priority": 1,
+      "group": "1ec9e0a50c9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pastel",
+      "meaningInSourceLanguage": "柔和的",
+      "id": "ed99da920da8",
+      "priority": 0,
+      "group": "b9cc4c27e917"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pastel",
+      "meaning": "柔和的",
+      "audio": "91bd60d26d384ea48c10ba3e91bb1347",
+      "id": "419ebb333144",
+      "priority": 1,
+      "group": "b9cc4c27e917"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "neon",
+      "meaningInSourceLanguage": "霓虹色",
+      "id": "1c70d113fd45",
+      "priority": 0,
+      "group": "9764f62d5953"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "neon",
+      "meaning": "霓虹色",
+      "audio": "4367837c13ac4a589a27b9d631ef1a84",
+      "id": "df33a007be65",
+      "priority": 1,
+      "group": "9764f62d5953"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "metallic",
+      "meaningInSourceLanguage": "金属色",
+      "id": "c5ae5bd9569b",
+      "priority": 0,
+      "group": "bcb4d8ec995c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "metallic",
+      "meaning": "金属色",
+      "audio": "c1342f1d22da4349941d0930a7a6ad0e",
+      "id": "1da8229b4df3",
+      "priority": 1,
+      "group": "bcb4d8ec995c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "matte",
+      "meaningInSourceLanguage": "哑光的",
+      "id": "9b770f881025",
+      "priority": 0,
+      "group": "9a1984ec1581"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "matte",
+      "meaning": "哑光的",
+      "audio": "e081b684deab4c79b9c26323cfaed6c7",
+      "id": "8ecdd45402cc",
+      "priority": 1,
+      "group": "9a1984ec1581"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "glossy",
+      "meaningInSourceLanguage": "光泽的",
+      "id": "faa5e878267d",
+      "priority": 0,
+      "group": "fb67a564aef6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "glossy",
+      "meaning": "光泽的",
+      "audio": "68b7ce115e5e4989b7379fe9799d6a07",
+      "id": "6a42fc1d0ddc",
+      "priority": 1,
+      "group": "fb67a564aef6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "opaque",
+      "meaningInSourceLanguage": "不透明的",
+      "id": "a6776a88210d",
+      "priority": 0,
+      "group": "e07bc85cba64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "opaque",
+      "meaning": "不透明的",
+      "audio": "39491d0c233742cf9ddb0901c15380b7",
+      "id": "92ce4668c64c",
+      "priority": 1,
+      "group": "e07bc85cba64"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "translucent",
+      "meaningInSourceLanguage": "半透明的",
+      "id": "bc3edf62a25c",
+      "priority": 0,
+      "group": "8ca067f8f47e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "translucent",
+      "meaning": "半透明的",
+      "audio": "9603b7db5c774a8a8f9fe38686b4e4b4",
+      "id": "821fbcff62c8",
+      "priority": 1,
+      "group": "8ca067f8f47e"
+    }
+  ]
+}

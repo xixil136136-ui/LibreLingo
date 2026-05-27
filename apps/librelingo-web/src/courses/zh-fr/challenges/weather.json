@@ -1,0 +1,482 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il fait beau aujourd'hui.",
+      "meaningInSourceLanguage": "今天天气晴朗。",
+      "id": "d39694c7e6ee",
+      "priority": 0,
+      "group": "342e059e05f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il fait beau aujourd'hui.",
+      "meaning": "今天天气晴朗。",
+      "audio": "cfcf4bc9cc558a7b02e7064b63ea5f3640b416887922efc5e204bad85fe825f5",
+      "id": "80fe89f7de2d",
+      "priority": 1,
+      "group": "342e059e05f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il va pleuvoir.",
+      "meaningInSourceLanguage": "要下雨了。",
+      "id": "14ad4602dcec",
+      "priority": 0,
+      "group": "ed95530ecd92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il va pleuvoir.",
+      "meaning": "要下雨了。",
+      "audio": "59fc6adc827a763d0b22952f61ea8115b48b478e242d88bc17355e3a37451ca6",
+      "id": "37947c7e7216",
+      "priority": 1,
+      "group": "ed95530ecd92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il fait très froid dehors.",
+      "meaningInSourceLanguage": "外面很冷。",
+      "id": "a1fe5c532711",
+      "priority": 0,
+      "group": "23180331a7bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il fait très froid dehors.",
+      "meaning": "外面很冷。",
+      "audio": "675bf5f806c91355493622f7f22893de53372581ea42e0261d4e669f16eb1e15",
+      "id": "d4b9a1f57d64",
+      "priority": 1,
+      "group": "23180331a7bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Prends un parapluie.",
+      "meaningInSourceLanguage": "带上雨伞。",
+      "id": "896b4c5588c9",
+      "priority": 0,
+      "group": "424d60ede3bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Prends un parapluie.",
+      "meaning": "带上雨伞。",
+      "audio": "594c10e95e8fbf5e62e01b09ffac6a5696c6d2a8c50dc638b592e1043a701da4",
+      "id": "59c29c97102e",
+      "priority": 1,
+      "group": "424d60ede3bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Quelle est la température ?",
+      "meaningInSourceLanguage": "多少度？",
+      "id": "7352e2c01218",
+      "priority": 0,
+      "group": "7219050ad2ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Quelle est la température ?",
+      "meaning": "多少度？",
+      "audio": "18a4589d6bad525a19ecef97c8d616ee5409d581f63ba493cad309ac181b65c2",
+      "id": "dc4f720e37da",
+      "priority": 1,
+      "group": "7219050ad2ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il neige.",
+      "meaningInSourceLanguage": "下雪了。",
+      "id": "e5e875008fb9",
+      "priority": 0,
+      "group": "b3d542a5e4e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il neige.",
+      "meaning": "下雪了。",
+      "audio": "1753b00bd0ce36b8ef341a4b09a836bf0b1cdbe833c8ea5b3756425d821b7c25",
+      "id": "10acc82516da",
+      "priority": 1,
+      "group": "b3d542a5e4e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il fait doux aujourd'hui.",
+      "meaningInSourceLanguage": "今天很暖和。",
+      "id": "440b2d73d1fd",
+      "priority": 0,
+      "group": "3905c4781ea3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il fait doux aujourd'hui.",
+      "meaning": "今天很暖和。",
+      "audio": "c7d6c8bdc4f4b29e2244f83ebdaaf451477c95cf6dae8bc5f342af5688521a47",
+      "id": "8bb25e8ed19c",
+      "priority": 1,
+      "group": "3905c4781ea3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il y a du vent.",
+      "meaningInSourceLanguage": "刮风了。",
+      "id": "2071c97c2f13",
+      "priority": 0,
+      "group": "e88eb5a72a5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il y a du vent.",
+      "meaning": "刮风了。",
+      "audio": "72705a494ad7d0151a41b5a04965c0f89a995bb622585f18b0632efcf4e8309f",
+      "id": "951e727890a3",
+      "priority": 1,
+      "group": "e88eb5a72a5a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ensoleillé",
+      "meaningInSourceLanguage": "晴天",
+      "id": "b2ab21467890",
+      "priority": 0,
+      "group": "a1f4c7747681"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ensoleillé"
+      ],
+      "phrase": [
+        {
+          "word": "晴天",
+          "definition": "ensoleillé"
+        }
+      ],
+      "id": "f2cc03e34d9e",
+      "priority": 1,
+      "group": "a1f4c7747681"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ensoleillé",
+      "meaning": "晴天",
+      "audio": "fe1a9dd23437008495d739a0702c0a0218a8b521a1eb626fb5f4effe215120c2",
+      "id": "0de94edf828e",
+      "priority": 1,
+      "group": "a1f4c7747681"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pluie",
+      "meaningInSourceLanguage": "雨",
+      "id": "dda1d6ca52ea",
+      "priority": 0,
+      "group": "26b4470beb64"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pluie"
+      ],
+      "phrase": [
+        {
+          "word": "雨",
+          "definition": "pluie"
+        }
+      ],
+      "id": "2f6961e726d0",
+      "priority": 1,
+      "group": "26b4470beb64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pluie",
+      "meaning": "雨",
+      "audio": "8a4790ac288a64600270b0c4f4b76da0fbe2b7e8c5348e015386c9a89f94e3ef",
+      "id": "a0ca2e94e223",
+      "priority": 1,
+      "group": "26b4470beb64"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "neige",
+      "meaningInSourceLanguage": "雪",
+      "id": "b57c92daf60b",
+      "priority": 0,
+      "group": "eea3000dff67"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "neige"
+      ],
+      "phrase": [
+        {
+          "word": "雪",
+          "definition": "neige"
+        }
+      ],
+      "id": "37c16bc30caa",
+      "priority": 1,
+      "group": "eea3000dff67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "neige",
+      "meaning": "雪",
+      "audio": "e1a57c90b44e261f75b689cf9e2cb60a5bc1ac5b9d626195fd0a4ef350d0a1d5",
+      "id": "197880b97f6b",
+      "priority": 1,
+      "group": "eea3000dff67"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "vent",
+      "meaningInSourceLanguage": "风",
+      "id": "1c8d790b912c",
+      "priority": 0,
+      "group": "e1058ffe9ba6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "vent"
+      ],
+      "phrase": [
+        {
+          "word": "风",
+          "definition": "vent"
+        }
+      ],
+      "id": "ded247d0ccff",
+      "priority": 1,
+      "group": "e1058ffe9ba6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vent",
+      "meaning": "风",
+      "audio": "18f2d329f587eb5fba1a719164a52a187e9b740d348ca2d6db9f8e833475eaf1",
+      "id": "4e8406515f5b",
+      "priority": 1,
+      "group": "e1058ffe9ba6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "nuage",
+      "meaningInSourceLanguage": "云",
+      "id": "8d791dfb7dec",
+      "priority": 0,
+      "group": "048d401b9873"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "nuage"
+      ],
+      "phrase": [
+        {
+          "word": "云",
+          "definition": "nuage"
+        }
+      ],
+      "id": "ad0fb922c90e",
+      "priority": 1,
+      "group": "048d401b9873"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nuage",
+      "meaning": "云",
+      "audio": "990040d966e6a7572a3a5e84813e4b98aab0d263f879ab042234d3bf338132e2",
+      "id": "2ec5720b5a73",
+      "priority": 1,
+      "group": "048d401b9873"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "froid",
+      "meaningInSourceLanguage": "冷",
+      "id": "a73ed619d851",
+      "priority": 0,
+      "group": "9a5068852ce5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "froid"
+      ],
+      "phrase": [
+        {
+          "word": "冷",
+          "definition": "froid"
+        }
+      ],
+      "id": "1f611413b123",
+      "priority": 1,
+      "group": "9a5068852ce5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "froid",
+      "meaning": "冷",
+      "audio": "e4f3ef051f0b5fb7cb62dde069f5768f0644c1b24c77d30952d31464d6fd2bf3",
+      "id": "3593b5cd86ee",
+      "priority": 1,
+      "group": "9a5068852ce5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "chaud",
+      "meaningInSourceLanguage": "热",
+      "id": "fecb0ebba9a6",
+      "priority": 0,
+      "group": "ee67b750ffc3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "chaud"
+      ],
+      "phrase": [
+        {
+          "word": "热",
+          "definition": "chaud"
+        }
+      ],
+      "id": "e29d789705cd",
+      "priority": 1,
+      "group": "ee67b750ffc3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chaud",
+      "meaning": "热",
+      "audio": "8d7941672075bdbbc85c27b4a70f27f41ae220b1e1d191427be54ec8ddfbcbcd",
+      "id": "325e97bab611",
+      "priority": 1,
+      "group": "ee67b750ffc3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "doux",
+      "meaningInSourceLanguage": "温暖",
+      "id": "80deda1d68d6",
+      "priority": 0,
+      "group": "1481226411ac"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "doux"
+      ],
+      "phrase": [
+        {
+          "word": "温暖",
+          "definition": "doux"
+        }
+      ],
+      "id": "95cecc8f3036",
+      "priority": 1,
+      "group": "1481226411ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doux",
+      "meaning": "温暖",
+      "audio": "2048bbb884e412f1d7ac1ad15258d0839ca81129368f54bbcea6355c377a180f",
+      "id": "af6476428473",
+      "priority": 1,
+      "group": "1481226411ac"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "température",
+      "meaningInSourceLanguage": "温度",
+      "id": "8faa607faee8",
+      "priority": 0,
+      "group": "578e5d879461"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "température"
+      ],
+      "phrase": [
+        {
+          "word": "温度",
+          "definition": "température"
+        }
+      ],
+      "id": "b89286482fa9",
+      "priority": 1,
+      "group": "578e5d879461"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "température",
+      "meaning": "温度",
+      "audio": "816c048a56115712ab986cb7cc7bb98336c37e664af2ec61625958c48d405fe9",
+      "id": "d0bfdacc1795",
+      "priority": 1,
+      "group": "578e5d879461"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "parapluie",
+      "meaningInSourceLanguage": "雨伞",
+      "id": "4cf25316290b",
+      "priority": 0,
+      "group": "c14b31562cbe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "parapluie"
+      ],
+      "phrase": [
+        {
+          "word": "雨伞",
+          "definition": "parapluie"
+        }
+      ],
+      "id": "97af8c937c52",
+      "priority": 1,
+      "group": "c14b31562cbe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parapluie",
+      "meaning": "雨伞",
+      "audio": "f16f86c5bbf1a762818afce65e83cfd5aeb6436f47c347b8dde207308bb92792",
+      "id": "9bf257d6e3f2",
+      "priority": 1,
+      "group": "c14b31562cbe"
+    }
+  ]
+}

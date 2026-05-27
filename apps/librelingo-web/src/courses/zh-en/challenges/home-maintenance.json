@@ -1,0 +1,1298 @@
+{
+  "id": "810bf76af60a",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "doorbell",
+      "meaningInSourceLanguage": "门铃",
+      "id": "2d4f829f35ca",
+      "priority": 0,
+      "group": "0299be5d0e4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doorbell",
+      "meaning": "门铃",
+      "audio": "03f8dfcbe2f549c1a0e112b69466975b",
+      "id": "00d9198b65bf",
+      "priority": 1,
+      "group": "0299be5d0e4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "doormat",
+      "meaningInSourceLanguage": "门垫",
+      "id": "3b6b54dedc83",
+      "priority": 0,
+      "group": "479efbddfa66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doormat",
+      "meaning": "门垫",
+      "audio": "9fdd87ac7a7849d1a023aace56a69c8b",
+      "id": "a35a75971af4",
+      "priority": 1,
+      "group": "479efbddfa66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "keychain",
+      "meaningInSourceLanguage": "钥匙链",
+      "id": "99af65392c37",
+      "priority": 0,
+      "group": "3d72d03ee7e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "keychain",
+      "meaning": "钥匙链",
+      "audio": "395180ec29d64ecf952ef662ed5cb91c",
+      "id": "47fe3f6ea5ee",
+      "priority": 1,
+      "group": "3d72d03ee7e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thermostat",
+      "meaningInSourceLanguage": "恒温器",
+      "id": "5a613e9ec871",
+      "priority": 0,
+      "group": "7b52cebc3051"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thermostat",
+      "meaning": "恒温器",
+      "audio": "f7e855081c504659b005d9bd8e3d7cac",
+      "id": "cd3fa05ab5fe",
+      "priority": 1,
+      "group": "7b52cebc3051"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "radiator",
+      "meaningInSourceLanguage": "暖气片",
+      "id": "cf6a745b324b",
+      "priority": 0,
+      "group": "91331e8c28d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "radiator",
+      "meaning": "暖气片",
+      "audio": "94e46f1dd31d4cff866deb2e8a06e9f6",
+      "id": "21afa8d627ff",
+      "priority": 1,
+      "group": "91331e8c28d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "air conditioner",
+      "meaningInSourceLanguage": "空调",
+      "id": "42ef7f723b57",
+      "priority": 0,
+      "group": "95bcfddcc8e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "air conditioner",
+      "meaning": "空调",
+      "audio": "1e09169a33e94bd183ba0622161334b2",
+      "id": "40eb1ee11eee",
+      "priority": 1,
+      "group": "95bcfddcc8e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heater",
+      "meaningInSourceLanguage": "加热器",
+      "id": "8d8cd99eaf14",
+      "priority": 0,
+      "group": "491d40d66af0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heater",
+      "meaning": "加热器",
+      "audio": "c1f0933c48e4425cb847304db32f29a5",
+      "id": "5607a320dd7b",
+      "priority": 1,
+      "group": "491d40d66af0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fan",
+      "meaningInSourceLanguage": "风扇",
+      "id": "5a4c386373c8",
+      "priority": 0,
+      "group": "088e75f0427a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fan",
+      "meaning": "风扇",
+      "audio": "44e0f5a48f6b4562a6f9c2622abbf8fc",
+      "id": "43e4f658a793",
+      "priority": 1,
+      "group": "088e75f0427a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "humidifier",
+      "meaningInSourceLanguage": "加湿器",
+      "id": "3b64c6b5ea35",
+      "priority": 0,
+      "group": "4154d600bbb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "humidifier",
+      "meaning": "加湿器",
+      "audio": "b5c440005ce44614afde43fb662131a5",
+      "id": "a01734ff5098",
+      "priority": 1,
+      "group": "4154d600bbb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dehumidifier",
+      "meaningInSourceLanguage": "除湿机",
+      "id": "96f350e4b977",
+      "priority": 0,
+      "group": "65dddf5aa5e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dehumidifier",
+      "meaning": "除湿机",
+      "audio": "764b2245f80f4ec989182da2f1eb727c",
+      "id": "b85927ad6464",
+      "priority": 1,
+      "group": "65dddf5aa5e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "water heater",
+      "meaningInSourceLanguage": "热水器",
+      "id": "8dd1edb0c921",
+      "priority": 0,
+      "group": "6e2484a397b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "water heater",
+      "meaning": "热水器",
+      "audio": "8dcf7757c366496fa4f127de3bcbc3b0",
+      "id": "aba5ed52f7cb",
+      "priority": 1,
+      "group": "6e2484a397b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "light bulb",
+      "meaningInSourceLanguage": "灯泡",
+      "id": "bb0c4ba9e241",
+      "priority": 0,
+      "group": "c0fee8626998"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "light bulb",
+      "meaning": "灯泡",
+      "audio": "10a710ea11ad4ed885b0895860898761",
+      "id": "b2f444b5fa5a",
+      "priority": 1,
+      "group": "c0fee8626998"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flashlight",
+      "meaningInSourceLanguage": "手电筒",
+      "id": "1e392cf0643a",
+      "priority": 0,
+      "group": "c9217b942e4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flashlight",
+      "meaning": "手电筒",
+      "audio": "9bd88fb4c0ae4f8a8c88df1eb269d4ce",
+      "id": "16cd933a7610",
+      "priority": 1,
+      "group": "c9217b942e4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "candle",
+      "meaningInSourceLanguage": "蜡烛",
+      "id": "92954657d774",
+      "priority": 0,
+      "group": "f27813bb1809"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "candle",
+      "meaning": "蜡烛",
+      "audio": "071a8ffbfba248248baa24150ca5069e",
+      "id": "fe1dda64ee0c",
+      "priority": 1,
+      "group": "f27813bb1809"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lamp shade",
+      "meaningInSourceLanguage": "灯罩",
+      "id": "c57fea6bdab8",
+      "priority": 0,
+      "group": "7c6a83d4f25f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lamp shade",
+      "meaning": "灯罩",
+      "audio": "be03ca001883485dac58e7922f8b78f7",
+      "id": "184f99658301",
+      "priority": 1,
+      "group": "7c6a83d4f25f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chandelier",
+      "meaningInSourceLanguage": "吊灯",
+      "id": "31ef66e3fea5",
+      "priority": 0,
+      "group": "423c28d4d12f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chandelier",
+      "meaning": "吊灯",
+      "audio": "dfbf4fcaa7ba4facb8cd0e5f4cf19772",
+      "id": "4bb05c623a29",
+      "priority": 1,
+      "group": "423c28d4d12f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nightlight",
+      "meaningInSourceLanguage": "夜灯",
+      "id": "c64d2de8f848",
+      "priority": 0,
+      "group": "eae27dbaaa87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nightlight",
+      "meaning": "夜灯",
+      "audio": "092364e3f2d04ae6aa95a27ea6eb7a37",
+      "id": "46bc2dff4840",
+      "priority": 1,
+      "group": "eae27dbaaa87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "extension cord",
+      "meaningInSourceLanguage": "延长线",
+      "id": "4468f1764853",
+      "priority": 0,
+      "group": "f71926dec470"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "extension cord",
+      "meaning": "延长线",
+      "audio": "b28b29b882074616bc0e911e51692003",
+      "id": "f45dc5654a4b",
+      "priority": 1,
+      "group": "f71926dec470"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "power strip",
+      "meaningInSourceLanguage": "电源插座",
+      "id": "11d0b6813856",
+      "priority": 0,
+      "group": "351df3bcb056"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "power strip",
+      "meaning": "电源插座",
+      "audio": "d7f4a1d10f9f4361b311977e62f19179",
+      "id": "313159e87fd8",
+      "priority": 1,
+      "group": "351df3bcb056"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fuse box",
+      "meaningInSourceLanguage": "保险丝盒",
+      "id": "db068fc01bbf",
+      "priority": 0,
+      "group": "36c00da81eb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fuse box",
+      "meaning": "保险丝盒",
+      "audio": "76d88edee54d40c09411cd4813faca81",
+      "id": "84e172baeb1c",
+      "priority": 1,
+      "group": "36c00da81eb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "circuit breaker",
+      "meaningInSourceLanguage": "断路器",
+      "id": "e6c1be7d6a9e",
+      "priority": 0,
+      "group": "781e85d5c88c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "circuit breaker",
+      "meaning": "断路器",
+      "audio": "fe7c0bad1d774888acbb88df72636115",
+      "id": "a62e11ee8296",
+      "priority": 1,
+      "group": "781e85d5c88c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toolbox",
+      "meaningInSourceLanguage": "工具箱",
+      "id": "2a1066fbf8f8",
+      "priority": 0,
+      "group": "7e3c22dfa006"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toolbox",
+      "meaning": "工具箱",
+      "audio": "2c2bce9a71c64331a6f4198892e64a5b",
+      "id": "c700b840ce5f",
+      "priority": 1,
+      "group": "7e3c22dfa006"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hammer",
+      "meaningInSourceLanguage": "锤子",
+      "id": "1b3743cbcac4",
+      "priority": 0,
+      "group": "7d577f79238a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hammer",
+      "meaning": "锤子",
+      "audio": "0c944c4c739c4bf2a1a3425105154129",
+      "id": "c155e97e2e28",
+      "priority": 1,
+      "group": "7d577f79238a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "screwdriver",
+      "meaningInSourceLanguage": "螺丝刀",
+      "id": "1ae9887f5a7d",
+      "priority": 0,
+      "group": "b271c2e35d5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "screwdriver",
+      "meaning": "螺丝刀",
+      "audio": "d035f5017d594c79ae223331b95f47d6",
+      "id": "37d4756eb18d",
+      "priority": 1,
+      "group": "b271c2e35d5d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wrench",
+      "meaningInSourceLanguage": "扳手",
+      "id": "e0875ebf911d",
+      "priority": 0,
+      "group": "4f2879e3a437"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wrench",
+      "meaning": "扳手",
+      "audio": "19430de837794abbb7283bcdf63e84ff",
+      "id": "752f15dd7166",
+      "priority": 1,
+      "group": "4f2879e3a437"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pliers",
+      "meaningInSourceLanguage": "钳子",
+      "id": "8095e89bb326",
+      "priority": 0,
+      "group": "e79d708b3f6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pliers",
+      "meaning": "钳子",
+      "audio": "e2a364dcfca349cb95b821ec1a64efb4",
+      "id": "523a45fa5cbf",
+      "priority": 1,
+      "group": "e79d708b3f6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drill",
+      "meaningInSourceLanguage": "电钻",
+      "id": "815e08890155",
+      "priority": 0,
+      "group": "d277306cc495"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drill",
+      "meaning": "电钻",
+      "audio": "4b800949945146f49d273ed5fef3ed6b",
+      "id": "a7f7dac6514f",
+      "priority": 1,
+      "group": "d277306cc495"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nail",
+      "meaningInSourceLanguage": "钉子",
+      "id": "04cd18ef3592",
+      "priority": 0,
+      "group": "d3eb14e15449"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nail",
+      "meaning": "钉子",
+      "audio": "de45020de7804bd987e01ee34f0c0c53",
+      "id": "b9c8f1ba4b34",
+      "priority": 1,
+      "group": "d3eb14e15449"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "screw",
+      "meaningInSourceLanguage": "螺丝",
+      "id": "6843b33e53f9",
+      "priority": 0,
+      "group": "860cba4a7c52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "screw",
+      "meaning": "螺丝",
+      "audio": "e56423b886054d44ae8735380fb996c0",
+      "id": "8f07df22638d",
+      "priority": 1,
+      "group": "860cba4a7c52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tape measure",
+      "meaningInSourceLanguage": "卷尺",
+      "id": "1ae4d4bdcb0e",
+      "priority": 0,
+      "group": "ea4a77508148"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tape measure",
+      "meaning": "卷尺",
+      "audio": "2413d691470e4868b6950e2094744242",
+      "id": "b30f76e94547",
+      "priority": 1,
+      "group": "ea4a77508148"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ladder",
+      "meaningInSourceLanguage": "梯子",
+      "id": "741186d0764a",
+      "priority": 0,
+      "group": "fe674e738563"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ladder",
+      "meaning": "梯子",
+      "audio": "0ba5d54ca58d4f75acc68b69c6bdf06e",
+      "id": "923cd69896e1",
+      "priority": 1,
+      "group": "fe674e738563"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "step stool",
+      "meaningInSourceLanguage": "台阶凳",
+      "id": "8b18f07ce0da",
+      "priority": 0,
+      "group": "8854ce0ab5f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "step stool",
+      "meaning": "台阶凳",
+      "audio": "5f8b56199a9d4b7998e0a9323061eb56",
+      "id": "6c791c58c002",
+      "priority": 1,
+      "group": "8854ce0ab5f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dustpan",
+      "meaningInSourceLanguage": "簸箕",
+      "id": "4288bcb5a877",
+      "priority": 0,
+      "group": "840f6ae9ba6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dustpan",
+      "meaning": "簸箕",
+      "audio": "aa7971642695480a89f51e3e7d1677a0",
+      "id": "ff9bb243db64",
+      "priority": 1,
+      "group": "840f6ae9ba6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sponge",
+      "meaningInSourceLanguage": "海绵",
+      "id": "9ab2ac99d46e",
+      "priority": 0,
+      "group": "631a04d596dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sponge",
+      "meaning": "海绵",
+      "audio": "fdf66bd25124488d8db02cc2b3b34d19",
+      "id": "a4a0531f6ce3",
+      "priority": 1,
+      "group": "631a04d596dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scrub brush",
+      "meaningInSourceLanguage": "刷子",
+      "id": "49a45feacc8f",
+      "priority": 0,
+      "group": "b24f8fa0af2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scrub brush",
+      "meaning": "刷子",
+      "audio": "a0f7df27e4ae45fa8be978958a76a85e",
+      "id": "bb7ea73dc712",
+      "priority": 1,
+      "group": "b24f8fa0af2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rag",
+      "meaningInSourceLanguage": "抹布",
+      "id": "794150d55963",
+      "priority": 0,
+      "group": "f40e9aa7e6f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rag",
+      "meaning": "抹布",
+      "audio": "22bc92d4476c4573a7011e90755d7dd6",
+      "id": "168f787f4f8c",
+      "priority": 1,
+      "group": "f40e9aa7e6f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trash can",
+      "meaningInSourceLanguage": "垃圾桶",
+      "id": "b0bc9bd61eab",
+      "priority": 0,
+      "group": "e9bc91df87fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trash can",
+      "meaning": "垃圾桶",
+      "audio": "31c05e492ce4447a926e479a6edc1375",
+      "id": "148f16766408",
+      "priority": 1,
+      "group": "e9bc91df87fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wastebasket",
+      "meaningInSourceLanguage": "废纸篓",
+      "id": "94e224022feb",
+      "priority": 0,
+      "group": "06a62ddd0d1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wastebasket",
+      "meaning": "废纸篓",
+      "audio": "fe549e7eee864c2cbe9bfc0da2e5f8c0",
+      "id": "d6908c086716",
+      "priority": 1,
+      "group": "06a62ddd0d1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compost",
+      "meaningInSourceLanguage": "堆肥",
+      "id": "1438a00b2566",
+      "priority": 0,
+      "group": "affc058cad7e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compost",
+      "meaning": "堆肥",
+      "audio": "e067932986b94e1ab7ed4d1cc943374b",
+      "id": "ff96aac5f92d",
+      "priority": 1,
+      "group": "affc058cad7e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "light switch",
+      "meaningInSourceLanguage": "灯开关",
+      "id": "a4f804999291",
+      "priority": 0,
+      "group": "6df17bae5099"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "light switch",
+      "meaning": "灯开关",
+      "audio": "28bab57319e6492e91d70b521af3c592",
+      "id": "2d2f09b47f8a",
+      "priority": 1,
+      "group": "6df17bae5099"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "doorknob",
+      "meaningInSourceLanguage": "门把手",
+      "id": "166cb40427b4",
+      "priority": 0,
+      "group": "95b2be7f967d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doorknob",
+      "meaning": "门把手",
+      "audio": "65522695f3854408bcebd889a4fa0a1e",
+      "id": "b7e9637016ef",
+      "priority": 1,
+      "group": "95b2be7f967d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "door hinge",
+      "meaningInSourceLanguage": "门铰链",
+      "id": "f9e3b8f633c6",
+      "priority": 0,
+      "group": "daac83099a23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "door hinge",
+      "meaning": "门铰链",
+      "audio": "2cf8f7dc9e05488eb6e54ad91e7bac5f",
+      "id": "ec348b6b1ab9",
+      "priority": 1,
+      "group": "daac83099a23"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "window sill",
+      "meaningInSourceLanguage": "窗台",
+      "id": "125dfcc85b3c",
+      "priority": 0,
+      "group": "4f46d93c0930"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "window sill",
+      "meaning": "窗台",
+      "audio": "e9fafba35e8c4d24b48d077398647138",
+      "id": "ec4b93a6ac44",
+      "priority": 1,
+      "group": "4f46d93c0930"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "window frame",
+      "meaningInSourceLanguage": "窗框",
+      "id": "ff4d2c24b58d",
+      "priority": 0,
+      "group": "207c1a082507"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "window frame",
+      "meaning": "窗框",
+      "audio": "82fd2bf803714259a4f8197bbfc23e16",
+      "id": "a91126d91a11",
+      "priority": 1,
+      "group": "207c1a082507"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shutter",
+      "meaningInSourceLanguage": "百叶窗",
+      "id": "fbb12db7593f",
+      "priority": 0,
+      "group": "a5e6567f30a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shutter",
+      "meaning": "百叶窗",
+      "audio": "414d1b5a9408411c8c0b1cd9ef12dafc",
+      "id": "c4a84f00fe05",
+      "priority": 1,
+      "group": "a5e6567f30a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blind",
+      "meaningInSourceLanguage": "百叶帘",
+      "id": "64e0777a7d38",
+      "priority": 0,
+      "group": "e6328aaf3d68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blind",
+      "meaning": "百叶帘",
+      "audio": "177ad9d628fa4432827e3a6ab459d634",
+      "id": "fd6e6672a2f7",
+      "priority": 1,
+      "group": "e6328aaf3d68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "awning",
+      "meaningInSourceLanguage": "遮阳篷",
+      "id": "34a26ee509e4",
+      "priority": 0,
+      "group": "a847172b79b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "awning",
+      "meaning": "遮阳篷",
+      "audio": "4f8253152fd043269a515c186454cf8b",
+      "id": "4a7f0b32dd18",
+      "priority": 1,
+      "group": "a847172b79b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "home security",
+      "meaningInSourceLanguage": "家庭安防",
+      "id": "ac39f6407a06",
+      "priority": 0,
+      "group": "826cbf3f01f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "home security",
+      "meaning": "家庭安防",
+      "audio": "9c56e2b09aec42eb8ee3eb45a046e155",
+      "id": "fcf9c09a6e1c",
+      "priority": 1,
+      "group": "826cbf3f01f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smoke detector",
+      "meaningInSourceLanguage": "烟雾报警器",
+      "id": "033ab8ada7f6",
+      "priority": 0,
+      "group": "5044e2069331"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smoke detector",
+      "meaning": "烟雾报警器",
+      "audio": "46f10c15ab4148cdb5eb5ebb0657c235",
+      "id": "db6dc5febec6",
+      "priority": 1,
+      "group": "5044e2069331"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "carbon monoxide detector",
+      "meaningInSourceLanguage": "一氧化碳探测器",
+      "id": "67fb8a987999",
+      "priority": 0,
+      "group": "160d89e41b48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carbon monoxide detector",
+      "meaning": "一氧化碳探测器",
+      "audio": "285cf21a1dde447d97f9ef89bea38310",
+      "id": "181843cd9664",
+      "priority": 1,
+      "group": "160d89e41b48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fire extinguisher",
+      "meaningInSourceLanguage": "灭火器",
+      "id": "5529e0a9e07f",
+      "priority": 0,
+      "group": "94c33982139c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fire extinguisher",
+      "meaning": "灭火器",
+      "audio": "96fdb69ef8f04c2eb11dc62b3e673ac3",
+      "id": "37e56c11fb38",
+      "priority": 1,
+      "group": "94c33982139c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "safe",
+      "meaningInSourceLanguage": "保险箱",
+      "id": "db325461ff81",
+      "priority": 0,
+      "group": "cf777fb1b0e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "safe",
+      "meaning": "保险箱",
+      "audio": "60c27d131faf45088cec392ab7459dbb",
+      "id": "bfb2b6b8f760",
+      "priority": 1,
+      "group": "cf777fb1b0e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "security camera",
+      "meaningInSourceLanguage": "监控摄像头",
+      "id": "c24cee181468",
+      "priority": 0,
+      "group": "635e351109c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "security camera",
+      "meaning": "监控摄像头",
+      "audio": "b34edcc1eb7a410cb54478b472af15a7",
+      "id": "b4b9fff63f49",
+      "priority": 1,
+      "group": "635e351109c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "indoor",
+      "meaningInSourceLanguage": "室内的",
+      "id": "d8910e3287a8",
+      "priority": 0,
+      "group": "f87028247550"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "indoor",
+      "meaning": "室内的",
+      "audio": "cb8a2c465eec4ea3adfc713b7c877604",
+      "id": "5314bf5918a6",
+      "priority": 1,
+      "group": "f87028247550"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "outdoor",
+      "meaningInSourceLanguage": "室外的",
+      "id": "e2546625df62",
+      "priority": 0,
+      "group": "0dcf0e17b689"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "outdoor",
+      "meaning": "室外的",
+      "audio": "66c98081773e45eeb4ab188bf3dc3ade",
+      "id": "1577bfc245e8",
+      "priority": 1,
+      "group": "0dcf0e17b689"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spacious",
+      "meaningInSourceLanguage": "宽敞的",
+      "id": "9cafe95ca661",
+      "priority": 0,
+      "group": "8cebd4a8eb8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spacious",
+      "meaning": "宽敞的",
+      "audio": "d288b3d9aee747cdb97fd25b65908d39",
+      "id": "a8c86d9fa71f",
+      "priority": 1,
+      "group": "8cebd4a8eb8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cozy",
+      "meaningInSourceLanguage": "舒适的",
+      "id": "94edd61d2b99",
+      "priority": 0,
+      "group": "f883ccbd8bfe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cozy",
+      "meaning": "舒适的",
+      "audio": "fa9a85c1d1cc464ca04fdd42a9f4f44f",
+      "id": "a9010db38e5e",
+      "priority": 1,
+      "group": "f883ccbd8bfe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "messy",
+      "meaningInSourceLanguage": "凌乱的",
+      "id": "89657b59703f",
+      "priority": 0,
+      "group": "c29080149690"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "messy",
+      "meaning": "凌乱的",
+      "audio": "2a5d1383fad0480abf29b225c3015d01",
+      "id": "8c43eb0f4cb5",
+      "priority": 1,
+      "group": "c29080149690"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "neat",
+      "meaningInSourceLanguage": "整洁的",
+      "id": "bc13b36dc190",
+      "priority": 0,
+      "group": "a88c72e25236"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "neat",
+      "meaning": "整洁的",
+      "audio": "f88a071d07c949f083f67a0da3c3e72e",
+      "id": "7064c5d0b81b",
+      "priority": 1,
+      "group": "a88c72e25236"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "organized",
+      "meaningInSourceLanguage": "有条理的",
+      "id": "e2f73a1b5c95",
+      "priority": 0,
+      "group": "619635099b23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "organized",
+      "meaning": "有条理的",
+      "audio": "04ca3d63195d4ab88f07e4f96b0cba4a",
+      "id": "5fa3a0da03c2",
+      "priority": 1,
+      "group": "619635099b23"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cluttered",
+      "meaningInSourceLanguage": "杂乱的",
+      "id": "0160758c9bd1",
+      "priority": 0,
+      "group": "e89021deae01"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cluttered",
+      "meaning": "杂乱的",
+      "audio": "431416ddbfb24627a1343132f037d235",
+      "id": "32f81eec423c",
+      "priority": 1,
+      "group": "e89021deae01"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "empty",
+      "meaningInSourceLanguage": "空的",
+      "id": "2d3d8cba2be3",
+      "priority": 0,
+      "group": "1ca017c21e6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "empty",
+      "meaning": "空的",
+      "audio": "ad7976ba33bc4a3dbc00606f252a15bd",
+      "id": "ddf5784f825a",
+      "priority": 1,
+      "group": "1ca017c21e6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "furnished",
+      "meaningInSourceLanguage": "带家具的",
+      "id": "eba3ff8402a7",
+      "priority": 0,
+      "group": "4c0468bc6b2c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "furnished",
+      "meaning": "带家具的",
+      "audio": "0db375080d5d4fbb8a7b698eb17cb705",
+      "id": "2bea19e1c4da",
+      "priority": 1,
+      "group": "4c0468bc6b2c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "unfurnished",
+      "meaningInSourceLanguage": "不带家具的",
+      "id": "2030b6e5493e",
+      "priority": 0,
+      "group": "03efa37fd7c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "unfurnished",
+      "meaning": "不带家具的",
+      "audio": "db0cd84a52b44feea0e49798180cae83",
+      "id": "67b8451ea48c",
+      "priority": 1,
+      "group": "03efa37fd7c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "move in",
+      "meaningInSourceLanguage": "搬入",
+      "id": "6637d95f5329",
+      "priority": 0,
+      "group": "bc7366ee0742"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "move in",
+      "meaning": "搬入",
+      "audio": "9fb0c8a104924a04a888dbe3ab807353",
+      "id": "e61339e54834",
+      "priority": 1,
+      "group": "bc7366ee0742"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "move out",
+      "meaningInSourceLanguage": "搬出",
+      "id": "f7aabc374ce4",
+      "priority": 0,
+      "group": "ef37239bdf25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "move out",
+      "meaning": "搬出",
+      "audio": "c9f2513071824d4a81260e53b63e1c88",
+      "id": "f52de97c838d",
+      "priority": 1,
+      "group": "ef37239bdf25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "renovate",
+      "meaningInSourceLanguage": "翻新",
+      "id": "9bc925e22f0a",
+      "priority": 0,
+      "group": "535082f8dab2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "renovate",
+      "meaning": "翻新",
+      "audio": "6b5343fdb16f49a39b5270fbd35ffab5",
+      "id": "5d9e85172461",
+      "priority": 1,
+      "group": "535082f8dab2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "decorate",
+      "meaningInSourceLanguage": "装饰",
+      "id": "2d3caf3a758b",
+      "priority": 0,
+      "group": "f7570e59417a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "decorate",
+      "meaning": "装饰",
+      "audio": "932415bd424b44c197d9834b6d2a9fa0",
+      "id": "b78d31d55ca5",
+      "priority": 1,
+      "group": "f7570e59417a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paint",
+      "meaningInSourceLanguage": "粉刷",
+      "id": "dc08db8312a2",
+      "priority": 0,
+      "group": "6a7f3407000a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paint",
+      "meaning": "粉刷",
+      "audio": "9a5e5351f5764bfb9b12d96f354d596f",
+      "id": "2c8db7d28f1b",
+      "priority": 1,
+      "group": "6a7f3407000a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wallpaper",
+      "meaningInSourceLanguage": "墙纸",
+      "id": "97cc27b82c83",
+      "priority": 0,
+      "group": "ee11ca83494c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wallpaper",
+      "meaning": "墙纸",
+      "audio": "b4317e30863747b4abeb23a24fa4ee25",
+      "id": "7bbdbb9657c3",
+      "priority": 1,
+      "group": "ee11ca83494c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tile",
+      "meaningInSourceLanguage": "瓷砖",
+      "id": "d1ac84c697ae",
+      "priority": 0,
+      "group": "19d3da4beca8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tile",
+      "meaning": "瓷砖",
+      "audio": "09ed7d6cdf364cefba9aa9529bf8917a",
+      "id": "ff2c642b5f47",
+      "priority": 1,
+      "group": "19d3da4beca8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hardwood",
+      "meaningInSourceLanguage": "硬木地板",
+      "id": "6b9564cb205a",
+      "priority": 0,
+      "group": "32c078abb25b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hardwood",
+      "meaning": "硬木地板",
+      "audio": "27dfd811acfe4f539b57d216456c92f8",
+      "id": "0e4b2e249f57",
+      "priority": 1,
+      "group": "32c078abb25b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "laminate",
+      "meaningInSourceLanguage": "复合地板",
+      "id": "b10fc4636e1f",
+      "priority": 0,
+      "group": "48fc4a399d6a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "laminate",
+      "meaning": "复合地板",
+      "audio": "2a3bd1d4c6ce404e99e34e1d3ffd625e",
+      "id": "4ca3b97384d0",
+      "priority": 1,
+      "group": "48fc4a399d6a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marble",
+      "meaningInSourceLanguage": "大理石",
+      "id": "75def78434a7",
+      "priority": 0,
+      "group": "850c322f1fbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marble",
+      "meaning": "大理石",
+      "audio": "151d062fae184294a2fca2bc44099783",
+      "id": "4c06e2b856dd",
+      "priority": 1,
+      "group": "850c322f1fbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "granite",
+      "meaningInSourceLanguage": "花岗岩",
+      "id": "71520a11ed63",
+      "priority": 0,
+      "group": "cb8759989623"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "granite",
+      "meaning": "花岗岩",
+      "audio": "a768db9f201c4ff1a92491044bd21bb4",
+      "id": "e366a9911131",
+      "priority": 1,
+      "group": "cb8759989623"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quartz",
+      "meaningInSourceLanguage": "石英",
+      "id": "365c61ea2291",
+      "priority": 0,
+      "group": "df405ab7edb8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quartz",
+      "meaning": "石英",
+      "audio": "4e8b810e5dd045b38b759bb2d860a0b3",
+      "id": "4ccaab9bef05",
+      "priority": 1,
+      "group": "df405ab7edb8"
+    }
+  ]
+}

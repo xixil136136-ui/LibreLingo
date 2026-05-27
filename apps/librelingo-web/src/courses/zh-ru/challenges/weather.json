@@ -1,0 +1,482 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сегодня солнечно.",
+      "meaningInSourceLanguage": "今天天气晴朗。",
+      "id": "2adf83615a15",
+      "priority": 0,
+      "group": "4d06f758b39c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сегодня солнечно.",
+      "meaning": "今天天气晴朗。",
+      "audio": "afd724c5b74239beb3c57b38790c51180ba93e9954e8cbceec5474276dc21eac",
+      "id": "36ec103ccfe1",
+      "priority": 1,
+      "group": "4d06f758b39c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Будет дождь.",
+      "meaningInSourceLanguage": "要下雨了。",
+      "id": "7bdc095af80c",
+      "priority": 0,
+      "group": "124fbab9bcb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Будет дождь.",
+      "meaning": "要下雨了。",
+      "audio": "2e2645cba126486147066787180a57d8a3f2848bd8c8c473d9cd1d2aabbfab8f",
+      "id": "c4e8950b3fc9",
+      "priority": 1,
+      "group": "124fbab9bcb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "На улице очень холодно.",
+      "meaningInSourceLanguage": "外面很冷。",
+      "id": "1a2cd8a36c50",
+      "priority": 0,
+      "group": "6b97e7e29e52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "На улице очень холодно.",
+      "meaning": "外面很冷。",
+      "audio": "4233573a2b03e3c6c8b7b59a8121a9ba95b2fdf14628f0788f55fe7dc1c05015",
+      "id": "b0cd8941cb89",
+      "priority": 1,
+      "group": "6b97e7e29e52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Возьмите зонтик.",
+      "meaningInSourceLanguage": "带上雨伞。",
+      "id": "c06ef0c08bf1",
+      "priority": 0,
+      "group": "9343a87c5f60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Возьмите зонтик.",
+      "meaning": "带上雨伞。",
+      "audio": "35697340720a545ec018789d9193925a7b94ffefd16e5c54c5ca4941e2de5c19",
+      "id": "80679321bea0",
+      "priority": 1,
+      "group": "9343a87c5f60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Какая температура?",
+      "meaningInSourceLanguage": "多少度？",
+      "id": "3b9a17e8771e",
+      "priority": 0,
+      "group": "3a3988d85eb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Какая температура?",
+      "meaning": "多少度？",
+      "audio": "961d5fec71b380c068c9bf391b004824341e2e0673e04505951c40720a912af6",
+      "id": "5c0ee687d029",
+      "priority": 1,
+      "group": "3a3988d85eb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Идёт снег.",
+      "meaningInSourceLanguage": "下雪了。",
+      "id": "7e10ca445c0b",
+      "priority": 0,
+      "group": "e1ce0305c132"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Идёт снег.",
+      "meaning": "下雪了。",
+      "audio": "c4ac8b927f6adcdbd63d919ef33b47dcaebc264da300fb51debf7777b1bdfd26",
+      "id": "5c5bdbcfc014",
+      "priority": 1,
+      "group": "e1ce0305c132"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сегодня тепло.",
+      "meaningInSourceLanguage": "今天很暖和。",
+      "id": "741aabc7a184",
+      "priority": 0,
+      "group": "c4e8ab3107f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сегодня тепло.",
+      "meaning": "今天很暖和。",
+      "audio": "e60e0fbc3b680a16b6e9eb04af4ed3ed1ddc7b2814bf7847893881dc048d4b04",
+      "id": "b8025dd0c98b",
+      "priority": 1,
+      "group": "c4e8ab3107f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ветрено.",
+      "meaningInSourceLanguage": "刮风了。",
+      "id": "16458664c70b",
+      "priority": 0,
+      "group": "24024e76f792"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ветрено.",
+      "meaning": "刮风了。",
+      "audio": "3b361413b606359b0da46bead457a2287166022e58b9af223c634025048e9941",
+      "id": "d7619651878c",
+      "priority": 1,
+      "group": "24024e76f792"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "солнечно",
+      "meaningInSourceLanguage": "晴天",
+      "id": "db30ae576ec5",
+      "priority": 0,
+      "group": "66f5d77455d9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "солнечно"
+      ],
+      "phrase": [
+        {
+          "word": "晴天",
+          "definition": "солнечно"
+        }
+      ],
+      "id": "b0a2df2d1a13",
+      "priority": 1,
+      "group": "66f5d77455d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "солнечно",
+      "meaning": "晴天",
+      "audio": "30ec14d745000066556ec0e5b42b2ebd992ee6b0111d4ae88017ea7ae19c5bb0",
+      "id": "252215a22ef6",
+      "priority": 1,
+      "group": "66f5d77455d9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дождь",
+      "meaningInSourceLanguage": "雨",
+      "id": "df728e3d363a",
+      "priority": 0,
+      "group": "201c91ba7e59"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дождь"
+      ],
+      "phrase": [
+        {
+          "word": "雨",
+          "definition": "дождь"
+        }
+      ],
+      "id": "fbbaae4db272",
+      "priority": 1,
+      "group": "201c91ba7e59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дождь",
+      "meaning": "雨",
+      "audio": "45a54f9fdedf8b15f6182441d1e8cce015d591c4285a6df44d4037c1b2e49287",
+      "id": "784d9d595fa2",
+      "priority": 1,
+      "group": "201c91ba7e59"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "снег",
+      "meaningInSourceLanguage": "雪",
+      "id": "d9bd6af44316",
+      "priority": 0,
+      "group": "87f346289aae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "снег"
+      ],
+      "phrase": [
+        {
+          "word": "雪",
+          "definition": "снег"
+        }
+      ],
+      "id": "6ad506db3be9",
+      "priority": 1,
+      "group": "87f346289aae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "снег",
+      "meaning": "雪",
+      "audio": "7057b5f15cc609086cd4087d63e6b8d9567ae6acd209b91c9393c0f9dfcd8bd2",
+      "id": "ce19b1cf34ab",
+      "priority": 1,
+      "group": "87f346289aae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ветер",
+      "meaningInSourceLanguage": "风",
+      "id": "c8dba84ff7b2",
+      "priority": 0,
+      "group": "0ff4fc1f29ab"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ветер"
+      ],
+      "phrase": [
+        {
+          "word": "风",
+          "definition": "ветер"
+        }
+      ],
+      "id": "6e2f2186305e",
+      "priority": 1,
+      "group": "0ff4fc1f29ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ветер",
+      "meaning": "风",
+      "audio": "e7566bde1d8e3d82574a0dfde8641361a74c557be3963d872e840bdb11c3abde",
+      "id": "acea6035d692",
+      "priority": 1,
+      "group": "0ff4fc1f29ab"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "облачно",
+      "meaningInSourceLanguage": "云",
+      "id": "88ef58fe68aa",
+      "priority": 0,
+      "group": "6e2a5728ab01"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "облачно"
+      ],
+      "phrase": [
+        {
+          "word": "云",
+          "definition": "облачно"
+        }
+      ],
+      "id": "538d79717213",
+      "priority": 1,
+      "group": "6e2a5728ab01"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "облачно",
+      "meaning": "云",
+      "audio": "d9a5c7dd1a586729e804bfe3f1edc2668c5c82aea8d810624301c2a00c01c770",
+      "id": "d27abfac1a07",
+      "priority": 1,
+      "group": "6e2a5728ab01"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "холодно",
+      "meaningInSourceLanguage": "冷",
+      "id": "132764abcc97",
+      "priority": 0,
+      "group": "40a8d818a090"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "холодно"
+      ],
+      "phrase": [
+        {
+          "word": "冷",
+          "definition": "холодно"
+        }
+      ],
+      "id": "e8112d54f5ce",
+      "priority": 1,
+      "group": "40a8d818a090"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "холодно",
+      "meaning": "冷",
+      "audio": "3f540dfe5c2b3de165264871ace4138a22a77955c7043ac28c8f585dfdc33f22",
+      "id": "3973a9bae3a1",
+      "priority": 1,
+      "group": "40a8d818a090"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "жарко",
+      "meaningInSourceLanguage": "热",
+      "id": "655618b02b81",
+      "priority": 0,
+      "group": "a2904f698996"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "жарко"
+      ],
+      "phrase": [
+        {
+          "word": "热",
+          "definition": "жарко"
+        }
+      ],
+      "id": "c5d79db66e08",
+      "priority": 1,
+      "group": "a2904f698996"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "жарко",
+      "meaning": "热",
+      "audio": "b04243127cce1b534fc7fafa7c00ee6fcd02f654ff4e4d43f3231f893bbb56d2",
+      "id": "70bb810c82a1",
+      "priority": 1,
+      "group": "a2904f698996"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "тепло",
+      "meaningInSourceLanguage": "温暖",
+      "id": "6974ae8d55e4",
+      "priority": 0,
+      "group": "1f3ad4d97b5b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "тепло"
+      ],
+      "phrase": [
+        {
+          "word": "温暖",
+          "definition": "тепло"
+        }
+      ],
+      "id": "9b33a12b41e3",
+      "priority": 1,
+      "group": "1f3ad4d97b5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тепло",
+      "meaning": "温暖",
+      "audio": "0e4616fd6bb67e8eeaab5a64382dfd16fa8f0bdedcac7f572d1ad1e4d9530207",
+      "id": "9ab1e08a0d6c",
+      "priority": 1,
+      "group": "1f3ad4d97b5b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "температура",
+      "meaningInSourceLanguage": "温度",
+      "id": "10d644482e8f",
+      "priority": 0,
+      "group": "b353f810e4c2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "температура"
+      ],
+      "phrase": [
+        {
+          "word": "温度",
+          "definition": "температура"
+        }
+      ],
+      "id": "a430ac64589d",
+      "priority": 1,
+      "group": "b353f810e4c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "температура",
+      "meaning": "温度",
+      "audio": "cb4feb63083ceecae54c272927c5f14f87f1da2826b529b6257cf54f2da2b3f3",
+      "id": "ab351f4b0f23",
+      "priority": 1,
+      "group": "b353f810e4c2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "зонтик",
+      "meaningInSourceLanguage": "雨伞",
+      "id": "5f3116f80088",
+      "priority": 0,
+      "group": "a3f029fe4c76"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "зонтик"
+      ],
+      "phrase": [
+        {
+          "word": "雨伞",
+          "definition": "зонтик"
+        }
+      ],
+      "id": "7700bbe2b14b",
+      "priority": 1,
+      "group": "a3f029fe4c76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "зонтик",
+      "meaning": "雨伞",
+      "audio": "b122fb1fcd3f3f1e02da79da549361ad3a92b1866c4dc74f67a537ed2374d012",
+      "id": "d5d065d69e48",
+      "priority": 1,
+      "group": "a3f029fe4c76"
+    }
+  ]
+}

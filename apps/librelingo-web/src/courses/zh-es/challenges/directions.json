@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gire a la izquierda aquí.",
+      "meaningInSourceLanguage": "在这里左转。",
+      "id": "f7cffda2e72e",
+      "priority": 0,
+      "group": "8756fdf0949c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gire a la izquierda aquí.",
+      "meaning": "在这里左转。",
+      "audio": "d427a869218b6ef7fc1497106beca221e375c6187ba06853c0b6a4eacbe77b18",
+      "id": "ff41cb82276d",
+      "priority": 1,
+      "group": "8756fdf0949c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Siga recto.",
+      "meaningInSourceLanguage": "一直往前走。",
+      "id": "0a46fe3aa79f",
+      "priority": 0,
+      "group": "bb6373f9b425"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Siga recto.",
+      "meaning": "一直往前走。",
+      "audio": "c430ad87173d78122b1849821b5a00c981ba435691279b35a2badeaa9e931cf4",
+      "id": "9658bca33d40",
+      "priority": 1,
+      "group": "bb6373f9b425"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Dónde está la estación?",
+      "meaningInSourceLanguage": "车站在哪里？",
+      "id": "f5ea4b963261",
+      "priority": 0,
+      "group": "a2aee3d01c84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Dónde está la estación?",
+      "meaning": "车站在哪里？",
+      "audio": "07dd4f1cecf2f7df5647aa822af643b377093df8ac637998f630af0b8c800ae9",
+      "id": "ca5ee25aecde",
+      "priority": 1,
+      "group": "a2aee3d01c84"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Está lejos de aquí?",
+      "meaningInSourceLanguage": "离这里远吗？",
+      "id": "859ba02392d1",
+      "priority": 0,
+      "group": "6e3507715bb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Está lejos de aquí?",
+      "meaning": "离这里远吗？",
+      "audio": "87270e50de412312910d246c83b6d99a09ad0bfa5ea434251218887a892650d3",
+      "id": "e90b9bf088a9",
+      "priority": 1,
+      "group": "6e3507715bb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Necesito un mapa.",
+      "meaningInSourceLanguage": "我需要一张地图。",
+      "id": "d8174dd2225b",
+      "priority": 0,
+      "group": "feee74395447"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Necesito un mapa.",
+      "meaning": "我需要一张地图。",
+      "audio": "8658881f53d7a9a589e9462bd2d63955c480f5c9e735b00b869e145df3456ba3",
+      "id": "d9d16390d775",
+      "priority": 1,
+      "group": "feee74395447"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "izquierda",
+      "meaningInSourceLanguage": "左边",
+      "id": "cd407c5f5a81",
+      "priority": 0,
+      "group": "dab5d123b894"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "izquierda"
+      ],
+      "phrase": [
+        {
+          "word": "左边",
+          "definition": "izquierda"
+        }
+      ],
+      "id": "be5cabc23846",
+      "priority": 1,
+      "group": "dab5d123b894"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "izquierda",
+      "meaning": "左边",
+      "audio": "5919cba2f16c33d73e0532f1874b12cb96c451d423d4bf33c4d3ec5aed19480d",
+      "id": "bc4b588e7136",
+      "priority": 1,
+      "group": "dab5d123b894"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "derecha",
+      "meaningInSourceLanguage": "右边",
+      "id": "b33afe1e1663",
+      "priority": 0,
+      "group": "2fe9b31da4ee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "derecha"
+      ],
+      "phrase": [
+        {
+          "word": "右边",
+          "definition": "derecha"
+        }
+      ],
+      "id": "399a2df92526",
+      "priority": 1,
+      "group": "2fe9b31da4ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "derecha",
+      "meaning": "右边",
+      "audio": "30608f1318827e13caca1adb3f6483fdf72bfcf82b393eaa880d14902a561081",
+      "id": "e50b9f04455e",
+      "priority": 1,
+      "group": "2fe9b31da4ee"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "recto",
+      "meaningInSourceLanguage": "直走",
+      "id": "1b5056ea7345",
+      "priority": 0,
+      "group": "9982424ef6a9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "recto"
+      ],
+      "phrase": [
+        {
+          "word": "直走",
+          "definition": "recto"
+        }
+      ],
+      "id": "77d0294e730d",
+      "priority": 1,
+      "group": "9982424ef6a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recto",
+      "meaning": "直走",
+      "audio": "8315789f6af00ef6f4beecfcf9747f98a2a1f278563a977b2511ad334d84a167",
+      "id": "aa1b59b1bbb7",
+      "priority": 1,
+      "group": "9982424ef6a9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "aquí",
+      "meaningInSourceLanguage": "这里",
+      "id": "d2cda6a146bb",
+      "priority": 0,
+      "group": "d27d6d4710d6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "aquí"
+      ],
+      "phrase": [
+        {
+          "word": "这里",
+          "definition": "aquí"
+        }
+      ],
+      "id": "59faee4ee140",
+      "priority": 1,
+      "group": "d27d6d4710d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aquí",
+      "meaning": "这里",
+      "audio": "2a53613921a68e60271680add503a58a85ad236504e1e1155d3bef8854462b70",
+      "id": "8a6118fcb55e",
+      "priority": 1,
+      "group": "d27d6d4710d6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "allí",
+      "meaningInSourceLanguage": "那里",
+      "id": "d04bf3f7fae9",
+      "priority": 0,
+      "group": "e28b6e7c4031"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "allí"
+      ],
+      "phrase": [
+        {
+          "word": "那里",
+          "definition": "allí"
+        }
+      ],
+      "id": "d3a775b3c1d4",
+      "priority": 1,
+      "group": "e28b6e7c4031"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "allí",
+      "meaning": "那里",
+      "audio": "9f75b2084f39f6920bd0a2dc63af1415fb0300c24b12d1c0381d0630ded5ddf5",
+      "id": "09090868193e",
+      "priority": 1,
+      "group": "e28b6e7c4031"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cerca",
+      "meaningInSourceLanguage": "附近",
+      "id": "28e69a37c068",
+      "priority": 0,
+      "group": "3f10e098fba8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cerca"
+      ],
+      "phrase": [
+        {
+          "word": "附近",
+          "definition": "cerca"
+        }
+      ],
+      "id": "9b30c4108970",
+      "priority": 1,
+      "group": "3f10e098fba8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cerca",
+      "meaning": "附近",
+      "audio": "5666bc0516ad41373fca31c91332c1b0b0852d9ddf3db50e57a9fdd284cf677b",
+      "id": "f8a3fe87e7b3",
+      "priority": 1,
+      "group": "3f10e098fba8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "lejos",
+      "meaningInSourceLanguage": "远",
+      "id": "e244b8c8d15e",
+      "priority": 0,
+      "group": "f089b8d3f178"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "lejos"
+      ],
+      "phrase": [
+        {
+          "word": "远",
+          "definition": "lejos"
+        }
+      ],
+      "id": "efd8fb98a923",
+      "priority": 1,
+      "group": "f089b8d3f178"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lejos",
+      "meaning": "远",
+      "audio": "6ce81fb905c9f3543a589fa3ddb7cd0e581980d07e620eb83f09bacc40675588",
+      "id": "8c0de12deaa9",
+      "priority": 1,
+      "group": "f089b8d3f178"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "mapa",
+      "meaningInSourceLanguage": "地图",
+      "id": "5cfbda7aa004",
+      "priority": 0,
+      "group": "b809c5e77455"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "mapa"
+      ],
+      "phrase": [
+        {
+          "word": "地图",
+          "definition": "mapa"
+        }
+      ],
+      "id": "f5d55c45dc50",
+      "priority": 1,
+      "group": "b809c5e77455"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mapa",
+      "meaning": "地图",
+      "audio": "0c37caee73a82b5c4bb1be44d1fc88d29b5e9514b051f029dee9914aeec74660",
+      "id": "51afbbcdf03a",
+      "priority": 1,
+      "group": "b809c5e77455"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "calle",
+      "meaningInSourceLanguage": "街道",
+      "id": "99824cdd8955",
+      "priority": 0,
+      "group": "69e72ae11386"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "calle"
+      ],
+      "phrase": [
+        {
+          "word": "街道",
+          "definition": "calle"
+        }
+      ],
+      "id": "5e6964793799",
+      "priority": 1,
+      "group": "69e72ae11386"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calle",
+      "meaning": "街道",
+      "audio": "db21c19b9b9faebdcb21ff4b119491ad642cc50e239173e71f14e83601ca8d73",
+      "id": "cca0a28c487c",
+      "priority": 1,
+      "group": "69e72ae11386"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "carretera",
+      "meaningInSourceLanguage": "路",
+      "id": "fce1d683b753",
+      "priority": 0,
+      "group": "78b46eaf65c3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "carretera"
+      ],
+      "phrase": [
+        {
+          "word": "路",
+          "definition": "carretera"
+        }
+      ],
+      "id": "137f62a7877a",
+      "priority": 1,
+      "group": "78b46eaf65c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carretera",
+      "meaning": "路",
+      "audio": "359359b8fa944884df27e42b49927761f1bc04e2cca0f637a5ac8a6872db0a86",
+      "id": "de298f4e6566",
+      "priority": 1,
+      "group": "78b46eaf65c3"
+    }
+  ]
+}

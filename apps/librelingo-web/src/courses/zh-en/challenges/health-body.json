@@ -1,0 +1,771 @@
+{
+  "id": "245106c7b39e",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "doctor",
+      "meaningInSourceLanguage": "医生",
+      "id": "4c475dc20564",
+      "priority": 0,
+      "group": "b82a63ff2b74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doctor",
+      "meaning": "医生",
+      "audio": "55fd890a6bfa413a9ca6090f9050e4af",
+      "id": "bc9ba5242886",
+      "priority": 1,
+      "group": "b82a63ff2b74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nurse",
+      "meaningInSourceLanguage": "护士",
+      "id": "2e53d79b5918",
+      "priority": 0,
+      "group": "334ef6340579"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nurse",
+      "meaning": "护士",
+      "audio": "e5e9cf84ded7453ba306f6234ad49448",
+      "id": "f29902388396",
+      "priority": 1,
+      "group": "334ef6340579"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hospital",
+      "meaningInSourceLanguage": "医院",
+      "id": "f3707ce58071",
+      "priority": 0,
+      "group": "66e420d865ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hospital",
+      "meaning": "医院",
+      "audio": "94db88bd06c74f82b97519029375460d",
+      "id": "6cded834b06a",
+      "priority": 1,
+      "group": "66e420d865ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clinic",
+      "meaningInSourceLanguage": "诊所",
+      "id": "e0678519b479",
+      "priority": 0,
+      "group": "a4e7a9e51c46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clinic",
+      "meaning": "诊所",
+      "audio": "d6d240497a3d4eb080bd68da73755bed",
+      "id": "f8530b178f05",
+      "priority": 1,
+      "group": "a4e7a9e51c46"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pharmacy",
+      "meaningInSourceLanguage": "药房",
+      "id": "9243e5731d0f",
+      "priority": 0,
+      "group": "b0aeabe26258"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pharmacy",
+      "meaning": "药房",
+      "audio": "6ff3cc2309e748d0a0d34ff5fd48d3b6",
+      "id": "9fa87214b046",
+      "priority": 1,
+      "group": "b0aeabe26258"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "medicine",
+      "meaningInSourceLanguage": "药",
+      "id": "c58369f52554",
+      "priority": 0,
+      "group": "8a4ed70afd3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "medicine",
+      "meaning": "药",
+      "audio": "ac459723199a4cbdb60a75af2c4bbafd",
+      "id": "734660441471",
+      "priority": 1,
+      "group": "8a4ed70afd3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pill",
+      "meaningInSourceLanguage": "药片",
+      "id": "38c1cf7a9263",
+      "priority": 0,
+      "group": "42730dd439c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pill",
+      "meaning": "药片",
+      "audio": "0bb3641738f34e7caa8b9d0183daad6e",
+      "id": "6ac9dd712119",
+      "priority": 1,
+      "group": "42730dd439c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tablet",
+      "meaningInSourceLanguage": "药片",
+      "id": "0e579fe07e88",
+      "priority": 0,
+      "group": "47a49bee3dc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tablet",
+      "meaning": "药片",
+      "audio": "fd222de03d80432a9970f61ff887112f",
+      "id": "4591de332af4",
+      "priority": 1,
+      "group": "47a49bee3dc7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "capsule",
+      "meaningInSourceLanguage": "胶囊",
+      "id": "c045faaf69e9",
+      "priority": 0,
+      "group": "a3baaab9766a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "capsule",
+      "meaning": "胶囊",
+      "audio": "a0f0b7039e3942f99da46741a6689bef",
+      "id": "92253b9a063e",
+      "priority": 1,
+      "group": "a3baaab9766a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "syrup",
+      "meaningInSourceLanguage": "糖浆",
+      "id": "eb2a386eeccf",
+      "priority": 0,
+      "group": "e8f440144a43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "syrup",
+      "meaning": "糖浆",
+      "audio": "02afc97f2e55455494233bd179da93b3",
+      "id": "b00793d8ef54",
+      "priority": 1,
+      "group": "e8f440144a43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "injection",
+      "meaningInSourceLanguage": "注射",
+      "id": "957276a4b9f7",
+      "priority": 0,
+      "group": "f7c65e8b9062"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "injection",
+      "meaning": "注射",
+      "audio": "2582a4b77b5442229bc9a1b8ec1c28f3",
+      "id": "3ff979ff20e8",
+      "priority": 1,
+      "group": "f7c65e8b9062"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vaccine",
+      "meaningInSourceLanguage": "疫苗",
+      "id": "9dcd71a56e53",
+      "priority": 0,
+      "group": "15a040e0e6f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vaccine",
+      "meaning": "疫苗",
+      "audio": "69dc91ccd08c439fa0df2c8a0fbbecbb",
+      "id": "da4bd0ac4d3d",
+      "priority": 1,
+      "group": "15a040e0e6f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prescription",
+      "meaningInSourceLanguage": "处方",
+      "id": "672514efb453",
+      "priority": 0,
+      "group": "d38ddcc456fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prescription",
+      "meaning": "处方",
+      "audio": "f58cbf68229341919192dea2a93063af",
+      "id": "760833147505",
+      "priority": 1,
+      "group": "d38ddcc456fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "symptom",
+      "meaningInSourceLanguage": "症状",
+      "id": "c82a3c2b0474",
+      "priority": 0,
+      "group": "9fa715b38865"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "symptom",
+      "meaning": "症状",
+      "audio": "8124b421e74a46c28f3c74f823705468",
+      "id": "465f3eaf1211",
+      "priority": 1,
+      "group": "9fa715b38865"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fever",
+      "meaningInSourceLanguage": "发烧",
+      "id": "7c9033270425",
+      "priority": 0,
+      "group": "47c44d3a2bca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fever",
+      "meaning": "发烧",
+      "audio": "b56e6b3704034b22a5e4c4a5cd6eb041",
+      "id": "440942a48b75",
+      "priority": 1,
+      "group": "47c44d3a2bca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cough",
+      "meaningInSourceLanguage": "咳嗽",
+      "id": "3eddbc844531",
+      "priority": 0,
+      "group": "17afd8c3a148"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cough",
+      "meaning": "咳嗽",
+      "audio": "4e968d97deb44820b06adabdd1b2760d",
+      "id": "5e751c668774",
+      "priority": 1,
+      "group": "17afd8c3a148"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cold",
+      "meaningInSourceLanguage": "感冒",
+      "id": "a80a7f3509ce",
+      "priority": 0,
+      "group": "65c33e3d3e57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cold",
+      "meaning": "感冒",
+      "audio": "a1d37d2c4e8846ddaaf290a54e4c3f1d",
+      "id": "b8a9976dd170",
+      "priority": 1,
+      "group": "65c33e3d3e57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flu",
+      "meaningInSourceLanguage": "流感",
+      "id": "99796ef2eba7",
+      "priority": 0,
+      "group": "8018f0d192fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flu",
+      "meaning": "流感",
+      "audio": "89e34a16b4c645d198d2f77447fa91e1",
+      "id": "ea500cd172ec",
+      "priority": 1,
+      "group": "8018f0d192fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "headache",
+      "meaningInSourceLanguage": "头痛",
+      "id": "63670120eedc",
+      "priority": 0,
+      "group": "27f79512f178"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "headache",
+      "meaning": "头痛",
+      "audio": "4dc4c73e29f744f0a41da5521deaf6b8",
+      "id": "3542ed4d46a2",
+      "priority": 1,
+      "group": "27f79512f178"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stomachache",
+      "meaningInSourceLanguage": "胃痛",
+      "id": "7bb60e8d337e",
+      "priority": 0,
+      "group": "01b67719884f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stomachache",
+      "meaning": "胃痛",
+      "audio": "7c85d19b6a864df2b46c41bfd5f9910c",
+      "id": "3ea32ea3e155",
+      "priority": 1,
+      "group": "01b67719884f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toothache",
+      "meaningInSourceLanguage": "牙痛",
+      "id": "278beb3f0065",
+      "priority": 0,
+      "group": "f63e4a25c317"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toothache",
+      "meaning": "牙痛",
+      "audio": "f471010deb164ae598cac16cecc3b54c",
+      "id": "1218912479c9",
+      "priority": 1,
+      "group": "f63e4a25c317"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sore throat",
+      "meaningInSourceLanguage": "喉咙痛",
+      "id": "b56b2b4be920",
+      "priority": 0,
+      "group": "f3303b50e20c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sore throat",
+      "meaning": "喉咙痛",
+      "audio": "8fda7c4899394bac908554bfc186dce0",
+      "id": "258ae1a5bb9d",
+      "priority": 1,
+      "group": "f3303b50e20c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "runny nose",
+      "meaningInSourceLanguage": "流鼻涕",
+      "id": "070fa0be518b",
+      "priority": 0,
+      "group": "366d86a159c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "runny nose",
+      "meaning": "流鼻涕",
+      "audio": "39a922db0316433da4e02e96fda0f424",
+      "id": "82be5bc06f7e",
+      "priority": 1,
+      "group": "366d86a159c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "allergy",
+      "meaningInSourceLanguage": "过敏",
+      "id": "c7214c245a1f",
+      "priority": 0,
+      "group": "3d4abcc0850b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "allergy",
+      "meaning": "过敏",
+      "audio": "a88686ba108b43489356e9df0d1d413a",
+      "id": "d5e2c3091c88",
+      "priority": 1,
+      "group": "3d4abcc0850b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "infection",
+      "meaningInSourceLanguage": "感染",
+      "id": "39b51475582a",
+      "priority": 0,
+      "group": "b25ac194ce7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "infection",
+      "meaning": "感染",
+      "audio": "49bdbe54212748e988deee94fc5481c0",
+      "id": "5fe6ad80052f",
+      "priority": 1,
+      "group": "b25ac194ce7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "inflammation",
+      "meaningInSourceLanguage": "炎症",
+      "id": "116967817336",
+      "priority": 0,
+      "group": "4e88efb36afa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "inflammation",
+      "meaning": "炎症",
+      "audio": "98371cbbbcfc4da0802bb289d276e1b3",
+      "id": "b893908d97f4",
+      "priority": 1,
+      "group": "4e88efb36afa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wound",
+      "meaningInSourceLanguage": "伤口",
+      "id": "a1dd66d2fa39",
+      "priority": 0,
+      "group": "103004d5da48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wound",
+      "meaning": "伤口",
+      "audio": "61a1a6e713164ec189d188e1eba45b1d",
+      "id": "2d688efc5415",
+      "priority": 1,
+      "group": "103004d5da48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bruise",
+      "meaningInSourceLanguage": "瘀伤",
+      "id": "10c25d4dc463",
+      "priority": 0,
+      "group": "77f64d2bcf26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bruise",
+      "meaning": "瘀伤",
+      "audio": "4bab651b9a54459f8ec5d436cad403d8",
+      "id": "6083b2002e24",
+      "priority": 1,
+      "group": "77f64d2bcf26"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fracture",
+      "meaningInSourceLanguage": "骨折",
+      "id": "46d615e12657",
+      "priority": 0,
+      "group": "357872759755"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fracture",
+      "meaning": "骨折",
+      "audio": "3e048b13d8044c928e90be3da128c8f9",
+      "id": "b9630af8ec7c",
+      "priority": 1,
+      "group": "357872759755"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sprain",
+      "meaningInSourceLanguage": "扭伤",
+      "id": "a23035e68b63",
+      "priority": 0,
+      "group": "348c275c0c69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sprain",
+      "meaning": "扭伤",
+      "audio": "dcaba71b3fd94570b7241ddb6bc02e0b",
+      "id": "bdb3bc5c9465",
+      "priority": 1,
+      "group": "348c275c0c69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pain",
+      "meaningInSourceLanguage": "疼痛",
+      "id": "eabe98ad0d6a",
+      "priority": 0,
+      "group": "aca16b00479b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pain",
+      "meaning": "疼痛",
+      "audio": "467999c9360a47a3bbc058a401d4bb45",
+      "id": "10a9058c738b",
+      "priority": 1,
+      "group": "aca16b00479b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ache",
+      "meaningInSourceLanguage": "疼痛",
+      "id": "fa589becdaa1",
+      "priority": 0,
+      "group": "42566fce84aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ache",
+      "meaning": "疼痛",
+      "audio": "f8fe7789e642472ab269a33fccfd3397",
+      "id": "f23ee158a764",
+      "priority": 1,
+      "group": "42566fce84aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dizzy",
+      "meaningInSourceLanguage": "头晕的",
+      "id": "4d1f868de2f6",
+      "priority": 0,
+      "group": "fa262a81dab5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dizzy",
+      "meaning": "头晕的",
+      "audio": "814a5a01d81849f6a305b6378c4e24fa",
+      "id": "eab1a7de85c5",
+      "priority": 1,
+      "group": "fa262a81dab5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nausea",
+      "meaningInSourceLanguage": "恶心",
+      "id": "0c8a1479545a",
+      "priority": 0,
+      "group": "5c41ea8709b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nausea",
+      "meaning": "恶心",
+      "audio": "01e21338a0434a388d5589723e06d0d3",
+      "id": "2c9096e8c9f6",
+      "priority": 1,
+      "group": "5c41ea8709b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vomit",
+      "meaningInSourceLanguage": "呕吐",
+      "id": "6f4dd55abce1",
+      "priority": 0,
+      "group": "2f3703252bbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vomit",
+      "meaning": "呕吐",
+      "audio": "1cc78797b0d94e079215b86c76b3e4a6",
+      "id": "dfa224e8efbf",
+      "priority": 1,
+      "group": "2f3703252bbb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diarrhea",
+      "meaningInSourceLanguage": "腹泻",
+      "id": "4fdf502d05f4",
+      "priority": 0,
+      "group": "6a52dde8f5e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diarrhea",
+      "meaning": "腹泻",
+      "audio": "8e5084f99d5545c19ea8103ce4c49547",
+      "id": "7431725dbef6",
+      "priority": 1,
+      "group": "6a52dde8f5e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "constipation",
+      "meaningInSourceLanguage": "便秘",
+      "id": "dfc813dc8b22",
+      "priority": 0,
+      "group": "e632fffc01b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "constipation",
+      "meaning": "便秘",
+      "audio": "c6ff4c494108491b9b708f7b4c972cdf",
+      "id": "ea11f35c198e",
+      "priority": 1,
+      "group": "e632fffc01b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "insomnia",
+      "meaningInSourceLanguage": "失眠",
+      "id": "9f804055c144",
+      "priority": 0,
+      "group": "d03dd4bb252c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "insomnia",
+      "meaning": "失眠",
+      "audio": "360d725817bc4cc7865218be348ee9e8",
+      "id": "3870e40745c2",
+      "priority": 1,
+      "group": "d03dd4bb252c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blood pressure",
+      "meaningInSourceLanguage": "血压",
+      "id": "d56c7d9f21fd",
+      "priority": 0,
+      "group": "1ae0d2898c1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blood pressure",
+      "meaning": "血压",
+      "audio": "971dd5fef5424b0d97f139966cf6b339",
+      "id": "207646c892c9",
+      "priority": 1,
+      "group": "1ae0d2898c1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diabetes",
+      "meaningInSourceLanguage": "糖尿病",
+      "id": "b1fb9fbde89d",
+      "priority": 0,
+      "group": "0df98b9abdc2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diabetes",
+      "meaning": "糖尿病",
+      "audio": "5d1d045b2f194069834a042d2e84ddb7",
+      "id": "20466e12e005",
+      "priority": 1,
+      "group": "0df98b9abdc2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "asthma",
+      "meaningInSourceLanguage": "哮喘",
+      "id": "6239bc554c28",
+      "priority": 0,
+      "group": "48758fcf99a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "asthma",
+      "meaning": "哮喘",
+      "audio": "692049e501db466cb242d534ba81a832",
+      "id": "53870964bd2f",
+      "priority": 1,
+      "group": "48758fcf99a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cancer",
+      "meaningInSourceLanguage": "癌症",
+      "id": "924e292e967f",
+      "priority": 0,
+      "group": "508987da3d1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cancer",
+      "meaning": "癌症",
+      "audio": "9f6c4fdc6d694e5ab0222294e1247396",
+      "id": "36847a392675",
+      "priority": 1,
+      "group": "508987da3d1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heart disease",
+      "meaningInSourceLanguage": "心脏病",
+      "id": "b860e56dee01",
+      "priority": 0,
+      "group": "903a2536040b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heart disease",
+      "meaning": "心脏病",
+      "audio": "cc94563f48c74142be37525b3f818edc",
+      "id": "d652e0a94acf",
+      "priority": 1,
+      "group": "903a2536040b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stroke",
+      "meaningInSourceLanguage": "中风",
+      "id": "fe5008636d0f",
+      "priority": 0,
+      "group": "14333e63445d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stroke",
+      "meaning": "中风",
+      "audio": "e19d874ec4124e0a89b546d02dc3f427",
+      "id": "21e7ae23747b",
+      "priority": 1,
+      "group": "14333e63445d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "surgery",
+      "meaningInSourceLanguage": "手术",
+      "id": "9f601e794cf3",
+      "priority": 0,
+      "group": "12966e4c2888"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "surgery",
+      "meaning": "手术",
+      "audio": "f8cb8ae9e4f540e8824685a650750451",
+      "id": "389a94cba4b0",
+      "priority": 1,
+      "group": "12966e4c2888"
+    }
+  ]
+}

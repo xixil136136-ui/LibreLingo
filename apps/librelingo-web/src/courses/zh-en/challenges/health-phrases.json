@@ -1,0 +1,312 @@
+{
+  "id": "2090f4cee53d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I don't feel well.",
+      "meaningInSourceLanguage": "我不舒服。",
+      "id": "f6c5b4a5ae9c",
+      "priority": 0,
+      "group": "d9e8c8d00885"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I don't feel well.",
+      "meaning": "我不舒服。",
+      "audio": "5090efcd4461428202af9c13cfffa28f47d40a6d8a8d7588862973bc54615940",
+      "id": "90b47bb50a0a",
+      "priority": 1,
+      "group": "d9e8c8d00885"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have a headache.",
+      "meaningInSourceLanguage": "我头痛。",
+      "id": "5d07d65a6fb5",
+      "priority": 0,
+      "group": "e07b9a403a55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have a headache.",
+      "meaning": "我头痛。",
+      "audio": "d94b1391a08e1385704d2d4adba2b828261a45eae7814329cb944f179fc8b6e1",
+      "id": "3140778b28f9",
+      "priority": 1,
+      "group": "e07b9a403a55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where does it hurt?",
+      "meaningInSourceLanguage": "哪里疼？",
+      "id": "f33d56a513f9",
+      "priority": 0,
+      "group": "fbc59060230a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where does it hurt?",
+      "meaning": "哪里疼？",
+      "audio": "604bc5d2e61599ce6a70d65059d68741f51d8f31583d1090ab1a15b4dfc8ea3e",
+      "id": "b289dce9a919",
+      "priority": 1,
+      "group": "fbc59060230a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a doctor.",
+      "meaningInSourceLanguage": "我需要看医生。",
+      "id": "ccc4ca9a646b",
+      "priority": 0,
+      "group": "3d5c96975644"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a doctor.",
+      "meaning": "我需要看医生。",
+      "audio": "3815bc2cb0488797af3f3796d2ab977d63e27313b309461cb179e4eaa26d9f34",
+      "id": "723ac7e06ec9",
+      "priority": 1,
+      "group": "3d5c96975644"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have any allergies?",
+      "meaningInSourceLanguage": "你有过敏症吗？",
+      "id": "5a0063e3f8c5",
+      "priority": 0,
+      "group": "2a42888b3e67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have any allergies?",
+      "meaning": "你有过敏症吗？",
+      "audio": "fa6ba755526705eebd8031b2f0dc794e96dd46a45f5ba8ed392ce932311eb61c",
+      "id": "bde907df1c80",
+      "priority": 1,
+      "group": "2a42888b3e67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Take this medicine twice a day.",
+      "meaningInSourceLanguage": "这个药一天吃两次。",
+      "id": "16399df04079",
+      "priority": 0,
+      "group": "6e2f43850b82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Take this medicine twice a day.",
+      "meaning": "这个药一天吃两次。",
+      "audio": "408e702c80ba6e8eb671013c0ce4cd5d8569dff6b9afcdff497670b20b9535d1",
+      "id": "2ba7059071d5",
+      "priority": 1,
+      "group": "6e2f43850b82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to see a dentist.",
+      "meaningInSourceLanguage": "我需要看牙医。",
+      "id": "3fc328623568",
+      "priority": 0,
+      "group": "2954b34a31a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to see a dentist.",
+      "meaning": "我需要看牙医。",
+      "audio": "c279796c22ce7107da62d3e7c78be3a38dc719dda4212dfa0082fe3fef4357a1",
+      "id": "d45a8c32e27c",
+      "priority": 1,
+      "group": "2954b34a31a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My stomach hurts.",
+      "meaningInSourceLanguage": "我胃痛。",
+      "id": "d706eb373350",
+      "priority": 0,
+      "group": "d16486a27657"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "My stomach hurts.",
+      "meaning": "我胃痛。",
+      "audio": "b238c82abaef517f0bdd4cbed21148fe0297a880d14a1fcee39731e603035eaf",
+      "id": "10332d001930",
+      "priority": 1,
+      "group": "d16486a27657"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I feel dizzy.",
+      "meaningInSourceLanguage": "我感觉头晕。",
+      "id": "20db0f6a0566",
+      "priority": 0,
+      "group": "1052a5689d31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I feel dizzy.",
+      "meaning": "我感觉头晕。",
+      "audio": "db43d97786fffdde934bba6775fc30550c2e3cb060da6cc13e08fe9b63e92408",
+      "id": "82c4e73738de",
+      "priority": 1,
+      "group": "1052a5689d31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have a fever.",
+      "meaningInSourceLanguage": "我发烧了。",
+      "id": "452551d2b7f7",
+      "priority": 0,
+      "group": "a8cb8c2995c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have a fever.",
+      "meaning": "我发烧了。",
+      "audio": "bdc719966b65a87143a3b6a4a04f175eca3ae458ee557a08825897876761f978",
+      "id": "24e0a315c2ae",
+      "priority": 1,
+      "group": "a8cb8c2995c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need some medicine.",
+      "meaningInSourceLanguage": "我需要一些药。",
+      "id": "4a77c51b7e75",
+      "priority": 0,
+      "group": "9d47a55ef382"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need some medicine.",
+      "meaning": "我需要一些药。",
+      "audio": "c86dc68b9e7fffd6ab3dcbe59fe6a61939924b49aadcb0bc5301a1a27677a416",
+      "id": "0bd6c00e03c9",
+      "priority": 1,
+      "group": "9d47a55ef382"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is there a pharmacy nearby?",
+      "meaningInSourceLanguage": "附近有药店吗？",
+      "id": "66404770c465",
+      "priority": 0,
+      "group": "1f8a2631ae35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is there a pharmacy nearby?",
+      "meaning": "附近有药店吗？",
+      "audio": "89f6b0aeae88ca3a9cd397b44c3f7574435d6b907c771a60f36d50808e2a1ed2",
+      "id": "feab6a6eaed8",
+      "priority": 1,
+      "group": "1f8a2631ae35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm allergic to penicillin.",
+      "meaningInSourceLanguage": "我对青霉素过敏。",
+      "id": "f8a1e4160092",
+      "priority": 0,
+      "group": "aae4ca10152e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm allergic to penicillin.",
+      "meaning": "我对青霉素过敏。",
+      "audio": "d37a1601a3c7e36bfed34ca552ce5d47665898f21619ae4732461a92a7423c20",
+      "id": "a04f13ba5497",
+      "priority": 1,
+      "group": "aae4ca10152e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Call an ambulance!",
+      "meaningInSourceLanguage": "叫救护车！",
+      "id": "ca5015dea554",
+      "priority": 0,
+      "group": "b503d327ebb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Call an ambulance!",
+      "meaning": "叫救护车！",
+      "audio": "86da9431c14d8633e0779e8271cfeb046c6bdcf18c4e73cfa71e9c6a10bc827d",
+      "id": "cc08a078b218",
+      "priority": 1,
+      "group": "b503d327ebb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's an emergency.",
+      "meaningInSourceLanguage": "这是紧急情况。",
+      "id": "cad07505b28b",
+      "priority": 0,
+      "group": "303f6a1d2ff3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's an emergency.",
+      "meaning": "这是紧急情况。",
+      "audio": "fe328569528bee619cc39b1e9477d7634a2865ea182ad215e246f0b6245469ae",
+      "id": "9cc35443fa52",
+      "priority": 1,
+      "group": "303f6a1d2ff3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to exercise more.",
+      "meaningInSourceLanguage": "我需要多锻炼。",
+      "id": "075170c45961",
+      "priority": 0,
+      "group": "8406731647b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to exercise more.",
+      "meaning": "我需要多锻炼。",
+      "audio": "60284c63cb17eedd1f08a3bb091825f3efebb75abd9bcfb39c8c5944ab79773c",
+      "id": "ac50ee518997",
+      "priority": 1,
+      "group": "8406731647b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How many calories does this have?",
+      "meaningInSourceLanguage": "这个有多少卡路里？",
+      "id": "bf05180950f4",
+      "priority": 0,
+      "group": "e695f0fbda9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How many calories does this have?",
+      "meaning": "这个有多少卡路里？",
+      "audio": "7129079f508c5082a2148f0285fbe344cbabc21bf735a84b09ff4e6697ba1c33",
+      "id": "46c3e74f5910",
+      "priority": 1,
+      "group": "e695f0fbda9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I go to the gym three times a week.",
+      "meaningInSourceLanguage": "我一周去三次健身房。",
+      "id": "892368c557ab",
+      "priority": 0,
+      "group": "aa9b9374a9f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I go to the gym three times a week.",
+      "meaning": "我一周去三次健身房。",
+      "audio": "b758c2c3922e3768e3c3852d30e76263a73a328a46ef7a0f982018dedb5d9f7f",
+      "id": "940ef9423ce4",
+      "priority": 1,
+      "group": "aa9b9374a9f3"
+    }
+  ]
+}

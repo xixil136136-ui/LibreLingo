@@ -1,0 +1,567 @@
+{
+  "id": "b9bcc63df4d8",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "apple music",
+      "meaningInSourceLanguage": "Apple Music",
+      "id": "27c4446fb1f1",
+      "priority": 0,
+      "group": "57ca99d0bc63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "apple music",
+      "meaning": "Apple Music",
+      "audio": "6af4cc8d916d42e08a7b99c46c532b6d",
+      "id": "8d5cd122c644",
+      "priority": 1,
+      "group": "57ca99d0bc63"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "netflix",
+      "meaningInSourceLanguage": "Netflix",
+      "id": "0a7577e4009f",
+      "priority": 0,
+      "group": "e396c9d101c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "netflix",
+      "meaning": "Netflix",
+      "audio": "e7e180e097ca4fb881fb7a9138463858",
+      "id": "2058f87c389d",
+      "priority": 1,
+      "group": "e396c9d101c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "disney+",
+      "meaningInSourceLanguage": "Disney+",
+      "id": "8050a7476a71",
+      "priority": 0,
+      "group": "3bce7128dfcd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "disney+",
+      "meaning": "Disney+",
+      "audio": "5440ff52bac942d7bdf20d5a6e16483a",
+      "id": "69bf139497a4",
+      "priority": 1,
+      "group": "3bce7128dfcd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hulu",
+      "meaningInSourceLanguage": "Hulu",
+      "id": "9e5e84a94dd8",
+      "priority": 0,
+      "group": "83db3b2170a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hulu",
+      "meaning": "Hulu",
+      "audio": "dde17cf11f84415a95b998aea4a1c55f",
+      "id": "d58baa71debc",
+      "priority": 1,
+      "group": "83db3b2170a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "amazon prime",
+      "meaningInSourceLanguage": "Amazon Prime",
+      "id": "e5c9920da876",
+      "priority": 0,
+      "group": "a91138d8100d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "amazon prime",
+      "meaning": "Amazon Prime",
+      "audio": "ae1f2423ff474c31a735acad4338f044",
+      "id": "e68389e4be5b",
+      "priority": 1,
+      "group": "a91138d8100d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tiktok",
+      "meaningInSourceLanguage": "TikTok",
+      "id": "c1f6bb9039fc",
+      "priority": 0,
+      "group": "021aea7985a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tiktok",
+      "meaning": "TikTok",
+      "audio": "cad9bd25ae4a4528b7b6dbfed88609c1",
+      "id": "33ef0c4f8bb4",
+      "priority": 1,
+      "group": "021aea7985a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "youtube",
+      "meaningInSourceLanguage": "YouTube",
+      "id": "60d480bad155",
+      "priority": 0,
+      "group": "98c296a57f87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "youtube",
+      "meaning": "YouTube",
+      "audio": "f7792f8ef6d04d7eacdb612e4c9e9362",
+      "id": "741fb89ecb2b",
+      "priority": 1,
+      "group": "98c296a57f87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "instagram",
+      "meaningInSourceLanguage": "Instagram",
+      "id": "b80bdb617c29",
+      "priority": 0,
+      "group": "45f5fd624fcb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "instagram",
+      "meaning": "Instagram",
+      "audio": "23f0b1a49ba34e689a5492556cce2e8f",
+      "id": "913b176ef87e",
+      "priority": 1,
+      "group": "45f5fd624fcb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "twitter",
+      "meaningInSourceLanguage": "Twitter",
+      "id": "b3d1cbd06ed1",
+      "priority": 0,
+      "group": "69fa60b52ed2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "twitter",
+      "meaning": "Twitter",
+      "audio": "3bb65e7f7d474d708f46a2e3bae0c04c",
+      "id": "1612bead0df5",
+      "priority": 1,
+      "group": "69fa60b52ed2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "facebook",
+      "meaningInSourceLanguage": "Facebook",
+      "id": "a43613e4af55",
+      "priority": 0,
+      "group": "b70a7447c1cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "facebook",
+      "meaning": "Facebook",
+      "audio": "653a24ff38064741a1892acc3e549872",
+      "id": "003e2f7113f8",
+      "priority": 1,
+      "group": "b70a7447c1cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "snapchat",
+      "meaningInSourceLanguage": "Snapchat",
+      "id": "8fe992c5ece1",
+      "priority": 0,
+      "group": "48e9213b2baf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snapchat",
+      "meaning": "Snapchat",
+      "audio": "ebe7f90a8edb49c3af25c7cf50ecab44",
+      "id": "21ea080f7425",
+      "priority": 1,
+      "group": "48e9213b2baf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "whatsapp",
+      "meaningInSourceLanguage": "WhatsApp",
+      "id": "dfb60e914556",
+      "priority": 0,
+      "group": "1295b7bb27d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "whatsapp",
+      "meaning": "WhatsApp",
+      "audio": "957ba9c295674f4dbe85f62915c4d01c",
+      "id": "3d1caa5784af",
+      "priority": 1,
+      "group": "1295b7bb27d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "telegram",
+      "meaningInSourceLanguage": "Telegram",
+      "id": "45b7cee22c76",
+      "priority": 0,
+      "group": "4b3ae0171d9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "telegram",
+      "meaning": "Telegram",
+      "audio": "7be0891094904faaaa698d62d925d80a",
+      "id": "ab71a64e2f75",
+      "priority": 1,
+      "group": "4b3ae0171d9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discord",
+      "meaningInSourceLanguage": "Discord",
+      "id": "2a39cd8e6348",
+      "priority": 0,
+      "group": "4043f89577a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discord",
+      "meaning": "Discord",
+      "audio": "75aafe9cfc65408daeb1230e94d22667",
+      "id": "730312c42936",
+      "priority": 1,
+      "group": "4043f89577a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reddit",
+      "meaningInSourceLanguage": "Reddit",
+      "id": "e5feaa0c2691",
+      "priority": 0,
+      "group": "db287822c503"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reddit",
+      "meaning": "Reddit",
+      "audio": "20ea156b8bf54642bccb0e9dce696c63",
+      "id": "e4d95de7d9a8",
+      "priority": 1,
+      "group": "db287822c503"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "twitch",
+      "meaningInSourceLanguage": "Twitch",
+      "id": "9c97d563d2bb",
+      "priority": 0,
+      "group": "49b4632c7e4a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "twitch",
+      "meaning": "Twitch",
+      "audio": "c1334cf194734ac9b6507e1156202000",
+      "id": "c191bee483e8",
+      "priority": 1,
+      "group": "49b4632c7e4a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pinterest",
+      "meaningInSourceLanguage": "Pinterest",
+      "id": "08b918a0b8f7",
+      "priority": 0,
+      "group": "f08b2f6c73a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pinterest",
+      "meaning": "Pinterest",
+      "audio": "5d0561f724894400a341ecf058fefb4a",
+      "id": "f9f22972ba4b",
+      "priority": 1,
+      "group": "f08b2f6c73a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "linkedin",
+      "meaningInSourceLanguage": "LinkedIn",
+      "id": "1f2c4dd27c6a",
+      "priority": 0,
+      "group": "8721481db87f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "linkedin",
+      "meaning": "LinkedIn",
+      "audio": "692b271e843c490faa5910a214ae4a78",
+      "id": "7acf9b60f742",
+      "priority": 1,
+      "group": "8721481db87f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tinder",
+      "meaningInSourceLanguage": "Tinder",
+      "id": "a98c7fc7e2b7",
+      "priority": 0,
+      "group": "a78c0d5c38aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tinder",
+      "meaning": "Tinder",
+      "audio": "7839e67139b74fa396d8e89bd96d687f",
+      "id": "731c887d6909",
+      "priority": 1,
+      "group": "a78c0d5c38aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "photography",
+      "meaningInSourceLanguage": "摄影",
+      "id": "ed5631f0067d",
+      "priority": 0,
+      "group": "c8824955748d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "photography",
+      "meaning": "摄影",
+      "audio": "619dfb2e75854e00aa2407bb19f14340",
+      "id": "4201381c0859",
+      "priority": 1,
+      "group": "c8824955748d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "selfie",
+      "meaningInSourceLanguage": "自拍",
+      "id": "c3c681bc9c8f",
+      "priority": 0,
+      "group": "b89fbbd016d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "selfie",
+      "meaning": "自拍",
+      "audio": "e51ca2f7f2c3479cbe9cffdc9676ad3d",
+      "id": "07c792d9513f",
+      "priority": 1,
+      "group": "b89fbbd016d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "filter",
+      "meaningInSourceLanguage": "滤镜",
+      "id": "1e5751d72b4a",
+      "priority": 0,
+      "group": "0a2c796b7eef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "filter",
+      "meaning": "滤镜",
+      "audio": "52ebb447e9af45ddb7b033591aa1f63c",
+      "id": "af42c33be90b",
+      "priority": 1,
+      "group": "0a2c796b7eef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "edit",
+      "meaningInSourceLanguage": "编辑",
+      "id": "a65c7ab06833",
+      "priority": 0,
+      "group": "6e62b38a2a47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "edit",
+      "meaning": "编辑",
+      "audio": "d1135d4ca4f9454c85f084ba76751d25",
+      "id": "98dbf214aea0",
+      "priority": 1,
+      "group": "6e62b38a2a47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "viral",
+      "meaningInSourceLanguage": "病毒式传播",
+      "id": "c1890c8f2e45",
+      "priority": 0,
+      "group": "720cc876e79d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "viral",
+      "meaning": "病毒式传播",
+      "audio": "6a9043d397a247e79a4c35dcd43a1af3",
+      "id": "c20ace78b7ff",
+      "priority": 1,
+      "group": "720cc876e79d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trending",
+      "meaningInSourceLanguage": "热门",
+      "id": "39300f0141fb",
+      "priority": 0,
+      "group": "fda67b051581"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trending",
+      "meaning": "热门",
+      "audio": "8fced10e8ee2434bbce1be627c0d043f",
+      "id": "64d7d61d9b18",
+      "priority": 1,
+      "group": "fda67b051581"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "like",
+      "meaningInSourceLanguage": "点赞",
+      "id": "ff2a66fd3bd9",
+      "priority": 0,
+      "group": "8f018cfe6912"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "like",
+      "meaning": "点赞",
+      "audio": "1486c2a7950a4f67b61fcc053a5677ee",
+      "id": "e3e2080d9261",
+      "priority": 1,
+      "group": "8f018cfe6912"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "subscribe",
+      "meaningInSourceLanguage": "订阅",
+      "id": "bff52a42352e",
+      "priority": 0,
+      "group": "a3fdbfde6e54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "subscribe",
+      "meaning": "订阅",
+      "audio": "3c38ea91e15b4b01b2bf77b062445710",
+      "id": "8e12c87f3db2",
+      "priority": 1,
+      "group": "a3fdbfde6e54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "follow",
+      "meaningInSourceLanguage": "关注",
+      "id": "3a31dc4a3b21",
+      "priority": 0,
+      "group": "b19f4c5add06"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "follow",
+      "meaning": "关注",
+      "audio": "c7c373c86ff547b39ec98636b6e4d80a",
+      "id": "99611bc63fbf",
+      "priority": 1,
+      "group": "b19f4c5add06"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "share",
+      "meaningInSourceLanguage": "分享",
+      "id": "61ee4440bb1a",
+      "priority": 0,
+      "group": "430ecae58d5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "share",
+      "meaning": "分享",
+      "audio": "40c6e1e13a404656804b664e7afa5d46",
+      "id": "aef9f55ba513",
+      "priority": 1,
+      "group": "430ecae58d5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comment",
+      "meaningInSourceLanguage": "评论",
+      "id": "e294c79522ea",
+      "priority": 0,
+      "group": "d048aba13213"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comment",
+      "meaning": "评论",
+      "audio": "29b4a42f08564552a3c8f94694f1f02c",
+      "id": "f5bb30daee54",
+      "priority": 1,
+      "group": "d048aba13213"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "message",
+      "meaningInSourceLanguage": "消息",
+      "id": "40ddfedb79b4",
+      "priority": 0,
+      "group": "26131a15fde1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "message",
+      "meaning": "消息",
+      "audio": "9bfd1f2f06c54bb5af0b47e4f205376f",
+      "id": "2e82110a69c9",
+      "priority": 1,
+      "group": "26131a15fde1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "notification",
+      "meaningInSourceLanguage": "通知",
+      "id": "2eb80e0861bd",
+      "priority": 0,
+      "group": "ba3c7efb5e3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "notification",
+      "meaning": "通知",
+      "audio": "b963f4938a8148f7abe8a9252b12d6a0",
+      "id": "783b111ac119",
+      "priority": 1,
+      "group": "ba3c7efb5e3c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "feed",
+      "meaningInSourceLanguage": "信息流",
+      "id": "529b70746de6",
+      "priority": 0,
+      "group": "ffe75fbca475"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "feed",
+      "meaning": "信息流",
+      "audio": "d793931162c44afea1d0644da561580d",
+      "id": "b2b00aa25e18",
+      "priority": 1,
+      "group": "ffe75fbca475"
+    }
+  ]
+}

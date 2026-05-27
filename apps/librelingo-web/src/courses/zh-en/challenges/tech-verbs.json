@@ -1,0 +1,975 @@
+{
+  "id": "707ced496a87",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "program",
+      "meaningInSourceLanguage": "编程",
+      "id": "4a0b4677b53b",
+      "priority": 0,
+      "group": "1d586a91618a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "program",
+      "meaning": "编程",
+      "audio": "761a724f81e38e04756ac586e58568ba559cc9d31a318954f0849a57fc890699",
+      "id": "c3032a796ce8",
+      "priority": 1,
+      "group": "1d586a91618a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "code",
+      "meaningInSourceLanguage": "编码",
+      "id": "4c6e3ddb4eef",
+      "priority": 0,
+      "group": "f7ca3f7b90ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "code",
+      "meaning": "编码",
+      "audio": "4b4dfbb1ddf20ae03d7ed1f3ed98d1b8afa189b278ede7d066eed885cb414e92",
+      "id": "c5fc7ad972d0",
+      "priority": 1,
+      "group": "f7ca3f7b90ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debug",
+      "meaningInSourceLanguage": "调试",
+      "id": "2e7c3c748985",
+      "priority": 0,
+      "group": "94379a69258b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debug",
+      "meaning": "调试",
+      "audio": "6b8de52ea60637f8aa52255cf6fc4777125fbcd2b8f7c223a873589ecf531cf3",
+      "id": "07be273ff4db",
+      "priority": 1,
+      "group": "94379a69258b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compile",
+      "meaningInSourceLanguage": "编译",
+      "id": "48e9587b1cf3",
+      "priority": 0,
+      "group": "d9ea9fa2cf73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compile",
+      "meaning": "编译",
+      "audio": "3b494a1efcd993be586a7ae6099c8ac4b4732f9c114ca29ae3b2b550ec5c471c",
+      "id": "a3c35ee2b999",
+      "priority": 1,
+      "group": "d9ea9fa2cf73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "test",
+      "meaningInSourceLanguage": "测试",
+      "id": "bf3df54ca26b",
+      "priority": 0,
+      "group": "1d1e5b010eda"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "test",
+      "meaning": "测试",
+      "audio": "90b6f31e85b4dd41e3e9f549f51a6d2e8bd4c99d9c7799e7e40d3db728e994d0",
+      "id": "f2bd9c15e0cf",
+      "priority": 1,
+      "group": "1d1e5b010eda"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deploy",
+      "meaningInSourceLanguage": "部署",
+      "id": "37df805f1d0c",
+      "priority": 0,
+      "group": "a13a20e8dc5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deploy",
+      "meaning": "部署",
+      "audio": "c0e44ab5a2106818ce9708b505859dfa96052549c5b36beb4a5ad91ba5637316",
+      "id": "8f048d15c069",
+      "priority": 1,
+      "group": "a13a20e8dc5e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "develop",
+      "meaningInSourceLanguage": "开发",
+      "id": "6efeb36f7c0b",
+      "priority": 0,
+      "group": "0420704500c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "develop",
+      "meaning": "开发",
+      "audio": "5c6980159b8f0848aa743b06069d4e44fed62142fbd74210c0878ca05a0823c9",
+      "id": "a71858eb054a",
+      "priority": 1,
+      "group": "0420704500c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "design",
+      "meaningInSourceLanguage": "设计",
+      "id": "91d92b0535ce",
+      "priority": 0,
+      "group": "f36ddf930983"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "design",
+      "meaning": "设计",
+      "audio": "8b061bf65fee034228dae44e86fefe2fafe23de6f6d2321d95e553fa108c5aa7",
+      "id": "a86ce9588b3d",
+      "priority": 1,
+      "group": "f36ddf930983"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "build",
+      "meaningInSourceLanguage": "构建",
+      "id": "9a5d1073ab36",
+      "priority": 0,
+      "group": "c64860577bc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "build",
+      "meaning": "构建",
+      "audio": "935301145c9a153ceb306aa5650665f683beebcea1bd8e8d2920aca6c7b604d7",
+      "id": "d83051a10791",
+      "priority": 1,
+      "group": "c64860577bc1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "configure",
+      "meaningInSourceLanguage": "配置",
+      "id": "3edf13608940",
+      "priority": 0,
+      "group": "e5d17c369971"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "configure",
+      "meaning": "配置",
+      "audio": "7184d8628be20cc3c62021022a4ffe7ed0caff2b695b34f9f86b3fb28d2df1fa",
+      "id": "d5795537ba72",
+      "priority": 1,
+      "group": "e5d17c369971"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "optimize",
+      "meaningInSourceLanguage": "优化",
+      "id": "de3f97c9b02b",
+      "priority": 0,
+      "group": "55b79b397f35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "optimize",
+      "meaning": "优化",
+      "audio": "98ceb5a7c7bd2b8a66673dba3c2b032a1512f6e10bd94ea776ca34f99b7cf228",
+      "id": "9ecc5b553beb",
+      "priority": 1,
+      "group": "55b79b397f35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "integrate",
+      "meaningInSourceLanguage": "集成",
+      "id": "13fc7747568d",
+      "priority": 0,
+      "group": "564b63e26142"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "integrate",
+      "meaning": "集成",
+      "audio": "422634d9ac71cc4be87decda6d83438d8976cd939dca2e350f9ca2154dcb3f99",
+      "id": "42ade1c851f7",
+      "priority": 1,
+      "group": "564b63e26142"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "implement",
+      "meaningInSourceLanguage": "实现",
+      "id": "88aab0f2d032",
+      "priority": 0,
+      "group": "896087d1a5cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "implement",
+      "meaning": "实现",
+      "audio": "12352fc88e190de04dc2c7ec993a77b90d5b8ffc74809400c714e65bf4fad5a0",
+      "id": "b2486105443d",
+      "priority": 1,
+      "group": "896087d1a5cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "document",
+      "meaningInSourceLanguage": "编写文档",
+      "id": "6696aaca205d",
+      "priority": 0,
+      "group": "a37356c595cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "document",
+      "meaning": "编写文档",
+      "audio": "f692c1186b2bdbdaad79bdd4519d53cf89ebe56bc2feb94c4b907df05b0a4443",
+      "id": "a2ea94ea4ac1",
+      "priority": 1,
+      "group": "a37356c595cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "maintain",
+      "meaningInSourceLanguage": "维护",
+      "id": "5ada6ed8a1d5",
+      "priority": 0,
+      "group": "7cee3580f2dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maintain",
+      "meaning": "维护",
+      "audio": "c7011c7873e141a4c384bef36e05f31e2c4eb69c52617b37a071227acd6ac95e",
+      "id": "cf6250304c9b",
+      "priority": 1,
+      "group": "7cee3580f2dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "repair",
+      "meaningInSourceLanguage": "修理",
+      "id": "8785b7587106",
+      "priority": 0,
+      "group": "038001143913"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "repair",
+      "meaning": "修理",
+      "audio": "3e40a9a77eaf6ac9fa8a34c8d7f2acc792dcb012af25a064a5a8833a98a739e3",
+      "id": "33de0075f375",
+      "priority": 1,
+      "group": "038001143913"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "replace",
+      "meaningInSourceLanguage": "替换",
+      "id": "0cb03f294c38",
+      "priority": 0,
+      "group": "37be11dc2fa9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "replace",
+      "meaning": "替换",
+      "audio": "8cce2985f2f1b1b9b78f83de561556c1aa4f80b26651a177de4d14740b9e2cc1",
+      "id": "f705e4855ad4",
+      "priority": 1,
+      "group": "37be11dc2fa9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "assemble",
+      "meaningInSourceLanguage": "组装",
+      "id": "151f45d3aa04",
+      "priority": 0,
+      "group": "dd301063fb5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "assemble",
+      "meaning": "组装",
+      "audio": "aeefc2b36b0c548520240e421bbc2db309f33fb3c9eb7bfac330cdd48648ec1b",
+      "id": "c9538b98affd",
+      "priority": 1,
+      "group": "dd301063fb5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "connect",
+      "meaningInSourceLanguage": "连接",
+      "id": "e79730a94ec0",
+      "priority": 0,
+      "group": "da123f38fc13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "connect",
+      "meaning": "连接",
+      "audio": "f874b6113289905e595f622a6190a1c0eb046326582eabcff8da2ccfa56aa371",
+      "id": "a2ff5057584b",
+      "priority": 1,
+      "group": "da123f38fc13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "disconnect",
+      "meaningInSourceLanguage": "断开",
+      "id": "1f05c670cc57",
+      "priority": 0,
+      "group": "59d7159ee74f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "disconnect",
+      "meaning": "断开",
+      "audio": "f64c129d7d2b605d2716a1db7ff407306651c727ae8e2457aab235103fe6b87a",
+      "id": "eb478715a1ae",
+      "priority": 1,
+      "group": "59d7159ee74f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reboot",
+      "meaningInSourceLanguage": "重启",
+      "id": "f37e7ae97543",
+      "priority": 0,
+      "group": "39c6aecc1b5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reboot",
+      "meaning": "重启",
+      "audio": "fb3460a8b3a4277ede6d4ef29defae1da5d29cb277c3b2f1b5203da6c71a62da",
+      "id": "ccd348e6da27",
+      "priority": 1,
+      "group": "39c6aecc1b5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shut down",
+      "meaningInSourceLanguage": "关机",
+      "id": "d7dde7600662",
+      "priority": 0,
+      "group": "22aa23a205a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shut down",
+      "meaning": "关机",
+      "audio": "6ae0de6e3b23161a3dff824eb605fc12a944c85904ffeac3e38c51c954356353",
+      "id": "93feb484350e",
+      "priority": 1,
+      "group": "22aa23a205a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boot",
+      "meaningInSourceLanguage": "启动",
+      "id": "50bf58a4f811",
+      "priority": 0,
+      "group": "2934c6fc2030"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boot",
+      "meaning": "启动",
+      "audio": "1b391a896c0e29030ef034472dba29a153b5a713ad500771d8d15b5025864e95",
+      "id": "092ea1ea8d2b",
+      "priority": 1,
+      "group": "2934c6fc2030"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "log in",
+      "meaningInSourceLanguage": "登录",
+      "id": "3dee511ed871",
+      "priority": 0,
+      "group": "40e26a422629"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "log in",
+      "meaning": "登录",
+      "audio": "ffa53e3842b10180be8b5b584e58d7b9ae02548be7a22a08b8adf3ba2d8c9464",
+      "id": "7996dcabd220",
+      "priority": 1,
+      "group": "40e26a422629"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "log out",
+      "meaningInSourceLanguage": "登出",
+      "id": "3ed29086e424",
+      "priority": 0,
+      "group": "336ad206fd0c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "log out",
+      "meaning": "登出",
+      "audio": "5dd3e8dba5261cf564b9724684b3e2d8befc62670895ddb19234a6b340748c18",
+      "id": "b128047beca1",
+      "priority": 1,
+      "group": "336ad206fd0c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scroll",
+      "meaningInSourceLanguage": "滚动",
+      "id": "46efa47f0b65",
+      "priority": 0,
+      "group": "6b1a4a6457e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scroll",
+      "meaning": "滚动",
+      "audio": "02e295d09ce887d5f853b0b062375f90fd1f58604e6324e3cbd5246d9b846427",
+      "id": "5518a650a324",
+      "priority": 1,
+      "group": "6b1a4a6457e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "click",
+      "meaningInSourceLanguage": "点击",
+      "id": "c67a918f5d5c",
+      "priority": 0,
+      "group": "72b71077affd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "click",
+      "meaning": "点击",
+      "audio": "4f96b7a7c2c42feccd35cf36ba246edfcb927870f98338dab886a8ebc54eade9",
+      "id": "9c7d637e8f17",
+      "priority": 1,
+      "group": "72b71077affd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "double-click",
+      "meaningInSourceLanguage": "双击",
+      "id": "91448d30946a",
+      "priority": 0,
+      "group": "e80d2922a7a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "double-click",
+      "meaning": "双击",
+      "audio": "415e3fe9e59d644cdaf4e061f9ee65d9626a62344990b551d2e606ae6fd4f24b",
+      "id": "10182aa4bb30",
+      "priority": 1,
+      "group": "e80d2922a7a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right-click",
+      "meaningInSourceLanguage": "右键点击",
+      "id": "43fbcbb87a79",
+      "priority": 0,
+      "group": "3f3c46ba52c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right-click",
+      "meaning": "右键点击",
+      "audio": "38e33bf2ff70955fd13437304d59fc80fc42f38e1f497d25dfc5009574280a6a",
+      "id": "28a8dacb340a",
+      "priority": 1,
+      "group": "3f3c46ba52c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drag",
+      "meaningInSourceLanguage": "拖拽",
+      "id": "c5b032a543b8",
+      "priority": 0,
+      "group": "0e1c3947a191"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drag",
+      "meaning": "拖拽",
+      "audio": "ff1278e63dc4318d90cdf06a524fbdd400d0d6c34562975e16c1f5d4e7a8dd77",
+      "id": "ce8fb661f76b",
+      "priority": 1,
+      "group": "0e1c3947a191"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drop",
+      "meaningInSourceLanguage": "放下",
+      "id": "a7859fea208a",
+      "priority": 0,
+      "group": "b58e05dcd489"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drop",
+      "meaning": "放下",
+      "audio": "8e898e9439be356c08d11bcc5137771ceb0a0d534da6c24686b1c99167a46bea",
+      "id": "e59250ae8116",
+      "priority": 1,
+      "group": "b58e05dcd489"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "select",
+      "meaningInSourceLanguage": "选择",
+      "id": "e69d888684ee",
+      "priority": 0,
+      "group": "8b9bf2a7726e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "select",
+      "meaning": "选择",
+      "audio": "d36ed0e0619b91cce942ec05be2cb5d4abafd74c6378479229aac38e2dfe4dcd",
+      "id": "d5949c682200",
+      "priority": 1,
+      "group": "8b9bf2a7726e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "highlight",
+      "meaningInSourceLanguage": "高亮",
+      "id": "9dea4b18c93e",
+      "priority": 0,
+      "group": "9b8bde8de353"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "highlight",
+      "meaning": "高亮",
+      "audio": "9ced5c05d23e836b745d5c5c422f52787409be8b1b78b78949442f19da1c43bc",
+      "id": "f93d4f136d41",
+      "priority": 1,
+      "group": "9b8bde8de353"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "copy",
+      "meaningInSourceLanguage": "复制",
+      "id": "0b3c44f4316d",
+      "priority": 0,
+      "group": "9aa4c677dff2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "copy",
+      "meaning": "复制",
+      "audio": "4fae415a5c84502bb9bb4995e6a0521942eb631eb707e835375cda761fe379f0",
+      "id": "b2227f65cb92",
+      "priority": 1,
+      "group": "9aa4c677dff2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paste",
+      "meaningInSourceLanguage": "粘贴",
+      "id": "52603ef16109",
+      "priority": 0,
+      "group": "01ccd595ab00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paste",
+      "meaning": "粘贴",
+      "audio": "a140bbf0bed96c584ef36c428bf9cad2d5e904187c6ca7b004be079f32172509",
+      "id": "3dd04c6e4cf1",
+      "priority": 1,
+      "group": "01ccd595ab00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cut",
+      "meaningInSourceLanguage": "剪切",
+      "id": "016b7c99ba44",
+      "priority": 0,
+      "group": "12f5b1d735d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cut",
+      "meaning": "剪切",
+      "audio": "d694b0ac7444743de52cd5c7759ff2c4d78564e80bbc3b4aedb80158bcc5f087",
+      "id": "21610386aed4",
+      "priority": 1,
+      "group": "12f5b1d735d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "delete",
+      "meaningInSourceLanguage": "删除",
+      "id": "72a73c31a306",
+      "priority": 0,
+      "group": "35a8d0ab0a5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "delete",
+      "meaning": "删除",
+      "audio": "0341fc7357460877f493e867bda5823edb63e5db147b51d224f6ad74d11bee7f",
+      "id": "196c573d37d2",
+      "priority": 1,
+      "group": "35a8d0ab0a5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "undo",
+      "meaningInSourceLanguage": "撤销",
+      "id": "0ae1a99a6127",
+      "priority": 0,
+      "group": "025d5c520f38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "undo",
+      "meaning": "撤销",
+      "audio": "fb586e276fd45907cb88ca8c0c125cef665f912e1292268025dee219ca5fbd6c",
+      "id": "1a124d99a4be",
+      "priority": 1,
+      "group": "025d5c520f38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "redo",
+      "meaningInSourceLanguage": "重做",
+      "id": "e22a613b3482",
+      "priority": 0,
+      "group": "8dd3a54a0244"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "redo",
+      "meaning": "重做",
+      "audio": "a99d039fe5db045553f4593459bddf1fa3e18f4d558ed7b98489cae978bfba6c",
+      "id": "eb9d8dacc69f",
+      "priority": 1,
+      "group": "8dd3a54a0244"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "save",
+      "meaningInSourceLanguage": "保存",
+      "id": "c83c6b0eb9ac",
+      "priority": 0,
+      "group": "df0cd6d526ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "save",
+      "meaning": "保存",
+      "audio": "21510f45475243e34e518f866bcb5aa580af89f9ecc714145098d1e02124bd49",
+      "id": "ce0a64c7d1b2",
+      "priority": 1,
+      "group": "df0cd6d526ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "open",
+      "meaningInSourceLanguage": "打开",
+      "id": "e03b332a7d90",
+      "priority": 0,
+      "group": "8aa573d7c611"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "open",
+      "meaning": "打开",
+      "audio": "1ec4f9cb20605740699488370ec3577ad2b68ac9a67a91fa3654801c30fe0328",
+      "id": "5c7df610b2a9",
+      "priority": 1,
+      "group": "8aa573d7c611"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "close",
+      "meaningInSourceLanguage": "关闭",
+      "id": "43cef9c2e6a2",
+      "priority": 0,
+      "group": "d86e67fe9cb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "close",
+      "meaning": "关闭",
+      "audio": "2de49bbaafa27351a40e34808f99595b3b3a95c797a6d792d64adf8cfbe29e7c",
+      "id": "599f529ed81d",
+      "priority": 1,
+      "group": "d86e67fe9cb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "print",
+      "meaningInSourceLanguage": "打印",
+      "id": "acf3f871ea52",
+      "priority": 0,
+      "group": "e5582d7c0722"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "print",
+      "meaning": "打印",
+      "audio": "daeb3ecca1da14320f041c28c7bc8267c0426ce2339937e1c5dbc5c12a51e22c",
+      "id": "8646a70c298b",
+      "priority": 1,
+      "group": "e5582d7c0722"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "export",
+      "meaningInSourceLanguage": "导出",
+      "id": "b2aba10c9042",
+      "priority": 0,
+      "group": "7fa9624f74f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "export",
+      "meaning": "导出",
+      "audio": "67293e8f39175a4dc39a5662d9c3782c9ebaccc3d6cf985e0002b71b469c0480",
+      "id": "714b7eb8a614",
+      "priority": 1,
+      "group": "7fa9624f74f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "import",
+      "meaningInSourceLanguage": "导入",
+      "id": "5bd20081bc91",
+      "priority": 0,
+      "group": "381b4f738806"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "import",
+      "meaning": "导入",
+      "audio": "808425f3eb099f69be5edeed4e50bbf4bac167063e62fb82eb34ceac956a82b7",
+      "id": "60369709addb",
+      "priority": 1,
+      "group": "381b4f738806"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "encode",
+      "meaningInSourceLanguage": "编码",
+      "id": "a6e04f50cc7d",
+      "priority": 0,
+      "group": "b4d22db9e546"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "encode",
+      "meaning": "编码",
+      "audio": "19927756c2021321b1fddaabe996b56c44ea7434fffe816400fb045f2aaa819f",
+      "id": "d007409b09cb",
+      "priority": 1,
+      "group": "b4d22db9e546"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "decode",
+      "meaningInSourceLanguage": "解码",
+      "id": "225706df2cd2",
+      "priority": 0,
+      "group": "0f0de7159d4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "decode",
+      "meaning": "解码",
+      "audio": "5c920a2da34d6830e5f8298ba5d477e3abca86c1ae689512b49ddebe8daf3eb3",
+      "id": "1d752ee59771",
+      "priority": 1,
+      "group": "0f0de7159d4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "encrypt",
+      "meaningInSourceLanguage": "加密",
+      "id": "f09c10eb383d",
+      "priority": 0,
+      "group": "0cfa6b615421"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "encrypt",
+      "meaning": "加密",
+      "audio": "6ad8138cb017ddfd8ca7f3e7fbed238af3237f1ed9f209348fa387c787e2453f",
+      "id": "fd1735409ae4",
+      "priority": 1,
+      "group": "0cfa6b615421"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "decrypt",
+      "meaningInSourceLanguage": "解密",
+      "id": "02bc989b2dba",
+      "priority": 0,
+      "group": "dd3726d71f72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "decrypt",
+      "meaning": "解密",
+      "audio": "8d53e35326e7cc5410184fd6ea2b2e24d8849c9393034f78ed57c8250247c74e",
+      "id": "d19451878fe8",
+      "priority": 1,
+      "group": "dd3726d71f72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compress",
+      "meaningInSourceLanguage": "压缩",
+      "id": "50281043f940",
+      "priority": 0,
+      "group": "3fcdaa2beaba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compress",
+      "meaning": "压缩",
+      "audio": "177e19c624e82dcd3f71a12bf34deffb241dfcdd39f121061514c9a0ce80c7d9",
+      "id": "bd33a066f955",
+      "priority": 1,
+      "group": "3fcdaa2beaba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "extract",
+      "meaningInSourceLanguage": "解压",
+      "id": "2ab0adf87b9e",
+      "priority": 0,
+      "group": "3b851e5884ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "extract",
+      "meaning": "解压",
+      "audio": "90a1d86892ab6f7afd1e4075c7740e4928988f2470221266e75f116231c449b4",
+      "id": "e35ba7d401d8",
+      "priority": 1,
+      "group": "3b851e5884ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stream",
+      "meaningInSourceLanguage": "流式传输",
+      "id": "95b610afec6e",
+      "priority": 0,
+      "group": "cb7d5cff92a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stream",
+      "meaning": "流式传输",
+      "audio": "350ec74b53b15fb44196c05cdfa2903dcda28b2f15eb88fa501e2ecfff564313",
+      "id": "d6a9e78b6a62",
+      "priority": 1,
+      "group": "cb7d5cff92a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "buffer",
+      "meaningInSourceLanguage": "缓冲",
+      "id": "9ef85ad1202d",
+      "priority": 0,
+      "group": "b67c760ea861"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "buffer",
+      "meaning": "缓冲",
+      "audio": "cb35ac7a0ae60507e0564b37d0b96ee8924aee46a5f36e7d8cc975ed5b732268",
+      "id": "b46db6649be8",
+      "priority": 1,
+      "group": "b67c760ea861"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "render",
+      "meaningInSourceLanguage": "渲染",
+      "id": "cabcb251c331",
+      "priority": 0,
+      "group": "f80ea915e553"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "render",
+      "meaning": "渲染",
+      "audio": "464adc78a5b6840749a50ddfb9f945e99ef3187892e73ac898a1ce67315b244a",
+      "id": "1d84effc52d1",
+      "priority": 1,
+      "group": "f80ea915e553"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "process",
+      "meaningInSourceLanguage": "处理",
+      "id": "09a0fa7908f3",
+      "priority": 0,
+      "group": "44fd7ee3a774"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "process",
+      "meaning": "处理",
+      "audio": "728a09a37928c842ef2b748ba893a1c61cd789f798fc20599f5996359c094ed4",
+      "id": "399bc5a7fe04",
+      "priority": 1,
+      "group": "44fd7ee3a774"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compute",
+      "meaningInSourceLanguage": "计算",
+      "id": "53bdb6e96b12",
+      "priority": 0,
+      "group": "e31b77a12157"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compute",
+      "meaning": "计算",
+      "audio": "ee6343c8603e654e40eea916f0e84a1ad660ade8a5bbcc915eaaa163058d2b38",
+      "id": "263e63bd5ca7",
+      "priority": 1,
+      "group": "e31b77a12157"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "simulate",
+      "meaningInSourceLanguage": "模拟",
+      "id": "ab499c0ec268",
+      "priority": 0,
+      "group": "8dee5548474e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "simulate",
+      "meaning": "模拟",
+      "audio": "2a228de38ff710c12385514c1b91b515a8d3f6af8f7378ad0e315ce888d48869",
+      "id": "4c506516b138",
+      "priority": 1,
+      "group": "8dee5548474e"
+    }
+  ]
+}

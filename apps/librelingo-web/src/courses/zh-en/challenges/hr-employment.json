@@ -1,0 +1,652 @@
+{
+  "id": "620d405a9b37",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "resume",
+      "meaningInSourceLanguage": "简历",
+      "id": "720abcbcb80a",
+      "priority": 0,
+      "group": "199722ec38cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "resume",
+      "meaning": "简历",
+      "audio": "27d7f3b6555025feb04f64da5b81d2294adec07627c6f1742306e4954db01f5c",
+      "id": "8b298f3b2264",
+      "priority": 1,
+      "group": "199722ec38cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "CV",
+      "meaningInSourceLanguage": "简历",
+      "id": "941ebda18824",
+      "priority": 0,
+      "group": "e819f4284d9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "CV",
+      "meaning": "简历",
+      "audio": "e24ae9072b9768dc4450612736a14841c4f0b1a5220f09438302598598e87567",
+      "id": "a016aaadae3b",
+      "priority": 1,
+      "group": "e819f4284d9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cover letter",
+      "meaningInSourceLanguage": "求职信",
+      "id": "30a469047f82",
+      "priority": 0,
+      "group": "5844f068fb20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cover letter",
+      "meaning": "求职信",
+      "audio": "1ea765f232e012e487c1477bab871f1d2c9003ee59ffae71f4afbad66712c7b5",
+      "id": "8d720bcff9d4",
+      "priority": 1,
+      "group": "5844f068fb20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "application",
+      "meaningInSourceLanguage": "申请",
+      "id": "2f033ff96dd9",
+      "priority": 0,
+      "group": "e821d42fd625"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "application",
+      "meaning": "申请",
+      "audio": "f1c67b21e8c25103661868b30a6f699c69deca9eb75389e8937dc60e917de25d",
+      "id": "685869a431f0",
+      "priority": 1,
+      "group": "e821d42fd625"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interview",
+      "meaningInSourceLanguage": "面试",
+      "id": "68aba7451924",
+      "priority": 0,
+      "group": "9a4e530f8a5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interview",
+      "meaning": "面试",
+      "audio": "717e575fd749241fc98e627385ed33738ff30207e55820405541dd734b4d888a",
+      "id": "15ae53a044da",
+      "priority": 1,
+      "group": "9a4e530f8a5e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "job offer",
+      "meaningInSourceLanguage": "工作邀请",
+      "id": "9c43194fd2b7",
+      "priority": 0,
+      "group": "d86b4a8fb25b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "job offer",
+      "meaning": "工作邀请",
+      "audio": "13b9b5918443500b50751a541abb8e5866540e9d03b21f39aa67a1db68d3f3bd",
+      "id": "78c596d5033b",
+      "priority": 1,
+      "group": "d86b4a8fb25b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salary",
+      "meaningInSourceLanguage": "工资",
+      "id": "9a53dd046a9f",
+      "priority": 0,
+      "group": "df1326f6994e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salary",
+      "meaning": "工资",
+      "audio": "487f82758d2f06421c960c3cfd540ab017555c6efdf6b10c903c7c4857241e07",
+      "id": "8707e1acfb0f",
+      "priority": 1,
+      "group": "df1326f6994e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wage",
+      "meaningInSourceLanguage": "时薪",
+      "id": "a26569462886",
+      "priority": 0,
+      "group": "ca5c8a0b1146"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wage",
+      "meaning": "时薪",
+      "audio": "5cd9969ddc7ff4bf7b70e2d3372beffa55b37fc63567eb3e0835951d0e985f94",
+      "id": "6f204f77b330",
+      "priority": 1,
+      "group": "ca5c8a0b1146"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paycheck",
+      "meaningInSourceLanguage": "工资单",
+      "id": "2b44feef884d",
+      "priority": 0,
+      "group": "732e684a44ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paycheck",
+      "meaning": "工资单",
+      "audio": "45659334fd14b027fbf28771aec6c17eb3a768073c3ae9c42c4255328aa2e747",
+      "id": "f71d51053a89",
+      "priority": 1,
+      "group": "732e684a44ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "benefits",
+      "meaningInSourceLanguage": "福利",
+      "id": "829300e61881",
+      "priority": 0,
+      "group": "c5bbae06b11c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "benefits",
+      "meaning": "福利",
+      "audio": "9c7e660c9ef1a176b7caeb6a13b70d8b44075f4e4a754d90f116291888786407",
+      "id": "8940d7e74616",
+      "priority": 1,
+      "group": "c5bbae06b11c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "health insurance",
+      "meaningInSourceLanguage": "健康保险",
+      "id": "e3efb2913d63",
+      "priority": 0,
+      "group": "52662c1d879b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "health insurance",
+      "meaning": "健康保险",
+      "audio": "c97980ca0e37ff3ec22d8a14a90622cf5bfbebccbf3bbeee43416fa9ec85e6b1",
+      "id": "fcfedcbad1a0",
+      "priority": 1,
+      "group": "52662c1d879b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "retirement plan",
+      "meaningInSourceLanguage": "退休计划",
+      "id": "34d4afeb9a60",
+      "priority": 0,
+      "group": "e49a3a3cb54c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retirement plan",
+      "meaning": "退休计划",
+      "audio": "ba150a50e2c0c38bacc60de60682cf94346487afd8bb18993d540eaf7fbb4028",
+      "id": "18eb1ff4bf36",
+      "priority": 1,
+      "group": "e49a3a3cb54c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vacation",
+      "meaningInSourceLanguage": "年假",
+      "id": "a1ddea3dc5a9",
+      "priority": 0,
+      "group": "ede24e664dbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vacation",
+      "meaning": "年假",
+      "audio": "f6e9eda6bb14eaad1d5b2643152d97371b377283e60732b38c6e76ab0d1095ab",
+      "id": "203e7e921d62",
+      "priority": 1,
+      "group": "ede24e664dbd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sick leave",
+      "meaningInSourceLanguage": "病假",
+      "id": "a1f43b4d69c4",
+      "priority": 0,
+      "group": "bcd7f048ed18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sick leave",
+      "meaning": "病假",
+      "audio": "44eb7ae3054ce2185689b49e97ea139619979e207bc8ee8af847813b91ff8dbc",
+      "id": "62ddae959a37",
+      "priority": 1,
+      "group": "bcd7f048ed18"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "maternity leave",
+      "meaningInSourceLanguage": "产假",
+      "id": "16eb83194410",
+      "priority": 0,
+      "group": "188de57b82b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maternity leave",
+      "meaning": "产假",
+      "audio": "2d56b30277975f4141e8063347412d90780dffa346637b1c6466ef2769290f35",
+      "id": "2bcb69aba4e1",
+      "priority": 1,
+      "group": "188de57b82b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paternity leave",
+      "meaningInSourceLanguage": "陪产假",
+      "id": "94f61169a0bb",
+      "priority": 0,
+      "group": "e5ae8f689e7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paternity leave",
+      "meaning": "陪产假",
+      "audio": "affef875eebb63775832efa1a0b5bcf894a45d413b5f8c0bd4cb9d30b4b7ea95",
+      "id": "7d2c56c2c23c",
+      "priority": 1,
+      "group": "e5ae8f689e7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "overtime",
+      "meaningInSourceLanguage": "加班",
+      "id": "f64f41c0d003",
+      "priority": 0,
+      "group": "8850b86968e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "overtime",
+      "meaning": "加班",
+      "audio": "eebdc9dc60dc32948d1d9c4393620962841833189aacbb0872467bd5b8092720",
+      "id": "5574f78bdf06",
+      "priority": 1,
+      "group": "8850b86968e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bonus",
+      "meaningInSourceLanguage": "奖金",
+      "id": "8ede3572c3f8",
+      "priority": 0,
+      "group": "7811d099f3ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bonus",
+      "meaning": "奖金",
+      "audio": "e38d400c43177c5a003cd551e8ff8f37082c3bec8a91e2016639fe3eed59d5a8",
+      "id": "79e0e3d842d8",
+      "priority": 1,
+      "group": "7811d099f3ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "raise",
+      "meaningInSourceLanguage": "加薪",
+      "id": "d4b0401d0092",
+      "priority": 0,
+      "group": "0d5cbc5d2280"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "raise",
+      "meaning": "加薪",
+      "audio": "2d2bf82ef62d96ad7ade5f3ceb4a924b9503e22f12cde9c3cf056b6c4d7513ad",
+      "id": "d6fc0424802f",
+      "priority": 1,
+      "group": "0d5cbc5d2280"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "promotion",
+      "meaningInSourceLanguage": "升职",
+      "id": "339d7058914c",
+      "priority": 0,
+      "group": "7743c1eecd7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "promotion",
+      "meaning": "升职",
+      "audio": "155cf529b73fad8270a0f1be80476baca032c42951d49981806fa96035cd24a5",
+      "id": "05bceb59be7e",
+      "priority": 1,
+      "group": "7743c1eecd7a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "transfer",
+      "meaningInSourceLanguage": "调职",
+      "id": "f760b49f4128",
+      "priority": 0,
+      "group": "0c3d59580996"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "transfer",
+      "meaning": "调职",
+      "audio": "147d543d3e21ebf6f74c7c4302f3fdaf842184c6a5142bd6006e0f2ef915e9d7",
+      "id": "84b52935a734",
+      "priority": 1,
+      "group": "0c3d59580996"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "resignation",
+      "meaningInSourceLanguage": "辞职",
+      "id": "168c22bbf953",
+      "priority": 0,
+      "group": "96b424cd8267"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "resignation",
+      "meaning": "辞职",
+      "audio": "1e4dfe370a5146f77022c4cb702ed91138a73ab0e0d08b136786d7fa018220b8",
+      "id": "2feb71cf5090",
+      "priority": 1,
+      "group": "96b424cd8267"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "layoff",
+      "meaningInSourceLanguage": "裁员",
+      "id": "599fdbea0e9c",
+      "priority": 0,
+      "group": "bec8dffa001d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "layoff",
+      "meaning": "裁员",
+      "audio": "fb8286934a69d113c29d28a18395b4c8e8e616804c5702e37f84c468e50128f6",
+      "id": "2a9a2be96b8a",
+      "priority": 1,
+      "group": "bec8dffa001d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "furlough",
+      "meaningInSourceLanguage": "停职",
+      "id": "4e7f3f4811a4",
+      "priority": 0,
+      "group": "8ddd6d0158d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "furlough",
+      "meaning": "停职",
+      "audio": "ebaaabf40060d484581a903957a991a2a374057d16f425192bf277b078605ac0",
+      "id": "35b8ffbc18da",
+      "priority": 1,
+      "group": "8ddd6d0158d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "termination",
+      "meaningInSourceLanguage": "解雇",
+      "id": "f98e544cf9f5",
+      "priority": 0,
+      "group": "5ce9508221e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "termination",
+      "meaning": "解雇",
+      "audio": "609e81bf083c515c6ef9564e31f9f96052191a9c130757aafe085379ad260628",
+      "id": "b7aa703cf63c",
+      "priority": 1,
+      "group": "5ce9508221e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "retirement",
+      "meaningInSourceLanguage": "退休",
+      "id": "bc99cbc4722a",
+      "priority": 0,
+      "group": "fb442698b7cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retirement",
+      "meaning": "退休",
+      "audio": "100c2c1514797b54087b28cc54e99234e61f299987f2aecd49a02eb2f8b3d082",
+      "id": "3dbf6c1dcb6c",
+      "priority": 1,
+      "group": "fb442698b7cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "probation",
+      "meaningInSourceLanguage": "试用期",
+      "id": "8a456752e00f",
+      "priority": 0,
+      "group": "c2a9d13f9786"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "probation",
+      "meaning": "试用期",
+      "audio": "8c3f6cbdb9bb427591e9234775039cccff886c4e721a5e38a703df4a057c10de",
+      "id": "de2eedfa104c",
+      "priority": 1,
+      "group": "c2a9d13f9786"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "performance review",
+      "meaningInSourceLanguage": "绩效评估",
+      "id": "ebd389bdcd5c",
+      "priority": 0,
+      "group": "2891380b00eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "performance review",
+      "meaning": "绩效评估",
+      "audio": "49916c2a184d3187b7bf784f2add8450142625aebd94152c7496e6b6cdad766b",
+      "id": "0903365ecbd4",
+      "priority": 1,
+      "group": "2891380b00eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "code of conduct",
+      "meaningInSourceLanguage": "行为准则",
+      "id": "ec6c97b7b74e",
+      "priority": 0,
+      "group": "28a2736e5b73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "code of conduct",
+      "meaning": "行为准则",
+      "audio": "defe076bd0a44fd494dcb8af2a2a1666614c52169c7c5823ce6e486137ba5ec6",
+      "id": "802bf1ba18ac",
+      "priority": 1,
+      "group": "28a2736e5b73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "non-disclosure agreement",
+      "meaningInSourceLanguage": "保密协议",
+      "id": "59cd8bd3e616",
+      "priority": 0,
+      "group": "df81763f764c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "non-disclosure agreement",
+      "meaning": "保密协议",
+      "audio": "04992e7360d13b24f4ce80b78e3fbf8c7e9a936e4c89d1f84dc2a64c68f669a5",
+      "id": "3129af79b3b4",
+      "priority": 1,
+      "group": "df81763f764c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "non-compete clause",
+      "meaningInSourceLanguage": "竞业限制条款",
+      "id": "09fe55aaadc8",
+      "priority": 0,
+      "group": "e4a940efa2c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "non-compete clause",
+      "meaning": "竞业限制条款",
+      "audio": "9737e3a9d8b3606ef475d2e58f5f099c6543268e78ce0921af2f61d0e2ce4c61",
+      "id": "1e3d59015d2d",
+      "priority": 1,
+      "group": "e4a940efa2c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "onboarding",
+      "meaningInSourceLanguage": "入职培训",
+      "id": "d25865bf9dbd",
+      "priority": 0,
+      "group": "16c817dd5982"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "onboarding",
+      "meaning": "入职培训",
+      "audio": "16e7001ff48ef8279bdc840d4098da6b4d300385375ba6695fbdfc5d548d1f18",
+      "id": "8fb6c4f9e874",
+      "priority": 1,
+      "group": "16c817dd5982"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orientation",
+      "meaningInSourceLanguage": "入职介绍",
+      "id": "c32e4622a495",
+      "priority": 0,
+      "group": "331e9c2b8f71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orientation",
+      "meaning": "入职介绍",
+      "audio": "c4b7761988fa56efdd06e3356c9aa8c417428c509fd377bd0895ef3c3e9a109d",
+      "id": "f86a2d3fdabe",
+      "priority": 1,
+      "group": "331e9c2b8f71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "team building",
+      "meaningInSourceLanguage": "团建",
+      "id": "bbf974a9e602",
+      "priority": 0,
+      "group": "53ef4bb81616"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "team building",
+      "meaning": "团建",
+      "audio": "a532103e4634c662021df43c6ac37ed8bdd22debc07916e23c9d73188440cafb",
+      "id": "fc6094f0784f",
+      "priority": 1,
+      "group": "53ef4bb81616"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "corporate culture",
+      "meaningInSourceLanguage": "企业文化",
+      "id": "7d6451da4521",
+      "priority": 0,
+      "group": "aa428216880f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "corporate culture",
+      "meaning": "企业文化",
+      "audio": "68bc1e7f74d95279624ecc837a187251058300e2a96ed4d82e45c34a356de1d6",
+      "id": "fe2e1772b0ae",
+      "priority": 1,
+      "group": "aa428216880f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "work-life balance",
+      "meaningInSourceLanguage": "工作生活平衡",
+      "id": "5ddcc643a3e7",
+      "priority": 0,
+      "group": "d0a01ffd778e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "work-life balance",
+      "meaning": "工作生活平衡",
+      "audio": "09df34a573aaafdad0ba6cbf642a7117f09bd8af3f8747f101ce7b22a82eff6e",
+      "id": "da35262970c1",
+      "priority": 1,
+      "group": "d0a01ffd778e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "remote work",
+      "meaningInSourceLanguage": "远程工作",
+      "id": "35e5384c92c4",
+      "priority": 0,
+      "group": "490bb53604db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "remote work",
+      "meaning": "远程工作",
+      "audio": "f51a337ec8f1621e4cbd516dc8e74d34382fdd62477428d2ffe4fc262ac0818c",
+      "id": "b9ef2f519a25",
+      "priority": 1,
+      "group": "490bb53604db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flexible hours",
+      "meaningInSourceLanguage": "弹性工时",
+      "id": "d43a799ae8fc",
+      "priority": 0,
+      "group": "5a48040cd04f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flexible hours",
+      "meaning": "弹性工时",
+      "audio": "4d717bd4d09ca3f35bc079e64d6de5b666d4c3716e0f83e16c70afea24815580",
+      "id": "851bc83c2344",
+      "priority": 1,
+      "group": "5a48040cd04f"
+    }
+  ]
+}

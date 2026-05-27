@@ -1,0 +1,1502 @@
+{
+  "id": "8f7b35637f14",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's your plan for today?",
+      "meaningInSourceLanguage": "今天有什么计划？",
+      "id": "66c80e8dcd46",
+      "priority": 0,
+      "group": "ea97d8053e77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's your plan for today?",
+      "meaning": "今天有什么计划？",
+      "audio": "f40e1960c05b4addb4a89803d4e30ff4",
+      "id": "156dbd5b5ea0",
+      "priority": 1,
+      "group": "ea97d8053e77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm going to the museum.",
+      "meaningInSourceLanguage": "我要去博物馆。",
+      "id": "d4ae8bb90408",
+      "priority": 0,
+      "group": "d3c3bd53264d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm going to the museum.",
+      "meaning": "我要去博物馆。",
+      "audio": "696f73ad5461423280e804f78c0984a8",
+      "id": "0d9b604cbbbd",
+      "priority": 1,
+      "group": "d3c3bd53264d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is it far from here?",
+      "meaningInSourceLanguage": "离这里远吗？",
+      "id": "5f0e0a12113b",
+      "priority": 0,
+      "group": "bc3cfd48477e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is it far from here?",
+      "meaning": "离这里远吗？",
+      "audio": "5e9888ba0008491c8ecdc85d49701a91",
+      "id": "8a6fc756634f",
+      "priority": 1,
+      "group": "bc3cfd48477e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "No, it's within walking distance.",
+      "meaningInSourceLanguage": "不远，步行就能到。",
+      "id": "c7437efc2251",
+      "priority": 0,
+      "group": "e9cb9f8e03f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "No, it's within walking distance.",
+      "meaning": "不远，步行就能到。",
+      "audio": "950f2b0f880d4f808f3d92e628a140f5",
+      "id": "0a8efcc29409",
+      "priority": 1,
+      "group": "e9cb9f8e03f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please take a seat.",
+      "meaningInSourceLanguage": "请坐。",
+      "id": "1e6173e25939",
+      "priority": 0,
+      "group": "cdcf7f37cf96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please take a seat.",
+      "meaning": "请坐。",
+      "audio": "e64d357c52c44eb2be879a30f5cf4f2d",
+      "id": "4e9f9af8a637",
+      "priority": 1,
+      "group": "cdcf7f37cf96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thank you.",
+      "meaningInSourceLanguage": "谢谢。",
+      "id": "251bd5ea9889",
+      "priority": 0,
+      "group": "f296a2948eb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thank you.",
+      "meaning": "谢谢。",
+      "audio": "e72526ec42b64812a2dbc875c5e9ddf3",
+      "id": "d85d8917f776",
+      "priority": 1,
+      "group": "f296a2948eb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I open the window?",
+      "meaningInSourceLanguage": "我能打开窗户吗？",
+      "id": "ee4f0b864490",
+      "priority": 0,
+      "group": "11a839a3ca95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I open the window?",
+      "meaning": "我能打开窗户吗？",
+      "audio": "26c9ae63a282447d9d2f29a5c2322336",
+      "id": "6bac8f3afb30",
+      "priority": 1,
+      "group": "11a839a3ca95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, it's a bit stuffy.",
+      "meaningInSourceLanguage": "当然，有点闷。",
+      "id": "80502ff598f7",
+      "priority": 0,
+      "group": "13b1f510cdcf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, it's a bit stuffy.",
+      "meaning": "当然，有点闷。",
+      "audio": "4f525421794e4aca939139c155978ec8",
+      "id": "7144931e6d4b",
+      "priority": 1,
+      "group": "13b1f510cdcf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is your name?",
+      "meaningInSourceLanguage": "什么是你的名字？",
+      "id": "efa082ca20b1",
+      "priority": 0,
+      "group": "7df945622ea9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is your name?",
+      "meaning": "什么是你的名字？",
+      "audio": "4152b5585de149f7a7c8380afb751dcb",
+      "id": "97354c01ce45",
+      "priority": 1,
+      "group": "7df945622ea9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is the problem?",
+      "meaningInSourceLanguage": "什么是问题？",
+      "id": "5a34188631cc",
+      "priority": 0,
+      "group": "cc9586c807d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is the problem?",
+      "meaning": "什么是问题？",
+      "audio": "cc5b75a67b9c4e6cbe23a7882fdb4b4a",
+      "id": "c0ada48391a3",
+      "priority": 1,
+      "group": "cc9586c807d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is the answer?",
+      "meaningInSourceLanguage": "什么是答案？",
+      "id": "10a8875fb7f7",
+      "priority": 0,
+      "group": "8ea401905bfa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is the answer?",
+      "meaning": "什么是答案？",
+      "audio": "accaba3b49ac4770abfe11c1e9228050",
+      "id": "71dd3496ac2d",
+      "priority": 1,
+      "group": "8ea401905bfa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is the reason?",
+      "meaningInSourceLanguage": "什么是原因？",
+      "id": "9ee36a9ff6d2",
+      "priority": 0,
+      "group": "db37d912a077"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is the reason?",
+      "meaning": "什么是原因？",
+      "audio": "c2f4c7f3ef78438ea06fdc4b8440f33c",
+      "id": "f69a6f4c2860",
+      "priority": 1,
+      "group": "db37d912a077"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is your favorite?",
+      "meaningInSourceLanguage": "什么是你最喜欢的？",
+      "id": "807762c2cb66",
+      "priority": 0,
+      "group": "1e6479acf9ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is your favorite?",
+      "meaning": "什么是你最喜欢的？",
+      "audio": "cd3a12c0480d429a94f5663c088f7303",
+      "id": "922dd5845c6d",
+      "priority": 1,
+      "group": "1e6479acf9ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is the best way?",
+      "meaningInSourceLanguage": "什么是最好的方法？",
+      "id": "6fe2401ed969",
+      "priority": 0,
+      "group": "35b055ed4fd2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is the best way?",
+      "meaning": "什么是最好的方法？",
+      "audio": "8a72fe947e5f4c709458a855850f9c4c",
+      "id": "77fffa905918",
+      "priority": 1,
+      "group": "35b055ed4fd2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is the difference?",
+      "meaningInSourceLanguage": "什么是区别？",
+      "id": "a50ac26e4824",
+      "priority": 0,
+      "group": "5981438caa66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is the difference?",
+      "meaning": "什么是区别？",
+      "audio": "5e88f8980f0a4fb2a6df450cbe26eed7",
+      "id": "aa000eeedfa8",
+      "priority": 1,
+      "group": "5981438caa66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is the meaning?",
+      "meaningInSourceLanguage": "什么是意思？",
+      "id": "a3a4b738bf0e",
+      "priority": 0,
+      "group": "e2c5410e7c17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is the meaning?",
+      "meaning": "什么是意思？",
+      "audio": "55483929207a4c1fb98354aabc342a44",
+      "id": "84123169f4bf",
+      "priority": 1,
+      "group": "e2c5410e7c17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is your name?",
+      "meaningInSourceLanguage": "在哪里你的名字？",
+      "id": "44dc5e936352",
+      "priority": 0,
+      "group": "f4b2b8583864"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is your name?",
+      "meaning": "在哪里你的名字？",
+      "audio": "3da6ec9026c842b192514d3cc3dbd2c1",
+      "id": "3705f33b645e",
+      "priority": 1,
+      "group": "f4b2b8583864"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the problem?",
+      "meaningInSourceLanguage": "在哪里问题？",
+      "id": "1a88286efed2",
+      "priority": 0,
+      "group": "bd6ecd3887b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the problem?",
+      "meaning": "在哪里问题？",
+      "audio": "17fff4afab4a40199b2864832a5481fe",
+      "id": "2341a753c419",
+      "priority": 1,
+      "group": "bd6ecd3887b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the answer?",
+      "meaningInSourceLanguage": "在哪里答案？",
+      "id": "f3f4a61646d6",
+      "priority": 0,
+      "group": "df33c16f715e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the answer?",
+      "meaning": "在哪里答案？",
+      "audio": "892640c933094e68af7b4e3d4cfae836",
+      "id": "98395fc7ac5c",
+      "priority": 1,
+      "group": "df33c16f715e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the reason?",
+      "meaningInSourceLanguage": "在哪里原因？",
+      "id": "3aebb708f0a1",
+      "priority": 0,
+      "group": "cfbfa061551c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the reason?",
+      "meaning": "在哪里原因？",
+      "audio": "13d25924ff2744a9b7ca73002e485cf4",
+      "id": "553c842ccdd3",
+      "priority": 1,
+      "group": "cfbfa061551c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is your favorite?",
+      "meaningInSourceLanguage": "在哪里你最喜欢的？",
+      "id": "16a47b134225",
+      "priority": 0,
+      "group": "2b847c7ba8c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is your favorite?",
+      "meaning": "在哪里你最喜欢的？",
+      "audio": "32642b2c263d413990ab63408401b793",
+      "id": "5c3aef61a06c",
+      "priority": 1,
+      "group": "2b847c7ba8c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the best way?",
+      "meaningInSourceLanguage": "在哪里最好的方法？",
+      "id": "a0342cad7cd8",
+      "priority": 0,
+      "group": "bd62b506e05e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the best way?",
+      "meaning": "在哪里最好的方法？",
+      "audio": "769fcf7cf1bc45a8b849d886ae59042b",
+      "id": "5bffb779494b",
+      "priority": 1,
+      "group": "bd62b506e05e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the difference?",
+      "meaningInSourceLanguage": "在哪里区别？",
+      "id": "10b9483ac1c2",
+      "priority": 0,
+      "group": "9cb0b2118693"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the difference?",
+      "meaning": "在哪里区别？",
+      "audio": "4ca8ac58709b4731941c3f5610c581d7",
+      "id": "3f08ab254128",
+      "priority": 1,
+      "group": "9cb0b2118693"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the meaning?",
+      "meaningInSourceLanguage": "在哪里意思？",
+      "id": "9cc35b46a11c",
+      "priority": 0,
+      "group": "22b22e7a88c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the meaning?",
+      "meaning": "在哪里意思？",
+      "audio": "ee8426d5dec64d869dc92b7fbcf4377c",
+      "id": "2074f7a4314d",
+      "priority": 1,
+      "group": "22b22e7a88c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is your name?",
+      "meaningInSourceLanguage": "什么时候你的名字？",
+      "id": "82ead227499b",
+      "priority": 0,
+      "group": "9baaf6263cd1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is your name?",
+      "meaning": "什么时候你的名字？",
+      "audio": "345dd9bbd0e54f67908e3874daaf0490",
+      "id": "f54195fdb5fc",
+      "priority": 1,
+      "group": "9baaf6263cd1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is the problem?",
+      "meaningInSourceLanguage": "什么时候问题？",
+      "id": "9a5f3dc49f92",
+      "priority": 0,
+      "group": "2b4c6e2c2c6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is the problem?",
+      "meaning": "什么时候问题？",
+      "audio": "4241ede47d654e30a240960bb5b4b6cf",
+      "id": "59a003a6ad05",
+      "priority": 1,
+      "group": "2b4c6e2c2c6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is the answer?",
+      "meaningInSourceLanguage": "什么时候答案？",
+      "id": "4df6f347f04e",
+      "priority": 0,
+      "group": "061cbd838b2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is the answer?",
+      "meaning": "什么时候答案？",
+      "audio": "e4a038e649dc4e789bb3b0298f756bb3",
+      "id": "1f45ca4ba04b",
+      "priority": 1,
+      "group": "061cbd838b2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is the reason?",
+      "meaningInSourceLanguage": "什么时候原因？",
+      "id": "84821d69af6d",
+      "priority": 0,
+      "group": "50869baee341"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is the reason?",
+      "meaning": "什么时候原因？",
+      "audio": "a09bae100be24e2e989cb74c291ea877",
+      "id": "26974d9f93e8",
+      "priority": 1,
+      "group": "50869baee341"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is your favorite?",
+      "meaningInSourceLanguage": "什么时候你最喜欢的？",
+      "id": "41ee5d9bc0a9",
+      "priority": 0,
+      "group": "2431643d103a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is your favorite?",
+      "meaning": "什么时候你最喜欢的？",
+      "audio": "13e77f4b4f4c436699cb3443468f65ee",
+      "id": "3b953675df16",
+      "priority": 1,
+      "group": "2431643d103a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is the best way?",
+      "meaningInSourceLanguage": "什么时候最好的方法？",
+      "id": "897181d3a72f",
+      "priority": 0,
+      "group": "6ed568eca373"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is the best way?",
+      "meaning": "什么时候最好的方法？",
+      "audio": "a8cd2b0f04434e3ba2cdeb1885668ce0",
+      "id": "772931f907cc",
+      "priority": 1,
+      "group": "6ed568eca373"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is the difference?",
+      "meaningInSourceLanguage": "什么时候区别？",
+      "id": "85ba25c150d5",
+      "priority": 0,
+      "group": "59d79d9ade05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is the difference?",
+      "meaning": "什么时候区别？",
+      "audio": "afdd255531c44f6b928973fc4c25acaa",
+      "id": "8ac40b910e9e",
+      "priority": 1,
+      "group": "59d79d9ade05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is the meaning?",
+      "meaningInSourceLanguage": "什么时候意思？",
+      "id": "4fb728472d7e",
+      "priority": 0,
+      "group": "32b290082cbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is the meaning?",
+      "meaning": "什么时候意思？",
+      "audio": "b9808e7f619947f39c651ade20d20433",
+      "id": "6353e4c19aef",
+      "priority": 1,
+      "group": "32b290082cbd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is your name?",
+      "meaningInSourceLanguage": "是谁你的名字？",
+      "id": "235c9d9e60a0",
+      "priority": 0,
+      "group": "832b1b249460"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is your name?",
+      "meaning": "是谁你的名字？",
+      "audio": "88b811aca3214517b1f2fe3efb5e1382",
+      "id": "cbab19034e6c",
+      "priority": 1,
+      "group": "832b1b249460"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is the problem?",
+      "meaningInSourceLanguage": "是谁问题？",
+      "id": "d912dee1e103",
+      "priority": 0,
+      "group": "8a5c44bbca81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is the problem?",
+      "meaning": "是谁问题？",
+      "audio": "a011f6ee675046989aae8753cfd3566b",
+      "id": "a01d62534dce",
+      "priority": 1,
+      "group": "8a5c44bbca81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is the answer?",
+      "meaningInSourceLanguage": "是谁答案？",
+      "id": "b00e75ffc8b8",
+      "priority": 0,
+      "group": "ee320b12edbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is the answer?",
+      "meaning": "是谁答案？",
+      "audio": "c4c3679eab944c98883a36bb64748dca",
+      "id": "4b1b9f121391",
+      "priority": 1,
+      "group": "ee320b12edbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is the reason?",
+      "meaningInSourceLanguage": "是谁原因？",
+      "id": "232b279854e5",
+      "priority": 0,
+      "group": "9c2f3bda6f32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is the reason?",
+      "meaning": "是谁原因？",
+      "audio": "0597ad6dfd27428bbf614e347d9de4a8",
+      "id": "c2c04ee128d3",
+      "priority": 1,
+      "group": "9c2f3bda6f32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is your favorite?",
+      "meaningInSourceLanguage": "是谁你最喜欢的？",
+      "id": "b391471af876",
+      "priority": 0,
+      "group": "c7b1ec257b63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is your favorite?",
+      "meaning": "是谁你最喜欢的？",
+      "audio": "46f2a7326d5a49738f5a503f10f5eb40",
+      "id": "3e9f981b9d7d",
+      "priority": 1,
+      "group": "c7b1ec257b63"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is the best way?",
+      "meaningInSourceLanguage": "是谁最好的方法？",
+      "id": "69d473eec88d",
+      "priority": 0,
+      "group": "3791ae6401dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is the best way?",
+      "meaning": "是谁最好的方法？",
+      "audio": "4a96bf0d86b2419b98ffe450b9cbcaf7",
+      "id": "0f2a08f949d6",
+      "priority": 1,
+      "group": "3791ae6401dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is the difference?",
+      "meaningInSourceLanguage": "是谁区别？",
+      "id": "36f6bdf9044d",
+      "priority": 0,
+      "group": "9f9be9c48360"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is the difference?",
+      "meaning": "是谁区别？",
+      "audio": "834840fba9044a0a8bcb5699379a2ff1",
+      "id": "5540420de091",
+      "priority": 1,
+      "group": "9f9be9c48360"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is the meaning?",
+      "meaningInSourceLanguage": "是谁意思？",
+      "id": "dfdea705bfca",
+      "priority": 0,
+      "group": "10a88e9daa6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is the meaning?",
+      "meaning": "是谁意思？",
+      "audio": "3f125c246583442b901d68a5551dca49",
+      "id": "76b05e70e11c",
+      "priority": 1,
+      "group": "10a88e9daa6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Why is your name?",
+      "meaningInSourceLanguage": "为什么你的名字？",
+      "id": "d7a6a4c929e2",
+      "priority": 0,
+      "group": "7a1061af44ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Why is your name?",
+      "meaning": "为什么你的名字？",
+      "audio": "5461fd149cfa4364a08245ad4d9ad02d",
+      "id": "8448389fd693",
+      "priority": 1,
+      "group": "7a1061af44ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Why is the problem?",
+      "meaningInSourceLanguage": "为什么问题？",
+      "id": "44cf18e75936",
+      "priority": 0,
+      "group": "8e45d8a53abd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Why is the problem?",
+      "meaning": "为什么问题？",
+      "audio": "264dbf4b42e648789d48356b82a0f337",
+      "id": "6cfeef4eeb7f",
+      "priority": 1,
+      "group": "8e45d8a53abd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Why is the answer?",
+      "meaningInSourceLanguage": "为什么答案？",
+      "id": "e340ca9a9434",
+      "priority": 0,
+      "group": "250ff9f88988"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Why is the answer?",
+      "meaning": "为什么答案？",
+      "audio": "b88a6880f6c34460a05c372f1d0832a3",
+      "id": "15b965fa2bf4",
+      "priority": 1,
+      "group": "250ff9f88988"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Why is the reason?",
+      "meaningInSourceLanguage": "为什么原因？",
+      "id": "b14ab1daa583",
+      "priority": 0,
+      "group": "b0dc30fcd29b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Why is the reason?",
+      "meaning": "为什么原因？",
+      "audio": "034dbd4dfde14132808d00f769df5a36",
+      "id": "74e5b0b9c975",
+      "priority": 1,
+      "group": "b0dc30fcd29b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Why is your favorite?",
+      "meaningInSourceLanguage": "为什么你最喜欢的？",
+      "id": "add1b0a951eb",
+      "priority": 0,
+      "group": "081cc553e08f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Why is your favorite?",
+      "meaning": "为什么你最喜欢的？",
+      "audio": "ba2e63733d144df79fa1ed407e23a006",
+      "id": "7bf4a308015d",
+      "priority": 1,
+      "group": "081cc553e08f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Why is the best way?",
+      "meaningInSourceLanguage": "为什么最好的方法？",
+      "id": "f9dda084f9f2",
+      "priority": 0,
+      "group": "cb15cd872f4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Why is the best way?",
+      "meaning": "为什么最好的方法？",
+      "audio": "dd84b2b55d84458ab9079a88daaefeff",
+      "id": "7bd17f8e8b09",
+      "priority": 1,
+      "group": "cb15cd872f4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Why is the difference?",
+      "meaningInSourceLanguage": "为什么区别？",
+      "id": "1505b472a5a5",
+      "priority": 0,
+      "group": "326509213624"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Why is the difference?",
+      "meaning": "为什么区别？",
+      "audio": "29aa154f1ce548f9ba78796279a6a928",
+      "id": "4bbd93c07a4b",
+      "priority": 1,
+      "group": "326509213624"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Why is the meaning?",
+      "meaningInSourceLanguage": "为什么意思？",
+      "id": "8da26d0c2d70",
+      "priority": 0,
+      "group": "94f7abb0ecab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Why is the meaning?",
+      "meaning": "为什么意思？",
+      "audio": "7aaedbba9c0544f09f4d555c7be0196a",
+      "id": "b5eaaac1397b",
+      "priority": 1,
+      "group": "94f7abb0ecab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How is your name?",
+      "meaningInSourceLanguage": "怎么你的名字？",
+      "id": "06a7dd824890",
+      "priority": 0,
+      "group": "79ff90eb4e34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How is your name?",
+      "meaning": "怎么你的名字？",
+      "audio": "551cabec93064ecab6ff105b6ffec3c9",
+      "id": "46ff8a53020a",
+      "priority": 1,
+      "group": "79ff90eb4e34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How is the problem?",
+      "meaningInSourceLanguage": "怎么问题？",
+      "id": "c98984dfb547",
+      "priority": 0,
+      "group": "e55f7baf014d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How is the problem?",
+      "meaning": "怎么问题？",
+      "audio": "d7c76c9e5d5e44e79a8f009202574a7f",
+      "id": "f445904d487e",
+      "priority": 1,
+      "group": "e55f7baf014d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How is the answer?",
+      "meaningInSourceLanguage": "怎么答案？",
+      "id": "922d3c71f312",
+      "priority": 0,
+      "group": "1026d3ba31f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How is the answer?",
+      "meaning": "怎么答案？",
+      "audio": "1b76e803562f4d70b2b68429b3c42787",
+      "id": "2894deace5e7",
+      "priority": 1,
+      "group": "1026d3ba31f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How is the reason?",
+      "meaningInSourceLanguage": "怎么原因？",
+      "id": "c83d0121a15b",
+      "priority": 0,
+      "group": "3650c1e17d27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How is the reason?",
+      "meaning": "怎么原因？",
+      "audio": "1253d1528d7f4da8afa56cf5bc604bdd",
+      "id": "9dd7e724f55d",
+      "priority": 1,
+      "group": "3650c1e17d27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How is your favorite?",
+      "meaningInSourceLanguage": "怎么你最喜欢的？",
+      "id": "d594747e6bc7",
+      "priority": 0,
+      "group": "7b9b3f839bc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How is your favorite?",
+      "meaning": "怎么你最喜欢的？",
+      "audio": "79414c28e8ee4101b64e8fc66c4bd573",
+      "id": "3d9542849b74",
+      "priority": 1,
+      "group": "7b9b3f839bc1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How is the best way?",
+      "meaningInSourceLanguage": "怎么最好的方法？",
+      "id": "91b09c76fb35",
+      "priority": 0,
+      "group": "fa6985917c6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How is the best way?",
+      "meaning": "怎么最好的方法？",
+      "audio": "d64386d929a945e29db9b4a28a239129",
+      "id": "e81654b0ec46",
+      "priority": 1,
+      "group": "fa6985917c6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How is the difference?",
+      "meaningInSourceLanguage": "怎么区别？",
+      "id": "ef02bbb3ce7d",
+      "priority": 0,
+      "group": "8088820c5523"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How is the difference?",
+      "meaning": "怎么区别？",
+      "audio": "473c71580aab49428b07ba448ebc6bee",
+      "id": "5e2a355692e1",
+      "priority": 1,
+      "group": "8088820c5523"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How is the meaning?",
+      "meaningInSourceLanguage": "怎么意思？",
+      "id": "3accbbcdb828",
+      "priority": 0,
+      "group": "84847d242479"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How is the meaning?",
+      "meaning": "怎么意思？",
+      "audio": "22c4a24d9f664e5d97915a6174d0a900",
+      "id": "2accb8222bbe",
+      "priority": 1,
+      "group": "84847d242479"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like your name?",
+      "meaningInSourceLanguage": "你喜欢你的名字？",
+      "id": "ddff69443b2e",
+      "priority": 0,
+      "group": "a90450b826db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like your name?",
+      "meaning": "你喜欢你的名字？",
+      "audio": "7c38781a784e4bfb8f02aac4ea6c97f9",
+      "id": "0a14f0ee558b",
+      "priority": 1,
+      "group": "a90450b826db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like the problem?",
+      "meaningInSourceLanguage": "你喜欢问题？",
+      "id": "6fb3bbe70b97",
+      "priority": 0,
+      "group": "5d4e9ebbac03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like the problem?",
+      "meaning": "你喜欢问题？",
+      "audio": "8723a62a67104b95952e9e2c0daf0b5a",
+      "id": "403c1f576530",
+      "priority": 1,
+      "group": "5d4e9ebbac03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like the answer?",
+      "meaningInSourceLanguage": "你喜欢答案？",
+      "id": "56e17d71c0f0",
+      "priority": 0,
+      "group": "998549d43364"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like the answer?",
+      "meaning": "你喜欢答案？",
+      "audio": "8c230875897f4d64b8e5fa4b7dcfce44",
+      "id": "c2421ef0c51a",
+      "priority": 1,
+      "group": "998549d43364"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like the reason?",
+      "meaningInSourceLanguage": "你喜欢原因？",
+      "id": "07f3fa7b3bf3",
+      "priority": 0,
+      "group": "42743b8901a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like the reason?",
+      "meaning": "你喜欢原因？",
+      "audio": "806d013276b24b5e94c48f6c4392a4db",
+      "id": "10b2998b7590",
+      "priority": 1,
+      "group": "42743b8901a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like your favorite?",
+      "meaningInSourceLanguage": "你喜欢你最喜欢的？",
+      "id": "68e29de797b3",
+      "priority": 0,
+      "group": "772b1a2d3288"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like your favorite?",
+      "meaning": "你喜欢你最喜欢的？",
+      "audio": "5a1e98eeb61441ec96f7986a1f0a0bfb",
+      "id": "aca0fc7c4d28",
+      "priority": 1,
+      "group": "772b1a2d3288"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like the best way?",
+      "meaningInSourceLanguage": "你喜欢最好的方法？",
+      "id": "3fd4529bdb41",
+      "priority": 0,
+      "group": "96c68a860e79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like the best way?",
+      "meaning": "你喜欢最好的方法？",
+      "audio": "14844cde1cea435d9076789618519fd4",
+      "id": "b2e4323cf296",
+      "priority": 1,
+      "group": "96c68a860e79"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like the difference?",
+      "meaningInSourceLanguage": "你喜欢区别？",
+      "id": "5ae780ad3b0a",
+      "priority": 0,
+      "group": "01f75e6b0cb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like the difference?",
+      "meaning": "你喜欢区别？",
+      "audio": "d75421fc215647b7b03ababb0ae9e879",
+      "id": "e925d485b612",
+      "priority": 1,
+      "group": "01f75e6b0cb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like the meaning?",
+      "meaningInSourceLanguage": "你喜欢意思？",
+      "id": "22d5d2f49b44",
+      "priority": 0,
+      "group": "89c9bbefc4ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like the meaning?",
+      "meaning": "你喜欢意思？",
+      "audio": "b3b7f0785da4411a8d852115bde98a50",
+      "id": "bdd5d1759be0",
+      "priority": 1,
+      "group": "89c9bbefc4ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you your name?",
+      "meaningInSourceLanguage": "你能你的名字？",
+      "id": "bdf5f66d02f4",
+      "priority": 0,
+      "group": "73bb6e87cc96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you your name?",
+      "meaning": "你能你的名字？",
+      "audio": "3e4d8623d19d4065be3a4e1d165bd030",
+      "id": "a0c6926c0646",
+      "priority": 1,
+      "group": "73bb6e87cc96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you the problem?",
+      "meaningInSourceLanguage": "你能问题？",
+      "id": "273f1c2cc48a",
+      "priority": 0,
+      "group": "96e7226d6061"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you the problem?",
+      "meaning": "你能问题？",
+      "audio": "39cd6ef25b14421aa848b9c9d5364f3d",
+      "id": "6e1502294c7e",
+      "priority": 1,
+      "group": "96e7226d6061"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you the answer?",
+      "meaningInSourceLanguage": "你能答案？",
+      "id": "6e730ef483a1",
+      "priority": 0,
+      "group": "2e5190342b7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you the answer?",
+      "meaning": "你能答案？",
+      "audio": "75ae6c038bac4ff48b30622b06a7de2e",
+      "id": "22d1dce257d2",
+      "priority": 1,
+      "group": "2e5190342b7a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you the reason?",
+      "meaningInSourceLanguage": "你能原因？",
+      "id": "da1720aa2be7",
+      "priority": 0,
+      "group": "b95643d99eea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you the reason?",
+      "meaning": "你能原因？",
+      "audio": "881b7cc94b7540538cf0ccdd2677b7eb",
+      "id": "b394a6a93e0f",
+      "priority": 1,
+      "group": "b95643d99eea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you your favorite?",
+      "meaningInSourceLanguage": "你能你最喜欢的？",
+      "id": "172830cfc99e",
+      "priority": 0,
+      "group": "a5f0368e5fcc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you your favorite?",
+      "meaning": "你能你最喜欢的？",
+      "audio": "f0c0bc124ffb43ef961b4f58484aa7fb",
+      "id": "42e9eae8d758",
+      "priority": 1,
+      "group": "a5f0368e5fcc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you the best way?",
+      "meaningInSourceLanguage": "你能最好的方法？",
+      "id": "f8076b1faa35",
+      "priority": 0,
+      "group": "8303d178ae00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you the best way?",
+      "meaning": "你能最好的方法？",
+      "audio": "7eaa6e8342f04ef8abb74f6406975de9",
+      "id": "2a5b85279842",
+      "priority": 1,
+      "group": "8303d178ae00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you the difference?",
+      "meaningInSourceLanguage": "你能区别？",
+      "id": "5496b57132d4",
+      "priority": 0,
+      "group": "67f6429b3f3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you the difference?",
+      "meaning": "你能区别？",
+      "audio": "758f4c19cf9c41399f07b1a9ffacce17",
+      "id": "41c7898bf304",
+      "priority": 1,
+      "group": "67f6429b3f3e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you the meaning?",
+      "meaningInSourceLanguage": "你能意思？",
+      "id": "e3f82c7ec881",
+      "priority": 0,
+      "group": "a10e0260ae32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you the meaning?",
+      "meaning": "你能意思？",
+      "audio": "09dcfb22de8a4d86ab2a0d2196b69979",
+      "id": "8b29296961d6",
+      "priority": 1,
+      "group": "a10e0260ae32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Will you your name?",
+      "meaningInSourceLanguage": "你会你的名字？",
+      "id": "e0ef50bec8ed",
+      "priority": 0,
+      "group": "27126efb3fe8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Will you your name?",
+      "meaning": "你会你的名字？",
+      "audio": "42a0c9fd8756455e8d7be991b5a90559",
+      "id": "34cfa91f7273",
+      "priority": 1,
+      "group": "27126efb3fe8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Will you the problem?",
+      "meaningInSourceLanguage": "你会问题？",
+      "id": "9bce6a62704a",
+      "priority": 0,
+      "group": "a22316e85cf0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Will you the problem?",
+      "meaning": "你会问题？",
+      "audio": "eb63a166df974ce29bd9cece63dec5e3",
+      "id": "5029dd1e08d4",
+      "priority": 1,
+      "group": "a22316e85cf0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Will you the answer?",
+      "meaningInSourceLanguage": "你会答案？",
+      "id": "1d3224d7d5be",
+      "priority": 0,
+      "group": "b8417cc807e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Will you the answer?",
+      "meaning": "你会答案？",
+      "audio": "eaa2bfb2bc2243b6aa0c1b9872a3165d",
+      "id": "cf7f74a91fe3",
+      "priority": 1,
+      "group": "b8417cc807e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Will you the reason?",
+      "meaningInSourceLanguage": "你会原因？",
+      "id": "7df428ed8bb8",
+      "priority": 0,
+      "group": "19db418d0853"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Will you the reason?",
+      "meaning": "你会原因？",
+      "audio": "36a6c5566ab54b3a9b6c44438238dd1c",
+      "id": "72e3430812a4",
+      "priority": 1,
+      "group": "19db418d0853"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Will you your favorite?",
+      "meaningInSourceLanguage": "你会你最喜欢的？",
+      "id": "90dbfa1b2845",
+      "priority": 0,
+      "group": "1761a88322a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Will you your favorite?",
+      "meaning": "你会你最喜欢的？",
+      "audio": "d0a32118118d44879fc3e38b54875a64",
+      "id": "dba1619648e6",
+      "priority": 1,
+      "group": "1761a88322a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Will you the best way?",
+      "meaningInSourceLanguage": "你会最好的方法？",
+      "id": "a3659fbe64a2",
+      "priority": 0,
+      "group": "dc0fdf45c6e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Will you the best way?",
+      "meaning": "你会最好的方法？",
+      "audio": "6b32669500a44b489957369c0421995a",
+      "id": "d5e7e5705d02",
+      "priority": 1,
+      "group": "dc0fdf45c6e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Will you the difference?",
+      "meaningInSourceLanguage": "你会区别？",
+      "id": "40e27774ba99",
+      "priority": 0,
+      "group": "e184f2c51450"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Will you the difference?",
+      "meaning": "你会区别？",
+      "audio": "b29c7699523043978fe865e65aeb886f",
+      "id": "7f99245da935",
+      "priority": 1,
+      "group": "e184f2c51450"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Will you the meaning?",
+      "meaningInSourceLanguage": "你会意思？",
+      "id": "803a58bf7fe8",
+      "priority": 0,
+      "group": "4ce5f3cd075b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Will you the meaning?",
+      "meaning": "你会意思？",
+      "audio": "524d2d66508f418e9143d496c9b2cabe",
+      "id": "1080609f40bd",
+      "priority": 1,
+      "group": "4ce5f3cd075b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you your name?",
+      "meaningInSourceLanguage": "你有没有你的名字？",
+      "id": "e4ecb505f384",
+      "priority": 0,
+      "group": "22b8ea735376"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you your name?",
+      "meaning": "你有没有你的名字？",
+      "audio": "6c1b9e8fe32a45039295977d00c2a3d0",
+      "id": "038d5a813c3a",
+      "priority": 1,
+      "group": "22b8ea735376"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you the problem?",
+      "meaningInSourceLanguage": "你有没有问题？",
+      "id": "e53e6ff02eb2",
+      "priority": 0,
+      "group": "3e7cba31ca3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you the problem?",
+      "meaning": "你有没有问题？",
+      "audio": "d770d3dd3a1949529294c35525e5749f",
+      "id": "f24f24debde3",
+      "priority": 1,
+      "group": "3e7cba31ca3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you the answer?",
+      "meaningInSourceLanguage": "你有没有答案？",
+      "id": "c40dff336e9c",
+      "priority": 0,
+      "group": "5b7e0f16c924"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you the answer?",
+      "meaning": "你有没有答案？",
+      "audio": "bac28f0c57c04cb2b7e106e0d91969cd",
+      "id": "5f9b9f17a667",
+      "priority": 1,
+      "group": "5b7e0f16c924"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you the reason?",
+      "meaningInSourceLanguage": "你有没有原因？",
+      "id": "a7517b7f8b61",
+      "priority": 0,
+      "group": "99c010d7bd66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you the reason?",
+      "meaning": "你有没有原因？",
+      "audio": "ed4937b0f93f4e21bd7a5daa61b1bb6c",
+      "id": "f14e482fdfd1",
+      "priority": 1,
+      "group": "99c010d7bd66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you your favorite?",
+      "meaningInSourceLanguage": "你有没有你最喜欢的？",
+      "id": "0bc3ba6df54d",
+      "priority": 0,
+      "group": "2f7eb07c54fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you your favorite?",
+      "meaning": "你有没有你最喜欢的？",
+      "audio": "0ebc955b337643f7b4ca230bb2316355",
+      "id": "fd6f52909be0",
+      "priority": 1,
+      "group": "2f7eb07c54fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you the best way?",
+      "meaningInSourceLanguage": "你有没有最好的方法？",
+      "id": "01da735f1fa2",
+      "priority": 0,
+      "group": "e7317512fada"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you the best way?",
+      "meaning": "你有没有最好的方法？",
+      "audio": "6bac0708392e44c1a4eeb212eda49e7f",
+      "id": "b8be522a2870",
+      "priority": 1,
+      "group": "e7317512fada"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you the difference?",
+      "meaningInSourceLanguage": "你有没有区别？",
+      "id": "e934399fa020",
+      "priority": 0,
+      "group": "320fef623aff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you the difference?",
+      "meaning": "你有没有区别？",
+      "audio": "f180b091ee4f4ff08e2f80070d493fcd",
+      "id": "b559d5930f54",
+      "priority": 1,
+      "group": "320fef623aff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you the meaning?",
+      "meaningInSourceLanguage": "你有没有意思？",
+      "id": "d121ad0a691c",
+      "priority": 0,
+      "group": "6ee8a4f4acca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you the meaning?",
+      "meaning": "你有没有意思？",
+      "audio": "73035e21008b4e3bb6369685b7306288",
+      "id": "4aba04b19431",
+      "priority": 1,
+      "group": "6ee8a4f4acca"
+    }
+  ]
+}

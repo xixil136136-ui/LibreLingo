@@ -1,0 +1,958 @@
+{
+  "id": "c88747355b37",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "crime",
+      "meaningInSourceLanguage": "犯罪",
+      "id": "658bf3749912",
+      "priority": 0,
+      "group": "2671ff69efa8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crime",
+      "meaning": "犯罪",
+      "audio": "53d132e5b09e4ceeb14f57f991a88169",
+      "id": "5d61cb6032f6",
+      "priority": 1,
+      "group": "2671ff69efa8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "criminal",
+      "meaningInSourceLanguage": "罪犯",
+      "id": "58e3bf971110",
+      "priority": 0,
+      "group": "80507fd10bae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "criminal",
+      "meaning": "罪犯",
+      "audio": "7d30d960f72f422a83f23f9456b0ae8c",
+      "id": "404789d420ec",
+      "priority": 1,
+      "group": "80507fd10bae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "felony",
+      "meaningInSourceLanguage": "重罪",
+      "id": "02b72a5579e7",
+      "priority": 0,
+      "group": "9e3e2456adf8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "felony",
+      "meaning": "重罪",
+      "audio": "de42b94aa3e0466ca8bd312d1abe410e",
+      "id": "31e8d8192483",
+      "priority": 1,
+      "group": "9e3e2456adf8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "misdemeanor",
+      "meaningInSourceLanguage": "轻罪",
+      "id": "15d352030bc5",
+      "priority": 0,
+      "group": "eb371c0bd18a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "misdemeanor",
+      "meaning": "轻罪",
+      "audio": "5b293ad486bc4dcea8f8c2f73ef7f4a8",
+      "id": "222bbe7f0b6f",
+      "priority": 1,
+      "group": "eb371c0bd18a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "murder",
+      "meaningInSourceLanguage": "谋杀",
+      "id": "27a1455b0b5c",
+      "priority": 0,
+      "group": "154a6e0a001c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "murder",
+      "meaning": "谋杀",
+      "audio": "a82c82fbeef246618ab4b6a0e9329240",
+      "id": "e3fb27db3d53",
+      "priority": 1,
+      "group": "154a6e0a001c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "manslaughter",
+      "meaningInSourceLanguage": "过失杀人",
+      "id": "228c97c1c3aa",
+      "priority": 0,
+      "group": "d574d9291b73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "manslaughter",
+      "meaning": "过失杀人",
+      "audio": "e408264f39fa4aebb66b1574cbc541b1",
+      "id": "4dd4346ba46c",
+      "priority": 1,
+      "group": "d574d9291b73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "homicide",
+      "meaningInSourceLanguage": "杀人",
+      "id": "d386f731bb02",
+      "priority": 0,
+      "group": "ee518b56fe3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "homicide",
+      "meaning": "杀人",
+      "audio": "4ca1d404ae7d4bd68bf57f7ec4d995c7",
+      "id": "0b5226b5de88",
+      "priority": 1,
+      "group": "ee518b56fe3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "assault",
+      "meaningInSourceLanguage": "攻击",
+      "id": "714d1bdda74b",
+      "priority": 0,
+      "group": "cc9b5a4368a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "assault",
+      "meaning": "攻击",
+      "audio": "492b4380a6d94c6da349fc810f358f28",
+      "id": "ca34cc9ef012",
+      "priority": 1,
+      "group": "cc9b5a4368a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "battery",
+      "meaningInSourceLanguage": "殴打",
+      "id": "b9ebcdb05268",
+      "priority": 0,
+      "group": "31b31ebb10e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "battery",
+      "meaning": "殴打",
+      "audio": "fe0ca637406b407183a20c41b689443e",
+      "id": "dbd2363076ff",
+      "priority": 1,
+      "group": "31b31ebb10e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "robbery",
+      "meaningInSourceLanguage": "抢劫",
+      "id": "8e6bc8737973",
+      "priority": 0,
+      "group": "be33bd27d226"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "robbery",
+      "meaning": "抢劫",
+      "audio": "6f3f13dd4ae6402b846542b9d53abdec",
+      "id": "5d6503971b72",
+      "priority": 1,
+      "group": "be33bd27d226"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "burglary",
+      "meaningInSourceLanguage": "入室盗窃",
+      "id": "a7e33308199b",
+      "priority": 0,
+      "group": "1c6a73ebc8c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "burglary",
+      "meaning": "入室盗窃",
+      "audio": "d7fe1b3d0d74401a9944dd5cc5b1159e",
+      "id": "e366722ea973",
+      "priority": 1,
+      "group": "1c6a73ebc8c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "theft",
+      "meaningInSourceLanguage": "盗窃",
+      "id": "f400ab270cfe",
+      "priority": 0,
+      "group": "18a598386571"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "theft",
+      "meaning": "盗窃",
+      "audio": "85374a8098c44ea0acf17bd6e09c7fbf",
+      "id": "54b4cec2437f",
+      "priority": 1,
+      "group": "18a598386571"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "larceny",
+      "meaningInSourceLanguage": "盗窃罪",
+      "id": "dbebb71661ef",
+      "priority": 0,
+      "group": "14fe84672219"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "larceny",
+      "meaning": "盗窃罪",
+      "audio": "cf8a417af18b44df9aed1609f9272afe",
+      "id": "47ef2655e29f",
+      "priority": 1,
+      "group": "14fe84672219"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fraud",
+      "meaningInSourceLanguage": "欺诈",
+      "id": "480604c53529",
+      "priority": 0,
+      "group": "11b4929bf527"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fraud",
+      "meaning": "欺诈",
+      "audio": "4b0db93f972a46a59235b0708e695a5c",
+      "id": "cf4a0277f806",
+      "priority": 1,
+      "group": "11b4929bf527"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "forgery",
+      "meaningInSourceLanguage": "伪造",
+      "id": "af00998e6654",
+      "priority": 0,
+      "group": "8e5a1daa114f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "forgery",
+      "meaning": "伪造",
+      "audio": "3daa91bcb4804aa0893bcdc894d1a553",
+      "id": "754fe33e54d0",
+      "priority": 1,
+      "group": "8e5a1daa114f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "embezzlement",
+      "meaningInSourceLanguage": "挪用公款",
+      "id": "7097ecbac7a4",
+      "priority": 0,
+      "group": "4935f96dacb5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "embezzlement",
+      "meaning": "挪用公款",
+      "audio": "69aee24a38694108a59e4c5669757cfa",
+      "id": "cb9b052a7091",
+      "priority": 1,
+      "group": "4935f96dacb5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bribery",
+      "meaningInSourceLanguage": "贿赂",
+      "id": "97dcef312fd0",
+      "priority": 0,
+      "group": "2f36ae899afa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bribery",
+      "meaning": "贿赂",
+      "audio": "1af40ad8d1c54e8c8a58d79a4ab198ef",
+      "id": "e5fff133e982",
+      "priority": 1,
+      "group": "2f36ae899afa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "extortion",
+      "meaningInSourceLanguage": "敲诈",
+      "id": "397d71c1de9e",
+      "priority": 0,
+      "group": "79d3692867ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "extortion",
+      "meaning": "敲诈",
+      "audio": "03670c2b0b064fd6aa7a1e280b719032",
+      "id": "4bf5f3ccd6d1",
+      "priority": 1,
+      "group": "79d3692867ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blackmail",
+      "meaningInSourceLanguage": "勒索",
+      "id": "e0f5f59e4a7a",
+      "priority": 0,
+      "group": "eea473e061db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blackmail",
+      "meaning": "勒索",
+      "audio": "73f7d22156594594900e0f58c9ef8b87",
+      "id": "8342e1af0f4c",
+      "priority": 1,
+      "group": "eea473e061db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kidnapping",
+      "meaningInSourceLanguage": "绑架",
+      "id": "7741e9196732",
+      "priority": 0,
+      "group": "cbe738a229c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kidnapping",
+      "meaning": "绑架",
+      "audio": "20c018f19f304a68a85d39d7683eab52",
+      "id": "43e5c1734e9f",
+      "priority": 1,
+      "group": "cbe738a229c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arson",
+      "meaningInSourceLanguage": "纵火",
+      "id": "b42f0c4578a1",
+      "priority": 0,
+      "group": "803ce8544cc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arson",
+      "meaning": "纵火",
+      "audio": "878f7401d9f24c4c87a0702f8f646dc8",
+      "id": "fbd87beab929",
+      "priority": 1,
+      "group": "803ce8544cc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vandalism",
+      "meaningInSourceLanguage": "故意破坏",
+      "id": "2d73b7b5dc4a",
+      "priority": 0,
+      "group": "8453f33d1987"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vandalism",
+      "meaning": "故意破坏",
+      "audio": "2af5bc0fd89f49dbbc298a16ebe94d4a",
+      "id": "1d0e66e986ef",
+      "priority": 1,
+      "group": "8453f33d1987"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trespassing",
+      "meaningInSourceLanguage": "非法入侵",
+      "id": "a03a38dfb382",
+      "priority": 0,
+      "group": "221aa2a88e04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trespassing",
+      "meaning": "非法入侵",
+      "audio": "148567a8c6f1477780389f582632648b",
+      "id": "54a29e1e102e",
+      "priority": 1,
+      "group": "221aa2a88e04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drug trafficking",
+      "meaningInSourceLanguage": "贩毒",
+      "id": "a752f8c342ce",
+      "priority": 0,
+      "group": "9a9a4ebd53e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drug trafficking",
+      "meaning": "贩毒",
+      "audio": "48e2a49ac96246158b138e5006b35399",
+      "id": "69c5d692e9a7",
+      "priority": 1,
+      "group": "9a9a4ebd53e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "possession",
+      "meaningInSourceLanguage": "持有",
+      "id": "7c6150698681",
+      "priority": 0,
+      "group": "2aed5c3ba7a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "possession",
+      "meaning": "持有",
+      "audio": "1d437efa47fe4a3ea75bd0df48ed6f27",
+      "id": "563877970475",
+      "priority": 1,
+      "group": "2aed5c3ba7a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "distribution",
+      "meaningInSourceLanguage": "分销",
+      "id": "d1bb70217fb1",
+      "priority": 0,
+      "group": "0a8d61d5efc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "distribution",
+      "meaning": "分销",
+      "audio": "d458437c1e38484387c62b896ba1aefa",
+      "id": "140acd3db694",
+      "priority": 1,
+      "group": "0a8d61d5efc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "perjury",
+      "meaningInSourceLanguage": "伪证",
+      "id": "e2ebf3af9953",
+      "priority": 0,
+      "group": "10a4d21b7bc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "perjury",
+      "meaning": "伪证",
+      "audio": "a5dd56096be2494c817c5f4ca53aacc3",
+      "id": "bfab7200c602",
+      "priority": 1,
+      "group": "10a4d21b7bc1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "obstruction of justice",
+      "meaningInSourceLanguage": "妨碍司法",
+      "id": "daf7c99c252a",
+      "priority": 0,
+      "group": "f87f501c358a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "obstruction of justice",
+      "meaning": "妨碍司法",
+      "audio": "491fd3fb965c4a318b84baf78f38f81f",
+      "id": "d06c87a6eaa1",
+      "priority": 1,
+      "group": "f87f501c358a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contempt of court",
+      "meaningInSourceLanguage": "藐视法庭",
+      "id": "c332e93c9b15",
+      "priority": 0,
+      "group": "1ebb5c54aca4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contempt of court",
+      "meaning": "藐视法庭",
+      "audio": "0627ff0fd0af45bfb2a3278f22b7d416",
+      "id": "0d9b88ee6fba",
+      "priority": 1,
+      "group": "1ebb5c54aca4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "money laundering",
+      "meaningInSourceLanguage": "洗钱",
+      "id": "2c68d28aeee5",
+      "priority": 0,
+      "group": "b82835ae1e05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "money laundering",
+      "meaning": "洗钱",
+      "audio": "0aa46fddfd78440ba8319748d2b2056a",
+      "id": "89e7be83fe6b",
+      "priority": 1,
+      "group": "b82835ae1e05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "identity theft",
+      "meaningInSourceLanguage": "身份盗窃",
+      "id": "df7158f53b53",
+      "priority": 0,
+      "group": "ce8692a3ca7b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "identity theft",
+      "meaning": "身份盗窃",
+      "audio": "636d36577d044ccb8756987d96a0fc49",
+      "id": "011535a02faa",
+      "priority": 1,
+      "group": "ce8692a3ca7b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cybercrime",
+      "meaningInSourceLanguage": "网络犯罪",
+      "id": "9f3b4c99d5a5",
+      "priority": 0,
+      "group": "6ff66944b8d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cybercrime",
+      "meaning": "网络犯罪",
+      "audio": "69dcaa7485a34981be500abb98cd3a45",
+      "id": "a20eebde078a",
+      "priority": 1,
+      "group": "6ff66944b8d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hate crime",
+      "meaningInSourceLanguage": "仇恨犯罪",
+      "id": "af7af730d818",
+      "priority": 0,
+      "group": "e4526365d629"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hate crime",
+      "meaning": "仇恨犯罪",
+      "audio": "e02f73a037024fb3af0db41d4243de69",
+      "id": "85f0220c933c",
+      "priority": 1,
+      "group": "e4526365d629"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "white-collar crime",
+      "meaningInSourceLanguage": "白领犯罪",
+      "id": "68d782c14080",
+      "priority": 0,
+      "group": "f2437ebc0df5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "white-collar crime",
+      "meaning": "白领犯罪",
+      "audio": "25a3a0d159b94e38a9d62d2d76daf37b",
+      "id": "1858cca501ac",
+      "priority": 1,
+      "group": "f2437ebc0df5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "domestic violence",
+      "meaningInSourceLanguage": "家庭暴力",
+      "id": "79109fd21ed3",
+      "priority": 0,
+      "group": "d127df954f20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "domestic violence",
+      "meaning": "家庭暴力",
+      "audio": "7d56aafe00504c88a5211e0cd2e8a6d7",
+      "id": "dd9234475faa",
+      "priority": 1,
+      "group": "d127df954f20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "child abuse",
+      "meaningInSourceLanguage": "虐待儿童",
+      "id": "409babb88485",
+      "priority": 0,
+      "group": "87d5125c47b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "child abuse",
+      "meaning": "虐待儿童",
+      "audio": "a74beabe0ea14e9a9f2388e11ba0f5d7",
+      "id": "9603d1c94389",
+      "priority": 1,
+      "group": "87d5125c47b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sexual assault",
+      "meaningInSourceLanguage": "性侵犯",
+      "id": "f98d0f106287",
+      "priority": 0,
+      "group": "12eb779d601f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sexual assault",
+      "meaning": "性侵犯",
+      "audio": "edc4b87636c64f42a1f0916d324f44a0",
+      "id": "c5383caea4bd",
+      "priority": 1,
+      "group": "12eb779d601f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rape",
+      "meaningInSourceLanguage": "强奸",
+      "id": "70c3979b97d8",
+      "priority": 0,
+      "group": "1a0ad3518a26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rape",
+      "meaning": "强奸",
+      "audio": "57e4e8f17d834d87bf4d08aa4ef93676",
+      "id": "59ce71aa5afc",
+      "priority": 1,
+      "group": "1a0ad3518a26"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "harassment",
+      "meaningInSourceLanguage": "骚扰",
+      "id": "2d80dbb145cd",
+      "priority": 0,
+      "group": "438bf4d7a798"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "harassment",
+      "meaning": "骚扰",
+      "audio": "7358785b9c8b45c8813546830d4af759",
+      "id": "5c9c49b794e8",
+      "priority": 1,
+      "group": "438bf4d7a798"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stalking",
+      "meaningInSourceLanguage": "跟踪",
+      "id": "9b8ba64caa3e",
+      "priority": 0,
+      "group": "24126d0e83f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stalking",
+      "meaning": "跟踪",
+      "audio": "9d6d04fc84fc474c91a01eab42341e5f",
+      "id": "342eb44aaaa1",
+      "priority": 1,
+      "group": "24126d0e83f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smuggling",
+      "meaningInSourceLanguage": "走私",
+      "id": "793db257146c",
+      "priority": 0,
+      "group": "6188ddb88613"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smuggling",
+      "meaning": "走私",
+      "audio": "9d4ed8abeedb4548b9c235c6f9385515",
+      "id": "3aa075f5120a",
+      "priority": 1,
+      "group": "6188ddb88613"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trafficking",
+      "meaningInSourceLanguage": "贩卖",
+      "id": "2f1ecd6bf9f5",
+      "priority": 0,
+      "group": "bf67a94032e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trafficking",
+      "meaning": "贩卖",
+      "audio": "fb3cc1b2501943f8bc1ad28d0f97fe4b",
+      "id": "035cc62fc10a",
+      "priority": 1,
+      "group": "bf67a94032e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conspiracy",
+      "meaningInSourceLanguage": "共谋",
+      "id": "3692921f68a1",
+      "priority": 0,
+      "group": "89dc8ad2f1ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conspiracy",
+      "meaning": "共谋",
+      "audio": "a4a1de4bf70e47eaa085ae2c530e23d7",
+      "id": "3983d34a9d9a",
+      "priority": 1,
+      "group": "89dc8ad2f1ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "attempt",
+      "meaningInSourceLanguage": "未遂",
+      "id": "d0dd2499fbfb",
+      "priority": 0,
+      "group": "1dff5cd4732a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "attempt",
+      "meaning": "未遂",
+      "audio": "5415816de8a54e1ab6a8e6f0224c90e5",
+      "id": "7e7f5755064d",
+      "priority": 1,
+      "group": "1dff5cd4732a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accessory",
+      "meaningInSourceLanguage": "从犯",
+      "id": "8356a344968d",
+      "priority": 0,
+      "group": "3a1901f5ebf8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accessory",
+      "meaning": "从犯",
+      "audio": "27309e55e93d4691974ec8542ecb23e0",
+      "id": "1aab64807ae7",
+      "priority": 1,
+      "group": "3a1901f5ebf8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accomplice",
+      "meaningInSourceLanguage": "共犯",
+      "id": "5fa35fab0e44",
+      "priority": 0,
+      "group": "35a6a28f1f47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accomplice",
+      "meaning": "共犯",
+      "audio": "de01c19b37aa4441af24b3f242dd07bf",
+      "id": "e229dff12431",
+      "priority": 1,
+      "group": "35a6a28f1f47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "principal",
+      "meaningInSourceLanguage": "主犯",
+      "id": "c0563a7ad780",
+      "priority": 0,
+      "group": "76b3fafbb437"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "principal",
+      "meaning": "主犯",
+      "audio": "31596b2957c64c9f903521fbd28d9038",
+      "id": "8b10976fa79d",
+      "priority": 1,
+      "group": "76b3fafbb437"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "intent",
+      "meaningInSourceLanguage": "故意",
+      "id": "beb9d7fd5fe0",
+      "priority": 0,
+      "group": "8ed859320143"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "intent",
+      "meaning": "故意",
+      "audio": "f7ee20cc0c7d492086a611280d05e22c",
+      "id": "c993725a6fa4",
+      "priority": 1,
+      "group": "8ed859320143"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "motive",
+      "meaningInSourceLanguage": "动机",
+      "id": "aaab55dcb045",
+      "priority": 0,
+      "group": "8b25084d4fe1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "motive",
+      "meaning": "动机",
+      "audio": "8801de5b8c294c8c936cca44cb2ee3c5",
+      "id": "80b8904d0377",
+      "priority": 1,
+      "group": "8b25084d4fe1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "premeditation",
+      "meaningInSourceLanguage": "预谋",
+      "id": "efd97f343639",
+      "priority": 0,
+      "group": "ca83a7d6f4dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "premeditation",
+      "meaning": "预谋",
+      "audio": "aa60d7d7eb184bbc88485ba082c81603",
+      "id": "f391ba229c9b",
+      "priority": 1,
+      "group": "ca83a7d6f4dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "self-defense",
+      "meaningInSourceLanguage": "自卫",
+      "id": "c2b31a8ab004",
+      "priority": 0,
+      "group": "c1f9d49dcade"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "self-defense",
+      "meaning": "自卫",
+      "audio": "c56f00ec414f4e05a972b067c4364afe",
+      "id": "8f6f06a054ee",
+      "priority": 1,
+      "group": "c1f9d49dcade"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "defense",
+      "meaningInSourceLanguage": "辩护",
+      "id": "313d5d898842",
+      "priority": 0,
+      "group": "1b9899569f6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "defense",
+      "meaning": "辩护",
+      "audio": "688578eefc224adc953dc224c18e0558",
+      "id": "fde507676cd1",
+      "priority": 1,
+      "group": "1b9899569f6f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "alibi",
+      "meaningInSourceLanguage": "不在场证明",
+      "id": "7923ede6adf8",
+      "priority": 0,
+      "group": "15f745c03667"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "alibi",
+      "meaning": "不在场证明",
+      "audio": "2db67c271f704ee2b32e65f9580df32c",
+      "id": "b805861fad7c",
+      "priority": 1,
+      "group": "15f745c03667"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "evidence",
+      "meaningInSourceLanguage": "证据",
+      "id": "e1a7b8ffd551",
+      "priority": 0,
+      "group": "2e2528ac7ce5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "evidence",
+      "meaning": "证据",
+      "audio": "1d8b8ed28f6241438a27727dfdf2ed0d",
+      "id": "e58ccf3b2c3f",
+      "priority": 1,
+      "group": "2e2528ac7ce5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "proof",
+      "meaningInSourceLanguage": "证明",
+      "id": "c992f7d383f5",
+      "priority": 0,
+      "group": "a36eafc0903d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "proof",
+      "meaning": "证明",
+      "audio": "b2e8fca1443b4a92a745c4b6e6c99419",
+      "id": "f1cb72666ec2",
+      "priority": 1,
+      "group": "a36eafc0903d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "testimony",
+      "meaningInSourceLanguage": "证词",
+      "id": "635c94afd0b6",
+      "priority": 0,
+      "group": "3899912c98c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "testimony",
+      "meaning": "证词",
+      "audio": "3eaf808a04f14504912a91e1d211fcce",
+      "id": "4e4c21e31605",
+      "priority": 1,
+      "group": "3899912c98c1"
+    }
+  ]
+}

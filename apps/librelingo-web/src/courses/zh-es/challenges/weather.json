@@ -1,0 +1,482 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hoy hace sol.",
+      "meaningInSourceLanguage": "今天天气晴朗。",
+      "id": "89e835ac550a",
+      "priority": 0,
+      "group": "6beb8ab9305b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hoy hace sol.",
+      "meaning": "今天天气晴朗。",
+      "audio": "51ea4e6779947f4f49ca6e48316e14cbf68b2f22f30c941443b5bacfe553455c",
+      "id": "155753b3242e",
+      "priority": 1,
+      "group": "6beb8ab9305b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Va a llover.",
+      "meaningInSourceLanguage": "要下雨了。",
+      "id": "379218c733e7",
+      "priority": 0,
+      "group": "5dd9c4b584c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Va a llover.",
+      "meaning": "要下雨了。",
+      "audio": "4f5244a06a9144c2e8e50e242e41028823dadd730a4682ab68e01fc50ebfec48",
+      "id": "89af18688d89",
+      "priority": 1,
+      "group": "5dd9c4b584c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hace mucho frío afuera.",
+      "meaningInSourceLanguage": "外面很冷。",
+      "id": "c1c0095cdf0e",
+      "priority": 0,
+      "group": "b030d4928747"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hace mucho frío afuera.",
+      "meaning": "外面很冷。",
+      "audio": "1d0b89dd771ba3bf0ca731de69b555befd7ee581b5a11af9ce223b052daa6dbb",
+      "id": "45b7434fa515",
+      "priority": 1,
+      "group": "b030d4928747"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Trae un paraguas.",
+      "meaningInSourceLanguage": "带上雨伞。",
+      "id": "2b5193d9666f",
+      "priority": 0,
+      "group": "338b78164f98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Trae un paraguas.",
+      "meaning": "带上雨伞。",
+      "audio": "b5b9f5472e7b47d673b5ed69783afeb01d7735060a7393cf976496d98ead6df6",
+      "id": "3d2e995f0f92",
+      "priority": 1,
+      "group": "338b78164f98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Cuál es la temperatura?",
+      "meaningInSourceLanguage": "多少度？",
+      "id": "5d3296230955",
+      "priority": 0,
+      "group": "56e42ac5dddc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Cuál es la temperatura?",
+      "meaning": "多少度？",
+      "audio": "c19748309c98ecbad88ccf43dce8c5d1559423d790ea4b75fca7117fe9a4bd15",
+      "id": "d1fa5527791d",
+      "priority": 1,
+      "group": "56e42ac5dddc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Está nevando.",
+      "meaningInSourceLanguage": "下雪了。",
+      "id": "753d35ae96c0",
+      "priority": 0,
+      "group": "cc6524918bb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Está nevando.",
+      "meaning": "下雪了。",
+      "audio": "4d5bbd1189b12ef14231fa6e7d7b2c895eb2287ebf672f783cec225ce0d858ff",
+      "id": "d319fdb1b9eb",
+      "priority": 1,
+      "group": "cc6524918bb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hoy hace calorcito.",
+      "meaningInSourceLanguage": "今天很暖和。",
+      "id": "cded7a65776f",
+      "priority": 0,
+      "group": "1e77eb54b983"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hoy hace calorcito.",
+      "meaning": "今天很暖和。",
+      "audio": "efe9ba093da70557290b6eb33dc4740012298ff671d27d11a8bc86e1ea5c93fd",
+      "id": "87dda8f9cf89",
+      "priority": 1,
+      "group": "1e77eb54b983"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hace viento.",
+      "meaningInSourceLanguage": "刮风了。",
+      "id": "5f9d174c7521",
+      "priority": 0,
+      "group": "f6181d464709"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hace viento.",
+      "meaning": "刮风了。",
+      "audio": "54a7a17febf21a24df8026af4a129a93798563ad393bb5aed4af3e280c02bd8b",
+      "id": "9d6bb46e1486",
+      "priority": 1,
+      "group": "f6181d464709"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "soleado",
+      "meaningInSourceLanguage": "晴天",
+      "id": "0cc06e678cfe",
+      "priority": 0,
+      "group": "a147278e4c13"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "soleado"
+      ],
+      "phrase": [
+        {
+          "word": "晴天",
+          "definition": "soleado"
+        }
+      ],
+      "id": "eabe9bb4c585",
+      "priority": 1,
+      "group": "a147278e4c13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soleado",
+      "meaning": "晴天",
+      "audio": "7dd455f1f6cb91db0ee498915d238bdf0988f2587ec0db1fc2b05a70148b4552",
+      "id": "915dd38d7acb",
+      "priority": 1,
+      "group": "a147278e4c13"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "lluvia",
+      "meaningInSourceLanguage": "雨",
+      "id": "90b16ac23d94",
+      "priority": 0,
+      "group": "adc7f583d91b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "lluvia"
+      ],
+      "phrase": [
+        {
+          "word": "雨",
+          "definition": "lluvia"
+        }
+      ],
+      "id": "4841ebf75e5a",
+      "priority": 1,
+      "group": "adc7f583d91b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lluvia",
+      "meaning": "雨",
+      "audio": "a41fa2818b2fbdc96daacc7437dec9d275b5199b31c971b668b0ee0b815c2d90",
+      "id": "f25dcc2e8852",
+      "priority": 1,
+      "group": "adc7f583d91b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "nieve",
+      "meaningInSourceLanguage": "雪",
+      "id": "e173672457e6",
+      "priority": 0,
+      "group": "2a4ed51d815b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "nieve"
+      ],
+      "phrase": [
+        {
+          "word": "雪",
+          "definition": "nieve"
+        }
+      ],
+      "id": "6c9cd476a4a8",
+      "priority": 1,
+      "group": "2a4ed51d815b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nieve",
+      "meaning": "雪",
+      "audio": "b4d6d912e678efb186a2302d70a7df11b3fd3f453fe3fd06c4fdb1767594869b",
+      "id": "330075955d41",
+      "priority": 1,
+      "group": "2a4ed51d815b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "viento",
+      "meaningInSourceLanguage": "风",
+      "id": "f5390c366026",
+      "priority": 0,
+      "group": "f4845d57a396"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "viento"
+      ],
+      "phrase": [
+        {
+          "word": "风",
+          "definition": "viento"
+        }
+      ],
+      "id": "fc55ae8d4a04",
+      "priority": 1,
+      "group": "f4845d57a396"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "viento",
+      "meaning": "风",
+      "audio": "384dcd69ea1ae5b71dffdf17287e1047e87206c6205022b304a25c6bb1006af5",
+      "id": "8f814fb0d226",
+      "priority": 1,
+      "group": "f4845d57a396"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "nube",
+      "meaningInSourceLanguage": "云",
+      "id": "e710b6c7ace1",
+      "priority": 0,
+      "group": "a1769b932ca7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "nube"
+      ],
+      "phrase": [
+        {
+          "word": "云",
+          "definition": "nube"
+        }
+      ],
+      "id": "36ad1e67e9e2",
+      "priority": 1,
+      "group": "a1769b932ca7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nube",
+      "meaning": "云",
+      "audio": "cb301ed912db3c19327493bd63a84a0dd2f819eb5ce9387aefd3b88ce82eaa02",
+      "id": "b1cb904a45ee",
+      "priority": 1,
+      "group": "a1769b932ca7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "frío",
+      "meaningInSourceLanguage": "冷",
+      "id": "2b95f6b00a38",
+      "priority": 0,
+      "group": "785050e880da"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "frío"
+      ],
+      "phrase": [
+        {
+          "word": "冷",
+          "definition": "frío"
+        }
+      ],
+      "id": "4c8364c5c37c",
+      "priority": 1,
+      "group": "785050e880da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frío",
+      "meaning": "冷",
+      "audio": "e64b9e12bb99170c9e6d59abc1ff64d98a0287d2f5021006176da15f4a413685",
+      "id": "a6057c28600a",
+      "priority": 1,
+      "group": "785050e880da"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "calor",
+      "meaningInSourceLanguage": "热",
+      "id": "3dfae4ed41a8",
+      "priority": 0,
+      "group": "12bae216774c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "calor"
+      ],
+      "phrase": [
+        {
+          "word": "热",
+          "definition": "calor"
+        }
+      ],
+      "id": "a1a2884fb7d2",
+      "priority": 1,
+      "group": "12bae216774c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calor",
+      "meaning": "热",
+      "audio": "adcc31aafef804c8c961af1e1b396762452aef08f1fa5170e18a40c97615d44f",
+      "id": "a7a3836a5211",
+      "priority": 1,
+      "group": "12bae216774c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cálido",
+      "meaningInSourceLanguage": "温暖",
+      "id": "05b310a253c6",
+      "priority": 0,
+      "group": "9f2b0c96d0a2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cálido"
+      ],
+      "phrase": [
+        {
+          "word": "温暖",
+          "definition": "cálido"
+        }
+      ],
+      "id": "3d9f6c776928",
+      "priority": 1,
+      "group": "9f2b0c96d0a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cálido",
+      "meaning": "温暖",
+      "audio": "80f352f8397ec02795e291da9cfb160c0007ca4cb86c62709b3727d1ed808972",
+      "id": "f1d7b5ba1341",
+      "priority": 1,
+      "group": "9f2b0c96d0a2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "temperatura",
+      "meaningInSourceLanguage": "温度",
+      "id": "ad7dd5104b7b",
+      "priority": 0,
+      "group": "c604347fa872"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "temperatura"
+      ],
+      "phrase": [
+        {
+          "word": "温度",
+          "definition": "temperatura"
+        }
+      ],
+      "id": "e6a69bf8e1a2",
+      "priority": 1,
+      "group": "c604347fa872"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temperatura",
+      "meaning": "温度",
+      "audio": "060d60f791d2b3cd4d1502cbb90f5c5d6d945867e58f8a9a986c320508184cd5",
+      "id": "fc61e5086ebb",
+      "priority": 1,
+      "group": "c604347fa872"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "paraguas",
+      "meaningInSourceLanguage": "雨伞",
+      "id": "96fc6fa6d43a",
+      "priority": 0,
+      "group": "2743ed96ce44"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "paraguas"
+      ],
+      "phrase": [
+        {
+          "word": "雨伞",
+          "definition": "paraguas"
+        }
+      ],
+      "id": "8c70fe02dd5d",
+      "priority": 1,
+      "group": "2743ed96ce44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paraguas",
+      "meaning": "雨伞",
+      "audio": "61b34a709b68dc8c14ca4ff62ee5c1af1f73364d8108f05f3379d46be089e0b3",
+      "id": "699753d03d9c",
+      "priority": 1,
+      "group": "2743ed96ce44"
+    }
+  ]
+}

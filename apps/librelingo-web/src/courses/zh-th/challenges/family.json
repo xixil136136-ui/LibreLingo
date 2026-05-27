@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "นี่คือแม่ของฉัน",
+      "meaningInSourceLanguage": "这是我的妈妈。",
+      "id": "ea46e41d35c8",
+      "priority": 0,
+      "group": "4157e08211ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "นี่คือแม่ของฉัน",
+      "meaning": "这是我的妈妈。",
+      "audio": "712adef72b02ab390e3d92128fed0302b38500ebed01b5fb6fc5d4e202670085",
+      "id": "e65ee158b851",
+      "priority": 1,
+      "group": "4157e08211ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "พ่อของฉันตัวสูง",
+      "meaningInSourceLanguage": "我的爸爸很高。",
+      "id": "407fd5013fa9",
+      "priority": 0,
+      "group": "250aea7645ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พ่อของฉันตัวสูง",
+      "meaning": "我的爸爸很高。",
+      "audio": "d8153599a99f65ef205baa32bb71a3a546f9e57d109358b2064a524fce0b94b7",
+      "id": "61a5209902c6",
+      "priority": 1,
+      "group": "250aea7645ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันมีพี่สาว/น้องสาว",
+      "meaningInSourceLanguage": "我有一个姐妹。",
+      "id": "79227639047c",
+      "priority": 0,
+      "group": "881629ed3e8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันมีพี่สาว/น้องสาว",
+      "meaning": "我有一个姐妹。",
+      "audio": "e07d830c61d3c516fff85ba41992b86e1f646c109339d5ef4725e3529263382c",
+      "id": "478696f1d4b1",
+      "priority": 1,
+      "group": "881629ed3e8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "พี่ชาย/น้องชายของฉันอายุน้อย",
+      "meaningInSourceLanguage": "我的兄弟很年轻。",
+      "id": "4979bb3a0b55",
+      "priority": 0,
+      "group": "f02f7e30050c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พี่ชาย/น้องชายของฉันอายุน้อย",
+      "meaning": "我的兄弟很年轻。",
+      "audio": "31396b31206111d4b97d391ebbecac4ad4a89fa268bf6e46546e3f8777a5c8eb",
+      "id": "3f5b041fcd82",
+      "priority": 1,
+      "group": "f02f7e30050c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เธอเป็นเพื่อนของฉัน",
+      "meaningInSourceLanguage": "她是我的朋友。",
+      "id": "99381a20e06f",
+      "priority": 0,
+      "group": "7c829df633e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เธอเป็นเพื่อนของฉัน",
+      "meaning": "她是我的朋友。",
+      "audio": "404b533169710fa6d14bc04487cdcce38b7acca4e94b4ab9b06b6b41b6854207",
+      "id": "d096111e6d88",
+      "priority": 1,
+      "group": "7c829df633e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เด็กมีความสุข",
+      "meaningInSourceLanguage": "孩子很高兴。",
+      "id": "4e9af5a73946",
+      "priority": 0,
+      "group": "e289cd1247cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เด็กมีความสุข",
+      "meaning": "孩子很高兴。",
+      "audio": "fbdf00275b136bfc0a7d3fc9f5c58ed3acf2590f82bfb5a49377027024703dcc",
+      "id": "744bb92daf61",
+      "priority": 1,
+      "group": "e289cd1247cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ภรรยาของฉันใจดี",
+      "meaningInSourceLanguage": "我的妻子很善良。",
+      "id": "e3d26dcc4690",
+      "priority": 0,
+      "group": "2a8d09090bc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ภรรยาของฉันใจดี",
+      "meaning": "我的妻子很善良。",
+      "audio": "91df6e41274f6f1165baa2c6daef331987f0c12b00bd612e4f8d95a1c57a2b50",
+      "id": "b93c5fac0ce5",
+      "priority": 1,
+      "group": "2a8d09090bc5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แม่",
+      "meaningInSourceLanguage": "母亲",
+      "id": "986ec152846b",
+      "priority": 0,
+      "group": "294f1a5ce3b3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แม่"
+      ],
+      "phrase": [
+        {
+          "word": "母亲",
+          "definition": "แม่"
+        }
+      ],
+      "id": "774b9d6c749e",
+      "priority": 1,
+      "group": "294f1a5ce3b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แม่",
+      "meaning": "母亲",
+      "audio": "a2db035c66e9e799a68f8f7ea4922d3335e8004b6e2637317fb26eaaa4716d94",
+      "id": "1cbe0096c619",
+      "priority": 1,
+      "group": "294f1a5ce3b3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "พ่อ",
+      "meaningInSourceLanguage": "父亲",
+      "id": "6d029f7da14b",
+      "priority": 0,
+      "group": "ad7d6db49435"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "พ่อ"
+      ],
+      "phrase": [
+        {
+          "word": "父亲",
+          "definition": "พ่อ"
+        }
+      ],
+      "id": "eaa21e4a1122",
+      "priority": 1,
+      "group": "ad7d6db49435"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พ่อ",
+      "meaning": "父亲",
+      "audio": "ef4f3ae8667f69c37da069c32c276dc21b045e551a8a3b320584945be57b1c09",
+      "id": "bf8aabb256ba",
+      "priority": 1,
+      "group": "ad7d6db49435"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "พี่สาว/น้องสาว",
+      "meaningInSourceLanguage": "姐妹",
+      "id": "164eddb5aee0",
+      "priority": 0,
+      "group": "b7501944d1a3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "พี่สาว/น้องสาว"
+      ],
+      "phrase": [
+        {
+          "word": "姐妹",
+          "definition": "พี่สาว/น้องสาว"
+        }
+      ],
+      "id": "add67553f35d",
+      "priority": 1,
+      "group": "b7501944d1a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พี่สาว/น้องสาว",
+      "meaning": "姐妹",
+      "audio": "2449163066a12cfe127bbf5d5ceb2a78a31d023b2593adf4d572fdffaab517dd",
+      "id": "af10e4014951",
+      "priority": 1,
+      "group": "b7501944d1a3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "พี่ชาย/น้องชาย",
+      "meaningInSourceLanguage": "兄弟",
+      "id": "6c9a9772c4ee",
+      "priority": 0,
+      "group": "15cc1d06f805"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "พี่ชาย/น้องชาย"
+      ],
+      "phrase": [
+        {
+          "word": "兄弟",
+          "definition": "พี่ชาย/น้องชาย"
+        }
+      ],
+      "id": "2332acd4a60b",
+      "priority": 1,
+      "group": "15cc1d06f805"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พี่ชาย/น้องชาย",
+      "meaning": "兄弟",
+      "audio": "c145af594d0a02b796fcf6b926b714eaa5e08708c0ff38a7ba7ae94efe93c713",
+      "id": "f2be38a44a71",
+      "priority": 1,
+      "group": "15cc1d06f805"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ลูกสาว",
+      "meaningInSourceLanguage": "女儿",
+      "id": "fd93b3469fe8",
+      "priority": 0,
+      "group": "5bc1c65580df"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ลูกสาว"
+      ],
+      "phrase": [
+        {
+          "word": "女儿",
+          "definition": "ลูกสาว"
+        }
+      ],
+      "id": "17e13228ed08",
+      "priority": 1,
+      "group": "5bc1c65580df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ลูกสาว",
+      "meaning": "女儿",
+      "audio": "4a831585b6f404ef9d7349399317445dc3f47ae28e82077cf2bdb0e85bcf26d7",
+      "id": "c7f7df088671",
+      "priority": 1,
+      "group": "5bc1c65580df"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ลูกชาย",
+      "meaningInSourceLanguage": "儿子",
+      "id": "f694eb45aa70",
+      "priority": 0,
+      "group": "f42f3a7b5806"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ลูกชาย"
+      ],
+      "phrase": [
+        {
+          "word": "儿子",
+          "definition": "ลูกชาย"
+        }
+      ],
+      "id": "05d71eb0794a",
+      "priority": 1,
+      "group": "f42f3a7b5806"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ลูกชาย",
+      "meaning": "儿子",
+      "audio": "dda998a628cd3ca89bd643dbb80a5e4b00b5cd1649014c6993b2814277f80588",
+      "id": "cd4d80d60c15",
+      "priority": 1,
+      "group": "f42f3a7b5806"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ภรรยา",
+      "meaningInSourceLanguage": "妻子",
+      "id": "03b916c47778",
+      "priority": 0,
+      "group": "58561b50f94b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ภรรยา"
+      ],
+      "phrase": [
+        {
+          "word": "妻子",
+          "definition": "ภรรยา"
+        }
+      ],
+      "id": "ec075d80f8e0",
+      "priority": 1,
+      "group": "58561b50f94b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ภรรยา",
+      "meaning": "妻子",
+      "audio": "4c21e557249cf81c1d635f92ab187298b1ec7138160664b6b5cf3fec13657a04",
+      "id": "cdf8348b73c3",
+      "priority": 1,
+      "group": "58561b50f94b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สามี",
+      "meaningInSourceLanguage": "丈夫",
+      "id": "1c151f7343e5",
+      "priority": 0,
+      "group": "b88880e50d39"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สามี"
+      ],
+      "phrase": [
+        {
+          "word": "丈夫",
+          "definition": "สามี"
+        }
+      ],
+      "id": "04207b65800e",
+      "priority": 1,
+      "group": "b88880e50d39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สามี",
+      "meaning": "丈夫",
+      "audio": "a96b4de49bde7c8400457b956fd900c1f630af9b4c24949c20839d1c093da89d",
+      "id": "f4d4bc2a9f5b",
+      "priority": 1,
+      "group": "b88880e50d39"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เพื่อน",
+      "meaningInSourceLanguage": "朋友",
+      "id": "ef073d0b6d6d",
+      "priority": 0,
+      "group": "1ba2b4916495"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เพื่อน"
+      ],
+      "phrase": [
+        {
+          "word": "朋友",
+          "definition": "เพื่อน"
+        }
+      ],
+      "id": "5b221f8c371a",
+      "priority": 1,
+      "group": "1ba2b4916495"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เพื่อน",
+      "meaning": "朋友",
+      "audio": "023194a57769cc27e34a21d2767cab24b04212c2e450a70d602f567cc252bc02",
+      "id": "28aa4dcbebdd",
+      "priority": 1,
+      "group": "1ba2b4916495"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เด็ก",
+      "meaningInSourceLanguage": "孩子",
+      "id": "7151280b3af7",
+      "priority": 0,
+      "group": "4b103a3f9fa4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เด็ก"
+      ],
+      "phrase": [
+        {
+          "word": "孩子",
+          "definition": "เด็ก"
+        }
+      ],
+      "id": "dd278349fdd6",
+      "priority": 1,
+      "group": "4b103a3f9fa4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เด็ก",
+      "meaning": "孩子",
+      "audio": "4d53d439a9027ce8644e02504aa11ca0419d9f892c7a84084226ae5219ddc9e7",
+      "id": "5e8fdab1d0d8",
+      "priority": 1,
+      "group": "4b103a3f9fa4"
+    }
+  ]
+}

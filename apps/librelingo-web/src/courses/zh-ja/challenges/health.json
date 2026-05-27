@@ -1,0 +1,465 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "医者が必要です。",
+      "meaningInSourceLanguage": "我需要医生。",
+      "id": "8c18150e9f1d",
+      "priority": 0,
+      "group": "42c19bd2b95d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "医者が必要です。",
+      "meaning": "我需要医生。",
+      "audio": "ea79459daa81567d55db45e3a1c62b7211d965620e271a2c45c7c1d658e3cae2",
+      "id": "58c854d6da51",
+      "priority": 1,
+      "group": "42c19bd2b95d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "病院はどこですか？",
+      "meaningInSourceLanguage": "医院在哪里？",
+      "id": "332b50eb7417",
+      "priority": 0,
+      "group": "99217a788238"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "病院はどこですか？",
+      "meaning": "医院在哪里？",
+      "audio": "62a3df46d316afdff6ce2b3cfe6d45db64f41767828640dbde06d419a60d93a6",
+      "id": "bb6a2f245146",
+      "priority": 1,
+      "group": "99217a788238"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "頭痛がします。",
+      "meaningInSourceLanguage": "我头痛。",
+      "id": "283d06fc31fc",
+      "priority": 0,
+      "group": "f9f41d8099dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "頭痛がします。",
+      "meaning": "我头痛。",
+      "audio": "e49e25259c42b959f3cbee28808204529d8bb77305878b62e0374815d7fbdb28",
+      "id": "b82fb56e4932",
+      "priority": 1,
+      "group": "f9f41d8099dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "熱があります。",
+      "meaningInSourceLanguage": "我发烧了。",
+      "id": "c064f51d6902",
+      "priority": 0,
+      "group": "301536d67850"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "熱があります。",
+      "meaning": "我发烧了。",
+      "audio": "d8ebdfe047bd154e81605a2f1fdf81e71381db8642ecdf5c0346f6e1fb508141",
+      "id": "779af107040d",
+      "priority": 1,
+      "group": "301536d67850"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "この薬を飲んでください。",
+      "meaningInSourceLanguage": "吃这个药。",
+      "id": "0e34b96d27bd",
+      "priority": 0,
+      "group": "711b007cbfe0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "この薬を飲んでください。",
+      "meaning": "吃这个药。",
+      "audio": "07bf84570be198d56162ada7fb91103cc2fbe73161d9fc1ab31c28c08c378d3a",
+      "id": "e3fd5f7e2279",
+      "priority": 1,
+      "group": "711b007cbfe0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "休息が必要です。",
+      "meaningInSourceLanguage": "你需要休息。",
+      "id": "ae661354bb22",
+      "priority": 0,
+      "group": "d31564617b30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "休息が必要です。",
+      "meaning": "你需要休息。",
+      "audio": "17a4821818241db1f83ab8e203118ea2c6de927f16d8a67d155172a490c799c7",
+      "id": "7fd4020e4545",
+      "priority": 1,
+      "group": "d31564617b30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "腹痛がします。",
+      "meaningInSourceLanguage": "我肚子痛。",
+      "id": "c1f579d6262f",
+      "priority": 0,
+      "group": "1768aacdf2c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "腹痛がします。",
+      "meaning": "我肚子痛。",
+      "audio": "0563ef53155edf6343fa3bb10b4ee19ec6a1bb53fb25f282e3821988fe0c6bc7",
+      "id": "748b3d1a2284",
+      "priority": 1,
+      "group": "1768aacdf2c7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "医者",
+      "meaningInSourceLanguage": "医生",
+      "id": "f1d8cfe11c04",
+      "priority": 0,
+      "group": "6a7dffbe2f73"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "医者"
+      ],
+      "phrase": [
+        {
+          "word": "医生",
+          "definition": "医者"
+        }
+      ],
+      "id": "7412afd4085a",
+      "priority": 1,
+      "group": "6a7dffbe2f73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "医者",
+      "meaning": "医生",
+      "audio": "4dfc0d3d368ab3c0cbc4a5c5d99a674913887663c4d6ab33f4d37aef6bc9ffc9",
+      "id": "e17a9119359d",
+      "priority": 1,
+      "group": "6a7dffbe2f73"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "病院",
+      "meaningInSourceLanguage": "医院",
+      "id": "78b15e39cf72",
+      "priority": 0,
+      "group": "cda546ba6bd9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "病院"
+      ],
+      "phrase": [
+        {
+          "word": "医院",
+          "definition": "病院"
+        }
+      ],
+      "id": "abd8df8b943f",
+      "priority": 1,
+      "group": "cda546ba6bd9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "病院",
+      "meaning": "医院",
+      "audio": "eff0ab688511262eede430b7c6851a2330033a73c3984dd94b75f1a776058f6a",
+      "id": "01bcf02d7950",
+      "priority": 1,
+      "group": "cda546ba6bd9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "薬",
+      "meaningInSourceLanguage": "药",
+      "id": "378a36886a72",
+      "priority": 0,
+      "group": "43e41995d04e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "薬"
+      ],
+      "phrase": [
+        {
+          "word": "药",
+          "definition": "薬"
+        }
+      ],
+      "id": "0fef75ecc73f",
+      "priority": 1,
+      "group": "43e41995d04e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "薬",
+      "meaning": "药",
+      "audio": "2354d5cb1c86706b68b9079ed8cb1b3477cbf65472f5c65e0c339aa78d8d4dc6",
+      "id": "3c6cf155f39c",
+      "priority": 1,
+      "group": "43e41995d04e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "頭痛",
+      "meaningInSourceLanguage": "头痛",
+      "id": "cea5bc96d480",
+      "priority": 0,
+      "group": "65288532e7a2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "頭痛"
+      ],
+      "phrase": [
+        {
+          "word": "头痛",
+          "definition": "頭痛"
+        }
+      ],
+      "id": "16cc8e52125a",
+      "priority": 1,
+      "group": "65288532e7a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "頭痛",
+      "meaning": "头痛",
+      "audio": "8e26051f50cf1d365b8bf4308442766bfdd05b597de87d81f47c2ae035952a74",
+      "id": "a5a68403230e",
+      "priority": 1,
+      "group": "65288532e7a2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "熱",
+      "meaningInSourceLanguage": "发烧",
+      "id": "e288e0615a35",
+      "priority": 0,
+      "group": "720f6d8075f6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "熱"
+      ],
+      "phrase": [
+        {
+          "word": "发烧",
+          "definition": "熱"
+        }
+      ],
+      "id": "8962e81355c7",
+      "priority": 1,
+      "group": "720f6d8075f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "熱",
+      "meaning": "发烧",
+      "audio": "81707ab77873afeeb9b38a51bc5a46a59bf70459515e81f1745f8128b47d1638",
+      "id": "81e84d8dc6f6",
+      "priority": 1,
+      "group": "720f6d8075f6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "咳",
+      "meaningInSourceLanguage": "咳嗽",
+      "id": "396993b0a9fc",
+      "priority": 0,
+      "group": "c14f74bb2123"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "咳"
+      ],
+      "phrase": [
+        {
+          "word": "咳嗽",
+          "definition": "咳"
+        }
+      ],
+      "id": "2730aa41279c",
+      "priority": 1,
+      "group": "c14f74bb2123"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "咳",
+      "meaning": "咳嗽",
+      "audio": "deb69832d0aac682f9d25e26d480db19fc277627edb39e995e1310646cf0a439",
+      "id": "796a9fe9a2e7",
+      "priority": 1,
+      "group": "c14f74bb2123"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "痛み",
+      "meaningInSourceLanguage": "疼痛",
+      "id": "7a7ff9e1a9ba",
+      "priority": 0,
+      "group": "923d22f6687d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "痛み"
+      ],
+      "phrase": [
+        {
+          "word": "疼痛",
+          "definition": "痛み"
+        }
+      ],
+      "id": "c200d288a0b7",
+      "priority": 1,
+      "group": "923d22f6687d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "痛み",
+      "meaning": "疼痛",
+      "audio": "e8bb83ab8b9bf806f837a365ada52cdcd82af52b26b7e3d0e9b5f5edd3d79ccd",
+      "id": "71ad8fe62511",
+      "priority": 1,
+      "group": "923d22f6687d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "薬局",
+      "meaningInSourceLanguage": "药店",
+      "id": "336c5d374e47",
+      "priority": 0,
+      "group": "eb66550ab1c6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "薬局"
+      ],
+      "phrase": [
+        {
+          "word": "药店",
+          "definition": "薬局"
+        }
+      ],
+      "id": "32b5fd0cbd3b",
+      "priority": 1,
+      "group": "eb66550ab1c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "薬局",
+      "meaning": "药店",
+      "audio": "180a878a1334a94036306d49b97fd1a97c126a5656989a9f783dc37e876804c2",
+      "id": "6e64e7164962",
+      "priority": 1,
+      "group": "eb66550ab1c6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "休息",
+      "meaningInSourceLanguage": "休息",
+      "id": "f5a1bf1c2df3",
+      "priority": 0,
+      "group": "0731aa36037b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "休息"
+      ],
+      "phrase": [
+        {
+          "word": "休息",
+          "definition": "休息"
+        }
+      ],
+      "id": "5035b80702bc",
+      "priority": 1,
+      "group": "0731aa36037b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "休息",
+      "meaning": "休息",
+      "audio": "2e9b4bba6895040ad8db79f0f80844699ec3d5b3054ce34ca5717e513d73f46d",
+      "id": "2716e450d0fd",
+      "priority": 1,
+      "group": "0731aa36037b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "腹痛",
+      "meaningInSourceLanguage": "肚子痛",
+      "id": "034d7d5b61dd",
+      "priority": 0,
+      "group": "50213be0501d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "腹痛"
+      ],
+      "phrase": [
+        {
+          "word": "肚子痛",
+          "definition": "腹痛"
+        }
+      ],
+      "id": "48b2be62552c",
+      "priority": 1,
+      "group": "50213be0501d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "腹痛",
+      "meaning": "肚子痛",
+      "audio": "145e817393fd96069d4378ad45f6c2bd6deb8d79eb6dc584de5971e07cbe88f6",
+      "id": "1acb0d3bf54f",
+      "priority": 1,
+      "group": "50213be0501d"
+    }
+  ]
+}

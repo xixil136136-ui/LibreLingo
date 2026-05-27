@@ -1,0 +1,465 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мне нужен врач.",
+      "meaningInSourceLanguage": "我需要医生。",
+      "id": "b10996596c11",
+      "priority": 0,
+      "group": "9ef98c7a4297"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мне нужен врач.",
+      "meaning": "我需要医生。",
+      "audio": "f16bd30e79c8711bb5f5371536a624038c42da6f0e0bf6a58c9104c0cf1d4aff",
+      "id": "885c35d25752",
+      "priority": 1,
+      "group": "9ef98c7a4297"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Где находится больница?",
+      "meaningInSourceLanguage": "医院在哪里？",
+      "id": "95e476deabf6",
+      "priority": 0,
+      "group": "484f851f1599"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Где находится больница?",
+      "meaning": "医院在哪里？",
+      "audio": "beca5dde1bb69ce8aab733e6084a6ebca25c23d6dda47b22e703d3aadc354bc3",
+      "id": "c093e796c5b7",
+      "priority": 1,
+      "group": "484f851f1599"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня болит голова.",
+      "meaningInSourceLanguage": "我头痛。",
+      "id": "84eb0231f8b1",
+      "priority": 0,
+      "group": "9e4583a6ab32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня болит голова.",
+      "meaning": "我头痛。",
+      "audio": "1ee6e95b074779feb7ec2977fc44854eab00b07c9ca7174946562b95df6dc3a0",
+      "id": "753e38c14abb",
+      "priority": 1,
+      "group": "9e4583a6ab32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня жар.",
+      "meaningInSourceLanguage": "我发烧了。",
+      "id": "3d410497a4f7",
+      "priority": 0,
+      "group": "09d3cc409c2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня жар.",
+      "meaning": "我发烧了。",
+      "audio": "31beb69f87cafa102e4e0fd77a9b720488ccdff205061ae8de454b330e627cc5",
+      "id": "776aa671703d",
+      "priority": 1,
+      "group": "09d3cc409c2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Примите это лекарство.",
+      "meaningInSourceLanguage": "吃这个药。",
+      "id": "130d3aa6a4c7",
+      "priority": 0,
+      "group": "dcc84709a5ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Примите это лекарство.",
+      "meaning": "吃这个药。",
+      "audio": "2a4e1024182c57d24e57b89d6a1dce29687787f6485385161d46e5fbe0dc795f",
+      "id": "9dc7c9b16e9b",
+      "priority": 1,
+      "group": "dcc84709a5ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Вам нужен отдых.",
+      "meaningInSourceLanguage": "你需要休息。",
+      "id": "c4e2e69ba448",
+      "priority": 0,
+      "group": "9900a8df3b60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Вам нужен отдых.",
+      "meaning": "你需要休息。",
+      "audio": "4276f31238c7e59636db7196cd2e4b995d88a220d41593018ae29364e72610da",
+      "id": "39b175b8117a",
+      "priority": 1,
+      "group": "9900a8df3b60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня болит живот.",
+      "meaningInSourceLanguage": "我肚子痛。",
+      "id": "bd267ade8167",
+      "priority": 0,
+      "group": "3db817919290"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня болит живот.",
+      "meaning": "我肚子痛。",
+      "audio": "fcfb4fa3c0cae8e9a3cb000fca724fdb325ccc9cf9248165a2fbf03756404e40",
+      "id": "17a8d1c9b9c0",
+      "priority": 1,
+      "group": "3db817919290"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "врач",
+      "meaningInSourceLanguage": "医生",
+      "id": "094b0ca9b3de",
+      "priority": 0,
+      "group": "dfcf90c643ca"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "врач"
+      ],
+      "phrase": [
+        {
+          "word": "医生",
+          "definition": "врач"
+        }
+      ],
+      "id": "9b5b269ba9aa",
+      "priority": 1,
+      "group": "dfcf90c643ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "врач",
+      "meaning": "医生",
+      "audio": "3ec8f2dd873da0b58ab9f9ef152f204b4493f3439ae61c8af713b7ba97e1ab89",
+      "id": "ba397947f379",
+      "priority": 1,
+      "group": "dfcf90c643ca"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "больница",
+      "meaningInSourceLanguage": "医院",
+      "id": "3fb61cebb00f",
+      "priority": 0,
+      "group": "5f940e4d873e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "больница"
+      ],
+      "phrase": [
+        {
+          "word": "医院",
+          "definition": "больница"
+        }
+      ],
+      "id": "46dc8ec084f4",
+      "priority": 1,
+      "group": "5f940e4d873e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "больница",
+      "meaning": "医院",
+      "audio": "5a14da0e9f37abab0f83a9dfc722d7e324224d107739f4676b290db6b7833dfe",
+      "id": "6eca7bb60551",
+      "priority": 1,
+      "group": "5f940e4d873e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "лекарство",
+      "meaningInSourceLanguage": "药",
+      "id": "44159d0d4547",
+      "priority": 0,
+      "group": "1b5a3f366b4a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "лекарство"
+      ],
+      "phrase": [
+        {
+          "word": "药",
+          "definition": "лекарство"
+        }
+      ],
+      "id": "d5d3dfaf9ade",
+      "priority": 1,
+      "group": "1b5a3f366b4a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "лекарство",
+      "meaning": "药",
+      "audio": "3bc5cb07f39e7f46ea8fa2018a912c6ade4adea23767d04b01fcde0ced37b97e",
+      "id": "17601d9e0153",
+      "priority": 1,
+      "group": "1b5a3f366b4a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "головная боль",
+      "meaningInSourceLanguage": "头痛",
+      "id": "ba98539fe511",
+      "priority": 0,
+      "group": "67454556dcdc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "головная боль"
+      ],
+      "phrase": [
+        {
+          "word": "头痛",
+          "definition": "головная боль"
+        }
+      ],
+      "id": "8191422314ea",
+      "priority": 1,
+      "group": "67454556dcdc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "головная боль",
+      "meaning": "头痛",
+      "audio": "f39fb27d31fa40cb41ecac3a207a8cee6ab0bc410f0682a306d4e9668ce63fe6",
+      "id": "105fba1b9796",
+      "priority": 1,
+      "group": "67454556dcdc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "лихорадка",
+      "meaningInSourceLanguage": "发烧",
+      "id": "6d2db27966ee",
+      "priority": 0,
+      "group": "bbe4d57f2573"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "лихорадка"
+      ],
+      "phrase": [
+        {
+          "word": "发烧",
+          "definition": "лихорадка"
+        }
+      ],
+      "id": "d60406d49f6f",
+      "priority": 1,
+      "group": "bbe4d57f2573"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "лихорадка",
+      "meaning": "发烧",
+      "audio": "31a3eeaf0fbb2f54f538c35df3eab4e81cd93dcdd82996d59d0b354250fedf1f",
+      "id": "193634c6ca4a",
+      "priority": 1,
+      "group": "bbe4d57f2573"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кашель",
+      "meaningInSourceLanguage": "咳嗽",
+      "id": "35f49ced3670",
+      "priority": 0,
+      "group": "4f79d3f1253a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кашель"
+      ],
+      "phrase": [
+        {
+          "word": "咳嗽",
+          "definition": "кашель"
+        }
+      ],
+      "id": "3f7b1a7fe9ea",
+      "priority": 1,
+      "group": "4f79d3f1253a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кашель",
+      "meaning": "咳嗽",
+      "audio": "20fed4d3c0d03ad557c6c8e4ea95cc32fd1250bd01737c685abbe1fab0aa670d",
+      "id": "a9325a355a46",
+      "priority": 1,
+      "group": "4f79d3f1253a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "боль",
+      "meaningInSourceLanguage": "疼痛",
+      "id": "7a6656104536",
+      "priority": 0,
+      "group": "d79675d8c990"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "боль"
+      ],
+      "phrase": [
+        {
+          "word": "疼痛",
+          "definition": "боль"
+        }
+      ],
+      "id": "306b9e5344f9",
+      "priority": 1,
+      "group": "d79675d8c990"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "боль",
+      "meaning": "疼痛",
+      "audio": "ab334454c1a2a44c1ab503cf7ca2918bfb758b28533c11c943b0ce19eee341fb",
+      "id": "d7b46815ab34",
+      "priority": 1,
+      "group": "d79675d8c990"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "аптека",
+      "meaningInSourceLanguage": "药店",
+      "id": "d43e2ba75596",
+      "priority": 0,
+      "group": "5bbcef4fa6a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "аптека"
+      ],
+      "phrase": [
+        {
+          "word": "药店",
+          "definition": "аптека"
+        }
+      ],
+      "id": "c7cb72500cee",
+      "priority": 1,
+      "group": "5bbcef4fa6a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "аптека",
+      "meaning": "药店",
+      "audio": "73727a7cfe17d02a312c429d7363483ac901afb8b7bfaea3f41cb2623d0acab0",
+      "id": "3eb328379b9b",
+      "priority": 1,
+      "group": "5bbcef4fa6a0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "отдых",
+      "meaningInSourceLanguage": "休息",
+      "id": "7cdc00b7b95c",
+      "priority": 0,
+      "group": "1494439148c1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "отдых"
+      ],
+      "phrase": [
+        {
+          "word": "休息",
+          "definition": "отдых"
+        }
+      ],
+      "id": "f604da3b9312",
+      "priority": 1,
+      "group": "1494439148c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "отдых",
+      "meaning": "休息",
+      "audio": "606ecb2dcc19b7f4c81d76b9cb03ee6e84d5785fe787831c52c6fe30955d71bc",
+      "id": "08be346d4ff7",
+      "priority": 1,
+      "group": "1494439148c1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "боль в животе",
+      "meaningInSourceLanguage": "肚子痛",
+      "id": "f3a68ff7a4fb",
+      "priority": 0,
+      "group": "c271512040af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "боль в животе"
+      ],
+      "phrase": [
+        {
+          "word": "肚子痛",
+          "definition": "боль в животе"
+        }
+      ],
+      "id": "e4b0152addae",
+      "priority": 1,
+      "group": "c271512040af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "боль в животе",
+      "meaning": "肚子痛",
+      "audio": "56fcc8867474ac8fffb4413f8200e876f78a99dc4688e3b4fc6f1d997f2d48b6",
+      "id": "0f8df65151ba",
+      "priority": 1,
+      "group": "c271512040af"
+    }
+  ]
+}

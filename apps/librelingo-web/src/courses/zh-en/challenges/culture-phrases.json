@@ -1,0 +1,346 @@
+{
+  "id": "5faf2fbab219",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like this music.",
+      "meaningInSourceLanguage": "我喜欢这个音乐。",
+      "id": "72e4c607d840",
+      "priority": 0,
+      "group": "d68b0a1e15d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like this music.",
+      "meaning": "我喜欢这个音乐。",
+      "audio": "6989cedb93a9e61f8d6aee2df87a35254d43f01dea68ad40eab0bb37c959ef3e",
+      "id": "ae7c6aba9b58",
+      "priority": 1,
+      "group": "d68b0a1e15d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What kind of music do you like?",
+      "meaningInSourceLanguage": "你喜欢什么样的音乐？",
+      "id": "7763843d0168",
+      "priority": 0,
+      "group": "df33f527585b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What kind of music do you like?",
+      "meaning": "你喜欢什么样的音乐？",
+      "audio": "fa6ce204c47788dc884522ce70ec2b3bec88dd7c2359b89e26ef1828bc4dc1c6",
+      "id": "1a152198adda",
+      "priority": 1,
+      "group": "df33f527585b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I play the guitar.",
+      "meaningInSourceLanguage": "我弹吉他。",
+      "id": "a129c9acaa9d",
+      "priority": 0,
+      "group": "8e64e1166662"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I play the guitar.",
+      "meaning": "我弹吉他。",
+      "audio": "2e39e77f507cada952c25ff6ddc47f7c6b52569a31c2581c5c0ea0102e6761ae",
+      "id": "b1765a7dace6",
+      "priority": 1,
+      "group": "8e64e1166662"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "She is a talented artist.",
+      "meaningInSourceLanguage": "她是一个有才华的艺术家。",
+      "id": "4aa33909693b",
+      "priority": 0,
+      "group": "80b6adedc940"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "She is a talented artist.",
+      "meaning": "她是一个有才华的艺术家。",
+      "audio": "07ab6432c1df6b09f098d4d0d206810aebc73079da4d7ac18a7853167f8f8688",
+      "id": "e5ccc13ce226",
+      "priority": 1,
+      "group": "80b6adedc940"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "This painting is beautiful.",
+      "meaningInSourceLanguage": "这幅画很美。",
+      "id": "57bc1b223c18",
+      "priority": 0,
+      "group": "5b3584bd8365"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "This painting is beautiful.",
+      "meaning": "这幅画很美。",
+      "audio": "cd1377a8153c59dc4838d55e8c1829bf18f95cfd0761a3ea85df3d28b7464315",
+      "id": "07970cc5d4cd",
+      "priority": 1,
+      "group": "5b3584bd8365"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I enjoy reading novels.",
+      "meaningInSourceLanguage": "我喜欢读小说。",
+      "id": "b7ed04e00029",
+      "priority": 0,
+      "group": "d9aa29895d7e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I enjoy reading novels.",
+      "meaning": "我喜欢读小说。",
+      "audio": "0560200948a6fb108a662d801fbc2f814acfe121deeed3539a0a5ba3645c729f",
+      "id": "d68adcfdbc89",
+      "priority": 1,
+      "group": "d9aa29895d7e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who is your favorite author?",
+      "meaningInSourceLanguage": "你最喜欢的作家是谁？",
+      "id": "03f746f9e6ff",
+      "priority": 0,
+      "group": "e169c70358ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who is your favorite author?",
+      "meaning": "你最喜欢的作家是谁？",
+      "audio": "e86131d15d7795788b8b6fbc789fac6475f538847ddef03478955b0a286a7ca2",
+      "id": "885e727e0eb0",
+      "priority": 1,
+      "group": "e169c70358ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's go to the movies.",
+      "meaningInSourceLanguage": "我们去看电影吧。",
+      "id": "7a748cc27210",
+      "priority": 0,
+      "group": "e7afb2e93a51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's go to the movies.",
+      "meaning": "我们去看电影吧。",
+      "audio": "e9d722a74d480d77197eb4020000c3ed913343d23b6d100faeffa4af817f018c",
+      "id": "6870efb78ec9",
+      "priority": 1,
+      "group": "e7afb2e93a51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That was a great film.",
+      "meaningInSourceLanguage": "那是一部很棒的电影。",
+      "id": "42c82fac5052",
+      "priority": 0,
+      "group": "03ad849e2207"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That was a great film.",
+      "meaning": "那是一部很棒的电影。",
+      "audio": "a980bcaa3f96c562bf06608afa4edc8d6f875d8f835f1e9801189b122319bcb7",
+      "id": "c87dd47c7323",
+      "priority": 1,
+      "group": "03ad849e2207"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I love watching sports.",
+      "meaningInSourceLanguage": "我喜欢看体育比赛。",
+      "id": "107791e1625b",
+      "priority": 0,
+      "group": "1fc4589adf5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I love watching sports.",
+      "meaning": "我喜欢看体育比赛。",
+      "audio": "0fcaae1a4b346602e47ac9ba18266e51138ccf428c035b818ec4ae797fc4fa41",
+      "id": "b027f530e638",
+      "priority": 1,
+      "group": "1fc4589adf5d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Who's your favorite team?",
+      "meaningInSourceLanguage": "你最喜欢的队伍是哪个？",
+      "id": "4a46aa64001a",
+      "priority": 0,
+      "group": "fda232024228"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Who's your favorite team?",
+      "meaning": "你最喜欢的队伍是哪个？",
+      "audio": "8b2aa0082379b59951e270185447b5edd79b7ec6745ed7630f3849cb9a937795",
+      "id": "9358eb5aeb8d",
+      "priority": 1,
+      "group": "fda232024228"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like playing basketball.",
+      "meaningInSourceLanguage": "我喜欢打篮球。",
+      "id": "2d2410d27af7",
+      "priority": 0,
+      "group": "e37c01daa599"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like playing basketball.",
+      "meaning": "我喜欢打篮球。",
+      "audio": "bc766e063160d565f6b28ac20cd92967d0fd3141ebdb22c2e675c93a808efa0a",
+      "id": "55010f9b049d",
+      "priority": 1,
+      "group": "e37c01daa599"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Happy New Year!",
+      "meaningInSourceLanguage": "新年快乐！",
+      "id": "9ddce3d58715",
+      "priority": 0,
+      "group": "27c53a44cc5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Happy New Year!",
+      "meaning": "新年快乐！",
+      "audio": "bc0aed8246f415c1b0697a211aae70af7302681baaeea9a8ca0fe0fae8097793",
+      "id": "d111682a73a7",
+      "priority": 1,
+      "group": "27c53a44cc5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Merry Christmas!",
+      "meaningInSourceLanguage": "圣诞快乐！",
+      "id": "886b9df4a1f0",
+      "priority": 0,
+      "group": "7adb933514ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Merry Christmas!",
+      "meaning": "圣诞快乐！",
+      "audio": "7b941aea86d2f8f89cf71761d590cd440ccc9d011fa3d1f5be272309c63dda26",
+      "id": "4f60bbaf74cb",
+      "priority": 1,
+      "group": "7adb933514ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Happy birthday!",
+      "meaningInSourceLanguage": "生日快乐！",
+      "id": "c46833fd76eb",
+      "priority": 0,
+      "group": "0a8821fdd430"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Happy birthday!",
+      "meaning": "生日快乐！",
+      "audio": "0020895aca2ba42d48d95eb2ee453dec3be5930c49b290b86f6e0f2b1d3da1f9",
+      "id": "e2f173380aee",
+      "priority": 1,
+      "group": "0a8821fdd430"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Congratulations!",
+      "meaningInSourceLanguage": "恭喜！",
+      "id": "f2a39df687aa",
+      "priority": 0,
+      "group": "1776e08e4f6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Congratulations!",
+      "meaning": "恭喜！",
+      "audio": "5fae30747a813d1342fb2c2265a12e29c5c2f8b297392a8597ce47b885f429ee",
+      "id": "90bd6b79747c",
+      "priority": 1,
+      "group": "1776e08e4f6f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's celebrate!",
+      "meaningInSourceLanguage": "我们庆祝吧！",
+      "id": "b8a998e38d7b",
+      "priority": 0,
+      "group": "c8d23d43155c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's celebrate!",
+      "meaning": "我们庆祝吧！",
+      "audio": "b046caa7c68e092155cf707ba7301d985da846130e22a63d04927f2620ea0738",
+      "id": "c4dd4c9f240a",
+      "priority": 1,
+      "group": "c8d23d43155c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What are your hobbies?",
+      "meaningInSourceLanguage": "你的爱好是什么？",
+      "id": "13c55d5eabf1",
+      "priority": 0,
+      "group": "ebf670f6e8ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What are your hobbies?",
+      "meaning": "你的爱好是什么？",
+      "audio": "1f0aa6e3280b45a0bb0f63e4289524a4d5148271a042716a1646d2ff48ee7d2d",
+      "id": "669176064655",
+      "priority": 1,
+      "group": "ebf670f6e8ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I love traveling and photography.",
+      "meaningInSourceLanguage": "我喜欢旅行和摄影。",
+      "id": "6fe88fa6568e",
+      "priority": 0,
+      "group": "db63abec5471"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I love traveling and photography.",
+      "meaning": "我喜欢旅行和摄影。",
+      "audio": "477d663a1d4ec46d8290c50fbf0cd8b2d6f43a4be5809ccca75ced8293b6d6a2",
+      "id": "bf99d15572ab",
+      "priority": 1,
+      "group": "db63abec5471"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Art is a form of expression.",
+      "meaningInSourceLanguage": "艺术是一种表达形式。",
+      "id": "e27daf527296",
+      "priority": 0,
+      "group": "d50bc2779aa7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Art is a form of expression.",
+      "meaning": "艺术是一种表达形式。",
+      "audio": "da19628994fd06de5d250350a5f48c0a14c3b08b6ceb938cec1c5b47712aa866",
+      "id": "8d51ea1fbc0b",
+      "priority": 1,
+      "group": "d50bc2779aa7"
+    }
+  ]
+}

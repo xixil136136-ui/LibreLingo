@@ -1,0 +1,68 @@
+Skill:
+  Name: Transportation
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: поезд
+    Translation: 火车
+  - Word: автобус
+    Translation: 公共汽车
+  - Word: такси
+    Translation: 出租车
+  - Word: метро
+    Translation: 地铁
+  - Word: отель
+    Translation: 酒店
+  - Word: багаж
+    Translation: 行李
+  - Word: вокзал
+    Translation: 车站
+  - Word: рейс
+    Translation: 航班
+  - Word: задержка
+    Translation: 延误
+  - Word: посадка
+    Translation: 登机
+
+Phrases:
+  - Phrase: Где автобусная остановка?
+    Translation: 公共汽车站在哪里？
+  - Phrase: Поезд задерживается.
+    Translation: 火车晚点了。
+  - Phrase: У меня есть багаж.
+    Translation: 我有行李。
+  - Phrase: Сколько стоит поезд?
+    Translation: 火车票多少钱？
+  - Phrase: Где стоянка такси?
+    Translation: 出租车站在哪里？
+
+Mini-dictionary:
+  Russian:
+    - задержка: 延误
+    - такси: 出租车
+    - багаж: 行李
+    - метро: 地铁
+    - поезд: 火车
+    - вокзал: 车站
+    - отель: 酒店
+    - посадка: 登机
+    - автобус: 公共汽车
+    - рейс: 航班
+  Chinese:
+    - 航班: рейс
+    - 登机: посадка
+    - 行李: багаж
+    - 酒店: отель
+    - 出租车: такси
+    - 延误: задержка
+    - 车站: вокзал
+    - 公共汽车: автобус
+    - 火车: поезд
+    - 地铁: метро

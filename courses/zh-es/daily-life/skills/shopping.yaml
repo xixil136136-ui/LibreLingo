@@ -1,0 +1,74 @@
+Skill:
+  Name: Shopping
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: tienda
+    Translation: 商店
+  - Word: precio
+    Translation: 价格
+  - Word: caro
+    Translation: 贵的
+  - Word: barato
+    Translation: 便宜的
+  - Word: dinero
+    Translation: 钱
+  - Word: calidad
+    Translation: 质量
+  - Word: marca
+    Translation: 品牌
+  - Word: devolución
+    Translation: 退货
+  - Word: abierto
+    Translation: 营业
+  - Word: cerrado
+    Translation: 关门
+
+Phrases:
+  - Phrase: ¿Cuánto cuesta esto?
+    Translation: 这个多少钱？
+  - Phrase: Es demasiado caro.
+    Translation: 太贵了。
+  - Phrase: Esto es de buena calidad.
+    Translation: 这个质量很好。
+  - Phrase: ¿La tienda está abierta?
+    Translation: 商店开门吗？
+  - Phrase: Está cerrado hoy.
+    Translation: 今天关门了。
+  - Phrase: ¿Puedo devolver esto?
+    Translation: 能退货吗？
+  - Phrase: La tienda está allí.
+    Translation: 商店在那里。
+  - Phrase: No tengo dinero.
+    Translation: 我没钱。
+
+Mini-dictionary:
+  Spanish:
+    - devolución: 退货
+    - cerrado: 关门
+    - calidad: 质量
+    - precio: 价格
+    - caro: 贵的
+    - abierto: 营业
+    - dinero: 钱
+    - marca: 品牌
+    - tienda: 商店
+    - barato: 便宜的
+  Chinese:
+    - 质量: calidad
+    - 钱: dinero
+    - 贵的: caro
+    - 退货: devolución
+    - 便宜的: barato
+    - 价格: precio
+    - 关门: cerrado
+    - 品牌: marca
+    - 营业: abierto
+    - 商店: tienda

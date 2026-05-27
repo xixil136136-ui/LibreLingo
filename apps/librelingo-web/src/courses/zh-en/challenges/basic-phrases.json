@@ -1,0 +1,686 @@
+{
+  "id": "ce728444d1c0",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hello, how are you?",
+      "meaningInSourceLanguage": "你好，你好吗？",
+      "id": "612aa2cbd887",
+      "priority": 0,
+      "group": "c6767c2eb8bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hello, how are you?",
+      "meaning": "你好，你好吗？",
+      "audio": "70112b82313839134475ac4852de26157b71688170be8dd49a9dfabb35769a6e",
+      "id": "cc0142ed8180",
+      "priority": 1,
+      "group": "c6767c2eb8bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Good morning, thank you.",
+      "meaningInSourceLanguage": "早上好，谢谢。",
+      "id": "e8e77de00a6b",
+      "priority": 0,
+      "group": "b2d04b3b9e76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Good morning, thank you.",
+      "meaning": "早上好，谢谢。",
+      "audio": "4461d6e1190bac0d3ed27da84ba398e038dbcd1dffaf88af8d519c0e77a58df1",
+      "id": "97aa132dc3e2",
+      "priority": 1,
+      "group": "b2d04b3b9e76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm fine, thank you.",
+      "meaningInSourceLanguage": "我很好，谢谢。",
+      "id": "40be61985ccb",
+      "priority": 0,
+      "group": "3c79defba7fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm fine, thank you.",
+      "meaning": "我很好，谢谢。",
+      "audio": "4a98808a4a1610d37adde2d9c54832369cfe64bcfd3f98a8b97fe46479003422",
+      "id": "bcaaa31f9608",
+      "priority": 1,
+      "group": "3c79defba7fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Goodbye, see you later.",
+      "meaningInSourceLanguage": "再见，回头见。",
+      "id": "d05beb856ca2",
+      "priority": 0,
+      "group": "e39e6a25e2ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Goodbye, see you later.",
+      "meaning": "再见，回头见。",
+      "audio": "884d24a19da4f0f5ae5664d50a04a2cf7aa447335f248de3dbae0d85a67dc21e",
+      "id": "937858d25504",
+      "priority": 1,
+      "group": "e39e6a25e2ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please, come in.",
+      "meaningInSourceLanguage": "请进。",
+      "id": "57342cb4e5f9",
+      "priority": 0,
+      "group": "daa3744b89cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please, come in.",
+      "meaning": "请进。",
+      "audio": "5fdd9f884bd6555ff53a046d48f08f8b1ebd27c2bfee4a8ed88d6b3cd315ac55",
+      "id": "9abf4f9b1c43",
+      "priority": 1,
+      "group": "daa3744b89cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is your name?",
+      "meaningInSourceLanguage": "你叫什么名字？",
+      "id": "4ae35464b029",
+      "priority": 0,
+      "group": "07baeb5979a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is your name?",
+      "meaning": "你叫什么名字？",
+      "audio": "8565128405b50f096a058c5bcf511118a7fedb306af34458288778cc08da43d2",
+      "id": "8659976de0a7",
+      "priority": 1,
+      "group": "07baeb5979a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My name is...",
+      "meaningInSourceLanguage": "我叫...",
+      "id": "c72239a66721",
+      "priority": 0,
+      "group": "c53e59eafd80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "My name is...",
+      "meaning": "我叫...",
+      "audio": "797d4e543b7e7faca2ed618924d4d96e420f60c709f6111d70ca160049085435",
+      "id": "c9e31e76b794",
+      "priority": 1,
+      "group": "c53e59eafd80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where are you from?",
+      "meaningInSourceLanguage": "你从哪里来？",
+      "id": "91d09a2f15a0",
+      "priority": 0,
+      "group": "5cac0a3d88c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where are you from?",
+      "meaning": "你从哪里来？",
+      "audio": "a4b7929f655ad26370607c2864c05c2bddf07d4bca334108b5b04c9e3f9b6e5f",
+      "id": "95911f995a07",
+      "priority": 1,
+      "group": "5cac0a3d88c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am from...",
+      "meaningInSourceLanguage": "我从...来。",
+      "id": "4339515eadb3",
+      "priority": 0,
+      "group": "4f57279c1e5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am from...",
+      "meaning": "我从...来。",
+      "audio": "1dd6933fd321c97e8425e9f529224538b7103d5127a83b06eca78c365bef08f0",
+      "id": "85a8207a8dad",
+      "priority": 1,
+      "group": "4f57279c1e5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How old are you?",
+      "meaningInSourceLanguage": "你多大了？",
+      "id": "14e6e47b5076",
+      "priority": 0,
+      "group": "ac56c333d12b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How old are you?",
+      "meaning": "你多大了？",
+      "audio": "f9954d216f540b6b53b225c6efd9d616fe8fbedaf7176bd117e4e7e11b0d60fe",
+      "id": "4538f93bf4d2",
+      "priority": 1,
+      "group": "ac56c333d12b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am twenty years old.",
+      "meaningInSourceLanguage": "我二十岁。",
+      "id": "1eb6f777eba5",
+      "priority": 0,
+      "group": "c345ea7402b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am twenty years old.",
+      "meaning": "我二十岁。",
+      "audio": "4ac284890e5c3fd708e6d3bc2f1df9c49e6d8575f235d89957d7da7704be071e",
+      "id": "9862a0247a7f",
+      "priority": 1,
+      "group": "c345ea7402b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nice to meet you too.",
+      "meaningInSourceLanguage": "我也很高兴认识你。",
+      "id": "0c9b4409c952",
+      "priority": 0,
+      "group": "f03e39f8f6dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nice to meet you too.",
+      "meaning": "我也很高兴认识你。",
+      "audio": "1a856032908bfc441e2e2cb004048a9c6462aa7168eca1ab0f7a5fcf6753bac3",
+      "id": "27502452b852",
+      "priority": 1,
+      "group": "f03e39f8f6dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What time is it?",
+      "meaningInSourceLanguage": "几点了？",
+      "id": "081e6e10bfaf",
+      "priority": 0,
+      "group": "308a049d44be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What time is it?",
+      "meaning": "几点了？",
+      "audio": "ca4f2f4d5ae5b226a32e0909df9cd64c2d543fe3ac8ab788939638cc693423c4",
+      "id": "189f453dae3e",
+      "priority": 1,
+      "group": "308a049d44be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It is five o'clock.",
+      "meaningInSourceLanguage": "五点了。",
+      "id": "911ddc86c3dd",
+      "priority": 0,
+      "group": "3ab1a318024f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It is five o'clock.",
+      "meaning": "五点了。",
+      "audio": "1262b9e09c1e4e088063daacc23bfee7a7ebf562a54958536ecfed6476c79674",
+      "id": "1127dd3441a7",
+      "priority": 1,
+      "group": "3ab1a318024f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What day is today?",
+      "meaningInSourceLanguage": "今天星期几？",
+      "id": "c60b3f5de180",
+      "priority": 0,
+      "group": "7073ee6e72b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What day is today?",
+      "meaning": "今天星期几？",
+      "audio": "a6d4def9b467bddbc2e33a140eebecefc35d51b1e7d20a6bb7940d4e4a87c84e",
+      "id": "203fd4cba4e6",
+      "priority": 1,
+      "group": "7073ee6e72b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Today is Monday.",
+      "meaningInSourceLanguage": "今天是星期一。",
+      "id": "8630306a2777",
+      "priority": 0,
+      "group": "ac23ce2c0436"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Today is Monday.",
+      "meaning": "今天是星期一。",
+      "audio": "46e2b5e1bbd41dfa864e8e0e769e5828816370ec2714dab579878a3a78ca783d",
+      "id": "1290ae92242f",
+      "priority": 1,
+      "group": "ac23ce2c0436"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I don't understand.",
+      "meaningInSourceLanguage": "我不明白。",
+      "id": "096674c5dca5",
+      "priority": 0,
+      "group": "3726094d2cad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I don't understand.",
+      "meaning": "我不明白。",
+      "audio": "1955b1520dd42c40b2e4779a3f184eec343286733290a9f9af1496ab68eb5e4e",
+      "id": "e6973ee173ed",
+      "priority": 1,
+      "group": "3726094d2cad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could you repeat that?",
+      "meaningInSourceLanguage": "你能重复一遍吗？",
+      "id": "2f56a236cd16",
+      "priority": 0,
+      "group": "bfa6f808318b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could you repeat that?",
+      "meaning": "你能重复一遍吗？",
+      "audio": "d209e63ac1a19e6989deaac9b6bb45089c291c0de6715ee315b7005838259bc8",
+      "id": "9b373017420d",
+      "priority": 1,
+      "group": "bfa6f808318b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please speak slowly.",
+      "meaningInSourceLanguage": "请说慢一点。",
+      "id": "3f7a244b6184",
+      "priority": 0,
+      "group": "d10d9e2f3198"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please speak slowly.",
+      "meaning": "请说慢一点。",
+      "audio": "e6f595825897bf0fb8a31508c9295b48780b02653ad3bca2d6ff98e9afc94adc",
+      "id": "0d75e666f531",
+      "priority": 1,
+      "group": "d10d9e2f3198"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I don't know.",
+      "meaningInSourceLanguage": "我不知道。",
+      "id": "b2907eb8d275",
+      "priority": 0,
+      "group": "7da29173c472"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I don't know.",
+      "meaning": "我不知道。",
+      "audio": "4976d074d2e69eab3e2cd8b00fb727bf253c0e48263540a745b9516d6d57b98c",
+      "id": "3b2160cb33f0",
+      "priority": 1,
+      "group": "7da29173c472"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much is this?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "4ad61af7e6e2",
+      "priority": 0,
+      "group": "bb5640e0cb2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much is this?",
+      "meaning": "这个多少钱？",
+      "audio": "607c5c472bd34a1f3ab16665ceb0417983f68343f44c8cb3ff359790bfa2f08d",
+      "id": "b36211336943",
+      "priority": 1,
+      "group": "bb5640e0cb2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the bathroom?",
+      "meaningInSourceLanguage": "洗手间在哪里？",
+      "id": "59b1c6b8cb82",
+      "priority": 0,
+      "group": "89d42f8527d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the bathroom?",
+      "meaning": "洗手间在哪里？",
+      "audio": "be92814ae7336e85fe8262cc9d65de0a6c6e5d66a11582bf29cc324e650de68b",
+      "id": "9a5bf78fab38",
+      "priority": 1,
+      "group": "89d42f8527d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need help.",
+      "meaningInSourceLanguage": "我需要帮助。",
+      "id": "49493a8165d7",
+      "priority": 0,
+      "group": "7d42160f3a4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need help.",
+      "meaning": "我需要帮助。",
+      "audio": "28e24ac4f037aacb919d336fcd6f336d56bde402084693bb8023c9b67b751235",
+      "id": "903f18334e07",
+      "priority": 1,
+      "group": "7d42160f3a4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you help me?",
+      "meaningInSourceLanguage": "你能帮我吗？",
+      "id": "b38003b249f5",
+      "priority": 0,
+      "group": "7dd5f95cb03e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you help me?",
+      "meaning": "你能帮我吗？",
+      "audio": "32234aa584660575d4316ddb765e0d800e0f4ae8b47827b370d6a0ce0e275ea5",
+      "id": "b16c7bfd6533",
+      "priority": 1,
+      "group": "7dd5f95cb03e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That's a good idea.",
+      "meaningInSourceLanguage": "这是个好主意。",
+      "id": "2ee9628c0d07",
+      "priority": 0,
+      "group": "6d3646b20d6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That's a good idea.",
+      "meaning": "这是个好主意。",
+      "audio": "4ddcf9afdfbf5f6057e067d2ef402c0b6e62bed3ca92cbda9b7d67b4362713df",
+      "id": "d0bbfd149b55",
+      "priority": 1,
+      "group": "6d3646b20d6f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I agree.",
+      "meaningInSourceLanguage": "我同意。",
+      "id": "55e0a3698869",
+      "priority": 0,
+      "group": "4227fe6e1811"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I agree.",
+      "meaning": "我同意。",
+      "audio": "b4405b28c309d36f25746a5d267e033d9dd7714e3c7eed19e01e0901daac22a3",
+      "id": "cf94c88b9e6a",
+      "priority": 1,
+      "group": "4227fe6e1811"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I disagree.",
+      "meaningInSourceLanguage": "我不同意。",
+      "id": "9d833f8de96f",
+      "priority": 0,
+      "group": "9444f27de737"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I disagree.",
+      "meaning": "我不同意。",
+      "audio": "89f9d643a4c86c6ddb1ca0d507be03401dbad32d190bb416455933a0e64a7c22",
+      "id": "772de8ccb18e",
+      "priority": 1,
+      "group": "9444f27de737"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Of course.",
+      "meaningInSourceLanguage": "当然。",
+      "id": "ca792c98319d",
+      "priority": 0,
+      "group": "0ac231cbfd86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Of course.",
+      "meaning": "当然。",
+      "audio": "3c22826743b958e657ad342bc249c41ca481c715071bb7f74d0135068ffe2601",
+      "id": "18c7a19052be",
+      "priority": 1,
+      "group": "0ac231cbfd86"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "No problem.",
+      "meaningInSourceLanguage": "没问题。",
+      "id": "22a4734f5ad8",
+      "priority": 0,
+      "group": "ada4aceb05e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "No problem.",
+      "meaning": "没问题。",
+      "audio": "2e5686ff4fa24b9e3f315ccd96a19cdf3cae22035d4cc3c1afc212bc1a6e5083",
+      "id": "55e853dc625b",
+      "priority": 1,
+      "group": "ada4aceb05e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It doesn't matter.",
+      "meaningInSourceLanguage": "没关系。",
+      "id": "df756c7bfe2e",
+      "priority": 0,
+      "group": "286573e5a22b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It doesn't matter.",
+      "meaning": "没关系。",
+      "audio": "306b4def5cf907879ad48a48f19490b244b09f52845f887f5500242ada96eacb",
+      "id": "cd021b1bc691",
+      "priority": 1,
+      "group": "286573e5a22b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am sorry for the trouble.",
+      "meaningInSourceLanguage": "抱歉给你添麻烦了。",
+      "id": "6a1b1dd60c5b",
+      "priority": 0,
+      "group": "a30e5e1c86c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am sorry for the trouble.",
+      "meaning": "抱歉给你添麻烦了。",
+      "audio": "6c33665ec16c8b4d8ab2d56f196cdbeb64253eef250d03d2897ce90b533d9bbe",
+      "id": "b498a2bc2ffa",
+      "priority": 1,
+      "group": "a30e5e1c86c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thank you very much.",
+      "meaningInSourceLanguage": "非常感谢。",
+      "id": "53638d483b8b",
+      "priority": 0,
+      "group": "9d44a5c9cfa9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thank you very much.",
+      "meaning": "非常感谢。",
+      "audio": "26390a6bfd3f887af74bf42f59a5f88537b93a1bfd70f37d4db304fd6ff11aa9",
+      "id": "fa3e45302c13",
+      "priority": 1,
+      "group": "9d44a5c9cfa9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "You are welcome.",
+      "meaningInSourceLanguage": "不客气。",
+      "id": "06edeaab5a80",
+      "priority": 0,
+      "group": "e0891ab183f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You are welcome.",
+      "meaning": "不客气。",
+      "audio": "55dbaa4f570db82f5bb2a590ed60a06cc0ec7c94eafa7c162217d7175aaa57cb",
+      "id": "bb06167f61f3",
+      "priority": 1,
+      "group": "e0891ab183f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Have a good trip.",
+      "meaningInSourceLanguage": "旅途愉快。",
+      "id": "8f04fe5a0118",
+      "priority": 0,
+      "group": "75ba467d46c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Have a good trip.",
+      "meaning": "旅途愉快。",
+      "audio": "e9b0b631fe7d1576700401fd4b77f5c571e75a70d43d0a477ec62dc0ba646dc8",
+      "id": "1c2406d71ef3",
+      "priority": 1,
+      "group": "75ba467d46c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "See you next week.",
+      "meaningInSourceLanguage": "下周见。",
+      "id": "1d620d47173c",
+      "priority": 0,
+      "group": "0c59124a781a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "See you next week.",
+      "meaning": "下周见。",
+      "audio": "699018563f929abfa21fa47cb5c3245e7391af78b713249fd8e7686c0151afaa",
+      "id": "de84180acfb6",
+      "priority": 1,
+      "group": "0c59124a781a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's wrong?",
+      "meaningInSourceLanguage": "怎么了？",
+      "id": "64260e903c7c",
+      "priority": 0,
+      "group": "ef72572ea801"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's wrong?",
+      "meaning": "怎么了？",
+      "audio": "1a98748ad7997a9cc7902ffe14068613e2435f54b1069969e5aa7167087f1eaf",
+      "id": "de12b5672169",
+      "priority": 1,
+      "group": "ef72572ea801"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Are you okay?",
+      "meaningInSourceLanguage": "你还好吗？",
+      "id": "6d274f8033bd",
+      "priority": 0,
+      "group": "bd605f28d98f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Are you okay?",
+      "meaning": "你还好吗？",
+      "audio": "ce1fa32dfbd0c8b703c5d28ad345aa8f7304c1852d8d1a8660359915621b0641",
+      "id": "1e30537a1b83",
+      "priority": 1,
+      "group": "bd605f28d98f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am tired.",
+      "meaningInSourceLanguage": "我累了。",
+      "id": "98b09e44e78f",
+      "priority": 0,
+      "group": "a439b62be923"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am tired.",
+      "meaning": "我累了。",
+      "audio": "f44609b29100b9f1fe30a521429b0b5f8932b99cb7e0ef416fcb88fd1c5c57c2",
+      "id": "468192c2b02b",
+      "priority": 1,
+      "group": "a439b62be923"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am hungry.",
+      "meaningInSourceLanguage": "我饿了。",
+      "id": "293f7d01437b",
+      "priority": 0,
+      "group": "e75d93457629"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am hungry.",
+      "meaning": "我饿了。",
+      "audio": "6449fbc72f2a6ea29eb84402577661de4251a32621df93d236c75f2677f822fc",
+      "id": "2f5130ccf233",
+      "priority": 1,
+      "group": "e75d93457629"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am thirsty.",
+      "meaningInSourceLanguage": "我渴了。",
+      "id": "3b2c33ed4733",
+      "priority": 0,
+      "group": "8ddb934c3af6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am thirsty.",
+      "meaning": "我渴了。",
+      "audio": "eb9f7e68cea178af323bf043ed6dbacc495861c6ed87d5e2379ad63ba8eea969",
+      "id": "23fe416de97e",
+      "priority": 1,
+      "group": "8ddb934c3af6"
+    }
+  ]
+}

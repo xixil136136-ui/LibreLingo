@@ -1,0 +1,958 @@
+{
+  "id": "ce9392458870",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I love this weather.",
+      "meaningInSourceLanguage": "我喜欢这种天气。",
+      "id": "902d47511cb7",
+      "priority": 0,
+      "group": "3fabc8a1acf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I love this weather.",
+      "meaning": "我喜欢这种天气。",
+      "audio": "44bcbd2003ba435dbb15d50954fe86bf",
+      "id": "e5d6c674ffec",
+      "priority": 1,
+      "group": "3fabc8a1acf7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Me too. It's perfect for outdoor activities.",
+      "meaningInSourceLanguage": "我也是。非常适合户外活动。",
+      "id": "7d7a6791524f",
+      "priority": 0,
+      "group": "e7d96cf3b4e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Me too. It's perfect for outdoor activities.",
+      "meaning": "我也是。非常适合户外活动。",
+      "audio": "f0a65f897ab44dbc994a44d620987004",
+      "id": "43bbbe515a52",
+      "priority": 1,
+      "group": "e7d96cf3b4e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you teach me some Chinese?",
+      "meaningInSourceLanguage": "你能教我一些中文吗？",
+      "id": "3dc9fd092657",
+      "priority": 0,
+      "group": "a365bfa396ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you teach me some Chinese?",
+      "meaning": "你能教我一些中文吗？",
+      "audio": "b0c2e733143243a3b4f2bb2848675a62",
+      "id": "a5ff5a154d71",
+      "priority": 1,
+      "group": "a365bfa396ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Of course! Let's start with simple words.",
+      "meaningInSourceLanguage": "当然！我们从简单的词开始。",
+      "id": "ca4d10d9805b",
+      "priority": 0,
+      "group": "dbf11ce4448a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Of course! Let's start with simple words.",
+      "meaning": "当然！我们从简单的词开始。",
+      "audio": "8ff43e9926bf4f14944e063fb3111c6c",
+      "id": "c0ce1eaab3a3",
+      "priority": 1,
+      "group": "dbf11ce4448a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm going to the gym. Want to join?",
+      "meaningInSourceLanguage": "我要去健身房。想一起来吗？",
+      "id": "768e28cb51ec",
+      "priority": 0,
+      "group": "a458b18847a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm going to the gym. Want to join?",
+      "meaning": "我要去健身房。想一起来吗？",
+      "audio": "5914dfd9ec6a4277a2744f9be0d7b190",
+      "id": "65d2a2434bdf",
+      "priority": 1,
+      "group": "a458b18847a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, I need to exercise more.",
+      "meaningInSourceLanguage": "好的，我需要多运动。",
+      "id": "4a03e74a7992",
+      "priority": 0,
+      "group": "149b3945d7f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, I need to exercise more.",
+      "meaning": "好的，我需要多运动。",
+      "audio": "1e163f452981442c9031cbb494b630dc",
+      "id": "3f0314ad7cdf",
+      "priority": 1,
+      "group": "149b3945d7f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The internet is not working.",
+      "meaningInSourceLanguage": "网络坏了。",
+      "id": "8af930c905ba",
+      "priority": 0,
+      "group": "1aca036f10d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The internet is not working.",
+      "meaning": "网络坏了。",
+      "audio": "a16d4f3fe8c64a74ae8cc6cf1346c01c",
+      "id": "4b6143d64fd6",
+      "priority": 1,
+      "group": "1aca036f10d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Have you tried restarting the router?",
+      "meaningInSourceLanguage": "你试过重启路由器吗？",
+      "id": "3881e0c13977",
+      "priority": 0,
+      "group": "ab39b5baedf6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Have you tried restarting the router?",
+      "meaning": "你试过重启路由器吗？",
+      "audio": "8d3e573b7fc6465eb71b9a45273cfe24",
+      "id": "872ba48bb4db",
+      "priority": 1,
+      "group": "ab39b5baedf6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I lost my keys.",
+      "meaningInSourceLanguage": "我钥匙丢了。",
+      "id": "e92973c1c1d2",
+      "priority": 0,
+      "group": "6b4e7090971a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I lost my keys.",
+      "meaning": "我钥匙丢了。",
+      "audio": "cddb460aacad43d6acb3b0cbfac727ac",
+      "id": "f3bcc0d3cee9",
+      "priority": 1,
+      "group": "6b4e7090971a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you check your pockets?",
+      "meaningInSourceLanguage": "你检查口袋了吗？",
+      "id": "8943345a4b91",
+      "priority": 0,
+      "group": "50137662f9b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you check your pockets?",
+      "meaning": "你检查口袋了吗？",
+      "audio": "45b75dc189484e09b9e22aec79093b4e",
+      "id": "00a85af163ca",
+      "priority": 1,
+      "group": "50137662f9b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm so stressed about the exam.",
+      "meaningInSourceLanguage": "我对考试很紧张。",
+      "id": "e71e23e1cf95",
+      "priority": 0,
+      "group": "f8f0ee0f8e1c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm so stressed about the exam.",
+      "meaning": "我对考试很紧张。",
+      "audio": "3b3f5d0260d247bbbb90fe277457a005",
+      "id": "9df21eaea4f8",
+      "priority": 1,
+      "group": "f8f0ee0f8e1c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Just relax and do your best.",
+      "meaningInSourceLanguage": "放轻松，尽力就好。",
+      "id": "063285e21460",
+      "priority": 0,
+      "group": "5f6fa4683f3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Just relax and do your best.",
+      "meaning": "放轻松，尽力就好。",
+      "audio": "ab45ab079cf3405e91918634ec2bd959",
+      "id": "90defeb34b8d",
+      "priority": 1,
+      "group": "5f6fa4683f3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "This is my first time on a plane.",
+      "meaningInSourceLanguage": "这是我第一次坐飞机。",
+      "id": "e2ca115d450e",
+      "priority": 0,
+      "group": "e2811e26ec3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "This is my first time on a plane.",
+      "meaning": "这是我第一次坐飞机。",
+      "audio": "6e3de8d578394649b2739cb4b5ec23d7",
+      "id": "41def007699f",
+      "priority": 1,
+      "group": "e2811e26ec3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Don't worry, it's perfectly safe.",
+      "meaningInSourceLanguage": "别担心，非常安全的。",
+      "id": "fbd4daf63b10",
+      "priority": 0,
+      "group": "17c33ee40854"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Don't worry, it's perfectly safe.",
+      "meaning": "别担心，非常安全的。",
+      "audio": "d30876da41d146c6b615119c643c74fa",
+      "id": "2ec16b1e9a70",
+      "priority": 1,
+      "group": "17c33ee40854"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I miss my family.",
+      "meaningInSourceLanguage": "我想念我的家人。",
+      "id": "ea5496cf2d67",
+      "priority": 0,
+      "group": "acc187f18cab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I miss my family.",
+      "meaning": "我想念我的家人。",
+      "audio": "56e2a9bafc94427886e982933dabde92",
+      "id": "39964d9a6b4d",
+      "priority": 1,
+      "group": "acc187f18cab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "You can video call them tonight.",
+      "meaningInSourceLanguage": "你今晚可以跟他们视频通话。",
+      "id": "47d48bbb1e09",
+      "priority": 0,
+      "group": "3ea6f7f2ffcd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You can video call them tonight.",
+      "meaning": "你今晚可以跟他们视频通话。",
+      "audio": "b94a145e884b42b38c025ce5e51b198f",
+      "id": "e8f4e5d50727",
+      "priority": 1,
+      "group": "3ea6f7f2ffcd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What a beautiful sunset!",
+      "meaningInSourceLanguage": "好美的日落！",
+      "id": "e3e6dc0e6c55",
+      "priority": 0,
+      "group": "934d3d10a574"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What a beautiful sunset!",
+      "meaning": "好美的日落！",
+      "audio": "8f16b79652e84c51b95fb2300710b68d",
+      "id": "6d7dfc57f4e7",
+      "priority": 1,
+      "group": "934d3d10a574"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's breathtaking.",
+      "meaningInSourceLanguage": "真是令人屏息。",
+      "id": "5acbff7d26e2",
+      "priority": 0,
+      "group": "120dbe0a9570"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's breathtaking.",
+      "meaning": "真是令人屏息。",
+      "audio": "b438670d0a1b46c289b0bda6a64efa49",
+      "id": "7f5aa9e70f36",
+      "priority": 1,
+      "group": "120dbe0a9570"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could you take a picture of us?",
+      "meaningInSourceLanguage": "你能帮我们拍张照吗？",
+      "id": "f7ff032852b7",
+      "priority": 0,
+      "group": "0bb4f97a85d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could you take a picture of us?",
+      "meaning": "你能帮我们拍张照吗？",
+      "audio": "ed8cdd260325430f990f21e291a250cf",
+      "id": "b7b72c6942a5",
+      "priority": 1,
+      "group": "0bb4f97a85d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, say cheese!",
+      "meaningInSourceLanguage": "好的，说茄子！",
+      "id": "2ea1d91c4398",
+      "priority": 0,
+      "group": "cb1b7a53a5bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, say cheese!",
+      "meaning": "好的，说茄子！",
+      "audio": "391b0b93cf2648998d95efb87439963d",
+      "id": "a6d9b288d7a5",
+      "priority": 1,
+      "group": "cb1b7a53a5bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm looking for a gift for my mom.",
+      "meaningInSourceLanguage": "我在给我妈妈找礼物。",
+      "id": "ccdda5e7b8e5",
+      "priority": 0,
+      "group": "9b447027e484"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm looking for a gift for my mom.",
+      "meaning": "我在给我妈妈找礼物。",
+      "audio": "c7a6ae21916c4440bb78cda2e3dd548d",
+      "id": "dbec45c1cf59",
+      "priority": 1,
+      "group": "9b447027e484"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How about this scarf? It's beautiful.",
+      "meaningInSourceLanguage": "这条围巾怎么样？很漂亮。",
+      "id": "c3b1120910cd",
+      "priority": 0,
+      "group": "222544f92a53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How about this scarf? It's beautiful.",
+      "meaning": "这条围巾怎么样？很漂亮。",
+      "audio": "c6737c1b532f4590a536c50f0bdce537",
+      "id": "869a3f329b04",
+      "priority": 1,
+      "group": "222544f92a53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I think I need a new phone.",
+      "meaningInSourceLanguage": "我觉得我需要一部新手机。",
+      "id": "6f8b721e2f40",
+      "priority": 0,
+      "group": "b1c2612ca181"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I think I need a new phone.",
+      "meaning": "我觉得我需要一部新手机。",
+      "audio": "b0dba7ac5fe54620b67694cd7c5c9ea7",
+      "id": "d3f10bcb08be",
+      "priority": 1,
+      "group": "b1c2612ca181"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The latest model just came out.",
+      "meaningInSourceLanguage": "最新款刚刚推出。",
+      "id": "70c33361d4fa",
+      "priority": 0,
+      "group": "4bd849efde37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The latest model just came out.",
+      "meaning": "最新款刚刚推出。",
+      "audio": "e3bebd7b498e4bc19de2fb7e0179ca8c",
+      "id": "905d34bebe5f",
+      "priority": 1,
+      "group": "4bd849efde37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's order pizza tonight.",
+      "meaningInSourceLanguage": "我们今晚点披萨吧。",
+      "id": "8ff5be92a790",
+      "priority": 0,
+      "group": "f5483ce9ae38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's order pizza tonight.",
+      "meaning": "我们今晚点披萨吧。",
+      "audio": "2df51b068dc240a4a3fac430180b5579",
+      "id": "60a95e0e10da",
+      "priority": 1,
+      "group": "f5483ce9ae38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Great idea! I'm craving pizza.",
+      "meaningInSourceLanguage": "好主意！我想吃披萨了。",
+      "id": "7484f93e6275",
+      "priority": 0,
+      "group": "9e3ea36bed68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Great idea! I'm craving pizza.",
+      "meaning": "好主意！我想吃披萨了。",
+      "audio": "ec6a873437b7437cb332acd40dc52a75",
+      "id": "df9393b219d0",
+      "priority": 1,
+      "group": "9e3ea36bed68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I can't find my glasses.",
+      "meaningInSourceLanguage": "我找不到我的眼镜了。",
+      "id": "ba3ca74b96a2",
+      "priority": 0,
+      "group": "b39e90e55d14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I can't find my glasses.",
+      "meaning": "我找不到我的眼镜了。",
+      "audio": "e379776fa25f4ef0b90591a9ca1079c4",
+      "id": "2652d8ea59b3",
+      "priority": 1,
+      "group": "b39e90e55d14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "They're on your head!",
+      "meaningInSourceLanguage": "在你头上！",
+      "id": "117c984892c2",
+      "priority": 0,
+      "group": "e03924a448dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "They're on your head!",
+      "meaning": "在你头上！",
+      "audio": "364cd43994a14199b2de62cc79aa66c5",
+      "id": "9226f8cfc5ce",
+      "priority": 1,
+      "group": "e03924a448dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you want to watch a movie tonight?",
+      "meaningInSourceLanguage": "今晚想看电影吗？",
+      "id": "22bf8be8ac0b",
+      "priority": 0,
+      "group": "1babdffdd3d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you want to watch a movie tonight?",
+      "meaning": "今晚想看电影吗？",
+      "audio": "8585e7f0a9e5492bb461e075031f70f8",
+      "id": "b275d4bc9a6d",
+      "priority": 1,
+      "group": "1babdffdd3d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, what genre do you feel like?",
+      "meaningInSourceLanguage": "好啊，你想看什么类型的？",
+      "id": "0796096827d8",
+      "priority": 0,
+      "group": "c7537cabac16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, what genre do you feel like?",
+      "meaning": "好啊，你想看什么类型的？",
+      "audio": "a41d68d1638a44c9ba5d0572d980b0ea",
+      "id": "0fbf131feb0c",
+      "priority": 1,
+      "group": "c7537cabac16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I got promoted!",
+      "meaningInSourceLanguage": "我升职了！",
+      "id": "e6edd0ce166d",
+      "priority": 0,
+      "group": "3e9f94bd0f34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I got promoted!",
+      "meaning": "我升职了！",
+      "audio": "1895ebdd1da44309b53bc1e8a524058b",
+      "id": "bcebae06d722",
+      "priority": 1,
+      "group": "3e9f94bd0f34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Congratulations! That's wonderful news!",
+      "meaningInSourceLanguage": "恭喜！真是好消息！",
+      "id": "f162999a852d",
+      "priority": 0,
+      "group": "c32b147513a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Congratulations! That's wonderful news!",
+      "meaning": "恭喜！真是好消息！",
+      "audio": "57f040d3bf4044eb829f3191c1e56e38",
+      "id": "fb0c27f1559e",
+      "priority": 1,
+      "group": "c32b147513a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm so tired after work.",
+      "meaningInSourceLanguage": "下班后我好累。",
+      "id": "df77d97ef2da",
+      "priority": 0,
+      "group": "84b483c83c7b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm so tired after work.",
+      "meaning": "下班后我好累。",
+      "audio": "dd8d01439cd74367ba311f188ee21f45",
+      "id": "de643afd0aa2",
+      "priority": 1,
+      "group": "84b483c83c7b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "You should take a hot bath and relax.",
+      "meaningInSourceLanguage": "你应该泡个热水澡放松一下。",
+      "id": "946e88595a5c",
+      "priority": 0,
+      "group": "49b04a6d2f5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You should take a hot bath and relax.",
+      "meaning": "你应该泡个热水澡放松一下。",
+      "audio": "cc001948304e4fab84515f57490ebae3",
+      "id": "044cd3d72831",
+      "priority": 1,
+      "group": "49b04a6d2f5e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's for dinner?",
+      "meaningInSourceLanguage": "晚饭吃什么？",
+      "id": "bf460d5b4764",
+      "priority": 0,
+      "group": "8d0b2869e64e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's for dinner?",
+      "meaning": "晚饭吃什么？",
+      "audio": "f6f99fc22fa7461dadd7c261b6343742",
+      "id": "013b63f7c672",
+      "priority": 1,
+      "group": "8d0b2869e64e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm making your favorite dish.",
+      "meaningInSourceLanguage": "我在做你最喜欢的菜。",
+      "id": "488eb332546c",
+      "priority": 0,
+      "group": "bee3f285fa8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm making your favorite dish.",
+      "meaning": "我在做你最喜欢的菜。",
+      "audio": "b68e7ef9a7e2467fba66c00a4c984434",
+      "id": "7415f683d2df",
+      "priority": 1,
+      "group": "bee3f285fa8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to study for the test.",
+      "meaningInSourceLanguage": "我需要复习考试。",
+      "id": "abde4d95f103",
+      "priority": 0,
+      "group": "76ab443b0d7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to study for the test.",
+      "meaning": "我需要复习考试。",
+      "audio": "54975ea6a382408eae17d5da1e818a38",
+      "id": "be7303d24fb2",
+      "priority": 1,
+      "group": "76ab443b0d7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Good luck! I know you'll do well.",
+      "meaningInSourceLanguage": "祝你好运！我知道你会考好的。",
+      "id": "c7dc4d8a33d9",
+      "priority": 0,
+      "group": "6f1633276a1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Good luck! I know you'll do well.",
+      "meaning": "祝你好运！我知道你会考好的。",
+      "audio": "7f5a1e997ba543f98ba06689b2233c57",
+      "id": "8612d7a9f06c",
+      "priority": 1,
+      "group": "6f1633276a1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I ask you a question?",
+      "meaningInSourceLanguage": "我能问你一个问题吗？",
+      "id": "9ebf7b558431",
+      "priority": 0,
+      "group": "2f87b2beb9ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I ask you a question?",
+      "meaning": "我能问你一个问题吗？",
+      "audio": "2efb8ebfe49049498111db2c88de98d3",
+      "id": "01d3c6ff2990",
+      "priority": 1,
+      "group": "2f87b2beb9ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Of course, what is it?",
+      "meaningInSourceLanguage": "当然，什么问题？",
+      "id": "3e0205b5fadc",
+      "priority": 0,
+      "group": "2485215e81de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Of course, what is it?",
+      "meaning": "当然，什么问题？",
+      "audio": "4694ff668b944b17afe536654aa3cb36",
+      "id": "1586065d3e8b",
+      "priority": 1,
+      "group": "2485215e81de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I don't know how to say this in English.",
+      "meaningInSourceLanguage": "我不知道这个用英语怎么说。",
+      "id": "d6debaada7e7",
+      "priority": 0,
+      "group": "0fe8154f99e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I don't know how to say this in English.",
+      "meaning": "我不知道这个用英语怎么说。",
+      "audio": "78c7ec9ddf014219ac238a5b9eba6e05",
+      "id": "05bfe9954c75",
+      "priority": 1,
+      "group": "0fe8154f99e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "You can say 'I appreciate your help'.",
+      "meaningInSourceLanguage": "你可以说'I appreciate your help'。",
+      "id": "08817d866ba7",
+      "priority": 0,
+      "group": "25aacdca3fe3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You can say 'I appreciate your help'.",
+      "meaning": "你可以说'I appreciate your help'。",
+      "audio": "dfbfe3c54f7a4493b4c72850d5185d1a",
+      "id": "ff92c80e927d",
+      "priority": 1,
+      "group": "25aacdca3fe3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's plan a trip together.",
+      "meaningInSourceLanguage": "我们一起计划一次旅行吧。",
+      "id": "efe1f8912f7c",
+      "priority": 0,
+      "group": "3874a5e05a09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's plan a trip together.",
+      "meaning": "我们一起计划一次旅行吧。",
+      "audio": "f87dfccf079745be87f68f124ec32627",
+      "id": "cf1926101b53",
+      "priority": 1,
+      "group": "3874a5e05a09"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where would you like to go?",
+      "meaningInSourceLanguage": "你想去哪里？",
+      "id": "a8c31a12ef74",
+      "priority": 0,
+      "group": "67c61011edde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where would you like to go?",
+      "meaning": "你想去哪里？",
+      "audio": "959060f8329e4bacb877c6a808a805e2",
+      "id": "0b4387b1c365",
+      "priority": 1,
+      "group": "67c61011edde"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I want to travel around Europe.",
+      "meaningInSourceLanguage": "我想去欧洲旅行。",
+      "id": "2116eb4506be",
+      "priority": 0,
+      "group": "6ddaa17d5b49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I want to travel around Europe.",
+      "meaning": "我想去欧洲旅行。",
+      "audio": "a1e084541a814c71aa9e61e1bda064f9",
+      "id": "cac19cbfab66",
+      "priority": 1,
+      "group": "6ddaa17d5b49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That would be an amazing experience.",
+      "meaningInSourceLanguage": "那会是次很棒的体验。",
+      "id": "ba28729511c9",
+      "priority": 0,
+      "group": "499076ed563b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That would be an amazing experience.",
+      "meaning": "那会是次很棒的体验。",
+      "audio": "f407db415cdf4824956f651ed016977e",
+      "id": "83119017338f",
+      "priority": 1,
+      "group": "499076ed563b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My phone battery is dead.",
+      "meaningInSourceLanguage": "我手机没电了。",
+      "id": "422d40834761",
+      "priority": 0,
+      "group": "e5a93636b5fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "My phone battery is dead.",
+      "meaning": "我手机没电了。",
+      "audio": "62beb4d2b0ee4b31b5ef9ca2dd678b2e",
+      "id": "3cdb05e26d65",
+      "priority": 1,
+      "group": "e5a93636b5fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "You can use my charger.",
+      "meaningInSourceLanguage": "你可以用我的充电器。",
+      "id": "1e0d464d6569",
+      "priority": 0,
+      "group": "c79ba9a1f857"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You can use my charger.",
+      "meaning": "你可以用我的充电器。",
+      "audio": "117c8ad6847b404c82984a1c5366e42e",
+      "id": "af4393a6f2ca",
+      "priority": 1,
+      "group": "c79ba9a1f857"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm really good at cooking.",
+      "meaningInSourceLanguage": "我很擅长做饭。",
+      "id": "2c8b205e582d",
+      "priority": 0,
+      "group": "756589b95138"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm really good at cooking.",
+      "meaning": "我很擅长做饭。",
+      "audio": "f2f833cf3f0247d2892e2e5b1f346799",
+      "id": "1826e71d1804",
+      "priority": 1,
+      "group": "756589b95138"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Prove it! Cook something for me.",
+      "meaningInSourceLanguage": "证明给我看！给我做点东西。",
+      "id": "49a96d9957b7",
+      "priority": 0,
+      "group": "7b9094f4c946"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Prove it! Cook something for me.",
+      "meaning": "证明给我看！给我做点东西。",
+      "audio": "d95f41f474514e5284f31b06a50ed3f8",
+      "id": "3486c3112a19",
+      "priority": 1,
+      "group": "7b9094f4c946"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I think I'm catching a cold.",
+      "meaningInSourceLanguage": "我觉得我感冒了。",
+      "id": "45cc307dac57",
+      "priority": 0,
+      "group": "a63ff7adc329"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I think I'm catching a cold.",
+      "meaning": "我觉得我感冒了。",
+      "audio": "9f54a137c27c477d83797edd661cc5f6",
+      "id": "c495bed689c2",
+      "priority": 1,
+      "group": "a63ff7adc329"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Drink some hot tea and get some rest.",
+      "meaningInSourceLanguage": "喝点热茶，好好休息。",
+      "id": "8229879677f6",
+      "priority": 0,
+      "group": "adf2c2224c97"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Drink some hot tea and get some rest.",
+      "meaning": "喝点热茶，好好休息。",
+      "audio": "db665912c6e04025b600b6fa00893545",
+      "id": "6f1bdd7d9e5c",
+      "priority": 1,
+      "group": "adf2c2224c97"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thank you for your hospitality.",
+      "meaningInSourceLanguage": "谢谢你的热情款待。",
+      "id": "bf910b8c982a",
+      "priority": 0,
+      "group": "18475427de91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thank you for your hospitality.",
+      "meaning": "谢谢你的热情款待。",
+      "audio": "5e64d73578534d2b83d33e1748a503bc",
+      "id": "a6ba726d20fe",
+      "priority": 1,
+      "group": "18475427de91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "You're welcome! It was my pleasure.",
+      "meaningInSourceLanguage": "不客气！这是我的荣幸。",
+      "id": "63da8a465251",
+      "priority": 0,
+      "group": "f8fb3d500633"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You're welcome! It was my pleasure.",
+      "meaning": "不客气！这是我的荣幸。",
+      "audio": "7450190543564f5386a439fb7ac4eed7",
+      "id": "53d58d79baa0",
+      "priority": 1,
+      "group": "f8fb3d500633"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm so excited about our trip!",
+      "meaningInSourceLanguage": "我对我们的旅行很兴奋！",
+      "id": "015f708d2ef1",
+      "priority": 0,
+      "group": "afab18838a39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm so excited about our trip!",
+      "meaning": "我对我们的旅行很兴奋！",
+      "audio": "fb5f4086bd2f45ba86d70c9b52836c30",
+      "id": "e082c2b7baa8",
+      "priority": 1,
+      "group": "afab18838a39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Me too! It's going to be amazing.",
+      "meaningInSourceLanguage": "我也是！一定会很棒的。",
+      "id": "c2c4a384c04b",
+      "priority": 0,
+      "group": "40b564dabce6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Me too! It's going to be amazing.",
+      "meaning": "我也是！一定会很棒的。",
+      "audio": "8c405859cd38480ab84d1f675695321f",
+      "id": "ef0980f2efc8",
+      "priority": 1,
+      "group": "40b564dabce6"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+Skill:
+  Name: Shopping
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: ร้านค้า
+    Translation: 商店
+  - Word: ราคา
+    Translation: 价格
+  - Word: แพง
+    Translation: 贵的
+  - Word: ถูก
+    Translation: 便宜的
+  - Word: เงิน
+    Translation: 钱
+  - Word: คุณภาพ
+    Translation: 质量
+  - Word: แบรนด์
+    Translation: 品牌
+  - Word: คืนสินค้า
+    Translation: 退货
+  - Word: เปิด
+    Translation: 营业
+  - Word: ปิด
+    Translation: 关门
+
+Phrases:
+  - Phrase: อันนี้เท่าไหร่
+    Translation: 这个多少钱？
+  - Phrase: แพงเกินไป
+    Translation: 太贵了。
+  - Phrase: อันนี้คุณภาพดี
+    Translation: 这个质量很好。
+  - Phrase: ร้านเปิดไหม
+    Translation: 商店开门吗？
+  - Phrase: วันนี้ปิด
+    Translation: 今天关门了。
+  - Phrase: คืนสินค้าได้ไหม
+    Translation: 能退货吗？
+  - Phrase: ร้านอยู่ตรงนั้น
+    Translation: 商店在那里。
+  - Phrase: ฉันไม่มีเงิน
+    Translation: 我没钱。
+
+Mini-dictionary:
+  Thai:
+    - คุณภาพ: 质量
+    - เงิน: 钱
+    - ปิด: 关门
+    - ถูก: 便宜的
+    - คืนสินค้า: 退货
+    - แพง: 贵的
+    - ราคา: 价格
+    - เปิด: 营业
+    - ร้านค้า: 商店
+    - แบรนด์: 品牌
+  Chinese:
+    - 关门: ปิด
+    - 钱: เงิน
+    - 品牌: แบรนด์
+    - 价格: ราคา
+    - 质量: คุณภาพ
+    - 退货: คืนสินค้า
+    - 商店: ร้านค้า
+    - 贵的: แพง
+    - 营业: เปิด
+    - 便宜的: ถูก

@@ -1,0 +1,346 @@
+{
+  "id": "4c4634b129d3",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to restart my computer.",
+      "meaningInSourceLanguage": "我需要重启电脑。",
+      "id": "a16806e6dd63",
+      "priority": 0,
+      "group": "ad3725172cd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to restart my computer.",
+      "meaning": "我需要重启电脑。",
+      "audio": "6495403ac95c1897415ea9a2db85ce1da296718546dcf5286977442d2ef8d66c",
+      "id": "191d096bb4b8",
+      "priority": 1,
+      "group": "ad3725172cd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The internet is down.",
+      "meaningInSourceLanguage": "网络断了。",
+      "id": "8fe158a04621",
+      "priority": 0,
+      "group": "a9efdb1a65c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The internet is down.",
+      "meaning": "网络断了。",
+      "audio": "d406dc16d6e77029bf63b938425fb325ada962523093164bb86b71a965f11615",
+      "id": "4ea0a54310e3",
+      "priority": 1,
+      "group": "a9efdb1a65c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please check your email.",
+      "meaningInSourceLanguage": "请查收你的邮件。",
+      "id": "116c98d2bf55",
+      "priority": 0,
+      "group": "7ccbbf0f31e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please check your email.",
+      "meaning": "请查收你的邮件。",
+      "audio": "7a5f3242f4cad67d7ea55c685f1a7e10a276419d277c88c6cfd475304c1d4a56",
+      "id": "b1b85a28bb3e",
+      "priority": 1,
+      "group": "7ccbbf0f31e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you send me the file?",
+      "meaningInSourceLanguage": "你能把文件发给我吗？",
+      "id": "751713e818bd",
+      "priority": 0,
+      "group": "06c1c146a10c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you send me the file?",
+      "meaning": "你能把文件发给我吗？",
+      "audio": "c627f93c77d90f217c4d75a956d4618dd96a00911903edb16ee6dfa29b29a300",
+      "id": "c8e6c021064f",
+      "priority": 1,
+      "group": "06c1c146a10c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll save the document.",
+      "meaningInSourceLanguage": "我会保存文档。",
+      "id": "4d074555a07a",
+      "priority": 0,
+      "group": "8c660fe9ec6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll save the document.",
+      "meaning": "我会保存文档。",
+      "audio": "7d405e75bbd3944c1e62b38b80b56411fc4e8b5f376a415d202372d5ef6fed26",
+      "id": "be6286489c19",
+      "priority": 1,
+      "group": "8c660fe9ec6f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's your password?",
+      "meaningInSourceLanguage": "你的密码是什么？",
+      "id": "1cdcb1496b34",
+      "priority": 0,
+      "group": "b47cca38fad6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's your password?",
+      "meaning": "你的密码是什么？",
+      "audio": "13c34132287479f95476c15185b895301ca4b6f4e46652efb57d4bd651efa1b3",
+      "id": "b05ee2008639",
+      "priority": 1,
+      "group": "b47cca38fad6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please update the software.",
+      "meaningInSourceLanguage": "请更新软件。",
+      "id": "9a8572286903",
+      "priority": 0,
+      "group": "d95627e7eb50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please update the software.",
+      "meaning": "请更新软件。",
+      "audio": "2e278645488340ee3f0501016bd3a549d235fe3ca56501557d95834202fa150a",
+      "id": "ff82c0de5328",
+      "priority": 1,
+      "group": "d95627e7eb50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The system is running slowly.",
+      "meaningInSourceLanguage": "系统运行很慢。",
+      "id": "95ab987257d3",
+      "priority": 0,
+      "group": "dd0bf3dfdd99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The system is running slowly.",
+      "meaning": "系统运行很慢。",
+      "audio": "b9182a92939775f4198f86acbdb67271fa47755438495bb44e6b3c462ec98b0d",
+      "id": "16da941209e0",
+      "priority": 1,
+      "group": "dd0bf3dfdd99"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to install a program.",
+      "meaningInSourceLanguage": "我需要安装一个程序。",
+      "id": "d9b88f3997e5",
+      "priority": 0,
+      "group": "7e33edcebce4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to install a program.",
+      "meaning": "我需要安装一个程序。",
+      "audio": "616e708f918aa0a4f8d777b838a1a6d4daebf3a1a7b72dba741ddfe269c3bc56",
+      "id": "2401dca3f712",
+      "priority": 1,
+      "group": "7e33edcebce4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Have you backed up your data?",
+      "meaningInSourceLanguage": "你备份数据了吗？",
+      "id": "40c8048e8bba",
+      "priority": 0,
+      "group": "49d384a34138"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Have you backed up your data?",
+      "meaning": "你备份数据了吗？",
+      "audio": "2f8448eb53ac18a8c226d16313af058590e77b8928b08991335553545ba1b2b2",
+      "id": "f14838b163a4",
+      "priority": 1,
+      "group": "49d384a34138"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I can't connect to the internet.",
+      "meaningInSourceLanguage": "我无法连接网络。",
+      "id": "e53819d8dcca",
+      "priority": 0,
+      "group": "f7d133e2fb54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I can't connect to the internet.",
+      "meaning": "我无法连接网络。",
+      "audio": "ab6d3993e8520fa52e9966d3323e2fb5d05342b6f4519ebad0d1a08bb9c1ce0e",
+      "id": "b544184ca6fb",
+      "priority": 1,
+      "group": "f7d133e2fb54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please scan the document.",
+      "meaningInSourceLanguage": "请扫描文件。",
+      "id": "dcd6f3434cc3",
+      "priority": 0,
+      "group": "97ec6058994d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please scan the document.",
+      "meaning": "请扫描文件。",
+      "audio": "12f937edd7305d8a6c25fc715fbd986b67d8af87afaf04e2ee91f04aabac2ddb",
+      "id": "015a13202c41",
+      "priority": 1,
+      "group": "97ec6058994d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Delete this file.",
+      "meaningInSourceLanguage": "删除这个文件。",
+      "id": "c2ee161e86b3",
+      "priority": 0,
+      "group": "6844fb2f0b91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Delete this file.",
+      "meaning": "删除这个文件。",
+      "audio": "39b8c639053bba0c6519d6305e0050760eeae9a794b2aa4eb3176661014f36b2",
+      "id": "f87615de7355",
+      "priority": 1,
+      "group": "6844fb2f0b91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Copy and paste the text.",
+      "meaningInSourceLanguage": "复制粘贴文本。",
+      "id": "4aa14bbccdb9",
+      "priority": 0,
+      "group": "4cb661e90387"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Copy and paste the text.",
+      "meaning": "复制粘贴文本。",
+      "audio": "f9c9986543bf8b0b3d542ec4d7bb00cfeea2ab08819e23b506d12da309a5bb28",
+      "id": "af9162fdf126",
+      "priority": 1,
+      "group": "4cb661e90387"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Click the link.",
+      "meaningInSourceLanguage": "点击链接。",
+      "id": "d24fd9cd542d",
+      "priority": 0,
+      "group": "d21d8e78901f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Click the link.",
+      "meaning": "点击链接。",
+      "audio": "9535bcc8c7f964e608dc2639411bafcc6e64de131605e9efb02cd990943a86c7",
+      "id": "3a15ee8e5bfc",
+      "priority": 1,
+      "group": "d21d8e78901f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I forgot my password.",
+      "meaningInSourceLanguage": "我忘记密码了。",
+      "id": "2f93b201eb88",
+      "priority": 0,
+      "group": "e5a94d746ba0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I forgot my password.",
+      "meaning": "我忘记密码了。",
+      "audio": "aa3763338ad45c7b0339ca66666835f439b8eec95286615a1a8b82f18d360d8d",
+      "id": "7741451df039",
+      "priority": 1,
+      "group": "e5a94d746ba0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Create a new account.",
+      "meaningInSourceLanguage": "创建一个新账户。",
+      "id": "489cf6e99487",
+      "priority": 0,
+      "group": "bd4fc0850dc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Create a new account.",
+      "meaning": "创建一个新账户。",
+      "audio": "60c8d5ca04d93a06b511eebde5a031f615e489f6674e448e6a492e1f3d6d90ad",
+      "id": "6b36fb00ee97",
+      "priority": 1,
+      "group": "bd4fc0850dc5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The website is not loading.",
+      "meaningInSourceLanguage": "网站加载不出来。",
+      "id": "0543d992faf1",
+      "priority": 0,
+      "group": "209dfd362429"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The website is not loading.",
+      "meaning": "网站加载不出来。",
+      "audio": "9c72b7424b1ea1837bd9a64f0d727f32d3e0b1ceedf4ea23381a72f9f3755d53",
+      "id": "324e2037882a",
+      "priority": 1,
+      "group": "209dfd362429"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Print this page.",
+      "meaningInSourceLanguage": "打印这一页。",
+      "id": "76e55feeadbb",
+      "priority": 0,
+      "group": "5010a3009b42"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Print this page.",
+      "meaning": "打印这一页。",
+      "audio": "d3c61ca7622472f7fc7e0162be2d95181b1e9bb7c3fee8f2a7a94423037d0f53",
+      "id": "ffe49282ef98",
+      "priority": 1,
+      "group": "5010a3009b42"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Send me an email with the details.",
+      "meaningInSourceLanguage": "把详细信息发邮件给我。",
+      "id": "1f4b72e9b1b1",
+      "priority": 0,
+      "group": "7abe24e33a5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Send me an email with the details.",
+      "meaning": "把详细信息发邮件给我。",
+      "audio": "82e6c39b093c702f9f050636461caf0d01301678a36bf15bc3481546cef3f726",
+      "id": "0a0f826bab7c",
+      "priority": 1,
+      "group": "7abe24e33a5d"
+    }
+  ]
+}

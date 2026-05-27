@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - el recibo: 收据
-    - cambiar: 换货
-    - el efectivo: 现金
-    - el descuento: 折扣
-    - el color: 颜色
-    - demasiado caro: 太贵
+    - la talla: 尺寸
     - Cuánto: 多少钱
     - probarse: 试穿
-    - la talla: 尺寸
+    - cambiar: 换货
+    - el efectivo: 现金
+    - el color: 颜色
+    - demasiado caro: 太贵
+    - el descuento: 折扣
+    - el recibo: 收据
     - la tarjeta de crédito: 信用卡
   Chinese:
-    - 尺寸: la talla
-    - 换货: cambiar
-    - 收据: el recibo
-    - 现金: el efectivo
-    - 折扣: el descuento
-    - 颜色: el color
-    - 太贵: demasiado caro
-    - 试穿: probarse
-    - 信用卡: la tarjeta de crédito
     - 多少钱: Cuánto
+    - 试穿: probarse
+    - 太贵: demasiado caro
+    - 折扣: el descuento
+    - 尺寸: la talla
+    - 收据: el recibo
+    - 颜色: el color
+    - 信用卡: la tarjeta de crédito
+    - 现金: el efectivo
+    - 换货: cambiar

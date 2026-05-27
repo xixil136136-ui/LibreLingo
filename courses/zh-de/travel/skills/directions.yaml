@@ -1,0 +1,68 @@
+Skill:
+  Name: Directions
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: links
+    Translation: 左边
+  - Word: rechts
+    Translation: 右边
+  - Word: geradeaus
+    Translation: 直走
+  - Word: hier
+    Translation: 这里
+  - Word: dort
+    Translation: 那里
+  - Word: nah
+    Translation: 附近
+  - Word: weit
+    Translation: 远
+  - Word: Karte
+    Translation: 地图
+  - Word: Straße
+    Translation: 街道
+  - Word: Weg
+    Translation: 路
+
+Phrases:
+  - Phrase: Hier links abbiegen.
+    Translation: 在这里左转。
+  - Phrase: Geradeaus gehen.
+    Translation: 一直往前走。
+  - Phrase: Wo ist der Bahnhof?
+    Translation: 车站在哪里？
+  - Phrase: Ist es weit von hier?
+    Translation: 离这里远吗？
+  - Phrase: Ich brauche eine Karte.
+    Translation: 我需要一张地图。
+
+Mini-dictionary:
+  German:
+    - Weg: 路
+    - Karte: 地图
+    - hier: 这里
+    - links: 左边
+    - rechts: 右边
+    - weit: 远
+    - dort: 那里
+    - nah: 附近
+    - geradeaus: 直走
+    - Straße: 街道
+  Chinese:
+    - 左边: links
+    - 街道: Straße
+    - 右边: rechts
+    - 路: Weg
+    - 附近: nah
+    - 这里: hier
+    - 那里: dort
+    - 直走: geradeaus
+    - 远: weit
+    - 地图: Karte

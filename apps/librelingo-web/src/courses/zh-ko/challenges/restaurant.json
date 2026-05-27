@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "음료를 원해요.",
+      "meaningInSourceLanguage": "我想要一杯饮料。",
+      "id": "604bbde4fdf0",
+      "priority": 0,
+      "group": "5817dad8a30b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "음료를 원해요.",
+      "meaning": "我想要一杯饮料。",
+      "audio": "d02c2513cfdbee7642df0f5ccf38d31bc9c729fc1f905c5ead6923845b8284a9",
+      "id": "b90f09ba04bb",
+      "priority": 1,
+      "group": "5817dad8a30b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "음식이 맛있어요.",
+      "meaningInSourceLanguage": "食物很好。",
+      "id": "1e801418aee0",
+      "priority": 0,
+      "group": "c1a4fd48c7ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "음식이 맛있어요.",
+      "meaning": "食物很好。",
+      "audio": "f3408586784b426aa58f30dc3a8f28e2453bf256acb2a2752f6f684e8b355630",
+      "id": "f139faa1d766",
+      "priority": 1,
+      "group": "c1a4fd48c7ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "물 한 잔 주세요.",
+      "meaningInSourceLanguage": "能给我一杯水吗？",
+      "id": "d93f99dc1311",
+      "priority": 0,
+      "group": "3887c9a2b66a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "물 한 잔 주세요.",
+      "meaning": "能给我一杯水吗？",
+      "audio": "876cf29488fcfc5de77ae67a53c8851afaa3ca693cb25998430d88913afa74e9",
+      "id": "7c8c5ae90c15",
+      "priority": 1,
+      "group": "3887c9a2b66a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "와인 한 병이 필요해요.",
+      "meaningInSourceLanguage": "我们需要一瓶酒。",
+      "id": "dd39203d3f7a",
+      "priority": 0,
+      "group": "d2b247044071"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "와인 한 병이 필요해요.",
+      "meaning": "我们需要一瓶酒。",
+      "audio": "2193ac4277972d2da0a93f090a4c1b7168e800a1d60360c0ab644f6b671e69f7",
+      "id": "f152fcfb9a36",
+      "priority": 1,
+      "group": "d2b247044071"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "디저트를 원해요.",
+      "meaningInSourceLanguage": "我想要甜点。",
+      "id": "7b085b39a9e1",
+      "priority": 0,
+      "group": "1c867313c347"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "디저트를 원해요.",
+      "meaning": "我想要甜点。",
+      "audio": "3385d0741abce6dcfc1bc70737d7bb9943649fe750e12bd7bc809e771f3ef483",
+      "id": "f6d438e5f4f2",
+      "priority": 1,
+      "group": "1c867313c347"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "소금 좀 주세요.",
+      "meaningInSourceLanguage": "请把盐递给我。",
+      "id": "081bdec0c748",
+      "priority": 0,
+      "group": "6aa2aafe7721"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "소금 좀 주세요.",
+      "meaning": "请把盐递给我。",
+      "audio": "4a264ab1a34a028ef1f86bde912cdc0f95fd8529646f4b7b197c2cbb8b2197f5",
+      "id": "678d7cefceee",
+      "priority": 1,
+      "group": "6aa2aafe7721"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "식당",
+      "meaningInSourceLanguage": "餐厅",
+      "id": "65e80669e501",
+      "priority": 0,
+      "group": "8852ad652280"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "식당"
+      ],
+      "phrase": [
+        {
+          "word": "餐厅",
+          "definition": "식당"
+        }
+      ],
+      "id": "301c49a99d0f",
+      "priority": 1,
+      "group": "8852ad652280"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "식당",
+      "meaning": "餐厅",
+      "audio": "d8e079a078ee9f438e6cf9a0963a996739c5638464a7b68e0d0e31dfcbfd1fc5",
+      "id": "936f11add892",
+      "priority": 1,
+      "group": "8852ad652280"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "음료",
+      "meaningInSourceLanguage": "饮料",
+      "id": "871c562ccd76",
+      "priority": 0,
+      "group": "857efee64d81"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "음료"
+      ],
+      "phrase": [
+        {
+          "word": "饮料",
+          "definition": "음료"
+        }
+      ],
+      "id": "446349f418cb",
+      "priority": 1,
+      "group": "857efee64d81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "음료",
+      "meaning": "饮料",
+      "audio": "37b2b28cb4f4cb410cf67c637b65193982e9df589b0c6596ae16783058c6e724",
+      "id": "8265d98928a4",
+      "priority": 1,
+      "group": "857efee64d81"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "음식",
+      "meaningInSourceLanguage": "食物",
+      "id": "57a844720d86",
+      "priority": 0,
+      "group": "aceb27fb11c7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "음식"
+      ],
+      "phrase": [
+        {
+          "word": "食物",
+          "definition": "음식"
+        }
+      ],
+      "id": "0c570eb00196",
+      "priority": 1,
+      "group": "aceb27fb11c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "음식",
+      "meaning": "食物",
+      "audio": "b998da9ce83b87c51a1430d9503b12d44e50182dc89173263f4a8c20b271f9fa",
+      "id": "2909752a5d5a",
+      "priority": 1,
+      "group": "aceb27fb11c7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "냅킨",
+      "meaningInSourceLanguage": "餐巾",
+      "id": "9fa099a68331",
+      "priority": 0,
+      "group": "19b110f206d7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "냅킨"
+      ],
+      "phrase": [
+        {
+          "word": "餐巾",
+          "definition": "냅킨"
+        }
+      ],
+      "id": "0bd3806a0e83",
+      "priority": 1,
+      "group": "19b110f206d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "냅킨",
+      "meaning": "餐巾",
+      "audio": "a7d3ae363f4ee9e2bfbe1cc0b6c67372217efe5817050e230bbb330487447089",
+      "id": "671e6ee43000",
+      "priority": 1,
+      "group": "19b110f206d7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "소금",
+      "meaningInSourceLanguage": "盐",
+      "id": "1c70db287192",
+      "priority": 0,
+      "group": "9f9fc448bd60"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "소금"
+      ],
+      "phrase": [
+        {
+          "word": "盐",
+          "definition": "소금"
+        }
+      ],
+      "id": "aa100477e0ce",
+      "priority": 1,
+      "group": "9f9fc448bd60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "소금",
+      "meaning": "盐",
+      "audio": "963e27869285c6f41514f5d1660d541c3a0cd13bb1e67bc617f9f0f5e4acb286",
+      "id": "3ac960549ec0",
+      "priority": 1,
+      "group": "9f9fc448bd60"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "후추",
+      "meaningInSourceLanguage": "胡椒",
+      "id": "650003d2196c",
+      "priority": 0,
+      "group": "2af49e83ec64"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "후추"
+      ],
+      "phrase": [
+        {
+          "word": "胡椒",
+          "definition": "후추"
+        }
+      ],
+      "id": "7eca0fc7b2cf",
+      "priority": 1,
+      "group": "2af49e83ec64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "후추",
+      "meaning": "胡椒",
+      "audio": "16d30466ccb546aa0750ab3d9ef15c61ca9ce84ba0e975e785d8ec95854f73fd",
+      "id": "0283568f375a",
+      "priority": 1,
+      "group": "2af49e83ec64"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "컵",
+      "meaningInSourceLanguage": "玻璃杯",
+      "id": "1ef1ce22139f",
+      "priority": 0,
+      "group": "ba683e22dbd5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "컵"
+      ],
+      "phrase": [
+        {
+          "word": "玻璃杯",
+          "definition": "컵"
+        }
+      ],
+      "id": "22e73e7fedb1",
+      "priority": 1,
+      "group": "ba683e22dbd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "컵",
+      "meaning": "玻璃杯",
+      "audio": "5e5ea16d1f6c039e98612a4ff5e084e31d672f4133ddb819e8473d049703d117",
+      "id": "3276a50ef165",
+      "priority": 1,
+      "group": "ba683e22dbd5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "병",
+      "meaningInSourceLanguage": "瓶子",
+      "id": "f46307fcab8f",
+      "priority": 0,
+      "group": "2bf3e8b090b5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "병"
+      ],
+      "phrase": [
+        {
+          "word": "瓶子",
+          "definition": "병"
+        }
+      ],
+      "id": "faea1a3ff904",
+      "priority": 1,
+      "group": "2bf3e8b090b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "병",
+      "meaning": "瓶子",
+      "audio": "f363ba4d7d4ce16ef3db480cee557bcdb3abf07dd4f5bd75a96d01e1b88930b2",
+      "id": "f673c5afb5cb",
+      "priority": 1,
+      "group": "2bf3e8b090b5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "디저트",
+      "meaningInSourceLanguage": "甜点",
+      "id": "436c18270357",
+      "priority": 0,
+      "group": "4536881ffcfe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "디저트"
+      ],
+      "phrase": [
+        {
+          "word": "甜点",
+          "definition": "디저트"
+        }
+      ],
+      "id": "e2067abc80b4",
+      "priority": 1,
+      "group": "4536881ffcfe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "디저트",
+      "meaning": "甜点",
+      "audio": "f825939004294535587969f05b6aee8f7726aaf24bc977856fc2cce26ab3e88b",
+      "id": "ad679f7b59c0",
+      "priority": 1,
+      "group": "4536881ffcfe"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "메인 요리",
+      "meaningInSourceLanguage": "主菜",
+      "id": "f077d9a2c55a",
+      "priority": 0,
+      "group": "93d2437be1f8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "메인 요리"
+      ],
+      "phrase": [
+        {
+          "word": "主菜",
+          "definition": "메인 요리"
+        }
+      ],
+      "id": "4eca990bddb4",
+      "priority": 1,
+      "group": "93d2437be1f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "메인 요리",
+      "meaning": "主菜",
+      "audio": "4afd5379c58df4aca110ece0e0e5e445dce26c2cea00fec4b7c6c5c85a064ec8",
+      "id": "be56a2dd81b8",
+      "priority": 1,
+      "group": "93d2437be1f8"
+    }
+  ]
+}

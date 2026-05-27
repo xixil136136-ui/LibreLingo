@@ -1,0 +1,346 @@
+{
+  "id": "f285d16f5214",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "You have the right to remain silent.",
+      "meaningInSourceLanguage": "你有权保持沉默。",
+      "id": "b5e40274de2b",
+      "priority": 0,
+      "group": "312131cb3829"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You have the right to remain silent.",
+      "meaning": "你有权保持沉默。",
+      "audio": "146ae8efac04711417349be2352cc1c6af7bd1d37919af9c6822e59270a8ccf4",
+      "id": "be07e54c9262",
+      "priority": 1,
+      "group": "312131cb3829"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Anything you say can be used against you.",
+      "meaningInSourceLanguage": "你所说的一切都可能被用来指控你。",
+      "id": "fb9e97149574",
+      "priority": 0,
+      "group": "7a964db24bd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Anything you say can be used against you.",
+      "meaning": "你所说的一切都可能被用来指控你。",
+      "audio": "c13468bfcc978bbf4cdf8be2ec08b2633e0863d195d378ee2a45cd787778e2a7",
+      "id": "bb8951511270",
+      "priority": 1,
+      "group": "7a964db24bd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "You have the right to an attorney.",
+      "meaningInSourceLanguage": "你有权请律师。",
+      "id": "bf9c15905d38",
+      "priority": 0,
+      "group": "ef9855ff6541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You have the right to an attorney.",
+      "meaning": "你有权请律师。",
+      "audio": "6da2d46545e401c9f5d609402471233e2af8e594fb05aa70480508bd4e7ea941",
+      "id": "0a7e0e4df0a3",
+      "priority": 1,
+      "group": "ef9855ff6541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I plead not guilty.",
+      "meaningInSourceLanguage": "我 pleading 无罪。",
+      "id": "a80ed2d30ae1",
+      "priority": 0,
+      "group": "0a92a7b0d339"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I plead not guilty.",
+      "meaning": "我 pleading 无罪。",
+      "audio": "b19da3a1fd238475ded7bfa940357375c757c3f21d07e9860b09a81810b76724",
+      "id": "46acfe92107b",
+      "priority": 1,
+      "group": "0a92a7b0d339"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a lawyer.",
+      "meaningInSourceLanguage": "我需要律师。",
+      "id": "bee177b1f53a",
+      "priority": 0,
+      "group": "d2787d3260ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a lawyer.",
+      "meaning": "我需要律师。",
+      "audio": "70f77e6209b3ac52b5d456e59fc41584880cb45312bb6671078dc7b7ceaa31a4",
+      "id": "551a93134983",
+      "priority": 1,
+      "group": "d2787d3260ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I know my rights.",
+      "meaningInSourceLanguage": "我知道我的权利。",
+      "id": "34a1051f20b5",
+      "priority": 0,
+      "group": "3349bdd88ee0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I know my rights.",
+      "meaning": "我知道我的权利。",
+      "audio": "a14bbac6684c9bd4f038b46c0fc9ea610aac0d33b0ca92b2f6615ffcaa1087c8",
+      "id": "d6ea22be023b",
+      "priority": 1,
+      "group": "3349bdd88ee0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "He was found guilty.",
+      "meaningInSourceLanguage": "他被判有罪。",
+      "id": "6e873b6e1369",
+      "priority": 0,
+      "group": "ec1e1f2ab51e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "He was found guilty.",
+      "meaning": "他被判有罪。",
+      "audio": "71be4ab5fd8fc3982caf789d8b188d9d1e1471136837786ed92ec049ed24ca1d",
+      "id": "1905d4ee75f1",
+      "priority": 1,
+      "group": "ec1e1f2ab51e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The court is now in session.",
+      "meaningInSourceLanguage": "法庭现在开庭。",
+      "id": "ec8e7ebe4621",
+      "priority": 0,
+      "group": "e780dd444f75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The court is now in session.",
+      "meaning": "法庭现在开庭。",
+      "audio": "3980bead5c3671adcd7ec0a93bd9f82f0bb496add09bbb110937b6a0e5a5ca20",
+      "id": "0a3f01bca629",
+      "priority": 1,
+      "group": "e780dd444f75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I object, Your Honor.",
+      "meaningInSourceLanguage": "我反对，法官大人。",
+      "id": "d83734740deb",
+      "priority": 0,
+      "group": "d22399f883cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I object, Your Honor.",
+      "meaning": "我反对，法官大人。",
+      "audio": "8b2ccf57fe080203cfb486da65071465f4747ac51bf1d4b363000ad8fa9cd10e",
+      "id": "aa1a5a107236",
+      "priority": 1,
+      "group": "d22399f883cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Case dismissed.",
+      "meaningInSourceLanguage": "案件被驳回。",
+      "id": "1d981e5e480d",
+      "priority": 0,
+      "group": "5b4b40ee83b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Case dismissed.",
+      "meaning": "案件被驳回。",
+      "audio": "29adef6201157ee45f43811447d8322fceea6f6311fab26214450e9a4100f214",
+      "id": "d26601d93cf0",
+      "priority": 1,
+      "group": "5b4b40ee83b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The defendant is released on bail.",
+      "meaningInSourceLanguage": "被告被保释释放。",
+      "id": "d706f787fe54",
+      "priority": 0,
+      "group": "6956bc1389b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The defendant is released on bail.",
+      "meaning": "被告被保释释放。",
+      "audio": "74f9b65b85e990c813f6970d7e32fa92adbb045289ccd4c1a8e040a8b434ab00",
+      "id": "7c7d5285036a",
+      "priority": 1,
+      "group": "6956bc1389b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please read the contract carefully.",
+      "meaningInSourceLanguage": "请仔细阅读合同。",
+      "id": "b6cfc20134ef",
+      "priority": 0,
+      "group": "9424249cf7d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please read the contract carefully.",
+      "meaning": "请仔细阅读合同。",
+      "audio": "e5e551cf1d3a64efe65180a4921cf24e939dc27824196abda7e490fc0b8e9313",
+      "id": "39164f4b71c2",
+      "priority": 1,
+      "group": "9424249cf7d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sign here.",
+      "meaningInSourceLanguage": "在这里签名。",
+      "id": "f63cd60c4359",
+      "priority": 0,
+      "group": "ae27a5492eb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sign here.",
+      "meaning": "在这里签名。",
+      "audio": "95b2d5a13cc844c20a932cd9d38a4a63f111dd444b386ccbb2f44d2d69f093ce",
+      "id": "549e2642bfed",
+      "priority": 1,
+      "group": "ae27a5492eb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "This contract is legally binding.",
+      "meaningInSourceLanguage": "本合同具有法律约束力。",
+      "id": "1a3fa811564f",
+      "priority": 0,
+      "group": "8b572e8a7e4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "This contract is legally binding.",
+      "meaning": "本合同具有法律约束力。",
+      "audio": "5b9ad7ee93c05aa2e510531e4d4056ceee575258ce0ed885b93d31ff1f03ecf8",
+      "id": "ef17bfb1c909",
+      "priority": 1,
+      "group": "8b572e8a7e4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The court has jurisdiction.",
+      "meaningInSourceLanguage": "法院有管辖权。",
+      "id": "747330972b7a",
+      "priority": 0,
+      "group": "1befc067c7ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The court has jurisdiction.",
+      "meaning": "法院有管辖权。",
+      "audio": "c5f532a38b7f7adc82b80e669387557b673cf338b39d67aabf6e4158b717e96c",
+      "id": "1ed10f419f16",
+      "priority": 1,
+      "group": "1befc067c7ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "He was sentenced to five years.",
+      "meaningInSourceLanguage": "他被判五年。",
+      "id": "d7f7df600c46",
+      "priority": 0,
+      "group": "116b933f7655"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "He was sentenced to five years.",
+      "meaning": "他被判五年。",
+      "audio": "fe0f4d88b9784c3bf8321850b3908e8b309e492984c117172a51d42a34d2235a",
+      "id": "25b95ab64154",
+      "priority": 1,
+      "group": "116b933f7655"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "She filed a lawsuit.",
+      "meaningInSourceLanguage": "她提起了诉讼。",
+      "id": "d8f8b5f3696c",
+      "priority": 0,
+      "group": "ebdced0a9e2c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "She filed a lawsuit.",
+      "meaning": "她提起了诉讼。",
+      "audio": "0e92a73767ec3529b4d59a08cb40dae5251d79bb1a05500b2a8129082b089022",
+      "id": "a076c80eead2",
+      "priority": 1,
+      "group": "ebdced0a9e2c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We need more evidence.",
+      "meaningInSourceLanguage": "我们需要更多证据。",
+      "id": "a6588b77d63e",
+      "priority": 0,
+      "group": "026a8115fe9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We need more evidence.",
+      "meaning": "我们需要更多证据。",
+      "audio": "9e5d27ccae3c912a4004d640a91e0bcd27eb0fc2a773f0d09d981020bd50668e",
+      "id": "e6b85d9b1b79",
+      "priority": 1,
+      "group": "026a8115fe9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The witness took the stand.",
+      "meaningInSourceLanguage": "证人出庭作证。",
+      "id": "06b8e25934e4",
+      "priority": 0,
+      "group": "dacdc08b4d12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The witness took the stand.",
+      "meaning": "证人出庭作证。",
+      "audio": "c380b26e260f71ce1b974ff614c3b1f47a594ee613f93af0ea3b9b8c716bb491",
+      "id": "6997c673f086",
+      "priority": 1,
+      "group": "dacdc08b4d12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The jury reached a verdict.",
+      "meaningInSourceLanguage": "陪审团达成了裁决。",
+      "id": "4929873594a6",
+      "priority": 0,
+      "group": "c6d0070e0c5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The jury reached a verdict.",
+      "meaning": "陪审团达成了裁决。",
+      "audio": "e3479cf92608cde5f112a692843b4aebcf86864d401f203654731b56bf161854",
+      "id": "5c34d857890f",
+      "priority": 1,
+      "group": "c6d0070e0c5b"
+    }
+  ]
+}

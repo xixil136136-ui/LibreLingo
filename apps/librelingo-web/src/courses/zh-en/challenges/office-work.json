@@ -1,0 +1,822 @@
+{
+  "id": "a80be6630bf2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "contract",
+      "meaningInSourceLanguage": "合同",
+      "id": "6cbfeed0584e",
+      "priority": 0,
+      "group": "aebca9931b51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contract",
+      "meaning": "合同",
+      "audio": "bc437fdb08f048ff87d51f7495efa041",
+      "id": "414ebfb6bd21",
+      "priority": 1,
+      "group": "aebca9931b51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "invoice",
+      "meaningInSourceLanguage": "发票",
+      "id": "f461f82f2aaa",
+      "priority": 0,
+      "group": "1ad8d8fb2601"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "invoice",
+      "meaning": "发票",
+      "audio": "31866f324caa464aad90ff7b26fba239",
+      "id": "c8870bcad622",
+      "priority": 1,
+      "group": "1ad8d8fb2601"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "receipt",
+      "meaningInSourceLanguage": "收据",
+      "id": "a6493904fa78",
+      "priority": 0,
+      "group": "d84c85ca9ae6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "receipt",
+      "meaning": "收据",
+      "audio": "2f953f0c59b94e209bb1d21b8a5be587",
+      "id": "cc4030fa6d9a",
+      "priority": 1,
+      "group": "d84c85ca9ae6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salary",
+      "meaningInSourceLanguage": "工资",
+      "id": "056d2c5c8c40",
+      "priority": 0,
+      "group": "9497f12dfbd6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salary",
+      "meaning": "工资",
+      "audio": "1746454c1c7a4791ace897a4561a4b28",
+      "id": "d4a228ce073a",
+      "priority": 1,
+      "group": "9497f12dfbd6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wage",
+      "meaningInSourceLanguage": "时薪",
+      "id": "3116483e0f5c",
+      "priority": 0,
+      "group": "a9c1e853a9c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wage",
+      "meaning": "时薪",
+      "audio": "b6eaf92f89be44159432e07d86c4e086",
+      "id": "9943adb53665",
+      "priority": 1,
+      "group": "a9c1e853a9c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bonus",
+      "meaningInSourceLanguage": "奖金",
+      "id": "7a6a1df535af",
+      "priority": 0,
+      "group": "70f2c49d1b9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bonus",
+      "meaning": "奖金",
+      "audio": "b56938d10ed14b0fb636dc197a51e5ec",
+      "id": "c59030dd436c",
+      "priority": 1,
+      "group": "70f2c49d1b9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "commission",
+      "meaningInSourceLanguage": "佣金",
+      "id": "51842e5e01cc",
+      "priority": 0,
+      "group": "4f6e63eff90f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "commission",
+      "meaning": "佣金",
+      "audio": "70e84beffbe0433495f2be28250a0771",
+      "id": "4451d25ad0f1",
+      "priority": 1,
+      "group": "4f6e63eff90f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "benefit",
+      "meaningInSourceLanguage": "福利",
+      "id": "bf3b1807d81a",
+      "priority": 0,
+      "group": "f66c57361ef5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "benefit",
+      "meaning": "福利",
+      "audio": "a99cb8747bcd41cf8e8816551114c17b",
+      "id": "36ab26559ef4",
+      "priority": 1,
+      "group": "f66c57361ef5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "insurance",
+      "meaningInSourceLanguage": "保险",
+      "id": "a39e50662d0b",
+      "priority": 0,
+      "group": "d500feb919d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "insurance",
+      "meaning": "保险",
+      "audio": "a12e674b23f5427fbbf3b9d52eefeeca",
+      "id": "cd99b4518a4c",
+      "priority": 1,
+      "group": "d500feb919d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pension",
+      "meaningInSourceLanguage": "养老金",
+      "id": "24b57c7b4e07",
+      "priority": 0,
+      "group": "204cdb49c1d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pension",
+      "meaning": "养老金",
+      "audio": "03ec50b2229243fda208da54f4ed3ca0",
+      "id": "4566ebd346e1",
+      "priority": 1,
+      "group": "204cdb49c1d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tax",
+      "meaningInSourceLanguage": "税",
+      "id": "2e2faff8b719",
+      "priority": 0,
+      "group": "2c352dc2ba19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tax",
+      "meaning": "税",
+      "audio": "714b0a9b90cc4dd0ab362857f40c78b9",
+      "id": "ce99c19d3f00",
+      "priority": 1,
+      "group": "2c352dc2ba19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deduction",
+      "meaningInSourceLanguage": "扣除",
+      "id": "ae9fb29b5a3a",
+      "priority": 0,
+      "group": "2df1b87e46ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deduction",
+      "meaning": "扣除",
+      "audio": "2fe9e61569eb47d8ad6a6e04f8598c98",
+      "id": "fe9b7de9379f",
+      "priority": 1,
+      "group": "2df1b87e46ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "promotion",
+      "meaningInSourceLanguage": "升职",
+      "id": "f539d870405a",
+      "priority": 0,
+      "group": "bbf8fa3d199d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "promotion",
+      "meaning": "升职",
+      "audio": "7d2e7460f1fe4e94ada1129d5c5cdc94",
+      "id": "f6068a3658aa",
+      "priority": 1,
+      "group": "bbf8fa3d199d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "transfer",
+      "meaningInSourceLanguage": "调职",
+      "id": "75a6754b893e",
+      "priority": 0,
+      "group": "03d3107ec4fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "transfer",
+      "meaning": "调职",
+      "audio": "bf254c8f1166416dbf8c111c49a80868",
+      "id": "ececc1ad1313",
+      "priority": 1,
+      "group": "03d3107ec4fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "resignation",
+      "meaningInSourceLanguage": "辞职",
+      "id": "166e7b99e07a",
+      "priority": 0,
+      "group": "0b7b165f3d12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "resignation",
+      "meaning": "辞职",
+      "audio": "48de106869174110a46c4f9b120a4898",
+      "id": "a992bd1de309",
+      "priority": 1,
+      "group": "0b7b165f3d12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "layoff",
+      "meaningInSourceLanguage": "裁员",
+      "id": "112bea6cbc92",
+      "priority": 0,
+      "group": "6344046ffc8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "layoff",
+      "meaning": "裁员",
+      "audio": "8bf37b2d9ee74e6e9fe52db9c21aca1b",
+      "id": "f3c737f1d81f",
+      "priority": 1,
+      "group": "6344046ffc8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "retirement",
+      "meaningInSourceLanguage": "退休",
+      "id": "b6796b0f7058",
+      "priority": 0,
+      "group": "17cb555d52e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retirement",
+      "meaning": "退休",
+      "audio": "41243acf7cc643a79144b971d1c003db",
+      "id": "f37e25f8c93b",
+      "priority": 1,
+      "group": "17cb555d52e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interview",
+      "meaningInSourceLanguage": "面试",
+      "id": "915a1ee5d1a4",
+      "priority": 0,
+      "group": "b5c73160491b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interview",
+      "meaning": "面试",
+      "audio": "f39f5b459ccb40c5a5a8a8620d8b7d64",
+      "id": "c35d7b888276",
+      "priority": 1,
+      "group": "b5c73160491b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "resume",
+      "meaningInSourceLanguage": "简历",
+      "id": "236e43f92251",
+      "priority": 0,
+      "group": "d75c3bd11518"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "resume",
+      "meaning": "简历",
+      "audio": "64171f8eb7b84d80ba65aa807cd0e3af",
+      "id": "3eec695c779a",
+      "priority": 1,
+      "group": "d75c3bd11518"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cover letter",
+      "meaningInSourceLanguage": "求职信",
+      "id": "40873da6ee7d",
+      "priority": 0,
+      "group": "cabfe8edc40e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cover letter",
+      "meaning": "求职信",
+      "audio": "4d3136e86459484187d8bf39f41f4538",
+      "id": "adf909089d9f",
+      "priority": 1,
+      "group": "cabfe8edc40e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recruitment",
+      "meaningInSourceLanguage": "招聘",
+      "id": "e8c98ac563bb",
+      "priority": 0,
+      "group": "bd97749e25a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recruitment",
+      "meaning": "招聘",
+      "audio": "ff33611853c6445fb40daf6fc8740a1e",
+      "id": "8e2de1f1e65c",
+      "priority": 1,
+      "group": "bd97749e25a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hire",
+      "meaningInSourceLanguage": "雇佣",
+      "id": "8b1d88f64a2b",
+      "priority": 0,
+      "group": "1b80daf7ce1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hire",
+      "meaning": "雇佣",
+      "audio": "0db8c39ff1204db28aab18e59b381272",
+      "id": "1da862e04cb2",
+      "priority": 1,
+      "group": "1b80daf7ce1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fire",
+      "meaningInSourceLanguage": "解雇",
+      "id": "6c3fc84fe59f",
+      "priority": 0,
+      "group": "f37da5903342"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fire",
+      "meaning": "解雇",
+      "audio": "e0d43f4005a741e1900abe0a49ffd60e",
+      "id": "6f7b6f3cd79b",
+      "priority": 1,
+      "group": "f37da5903342"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "training",
+      "meaningInSourceLanguage": "培训",
+      "id": "00a069694794",
+      "priority": 0,
+      "group": "3984085ad0b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "training",
+      "meaning": "培训",
+      "audio": "e8ff5e87c5974386b232ed026b8ac827",
+      "id": "cc583b150799",
+      "priority": 1,
+      "group": "3984085ad0b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orientation",
+      "meaningInSourceLanguage": "入职培训",
+      "id": "4c65319058d0",
+      "priority": 0,
+      "group": "277d9a3a51f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orientation",
+      "meaning": "入职培训",
+      "audio": "b51e0c6d09084b109513fbefc1b6409f",
+      "id": "68dae826c129",
+      "priority": 1,
+      "group": "277d9a3a51f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "performance",
+      "meaningInSourceLanguage": "绩效",
+      "id": "0189ba69ca67",
+      "priority": 0,
+      "group": "26b0aef44729"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "performance",
+      "meaning": "绩效",
+      "audio": "99ba398f585b48a6b285e7ca32ad33e4",
+      "id": "5854a147460f",
+      "priority": 1,
+      "group": "26b0aef44729"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "evaluation",
+      "meaningInSourceLanguage": "评估",
+      "id": "705118421373",
+      "priority": 0,
+      "group": "e33594a52163"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "evaluation",
+      "meaning": "评估",
+      "audio": "27bc69a7a5d146fcb0e3cd35ae21e4c8",
+      "id": "1ab31d823ce7",
+      "priority": 1,
+      "group": "e33594a52163"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "networking",
+      "meaningInSourceLanguage": "社交",
+      "id": "e62aa0271a1b",
+      "priority": 0,
+      "group": "90cfa604e774"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "networking",
+      "meaning": "社交",
+      "audio": "8123c1a35f33424db500973c360777f5",
+      "id": "fd792f7c79c1",
+      "priority": 1,
+      "group": "90cfa604e774"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "negotiation",
+      "meaningInSourceLanguage": "谈判",
+      "id": "db6df9d6a9d1",
+      "priority": 0,
+      "group": "b5a5990c3cb0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "negotiation",
+      "meaning": "谈判",
+      "audio": "29b1024979ff44019f5fd7d86298d9eb",
+      "id": "c2f9739abdc4",
+      "priority": 1,
+      "group": "b5a5990c3cb0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "presentation",
+      "meaningInSourceLanguage": "演示",
+      "id": "3419a916db4d",
+      "priority": 0,
+      "group": "8589c770f165"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "presentation",
+      "meaning": "演示",
+      "audio": "cf41cd0921224f8f94bfa7726aa67be4",
+      "id": "82b4d21fe7f9",
+      "priority": 1,
+      "group": "8589c770f165"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speech",
+      "meaningInSourceLanguage": "演讲",
+      "id": "ae50c701165f",
+      "priority": 0,
+      "group": "f985222d8745"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speech",
+      "meaning": "演讲",
+      "audio": "1a8e63cc73b24a2795b5dd3ff813763a",
+      "id": "cf84dc74e7cd",
+      "priority": 1,
+      "group": "f985222d8745"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "teamwork",
+      "meaningInSourceLanguage": "团队合作",
+      "id": "cb958781923c",
+      "priority": 0,
+      "group": "263580113f3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teamwork",
+      "meaning": "团队合作",
+      "audio": "f353a19a7a1049f68a0d1a81e2acafed",
+      "id": "43d150dda34d",
+      "priority": 1,
+      "group": "263580113f3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leadership",
+      "meaningInSourceLanguage": "领导力",
+      "id": "9f1d2ecdb457",
+      "priority": 0,
+      "group": "4d683a53f744"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leadership",
+      "meaning": "领导力",
+      "audio": "300a2e80c2c04b5d95a8e3cc010f2946",
+      "id": "d5b0d08685ce",
+      "priority": 1,
+      "group": "4d683a53f744"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "communication",
+      "meaningInSourceLanguage": "沟通",
+      "id": "aa88209f4c50",
+      "priority": 0,
+      "group": "147f9ade2b9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "communication",
+      "meaning": "沟通",
+      "audio": "4426f56ab1e14bb1a9eb398bb13556e6",
+      "id": "bbea009f1a02",
+      "priority": 1,
+      "group": "147f9ade2b9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cooperation",
+      "meaningInSourceLanguage": "合作",
+      "id": "0cc32dfbdba0",
+      "priority": 0,
+      "group": "0b706e356e87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cooperation",
+      "meaning": "合作",
+      "audio": "8e80005933fd4fcbb5ae84efd036ab2a",
+      "id": "eecfaae14767",
+      "priority": 1,
+      "group": "0b706e356e87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strategy",
+      "meaningInSourceLanguage": "战略",
+      "id": "effec46b63fa",
+      "priority": 0,
+      "group": "43ef417a33ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strategy",
+      "meaning": "战略",
+      "audio": "5c4dc71708414f7d82422b9100047d10",
+      "id": "de750f490750",
+      "priority": 1,
+      "group": "43ef417a33ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plan",
+      "meaningInSourceLanguage": "计划",
+      "id": "265a0fc77119",
+      "priority": 0,
+      "group": "55930dce9c1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plan",
+      "meaning": "计划",
+      "audio": "3391fb2f6e8b4ba0810969cdcee02e5a",
+      "id": "6a3e884c653e",
+      "priority": 1,
+      "group": "55930dce9c1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "goal",
+      "meaningInSourceLanguage": "目标",
+      "id": "5f674a810023",
+      "priority": 0,
+      "group": "13e66b282d48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "goal",
+      "meaning": "目标",
+      "audio": "57410b4ad1a74f48b8c0ce18130089ff",
+      "id": "539fc575d801",
+      "priority": 1,
+      "group": "13e66b282d48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mission",
+      "meaningInSourceLanguage": "使命",
+      "id": "0e656495b849",
+      "priority": 0,
+      "group": "45c03a65a2ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mission",
+      "meaning": "使命",
+      "audio": "128821fc4e8e416baebdcece79f30c61",
+      "id": "edcc00854a04",
+      "priority": 1,
+      "group": "45c03a65a2ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vision",
+      "meaningInSourceLanguage": "愿景",
+      "id": "8c09fc146f9b",
+      "priority": 0,
+      "group": "88af77045532"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vision",
+      "meaning": "愿景",
+      "audio": "d0b84ee17ef243bfbf86434616df0aea",
+      "id": "d833b072712d",
+      "priority": 1,
+      "group": "88af77045532"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "value",
+      "meaningInSourceLanguage": "价值观",
+      "id": "5989e8237d72",
+      "priority": 0,
+      "group": "1cc249492a65"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "value",
+      "meaning": "价值观",
+      "audio": "e727f8f92f854a5bb39762cee6bf088a",
+      "id": "26fdd526e6a5",
+      "priority": 1,
+      "group": "1cc249492a65"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customer",
+      "meaningInSourceLanguage": "客户",
+      "id": "1220787ddd8c",
+      "priority": 0,
+      "group": "91ae58014ac1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customer",
+      "meaning": "客户",
+      "audio": "592137d9599d4de9ac9e855104890ffe",
+      "id": "82eecb30c7c6",
+      "priority": 1,
+      "group": "91ae58014ac1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "client",
+      "meaningInSourceLanguage": "客户",
+      "id": "9238ff67494a",
+      "priority": 0,
+      "group": "624055823e57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "client",
+      "meaning": "客户",
+      "audio": "b2c8072d4c9349b3ba07e970c063c4fd",
+      "id": "e72a74596bd0",
+      "priority": 1,
+      "group": "624055823e57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "supplier",
+      "meaningInSourceLanguage": "供应商",
+      "id": "ac50888a6fe5",
+      "priority": 0,
+      "group": "887ee8013979"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "supplier",
+      "meaning": "供应商",
+      "audio": "13c5729cc15047edb9c1ab9c5e0f7db1",
+      "id": "e3b48c3b2574",
+      "priority": 1,
+      "group": "887ee8013979"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "partner",
+      "meaningInSourceLanguage": "合作伙伴",
+      "id": "fdea62b592db",
+      "priority": 0,
+      "group": "edd2400e4393"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "partner",
+      "meaning": "合作伙伴",
+      "audio": "3ec03b5d227c47059fbdddb066bc3cb8",
+      "id": "99cc6ec9acc2",
+      "priority": 1,
+      "group": "edd2400e4393"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stakeholder",
+      "meaningInSourceLanguage": "利益相关者",
+      "id": "ae398eaaf5d7",
+      "priority": 0,
+      "group": "46e96a479772"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stakeholder",
+      "meaning": "利益相关者",
+      "audio": "092d2412151c449a8a4e794fe10c064d",
+      "id": "da291c70d269",
+      "priority": 1,
+      "group": "46e96a479772"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "market",
+      "meaningInSourceLanguage": "市场",
+      "id": "b8a1cb05a584",
+      "priority": 0,
+      "group": "13f2fb3d31fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "market",
+      "meaning": "市场",
+      "audio": "cecc75c88d1144e4b186bdbd9584ce21",
+      "id": "da3bd9f5fe11",
+      "priority": 1,
+      "group": "13f2fb3d31fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sales",
+      "meaningInSourceLanguage": "销售",
+      "id": "1d0c79673d2b",
+      "priority": 0,
+      "group": "27971b8cff1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sales",
+      "meaning": "销售",
+      "audio": "612871407d1a4a298105dfbad9f1a31f",
+      "id": "c3f6b7a27726",
+      "priority": 1,
+      "group": "27971b8cff1a"
+    }
+  ]
+}

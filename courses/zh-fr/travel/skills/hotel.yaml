@@ -1,0 +1,72 @@
+Skill:
+  Name: Hotel
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: chambre
+    Translation: 房间
+  - Word: lit
+    Translation: 床
+  - Word: douche
+    Translation: 淋浴
+  - Word: salle de bain
+    Translation: 浴室
+  - Word: serviette
+    Translation: 毛巾
+  - Word: oreiller
+    Translation: 枕头
+  - Word: couverture
+    Translation: 毯子
+  - Word: étage
+    Translation: 楼层
+  - Word: réception
+    Translation: 前台
+  - Word: invité
+    Translation: 客人
+
+Phrases:
+  - Phrase: J'ai besoin d'une chambre.
+    Translation: 我需要一个房间。
+  - Phrase: Combien par nuit ?
+    Translation: 每晚多少钱？
+  - Phrase: Où est la salle de bain ?
+    Translation: 浴室在哪里？
+  - Phrase: Puis-je avoir une serviette ?
+    Translation: 能给我一条毛巾吗？
+  - Phrase: Le lit est confortable.
+    Translation: 床很舒服。
+  - Phrase: Je suis un invité ici.
+    Translation: 我是这里的客人。
+  - Phrase: La réception est à cet étage ?
+    Translation: 前台在这一层吗？
+
+Mini-dictionary:
+  French:
+    - salle de bain: 浴室
+    - douche: 淋浴
+    - chambre: 房间
+    - couverture: 毯子
+    - lit: 床
+    - serviette: 毛巾
+    - réception: 前台
+    - oreiller: 枕头
+    - étage: 楼层
+    - invité: 客人
+  Chinese:
+    - 毯子: couverture
+    - 房间: chambre
+    - 毛巾: serviette
+    - 淋浴: douche
+    - 前台: réception
+    - 浴室: salle de bain
+    - 客人: invité
+    - 枕头: oreiller
+    - 床: lit
+    - 楼层: étage

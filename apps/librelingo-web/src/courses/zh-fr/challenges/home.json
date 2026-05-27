@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "C'est ma maison.",
+      "meaningInSourceLanguage": "这是我的房子。",
+      "id": "756e5fe32c8b",
+      "priority": 0,
+      "group": "70a6f1ab2a21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "C'est ma maison.",
+      "meaning": "这是我的房子。",
+      "audio": "d93b02810ce5bd30a2cb3743e791530e0c0958e4d989041a509ba375420894f7",
+      "id": "8047392b0023",
+      "priority": 1,
+      "group": "70a6f1ab2a21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ouvrez la porte.",
+      "meaningInSourceLanguage": "开门。",
+      "id": "0b6853ae7d4e",
+      "priority": 0,
+      "group": "86edcbf010de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ouvrez la porte.",
+      "meaning": "开门。",
+      "audio": "0f929c2b668db2a3c88d5e6a60356140544bafe423dc5808e914bd41cb221cba",
+      "id": "6f7cd54ff3ee",
+      "priority": 1,
+      "group": "86edcbf010de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "La cuisine est grande.",
+      "meaningInSourceLanguage": "厨房很大。",
+      "id": "ff74dbd973fd",
+      "priority": 0,
+      "group": "0a32d4bc01f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "La cuisine est grande.",
+      "meaning": "厨房很大。",
+      "audio": "0934396dda5659e3c52428d0f7089d68192fc1716e24da348099bb1e02e89c66",
+      "id": "295504d3936f",
+      "priority": 1,
+      "group": "0a32d4bc01f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "La chambre est propre.",
+      "meaningInSourceLanguage": "卧室很干净。",
+      "id": "e27fdba32c7d",
+      "priority": 0,
+      "group": "74d29992a50c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "La chambre est propre.",
+      "meaning": "卧室很干净。",
+      "audio": "16e208b6bb3224dac82463ae97e0aefea1fbd63d67c68082fcb1bef78792037b",
+      "id": "27c44d82077f",
+      "priority": 1,
+      "group": "74d29992a50c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il y a un jardin.",
+      "meaningInSourceLanguage": "有一个花园。",
+      "id": "b60f42b64883",
+      "priority": 0,
+      "group": "4c38081f6d98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il y a un jardin.",
+      "meaning": "有一个花园。",
+      "audio": "46e4a88c143be43ab6be834725a47cb366e5d957124505e94e549a142336f809",
+      "id": "2e1a3a2b43b2",
+      "priority": 1,
+      "group": "4c38081f6d98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Fermez la fenêtre.",
+      "meaningInSourceLanguage": "关窗。",
+      "id": "d87a5d7a1b2d",
+      "priority": 0,
+      "group": "51afc94d8b79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Fermez la fenêtre.",
+      "meaning": "关窗。",
+      "audio": "a84ad8812efaca729c315018fa9374f0303473929e9c6a930829cd9e0e59cc7a",
+      "id": "dce28ad2f329",
+      "priority": 1,
+      "group": "51afc94d8b79"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "maison",
+      "meaningInSourceLanguage": "房子",
+      "id": "b29fc96ff01d",
+      "priority": 0,
+      "group": "10239ae07e69"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "maison"
+      ],
+      "phrase": [
+        {
+          "word": "房子",
+          "definition": "maison"
+        }
+      ],
+      "id": "a0dc41be9431",
+      "priority": 1,
+      "group": "10239ae07e69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maison",
+      "meaning": "房子",
+      "audio": "35cf2676bb4e68fde6a04bbd623fcfb79a102850141b661820bf06bfe9bc05f6",
+      "id": "3afa1ff842a9",
+      "priority": 1,
+      "group": "10239ae07e69"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "porte",
+      "meaningInSourceLanguage": "门",
+      "id": "cf8f81fd20a8",
+      "priority": 0,
+      "group": "add189771bff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "porte"
+      ],
+      "phrase": [
+        {
+          "word": "门",
+          "definition": "porte"
+        }
+      ],
+      "id": "0030e58ff8aa",
+      "priority": 1,
+      "group": "add189771bff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "porte",
+      "meaning": "门",
+      "audio": "dd8054aee8cc1b51ca73b7aa2387e5cd79e10a788c8acbe7785914d92569cda5",
+      "id": "c3460a55e5f5",
+      "priority": 1,
+      "group": "add189771bff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "fenêtre",
+      "meaningInSourceLanguage": "窗户",
+      "id": "4d9dc02df9d9",
+      "priority": 0,
+      "group": "d3635a4e5a38"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "fenêtre"
+      ],
+      "phrase": [
+        {
+          "word": "窗户",
+          "definition": "fenêtre"
+        }
+      ],
+      "id": "b91d511ab7c4",
+      "priority": 1,
+      "group": "d3635a4e5a38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fenêtre",
+      "meaning": "窗户",
+      "audio": "a3db70d17a019553c7fb38f989ed0f812238ae3bb5322e0e15f80b9b2f933bb5",
+      "id": "c7b240c3312a",
+      "priority": 1,
+      "group": "d3635a4e5a38"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cuisine",
+      "meaningInSourceLanguage": "厨房",
+      "id": "663c97b820c8",
+      "priority": 0,
+      "group": "31e0f80d0872"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cuisine"
+      ],
+      "phrase": [
+        {
+          "word": "厨房",
+          "definition": "cuisine"
+        }
+      ],
+      "id": "e7ba5a2035e3",
+      "priority": 1,
+      "group": "31e0f80d0872"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cuisine",
+      "meaning": "厨房",
+      "audio": "822adfdfc2f54165d81792ee7ecd4b4e20be504664988acd8673600225bcb824",
+      "id": "e612ed9a9929",
+      "priority": 1,
+      "group": "31e0f80d0872"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "chambre à coucher",
+      "meaningInSourceLanguage": "卧室",
+      "id": "303241e86314",
+      "priority": 0,
+      "group": "e04fc19ad432"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "chambre à coucher"
+      ],
+      "phrase": [
+        {
+          "word": "卧室",
+          "definition": "chambre à coucher"
+        }
+      ],
+      "id": "960c9bb59a3d",
+      "priority": 1,
+      "group": "e04fc19ad432"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chambre à coucher",
+      "meaning": "卧室",
+      "audio": "36327d63fa9a5ff15f27859cb6edf869c0fcb94fa751602adf68b707bbc5d690",
+      "id": "ea65a63cfddc",
+      "priority": 1,
+      "group": "e04fc19ad432"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "jardin",
+      "meaningInSourceLanguage": "花园",
+      "id": "ea6a33c03478",
+      "priority": 0,
+      "group": "2126222a80b9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "jardin"
+      ],
+      "phrase": [
+        {
+          "word": "花园",
+          "definition": "jardin"
+        }
+      ],
+      "id": "3523740d7744",
+      "priority": 1,
+      "group": "2126222a80b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jardin",
+      "meaning": "花园",
+      "audio": "179a959472d598c3479fcb78943cddd2badb1ee18df48a0dec7cabecde90d4fc",
+      "id": "c0e748a0de2c",
+      "priority": 1,
+      "group": "2126222a80b9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "garage",
+      "meaningInSourceLanguage": "车库",
+      "id": "b6f01b0a5b75",
+      "priority": 0,
+      "group": "9fe52b9b7f7a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "garage"
+      ],
+      "phrase": [
+        {
+          "word": "车库",
+          "definition": "garage"
+        }
+      ],
+      "id": "77b6b9ed56ac",
+      "priority": 1,
+      "group": "9fe52b9b7f7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garage",
+      "meaning": "车库",
+      "audio": "b978f57b92a17961f0595c28d6851fa125102b53994fcf54d934c6ee76c24015",
+      "id": "d9c745b4b950",
+      "priority": 1,
+      "group": "9fe52b9b7f7a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "escalier",
+      "meaningInSourceLanguage": "楼梯",
+      "id": "0b8203e5db1a",
+      "priority": 0,
+      "group": "000660cfc8ee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "escalier"
+      ],
+      "phrase": [
+        {
+          "word": "楼梯",
+          "definition": "escalier"
+        }
+      ],
+      "id": "48f3478f1175",
+      "priority": 1,
+      "group": "000660cfc8ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "escalier",
+      "meaning": "楼梯",
+      "audio": "6e9a7c317fae3a37e68b5c58b8a78ce22b633ba7456b01b0f5f1d7915fed536f",
+      "id": "adcaf764dd70",
+      "priority": 1,
+      "group": "000660cfc8ee"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cour",
+      "meaningInSourceLanguage": "院子",
+      "id": "35b26cc97cea",
+      "priority": 0,
+      "group": "d782391936fd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cour"
+      ],
+      "phrase": [
+        {
+          "word": "院子",
+          "definition": "cour"
+        }
+      ],
+      "id": "f9db12ee2cd9",
+      "priority": 1,
+      "group": "d782391936fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cour",
+      "meaning": "院子",
+      "audio": "eb390eb44de3a0fca329b5cd8e2053f2d37170476fe242e915f9d4938c24efa6",
+      "id": "6172ed0c3e32",
+      "priority": 1,
+      "group": "d782391936fd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "toit",
+      "meaningInSourceLanguage": "屋顶",
+      "id": "4aa30e637540",
+      "priority": 0,
+      "group": "dc0d58659db6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "toit"
+      ],
+      "phrase": [
+        {
+          "word": "屋顶",
+          "definition": "toit"
+        }
+      ],
+      "id": "913c8ec2534c",
+      "priority": 1,
+      "group": "dc0d58659db6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toit",
+      "meaning": "屋顶",
+      "audio": "cef9838c18b288cec2423881f62ecaba84e31c2c62cb75d6862409a89a175df1",
+      "id": "b390efdc5128",
+      "priority": 1,
+      "group": "dc0d58659db6"
+    }
+  ]
+}

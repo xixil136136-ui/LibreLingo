@@ -1,0 +1,1111 @@
+{
+  "id": "8c6032195989",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "required course",
+      "meaningInSourceLanguage": "必修课",
+      "id": "deb5ca729821",
+      "priority": 0,
+      "group": "bead03c95471"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "required course",
+      "meaning": "必修课",
+      "audio": "df8d89c664f047fc82498ed8e93dc6db",
+      "id": "2b8fc5746d15",
+      "priority": 1,
+      "group": "bead03c95471"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prerequisite",
+      "meaningInSourceLanguage": "先修课",
+      "id": "f6367464838b",
+      "priority": 0,
+      "group": "788daac9c960"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prerequisite",
+      "meaning": "先修课",
+      "audio": "63a327f60a7e4e3bbf70cecf4e31623c",
+      "id": "dd5383ba0d67",
+      "priority": 1,
+      "group": "788daac9c960"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "core course",
+      "meaningInSourceLanguage": "核心课程",
+      "id": "32bde4e39478",
+      "priority": 0,
+      "group": "a632909c8684"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "core course",
+      "meaning": "核心课程",
+      "audio": "7dab2f0cd69146cc8d3f67231e893568",
+      "id": "22469ba9baf8",
+      "priority": 1,
+      "group": "a632909c8684"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "semester",
+      "meaningInSourceLanguage": "学期",
+      "id": "697c4efd6abb",
+      "priority": 0,
+      "group": "a6c0183c7d5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "semester",
+      "meaning": "学期",
+      "audio": "8423bb3728b348f99c843783af910c3c",
+      "id": "ac4643a5f49d",
+      "priority": 1,
+      "group": "a6c0183c7d5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trimester",
+      "meaningInSourceLanguage": "三学期",
+      "id": "778bafe4e8dc",
+      "priority": 0,
+      "group": "33cfe3655b2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trimester",
+      "meaning": "三学期",
+      "audio": "363a95f6d08d470abcbe4f37f8ed64d9",
+      "id": "b5ad08ff789e",
+      "priority": 1,
+      "group": "33cfe3655b2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quarter",
+      "meaningInSourceLanguage": "学季",
+      "id": "d49c0db19574",
+      "priority": 0,
+      "group": "59324035f463"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quarter",
+      "meaning": "学季",
+      "audio": "a3ca4f9a8cfc48458e64ae426a1a3bf1",
+      "id": "562b302fdb33",
+      "priority": 1,
+      "group": "59324035f463"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "academic year",
+      "meaningInSourceLanguage": "学年",
+      "id": "2ce5cca32aa8",
+      "priority": 0,
+      "group": "f0c34f297bf4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "academic year",
+      "meaning": "学年",
+      "audio": "0163d01773d944c38bc48c677300243d",
+      "id": "590d595a4a0d",
+      "priority": 1,
+      "group": "f0c34f297bf4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "summer school",
+      "meaningInSourceLanguage": "暑期学校",
+      "id": "c767daf13bce",
+      "priority": 0,
+      "group": "76d7dfe7ea8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "summer school",
+      "meaning": "暑期学校",
+      "audio": "9082129b980a4d0485d853c14a139569",
+      "id": "3b4d19c3a99b",
+      "priority": 1,
+      "group": "76d7dfe7ea8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "winter break",
+      "meaningInSourceLanguage": "寒假",
+      "id": "62625ce111ba",
+      "priority": 0,
+      "group": "d857ba7c1999"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "winter break",
+      "meaning": "寒假",
+      "audio": "6b6e5bef5d224c539d2f7023148398ec",
+      "id": "8663f14bcbb7",
+      "priority": 1,
+      "group": "d857ba7c1999"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "summer break",
+      "meaningInSourceLanguage": "暑假",
+      "id": "5b9290c81967",
+      "priority": 0,
+      "group": "8e43eafac605"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "summer break",
+      "meaning": "暑假",
+      "audio": "37faef9686864489b29075d77788f25d",
+      "id": "da4f8ae8566c",
+      "priority": 1,
+      "group": "8e43eafac605"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spring break",
+      "meaningInSourceLanguage": "春假",
+      "id": "5a048c9b6df4",
+      "priority": 0,
+      "group": "61ffaf80ae68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spring break",
+      "meaning": "春假",
+      "audio": "0953e5f7518a4959949aba4c1d04a0be",
+      "id": "ca2a2bf6bde0",
+      "priority": 1,
+      "group": "61ffaf80ae68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "study group",
+      "meaningInSourceLanguage": "学习小组",
+      "id": "b5ea53b4c9eb",
+      "priority": 0,
+      "group": "f3ea0e215fcf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "study group",
+      "meaning": "学习小组",
+      "audio": "7f38a3fca8614cc787e56a81b6114a8b",
+      "id": "66bf863d74df",
+      "priority": 1,
+      "group": "f3ea0e215fcf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peer review",
+      "meaningInSourceLanguage": "同行评审",
+      "id": "1fa139665517",
+      "priority": 0,
+      "group": "ff9323d3a66c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peer review",
+      "meaning": "同行评审",
+      "audio": "35de38e5c78349dab209a9ffda585d28",
+      "id": "bea597492b4a",
+      "priority": 1,
+      "group": "ff9323d3a66c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "office hours",
+      "meaningInSourceLanguage": "办公时间",
+      "id": "e0583eb0f634",
+      "priority": 0,
+      "group": "d29070b50f39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "office hours",
+      "meaning": "办公时间",
+      "audio": "46de16055d934331b65782f3fd7ef605",
+      "id": "fd1b3be4e264",
+      "priority": 1,
+      "group": "d29070b50f39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "advising",
+      "meaningInSourceLanguage": "学业指导",
+      "id": "4ded9d9c1d3e",
+      "priority": 0,
+      "group": "8b9be368ee51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "advising",
+      "meaning": "学业指导",
+      "audio": "8a5b78766e644a2d94199054335a4b7d",
+      "id": "b5e5ebe99e28",
+      "priority": 1,
+      "group": "8b9be368ee51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mentor",
+      "meaningInSourceLanguage": "导师",
+      "id": "a44a41f742ec",
+      "priority": 0,
+      "group": "e486fd430d0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mentor",
+      "meaning": "导师",
+      "audio": "b4e7fe56bca844079a01c08a6e52596a",
+      "id": "dd462b8836c0",
+      "priority": 1,
+      "group": "e486fd430d0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "counselor",
+      "meaningInSourceLanguage": "辅导员",
+      "id": "94ae1b7b6e6f",
+      "priority": 0,
+      "group": "e9a6789aa924"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "counselor",
+      "meaning": "辅导员",
+      "audio": "b5e174ef00124aafa7e5335008fddcd9",
+      "id": "03803af590ad",
+      "priority": 1,
+      "group": "e9a6789aa924"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "academic advisor",
+      "meaningInSourceLanguage": "学术顾问",
+      "id": "4553cbf98bbd",
+      "priority": 0,
+      "group": "8af9aeb2bb57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "academic advisor",
+      "meaning": "学术顾问",
+      "audio": "676c51d9437f4b0aa00f0554cf4fb281",
+      "id": "5dd3ad092197",
+      "priority": 1,
+      "group": "8af9aeb2bb57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "career counselor",
+      "meaningInSourceLanguage": "职业顾问",
+      "id": "e2f569b5361a",
+      "priority": 0,
+      "group": "79c163f658e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "career counselor",
+      "meaning": "职业顾问",
+      "audio": "1e7df2a258f94deea9bc14c484208bd5",
+      "id": "1a3630419c23",
+      "priority": 1,
+      "group": "79c163f658e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "SAT",
+      "meaningInSourceLanguage": "SAT",
+      "id": "09079c8fa578",
+      "priority": 0,
+      "group": "21c0dbe76f3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "SAT",
+      "meaning": "SAT",
+      "audio": "e040a78a4835493a91a0ec01c714c590",
+      "id": "f769d254ae42",
+      "priority": 1,
+      "group": "21c0dbe76f3e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ACT",
+      "meaningInSourceLanguage": "ACT",
+      "id": "6ede1e54cc56",
+      "priority": 0,
+      "group": "3ed7a25e1663"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ACT",
+      "meaning": "ACT",
+      "audio": "4490539e76e74bdba4aec1777683f880",
+      "id": "18c70eb5ea11",
+      "priority": 1,
+      "group": "3ed7a25e1663"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "GRE",
+      "meaningInSourceLanguage": "GRE",
+      "id": "e79740188165",
+      "priority": 0,
+      "group": "6c0cb326a39a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "GRE",
+      "meaning": "GRE",
+      "audio": "7bcb263db99840dfa8b8db3fdba135f1",
+      "id": "04a8a298b701",
+      "priority": 1,
+      "group": "6c0cb326a39a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "GMAT",
+      "meaningInSourceLanguage": "GMAT",
+      "id": "3187780ac08d",
+      "priority": 0,
+      "group": "ede62b1bcb4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "GMAT",
+      "meaning": "GMAT",
+      "audio": "9236214f6fac4d72befab2878bf4ee98",
+      "id": "0ffca137db76",
+      "priority": 1,
+      "group": "ede62b1bcb4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "TOEFL",
+      "meaningInSourceLanguage": "托福",
+      "id": "b87716720968",
+      "priority": 0,
+      "group": "da63070d316d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "TOEFL",
+      "meaning": "托福",
+      "audio": "e285ae41ebdb49c88c87bd72983e985f",
+      "id": "c1b9b92d448a",
+      "priority": 1,
+      "group": "da63070d316d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "IELTS",
+      "meaningInSourceLanguage": "雅思",
+      "id": "4300373bc669",
+      "priority": 0,
+      "group": "a9059951f676"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "IELTS",
+      "meaning": "雅思",
+      "audio": "8427aef862c54fb2a16bc39ba98f4290",
+      "id": "126eb5abc2d7",
+      "priority": 1,
+      "group": "a9059951f676"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "application",
+      "meaningInSourceLanguage": "申请",
+      "id": "b73cb2552623",
+      "priority": 0,
+      "group": "07a1f37fb47c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "application",
+      "meaning": "申请",
+      "audio": "c428370c51af4ee0ad68e2b9587b4013",
+      "id": "18003221b832",
+      "priority": 1,
+      "group": "07a1f37fb47c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "personal statement",
+      "meaningInSourceLanguage": "个人陈述",
+      "id": "53b2405e0506",
+      "priority": 0,
+      "group": "6299ae6d87bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "personal statement",
+      "meaning": "个人陈述",
+      "audio": "d85e101252e84d42a7d1dab039733f93",
+      "id": "92c9d4cb9d04",
+      "priority": 1,
+      "group": "6299ae6d87bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recommendation letter",
+      "meaningInSourceLanguage": "推荐信",
+      "id": "85830ae6735d",
+      "priority": 0,
+      "group": "97a63e67cac2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recommendation letter",
+      "meaning": "推荐信",
+      "audio": "ec93d3f7da274a768a437b78bdd42e20",
+      "id": "a942b5b6f48a",
+      "priority": 1,
+      "group": "97a63e67cac2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interview",
+      "meaningInSourceLanguage": "面试",
+      "id": "98c86748b149",
+      "priority": 0,
+      "group": "105563ea370b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interview",
+      "meaning": "面试",
+      "audio": "3ce2ce9c99f1428f8dd7312e1cda923a",
+      "id": "f023b38123b8",
+      "priority": 1,
+      "group": "105563ea370b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waitlist",
+      "meaningInSourceLanguage": "候补名单",
+      "id": "b1b6601d1207",
+      "priority": 0,
+      "group": "dd1cab79d443"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waitlist",
+      "meaning": "候补名单",
+      "audio": "216e973ac776499cb8829825f4cf23bc",
+      "id": "4bb2884e50b2",
+      "priority": 1,
+      "group": "dd1cab79d443"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deferral",
+      "meaningInSourceLanguage": "延期录取",
+      "id": "e3be64e720bd",
+      "priority": 0,
+      "group": "42651d465b1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deferral",
+      "meaning": "延期录取",
+      "audio": "ddbc8a61c87f4104903390b774846704",
+      "id": "8baad93c544d",
+      "priority": 1,
+      "group": "42651d465b1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "matriculate",
+      "meaningInSourceLanguage": "入学",
+      "id": "53c43cc1a193",
+      "priority": 0,
+      "group": "d2704435427a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "matriculate",
+      "meaning": "入学",
+      "audio": "ee39a98de4354b239e5b7df742e5becc",
+      "id": "b6df8513f2e9",
+      "priority": 1,
+      "group": "d2704435427a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "enrollment",
+      "meaningInSourceLanguage": "注册",
+      "id": "a0ddb417ada6",
+      "priority": 0,
+      "group": "e523991fb7fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "enrollment",
+      "meaning": "注册",
+      "audio": "69c05264d7f449058fb7d88ac9aa8d71",
+      "id": "03a8537f9734",
+      "priority": 1,
+      "group": "e523991fb7fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dropout",
+      "meaningInSourceLanguage": "辍学",
+      "id": "8be0be74324e",
+      "priority": 0,
+      "group": "518bb6d07089"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dropout",
+      "meaning": "辍学",
+      "audio": "9accbeccbb7f4dd78604110a280fff27",
+      "id": "d102eb287dc0",
+      "priority": 1,
+      "group": "518bb6d07089"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "expel",
+      "meaningInSourceLanguage": "开除",
+      "id": "0725bd9c8f4d",
+      "priority": 0,
+      "group": "d3344aac2c37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "expel",
+      "meaning": "开除",
+      "audio": "57545d6097914adaa4cb51246bb94d83",
+      "id": "6236245527ad",
+      "priority": 1,
+      "group": "d3344aac2c37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suspend",
+      "meaningInSourceLanguage": "停学",
+      "id": "d45f010a8055",
+      "priority": 0,
+      "group": "363c02499d35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suspend",
+      "meaning": "停学",
+      "audio": "e5d868a827ae454d903834cd934ed81a",
+      "id": "82bf7705256a",
+      "priority": 1,
+      "group": "363c02499d35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "student union",
+      "meaningInSourceLanguage": "学生会",
+      "id": "d8691738d92a",
+      "priority": 0,
+      "group": "7f1025c10668"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "student union",
+      "meaning": "学生会",
+      "audio": "158d4c36ad394e1ebb0a0418da06a62d",
+      "id": "ed3b2694bb94",
+      "priority": 1,
+      "group": "7f1025c10668"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "club",
+      "meaningInSourceLanguage": "俱乐部",
+      "id": "75c2c4f2a37f",
+      "priority": 0,
+      "group": "ad046bfd4e85"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "club",
+      "meaning": "俱乐部",
+      "audio": "7cd89fce84d4426b99754621cdb09460",
+      "id": "be6dfd871dc2",
+      "priority": 1,
+      "group": "ad046bfd4e85"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "society",
+      "meaningInSourceLanguage": "社团",
+      "id": "c1d30ed85bdd",
+      "priority": 0,
+      "group": "eb0bd5d13d34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "society",
+      "meaning": "社团",
+      "audio": "ffb2d4f4764e4c6199b34d9b304e6e1a",
+      "id": "cbafa3dec0e5",
+      "priority": 1,
+      "group": "eb0bd5d13d34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fraternity",
+      "meaningInSourceLanguage": "兄弟会",
+      "id": "10da3b0c7031",
+      "priority": 0,
+      "group": "57ea072f8aed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fraternity",
+      "meaning": "兄弟会",
+      "audio": "f670b867f53a4305baf426a731f549e5",
+      "id": "f8468e2e66ef",
+      "priority": 1,
+      "group": "57ea072f8aed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sorority",
+      "meaningInSourceLanguage": "姐妹会",
+      "id": "7424dfba0eb1",
+      "priority": 0,
+      "group": "ea07e948930d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sorority",
+      "meaning": "姐妹会",
+      "audio": "3c0f6a10ce47403d83a1ae274498d113",
+      "id": "600be7645140",
+      "priority": 1,
+      "group": "ea07e948930d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sports team",
+      "meaningInSourceLanguage": "运动队",
+      "id": "da3cc0cf489b",
+      "priority": 0,
+      "group": "38d49543e541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sports team",
+      "meaning": "运动队",
+      "audio": "517d2b074c254943a2cd14859a7534b6",
+      "id": "56da5872536e",
+      "priority": 1,
+      "group": "38d49543e541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "homecoming",
+      "meaningInSourceLanguage": "返校节",
+      "id": "2c91054cace6",
+      "priority": 0,
+      "group": "39e6036a606e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "homecoming",
+      "meaning": "返校节",
+      "audio": "65058b6e29584ec3b87eaac6193a43c0",
+      "id": "c2f86565f425",
+      "priority": 1,
+      "group": "39e6036a606e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pep rally",
+      "meaningInSourceLanguage": "动员大会",
+      "id": "d9476c39d14d",
+      "priority": 0,
+      "group": "9094203bf3cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pep rally",
+      "meaning": "动员大会",
+      "audio": "89fd4a5701d6435398b810e1fbb9bf97",
+      "id": "9a1a6d2bddfd",
+      "priority": 1,
+      "group": "9094203bf3cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "school spirit",
+      "meaningInSourceLanguage": "校园精神",
+      "id": "3d1ca26c3b7f",
+      "priority": 0,
+      "group": "972fa7707a66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "school spirit",
+      "meaning": "校园精神",
+      "audio": "f89b69cd4f4e48cba2b1b183126ff3ad",
+      "id": "bd8e0854bec4",
+      "priority": 1,
+      "group": "972fa7707a66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mascot",
+      "meaningInSourceLanguage": "吉祥物",
+      "id": "a0de1041347c",
+      "priority": 0,
+      "group": "6ee780e5b9c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mascot",
+      "meaning": "吉祥物",
+      "audio": "961ecc5a4cf941eb88e954a201cec9d4",
+      "id": "77e7c1c08516",
+      "priority": 1,
+      "group": "6ee780e5b9c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "resume",
+      "meaningInSourceLanguage": "简历",
+      "id": "c1e3ca8eae8c",
+      "priority": 0,
+      "group": "324241607e31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "resume",
+      "meaning": "简历",
+      "audio": "cee1c2a74ced4f80893f02d2eb788c60",
+      "id": "a822d4be805b",
+      "priority": 1,
+      "group": "324241607e31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cover letter",
+      "meaningInSourceLanguage": "求职信",
+      "id": "f47185d1e9bc",
+      "priority": 0,
+      "group": "7f26bc221495"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cover letter",
+      "meaning": "求职信",
+      "audio": "c81ae56c286a457e837fe4e7a26e561f",
+      "id": "1d53c4f3fee5",
+      "priority": 1,
+      "group": "7f26bc221495"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "internship",
+      "meaningInSourceLanguage": "实习",
+      "id": "ef11c91977ec",
+      "priority": 0,
+      "group": "3cda9d02ca41"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "internship",
+      "meaning": "实习",
+      "audio": "0e153ce39acd47769f74d93309421213",
+      "id": "5419b710b443",
+      "priority": 1,
+      "group": "3cda9d02ca41"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "externship",
+      "meaningInSourceLanguage": "校外实习",
+      "id": "05e3003e7b0d",
+      "priority": 0,
+      "group": "a01380a48fd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "externship",
+      "meaning": "校外实习",
+      "audio": "c79ed26b577f49c9a3b4174097dada2f",
+      "id": "e6e8f3dff6d5",
+      "priority": 1,
+      "group": "a01380a48fd8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "co-op",
+      "meaningInSourceLanguage": "合作教育",
+      "id": "abd6832ba498",
+      "priority": 0,
+      "group": "acb2b4fa8eb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "co-op",
+      "meaning": "合作教育",
+      "audio": "8f1751447af346e1b784af3ac98545d1",
+      "id": "fa31304e511f",
+      "priority": 1,
+      "group": "acb2b4fa8eb6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "job fair",
+      "meaningInSourceLanguage": "招聘会",
+      "id": "61dbfed576be",
+      "priority": 0,
+      "group": "03f63bb8e129"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "job fair",
+      "meaning": "招聘会",
+      "audio": "e2f8e442050a4b4f8634d36cc5ddcb4b",
+      "id": "a5a55b28e390",
+      "priority": 1,
+      "group": "03f63bb8e129"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "networking event",
+      "meaningInSourceLanguage": "社交活动",
+      "id": "fc1a0176fbed",
+      "priority": 0,
+      "group": "81e526f8568c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "networking event",
+      "meaning": "社交活动",
+      "audio": "e73f4d65d71341c69ff3e1c08c10c98d",
+      "id": "1379b1b9c9cb",
+      "priority": 1,
+      "group": "81e526f8568c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "career fair",
+      "meaningInSourceLanguage": "职业招聘会",
+      "id": "ed89848941c5",
+      "priority": 0,
+      "group": "1d468857c2c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "career fair",
+      "meaning": "职业招聘会",
+      "audio": "700d1b09c0c24169bc7a8020ea823f12",
+      "id": "e23331c7e7c4",
+      "priority": 1,
+      "group": "1d468857c2c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "alumni network",
+      "meaningInSourceLanguage": "校友网络",
+      "id": "a1ec051c4b2e",
+      "priority": 0,
+      "group": "bc105db22178"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "alumni network",
+      "meaning": "校友网络",
+      "audio": "3ea01023004d436fbcb161bb003836d6",
+      "id": "5effac679703",
+      "priority": 1,
+      "group": "bc105db22178"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "professional development",
+      "meaningInSourceLanguage": "职业发展",
+      "id": "a3dd34df4020",
+      "priority": 0,
+      "group": "ea33f37b5653"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "professional development",
+      "meaning": "职业发展",
+      "audio": "5f0b7780718e450ebd3ac7911b81bd5b",
+      "id": "88d199c14949",
+      "priority": 1,
+      "group": "ea33f37b5653"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "art",
+      "meaningInSourceLanguage": "美术",
+      "id": "81bb0e2a5410",
+      "priority": 0,
+      "group": "32a387b63eb8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "art",
+      "meaning": "美术",
+      "audio": "fe1710a2be044df7a7155f700b96c024",
+      "id": "1a689247e2b8",
+      "priority": 1,
+      "group": "32a387b63eb8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "music",
+      "meaningInSourceLanguage": "音乐",
+      "id": "4465ecd9d46c",
+      "priority": 0,
+      "group": "359eb9af38aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "music",
+      "meaning": "音乐",
+      "audio": "100269a30a7440f6b84d7fb3f9dc8cd6",
+      "id": "88d4011dfc87",
+      "priority": 1,
+      "group": "359eb9af38aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drama",
+      "meaningInSourceLanguage": "戏剧",
+      "id": "51f99a43a6b9",
+      "priority": 0,
+      "group": "cdf43c1d8746"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drama",
+      "meaning": "戏剧",
+      "audio": "3dbc92eba7f145b59243cebe3c1101b9",
+      "id": "ee508b6b6da2",
+      "priority": 1,
+      "group": "cdf43c1d8746"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "physical education",
+      "meaningInSourceLanguage": "体育",
+      "id": "b56b5a2b2d34",
+      "priority": 0,
+      "group": "9ba03b16b0bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "physical education",
+      "meaning": "体育",
+      "audio": "760b221202ed4e35900d6fdec4a59928",
+      "id": "187233d49358",
+      "priority": 1,
+      "group": "9ba03b16b0bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "health class",
+      "meaningInSourceLanguage": "健康课",
+      "id": "a67f92696f54",
+      "priority": 0,
+      "group": "37334ba9b981"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "health class",
+      "meaning": "健康课",
+      "audio": "16bef591f65041d89381fc90fa0e57bc",
+      "id": "3179e5857508",
+      "priority": 1,
+      "group": "37334ba9b981"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "computer lab",
+      "meaningInSourceLanguage": "电脑室",
+      "id": "60b3acbeac9e",
+      "priority": 0,
+      "group": "07de7620f7b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "computer lab",
+      "meaning": "电脑室",
+      "audio": "1ffbb2976ecb412b838748266040c9dd",
+      "id": "35bd868e5a0d",
+      "priority": 1,
+      "group": "07de7620f7b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "science lab",
+      "meaningInSourceLanguage": "科学实验室",
+      "id": "7fe1ebfbdf62",
+      "priority": 0,
+      "group": "72112574660d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "science lab",
+      "meaning": "科学实验室",
+      "audio": "c505344f3d8d4eb88ae72b96ce9574bb",
+      "id": "0c950f9f5aed",
+      "priority": 1,
+      "group": "72112574660d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "language lab",
+      "meaningInSourceLanguage": "语言实验室",
+      "id": "20a5b1721ad8",
+      "priority": 0,
+      "group": "c849ef4ddf5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "language lab",
+      "meaning": "语言实验室",
+      "audio": "9e44d536a42e48d3ac899feaf8337829",
+      "id": "585b7b43c1d8",
+      "priority": 1,
+      "group": "c849ef4ddf5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "art studio",
+      "meaningInSourceLanguage": "艺术工作室",
+      "id": "fef9dad59190",
+      "priority": 0,
+      "group": "27e74cc2abf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "art studio",
+      "meaning": "艺术工作室",
+      "audio": "aaf9ab1958fd4f7490a6bde6c359968c",
+      "id": "8d1241c296f5",
+      "priority": 1,
+      "group": "27e74cc2abf7"
+    }
+  ]
+}

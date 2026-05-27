@@ -1,0 +1,70 @@
+Skill:
+  Name: Time
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: mañana
+    Translation: 早上
+  - Word: tarde
+    Translation: 下午
+  - Word: noche
+    Translation: 晚上
+  - Word: noche
+    Translation: 夜晚
+  - Word: hoy
+    Translation: 今天
+  - Word: mañana
+    Translation: 明天
+  - Word: ayer
+    Translation: 昨天
+  - Word: ahora
+    Translation: 现在
+  - Word: más tarde
+    Translation: 稍后
+  - Word: temprano
+    Translation: 早
+
+Phrases:
+  - Phrase: Por la mañana.
+    Translation: 在早上。
+  - Phrase: Hasta mañana.
+    Translation: 明天见。
+  - Phrase: Es temprano por la mañana.
+    Translation: 现在是清晨。
+  - Phrase: Estoy libre ahora.
+    Translation: 我现在有空。
+  - Phrase: Hasta luego.
+    Translation: 回头见。
+  - Phrase: Por la tarde.
+    Translation: 在下午。
+
+Mini-dictionary:
+  Spanish:
+    - mañana: 明天
+    - temprano: 早
+    - más tarde: 稍后
+    - noche: 晚上
+    - mañana: 早上
+    - hoy: 今天
+    - noche: 夜晚
+    - ahora: 现在
+    - tarde: 下午
+    - ayer: 昨天
+  Chinese:
+    - 晚上: noche
+    - 现在: ahora
+    - 昨天: ayer
+    - 稍后: más tarde
+    - 下午: tarde
+    - 今天: hoy
+    - 早上: mañana
+    - 明天: mañana
+    - 夜晚: noche
+    - 早: temprano

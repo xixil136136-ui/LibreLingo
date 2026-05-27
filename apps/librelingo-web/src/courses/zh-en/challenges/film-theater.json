@@ -1,0 +1,754 @@
+{
+  "id": "c9232cb1fdd6",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "film",
+      "meaningInSourceLanguage": "电影",
+      "id": "b11b032798e3",
+      "priority": 0,
+      "group": "cf4335fa61f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "film",
+      "meaning": "电影",
+      "audio": "39c70347fd513f3d871b63475c50efb71a39f351de6a5d8e0f4856618eb231a2",
+      "id": "47cc9b068eae",
+      "priority": 1,
+      "group": "cf4335fa61f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "movie",
+      "meaningInSourceLanguage": "电影",
+      "id": "7df37981f2b5",
+      "priority": 0,
+      "group": "ed0fb175fbf9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "movie",
+      "meaning": "电影",
+      "audio": "cfafe9f6467f6a46c0d02e48a764d1967c3c21872b45a7b071b624ffbf532e62",
+      "id": "e838c07c285a",
+      "priority": 1,
+      "group": "ed0fb175fbf9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cinema",
+      "meaningInSourceLanguage": "电影院",
+      "id": "f91dc35a793b",
+      "priority": 0,
+      "group": "49d51d358937"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cinema",
+      "meaning": "电影院",
+      "audio": "376dd8cf3841068219d8253773a73bd7db7872e51ac966dda7fc5c6344ef9596",
+      "id": "61c718ac9e40",
+      "priority": 1,
+      "group": "49d51d358937"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "theater",
+      "meaningInSourceLanguage": "剧场",
+      "id": "195cb093de9a",
+      "priority": 0,
+      "group": "7de38f568019"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "theater",
+      "meaning": "剧场",
+      "audio": "e5ea60e937fb83b3bb5316ca6e523192e690f69c8c4d3d2a6c98eeb68bcbc898",
+      "id": "6446f50b5b18",
+      "priority": 1,
+      "group": "7de38f568019"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "screen",
+      "meaningInSourceLanguage": "银幕",
+      "id": "1780577700db",
+      "priority": 0,
+      "group": "cdd02583104c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "screen",
+      "meaning": "银幕",
+      "audio": "8d89ee160ca58343606707fc8af854fef9fcc821032476b2feabfe72bd06e3ae",
+      "id": "60fc2bdd6d18",
+      "priority": 1,
+      "group": "cdd02583104c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "screenplay",
+      "meaningInSourceLanguage": "剧本",
+      "id": "4e906037a4c4",
+      "priority": 0,
+      "group": "3a06edacf7f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "screenplay",
+      "meaning": "剧本",
+      "audio": "d1afeb76c0de0055e2ffb279cc5bc34de3dc791a2753979d7281889a51337763",
+      "id": "a45ad713f83e",
+      "priority": 1,
+      "group": "3a06edacf7f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "director",
+      "meaningInSourceLanguage": "导演",
+      "id": "f4c2ee4f2441",
+      "priority": 0,
+      "group": "2bcfb9829176"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "director",
+      "meaning": "导演",
+      "audio": "35d190aaf53713123764d83d3407c4d9f01e4cb17a3a0f9ac65fba7e7eae8506",
+      "id": "ae2091abd9c8",
+      "priority": 1,
+      "group": "2bcfb9829176"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "producer",
+      "meaningInSourceLanguage": "制片人",
+      "id": "250e41c5054e",
+      "priority": 0,
+      "group": "81f537a3dc73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "producer",
+      "meaning": "制片人",
+      "audio": "7ec3ea356ed407e486ff895c301366cf037cc70d2c753fc6fd6c96c96e298359",
+      "id": "75d8bc2bc934",
+      "priority": 1,
+      "group": "81f537a3dc73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "actor",
+      "meaningInSourceLanguage": "演员",
+      "id": "9e709731c551",
+      "priority": 0,
+      "group": "9c46d22fd454"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "actor",
+      "meaning": "演员",
+      "audio": "6fcd3ff8cc6ff8b99050acc37118dcb9763e1929ab9548441ca51a337710d3fb",
+      "id": "715e14b3f5b0",
+      "priority": 1,
+      "group": "9c46d22fd454"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "actress",
+      "meaningInSourceLanguage": "女演员",
+      "id": "85e9623fd551",
+      "priority": 0,
+      "group": "b7e00926f845"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "actress",
+      "meaning": "女演员",
+      "audio": "db606527ddaef88e40f83d47cdcce0d9f13ff58fd7f7ca6802ef834357057ac4",
+      "id": "157b7cf7b2f7",
+      "priority": 1,
+      "group": "b7e00926f845"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cast",
+      "meaningInSourceLanguage": "演员阵容",
+      "id": "b86b065aa549",
+      "priority": 0,
+      "group": "ea624de8023a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cast",
+      "meaning": "演员阵容",
+      "audio": "ed2d03600c37ff59db425f7164b49d623c637587f00e7dcc815a8a07f0fa8079",
+      "id": "9e4ab180ce47",
+      "priority": 1,
+      "group": "ea624de8023a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crew",
+      "meaningInSourceLanguage": "剧组",
+      "id": "d653f174e22b",
+      "priority": 0,
+      "group": "5ee06e8f8a11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crew",
+      "meaning": "剧组",
+      "audio": "9315cdc1fe899b0054b72aca1e64eb8e531fa4892090c764305378fd1bede8ad",
+      "id": "1286b3da2747",
+      "priority": 1,
+      "group": "5ee06e8f8a11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scene",
+      "meaningInSourceLanguage": "场景",
+      "id": "8574209007ca",
+      "priority": 0,
+      "group": "a0dbdcb2b376"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scene",
+      "meaning": "场景",
+      "audio": "997424db311bd4a83623a55aced80cc7fb3ee9ae815faebba85eeb929cd2672e",
+      "id": "f4f7059b631c",
+      "priority": 1,
+      "group": "a0dbdcb2b376"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shot",
+      "meaningInSourceLanguage": "镜头",
+      "id": "59034ca24a22",
+      "priority": 0,
+      "group": "5386362cc55c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shot",
+      "meaning": "镜头",
+      "audio": "b694ed700de2cf5c6c9d690835ad1bb8457b3bc0e8064d37109eb92bc306311a",
+      "id": "579abd665088",
+      "priority": 1,
+      "group": "5386362cc55c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "close-up",
+      "meaningInSourceLanguage": "特写",
+      "id": "1890a875d00a",
+      "priority": 0,
+      "group": "941f89761983"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "close-up",
+      "meaning": "特写",
+      "audio": "c5bde97f8dbd9286a2c6f442c0d338f401c028a3a1ba94f4725a23c004bfe59b",
+      "id": "da7b73d551ce",
+      "priority": 1,
+      "group": "941f89761983"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "angle",
+      "meaningInSourceLanguage": "角度",
+      "id": "3a656019da27",
+      "priority": 0,
+      "group": "874abb32c979"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "angle",
+      "meaning": "角度",
+      "audio": "fadb43124846ec6fc89e797f953e6a28abab2f9deedff407c89d4be84e7222a9",
+      "id": "348c46911c91",
+      "priority": 1,
+      "group": "874abb32c979"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soundtrack",
+      "meaningInSourceLanguage": "原声带",
+      "id": "8c78552629a6",
+      "priority": 0,
+      "group": "f13c3d4044de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soundtrack",
+      "meaning": "原声带",
+      "audio": "6c182f670ff8f08329efb88417418ff79e6e98ed54fc31a2541dfc6926bda626",
+      "id": "36ef1cae88d1",
+      "priority": 1,
+      "group": "f13c3d4044de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "special effects",
+      "meaningInSourceLanguage": "特效",
+      "id": "e2e45425e566",
+      "priority": 0,
+      "group": "d5625d39a4cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "special effects",
+      "meaning": "特效",
+      "audio": "bbac4b2855dd9df5ac7e28345af77e8b8bc316eefc6cc428531afc2c26388f51",
+      "id": "c9c9ef275193",
+      "priority": 1,
+      "group": "d5625d39a4cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "animation",
+      "meaningInSourceLanguage": "动画",
+      "id": "2b563d885d81",
+      "priority": 0,
+      "group": "232eda696e07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "animation",
+      "meaning": "动画",
+      "audio": "70501427a3780fb7ffd59351a1c1d6aaffba03b89dbbb5fa256197f8e9b8b378",
+      "id": "4ccb91967f54",
+      "priority": 1,
+      "group": "232eda696e07"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "documentary",
+      "meaningInSourceLanguage": "纪录片",
+      "id": "27bb51ebc95f",
+      "priority": 0,
+      "group": "05cba6f56d00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "documentary",
+      "meaning": "纪录片",
+      "audio": "5d44cc97775ee173687240dbe7d8443c7b44a4481d771803371008323cae31f5",
+      "id": "75d15bd984c7",
+      "priority": 1,
+      "group": "05cba6f56d00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "short film",
+      "meaningInSourceLanguage": "短片",
+      "id": "08d357b8d1ad",
+      "priority": 0,
+      "group": "856208390336"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "short film",
+      "meaning": "短片",
+      "audio": "3fd106e58320c50629e98659a168f4821cd77b22c01071a8300811d465abf37c",
+      "id": "4855c3bc43ef",
+      "priority": 1,
+      "group": "856208390336"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "feature film",
+      "meaningInSourceLanguage": "长片",
+      "id": "49a18085ccf6",
+      "priority": 0,
+      "group": "1799503df761"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "feature film",
+      "meaning": "长片",
+      "audio": "126e26148b5df6c7a87e7e39a5fb30208124e82b5653baf66edaf8b6c04f1f48",
+      "id": "2de583927a97",
+      "priority": 1,
+      "group": "1799503df761"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trailer",
+      "meaningInSourceLanguage": "预告片",
+      "id": "b4b66f5efd1f",
+      "priority": 0,
+      "group": "ceaa56d198f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trailer",
+      "meaning": "预告片",
+      "audio": "5aeaaf99fe73a86ba3203c0a6fb1b7262cf82ad36e62c42d666cdfc8cd8ca846",
+      "id": "d5fe9b22d086",
+      "priority": 1,
+      "group": "ceaa56d198f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "premiere",
+      "meaningInSourceLanguage": "首映",
+      "id": "283f01c079ce",
+      "priority": 0,
+      "group": "d389c39c4a0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "premiere",
+      "meaning": "首映",
+      "audio": "d33df423f31e004226a226b0bc7781e68575f6b7ef9caf78d42438bfaaaa5b9a",
+      "id": "0969c93c54f1",
+      "priority": 1,
+      "group": "d389c39c4a0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "screening",
+      "meaningInSourceLanguage": "放映",
+      "id": "747f70e2595c",
+      "priority": 0,
+      "group": "45209e8aca81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "screening",
+      "meaning": "放映",
+      "audio": "a79437b7d014da73df23682c6d03f796dcfe71f207b288bdf4977133e0bbe41d",
+      "id": "7131f966df98",
+      "priority": 1,
+      "group": "45209e8aca81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "audition",
+      "meaningInSourceLanguage": "试镜",
+      "id": "6c3aa32a8a9d",
+      "priority": 0,
+      "group": "09d675f0208c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "audition",
+      "meaning": "试镜",
+      "audio": "168ee770038f1e552c0f499c7993d631c3880d354272ec578229c40923875d3d",
+      "id": "49a918513895",
+      "priority": 1,
+      "group": "09d675f0208c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rehearsal",
+      "meaningInSourceLanguage": "排练",
+      "id": "55331eb4c33b",
+      "priority": 0,
+      "group": "72a72915a6e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rehearsal",
+      "meaning": "排练",
+      "audio": "4aebf94e2f6d779dd1e4a036d5e9e6391c54f89e245e9904037a9c903420f2ab",
+      "id": "47bef12b0d4c",
+      "priority": 1,
+      "group": "72a72915a6e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stage",
+      "meaningInSourceLanguage": "舞台",
+      "id": "6881b07ad8df",
+      "priority": 0,
+      "group": "957ebe6a8d62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stage",
+      "meaning": "舞台",
+      "audio": "33d028980c2f910fe72ac7aca7e3882c98a31457202149711a5d80bfe1c36fab",
+      "id": "dc51ddbdd46e",
+      "priority": 1,
+      "group": "957ebe6a8d62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "curtain",
+      "meaningInSourceLanguage": "幕",
+      "id": "9c1124ca660d",
+      "priority": 0,
+      "group": "f905f53a1518"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "curtain",
+      "meaning": "幕",
+      "audio": "e27b227f32c74a2748ba59a2e49d1c411f19158bc6991fe0691a7631c2aea7e5",
+      "id": "36b7f2244051",
+      "priority": 1,
+      "group": "f905f53a1518"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "act",
+      "meaningInSourceLanguage": "幕",
+      "id": "e63768de5244",
+      "priority": 0,
+      "group": "954d86bc52b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "act",
+      "meaning": "幕",
+      "audio": "2cd7605c3faf8378e209241ae19ad900d55f9deb189028c1ffcd0221350ae94b",
+      "id": "3434fb94c8dd",
+      "priority": 1,
+      "group": "954d86bc52b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "play",
+      "meaningInSourceLanguage": "话剧",
+      "id": "6625e7ec7047",
+      "priority": 0,
+      "group": "e95a2fad759a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "play",
+      "meaning": "话剧",
+      "audio": "24aa3e88806eaca0a3911d64bfedf0d20e4be8f8388f6767f5c8dc4f474b5de5",
+      "id": "25f53e3953d0",
+      "priority": 1,
+      "group": "e95a2fad759a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "musical theater",
+      "meaningInSourceLanguage": "音乐剧",
+      "id": "727e4fe41259",
+      "priority": 0,
+      "group": "9f8bb36b9f64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "musical theater",
+      "meaning": "音乐剧",
+      "audio": "01bb347df093687205112387ea27d166b99663c38bb099a8403a248f9201b25f",
+      "id": "2f0371c20be6",
+      "priority": 1,
+      "group": "9f8bb36b9f64"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ballet",
+      "meaningInSourceLanguage": "芭蕾",
+      "id": "c71ad01180de",
+      "priority": 0,
+      "group": "25b1c7710182"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ballet",
+      "meaning": "芭蕾",
+      "audio": "a3ca179ce2a41cb554b37c8008941ca5f8b8d3a462bc2f97a4dd681934612ef6",
+      "id": "7fa29464eab9",
+      "priority": 1,
+      "group": "25b1c7710182"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dance",
+      "meaningInSourceLanguage": "舞蹈",
+      "id": "f01596874b24",
+      "priority": 0,
+      "group": "2ea9c7e45046"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dance",
+      "meaning": "舞蹈",
+      "audio": "c889cf13ceb573ae5298960a59b0d0ba358ff152264bbc4f2245667f8871cce8",
+      "id": "9a68985e9837",
+      "priority": 1,
+      "group": "2ea9c7e45046"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "choreography",
+      "meaningInSourceLanguage": "编舞",
+      "id": "8a43710dfe54",
+      "priority": 0,
+      "group": "68bc81e6d223"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "choreography",
+      "meaning": "编舞",
+      "audio": "01e060bce34e6c0e4634ad2729e9c67331bac68098b690d4983f51b231dd15e4",
+      "id": "a9d972593fb3",
+      "priority": 1,
+      "group": "68bc81e6d223"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "costume",
+      "meaningInSourceLanguage": "服装",
+      "id": "f71b58061007",
+      "priority": 0,
+      "group": "152b763e4bac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "costume",
+      "meaning": "服装",
+      "audio": "919fdfa271c92942ee7197335728209c3a5edec813ef2f0534d4e22f07a6740c",
+      "id": "6708102ff35f",
+      "priority": 1,
+      "group": "152b763e4bac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "makeup",
+      "meaningInSourceLanguage": "化妆",
+      "id": "5618248a84e8",
+      "priority": 0,
+      "group": "6d3713381b13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "makeup",
+      "meaning": "化妆",
+      "audio": "2ce334fb94659eab6d9b92887f11f3dcb4586c8a232dafe2bd4bb593675001c9",
+      "id": "06f9d33afb91",
+      "priority": 1,
+      "group": "6d3713381b13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prop",
+      "meaningInSourceLanguage": "道具",
+      "id": "786e84533d64",
+      "priority": 0,
+      "group": "748d8e020afa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prop",
+      "meaning": "道具",
+      "audio": "1864ee39efac008469c84bc180a26f75e6dd7e97bfa64da49c7479009218ad83",
+      "id": "481d479b837d",
+      "priority": 1,
+      "group": "748d8e020afa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "set design",
+      "meaningInSourceLanguage": "舞台设计",
+      "id": "a1e6fd92ad19",
+      "priority": 0,
+      "group": "8f6cf9b53fcd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "set design",
+      "meaning": "舞台设计",
+      "audio": "ed99c6bb5bad23c54a1cf09839bc1b5ccc3a3625c091dbf999d9378a8610e6ed",
+      "id": "b5b5d074327e",
+      "priority": 1,
+      "group": "8f6cf9b53fcd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "backstage",
+      "meaningInSourceLanguage": "后台",
+      "id": "de01330917aa",
+      "priority": 0,
+      "group": "4d905dde55c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "backstage",
+      "meaning": "后台",
+      "audio": "29757766ead71fd4239949051512c80bc14086f04517ddecf98a642025c12f5b",
+      "id": "bea2631f98e2",
+      "priority": 1,
+      "group": "4d905dde55c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "audience",
+      "meaningInSourceLanguage": "观众",
+      "id": "e885779d97ac",
+      "priority": 0,
+      "group": "3ea306391436"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "audience",
+      "meaning": "观众",
+      "audio": "189778ba6d3a2f811074c360850790e51c9eca282b58bb02d1bc32ce4f8efe1a",
+      "id": "6d16265a416f",
+      "priority": 1,
+      "group": "3ea306391436"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "applause",
+      "meaningInSourceLanguage": "掌声",
+      "id": "95bfe176cafa",
+      "priority": 0,
+      "group": "ebf695161402"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "applause",
+      "meaning": "掌声",
+      "audio": "ac76c1906d51631557b71886f2be33e59be8728ca7fa5148f62d08cf816511ef",
+      "id": "3b17aa5d885a",
+      "priority": 1,
+      "group": "ebf695161402"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "curtain call",
+      "meaningInSourceLanguage": "谢幕",
+      "id": "12d07a0f0bf8",
+      "priority": 0,
+      "group": "8121b3a3ef2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "curtain call",
+      "meaning": "谢幕",
+      "audio": "7f40f23eca65e0c07822abf24fcf35372830aa8ec1a51f817fc6dd28f9cd663c",
+      "id": "3bb4fb31217a",
+      "priority": 1,
+      "group": "8121b3a3ef2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "encore",
+      "meaningInSourceLanguage": "安可",
+      "id": "ab383fca983d",
+      "priority": 0,
+      "group": "e3b0a2f6c873"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "encore",
+      "meaning": "安可",
+      "audio": "06913ef093746ff4b839e543571cd3f54e8f0f79fea96527b81665442b95c5ee",
+      "id": "2b931d15c17b",
+      "priority": 1,
+      "group": "e3b0a2f6c873"
+    }
+  ]
+}

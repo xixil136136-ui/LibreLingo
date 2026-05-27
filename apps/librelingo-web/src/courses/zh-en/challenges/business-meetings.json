@@ -1,0 +1,822 @@
+{
+  "id": "58a15aaea2f5",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "marketing",
+      "meaningInSourceLanguage": "营销",
+      "id": "cf693a8a6a86",
+      "priority": 0,
+      "group": "d699851635b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marketing",
+      "meaning": "营销",
+      "audio": "3b540990e22c43f1b96da8dac2fa3b93",
+      "id": "900181076537",
+      "priority": 1,
+      "group": "d699851635b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "advertising",
+      "meaningInSourceLanguage": "广告",
+      "id": "c0f1c6621d16",
+      "priority": 0,
+      "group": "02c5832fdd96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "advertising",
+      "meaning": "广告",
+      "audio": "70f722d33efb44759ce59f95a6f166ab",
+      "id": "667b91a12d87",
+      "priority": 1,
+      "group": "02c5832fdd96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brand",
+      "meaningInSourceLanguage": "品牌",
+      "id": "250224714e21",
+      "priority": 0,
+      "group": "d54e9bdf705f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brand",
+      "meaning": "品牌",
+      "audio": "41974b3c80bf4d049c31ebfd51e742b4",
+      "id": "4d39ce0ecd94",
+      "priority": 1,
+      "group": "d54e9bdf705f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "logo",
+      "meaningInSourceLanguage": "标志",
+      "id": "79c622cc65b5",
+      "priority": 0,
+      "group": "be6b684dc663"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "logo",
+      "meaning": "标志",
+      "audio": "c975683a2fac404583045a2fd9db1a28",
+      "id": "ef6a3ee9cb2c",
+      "priority": 1,
+      "group": "be6b684dc663"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "product",
+      "meaningInSourceLanguage": "产品",
+      "id": "f6d0a0dc5c70",
+      "priority": 0,
+      "group": "b9a5656d25d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "product",
+      "meaning": "产品",
+      "audio": "9f95e457e2434a199c003e5e15d544aa",
+      "id": "a6c987dda093",
+      "priority": 1,
+      "group": "b9a5656d25d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "service",
+      "meaningInSourceLanguage": "服务",
+      "id": "bcc55e9e737f",
+      "priority": 0,
+      "group": "a0ecc7ec3c2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "service",
+      "meaning": "服务",
+      "audio": "5dae1a9d8ac645548b210aed270f1672",
+      "id": "0a8ab38e2591",
+      "priority": 1,
+      "group": "a0ecc7ec3c2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quality",
+      "meaningInSourceLanguage": "质量",
+      "id": "9172523728ab",
+      "priority": 0,
+      "group": "191ff7d54183"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quality",
+      "meaning": "质量",
+      "audio": "075b3906d2704214b8d0121f0be02aa3",
+      "id": "20f078fe31f9",
+      "priority": 1,
+      "group": "191ff7d54183"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "price",
+      "meaningInSourceLanguage": "价格",
+      "id": "a051e0f4432a",
+      "priority": 0,
+      "group": "2b776c49021d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "price",
+      "meaning": "价格",
+      "audio": "2db183d13e804a49a7c750a38f4c5f9c",
+      "id": "2d4af2f55fd5",
+      "priority": 1,
+      "group": "2b776c49021d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cost",
+      "meaningInSourceLanguage": "成本",
+      "id": "20b32eb90601",
+      "priority": 0,
+      "group": "46384d67ab74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cost",
+      "meaning": "成本",
+      "audio": "5a736deeff4c4e3c936c98ffb8e34919",
+      "id": "cf08a0fc5166",
+      "priority": 1,
+      "group": "46384d67ab74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "profit",
+      "meaningInSourceLanguage": "利润",
+      "id": "da079168e319",
+      "priority": 0,
+      "group": "e1f01f678add"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "profit",
+      "meaning": "利润",
+      "audio": "9c979a4f27374dcda27d6aacaecc3252",
+      "id": "78a190a72fe8",
+      "priority": 1,
+      "group": "e1f01f678add"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "revenue",
+      "meaningInSourceLanguage": "收入",
+      "id": "bc22c7ef8585",
+      "priority": 0,
+      "group": "81dcf02fc851"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "revenue",
+      "meaning": "收入",
+      "audio": "256c4d3615e645dc8ae0e6ad24999ed1",
+      "id": "95515a12003f",
+      "priority": 1,
+      "group": "81dcf02fc851"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "expense",
+      "meaningInSourceLanguage": "支出",
+      "id": "751c4bebcfb6",
+      "priority": 0,
+      "group": "e109072c0517"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "expense",
+      "meaning": "支出",
+      "audio": "e8e3c1aa97b34f81811fcc9773b288ce",
+      "id": "d5b09c2aa08f",
+      "priority": 1,
+      "group": "e109072c0517"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "loss",
+      "meaningInSourceLanguage": "亏损",
+      "id": "3fad19b7389a",
+      "priority": 0,
+      "group": "7d0c9381b302"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "loss",
+      "meaning": "亏损",
+      "audio": "90b3e304c7fb4350a8e6d43710787d54",
+      "id": "7aae604e1d42",
+      "priority": 1,
+      "group": "7d0c9381b302"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "investment",
+      "meaningInSourceLanguage": "投资",
+      "id": "667c4e6a1752",
+      "priority": 0,
+      "group": "8e6942bf3d5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "investment",
+      "meaning": "投资",
+      "audio": "2df5255301704c50af297106a33755ea",
+      "id": "b884b3e75cac",
+      "priority": 1,
+      "group": "8e6942bf3d5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "funding",
+      "meaningInSourceLanguage": "融资",
+      "id": "2c90f0c5e877",
+      "priority": 0,
+      "group": "2c8155ba8aea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "funding",
+      "meaning": "融资",
+      "audio": "971d2c351a644ce5b985579ab7f0828f",
+      "id": "1abf8e2aba05",
+      "priority": 1,
+      "group": "2c8155ba8aea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "loan",
+      "meaningInSourceLanguage": "贷款",
+      "id": "5f5348cd2514",
+      "priority": 0,
+      "group": "7939884f62aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "loan",
+      "meaning": "贷款",
+      "audio": "f64b0fdbe476401896e972e006c83bfe",
+      "id": "bc4175f08313",
+      "priority": 1,
+      "group": "7939884f62aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "credit",
+      "meaningInSourceLanguage": "信用",
+      "id": "f0751292bdea",
+      "priority": 0,
+      "group": "ff7e78355f42"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "credit",
+      "meaning": "信用",
+      "audio": "f91ba963356c4adfa4de771baf546eb6",
+      "id": "bdda3b184979",
+      "priority": 1,
+      "group": "ff7e78355f42"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debt",
+      "meaningInSourceLanguage": "债务",
+      "id": "a55ae9c69e73",
+      "priority": 0,
+      "group": "9d6b9c40615d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debt",
+      "meaning": "债务",
+      "audio": "b5d5bd645ffb4d97abbe32e96e4dec31",
+      "id": "4de998e509d0",
+      "priority": 1,
+      "group": "9d6b9c40615d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "asset",
+      "meaningInSourceLanguage": "资产",
+      "id": "233a18baf1ca",
+      "priority": 0,
+      "group": "216af684f45b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "asset",
+      "meaning": "资产",
+      "audio": "a24f0035c651496c9ad856272c269ed2",
+      "id": "b716e2cdecfa",
+      "priority": 1,
+      "group": "216af684f45b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "liability",
+      "meaningInSourceLanguage": "负债",
+      "id": "76701fe13338",
+      "priority": 0,
+      "group": "91cd99286b22"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "liability",
+      "meaning": "负债",
+      "audio": "665ae3b77d5043f0a7d5ea9312490aff",
+      "id": "44394d70f428",
+      "priority": 1,
+      "group": "91cd99286b22"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "equity",
+      "meaningInSourceLanguage": "股权",
+      "id": "45175488b91d",
+      "priority": 0,
+      "group": "9b73f28701cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "equity",
+      "meaning": "股权",
+      "audio": "5f822f88b4b94db980ffbd5aa6a7ebe7",
+      "id": "c5d518244472",
+      "priority": 1,
+      "group": "9b73f28701cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "share",
+      "meaningInSourceLanguage": "股份",
+      "id": "e1cecf17cca5",
+      "priority": 0,
+      "group": "9b824e8e86ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "share",
+      "meaning": "股份",
+      "audio": "9e5c12daaf3f4af18ea8b7bef7db3d35",
+      "id": "2fb46617ed7e",
+      "priority": 1,
+      "group": "9b824e8e86ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stock",
+      "meaningInSourceLanguage": "股票",
+      "id": "02249c989cdc",
+      "priority": 0,
+      "group": "b9bc9b9d76ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stock",
+      "meaning": "股票",
+      "audio": "3ae3b9fc2f904af0a575384554c2accf",
+      "id": "73e0249d335c",
+      "priority": 1,
+      "group": "b9bc9b9d76ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bond",
+      "meaningInSourceLanguage": "债券",
+      "id": "26cb4ec6a6df",
+      "priority": 0,
+      "group": "7322babff550"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bond",
+      "meaning": "债券",
+      "audio": "8071ad11137d4f72813fba68272a8a73",
+      "id": "68dc6ac5bad4",
+      "priority": 1,
+      "group": "7322babff550"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dividend",
+      "meaningInSourceLanguage": "股息",
+      "id": "b39eafd0a64c",
+      "priority": 0,
+      "group": "6ac6b4689ec3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dividend",
+      "meaning": "股息",
+      "audio": "767b99e90409453a915441f94e521dbc",
+      "id": "05530a294f0c",
+      "priority": 1,
+      "group": "6ac6b4689ec3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interest",
+      "meaningInSourceLanguage": "利息",
+      "id": "6f7d1980b0e1",
+      "priority": 0,
+      "group": "00a948c4509c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interest",
+      "meaning": "利息",
+      "audio": "0b2596a42cee407eb060971ce7c79820",
+      "id": "cf543e5fcac1",
+      "priority": 1,
+      "group": "00a948c4509c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "inflation",
+      "meaningInSourceLanguage": "通胀",
+      "id": "667af0b80e7c",
+      "priority": 0,
+      "group": "28c45694ed6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "inflation",
+      "meaning": "通胀",
+      "audio": "c05009020d9243749a2bf2bbb9a97ea6",
+      "id": "2ff877ba6b6f",
+      "priority": 1,
+      "group": "28c45694ed6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recession",
+      "meaningInSourceLanguage": "衰退",
+      "id": "16ef38dc3cb0",
+      "priority": 0,
+      "group": "15d793019506"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recession",
+      "meaning": "衰退",
+      "audio": "81eeb3eb67fc418da06aef7ad2a4b1f0",
+      "id": "40397796722a",
+      "priority": 1,
+      "group": "15d793019506"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "economy",
+      "meaningInSourceLanguage": "经济",
+      "id": "9cd388632ed4",
+      "priority": 0,
+      "group": "5a9372f04037"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "economy",
+      "meaning": "经济",
+      "audio": "f1db99b2ffa84a67a66857ebea683dce",
+      "id": "51088458efea",
+      "priority": 1,
+      "group": "5a9372f04037"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "GDP",
+      "meaningInSourceLanguage": "国内生产总值",
+      "id": "9b3f7dc89c47",
+      "priority": 0,
+      "group": "656a117b4ec8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "GDP",
+      "meaning": "国内生产总值",
+      "audio": "9abe3ae3755b4928a1a0b958beba5f84",
+      "id": "357ef4be196a",
+      "priority": 1,
+      "group": "656a117b4ec8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trade",
+      "meaningInSourceLanguage": "贸易",
+      "id": "4069bb43d664",
+      "priority": 0,
+      "group": "0b8a047a482d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trade",
+      "meaning": "贸易",
+      "audio": "92437c50babf47f3afcaa5988059463b",
+      "id": "ce14057541ac",
+      "priority": 1,
+      "group": "0b8a047a482d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "import",
+      "meaningInSourceLanguage": "进口",
+      "id": "5a87a1705bb7",
+      "priority": 0,
+      "group": "2023f7595d47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "import",
+      "meaning": "进口",
+      "audio": "776f744493b0404790dad6fc0f4f0eda",
+      "id": "e466ea61d745",
+      "priority": 1,
+      "group": "2023f7595d47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "export",
+      "meaningInSourceLanguage": "出口",
+      "id": "efd217d7d6fb",
+      "priority": 0,
+      "group": "773631a81540"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "export",
+      "meaning": "出口",
+      "audio": "1bc6c1d577934e2f9520fb06a615b6a2",
+      "id": "b094f9971adf",
+      "priority": 1,
+      "group": "773631a81540"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tariff",
+      "meaningInSourceLanguage": "关税",
+      "id": "4915b1fe20cd",
+      "priority": 0,
+      "group": "95320b750995"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tariff",
+      "meaning": "关税",
+      "audio": "651f97ee08b34b9d8a334633d5f13ec6",
+      "id": "9e81a1b42571",
+      "priority": 1,
+      "group": "95320b750995"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "globalization",
+      "meaningInSourceLanguage": "全球化",
+      "id": "c07fce4bc89f",
+      "priority": 0,
+      "group": "2c4b6bc25182"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "globalization",
+      "meaning": "全球化",
+      "audio": "36f9c0a598ed47779b4de71cd49db79a",
+      "id": "c8090180efca",
+      "priority": 1,
+      "group": "2c4b6bc25182"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "outsourcing",
+      "meaningInSourceLanguage": "外包",
+      "id": "5cfc42f6c85c",
+      "priority": 0,
+      "group": "2bf56f89c46e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "outsourcing",
+      "meaning": "外包",
+      "audio": "e249e23a08a44b6883120e85876e8628",
+      "id": "d5fdbf641fdd",
+      "priority": 1,
+      "group": "2bf56f89c46e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "innovation",
+      "meaningInSourceLanguage": "创新",
+      "id": "6c1aaaee467e",
+      "priority": 0,
+      "group": "45c6b53fa701"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "innovation",
+      "meaning": "创新",
+      "audio": "9792b54932a549eb8b8af1aaef82bacf",
+      "id": "51d4fc59abde",
+      "priority": 1,
+      "group": "45c6b53fa701"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "R&D",
+      "meaningInSourceLanguage": "研发",
+      "id": "e38108f839c5",
+      "priority": 0,
+      "group": "d2d47e540e02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "R&D",
+      "meaning": "研发",
+      "audio": "56d03ef1d3e148bb834551106c16f214",
+      "id": "2420fd6ce46a",
+      "priority": 1,
+      "group": "d2d47e540e02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "workplace",
+      "meaningInSourceLanguage": "工作场所",
+      "id": "cfb3b3717bb0",
+      "priority": 0,
+      "group": "8ed5a9a26a92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "workplace",
+      "meaning": "工作场所",
+      "audio": "f9370472e81a43d391cd3a1079943d07",
+      "id": "0313cd671f7b",
+      "priority": 1,
+      "group": "8ed5a9a26a92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "culture",
+      "meaningInSourceLanguage": "文化",
+      "id": "00e5dd1fe07c",
+      "priority": 0,
+      "group": "22c6cbb07c5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "culture",
+      "meaning": "文化",
+      "audio": "00e03637385843c1baaa10fd4aad1c9e",
+      "id": "6b941cf97dce",
+      "priority": 1,
+      "group": "22c6cbb07c5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "policy",
+      "meaningInSourceLanguage": "政策",
+      "id": "f2ead7f050ed",
+      "priority": 0,
+      "group": "7e24b5eac459"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "policy",
+      "meaning": "政策",
+      "audio": "77676e12f57a436abe6efbff8ff79231",
+      "id": "2142350f0cea",
+      "priority": 1,
+      "group": "7e24b5eac459"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "regulation",
+      "meaningInSourceLanguage": "规定",
+      "id": "750d9518dd72",
+      "priority": 0,
+      "group": "ec2a1c1781be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "regulation",
+      "meaning": "规定",
+      "audio": "4a2607bd625d4fccbe3620d49ef0f057",
+      "id": "1dbf2bb2e74b",
+      "priority": 1,
+      "group": "ec2a1c1781be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compliance",
+      "meaningInSourceLanguage": "合规",
+      "id": "80d88775e38f",
+      "priority": 0,
+      "group": "85bd279ba79a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compliance",
+      "meaning": "合规",
+      "audio": "8a6e8d44000e407ca6973102a9ae1eaa",
+      "id": "432b4323d2af",
+      "priority": 1,
+      "group": "85bd279ba79a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "remote work",
+      "meaningInSourceLanguage": "远程工作",
+      "id": "f35eda6b356c",
+      "priority": 0,
+      "group": "67e91290fb95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "remote work",
+      "meaning": "远程工作",
+      "audio": "4258bb3b1cd84cbba1370b071d0dcdd3",
+      "id": "1f22cd382c0d",
+      "priority": 1,
+      "group": "67e91290fb95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flexible hours",
+      "meaningInSourceLanguage": "弹性工作时间",
+      "id": "e9941dbfb7a0",
+      "priority": 0,
+      "group": "9f8615e3f4e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flexible hours",
+      "meaning": "弹性工作时间",
+      "audio": "8a0a1f230476433eac1c73ac127a886f",
+      "id": "f0c87058c2f3",
+      "priority": 1,
+      "group": "9f8615e3f4e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "overtime",
+      "meaningInSourceLanguage": "加班",
+      "id": "8df6fd171310",
+      "priority": 0,
+      "group": "796e8a70a195"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "overtime",
+      "meaning": "加班",
+      "audio": "bb145553bca14b5a9425ac09233e05ba",
+      "id": "db625ccd5181",
+      "priority": 1,
+      "group": "796e8a70a195"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shift",
+      "meaningInSourceLanguage": "轮班",
+      "id": "7577f2531af5",
+      "priority": 0,
+      "group": "1c24fa47a4a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shift",
+      "meaning": "轮班",
+      "audio": "9eade3d805504425a52067f9e3551358",
+      "id": "a7020a719c50",
+      "priority": 1,
+      "group": "1c24fa47a4a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "workload",
+      "meaningInSourceLanguage": "工作量",
+      "id": "5837901b993c",
+      "priority": 0,
+      "group": "67778bc40d5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "workload",
+      "meaning": "工作量",
+      "audio": "3c9b4f731ead40efa5d5768bcbbd2901",
+      "id": "64f03428b456",
+      "priority": 1,
+      "group": "67778bc40d5e"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "เลี้ยวซ้ายตรงนี้",
+      "meaningInSourceLanguage": "在这里左转。",
+      "id": "e07eef7eb96d",
+      "priority": 0,
+      "group": "84900da8384a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เลี้ยวซ้ายตรงนี้",
+      "meaning": "在这里左转。",
+      "audio": "07559e1b94d4c030a8ee1acac38e7b2d64bcf2bab765be5fd5cef0bb13865a80",
+      "id": "c4433e8bd270",
+      "priority": 1,
+      "group": "84900da8384a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ตรงไปข้างหน้า",
+      "meaningInSourceLanguage": "一直往前走。",
+      "id": "a091caf3d6a7",
+      "priority": 0,
+      "group": "b35e3bf38fa4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ตรงไปข้างหน้า",
+      "meaning": "一直往前走。",
+      "audio": "da50fb46e0620829c9235b927b80f5bf907472c139175e4735253e19bf1928cc",
+      "id": "ccfdd82050ea",
+      "priority": 1,
+      "group": "b35e3bf38fa4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "สถานีอยู่ที่ไหน",
+      "meaningInSourceLanguage": "车站在哪里？",
+      "id": "311ad54c21c6",
+      "priority": 0,
+      "group": "87d0226a4f77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สถานีอยู่ที่ไหน",
+      "meaning": "车站在哪里？",
+      "audio": "4650abce4a30a33c91668ce93df68b142daff9d165d35a0c309a119eee472f13",
+      "id": "ff7d0a2eb88a",
+      "priority": 1,
+      "group": "87d0226a4f77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ไกลจากที่นี่ไหม",
+      "meaningInSourceLanguage": "离这里远吗？",
+      "id": "97e72b97bb14",
+      "priority": 0,
+      "group": "15bfb4fa1409"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไกลจากที่นี่ไหม",
+      "meaning": "离这里远吗？",
+      "audio": "06516e44df1687c89ad42e2d230d4e945c0962c78a3cc8cd63eb2c443b52386e",
+      "id": "b5ecb6e64ea2",
+      "priority": 1,
+      "group": "15bfb4fa1409"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันต้องการแผนที่",
+      "meaningInSourceLanguage": "我需要一张地图。",
+      "id": "81f9bbe49c03",
+      "priority": 0,
+      "group": "5478a931d22f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันต้องการแผนที่",
+      "meaning": "我需要一张地图。",
+      "audio": "3efbd74c531c530980129efbfb71a09489e2ee5a8bc48c2bcbd3878ac8d41b00",
+      "id": "d302b35f9655",
+      "priority": 1,
+      "group": "5478a931d22f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ซ้าย",
+      "meaningInSourceLanguage": "左边",
+      "id": "dfcd9104dc78",
+      "priority": 0,
+      "group": "78abac47961c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ซ้าย"
+      ],
+      "phrase": [
+        {
+          "word": "左边",
+          "definition": "ซ้าย"
+        }
+      ],
+      "id": "b02f3fe720bd",
+      "priority": 1,
+      "group": "78abac47961c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ซ้าย",
+      "meaning": "左边",
+      "audio": "1c0ec9b765525d71ccd1fab0555c8fd4f6fbceeee41ca0408bef11a258599aa0",
+      "id": "efc275672e9a",
+      "priority": 1,
+      "group": "78abac47961c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ขวา",
+      "meaningInSourceLanguage": "右边",
+      "id": "7ec5d612a846",
+      "priority": 0,
+      "group": "ec1dd1473a70"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ขวา"
+      ],
+      "phrase": [
+        {
+          "word": "右边",
+          "definition": "ขวา"
+        }
+      ],
+      "id": "fa6d67811228",
+      "priority": 1,
+      "group": "ec1dd1473a70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขวา",
+      "meaning": "右边",
+      "audio": "5b9bdb799af23025608220f956a595bff47493bd57eaed67b2b876f2901076bd",
+      "id": "80e19f8241c4",
+      "priority": 1,
+      "group": "ec1dd1473a70"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ตรงไป",
+      "meaningInSourceLanguage": "直走",
+      "id": "09ea3bbfdea7",
+      "priority": 0,
+      "group": "80605b7d8f15"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ตรงไป"
+      ],
+      "phrase": [
+        {
+          "word": "直走",
+          "definition": "ตรงไป"
+        }
+      ],
+      "id": "109bd6543522",
+      "priority": 1,
+      "group": "80605b7d8f15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ตรงไป",
+      "meaning": "直走",
+      "audio": "e5ca7273d3fc16ab15357da9db252e21b9fd799fed200e1aebeee2ad08155658",
+      "id": "191d8e393e4d",
+      "priority": 1,
+      "group": "80605b7d8f15"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ที่นี่",
+      "meaningInSourceLanguage": "这里",
+      "id": "e76c30bef452",
+      "priority": 0,
+      "group": "c384b8cdd85b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ที่นี่"
+      ],
+      "phrase": [
+        {
+          "word": "这里",
+          "definition": "ที่นี่"
+        }
+      ],
+      "id": "755b51a53c57",
+      "priority": 1,
+      "group": "c384b8cdd85b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ที่นี่",
+      "meaning": "这里",
+      "audio": "051e6f7dcd1de0d19a3d5c0b74c73c4ddad98959e728914a5dd3d870a641ab87",
+      "id": "3d24f36daaeb",
+      "priority": 1,
+      "group": "c384b8cdd85b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ที่นั่น",
+      "meaningInSourceLanguage": "那里",
+      "id": "23e70a01df86",
+      "priority": 0,
+      "group": "385a83e64b6c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ที่นั่น"
+      ],
+      "phrase": [
+        {
+          "word": "那里",
+          "definition": "ที่นั่น"
+        }
+      ],
+      "id": "514e95832a37",
+      "priority": 1,
+      "group": "385a83e64b6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ที่นั่น",
+      "meaning": "那里",
+      "audio": "32897ccea89fbaa832ab4cb69850964f8e4af8ff0c36f50dc77434393c3055ec",
+      "id": "483bfd9e3878",
+      "priority": 1,
+      "group": "385a83e64b6c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ใกล้",
+      "meaningInSourceLanguage": "附近",
+      "id": "54ae93d144ef",
+      "priority": 0,
+      "group": "8adfed3abb09"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ใกล้"
+      ],
+      "phrase": [
+        {
+          "word": "附近",
+          "definition": "ใกล้"
+        }
+      ],
+      "id": "1eda5a97802f",
+      "priority": 1,
+      "group": "8adfed3abb09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ใกล้",
+      "meaning": "附近",
+      "audio": "cc9ebb257ebc486eb6d4f65f106e01b4b5322bcb74ec93aaf1ccfa3a13bb293a",
+      "id": "e21a99ab2c74",
+      "priority": 1,
+      "group": "8adfed3abb09"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ไกล",
+      "meaningInSourceLanguage": "远",
+      "id": "59d46673c7b3",
+      "priority": 0,
+      "group": "32ddd7f22294"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ไกล"
+      ],
+      "phrase": [
+        {
+          "word": "远",
+          "definition": "ไกล"
+        }
+      ],
+      "id": "5c15d7dc5f86",
+      "priority": 1,
+      "group": "32ddd7f22294"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไกล",
+      "meaning": "远",
+      "audio": "f4333669268456a45a3b0a79c8b42c357a202463fca2efd3dab494cb187b28ad",
+      "id": "bfb2dcc06f93",
+      "priority": 1,
+      "group": "32ddd7f22294"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แผนที่",
+      "meaningInSourceLanguage": "地图",
+      "id": "bf1a7b1664f2",
+      "priority": 0,
+      "group": "e76931f9634d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แผนที่"
+      ],
+      "phrase": [
+        {
+          "word": "地图",
+          "definition": "แผนที่"
+        }
+      ],
+      "id": "5c1c3a527528",
+      "priority": 1,
+      "group": "e76931f9634d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แผนที่",
+      "meaning": "地图",
+      "audio": "036d5a81297e67fc7824825c29d0eac20b78d86d004832f052c7fecf6e4e172e",
+      "id": "d32d933298b2",
+      "priority": 1,
+      "group": "e76931f9634d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ถนน",
+      "meaningInSourceLanguage": "街道",
+      "id": "0bfc81675fa6",
+      "priority": 0,
+      "group": "73023d285988"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ถนน"
+      ],
+      "phrase": [
+        {
+          "word": "街道",
+          "definition": "ถนน"
+        }
+      ],
+      "id": "15d1a7bcaf19",
+      "priority": 1,
+      "group": "73023d285988"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ถนน",
+      "meaning": "街道",
+      "audio": "8462e37c493d9b228fe11ec11485a8561f0ecb2e83e3ea042c408fa053801da4",
+      "id": "9414e569dda8",
+      "priority": 1,
+      "group": "73023d285988"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ทาง",
+      "meaningInSourceLanguage": "路",
+      "id": "c2c5fed507df",
+      "priority": 0,
+      "group": "1b1e1f2f3f58"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ทาง"
+      ],
+      "phrase": [
+        {
+          "word": "路",
+          "definition": "ทาง"
+        }
+      ],
+      "id": "17446cab7609",
+      "priority": 1,
+      "group": "1b1e1f2f3f58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ทาง",
+      "meaning": "路",
+      "audio": "113755aeac5ac5dc5aefb8c58134c494da5ecd71c2c1a8454be1e9e7d046d07a",
+      "id": "6f24f6f4e52c",
+      "priority": 1,
+      "group": "1b1e1f2f3f58"
+    }
+  ]
+}

@@ -1,0 +1,1655 @@
+{
+  "id": "2eb63b19df06",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "sunny",
+      "meaningInSourceLanguage": "晴朗的",
+      "id": "587505a5088e",
+      "priority": 0,
+      "group": "9dbbe6b1b0c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sunny",
+      "meaning": "晴朗的",
+      "audio": "806a7674a0d0402e916bf352a9953f17",
+      "id": "88d15da5d078",
+      "priority": 1,
+      "group": "9dbbe6b1b0c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rainy",
+      "meaningInSourceLanguage": "下雨的",
+      "id": "cbfddedcb85e",
+      "priority": 0,
+      "group": "2cd3da32f0b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rainy",
+      "meaning": "下雨的",
+      "audio": "35210e76eff3458c84e4ff18a7b71277",
+      "id": "3e8e9854a165",
+      "priority": 1,
+      "group": "2cd3da32f0b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cloudy",
+      "meaningInSourceLanguage": "多云的",
+      "id": "24e54c8aa45d",
+      "priority": 0,
+      "group": "950d2c9d7d9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cloudy",
+      "meaning": "多云的",
+      "audio": "c65236b2a5cf4ce6bf5870abb3d4023f",
+      "id": "22a7606d8c0b",
+      "priority": 1,
+      "group": "950d2c9d7d9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "windy",
+      "meaningInSourceLanguage": "有风的",
+      "id": "a5f48307b351",
+      "priority": 0,
+      "group": "59d2b28ae639"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "windy",
+      "meaning": "有风的",
+      "audio": "0a7d992590234679bbb3e968ced0f112",
+      "id": "f333752ec286",
+      "priority": 1,
+      "group": "59d2b28ae639"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "snowy",
+      "meaningInSourceLanguage": "下雪的",
+      "id": "28b268fede03",
+      "priority": 0,
+      "group": "59fe457e4546"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snowy",
+      "meaning": "下雪的",
+      "audio": "9eab7b8696e74668b91916faa52ab51c",
+      "id": "b2d7bd3084ab",
+      "priority": 1,
+      "group": "59fe457e4546"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "foggy",
+      "meaningInSourceLanguage": "有雾的",
+      "id": "5beb57cdffbb",
+      "priority": 0,
+      "group": "f15b882c21a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "foggy",
+      "meaning": "有雾的",
+      "audio": "9298476069704eb0afeda73bc15eac2c",
+      "id": "ed68b1d9ce89",
+      "priority": 1,
+      "group": "f15b882c21a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stormy",
+      "meaningInSourceLanguage": "暴风雨的",
+      "id": "31823d99519f",
+      "priority": 0,
+      "group": "43182ee04fcc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stormy",
+      "meaning": "暴风雨的",
+      "audio": "3b4e5ca7de994d2caf9ec89761d9d443",
+      "id": "5725538ae0a7",
+      "priority": 1,
+      "group": "43182ee04fcc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hot",
+      "meaningInSourceLanguage": "热的",
+      "id": "1f6417802a4c",
+      "priority": 0,
+      "group": "1261cd18a401"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hot",
+      "meaning": "热的",
+      "audio": "24c00b45fb1f42ebad7737f2f7285b23",
+      "id": "a556b66e94f2",
+      "priority": 1,
+      "group": "1261cd18a401"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cold",
+      "meaningInSourceLanguage": "冷的",
+      "id": "b0369779739e",
+      "priority": 0,
+      "group": "978770d49e00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cold",
+      "meaning": "冷的",
+      "audio": "86fcef280faf4e71a0d9a7776e12d081",
+      "id": "9b57cf4d2490",
+      "priority": 1,
+      "group": "978770d49e00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "warm",
+      "meaningInSourceLanguage": "温暖的",
+      "id": "d1452dd42205",
+      "priority": 0,
+      "group": "a551fd4ec8ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "warm",
+      "meaning": "温暖的",
+      "audio": "f1c1245ab9b24ec1829629066e263e13",
+      "id": "72b29674cb72",
+      "priority": 1,
+      "group": "a551fd4ec8ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cool",
+      "meaningInSourceLanguage": "凉爽的",
+      "id": "de91c7783c96",
+      "priority": 0,
+      "group": "a8621152f95b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cool",
+      "meaning": "凉爽的",
+      "audio": "9407dcc58de642d7b79859eaa80eb0c0",
+      "id": "e96380a99210",
+      "priority": 1,
+      "group": "a8621152f95b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "humid",
+      "meaningInSourceLanguage": "潮湿的",
+      "id": "31b08e624109",
+      "priority": 0,
+      "group": "de206a4b6510"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "humid",
+      "meaning": "潮湿的",
+      "audio": "5415b4caa5d3471389d621e94bc12a9e",
+      "id": "922ddf85a396",
+      "priority": 1,
+      "group": "de206a4b6510"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dry",
+      "meaningInSourceLanguage": "干燥的",
+      "id": "d529248a103f",
+      "priority": 0,
+      "group": "f6ed78542322"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dry",
+      "meaning": "干燥的",
+      "audio": "43f2cc5ca73f4d12b14dab1c5ccc124b",
+      "id": "41dd85cf94ab",
+      "priority": 1,
+      "group": "f6ed78542322"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "temperature",
+      "meaningInSourceLanguage": "温度",
+      "id": "70d39349a9d3",
+      "priority": 0,
+      "group": "3be23c0bbdba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temperature",
+      "meaning": "温度",
+      "audio": "ac21e15fdf214f21a493ae6056cd986d",
+      "id": "cbd2988310b2",
+      "priority": 1,
+      "group": "3be23c0bbdba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "forecast",
+      "meaningInSourceLanguage": "天气预报",
+      "id": "135bdae0a910",
+      "priority": 0,
+      "group": "599036df4238"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "forecast",
+      "meaning": "天气预报",
+      "audio": "5120fd6810e14c7a9e9f203679861c48",
+      "id": "c7d6e8379d08",
+      "priority": 1,
+      "group": "599036df4238"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rainbow",
+      "meaningInSourceLanguage": "彩虹",
+      "id": "d5895395ad22",
+      "priority": 0,
+      "group": "fa5fe5e05918"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rainbow",
+      "meaning": "彩虹",
+      "audio": "7d186941c78d4b5dac9e8a4b6f2650ef",
+      "id": "3da289b12379",
+      "priority": 1,
+      "group": "fa5fe5e05918"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thunder",
+      "meaningInSourceLanguage": "雷声",
+      "id": "890b5c7caf51",
+      "priority": 0,
+      "group": "06f4c534d58a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thunder",
+      "meaning": "雷声",
+      "audio": "d9d553e7ea8d44f391db6a73cc130691",
+      "id": "0aa1b3e2ddd8",
+      "priority": 1,
+      "group": "06f4c534d58a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lightning",
+      "meaningInSourceLanguage": "闪电",
+      "id": "70ef056251d5",
+      "priority": 0,
+      "group": "1d26b2f89bb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lightning",
+      "meaning": "闪电",
+      "audio": "5200b02362894be0ae400fdf53e3d19f",
+      "id": "09821946d317",
+      "priority": 1,
+      "group": "1d26b2f89bb7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flood",
+      "meaningInSourceLanguage": "洪水",
+      "id": "9483b20c5e42",
+      "priority": 0,
+      "group": "2bf056d67103"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flood",
+      "meaning": "洪水",
+      "audio": "d0fd56cf20fd47d39e468299278e6fbf",
+      "id": "cab388835d3a",
+      "priority": 1,
+      "group": "2bf056d67103"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drought",
+      "meaningInSourceLanguage": "干旱",
+      "id": "ea250c53cee7",
+      "priority": 0,
+      "group": "17bae41b8910"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drought",
+      "meaning": "干旱",
+      "audio": "c04d70831c9c43f4898bc422d0006d28",
+      "id": "bdaa7163d66d",
+      "priority": 1,
+      "group": "17bae41b8910"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hurricane",
+      "meaningInSourceLanguage": "飓风",
+      "id": "e16f083f4ee2",
+      "priority": 0,
+      "group": "cbaa5f128bff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hurricane",
+      "meaning": "飓风",
+      "audio": "7e2516ad6c6340b9b920a341634bbf12",
+      "id": "d2a33b96af35",
+      "priority": 1,
+      "group": "cbaa5f128bff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tornado",
+      "meaningInSourceLanguage": "龙卷风",
+      "id": "2b88159cad9b",
+      "priority": 0,
+      "group": "31f9b0a9f0c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tornado",
+      "meaning": "龙卷风",
+      "audio": "a19a750642e449eb85c63836c22f331d",
+      "id": "d889d806f725",
+      "priority": 1,
+      "group": "31f9b0a9f0c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "earthquake",
+      "meaningInSourceLanguage": "地震",
+      "id": "36614d321a97",
+      "priority": 0,
+      "group": "adcb15cbccc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "earthquake",
+      "meaning": "地震",
+      "audio": "886cbb8f9f834341abae1c4d8803cb1f",
+      "id": "bed7d25ce777",
+      "priority": 1,
+      "group": "adcb15cbccc7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tsunami",
+      "meaningInSourceLanguage": "海啸",
+      "id": "2044a1569bf3",
+      "priority": 0,
+      "group": "4e944c1dab71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tsunami",
+      "meaning": "海啸",
+      "audio": "cde7fc57599c417a95c58b18bbd67df7",
+      "id": "9ba70ffdc6d3",
+      "priority": 1,
+      "group": "4e944c1dab71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "volcano",
+      "meaningInSourceLanguage": "火山",
+      "id": "96bc272cc9f0",
+      "priority": 0,
+      "group": "596c9124413e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "volcano",
+      "meaning": "火山",
+      "audio": "cf8089cfd5cf4ac38d45682586f25054",
+      "id": "bd51c1037739",
+      "priority": 1,
+      "group": "596c9124413e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "typhoon",
+      "meaningInSourceLanguage": "台风",
+      "id": "e9d5269a341a",
+      "priority": 0,
+      "group": "2490bd65bf33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "typhoon",
+      "meaning": "台风",
+      "audio": "48e970c03c29425690f4b55f12b3fedc",
+      "id": "881c37d2fb39",
+      "priority": 1,
+      "group": "2490bd65bf33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monsoon",
+      "meaningInSourceLanguage": "季风",
+      "id": "aa338a92f236",
+      "priority": 0,
+      "group": "72204ec96110"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monsoon",
+      "meaning": "季风",
+      "audio": "00ed2a13b48b4482b0390718c15b7499",
+      "id": "c121c163a162",
+      "priority": 1,
+      "group": "72204ec96110"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "climate",
+      "meaningInSourceLanguage": "气候",
+      "id": "131c313ce646",
+      "priority": 0,
+      "group": "bccd6acabfe3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "climate",
+      "meaning": "气候",
+      "audio": "df93fbf5cf024e18a8b3799e49a88200",
+      "id": "6901c6a71559",
+      "priority": 1,
+      "group": "bccd6acabfe3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weather",
+      "meaningInSourceLanguage": "天气",
+      "id": "17fde1465684",
+      "priority": 0,
+      "group": "c25f92eca824"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weather",
+      "meaning": "天气",
+      "audio": "9117701827644d73af6874fa780e3cd6",
+      "id": "516ea01d49a4",
+      "priority": 1,
+      "group": "c25f92eca824"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "season",
+      "meaningInSourceLanguage": "季节",
+      "id": "83d39fcc5527",
+      "priority": 0,
+      "group": "332e6b75376f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "season",
+      "meaning": "季节",
+      "audio": "fc3a9537b936402eb8945ef6086a8556",
+      "id": "e9543d53aa7a",
+      "priority": 1,
+      "group": "332e6b75376f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tree",
+      "meaningInSourceLanguage": "树",
+      "id": "c5b5d300df5b",
+      "priority": 0,
+      "group": "54a26a1383da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tree",
+      "meaning": "树",
+      "audio": "f3dc0d2f61c947cda166071de70dada3",
+      "id": "66d99a340571",
+      "priority": 1,
+      "group": "54a26a1383da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flower",
+      "meaningInSourceLanguage": "花",
+      "id": "3036414c866c",
+      "priority": 0,
+      "group": "5f30d24d385a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flower",
+      "meaning": "花",
+      "audio": "5da8bfda629949cfb34055651505715a",
+      "id": "d48dd25d175b",
+      "priority": 1,
+      "group": "5f30d24d385a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grass",
+      "meaningInSourceLanguage": "草",
+      "id": "8eec0b9fdcd9",
+      "priority": 0,
+      "group": "74f944f355c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grass",
+      "meaning": "草",
+      "audio": "d59a1332e1d4493b95bf214d45df24bd",
+      "id": "f0aea6aa4bad",
+      "priority": 1,
+      "group": "74f944f355c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leaf",
+      "meaningInSourceLanguage": "叶子",
+      "id": "e20973e90402",
+      "priority": 0,
+      "group": "1749e7ce41ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leaf",
+      "meaning": "叶子",
+      "audio": "8ab5a2c5f2c74bb9b8cbbb63f3babbc6",
+      "id": "b1eb2c4e4b60",
+      "priority": 1,
+      "group": "1749e7ce41ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mountain",
+      "meaningInSourceLanguage": "山",
+      "id": "127a8f9d769d",
+      "priority": 0,
+      "group": "e14ac03ef34f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mountain",
+      "meaning": "山",
+      "audio": "954ba5a06a3d4e26a81aa32d7ca5a2fd",
+      "id": "07b6b701c710",
+      "priority": 1,
+      "group": "e14ac03ef34f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "river",
+      "meaningInSourceLanguage": "河流",
+      "id": "bbd5e6b355e4",
+      "priority": 0,
+      "group": "c2ec1dbbb632"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "river",
+      "meaning": "河流",
+      "audio": "05804648f2a543f0a5b8ae017282919b",
+      "id": "a5f17aee2281",
+      "priority": 1,
+      "group": "c2ec1dbbb632"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lake",
+      "meaningInSourceLanguage": "湖",
+      "id": "adcc9e3e6616",
+      "priority": 0,
+      "group": "f0200ee4be31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lake",
+      "meaning": "湖",
+      "audio": "bda3e02259c74b468bbfb00102c16438",
+      "id": "6c144ab2f7c3",
+      "priority": 1,
+      "group": "f0200ee4be31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ocean",
+      "meaningInSourceLanguage": "海洋",
+      "id": "5c01602376af",
+      "priority": 0,
+      "group": "835655004593"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ocean",
+      "meaning": "海洋",
+      "audio": "5a1dd96b99be43c582e28a8dc5607126",
+      "id": "e296930afe48",
+      "priority": 1,
+      "group": "835655004593"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sea",
+      "meaningInSourceLanguage": "海",
+      "id": "232052742489",
+      "priority": 0,
+      "group": "0d4cefe2200f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sea",
+      "meaning": "海",
+      "audio": "55ec80d8630a4979be53519aa00f548c",
+      "id": "0c5005fc6f94",
+      "priority": 1,
+      "group": "0d4cefe2200f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "forest",
+      "meaningInSourceLanguage": "森林",
+      "id": "98b5a5e93c87",
+      "priority": 0,
+      "group": "525c430383c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "forest",
+      "meaning": "森林",
+      "audio": "dda47a27f8984958bd7ec604f76dd9df",
+      "id": "3f01664724b9",
+      "priority": 1,
+      "group": "525c430383c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "desert",
+      "meaningInSourceLanguage": "沙漠",
+      "id": "17779b79d223",
+      "priority": 0,
+      "group": "0662cb65da77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "desert",
+      "meaning": "沙漠",
+      "audio": "6e3d0f6526934ed5ac6631d52a1610a6",
+      "id": "9f4077374eb7",
+      "priority": 1,
+      "group": "0662cb65da77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "island",
+      "meaningInSourceLanguage": "岛屿",
+      "id": "4e7095e637b8",
+      "priority": 0,
+      "group": "dfb9ea5d947c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "island",
+      "meaning": "岛屿",
+      "audio": "bde12d2bf2724f5ea306ec20ed057d00",
+      "id": "58f9cc56d281",
+      "priority": 1,
+      "group": "dfb9ea5d947c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "valley",
+      "meaningInSourceLanguage": "山谷",
+      "id": "56f902caef68",
+      "priority": 0,
+      "group": "d5dcf89a300a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "valley",
+      "meaning": "山谷",
+      "audio": "c7e7b981ca7f43ca8725655ed57aa709",
+      "id": "d260db633b94",
+      "priority": 1,
+      "group": "d5dcf89a300a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hill",
+      "meaningInSourceLanguage": "小山",
+      "id": "bc70a20142a5",
+      "priority": 0,
+      "group": "9e0dc3819ae7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hill",
+      "meaning": "小山",
+      "audio": "b24b0feffe0a48d5be99f8cb5ebf11c2",
+      "id": "a54dd0164ce9",
+      "priority": 1,
+      "group": "9e0dc3819ae7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waterfall",
+      "meaningInSourceLanguage": "瀑布",
+      "id": "ecf6548bae48",
+      "priority": 0,
+      "group": "2e8e70841541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waterfall",
+      "meaning": "瀑布",
+      "audio": "40b61117bfbc44499bd633026469811a",
+      "id": "d96e4e06a9b9",
+      "priority": 1,
+      "group": "2e8e70841541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cave",
+      "meaningInSourceLanguage": "洞穴",
+      "id": "d41b57234b28",
+      "priority": 0,
+      "group": "62eeb9374e80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cave",
+      "meaning": "洞穴",
+      "audio": "dc98613be818422ab9553f524a088cb3",
+      "id": "d005b09859af",
+      "priority": 1,
+      "group": "62eeb9374e80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beach",
+      "meaningInSourceLanguage": "海滩",
+      "id": "d269d4ad3729",
+      "priority": 0,
+      "group": "fbec7f064089"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beach",
+      "meaning": "海滩",
+      "audio": "2ed5f07aaa5343d7bd6c3df4298da02b",
+      "id": "a021a952f793",
+      "priority": 1,
+      "group": "fbec7f064089"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coast",
+      "meaningInSourceLanguage": "海岸",
+      "id": "f77937befac1",
+      "priority": 0,
+      "group": "a9f6a49b598d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coast",
+      "meaning": "海岸",
+      "audio": "305a6ecd27d7402f8d195ec4a72ecb5a",
+      "id": "923290c07615",
+      "priority": 1,
+      "group": "a9f6a49b598d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "field",
+      "meaningInSourceLanguage": "田野",
+      "id": "0b669cdebca1",
+      "priority": 0,
+      "group": "c5b406aa68f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "field",
+      "meaning": "田野",
+      "audio": "519aa257e06845a6954073da383f30ef",
+      "id": "ea3b33cbad98",
+      "priority": 1,
+      "group": "c5b406aa68f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "garden",
+      "meaningInSourceLanguage": "花园",
+      "id": "0bc7d43abb4a",
+      "priority": 0,
+      "group": "23609fc8684e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garden",
+      "meaning": "花园",
+      "audio": "cc59c58c13234de8ad755c8f131e819f",
+      "id": "9a98316f249c",
+      "priority": 1,
+      "group": "23609fc8684e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "park",
+      "meaningInSourceLanguage": "公园",
+      "id": "9a07ee44d0cd",
+      "priority": 0,
+      "group": "8b0f7c0763d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "park",
+      "meaning": "公园",
+      "audio": "56bfd456d5534a2d97c9be8a6ec44f33",
+      "id": "a93cf14da25c",
+      "priority": 1,
+      "group": "8b0f7c0763d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sky",
+      "meaningInSourceLanguage": "天空",
+      "id": "216c506ab946",
+      "priority": 0,
+      "group": "bd126758a4ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sky",
+      "meaning": "天空",
+      "audio": "80fa3929a6e44fff9b7b2d317adf7595",
+      "id": "606964de3490",
+      "priority": 1,
+      "group": "bd126758a4ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cloud",
+      "meaningInSourceLanguage": "云",
+      "id": "b57a8c7b6f5e",
+      "priority": 0,
+      "group": "1c12ae0305aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cloud",
+      "meaning": "云",
+      "audio": "f4ed880fea1a4f11b6144b29fa63b968",
+      "id": "bf28d2834824",
+      "priority": 1,
+      "group": "1c12ae0305aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rain",
+      "meaningInSourceLanguage": "雨",
+      "id": "2df3a6101b33",
+      "priority": 0,
+      "group": "63cd82d8d327"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rain",
+      "meaning": "雨",
+      "audio": "2c73fb539d45449582f34b3a4425a1e9",
+      "id": "0260e97c9403",
+      "priority": 1,
+      "group": "63cd82d8d327"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "snow",
+      "meaningInSourceLanguage": "雪",
+      "id": "35fa7e7aab3e",
+      "priority": 0,
+      "group": "446f2740da75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snow",
+      "meaning": "雪",
+      "audio": "d13415037db243238b2df0cb32444102",
+      "id": "a30a778498a4",
+      "priority": 1,
+      "group": "446f2740da75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ice",
+      "meaningInSourceLanguage": "冰",
+      "id": "ff34c749cc99",
+      "priority": 0,
+      "group": "a1970f0db3ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ice",
+      "meaning": "冰",
+      "audio": "9742cabd5d4441de9ac63352a251242a",
+      "id": "2345aa389eb0",
+      "priority": 1,
+      "group": "a1970f0db3ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wind",
+      "meaningInSourceLanguage": "风",
+      "id": "907d76a13234",
+      "priority": 0,
+      "group": "cc24f9f66352"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wind",
+      "meaning": "风",
+      "audio": "2573a3a4ff2640429593d51b32534a54",
+      "id": "2743b983455b",
+      "priority": 1,
+      "group": "cc24f9f66352"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "air",
+      "meaningInSourceLanguage": "空气",
+      "id": "111e94acf807",
+      "priority": 0,
+      "group": "bcb90b9c2f43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "air",
+      "meaning": "空气",
+      "audio": "a4b2f291f1354726b1ec7ed4aecd32c9",
+      "id": "23bda6b7fb37",
+      "priority": 1,
+      "group": "bcb90b9c2f43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sun",
+      "meaningInSourceLanguage": "太阳",
+      "id": "f09fda93a1d5",
+      "priority": 0,
+      "group": "20c040f28c2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sun",
+      "meaning": "太阳",
+      "audio": "694c42ebf6b74bd2b0c23380d555d745",
+      "id": "87c3c3328b4b",
+      "priority": 1,
+      "group": "20c040f28c2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "moon",
+      "meaningInSourceLanguage": "月亮",
+      "id": "cf091a004d3d",
+      "priority": 0,
+      "group": "ba6e96a2f48f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "moon",
+      "meaning": "月亮",
+      "audio": "b5761e6a7d584e19875dec26a88a5322",
+      "id": "b6c8d7be6814",
+      "priority": 1,
+      "group": "ba6e96a2f48f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "star",
+      "meaningInSourceLanguage": "星星",
+      "id": "d7b37c94d116",
+      "priority": 0,
+      "group": "9797e3f7c994"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "star",
+      "meaning": "星星",
+      "audio": "88f86da0c1e14076a2f0ed8aa611cc18",
+      "id": "4a4d9493ecec",
+      "priority": 1,
+      "group": "9797e3f7c994"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "planet",
+      "meaningInSourceLanguage": "行星",
+      "id": "6a79d4db5b31",
+      "priority": 0,
+      "group": "04da228efd78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "planet",
+      "meaning": "行星",
+      "audio": "c1c15f3b967b48989e29a2fa3cace503",
+      "id": "41743e8c40b2",
+      "priority": 1,
+      "group": "04da228efd78"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "earth",
+      "meaningInSourceLanguage": "地球",
+      "id": "d53832692b71",
+      "priority": 0,
+      "group": "bbed8642e09a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "earth",
+      "meaning": "地球",
+      "audio": "83585c0a3a134b17b346bea1b4f398f9",
+      "id": "52a4a979aaa1",
+      "priority": 1,
+      "group": "bbed8642e09a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fire",
+      "meaningInSourceLanguage": "火",
+      "id": "720edf2a70b2",
+      "priority": 0,
+      "group": "59a8e22ecf17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fire",
+      "meaning": "火",
+      "audio": "bc377f443fa348ed8921db0ac0bbbbe7",
+      "id": "e944cbc8f3f0",
+      "priority": 1,
+      "group": "59a8e22ecf17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "water",
+      "meaningInSourceLanguage": "水",
+      "id": "a241cac719b8",
+      "priority": 0,
+      "group": "de0c48784f96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "water",
+      "meaning": "水",
+      "audio": "d314c10f97a4481e8664472314663316",
+      "id": "e9df7a3a215e",
+      "priority": 1,
+      "group": "de0c48784f96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stone",
+      "meaningInSourceLanguage": "石头",
+      "id": "f926dcbef115",
+      "priority": 0,
+      "group": "cf6dabf51211"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stone",
+      "meaning": "石头",
+      "audio": "ad03af48cd614cad8b9d6fa8a5ade17e",
+      "id": "5dbf1dd14cd0",
+      "priority": 1,
+      "group": "cf6dabf51211"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sand",
+      "meaningInSourceLanguage": "沙子",
+      "id": "58dd9f08d916",
+      "priority": 0,
+      "group": "8c73ea9847e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sand",
+      "meaning": "沙子",
+      "audio": "04957e76f039455987258ab4faa5acf4",
+      "id": "f2d48ddab89f",
+      "priority": 1,
+      "group": "8c73ea9847e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soil",
+      "meaningInSourceLanguage": "土壤",
+      "id": "d9d5e87eef8d",
+      "priority": 0,
+      "group": "02c6b8f24039"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soil",
+      "meaning": "土壤",
+      "audio": "84a9980367834106a75f3a60c9ae327a",
+      "id": "517a30b4f3ad",
+      "priority": 1,
+      "group": "02c6b8f24039"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mud",
+      "meaningInSourceLanguage": "泥",
+      "id": "a21ad3ad1842",
+      "priority": 0,
+      "group": "c00b93a16586"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mud",
+      "meaning": "泥",
+      "audio": "c31862cc3e414ac69bd7bef2e9e7a5c5",
+      "id": "10f703cf5aed",
+      "priority": 1,
+      "group": "c00b93a16586"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "environment",
+      "meaningInSourceLanguage": "环境",
+      "id": "0b08c7f12628",
+      "priority": 0,
+      "group": "b91afa76cbb0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "environment",
+      "meaning": "环境",
+      "audio": "d7df0ff2803f4e6da68d335ba01c944b",
+      "id": "066fb543817f",
+      "priority": 1,
+      "group": "b91afa76cbb0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pollution",
+      "meaningInSourceLanguage": "污染",
+      "id": "4cfa1139571e",
+      "priority": 0,
+      "group": "69f1cf019196"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pollution",
+      "meaning": "污染",
+      "audio": "cf1796b3d1374ed5993c86c2744714f5",
+      "id": "b7ff85bcdf8a",
+      "priority": 1,
+      "group": "69f1cf019196"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recycle",
+      "meaningInSourceLanguage": "回收",
+      "id": "530eaf79e220",
+      "priority": 0,
+      "group": "584b9d3a135f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recycle",
+      "meaning": "回收",
+      "audio": "0158ec5f909a499b9482145d648c5eb2",
+      "id": "46167337b9a3",
+      "priority": 1,
+      "group": "584b9d3a135f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conservation",
+      "meaningInSourceLanguage": "保护",
+      "id": "8858e3d84081",
+      "priority": 0,
+      "group": "22e22b02b026"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conservation",
+      "meaning": "保护",
+      "audio": "41e73fba4b5b4d39aadbac225c9e23b7",
+      "id": "29dc96b6cf95",
+      "priority": 1,
+      "group": "22e22b02b026"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ecosystem",
+      "meaningInSourceLanguage": "生态系统",
+      "id": "5dfe3029df19",
+      "priority": 0,
+      "group": "3d453ac00a6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ecosystem",
+      "meaning": "生态系统",
+      "audio": "b858396fee1146d5bac482422b1f11a0",
+      "id": "8ae974f6a307",
+      "priority": 1,
+      "group": "3d453ac00a6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "species",
+      "meaningInSourceLanguage": "物种",
+      "id": "a88bba7b88f7",
+      "priority": 0,
+      "group": "5df408c33387"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "species",
+      "meaning": "物种",
+      "audio": "6f51e28be0094d61bf8a203890df99a0",
+      "id": "6b1365de56e0",
+      "priority": 1,
+      "group": "5df408c33387"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "extinction",
+      "meaningInSourceLanguage": "灭绝",
+      "id": "fbd182f3b40b",
+      "priority": 0,
+      "group": "812d5da4570e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "extinction",
+      "meaning": "灭绝",
+      "audio": "c7f4fad0051742e5af17d29df6449a4f",
+      "id": "6c785f7d282e",
+      "priority": 1,
+      "group": "812d5da4570e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wildlife",
+      "meaningInSourceLanguage": "野生动物",
+      "id": "27025a0993ac",
+      "priority": 0,
+      "group": "574f9f8a4ed6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wildlife",
+      "meaning": "野生动物",
+      "audio": "64efef514a2e4f779927fce93d1e14cd",
+      "id": "76fa9ebfc611",
+      "priority": 1,
+      "group": "574f9f8a4ed6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "habitat",
+      "meaningInSourceLanguage": "栖息地",
+      "id": "f2cd540f184c",
+      "priority": 0,
+      "group": "221e5be20f75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "habitat",
+      "meaning": "栖息地",
+      "audio": "fc69264bcadf4ae4bb2d72804908f2c6",
+      "id": "cfe26c14d319",
+      "priority": 1,
+      "group": "221e5be20f75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "energy",
+      "meaningInSourceLanguage": "能量",
+      "id": "f99b631cf9a7",
+      "priority": 0,
+      "group": "7c810a12115f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "energy",
+      "meaning": "能量",
+      "audio": "c733b214ef8f410691ec336423f99931",
+      "id": "b725d88626e1",
+      "priority": 1,
+      "group": "7c810a12115f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solar",
+      "meaningInSourceLanguage": "太阳能的",
+      "id": "534774460025",
+      "priority": 0,
+      "group": "b0751719da76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solar",
+      "meaning": "太阳能的",
+      "audio": "6afca9adb9474bc1a398dcf6f6bb5566",
+      "id": "f2fbee4d4d73",
+      "priority": 1,
+      "group": "b0751719da76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wind power",
+      "meaningInSourceLanguage": "风能",
+      "id": "925271fbf7a8",
+      "priority": 0,
+      "group": "cfdd79bec7e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wind power",
+      "meaning": "风能",
+      "audio": "30e7fb175a5149e89b7a12a19debc342",
+      "id": "0f4db2df87af",
+      "priority": 1,
+      "group": "cfdd79bec7e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "renewable",
+      "meaningInSourceLanguage": "可再生的",
+      "id": "2ce792a20d84",
+      "priority": 0,
+      "group": "91dfa9515bff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "renewable",
+      "meaning": "可再生的",
+      "audio": "b0c10684c9a6487ca18321fab04fffd4",
+      "id": "ad177b03b672",
+      "priority": 1,
+      "group": "91dfa9515bff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sustainable",
+      "meaningInSourceLanguage": "可持续的",
+      "id": "4ad6ba04ec33",
+      "priority": 0,
+      "group": "d511e4a8a723"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sustainable",
+      "meaning": "可持续的",
+      "audio": "be1ed67ba60e4118a936c122f8b389ed",
+      "id": "b1a389c8e621",
+      "priority": 1,
+      "group": "d511e4a8a723"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "global warming",
+      "meaningInSourceLanguage": "全球变暖",
+      "id": "e405ea2b6a93",
+      "priority": 0,
+      "group": "5af90c94b6fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "global warming",
+      "meaning": "全球变暖",
+      "audio": "7c5feff9bda14fed91818b7f7a74fd2f",
+      "id": "c348ac61daad",
+      "priority": 1,
+      "group": "5af90c94b6fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "greenhouse",
+      "meaningInSourceLanguage": "温室",
+      "id": "2c6450efa3b6",
+      "priority": 0,
+      "group": "abc2701a9b34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "greenhouse",
+      "meaning": "温室",
+      "audio": "74b562d93df3411380e5bb37b1d39703",
+      "id": "5668e97ff163",
+      "priority": 1,
+      "group": "abc2701a9b34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "carbon dioxide",
+      "meaningInSourceLanguage": "二氧化碳",
+      "id": "5356d5d33cb1",
+      "priority": 0,
+      "group": "c4a6e0e24364"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carbon dioxide",
+      "meaning": "二氧化碳",
+      "audio": "9e95cfb4c0ff414da6c045d257577c46",
+      "id": "641dafcefc29",
+      "priority": 1,
+      "group": "c4a6e0e24364"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oxygen",
+      "meaningInSourceLanguage": "氧气",
+      "id": "ba79e87052e9",
+      "priority": 0,
+      "group": "eebefcf21156"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oxygen",
+      "meaning": "氧气",
+      "audio": "3b582c3c489d44da98e15e32fbeadfdd",
+      "id": "63a7666e616a",
+      "priority": 1,
+      "group": "eebefcf21156"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nitrogen",
+      "meaningInSourceLanguage": "氮气",
+      "id": "313b2fc9c75f",
+      "priority": 0,
+      "group": "6720289fbdb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nitrogen",
+      "meaning": "氮气",
+      "audio": "f85fbc5dd4bf49d99e8f859f73a027e5",
+      "id": "b400d83049e1",
+      "priority": 1,
+      "group": "6720289fbdb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "atmosphere",
+      "meaningInSourceLanguage": "大气",
+      "id": "e83b30fae3af",
+      "priority": 0,
+      "group": "43916db1371c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "atmosphere",
+      "meaning": "大气",
+      "audio": "f633fca2fa1c4004b83609ac31b6b82a",
+      "id": "8aa887b026f4",
+      "priority": 1,
+      "group": "43916db1371c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "breeze",
+      "meaningInSourceLanguage": "微风",
+      "id": "120b4ea7fe18",
+      "priority": 0,
+      "group": "e06ae8d6cdbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "breeze",
+      "meaning": "微风",
+      "audio": "2cd83c1a6e564c8fbe0e6ba33cf841ee",
+      "id": "e65bf7ba5579",
+      "priority": 1,
+      "group": "e06ae8d6cdbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gale",
+      "meaningInSourceLanguage": "大风",
+      "id": "8570b7b1a896",
+      "priority": 0,
+      "group": "72292c19aefd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gale",
+      "meaning": "大风",
+      "audio": "cd74a269562a496287aa846b232fe4ad",
+      "id": "f86168044cb1",
+      "priority": 1,
+      "group": "72292c19aefd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gust",
+      "meaningInSourceLanguage": "阵风",
+      "id": "2b328e099645",
+      "priority": 0,
+      "group": "9afaf0219e54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gust",
+      "meaning": "阵风",
+      "audio": "4f67c80898f7419e95480f91525d6c84",
+      "id": "7385596e24c9",
+      "priority": 1,
+      "group": "9afaf0219e54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drizzle",
+      "meaningInSourceLanguage": "毛毛雨",
+      "id": "45dedead1c22",
+      "priority": 0,
+      "group": "f13d246e5a5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drizzle",
+      "meaning": "毛毛雨",
+      "audio": "dcf285878051441f8c446ed39ab10cf0",
+      "id": "7f1a6c466560",
+      "priority": 1,
+      "group": "f13d246e5a5d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "downpour",
+      "meaningInSourceLanguage": "倾盆大雨",
+      "id": "08db12fdede7",
+      "priority": 0,
+      "group": "031cfea67d66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "downpour",
+      "meaning": "倾盆大雨",
+      "audio": "2eaeceea153f415eba234f7017d64bf0",
+      "id": "413db9db0ffa",
+      "priority": 1,
+      "group": "031cfea67d66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shower",
+      "meaningInSourceLanguage": "阵雨",
+      "id": "2038fb4d8dcf",
+      "priority": 0,
+      "group": "d9850d7dd238"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shower",
+      "meaning": "阵雨",
+      "audio": "ef7c6f8f82ac4b4e9fbecdd05bbc7b41",
+      "id": "3c0aa6151acc",
+      "priority": 1,
+      "group": "d9850d7dd238"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hail",
+      "meaningInSourceLanguage": "冰雹",
+      "id": "1b89afbc62f6",
+      "priority": 0,
+      "group": "6b2355b3e3f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hail",
+      "meaning": "冰雹",
+      "audio": "1d9639a299394d1a8828ffb6d9b3a737",
+      "id": "71ce6de31938",
+      "priority": 1,
+      "group": "6b2355b3e3f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sleet",
+      "meaningInSourceLanguage": "雨夹雪",
+      "id": "0beb4693f874",
+      "priority": 0,
+      "group": "91c534fd4950"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sleet",
+      "meaning": "雨夹雪",
+      "audio": "24ffa38acee64f958b4ba0e9003dd78e",
+      "id": "a7edc3eab3ec",
+      "priority": 1,
+      "group": "91c534fd4950"
+    }
+  ]
+}

@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - o bilhete: 票
-    - a partida: 出发
-    - a chegada: 到达
     - o aeroporto: 机场
-    - o visto: 签证
-    - ida e volta: 往返
-    - o passaporte: 护照
-    - a plataforma: 站台
     - a alfândega: 海关
     - só ida: 单程
+    - o visto: 签证
+    - a plataforma: 站台
+    - o bilhete: 票
+    - a chegada: 到达
+    - a partida: 出发
+    - ida e volta: 往返
+    - o passaporte: 护照
   Chinese:
-    - 单程: só ida
-    - 出发: a partida
-    - 海关: a alfândega
-    - 票: o bilhete
-    - 签证: o visto
-    - 到达: a chegada
     - 机场: o aeroporto
-    - 护照: o passaporte
     - 往返: ida e volta
+    - 出发: a partida
+    - 到达: a chegada
+    - 护照: o passaporte
+    - 海关: a alfândega
+    - 单程: só ida
+    - 签证: o visto
     - 站台: a plataforma
+    - 票: o bilhete

@@ -1,0 +1,720 @@
+{
+  "id": "8daf42ff9791",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "computer",
+      "meaningInSourceLanguage": "电脑",
+      "id": "87ad654c66fd",
+      "priority": 0,
+      "group": "755c3c026cb8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "computer",
+      "meaning": "电脑",
+      "audio": "35c991f93510457ee152b6ad03ab66989d4af59f7b05fb78295bc7ea1e03d338",
+      "id": "8e732f170f52",
+      "priority": 1,
+      "group": "755c3c026cb8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "laptop",
+      "meaningInSourceLanguage": "笔记本电脑",
+      "id": "9106ef23f6a4",
+      "priority": 0,
+      "group": "50aeeb104c5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "laptop",
+      "meaning": "笔记本电脑",
+      "audio": "8b48ec99fc2019166bbd6deb79697cada55e37e3520f7bc04727bee3219f069a",
+      "id": "905bc8db3ced",
+      "priority": 1,
+      "group": "50aeeb104c5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "desktop",
+      "meaningInSourceLanguage": "台式机",
+      "id": "7824ad411143",
+      "priority": 0,
+      "group": "f2a412fdc1b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "desktop",
+      "meaning": "台式机",
+      "audio": "2f0527897b4899a44a0118917d68ab56cf485841d9915bd2f18d09c77de0ad04",
+      "id": "dc803ba4fd3c",
+      "priority": 1,
+      "group": "f2a412fdc1b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tablet",
+      "meaningInSourceLanguage": "平板电脑",
+      "id": "b2948da3d639",
+      "priority": 0,
+      "group": "10c9e90f386e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tablet",
+      "meaning": "平板电脑",
+      "audio": "c07135b1b2ce9782369ae0da97cbc628ccb9a9cf19c32cf52b92d0d394443c71",
+      "id": "a80389512127",
+      "priority": 1,
+      "group": "10c9e90f386e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smartphone",
+      "meaningInSourceLanguage": "智能手机",
+      "id": "f8a74e2449f6",
+      "priority": 0,
+      "group": "b9ac6ecb6216"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smartphone",
+      "meaning": "智能手机",
+      "audio": "2336a4aa03e73d07048e70bd94ab52adb30bd3d7aecf2cdd07c9fc3d363b0c8b",
+      "id": "a32340865176",
+      "priority": 1,
+      "group": "b9ac6ecb6216"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monitor",
+      "meaningInSourceLanguage": "显示器",
+      "id": "68768a150884",
+      "priority": 0,
+      "group": "10f17aa1cff9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monitor",
+      "meaning": "显示器",
+      "audio": "748960aa18348612ecf50bd25c9b1b002f21e9dc4ba851f5683f1ef2667c0ac3",
+      "id": "96be006313a8",
+      "priority": 1,
+      "group": "10f17aa1cff9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "keyboard",
+      "meaningInSourceLanguage": "键盘",
+      "id": "ef061b0d5585",
+      "priority": 0,
+      "group": "9a1b8db0e1b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "keyboard",
+      "meaning": "键盘",
+      "audio": "addf3e989ada7e0189ac186f55b376adba07b1ffbb10a06c01a73dc8cb64772b",
+      "id": "252b7e2a5239",
+      "priority": 1,
+      "group": "9a1b8db0e1b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mouse",
+      "meaningInSourceLanguage": "鼠标",
+      "id": "4ac61bc84633",
+      "priority": 0,
+      "group": "dc6c4bb869ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mouse",
+      "meaning": "鼠标",
+      "audio": "9038d461e1f00aa9817407a94bb6b41a65f88050e55199d0bbfabe5349a5ba52",
+      "id": "ac5eefda1eb2",
+      "priority": 1,
+      "group": "dc6c4bb869ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "touchpad",
+      "meaningInSourceLanguage": "触摸板",
+      "id": "7a19aec0b790",
+      "priority": 0,
+      "group": "c5515a4ef16c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "touchpad",
+      "meaning": "触摸板",
+      "audio": "c71eafd55c8b30e8a3f73952c1cefa88bf38d817a45d6de7805e70bdf76cd2ec",
+      "id": "1db0d3491e95",
+      "priority": 1,
+      "group": "c5515a4ef16c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "screen",
+      "meaningInSourceLanguage": "屏幕",
+      "id": "302c8e6eb389",
+      "priority": 0,
+      "group": "1c20d3aee310"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "screen",
+      "meaning": "屏幕",
+      "audio": "77bfa905d36db0bab8ae0bf84c00290a2bbe562f71c19d5f1e44f6f8830b338b",
+      "id": "ae813d9021b2",
+      "priority": 1,
+      "group": "1c20d3aee310"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "touchscreen",
+      "meaningInSourceLanguage": "触摸屏",
+      "id": "1141ff47cb78",
+      "priority": 0,
+      "group": "21fd57cece0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "touchscreen",
+      "meaning": "触摸屏",
+      "audio": "4ebedbe88533dd496975e67f43e0d09c7e1ae7ae1a79af68defeee5b760c4e76",
+      "id": "e0b78ef990d7",
+      "priority": 1,
+      "group": "21fd57cece0d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speaker",
+      "meaningInSourceLanguage": "扬声器",
+      "id": "277cf77219d2",
+      "priority": 0,
+      "group": "4dae8019f3fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speaker",
+      "meaning": "扬声器",
+      "audio": "8a2470563041aac66134ec64da2657d9490c37f9661f21c7be5da279d81ab83f",
+      "id": "cd1656106ceb",
+      "priority": 1,
+      "group": "4dae8019f3fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "microphone",
+      "meaningInSourceLanguage": "麦克风",
+      "id": "c54ada2fce43",
+      "priority": 0,
+      "group": "a1b372e15564"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "microphone",
+      "meaning": "麦克风",
+      "audio": "8f34e8914e64db4f08ae284670e81423e6f1a2c0a0b65a19f8a09fb173aa5cd2",
+      "id": "d2364071f2f1",
+      "priority": 1,
+      "group": "a1b372e15564"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "webcam",
+      "meaningInSourceLanguage": "摄像头",
+      "id": "0451af197846",
+      "priority": 0,
+      "group": "1ba8b578dc54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "webcam",
+      "meaning": "摄像头",
+      "audio": "90252e887a6b977c77e371dc2e1cbc2f7ff434a3ce7819a69fdd4a6e938793d0",
+      "id": "74ed12e7c3a7",
+      "priority": 1,
+      "group": "1ba8b578dc54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "printer",
+      "meaningInSourceLanguage": "打印机",
+      "id": "c8f59166ef96",
+      "priority": 0,
+      "group": "1da708e35fb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "printer",
+      "meaning": "打印机",
+      "audio": "feefde0fe0ce5671dda93690ac00962957b694279b6bb92fcf7e6b696756aaca",
+      "id": "46170daebff2",
+      "priority": 1,
+      "group": "1da708e35fb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scanner",
+      "meaningInSourceLanguage": "扫描仪",
+      "id": "2345e676daff",
+      "priority": 0,
+      "group": "87b26e70f130"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scanner",
+      "meaning": "扫描仪",
+      "audio": "ce8f7b62f7c8e860f4d1639808a71a09f84b2acb30bd9c81271c6e3cd546ac6a",
+      "id": "332a57c8363e",
+      "priority": 1,
+      "group": "87b26e70f130"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "headphones",
+      "meaningInSourceLanguage": "耳机",
+      "id": "7dc2f8f388f0",
+      "priority": 0,
+      "group": "308288d9a596"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "headphones",
+      "meaning": "耳机",
+      "audio": "cc32bab0ad561665e49b8d283751c8dc4535b88e91437f218fbd4cfe0d0e2e0d",
+      "id": "bd25c1152162",
+      "priority": 1,
+      "group": "308288d9a596"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "USB drive",
+      "meaningInSourceLanguage": "U盘",
+      "id": "e029143d1f64",
+      "priority": 0,
+      "group": "c143796e4cf6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "USB drive",
+      "meaning": "U盘",
+      "audio": "4163a433bb3be3ec53ca685129d33f6445ceaf96aaf986568a89d8e3909d383e",
+      "id": "4ad3de1d9b50",
+      "priority": 1,
+      "group": "c143796e4cf6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hard drive",
+      "meaningInSourceLanguage": "硬盘",
+      "id": "a06e8cc72280",
+      "priority": 0,
+      "group": "09d23c780bed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hard drive",
+      "meaning": "硬盘",
+      "audio": "ed0da616c2d915cdae35f33add033f02a70a37c8024456a65e28c702bfe6914b",
+      "id": "dab26dbe05b6",
+      "priority": 1,
+      "group": "09d23c780bed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "SSD",
+      "meaningInSourceLanguage": "固态硬盘",
+      "id": "df4f1f40d05c",
+      "priority": 0,
+      "group": "16f8f99b70c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "SSD",
+      "meaning": "固态硬盘",
+      "audio": "0f23f28709e6c397ec9e51e5378aac12a2eb608ed6e6d9fedfc63c537e363ab1",
+      "id": "cc434585c74a",
+      "priority": 1,
+      "group": "16f8f99b70c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "RAM",
+      "meaningInSourceLanguage": "内存",
+      "id": "3481b8f92962",
+      "priority": 0,
+      "group": "4037393d14cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "RAM",
+      "meaning": "内存",
+      "audio": "cc6bf5837fc7853eb9bc2315827e55959b34545c18ad94ddf37aae1d47057d7a",
+      "id": "5db30527d68b",
+      "priority": 1,
+      "group": "4037393d14cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "processor",
+      "meaningInSourceLanguage": "处理器",
+      "id": "7d0a36b2c2d2",
+      "priority": 0,
+      "group": "1fcf27f2a3ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "processor",
+      "meaning": "处理器",
+      "audio": "1736c68b01612a5d054a794ff6c09e7fda8e95b40e1be2c5272d973c1d3d1b4e",
+      "id": "ce6f674b44da",
+      "priority": 1,
+      "group": "1fcf27f2a3ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "GPU",
+      "meaningInSourceLanguage": "显卡",
+      "id": "8f410136a48b",
+      "priority": 0,
+      "group": "f184abc3676e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "GPU",
+      "meaning": "显卡",
+      "audio": "bb95b733881d4c18c47206d423d94d2a628e09eb604adba5f34668e47f8a5c96",
+      "id": "d6129abd2b4e",
+      "priority": 1,
+      "group": "f184abc3676e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "motherboard",
+      "meaningInSourceLanguage": "主板",
+      "id": "965dde8463b1",
+      "priority": 0,
+      "group": "896549794ec8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "motherboard",
+      "meaning": "主板",
+      "audio": "b4813d5c5264f7092c1f18ca9f339c9548f24eff370f8d2bf5711cdeb0e9506d",
+      "id": "cff3b76125e3",
+      "priority": 1,
+      "group": "896549794ec8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "power supply",
+      "meaningInSourceLanguage": "电源",
+      "id": "ec7b149e66eb",
+      "priority": 0,
+      "group": "39df2c3be67c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "power supply",
+      "meaning": "电源",
+      "audio": "37bffcfca1b4151fbf043bc97187cc5c2bcdcc1690719397ef64d784ebe1489b",
+      "id": "bf6b549beb48",
+      "priority": 1,
+      "group": "39df2c3be67c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cooling fan",
+      "meaningInSourceLanguage": "散热风扇",
+      "id": "8e1bcb0e9c8f",
+      "priority": 0,
+      "group": "4d485a009e76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cooling fan",
+      "meaning": "散热风扇",
+      "audio": "23142452f420881c522b15784a129889751fa5114940f9e3cf9ff598751f4fc7",
+      "id": "6bba9f604e47",
+      "priority": 1,
+      "group": "4d485a009e76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "battery",
+      "meaningInSourceLanguage": "电池",
+      "id": "66b026a4af7a",
+      "priority": 0,
+      "group": "6fc128acb18f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "battery",
+      "meaning": "电池",
+      "audio": "1fd22a410d27b07b5969169869087ed44252f1ff39111327b429af49cff90769",
+      "id": "6e8cec554c7a",
+      "priority": 1,
+      "group": "6fc128acb18f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "charger",
+      "meaningInSourceLanguage": "充电器",
+      "id": "f972eedecec8",
+      "priority": 0,
+      "group": "c55b4b0374f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "charger",
+      "meaning": "充电器",
+      "audio": "ea98c1ac7da73a7463e6ba5d4f38beb9457f50466839b3f1d8d8984ba955cb5f",
+      "id": "d9a299be1999",
+      "priority": 1,
+      "group": "c55b4b0374f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cable",
+      "meaningInSourceLanguage": "数据线",
+      "id": "7f0eb878b662",
+      "priority": 0,
+      "group": "55b7ba81db86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cable",
+      "meaning": "数据线",
+      "audio": "1486c21cb5dd46090aeef8aef28767b30ec522ae274b73cf00ce68ab7913916b",
+      "id": "c76bddd65a54",
+      "priority": 1,
+      "group": "55b7ba81db86"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "adapter",
+      "meaningInSourceLanguage": "适配器",
+      "id": "d80a1b39b01b",
+      "priority": 0,
+      "group": "f3c5a30f1290"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "adapter",
+      "meaning": "适配器",
+      "audio": "2ed2462d55659eabc626bd5e557330b7035f50b650343c494905a7cd02299c77",
+      "id": "aa20e233f41f",
+      "priority": 1,
+      "group": "f3c5a30f1290"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "port",
+      "meaningInSourceLanguage": "端口",
+      "id": "6668672758b6",
+      "priority": 0,
+      "group": "b2409e9a9e5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "port",
+      "meaning": "端口",
+      "audio": "df30d08dde1c5366166b2c821e38d21a0981a1d0e76de8ea467e38329db0169f",
+      "id": "6ce8e6a3333b",
+      "priority": 1,
+      "group": "b2409e9a9e5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "USB port",
+      "meaningInSourceLanguage": "USB接口",
+      "id": "7d522c1e6d73",
+      "priority": 0,
+      "group": "1770bfdd5849"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "USB port",
+      "meaning": "USB接口",
+      "audio": "79bac024a231a778c970bd497f59a58bc54d8675f7f44075ecc85b684297c758",
+      "id": "c9bfedb8b4aa",
+      "priority": 1,
+      "group": "1770bfdd5849"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "HDMI",
+      "meaningInSourceLanguage": "高清接口",
+      "id": "20e9d82e45a3",
+      "priority": 0,
+      "group": "df7fabf389ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "HDMI",
+      "meaning": "高清接口",
+      "audio": "03bad7947632ce0e1fe8a3e6ffce2e6f09cc06a955e3360ff3b3e26373d4759b",
+      "id": "8e43db5a3495",
+      "priority": 1,
+      "group": "df7fabf389ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ethernet",
+      "meaningInSourceLanguage": "以太网",
+      "id": "a61e9f4bce7c",
+      "priority": 0,
+      "group": "e7c8385a3fed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ethernet",
+      "meaning": "以太网",
+      "audio": "26eba16b39299a38b49d82e726e793e44d93e52959761aedb2500eb66a938ffc",
+      "id": "e982d59854f4",
+      "priority": 1,
+      "group": "e7c8385a3fed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bluetooth",
+      "meaningInSourceLanguage": "蓝牙",
+      "id": "65682d739073",
+      "priority": 0,
+      "group": "02741e22d9b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bluetooth",
+      "meaning": "蓝牙",
+      "audio": "2943d09f0a6ef6f206a83c13d2a1057dd0df1b6c3d4bdd583f76f1d94da5919d",
+      "id": "b7388410c807",
+      "priority": 1,
+      "group": "02741e22d9b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "WiFi",
+      "meaningInSourceLanguage": "无线网络",
+      "id": "a78e690230bd",
+      "priority": 0,
+      "group": "954c2c633028"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "WiFi",
+      "meaning": "无线网络",
+      "audio": "8b53dcde4f46c7e4e1bc438f69271b2c13e4f2798a29b0092f307fe48c700b2e",
+      "id": "bbeafe3fe8ae",
+      "priority": 1,
+      "group": "954c2c633028"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "router",
+      "meaningInSourceLanguage": "路由器",
+      "id": "36380a286262",
+      "priority": 0,
+      "group": "7d95884d5933"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "router",
+      "meaning": "路由器",
+      "audio": "66f680c5e8c26215321a71af367f4c9c7638fe3876797fa48da7d651bdcbe8b8",
+      "id": "7f24a6cbcdfc",
+      "priority": 1,
+      "group": "7d95884d5933"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "modem",
+      "meaningInSourceLanguage": "调制解调器",
+      "id": "fae68bbfe7e4",
+      "priority": 0,
+      "group": "6ac1c0b95adf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "modem",
+      "meaning": "调制解调器",
+      "audio": "a4cff313595f643a4f17430c9b2f9e6613cf28803dff512da88e82afdd0f0ef9",
+      "id": "ae91efab458e",
+      "priority": 1,
+      "group": "6ac1c0b95adf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "server",
+      "meaningInSourceLanguage": "服务器",
+      "id": "59e824be7c34",
+      "priority": 0,
+      "group": "c80cd869c540"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "server",
+      "meaning": "服务器",
+      "audio": "cdc56c0ca0c292a106395364eefd75217319ef5589099d4e33713ffe4793a88d",
+      "id": "ba89316461b8",
+      "priority": 1,
+      "group": "c80cd869c540"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cloud",
+      "meaningInSourceLanguage": "云",
+      "id": "7422dafbb0cd",
+      "priority": 0,
+      "group": "f90382530e61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cloud",
+      "meaning": "云",
+      "audio": "701efef0922537928642a91f28686fd5ffec7b843271d8785f50df312012ca1f",
+      "id": "081668756c6a",
+      "priority": 1,
+      "group": "f90382530e61"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "data center",
+      "meaningInSourceLanguage": "数据中心",
+      "id": "7584dd070722",
+      "priority": 0,
+      "group": "d547a197cee2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "data center",
+      "meaning": "数据中心",
+      "audio": "2a27e1904af1674a5af5c30c13f55a6cffc5ed1f35aa94b76e864a247fe4cf39",
+      "id": "e80df494392c",
+      "priority": 1,
+      "group": "d547a197cee2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "network",
+      "meaningInSourceLanguage": "网络",
+      "id": "ae98c81c1183",
+      "priority": 0,
+      "group": "02ea1aec4cdb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "network",
+      "meaning": "网络",
+      "audio": "9936098795accc2cc9aa54285969e7fdb9ad2660703df5ab77b5a0b1d4fa7903",
+      "id": "3df29ddc9682",
+      "priority": 1,
+      "group": "02ea1aec4cdb"
+    }
+  ]
+}

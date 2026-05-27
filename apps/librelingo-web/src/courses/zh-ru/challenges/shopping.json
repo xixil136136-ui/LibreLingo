@@ -1,0 +1,482 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сколько это стоит?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "6998583b212d",
+      "priority": 0,
+      "group": "269485d9b0b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сколько это стоит?",
+      "meaning": "这个多少钱？",
+      "audio": "49fc371f9d986e9e850353072573aa051a22c0624c1ce2853531a062457ea0d9",
+      "id": "c8316b390b33",
+      "priority": 1,
+      "group": "269485d9b0b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это слишком дорого.",
+      "meaningInSourceLanguage": "太贵了。",
+      "id": "b472956198dc",
+      "priority": 0,
+      "group": "26b0cfc15371"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это слишком дорого.",
+      "meaning": "太贵了。",
+      "audio": "ef9bf1cd6c733095d73c16f2033d23eaec3802e60dda83ae2a6054284656f827",
+      "id": "f216fd768b66",
+      "priority": 1,
+      "group": "26b0cfc15371"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это хорошего качества.",
+      "meaningInSourceLanguage": "这个质量很好。",
+      "id": "9ad244c3686c",
+      "priority": 0,
+      "group": "f80057678fcb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это хорошего качества.",
+      "meaning": "这个质量很好。",
+      "audio": "5d1844d9e680e07685a75aec6a4a2d2ef41b639812f3ad968bf75f9953639f7f",
+      "id": "df9dbd72a012",
+      "priority": 1,
+      "group": "f80057678fcb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Магазин открыт?",
+      "meaningInSourceLanguage": "商店开门吗？",
+      "id": "bacac8256291",
+      "priority": 0,
+      "group": "eaf0e0f414a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Магазин открыт?",
+      "meaning": "商店开门吗？",
+      "audio": "33b2164beffce80cd935ba17987b985ee80e375f96946f9bcf8c6af2f76d17f7",
+      "id": "0280e59dd651",
+      "priority": 1,
+      "group": "eaf0e0f414a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сегодня закрыто.",
+      "meaningInSourceLanguage": "今天关门了。",
+      "id": "8ddea17ffe6c",
+      "priority": 0,
+      "group": "9971313301fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сегодня закрыто.",
+      "meaning": "今天关门了。",
+      "audio": "d37e86860d2b3bec056e0a8d1521c6f751cf82f0ae1e3b0bdea2f90c88f02eb0",
+      "id": "00c4ce733534",
+      "priority": 1,
+      "group": "9971313301fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можно вернуть это?",
+      "meaningInSourceLanguage": "能退货吗？",
+      "id": "e79d0c9acbda",
+      "priority": 0,
+      "group": "29c1abfdf35f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можно вернуть это?",
+      "meaning": "能退货吗？",
+      "audio": "4c7e561f7511d83324216742b58fe7dd3852b6b03a3c9391671871153638b957",
+      "id": "79fe080de6a1",
+      "priority": 1,
+      "group": "29c1abfdf35f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Магазин вон там.",
+      "meaningInSourceLanguage": "商店在那里。",
+      "id": "cfa2ceb6e92e",
+      "priority": 0,
+      "group": "b97dd5df2d66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Магазин вон там.",
+      "meaning": "商店在那里。",
+      "audio": "3261284113ca25e132c55786facedd8fd8a9c1e5525fd39b3d0fc11fae5b7e7e",
+      "id": "601f4cae1a56",
+      "priority": 1,
+      "group": "b97dd5df2d66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня нет денег.",
+      "meaningInSourceLanguage": "我没钱。",
+      "id": "056849f02490",
+      "priority": 0,
+      "group": "38bdd5f4107c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня нет денег.",
+      "meaning": "我没钱。",
+      "audio": "a90a8639ab38d4f9bba6306cb9d2b0d48ef4c033dc563db2e82356ff8898d61d",
+      "id": "7c0e4fc15530",
+      "priority": 1,
+      "group": "38bdd5f4107c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "магазин",
+      "meaningInSourceLanguage": "商店",
+      "id": "547f12ab16c3",
+      "priority": 0,
+      "group": "81caea935d4a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "магазин"
+      ],
+      "phrase": [
+        {
+          "word": "商店",
+          "definition": "магазин"
+        }
+      ],
+      "id": "28795e6f6ce4",
+      "priority": 1,
+      "group": "81caea935d4a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "магазин",
+      "meaning": "商店",
+      "audio": "d1f7fc89ed6fc44406af0eac5ee7a395e91ce49ec3ce4bc64c4875731fe641c9",
+      "id": "473a28cb71a2",
+      "priority": 1,
+      "group": "81caea935d4a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "цена",
+      "meaningInSourceLanguage": "价格",
+      "id": "d9e3ed187792",
+      "priority": 0,
+      "group": "988f5da0f12d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "цена"
+      ],
+      "phrase": [
+        {
+          "word": "价格",
+          "definition": "цена"
+        }
+      ],
+      "id": "4f08e72cf580",
+      "priority": 1,
+      "group": "988f5da0f12d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "цена",
+      "meaning": "价格",
+      "audio": "45c8f738da8e83e92a8ebac982f3fb7f7f0919e842bd5684f9c42ac8cfbd6600",
+      "id": "653b4061aebd",
+      "priority": 1,
+      "group": "988f5da0f12d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дорогой",
+      "meaningInSourceLanguage": "贵的",
+      "id": "15bf082dbdcf",
+      "priority": 0,
+      "group": "6f9a4941c865"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дорогой"
+      ],
+      "phrase": [
+        {
+          "word": "贵的",
+          "definition": "дорогой"
+        }
+      ],
+      "id": "20c0bb36c529",
+      "priority": 1,
+      "group": "6f9a4941c865"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дорогой",
+      "meaning": "贵的",
+      "audio": "1ca131c96bf6261b02cd628c5a5940d6366a0f11f1e7679c80d22a3b7cacb287",
+      "id": "1e83f6bda984",
+      "priority": 1,
+      "group": "6f9a4941c865"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дешёвый",
+      "meaningInSourceLanguage": "便宜的",
+      "id": "6ecd4d5312f6",
+      "priority": 0,
+      "group": "d27a54e32ece"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дешёвый"
+      ],
+      "phrase": [
+        {
+          "word": "便宜的",
+          "definition": "дешёвый"
+        }
+      ],
+      "id": "a41f003e0f27",
+      "priority": 1,
+      "group": "d27a54e32ece"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дешёвый",
+      "meaning": "便宜的",
+      "audio": "fe9f9742ca2c9e62fedb115ebee0bbc5400f7b4e42265b252ff741b24b29a73b",
+      "id": "7d586ea8efae",
+      "priority": 1,
+      "group": "d27a54e32ece"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "деньги",
+      "meaningInSourceLanguage": "钱",
+      "id": "5f4ecee148d7",
+      "priority": 0,
+      "group": "735f74fc16cc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "деньги"
+      ],
+      "phrase": [
+        {
+          "word": "钱",
+          "definition": "деньги"
+        }
+      ],
+      "id": "6e9ef39a0542",
+      "priority": 1,
+      "group": "735f74fc16cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "деньги",
+      "meaning": "钱",
+      "audio": "dd51d45c51c178095975bc39f34ec3a0be3affdafdc550c36429be49731c27b9",
+      "id": "efe07672856f",
+      "priority": 1,
+      "group": "735f74fc16cc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "качество",
+      "meaningInSourceLanguage": "质量",
+      "id": "0bf18fde9c08",
+      "priority": 0,
+      "group": "c6aef9aa36ec"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "качество"
+      ],
+      "phrase": [
+        {
+          "word": "质量",
+          "definition": "качество"
+        }
+      ],
+      "id": "83f18fefcbdb",
+      "priority": 1,
+      "group": "c6aef9aa36ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "качество",
+      "meaning": "质量",
+      "audio": "1cbf5474a92d34da66c92d24f1fd3b4e5b10455f0dd6d53e368d937ba3e2a557",
+      "id": "cbff2683fec8",
+      "priority": 1,
+      "group": "c6aef9aa36ec"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бренд",
+      "meaningInSourceLanguage": "品牌",
+      "id": "c8e7f8d571f7",
+      "priority": 0,
+      "group": "abca36a48c81"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бренд"
+      ],
+      "phrase": [
+        {
+          "word": "品牌",
+          "definition": "бренд"
+        }
+      ],
+      "id": "60511c597dfa",
+      "priority": 1,
+      "group": "abca36a48c81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бренд",
+      "meaning": "品牌",
+      "audio": "17daa8eeeb024a55fe8068ba6470e1d1c9244a408a383148e219f5a0da664d5d",
+      "id": "e184ee3a18ea",
+      "priority": 1,
+      "group": "abca36a48c81"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "возврат",
+      "meaningInSourceLanguage": "退货",
+      "id": "452e8bd5bacc",
+      "priority": 0,
+      "group": "3a229f58d178"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "возврат"
+      ],
+      "phrase": [
+        {
+          "word": "退货",
+          "definition": "возврат"
+        }
+      ],
+      "id": "e143cfc23fdf",
+      "priority": 1,
+      "group": "3a229f58d178"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "возврат",
+      "meaning": "退货",
+      "audio": "84849e0bcdf413d9dc245eb743ec9a28e59f5da498d9b79d29c62212f6b72ad0",
+      "id": "88347e6ddbc5",
+      "priority": 1,
+      "group": "3a229f58d178"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "открыто",
+      "meaningInSourceLanguage": "营业",
+      "id": "60416a18ba54",
+      "priority": 0,
+      "group": "e15084388340"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "открыто"
+      ],
+      "phrase": [
+        {
+          "word": "营业",
+          "definition": "открыто"
+        }
+      ],
+      "id": "8a168bd508d0",
+      "priority": 1,
+      "group": "e15084388340"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "открыто",
+      "meaning": "营业",
+      "audio": "f880116c5f4845d81e92f0a40f3fe7550505ae81b04440fd1781a808cd1a0c8c",
+      "id": "c6a09dfee5f3",
+      "priority": 1,
+      "group": "e15084388340"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "закрыто",
+      "meaningInSourceLanguage": "关门",
+      "id": "376336fdf41d",
+      "priority": 0,
+      "group": "7e0856a84e24"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "закрыто"
+      ],
+      "phrase": [
+        {
+          "word": "关门",
+          "definition": "закрыто"
+        }
+      ],
+      "id": "539e6f39cb66",
+      "priority": 1,
+      "group": "7e0856a84e24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "закрыто",
+      "meaning": "关门",
+      "audio": "f6ef2f9fa32d6000e2fd478d6bfa8388d2192955cb824e89885ed448172edbd7",
+      "id": "00cd6cf7fd96",
+      "priority": 1,
+      "group": "7e0856a84e24"
+    }
+  ]
+}

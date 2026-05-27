@@ -1,0 +1,1077 @@
+{
+  "id": "f9988ba966ce",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "doctor",
+      "meaningInSourceLanguage": "医生",
+      "id": "b4bc1dce47a2",
+      "priority": 0,
+      "group": "ed4577cda211"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doctor",
+      "meaning": "医生",
+      "audio": "89dca22eb3908202938984a8be2fe48f0d3c05a1d2138677ea2e1a70ac9efbe5",
+      "id": "bab8ce4fa3ef",
+      "priority": 1,
+      "group": "ed4577cda211"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "teacher",
+      "meaningInSourceLanguage": "老师",
+      "id": "4335a9da3454",
+      "priority": 0,
+      "group": "545e41193ad0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teacher",
+      "meaning": "老师",
+      "audio": "4cb5405cf84bcc1eee2b271986e7a37b7eb9a3ea8053917b15908907c567a144",
+      "id": "b895490b9126",
+      "priority": 1,
+      "group": "545e41193ad0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "engineer",
+      "meaningInSourceLanguage": "工程师",
+      "id": "0aee55dff366",
+      "priority": 0,
+      "group": "a6c8e770ce3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "engineer",
+      "meaning": "工程师",
+      "audio": "8a2a3f5388b5fcab565dde0a06d902d05c0ffef767761452be249662b484921c",
+      "id": "6dfe022addb6",
+      "priority": 1,
+      "group": "a6c8e770ce3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nurse",
+      "meaningInSourceLanguage": "护士",
+      "id": "d668a4c4b5c9",
+      "priority": 0,
+      "group": "df81a956316d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nurse",
+      "meaning": "护士",
+      "audio": "4eb579b2ac18e31c318e58df9df56e5b0524a6aaf891562f0443d412036266c2",
+      "id": "4459a7c104c5",
+      "priority": 1,
+      "group": "df81a956316d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lawyer",
+      "meaningInSourceLanguage": "律师",
+      "id": "df7fcfbeb325",
+      "priority": 0,
+      "group": "f4c855f5aaf1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lawyer",
+      "meaning": "律师",
+      "audio": "494d6876009ea4d347859f7d21872e91fac66bc02dd5b7caeeebaf7775ad9bac",
+      "id": "5c14ebfdc09f",
+      "priority": 1,
+      "group": "f4c855f5aaf1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accountant",
+      "meaningInSourceLanguage": "会计",
+      "id": "0400b535a51f",
+      "priority": 0,
+      "group": "73b39487ea72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accountant",
+      "meaning": "会计",
+      "audio": "a72f4bc3d2053acac37836e7e2afe43a6cf45d55a71f192691683d784db40615",
+      "id": "0325604b88de",
+      "priority": 1,
+      "group": "73b39487ea72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "manager",
+      "meaningInSourceLanguage": "经理",
+      "id": "96b86b270154",
+      "priority": 0,
+      "group": "2ace14bd1c06"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "manager",
+      "meaning": "经理",
+      "audio": "2c57805cac3136246aa8019347f69497c61e02c12fd29fc8d2c866b7a09d1219",
+      "id": "71c35f16e713",
+      "priority": 1,
+      "group": "2ace14bd1c06"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "director",
+      "meaningInSourceLanguage": "主管",
+      "id": "516262afd41d",
+      "priority": 0,
+      "group": "f02fd11d20d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "director",
+      "meaning": "主管",
+      "audio": "762c0a12412cf2cd789ef2ad4ff79e296e5ec774b886c0c8895f8b24870826c7",
+      "id": "51891bd8b8f6",
+      "priority": 1,
+      "group": "f02fd11d20d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "CEO",
+      "meaningInSourceLanguage": "首席执行官",
+      "id": "4fd7605d5769",
+      "priority": 0,
+      "group": "3dcba308b315"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "CEO",
+      "meaning": "首席执行官",
+      "audio": "6124fa47ae4f4437b87a1c4a3ea8831ecaa33f6acfa73681eed45854eb909c4d",
+      "id": "f92defa4b9f1",
+      "priority": 1,
+      "group": "3dcba308b315"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "president",
+      "meaningInSourceLanguage": "总裁",
+      "id": "746bfa418fdf",
+      "priority": 0,
+      "group": "fac91158ffc2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "president",
+      "meaning": "总裁",
+      "audio": "4d03d1f721fd76c01ea131d5ee1dfd1f27684b5a06dbb5d258f3fe1e5d4a9ca2",
+      "id": "a98e06b9412b",
+      "priority": 1,
+      "group": "fac91158ffc2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "assistant",
+      "meaningInSourceLanguage": "助理",
+      "id": "3116cec5c7c4",
+      "priority": 0,
+      "group": "3dd8e99d4914"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "assistant",
+      "meaning": "助理",
+      "audio": "5c04a8a9a9465154cb81988a542bdb885487cdd597dc905931a9fb9e8b14c2aa",
+      "id": "73a61320a81b",
+      "priority": 1,
+      "group": "3dd8e99d4914"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "receptionist",
+      "meaningInSourceLanguage": "前台",
+      "id": "c45c7b488b4b",
+      "priority": 0,
+      "group": "8c8b46c753b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "receptionist",
+      "meaning": "前台",
+      "audio": "ff881716281d26639a28754e4786bfa393a6aa126e52f2549db8f1f5ee79e004",
+      "id": "4209c7b825ac",
+      "priority": 1,
+      "group": "8c8b46c753b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "secretary",
+      "meaningInSourceLanguage": "秘书",
+      "id": "c027a52461a7",
+      "priority": 0,
+      "group": "33c3f0e9fb89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "secretary",
+      "meaning": "秘书",
+      "audio": "bccd8356939ee194f5fe9f08cc78ce904467938d46bbb0b5f04f6e2628e933ea",
+      "id": "0b5b7f339771",
+      "priority": 1,
+      "group": "33c3f0e9fb89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "analyst",
+      "meaningInSourceLanguage": "分析师",
+      "id": "2ffdc369126f",
+      "priority": 0,
+      "group": "7a611a25da6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "analyst",
+      "meaning": "分析师",
+      "audio": "63592e05c300937a6ded684aca09be3f485e88590d238333221f4e04b91ce1c6",
+      "id": "10cb051f2ea9",
+      "priority": 1,
+      "group": "7a611a25da6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "consultant",
+      "meaningInSourceLanguage": "顾问",
+      "id": "74cc64a71f1e",
+      "priority": 0,
+      "group": "092d09f108e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "consultant",
+      "meaning": "顾问",
+      "audio": "8aab27b0f901cbaf281a5690cf55be3080bf77470da7978c6e1b3ea03f42559b",
+      "id": "6e0394fc658d",
+      "priority": 1,
+      "group": "092d09f108e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "designer",
+      "meaningInSourceLanguage": "设计师",
+      "id": "d1872bce25da",
+      "priority": 0,
+      "group": "3379bd0e18d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "designer",
+      "meaning": "设计师",
+      "audio": "602c9c215f1ea26e0fdcd912c5613de612fcc8c86f85b05ab67ec5aedcac72e4",
+      "id": "b842860575a1",
+      "priority": 1,
+      "group": "3379bd0e18d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "developer",
+      "meaningInSourceLanguage": "开发人员",
+      "id": "68bc7f9a2869",
+      "priority": 0,
+      "group": "2606c12f2e16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "developer",
+      "meaning": "开发人员",
+      "audio": "fb1f03dec90fe58127f1360424dd962e1146712cc156991b1a158ed04a4a0218",
+      "id": "3110afe0dab4",
+      "priority": 1,
+      "group": "2606c12f2e16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "programmer",
+      "meaningInSourceLanguage": "程序员",
+      "id": "b3e30477faf0",
+      "priority": 0,
+      "group": "ba6ea0221f80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "programmer",
+      "meaning": "程序员",
+      "audio": "e73f88d192da6d910120e6c8a8519047050b110f421a2d90a8d022c4ae7139f7",
+      "id": "a22d301e7cbe",
+      "priority": 1,
+      "group": "ba6ea0221f80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scientist",
+      "meaningInSourceLanguage": "科学家",
+      "id": "d60944ccd2da",
+      "priority": 0,
+      "group": "65c76f11d048"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scientist",
+      "meaning": "科学家",
+      "audio": "19085f7eaaf206017377be7ba2ee785764c38946a181c3a8da38f93953df5817",
+      "id": "2f70aeed7f53",
+      "priority": 1,
+      "group": "65c76f11d048"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "researcher",
+      "meaningInSourceLanguage": "研究员",
+      "id": "46adfd5554c0",
+      "priority": 0,
+      "group": "2c19c7ec833e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "researcher",
+      "meaning": "研究员",
+      "audio": "0056d83e8b21ac300691f007692bf3c8b3b0124e0872dfce55cc26573a53b4cc",
+      "id": "e4d6b08f6b41",
+      "priority": 1,
+      "group": "2c19c7ec833e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "professor",
+      "meaningInSourceLanguage": "教授",
+      "id": "6ba67301a35d",
+      "priority": 0,
+      "group": "b0b62cb88c95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "professor",
+      "meaning": "教授",
+      "audio": "7218c0cba5bb4d30bbfd75625cd8e7c03e759e68a52c63d942b656390908410d",
+      "id": "a9244f9f63dc",
+      "priority": 1,
+      "group": "b0b62cb88c95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "journalist",
+      "meaningInSourceLanguage": "记者",
+      "id": "078cc83517fc",
+      "priority": 0,
+      "group": "fe6e12b3f4b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "journalist",
+      "meaning": "记者",
+      "audio": "8d2723802da5d966e347632aee7b3dd9db43097c2628877496252aa4b04388fc",
+      "id": "ce373b3fc81c",
+      "priority": 1,
+      "group": "fe6e12b3f4b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "writer",
+      "meaningInSourceLanguage": "作家",
+      "id": "f66188ea8280",
+      "priority": 0,
+      "group": "f814676ec3f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "writer",
+      "meaning": "作家",
+      "audio": "14dc72935d1b853295878e8eb89be4d0713408f35ea0219a4d2d1ae1003ef29e",
+      "id": "4e4835c78e96",
+      "priority": 1,
+      "group": "f814676ec3f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "editor",
+      "meaningInSourceLanguage": "编辑",
+      "id": "04924a4de0ac",
+      "priority": 0,
+      "group": "e2d5ec973831"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "editor",
+      "meaning": "编辑",
+      "audio": "218b8443ac05d088d4d3d8efd450fbccc012c426239abcdc415b50b36d2282d7",
+      "id": "aff89e9d69a6",
+      "priority": 1,
+      "group": "e2d5ec973831"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "photographer",
+      "meaningInSourceLanguage": "摄影师",
+      "id": "9f113a1168ba",
+      "priority": 0,
+      "group": "090986adade8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "photographer",
+      "meaning": "摄影师",
+      "audio": "af423532f57838e6044676726b98335475ccb1a0cd148de10a2c41fac3d49d38",
+      "id": "9d734ded860a",
+      "priority": 1,
+      "group": "090986adade8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "artist",
+      "meaningInSourceLanguage": "艺术家",
+      "id": "37b3386bccab",
+      "priority": 0,
+      "group": "baf21975ea67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "artist",
+      "meaning": "艺术家",
+      "audio": "264d760af165d54a424a84146f6a31d6aa2caa2508287928d07276abdc70b6ce",
+      "id": "a430dec2eefe",
+      "priority": 1,
+      "group": "baf21975ea67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "musician",
+      "meaningInSourceLanguage": "音乐家",
+      "id": "fe97053dc492",
+      "priority": 0,
+      "group": "d4084e0bae67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "musician",
+      "meaning": "音乐家",
+      "audio": "d93691aad953df904e54819d6da6570ddac528e02b22c19dce9eef8b41106ef7",
+      "id": "3a28d6e49fe6",
+      "priority": 1,
+      "group": "d4084e0bae67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "actor",
+      "meaningInSourceLanguage": "演员",
+      "id": "7aebbc5ae6c7",
+      "priority": 0,
+      "group": "6ff2a5f41bac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "actor",
+      "meaning": "演员",
+      "audio": "dbb53b4485fda97aa18dbe0c68627310aad368162e8bfd7d4593817b333b0e39",
+      "id": "5215171d7914",
+      "priority": 1,
+      "group": "6ff2a5f41bac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "singer",
+      "meaningInSourceLanguage": "歌手",
+      "id": "d3b89a22f7e2",
+      "priority": 0,
+      "group": "b58e79771eb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "singer",
+      "meaning": "歌手",
+      "audio": "eeb80f67e494c50af7d2e1c480d14ceb919dbc41c13e2768a287189b666f306b",
+      "id": "0aa6e66941ac",
+      "priority": 1,
+      "group": "b58e79771eb7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dancer",
+      "meaningInSourceLanguage": "舞者",
+      "id": "8772f053eae6",
+      "priority": 0,
+      "group": "d800eee8daf2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dancer",
+      "meaning": "舞者",
+      "audio": "c4810f82a490970e85fd84bf357a3c49f94153454404025cff5f2a4b8c263fcb",
+      "id": "29a82e5003ee",
+      "priority": 1,
+      "group": "d800eee8daf2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "architect",
+      "meaningInSourceLanguage": "建筑师",
+      "id": "35b779b5b635",
+      "priority": 0,
+      "group": "e877c0856d2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "architect",
+      "meaning": "建筑师",
+      "audio": "9499c4527cfe1e6a74480c802efe7de39ba0728b409cd3cd0b233dba540ba089",
+      "id": "5bc0e33ca781",
+      "priority": 1,
+      "group": "e877c0856d2f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contractor",
+      "meaningInSourceLanguage": "承包商",
+      "id": "3d5aacb8562d",
+      "priority": 0,
+      "group": "892f09c9fafa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contractor",
+      "meaning": "承包商",
+      "audio": "f19a03ad5df868200872e2bff7a038b1203b294418bc9e22b9dccce00182667a",
+      "id": "42ac034a5d25",
+      "priority": 1,
+      "group": "892f09c9fafa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "electrician",
+      "meaningInSourceLanguage": "电工",
+      "id": "06bb19ca30c5",
+      "priority": 0,
+      "group": "8490623eefef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "electrician",
+      "meaning": "电工",
+      "audio": "8a5ec1048204a6a7f2616d8c624dc8b462e6c2c2a2fd469ae1fe36d2c15353c1",
+      "id": "9174eb68c9a4",
+      "priority": 1,
+      "group": "8490623eefef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plumber",
+      "meaningInSourceLanguage": "水管工",
+      "id": "775a2748f8b1",
+      "priority": 0,
+      "group": "f2621a45cc58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plumber",
+      "meaning": "水管工",
+      "audio": "d9b6abc775f998462d5609481dc90f969ec58d3c4d67d42b186219451d9c435d",
+      "id": "c5c6faf63fd7",
+      "priority": 1,
+      "group": "f2621a45cc58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "carpenter",
+      "meaningInSourceLanguage": "木匠",
+      "id": "bfc3b31bb2df",
+      "priority": 0,
+      "group": "c4182cece650"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carpenter",
+      "meaning": "木匠",
+      "audio": "405d2f29e14455bffa9ad8e3c55a714250dc6bbc8191f9445b777bd9dccc57be",
+      "id": "52fb5f385afc",
+      "priority": 1,
+      "group": "c4182cece650"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mechanic",
+      "meaningInSourceLanguage": "机械师",
+      "id": "11cb5e3db504",
+      "priority": 0,
+      "group": "fc1fecf31cee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mechanic",
+      "meaning": "机械师",
+      "audio": "c9cf2c2828fc5e6cb54fee9081bbf9eed52dd6fb4b99d2dc679755ae3625e191",
+      "id": "3061b5fdfa1c",
+      "priority": 1,
+      "group": "fc1fecf31cee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pilot",
+      "meaningInSourceLanguage": "飞行员",
+      "id": "5b5947c42217",
+      "priority": 0,
+      "group": "127c59282442"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pilot",
+      "meaning": "飞行员",
+      "audio": "5ac10210731b8ee14ddc3f7fbb962f008f01262c26ab8961bc944ccfc13aa736",
+      "id": "3a5568aee53c",
+      "priority": 1,
+      "group": "127c59282442"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "driver",
+      "meaningInSourceLanguage": "司机",
+      "id": "30cd50d7b3d1",
+      "priority": 0,
+      "group": "5e816631b7ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "driver",
+      "meaning": "司机",
+      "audio": "c98482445599f55fc901df0a24077a7b28f987c72370d896405afec4ff450873",
+      "id": "56e7a2b2bcac",
+      "priority": 1,
+      "group": "5e816631b7ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cashier",
+      "meaningInSourceLanguage": "收银员",
+      "id": "340e6cc26ffc",
+      "priority": 0,
+      "group": "2c99a24dce7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cashier",
+      "meaning": "收银员",
+      "audio": "53d2e349bae8ec97ab108479fe7cbdd0d9e3aa704ef8a33ede71969405247ce8",
+      "id": "05824fdc5a6f",
+      "priority": 1,
+      "group": "2c99a24dce7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chef",
+      "meaningInSourceLanguage": "厨师",
+      "id": "c5fa13604175",
+      "priority": 0,
+      "group": "5dc790d3ebc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chef",
+      "meaning": "厨师",
+      "audio": "a2d49162cf925e84eb3cb06afe44db1ce68f86cd2cf5dba0e002a53418ed4bdf",
+      "id": "0235dca46bb2",
+      "priority": 1,
+      "group": "5dc790d3ebc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waiter",
+      "meaningInSourceLanguage": "服务员",
+      "id": "b34c380a2c7c",
+      "priority": 0,
+      "group": "e0f817ae4ed3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waiter",
+      "meaning": "服务员",
+      "audio": "a6630424830dc7aaafd10f38b0bdde76ccd0859353d4cf2993dace1ad536879a",
+      "id": "189131802a93",
+      "priority": 1,
+      "group": "e0f817ae4ed3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bartender",
+      "meaningInSourceLanguage": "调酒师",
+      "id": "747439ad08fe",
+      "priority": 0,
+      "group": "67954e142aac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bartender",
+      "meaning": "调酒师",
+      "audio": "946e05e87a37bc624f2daee8e8fcc21d4546e6b487b43240d43a1e95ac113165",
+      "id": "7083de458d8a",
+      "priority": 1,
+      "group": "67954e142aac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "farmer",
+      "meaningInSourceLanguage": "农民",
+      "id": "20b8ca65257b",
+      "priority": 0,
+      "group": "abde10c41521"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "farmer",
+      "meaning": "农民",
+      "audio": "9622c9e2bc50e67537e357e87bfff5a1b3a7cb5022cb8934514dbe8bf37ce824",
+      "id": "5ef1a1dc3d87",
+      "priority": 1,
+      "group": "abde10c41521"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fisherman",
+      "meaningInSourceLanguage": "渔夫",
+      "id": "270e4e096059",
+      "priority": 0,
+      "group": "a8f818eab645"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fisherman",
+      "meaning": "渔夫",
+      "audio": "a81287c8892365481cd0bfb346ea36e389c05a22b6ca818e3a7e9a112f74de89",
+      "id": "b19c78fada23",
+      "priority": 1,
+      "group": "a8f818eab645"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soldier",
+      "meaningInSourceLanguage": "士兵",
+      "id": "731bcb7033cd",
+      "priority": 0,
+      "group": "19aaa0f3c761"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soldier",
+      "meaning": "士兵",
+      "audio": "13204b96475becb91d80f39769e736aad2730a000e6f4bc0ec6fb70031e69641",
+      "id": "43722292d73e",
+      "priority": 1,
+      "group": "19aaa0f3c761"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "police",
+      "meaningInSourceLanguage": "警察",
+      "id": "c00fbf2f6f34",
+      "priority": 0,
+      "group": "c30696cf555b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "police",
+      "meaning": "警察",
+      "audio": "484d6c6e9d8c3ef93244400c46d9bb02c8dacd1be8c16443e1e8e217e29c94d5",
+      "id": "b9a7b05e6cc3",
+      "priority": 1,
+      "group": "c30696cf555b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "firefighter",
+      "meaningInSourceLanguage": "消防员",
+      "id": "d1a2c76325d1",
+      "priority": 0,
+      "group": "6954cce201ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "firefighter",
+      "meaning": "消防员",
+      "audio": "474298dc59caf4536feb1107b48f325dc5dd8dcb2783f2196bcd55f6b4f5db22",
+      "id": "33c7ab65d324",
+      "priority": 1,
+      "group": "6954cce201ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "librarian",
+      "meaningInSourceLanguage": "图书管理员",
+      "id": "9a9ea09c7de2",
+      "priority": 0,
+      "group": "0521b30d0760"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "librarian",
+      "meaning": "图书管理员",
+      "audio": "c246c7bc32ed4d32c326196c697095ca6954850f4627bf4624f6e14b980b1fcc",
+      "id": "bf0553079971",
+      "priority": 1,
+      "group": "0521b30d0760"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nurse",
+      "meaningInSourceLanguage": "护士",
+      "id": "fd1d3a0ddf6f",
+      "priority": 0,
+      "group": "a0780873d003"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nurse",
+      "meaning": "护士",
+      "audio": "48585a6374dfd5543dcdbfec743466d7b4991523d1d3a10668901c8a56b0bb61",
+      "id": "a67a3f8efeec",
+      "priority": 1,
+      "group": "a0780873d003"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pharmacist",
+      "meaningInSourceLanguage": "药剂师",
+      "id": "c9793af3519c",
+      "priority": 0,
+      "group": "3955db6ba680"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pharmacist",
+      "meaning": "药剂师",
+      "audio": "b4f3d1874d6975a3b540a58db34d389cbef0831e6d94f2201652b6d62f5352a8",
+      "id": "7add9a8edba7",
+      "priority": 1,
+      "group": "3955db6ba680"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "veterinarian",
+      "meaningInSourceLanguage": "兽医",
+      "id": "82add7e59a0a",
+      "priority": 0,
+      "group": "1be6cb0f521b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "veterinarian",
+      "meaning": "兽医",
+      "audio": "8fb98b650ad901b1f83c08f7eac8464ecdf99a1afcc179f58e1e1261fad1d401",
+      "id": "0a83756b8ca0",
+      "priority": 1,
+      "group": "1be6cb0f521b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dentist",
+      "meaningInSourceLanguage": "牙医",
+      "id": "9aa60e51fc2f",
+      "priority": 0,
+      "group": "dc48645c47da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dentist",
+      "meaning": "牙医",
+      "audio": "ed5d25a3f9bf44d00ae755971d31a4a4653114818375b8ab0ce628cf17e1683d",
+      "id": "3c46db0159c8",
+      "priority": 1,
+      "group": "dc48645c47da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "psychologist",
+      "meaningInSourceLanguage": "心理学家",
+      "id": "f0b7cf16a41b",
+      "priority": 0,
+      "group": "71fa8fea6d48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "psychologist",
+      "meaning": "心理学家",
+      "audio": "04583f760444c9b2bb2690af22aa39ddfe80c15a50bd8abfc7f96b765e17a51c",
+      "id": "c2c098851bb9",
+      "priority": 1,
+      "group": "71fa8fea6d48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "therapist",
+      "meaningInSourceLanguage": "治疗师",
+      "id": "ba41aa8362dd",
+      "priority": 0,
+      "group": "379ddcc5db10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "therapist",
+      "meaning": "治疗师",
+      "audio": "c2c7b2cd71353a698f093f183ef45595568948f01f70e0ad89254ca93be16b5f",
+      "id": "698d47580eb3",
+      "priority": 1,
+      "group": "379ddcc5db10"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coach",
+      "meaningInSourceLanguage": "教练",
+      "id": "15184a269b63",
+      "priority": 0,
+      "group": "55014b4a1f16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coach",
+      "meaning": "教练",
+      "audio": "538aa9185001c2c120282eb10231b92393d29326e34199d572d8c09c89555e54",
+      "id": "f4c8c4d3db44",
+      "priority": 1,
+      "group": "55014b4a1f16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trainer",
+      "meaningInSourceLanguage": "培训师",
+      "id": "7f446f56b8b6",
+      "priority": 0,
+      "group": "c428b019568e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trainer",
+      "meaning": "培训师",
+      "audio": "d3a5205365749922898a327f429121ac868418b30685c7d69df25dd276aac81f",
+      "id": "3c709438321c",
+      "priority": 1,
+      "group": "c428b019568e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tutor",
+      "meaningInSourceLanguage": "家教",
+      "id": "8d596c9677ed",
+      "priority": 0,
+      "group": "5d3a758f5f3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tutor",
+      "meaning": "家教",
+      "audio": "2c6133e6f34525dc1b47b301f0a5f97610b1421de99b8f6396f96fe60d3e8715",
+      "id": "ea92279c6a45",
+      "priority": 1,
+      "group": "5d3a758f5f3e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "translator",
+      "meaningInSourceLanguage": "翻译",
+      "id": "3bba6f02bed8",
+      "priority": 0,
+      "group": "3341b354e434"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "translator",
+      "meaning": "翻译",
+      "audio": "d246519c7cbe1f25c9c4ad5d760be41f0f9f86893cc5e862379d933cb3785dff",
+      "id": "6c2401b0354d",
+      "priority": 1,
+      "group": "3341b354e434"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interpreter",
+      "meaningInSourceLanguage": "口译员",
+      "id": "207bc9c4060d",
+      "priority": 0,
+      "group": "9df6f02aa6c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interpreter",
+      "meaning": "口译员",
+      "audio": "6d2ef2113b0f1033dc8087ca9537b793a627ee9198c941601d536a7509099ffb",
+      "id": "baf83b87185b",
+      "priority": 1,
+      "group": "9df6f02aa6c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guide",
+      "meaningInSourceLanguage": "导游",
+      "id": "ba25d716f90c",
+      "priority": 0,
+      "group": "9ad17db93809"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guide",
+      "meaning": "导游",
+      "audio": "8d8a15463e8995439558a098bd7b60f512ac60e11a2defd32d2068afc3419c2e",
+      "id": "efbfd5bbd36f",
+      "priority": 1,
+      "group": "9ad17db93809"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salesperson",
+      "meaningInSourceLanguage": "销售员",
+      "id": "2c014b3808dd",
+      "priority": 0,
+      "group": "ba08ada586d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salesperson",
+      "meaning": "销售员",
+      "audio": "acfbfa6472d728a068530caaa2185adce838753ea63ddd81fc343576c0bf088c",
+      "id": "42a39bcc72b5",
+      "priority": 1,
+      "group": "ba08ada586d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marketer",
+      "meaningInSourceLanguage": "营销人员",
+      "id": "9af275441585",
+      "priority": 0,
+      "group": "2c579b45aab5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marketer",
+      "meaning": "营销人员",
+      "audio": "61acf45fc9932a5915d895f0b1b95a035e7976157445f34e3794fffd1bd1c075",
+      "id": "b4aeb0d2ecc2",
+      "priority": 1,
+      "group": "2c579b45aab5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "agent",
+      "meaningInSourceLanguage": "经纪人",
+      "id": "9a22d05c3d21",
+      "priority": 0,
+      "group": "e9528b0acd93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "agent",
+      "meaning": "经纪人",
+      "audio": "18380313459742b9ee32f4eb86822722784ab875ee7c47adc4df3e5edd7422b0",
+      "id": "e3af0c24257d",
+      "priority": 1,
+      "group": "e9528b0acd93"
+    }
+  ]
+}

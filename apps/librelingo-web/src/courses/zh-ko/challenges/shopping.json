@@ -1,0 +1,482 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "이거 얼마예요?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "504aa57eb4b3",
+      "priority": 0,
+      "group": "ff12c24c1a68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "이거 얼마예요?",
+      "meaning": "这个多少钱？",
+      "audio": "f00aa52506d1323ca0798531123ca1e3faf5c4df16b73891f7f66357cd26ab4f",
+      "id": "a6533829aff0",
+      "priority": 1,
+      "group": "ff12c24c1a68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "너무 비싸요.",
+      "meaningInSourceLanguage": "太贵了。",
+      "id": "58b5c6a0067a",
+      "priority": 0,
+      "group": "3d994f865eea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "너무 비싸요.",
+      "meaning": "太贵了。",
+      "audio": "e37cf918b4ca7e3fca66a89edc15c461c1fde175cdc908d59c134222d7e0e0f4",
+      "id": "151901e2b675",
+      "priority": 1,
+      "group": "3d994f865eea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "이건 품질이 좋아요.",
+      "meaningInSourceLanguage": "这个质量很好。",
+      "id": "ad0ca4c653a9",
+      "priority": 0,
+      "group": "7fd223d23d2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "이건 품질이 좋아요.",
+      "meaning": "这个质量很好。",
+      "audio": "55dc8bcf18f8d33f9ca75c626a89837d72f584a2706d8e6871068c6617e18cac",
+      "id": "6bd8eb59a59d",
+      "priority": 1,
+      "group": "7fd223d23d2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "가게 영업 중이에요?",
+      "meaningInSourceLanguage": "商店开门吗？",
+      "id": "8bd48c767800",
+      "priority": 0,
+      "group": "5883f2aac3b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "가게 영업 중이에요?",
+      "meaning": "商店开门吗？",
+      "audio": "22e7811fd7cc98df4429a150a0d6e5a322160a8a310d55094286907aaab0d258",
+      "id": "e4bd97dbb621",
+      "priority": 1,
+      "group": "5883f2aac3b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "오늘 문 닫았어요.",
+      "meaningInSourceLanguage": "今天关门了。",
+      "id": "744c0cef6544",
+      "priority": 0,
+      "group": "5fb138087136"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "오늘 문 닫았어요.",
+      "meaning": "今天关门了。",
+      "audio": "87e763d3d3c6171f9c8026dd2ea9aaee82859a8528c81fe4ec00b33da24920da",
+      "id": "6f8f9cab218b",
+      "priority": 1,
+      "group": "5fb138087136"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "이거 반품할 수 있어요?",
+      "meaningInSourceLanguage": "能退货吗？",
+      "id": "5a5036f2a4c8",
+      "priority": 0,
+      "group": "3498624af568"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "이거 반품할 수 있어요?",
+      "meaning": "能退货吗？",
+      "audio": "aa7e0b4f0b9f63ee7883b195abfdac1d2eab9cc861fbece11bcd166b56e20511",
+      "id": "cc4e5efaaaa5",
+      "priority": 1,
+      "group": "3498624af568"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "가게는 저기 있어요.",
+      "meaningInSourceLanguage": "商店在那里。",
+      "id": "5b112db42f08",
+      "priority": 0,
+      "group": "11c1d5e852a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "가게는 저기 있어요.",
+      "meaning": "商店在那里。",
+      "audio": "dee1c15968dee9572cf9a92c518b7ab31b2fdf68d16b5e434ac5b7e10836a2e5",
+      "id": "95331dea28f9",
+      "priority": 1,
+      "group": "11c1d5e852a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "돈이 없어요.",
+      "meaningInSourceLanguage": "我没钱。",
+      "id": "876b6173a465",
+      "priority": 0,
+      "group": "f2e80b0d4041"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "돈이 없어요.",
+      "meaning": "我没钱。",
+      "audio": "14d4c74e5daa1c2ddeaa8839da0f125a51cfd8cc552f6ad2d62f3682e4b3f570",
+      "id": "83867ac9cd59",
+      "priority": 1,
+      "group": "f2e80b0d4041"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "가게",
+      "meaningInSourceLanguage": "商店",
+      "id": "637c9514b972",
+      "priority": 0,
+      "group": "e0b61d78922d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "가게"
+      ],
+      "phrase": [
+        {
+          "word": "商店",
+          "definition": "가게"
+        }
+      ],
+      "id": "f8741ff5b334",
+      "priority": 1,
+      "group": "e0b61d78922d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "가게",
+      "meaning": "商店",
+      "audio": "b580022c5c3bdddbe845bd645045b980f88603329bb34da1078098bd3c89b897",
+      "id": "ef44f4ff1f2f",
+      "priority": 1,
+      "group": "e0b61d78922d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "가격",
+      "meaningInSourceLanguage": "价格",
+      "id": "1aba7f45b5bb",
+      "priority": 0,
+      "group": "c553095977cb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "가격"
+      ],
+      "phrase": [
+        {
+          "word": "价格",
+          "definition": "가격"
+        }
+      ],
+      "id": "33e878054d3a",
+      "priority": 1,
+      "group": "c553095977cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "가격",
+      "meaning": "价格",
+      "audio": "0326dabd18778ef9c41b31b63f045456fc38f0268a5d8b12a265a846dfbdd7f4",
+      "id": "69f2ff2e6a7e",
+      "priority": 1,
+      "group": "c553095977cb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "비싸다",
+      "meaningInSourceLanguage": "贵的",
+      "id": "d0cf9f65ec90",
+      "priority": 0,
+      "group": "6a355b463be9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "비싸다"
+      ],
+      "phrase": [
+        {
+          "word": "贵的",
+          "definition": "비싸다"
+        }
+      ],
+      "id": "882eac9911e1",
+      "priority": 1,
+      "group": "6a355b463be9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "비싸다",
+      "meaning": "贵的",
+      "audio": "f60fefed55b0b5193cb02750de30e2d32553ab3c455a5c4cb9f2747605c02970",
+      "id": "fcccca71851e",
+      "priority": 1,
+      "group": "6a355b463be9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "싸다",
+      "meaningInSourceLanguage": "便宜的",
+      "id": "686e9bc5aa08",
+      "priority": 0,
+      "group": "8b506ac20958"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "싸다"
+      ],
+      "phrase": [
+        {
+          "word": "便宜的",
+          "definition": "싸다"
+        }
+      ],
+      "id": "6ec07b3b1d34",
+      "priority": 1,
+      "group": "8b506ac20958"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "싸다",
+      "meaning": "便宜的",
+      "audio": "fc7c34564cb13d44a73e7900a87907ba3873eb6777350919b78195667f37f967",
+      "id": "498caa2fb12d",
+      "priority": 1,
+      "group": "8b506ac20958"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "돈",
+      "meaningInSourceLanguage": "钱",
+      "id": "cf12041a399d",
+      "priority": 0,
+      "group": "39cddfc97a6c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "돈"
+      ],
+      "phrase": [
+        {
+          "word": "钱",
+          "definition": "돈"
+        }
+      ],
+      "id": "77b5e9ecea2b",
+      "priority": 1,
+      "group": "39cddfc97a6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "돈",
+      "meaning": "钱",
+      "audio": "b71fd20c546ba7ef79ff81e8cb788c09b6917b5b2109ba2dbb177611aca2856c",
+      "id": "f2c0af1f0dcf",
+      "priority": 1,
+      "group": "39cddfc97a6c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "품질",
+      "meaningInSourceLanguage": "质量",
+      "id": "304ca0b58c49",
+      "priority": 0,
+      "group": "04b866f29396"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "품질"
+      ],
+      "phrase": [
+        {
+          "word": "质量",
+          "definition": "품질"
+        }
+      ],
+      "id": "a32ed4fd6d3b",
+      "priority": 1,
+      "group": "04b866f29396"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "품질",
+      "meaning": "质量",
+      "audio": "19954d8db1104b4b7a65d645e17d818f2091f41fc5da7886c7b2f6307623c906",
+      "id": "b0e7a9d19db4",
+      "priority": 1,
+      "group": "04b866f29396"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "브랜드",
+      "meaningInSourceLanguage": "品牌",
+      "id": "227f63283277",
+      "priority": 0,
+      "group": "571aa3dc28dc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "브랜드"
+      ],
+      "phrase": [
+        {
+          "word": "品牌",
+          "definition": "브랜드"
+        }
+      ],
+      "id": "d85d10200745",
+      "priority": 1,
+      "group": "571aa3dc28dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "브랜드",
+      "meaning": "品牌",
+      "audio": "28a8682b30406e69cfec6ddba67d8e2368e6faaa4fd10a9c9d0fff3f04f2cd15",
+      "id": "ad12ef58ac7d",
+      "priority": 1,
+      "group": "571aa3dc28dc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "반품",
+      "meaningInSourceLanguage": "退货",
+      "id": "4813f4a7aee9",
+      "priority": 0,
+      "group": "c832f3458dc3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "반품"
+      ],
+      "phrase": [
+        {
+          "word": "退货",
+          "definition": "반품"
+        }
+      ],
+      "id": "f683dbdfe1aa",
+      "priority": 1,
+      "group": "c832f3458dc3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "반품",
+      "meaning": "退货",
+      "audio": "f0229faf8a4de2c2b2437c563560310b5a2c70d505edecc53aebfca0ab057039",
+      "id": "8c0372e9e805",
+      "priority": 1,
+      "group": "c832f3458dc3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "영업 중",
+      "meaningInSourceLanguage": "营业",
+      "id": "862e18b98f6d",
+      "priority": 0,
+      "group": "807cbafa8e56"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "영업 중"
+      ],
+      "phrase": [
+        {
+          "word": "营业",
+          "definition": "영업 중"
+        }
+      ],
+      "id": "6a451d340d0b",
+      "priority": 1,
+      "group": "807cbafa8e56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "영업 중",
+      "meaning": "营业",
+      "audio": "dff6b45e84547af5f3b8f9c2e1709f17e0298f1e92f820d42f476dad164b77b0",
+      "id": "0e89d978642a",
+      "priority": 1,
+      "group": "807cbafa8e56"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "문 닫음",
+      "meaningInSourceLanguage": "关门",
+      "id": "70876782f91a",
+      "priority": 0,
+      "group": "aff92182f106"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "문 닫음"
+      ],
+      "phrase": [
+        {
+          "word": "关门",
+          "definition": "문 닫음"
+        }
+      ],
+      "id": "e991880e5b7a",
+      "priority": 1,
+      "group": "aff92182f106"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "문 닫음",
+      "meaning": "关门",
+      "audio": "e5408f8b3b0f7eafdd783f466cc87d4cf2a0292ec76b092f13abc931693b16c9",
+      "id": "d4102c5ee3c1",
+      "priority": 1,
+      "group": "aff92182f106"
+    }
+  ]
+}

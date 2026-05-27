@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Quero uma bebida.",
+      "meaningInSourceLanguage": "我想要一杯饮料。",
+      "id": "2e3710608945",
+      "priority": 0,
+      "group": "9c92dcf4f370"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Quero uma bebida.",
+      "meaning": "我想要一杯饮料。",
+      "audio": "8d018cf0f519a5623b2a97b1b82c9358677178da0d763b5511e50bd34d3206a7",
+      "id": "8cf0d3e2a6c7",
+      "priority": 1,
+      "group": "9c92dcf4f370"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A comida é boa.",
+      "meaningInSourceLanguage": "食物很好。",
+      "id": "4933546dd110",
+      "priority": 0,
+      "group": "79bd0384b420"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A comida é boa.",
+      "meaning": "食物很好。",
+      "audio": "e233b2e071483ce06bec189f8b0b16925bab26d2094740116ed856c3de842747",
+      "id": "21faa8509b86",
+      "priority": 1,
+      "group": "79bd0384b420"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso ter um copo de água?",
+      "meaningInSourceLanguage": "能给我一杯水吗？",
+      "id": "eb466ff165af",
+      "priority": 0,
+      "group": "99fa920fc3cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso ter um copo de água?",
+      "meaning": "能给我一杯水吗？",
+      "audio": "b3194706f8e1fe15978a10f709091eda64e6a51d45e49defea7fa0aa44fb4d3c",
+      "id": "129211e14d6f",
+      "priority": 1,
+      "group": "99fa920fc3cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Precisamos de uma garrafa de vinho.",
+      "meaningInSourceLanguage": "我们需要一瓶酒。",
+      "id": "630a8c177581",
+      "priority": 0,
+      "group": "dd7d92684ab9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Precisamos de uma garrafa de vinho.",
+      "meaning": "我们需要一瓶酒。",
+      "audio": "60cae53b21a8851e83eca3f2982fd5d81db52c3f3438feaa60b59bda9900cef3",
+      "id": "b02dd551e4c5",
+      "priority": 1,
+      "group": "dd7d92684ab9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gostaria de sobremesa.",
+      "meaningInSourceLanguage": "我想要甜点。",
+      "id": "ee9a4d4d46fb",
+      "priority": 0,
+      "group": "3dce916a22de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gostaria de sobremesa.",
+      "meaning": "我想要甜点。",
+      "audio": "a10726e4a0c6ddd858dbdc35e28abb1aff696bf57b4bf6dcd6f252a0e7957393",
+      "id": "f12afd6f74f9",
+      "priority": 1,
+      "group": "3dce916a22de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Passe-me o sal, por favor.",
+      "meaningInSourceLanguage": "请把盐递给我。",
+      "id": "bb54a7852a25",
+      "priority": 0,
+      "group": "35a58610227c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Passe-me o sal, por favor.",
+      "meaning": "请把盐递给我。",
+      "audio": "36e1a5a783d74507e67417eb7792c79c4d84d4c2e20ec43eb5046b48486ab5e0",
+      "id": "d92de7c3d29a",
+      "priority": 1,
+      "group": "35a58610227c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "restaurante",
+      "meaningInSourceLanguage": "餐厅",
+      "id": "ae747159edb2",
+      "priority": 0,
+      "group": "b213438dac65"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "restaurante"
+      ],
+      "phrase": [
+        {
+          "word": "餐厅",
+          "definition": "restaurante"
+        }
+      ],
+      "id": "8fdca77f2ee4",
+      "priority": 1,
+      "group": "b213438dac65"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "restaurante",
+      "meaning": "餐厅",
+      "audio": "8a1a4cd944b2dd71817c308742a84ac2fac749899c98416af59c09164223238d",
+      "id": "245d8b8bfab8",
+      "priority": 1,
+      "group": "b213438dac65"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bebida",
+      "meaningInSourceLanguage": "饮料",
+      "id": "5ed043c97ac7",
+      "priority": 0,
+      "group": "1d2f3aa49b35"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bebida"
+      ],
+      "phrase": [
+        {
+          "word": "饮料",
+          "definition": "bebida"
+        }
+      ],
+      "id": "40e302c790f0",
+      "priority": 1,
+      "group": "1d2f3aa49b35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bebida",
+      "meaning": "饮料",
+      "audio": "bfff93fbf772a80e70d23e3828a38299c0ea7de25c22c8dcf46ca4ba3b412356",
+      "id": "a127119d70a0",
+      "priority": 1,
+      "group": "1d2f3aa49b35"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "comida",
+      "meaningInSourceLanguage": "食物",
+      "id": "9300ec544a4b",
+      "priority": 0,
+      "group": "adab5c3dc16b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "comida"
+      ],
+      "phrase": [
+        {
+          "word": "食物",
+          "definition": "comida"
+        }
+      ],
+      "id": "8fb5698abcc5",
+      "priority": 1,
+      "group": "adab5c3dc16b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comida",
+      "meaning": "食物",
+      "audio": "40d00ff8a75bc665f20eb4effcf7b11c3d66e381c4493b5651d2a41fbcf28d90",
+      "id": "fa57db944ae5",
+      "priority": 1,
+      "group": "adab5c3dc16b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "guardanapo",
+      "meaningInSourceLanguage": "餐巾",
+      "id": "371f0f8d3737",
+      "priority": 0,
+      "group": "43310cbe22f2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "guardanapo"
+      ],
+      "phrase": [
+        {
+          "word": "餐巾",
+          "definition": "guardanapo"
+        }
+      ],
+      "id": "fadb0cbe7ba2",
+      "priority": 1,
+      "group": "43310cbe22f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guardanapo",
+      "meaning": "餐巾",
+      "audio": "1c22d6adbb9da6465c6b0eb4b0713ea198c135396dff2ac4d4c23f29e36e577f",
+      "id": "9b46633538f9",
+      "priority": 1,
+      "group": "43310cbe22f2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sal",
+      "meaningInSourceLanguage": "盐",
+      "id": "69490cc52ac2",
+      "priority": 0,
+      "group": "1db09eafe07c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sal"
+      ],
+      "phrase": [
+        {
+          "word": "盐",
+          "definition": "sal"
+        }
+      ],
+      "id": "ab8f9877afb9",
+      "priority": 1,
+      "group": "1db09eafe07c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sal",
+      "meaning": "盐",
+      "audio": "1e506ba9b55c292f5debc3cb67e0bcd36c667c174e460ddfab34644bdaa5a447",
+      "id": "6f795f668a7c",
+      "priority": 1,
+      "group": "1db09eafe07c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pimenta",
+      "meaningInSourceLanguage": "胡椒",
+      "id": "0a5160f989d9",
+      "priority": 0,
+      "group": "f06dc592025b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pimenta"
+      ],
+      "phrase": [
+        {
+          "word": "胡椒",
+          "definition": "pimenta"
+        }
+      ],
+      "id": "63c62ec5cba8",
+      "priority": 1,
+      "group": "f06dc592025b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pimenta",
+      "meaning": "胡椒",
+      "audio": "ed33fb487abbe6cc0951ab6004240a5fe3fb8c7537d534d504d76133c25169f4",
+      "id": "284067835412",
+      "priority": 1,
+      "group": "f06dc592025b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "copo",
+      "meaningInSourceLanguage": "玻璃杯",
+      "id": "6c8b868546b3",
+      "priority": 0,
+      "group": "8e281b165adc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "copo"
+      ],
+      "phrase": [
+        {
+          "word": "玻璃杯",
+          "definition": "copo"
+        }
+      ],
+      "id": "52f6cd34849b",
+      "priority": 1,
+      "group": "8e281b165adc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "copo",
+      "meaning": "玻璃杯",
+      "audio": "2fa1580540a0b1fc3d46b62f5b62e14075423fdaa9f5619dabd1b45a23a93ca7",
+      "id": "6c8d59b6947f",
+      "priority": 1,
+      "group": "8e281b165adc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "garrafa",
+      "meaningInSourceLanguage": "瓶子",
+      "id": "e9c71cfbb1c7",
+      "priority": 0,
+      "group": "127f778de7a4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "garrafa"
+      ],
+      "phrase": [
+        {
+          "word": "瓶子",
+          "definition": "garrafa"
+        }
+      ],
+      "id": "e67adf8adaa7",
+      "priority": 1,
+      "group": "127f778de7a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garrafa",
+      "meaning": "瓶子",
+      "audio": "969d7e1c3e6e65479ea4e34e8dc8ef91f51df273f30c43bf45163f5a42f77f9e",
+      "id": "6a7f428c1ee8",
+      "priority": 1,
+      "group": "127f778de7a4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sobremesa",
+      "meaningInSourceLanguage": "甜点",
+      "id": "dc7e6de6679b",
+      "priority": 0,
+      "group": "41a1017a19f4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sobremesa"
+      ],
+      "phrase": [
+        {
+          "word": "甜点",
+          "definition": "sobremesa"
+        }
+      ],
+      "id": "592c107536eb",
+      "priority": 1,
+      "group": "41a1017a19f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sobremesa",
+      "meaning": "甜点",
+      "audio": "8a96228cb2e6839bf9a6f73cd63f72bf8d71932b60df5620351a084a7a1551a8",
+      "id": "94585c018fc9",
+      "priority": 1,
+      "group": "41a1017a19f4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "prato principal",
+      "meaningInSourceLanguage": "主菜",
+      "id": "e28091c936d9",
+      "priority": 0,
+      "group": "d86d0b5f3be2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "prato principal"
+      ],
+      "phrase": [
+        {
+          "word": "主菜",
+          "definition": "prato principal"
+        }
+      ],
+      "id": "fa4f11c9123c",
+      "priority": 1,
+      "group": "d86d0b5f3be2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prato principal",
+      "meaning": "主菜",
+      "audio": "de680a1bf6562e3e446a36ec55f429f28d4cadf87048cab58021bc301c83bdbe",
+      "id": "ca30f4b8aa04",
+      "priority": 1,
+      "group": "d86d0b5f3be2"
+    }
+  ]
+}

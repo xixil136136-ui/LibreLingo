@@ -1,0 +1,4069 @@
+{
+  "id": "e9498b91f1ab",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "stove",
+      "meaningInSourceLanguage": "炉子",
+      "id": "4d38b5af7623",
+      "priority": 0,
+      "group": "fd6df5b5c259"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stove",
+      "meaning": "炉子",
+      "audio": "9606fc9d8a53461f926498950110e74d",
+      "id": "e036f4f76e4e",
+      "priority": 1,
+      "group": "fd6df5b5c259"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oven",
+      "meaningInSourceLanguage": "烤箱",
+      "id": "2bbbe67a8423",
+      "priority": 0,
+      "group": "937c0ca13b55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oven",
+      "meaning": "烤箱",
+      "audio": "5ad9861b852d4b1c97454a08c591eec1",
+      "id": "c19bfbc48c4d",
+      "priority": 1,
+      "group": "937c0ca13b55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "microwave",
+      "meaningInSourceLanguage": "微波炉",
+      "id": "3899f45ca828",
+      "priority": 0,
+      "group": "2a7c34dccc5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "microwave",
+      "meaning": "微波炉",
+      "audio": "94f4a6a86ba54116ab5c92fb81c8ffef",
+      "id": "0e64622c67d4",
+      "priority": 1,
+      "group": "2a7c34dccc5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "refrigerator",
+      "meaningInSourceLanguage": "冰箱",
+      "id": "025d5203ea3f",
+      "priority": 0,
+      "group": "7772d5dee80e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "refrigerator",
+      "meaning": "冰箱",
+      "audio": "001c44c3f695461996a508f8d1d723b6",
+      "id": "b4779414f6e2",
+      "priority": 1,
+      "group": "7772d5dee80e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "freezer",
+      "meaningInSourceLanguage": "冷冻室",
+      "id": "a7239c6457e2",
+      "priority": 0,
+      "group": "5fab8e747df0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "freezer",
+      "meaning": "冷冻室",
+      "audio": "b909093292ea4256a94a5f53c8506b74",
+      "id": "95c8c0227a75",
+      "priority": 1,
+      "group": "5fab8e747df0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dishwasher",
+      "meaningInSourceLanguage": "洗碗机",
+      "id": "f62f065dd057",
+      "priority": 0,
+      "group": "de1104a46296"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dishwasher",
+      "meaning": "洗碗机",
+      "audio": "b8befe8c9bd74e799a43a6299bd0f329",
+      "id": "5d5e71817793",
+      "priority": 1,
+      "group": "de1104a46296"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plate",
+      "meaningInSourceLanguage": "盘子",
+      "id": "38427bb966b1",
+      "priority": 0,
+      "group": "135737aa84a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plate",
+      "meaning": "盘子",
+      "audio": "fc3615b256ed45829bd4577041100423",
+      "id": "bb6842efe32f",
+      "priority": 1,
+      "group": "135737aa84a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bowl",
+      "meaningInSourceLanguage": "碗",
+      "id": "f2164e6203d1",
+      "priority": 0,
+      "group": "0ae79a94f1a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bowl",
+      "meaning": "碗",
+      "audio": "56a8c47336c24ba688f99d89688f52a9",
+      "id": "50c397496c85",
+      "priority": 1,
+      "group": "0ae79a94f1a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cup",
+      "meaningInSourceLanguage": "杯子",
+      "id": "2beb0f2d3ef1",
+      "priority": 0,
+      "group": "13fa51f35f47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cup",
+      "meaning": "杯子",
+      "audio": "d0420c784962483a99dd07f875f2b3bc",
+      "id": "b149336a3d82",
+      "priority": 1,
+      "group": "13fa51f35f47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "glass",
+      "meaningInSourceLanguage": "玻璃杯",
+      "id": "2897ead447cc",
+      "priority": 0,
+      "group": "9c6e6a25e3c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "glass",
+      "meaning": "玻璃杯",
+      "audio": "10570e4578a04ede944efebfd0104d96",
+      "id": "efdb970de26d",
+      "priority": 1,
+      "group": "9c6e6a25e3c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fork",
+      "meaningInSourceLanguage": "叉子",
+      "id": "e5d2307b5f90",
+      "priority": 0,
+      "group": "f85e79e244b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fork",
+      "meaning": "叉子",
+      "audio": "f5985945ca77478296edf728f29b0148",
+      "id": "1a185f2a5584",
+      "priority": 1,
+      "group": "f85e79e244b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "knife",
+      "meaningInSourceLanguage": "刀",
+      "id": "7fb0c8140db6",
+      "priority": 0,
+      "group": "8358d25a8bf6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "knife",
+      "meaning": "刀",
+      "audio": "077900e370554edcb51c8f6fa4489657",
+      "id": "68a43bbfaf79",
+      "priority": 1,
+      "group": "8358d25a8bf6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spoon",
+      "meaningInSourceLanguage": "勺子",
+      "id": "deac73df05dd",
+      "priority": 0,
+      "group": "f92804821039"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spoon",
+      "meaning": "勺子",
+      "audio": "9e8bc4b035fb4d7b98b4e162203f5ef2",
+      "id": "2cf0dbb8f7c4",
+      "priority": 1,
+      "group": "f92804821039"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chopsticks",
+      "meaningInSourceLanguage": "筷子",
+      "id": "c8e3327b9d62",
+      "priority": 0,
+      "group": "eebafb80fc8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chopsticks",
+      "meaning": "筷子",
+      "audio": "e19319697fde45b18382be8ab1c8d185",
+      "id": "50276e92bf71",
+      "priority": 1,
+      "group": "eebafb80fc8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "napkin",
+      "meaningInSourceLanguage": "餐巾",
+      "id": "6bd8875e1ada",
+      "priority": 0,
+      "group": "f7c3b03c1dec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "napkin",
+      "meaning": "餐巾",
+      "audio": "fc03795d905549d09efc14b3dd4b1c52",
+      "id": "f58befe0a999",
+      "priority": 1,
+      "group": "f7c3b03c1dec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tablecloth",
+      "meaningInSourceLanguage": "桌布",
+      "id": "01945f31b6e2",
+      "priority": 0,
+      "group": "a59a6a2ae6b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tablecloth",
+      "meaning": "桌布",
+      "audio": "7dbfa0e9a91d411a9c89dcff5454bb60",
+      "id": "6d94337a6847",
+      "priority": 1,
+      "group": "a59a6a2ae6b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tray",
+      "meaningInSourceLanguage": "托盘",
+      "id": "664c2331b057",
+      "priority": 0,
+      "group": "728eb4a85a77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tray",
+      "meaning": "托盘",
+      "audio": "bc9f02f9652143c29bdbd820d288b9eb",
+      "id": "2dd2a0f338e5",
+      "priority": 1,
+      "group": "728eb4a85a77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pot",
+      "meaningInSourceLanguage": "锅",
+      "id": "a9dc95300466",
+      "priority": 0,
+      "group": "4d43c95a985c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pot",
+      "meaning": "锅",
+      "audio": "dac2eb2a17684b13af5c8fc37fd64c29",
+      "id": "99c5a98252f6",
+      "priority": 1,
+      "group": "4d43c95a985c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pan",
+      "meaningInSourceLanguage": "平底锅",
+      "id": "61616e00f634",
+      "priority": 0,
+      "group": "e491fc36e2d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pan",
+      "meaning": "平底锅",
+      "audio": "6e94b10e51614389a7d2a0ae43f1dc00",
+      "id": "38c43941942e",
+      "priority": 1,
+      "group": "e491fc36e2d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kettle",
+      "meaningInSourceLanguage": "水壶",
+      "id": "56f26a975bd9",
+      "priority": 0,
+      "group": "c4ef64608cae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kettle",
+      "meaning": "水壶",
+      "audio": "77313a915b0845daad28827e94ebeb05",
+      "id": "b49becd14af4",
+      "priority": 1,
+      "group": "c4ef64608cae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cutting board",
+      "meaningInSourceLanguage": "砧板",
+      "id": "db89ae3f1827",
+      "priority": 0,
+      "group": "e6bf1e0cb50b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cutting board",
+      "meaning": "砧板",
+      "audio": "9740955bc2db40e284674923eb97ffdf",
+      "id": "828af5f05fe6",
+      "priority": 1,
+      "group": "e6bf1e0cb50b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strainer",
+      "meaningInSourceLanguage": "滤网",
+      "id": "86a466b9e60e",
+      "priority": 0,
+      "group": "1df8a59c5854"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strainer",
+      "meaning": "滤网",
+      "audio": "bda0732f83354dacaf3dfc0cea0959e4",
+      "id": "1387a1a37e1c",
+      "priority": 1,
+      "group": "1df8a59c5854"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rolling pin",
+      "meaningInSourceLanguage": "擀面杖",
+      "id": "4276d25738c6",
+      "priority": 0,
+      "group": "f6454507eca7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rolling pin",
+      "meaning": "擀面杖",
+      "audio": "3d5b06523a9f4b61b2e53998e17f416e",
+      "id": "4f716f7bd8a9",
+      "priority": 1,
+      "group": "f6454507eca7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baking",
+      "meaningInSourceLanguage": "烘焙",
+      "id": "5116399eab06",
+      "priority": 0,
+      "group": "7433dff57966"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baking",
+      "meaning": "烘焙",
+      "audio": "fdeb00d0c94d41118b8bac0e14f4db74",
+      "id": "3ee5534e6313",
+      "priority": 1,
+      "group": "7433dff57966"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "frying",
+      "meaningInSourceLanguage": "油炸",
+      "id": "6c3a8fc05937",
+      "priority": 0,
+      "group": "bcd9ede8fb74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frying",
+      "meaning": "油炸",
+      "audio": "c1f36ff58adc421bb21dc1e1c5b18679",
+      "id": "0c1bd5512785",
+      "priority": 1,
+      "group": "bcd9ede8fb74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boiling",
+      "meaningInSourceLanguage": "煮",
+      "id": "a8b2f6aff243",
+      "priority": 0,
+      "group": "3d7d53a0f749"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boiling",
+      "meaning": "煮",
+      "audio": "2e2769be38a34ad0a6650c174c002768",
+      "id": "392186382990",
+      "priority": 1,
+      "group": "3d7d53a0f749"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "steaming",
+      "meaningInSourceLanguage": "蒸",
+      "id": "e4ba00975e57",
+      "priority": 0,
+      "group": "469acf02e61d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "steaming",
+      "meaning": "蒸",
+      "audio": "19277fb04a554369b949bd30fbb92851",
+      "id": "866a87b6e001",
+      "priority": 1,
+      "group": "469acf02e61d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grilling",
+      "meaningInSourceLanguage": "烧烤",
+      "id": "af1477554e6d",
+      "priority": 0,
+      "group": "34fbecff23f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grilling",
+      "meaning": "烧烤",
+      "audio": "ab426964547c456f9b826d92bd467649",
+      "id": "fb3b32239e12",
+      "priority": 1,
+      "group": "34fbecff23f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roasting",
+      "meaningInSourceLanguage": "烤",
+      "id": "91c7cd585d3c",
+      "priority": 0,
+      "group": "c54df9d6fb56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roasting",
+      "meaning": "烤",
+      "audio": "5d419b564cf848188ceb3a1a6a179961",
+      "id": "9c9a4177f919",
+      "priority": 1,
+      "group": "c54df9d6fb56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stir-frying",
+      "meaningInSourceLanguage": "炒",
+      "id": "1bdab8ea4521",
+      "priority": 0,
+      "group": "cd161012361e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stir-frying",
+      "meaning": "炒",
+      "audio": "f82a382480f94ef38345faa80224e1f1",
+      "id": "b93b8295438a",
+      "priority": 1,
+      "group": "cd161012361e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "braising",
+      "meaningInSourceLanguage": "炖",
+      "id": "43e583039f9b",
+      "priority": 0,
+      "group": "df1c108ed7a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "braising",
+      "meaning": "炖",
+      "audio": "1a636755665048d780fbfe20e36cf0fa",
+      "id": "d6ce47094a65",
+      "priority": 1,
+      "group": "df1c108ed7a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marinating",
+      "meaningInSourceLanguage": "腌制",
+      "id": "6f038bf77ee6",
+      "priority": 0,
+      "group": "ec0ce9398772"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marinating",
+      "meaning": "腌制",
+      "audio": "fc09f15200f64067ab97ca46a90ccc3f",
+      "id": "614d8387e82e",
+      "priority": 1,
+      "group": "ec0ce9398772"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bake",
+      "meaningInSourceLanguage": "烤",
+      "id": "0774b573a4f4",
+      "priority": 0,
+      "group": "0543f0bbc474"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bake",
+      "meaning": "烤",
+      "audio": "441a702ded4f471fa5597fc3606dc4b3",
+      "id": "0ed4f9aeb360",
+      "priority": 1,
+      "group": "0543f0bbc474"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fry",
+      "meaningInSourceLanguage": "炸",
+      "id": "ce697b1ddc28",
+      "priority": 0,
+      "group": "3308bbceeb94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fry",
+      "meaning": "炸",
+      "audio": "7adc2751965a4cc4a487a9268e8da433",
+      "id": "e753ba646d61",
+      "priority": 1,
+      "group": "3308bbceeb94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stir",
+      "meaningInSourceLanguage": "搅拌",
+      "id": "ae20214e9225",
+      "priority": 0,
+      "group": "cfadea59b315"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stir",
+      "meaning": "搅拌",
+      "audio": "eeec57521bb4450f9b783b74cad2b22e",
+      "id": "f7ebd1971dd8",
+      "priority": 1,
+      "group": "cfadea59b315"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chop",
+      "meaningInSourceLanguage": "切碎",
+      "id": "f83843ee66c2",
+      "priority": 0,
+      "group": "8ec63b680b57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chop",
+      "meaning": "切碎",
+      "audio": "79c487150d1a4ec6a22f725ec41aa818",
+      "id": "abc00fd7915f",
+      "priority": 1,
+      "group": "8ec63b680b57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "slice",
+      "meaningInSourceLanguage": "切片",
+      "id": "d00e4a6684a9",
+      "priority": 0,
+      "group": "5ba29fcbe361"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "slice",
+      "meaning": "切片",
+      "audio": "a87077ceca33466ebbdb75bb7f2f8c7d",
+      "id": "e4758f246452",
+      "priority": 1,
+      "group": "5ba29fcbe361"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dice",
+      "meaningInSourceLanguage": "切丁",
+      "id": "d843c6b12d3e",
+      "priority": 0,
+      "group": "e608c740b6b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dice",
+      "meaning": "切丁",
+      "audio": "86e0dabf64e4416ea59531d14564c07a",
+      "id": "5dce288cae83",
+      "priority": 1,
+      "group": "e608c740b6b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mince",
+      "meaningInSourceLanguage": "剁碎",
+      "id": "78c701346e45",
+      "priority": 0,
+      "group": "8266870a0bbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mince",
+      "meaning": "剁碎",
+      "audio": "5a32f009601849559ef939071f8d4fa2",
+      "id": "62b6622cf112",
+      "priority": 1,
+      "group": "8266870a0bbd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grate",
+      "meaningInSourceLanguage": "磨碎",
+      "id": "131ace13f1ee",
+      "priority": 0,
+      "group": "4719742e987e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grate",
+      "meaning": "磨碎",
+      "audio": "826c111d8d694eddbd6a2a76eb6a434b",
+      "id": "d8916dbbabb9",
+      "priority": 1,
+      "group": "4719742e987e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peel",
+      "meaningInSourceLanguage": "削皮",
+      "id": "af32ada32493",
+      "priority": 0,
+      "group": "aa103c97eda1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peel",
+      "meaning": "削皮",
+      "audio": "700f15e110754ab98f1f4d87b603e256",
+      "id": "0f63b734f8b9",
+      "priority": 1,
+      "group": "aa103c97eda1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "knead",
+      "meaningInSourceLanguage": "揉面",
+      "id": "1df238e99b24",
+      "priority": 0,
+      "group": "ddaa53e97ac0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "knead",
+      "meaning": "揉面",
+      "audio": "14d2b824a915471aa36600cc2ec2928e",
+      "id": "8dacaf8ee9b1",
+      "priority": 1,
+      "group": "ddaa53e97ac0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "whisk",
+      "meaningInSourceLanguage": "搅拌",
+      "id": "e3450a241652",
+      "priority": 0,
+      "group": "a80bc13b5a7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "whisk",
+      "meaning": "搅拌",
+      "audio": "eca54a0514c44770a4f9cea23fd925db",
+      "id": "3c093ed24692",
+      "priority": 1,
+      "group": "a80bc13b5a7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blend",
+      "meaningInSourceLanguage": "混合",
+      "id": "94edf0222165",
+      "priority": 0,
+      "group": "a959bcb8fd9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blend",
+      "meaning": "混合",
+      "audio": "6519d075419f453faef2b4ad4818d177",
+      "id": "0daf65ec9cda",
+      "priority": 1,
+      "group": "a959bcb8fd9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mix",
+      "meaningInSourceLanguage": "混合",
+      "id": "de86dff9b1ad",
+      "priority": 0,
+      "group": "db8eb8cfc0cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mix",
+      "meaning": "混合",
+      "audio": "7e920073417a4dd3b7456a773200f9de",
+      "id": "1eafb1f24227",
+      "priority": 1,
+      "group": "db8eb8cfc0cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pour",
+      "meaningInSourceLanguage": "倒",
+      "id": "09200d2f4a1d",
+      "priority": 0,
+      "group": "15a61822dce9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pour",
+      "meaning": "倒",
+      "audio": "5f9b9635bc3a46a39d81306ba3d46bbe",
+      "id": "9726f2295385",
+      "priority": 1,
+      "group": "15a61822dce9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strain",
+      "meaningInSourceLanguage": "过滤",
+      "id": "d9d40910ca7c",
+      "priority": 0,
+      "group": "323854a5f6d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strain",
+      "meaning": "过滤",
+      "audio": "f35d69a0531847f6b89a4e6495831c84",
+      "id": "af77107de6d6",
+      "priority": 1,
+      "group": "323854a5f6d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toast",
+      "meaningInSourceLanguage": "烤面包",
+      "id": "2f086921ab23",
+      "priority": 0,
+      "group": "b1c3dde0406f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toast",
+      "meaning": "烤面包",
+      "audio": "995b610cf16b4d0d9414a0ae4d1a1810",
+      "id": "f7e71714d6d8",
+      "priority": 1,
+      "group": "b1c3dde0406f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "microwave",
+      "meaningInSourceLanguage": "微波加热",
+      "id": "54441f09e343",
+      "priority": 0,
+      "group": "c238f72ad0f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "microwave",
+      "meaning": "微波加热",
+      "audio": "8a3f1855a2a24d0d811835b2869b6312",
+      "id": "d80aeb4af22b",
+      "priority": 1,
+      "group": "c238f72ad0f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "barbecue",
+      "meaningInSourceLanguage": "烧烤",
+      "id": "0bda6e50b58f",
+      "priority": 0,
+      "group": "5e0e2e9a8a28"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "barbecue",
+      "meaning": "烧烤",
+      "audio": "e04bee0d8987458e96d2ec3229b522e0",
+      "id": "524c397eaca6",
+      "priority": 1,
+      "group": "5e0e2e9a8a28"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smoke",
+      "meaningInSourceLanguage": "烟熏",
+      "id": "811e6dd8e607",
+      "priority": 0,
+      "group": "1f35f6c6adb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smoke",
+      "meaning": "烟熏",
+      "audio": "9b76b933053c41fc9fcfa4367457e440",
+      "id": "41fa3e76c29d",
+      "priority": 1,
+      "group": "1f35f6c6adb6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "season",
+      "meaningInSourceLanguage": "调味",
+      "id": "6a0c5e5406b0",
+      "priority": 0,
+      "group": "6564c9eaa59a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "season",
+      "meaning": "调味",
+      "audio": "0effdafa5c0744c7955ea3b01d9e3b66",
+      "id": "9d54c9a4c766",
+      "priority": 1,
+      "group": "6564c9eaa59a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "taste",
+      "meaningInSourceLanguage": "品尝",
+      "id": "68d5b5bad65f",
+      "priority": 0,
+      "group": "5541c13ebdeb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "taste",
+      "meaning": "品尝",
+      "audio": "89961245f2c74b2899fd3bd0727de68c",
+      "id": "11d097fc0890",
+      "priority": 1,
+      "group": "5541c13ebdeb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recipe",
+      "meaningInSourceLanguage": "食谱",
+      "id": "d78b924f82c6",
+      "priority": 0,
+      "group": "0bfb7acf08ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recipe",
+      "meaning": "食谱",
+      "audio": "b468c3ad19e74792a02995d3fc1b2cfc",
+      "id": "ee4ab24f7724",
+      "priority": 1,
+      "group": "0bfb7acf08ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cookbook",
+      "meaningInSourceLanguage": "烹饪书",
+      "id": "da0f24940ce5",
+      "priority": 0,
+      "group": "07d6c92bbce0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cookbook",
+      "meaning": "烹饪书",
+      "audio": "7ac7c6eb2ec442d88a47fcb04f6029be",
+      "id": "ee1701dab4f9",
+      "priority": 1,
+      "group": "07d6c92bbce0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chef",
+      "meaningInSourceLanguage": "厨师",
+      "id": "1022b5e67dd2",
+      "priority": 0,
+      "group": "809fa679a68a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chef",
+      "meaning": "厨师",
+      "audio": "c872d7330fc849b3bb11518d9ec889df",
+      "id": "9cd6337f7748",
+      "priority": 1,
+      "group": "809fa679a68a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cook",
+      "meaningInSourceLanguage": "厨师",
+      "id": "f73f1fd8d8b0",
+      "priority": 0,
+      "group": "0937a78c88cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cook",
+      "meaning": "厨师",
+      "audio": "23388924986346c8a6f80cb024924b3a",
+      "id": "2a95d5e01aa8",
+      "priority": 1,
+      "group": "0937a78c88cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kitchen",
+      "meaningInSourceLanguage": "厨房",
+      "id": "819e23ddbac9",
+      "priority": 0,
+      "group": "3fe39473e747"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kitchen",
+      "meaning": "厨房",
+      "audio": "5ce0a477a5db45da8fce5c5781c8f3f4",
+      "id": "1327ec8ec852",
+      "priority": 1,
+      "group": "3fe39473e747"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pantry",
+      "meaningInSourceLanguage": "食品储藏室",
+      "id": "41994668b7d0",
+      "priority": 0,
+      "group": "097fba879ce6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pantry",
+      "meaning": "食品储藏室",
+      "audio": "c7c9d3aa48bb41789a9dc53ff34d6f8a",
+      "id": "3850d0db8638",
+      "priority": 1,
+      "group": "097fba879ce6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "counter",
+      "meaningInSourceLanguage": "台面",
+      "id": "00220f58b2fb",
+      "priority": 0,
+      "group": "8b3410341612"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "counter",
+      "meaning": "台面",
+      "audio": "5d7538bf05f84648b9b121b0c7aa7a2c",
+      "id": "5d20376c56b9",
+      "priority": 1,
+      "group": "8b3410341612"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cabinet",
+      "meaningInSourceLanguage": "橱柜",
+      "id": "ac6c54915e69",
+      "priority": 0,
+      "group": "8f52ce7ea26a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cabinet",
+      "meaning": "橱柜",
+      "audio": "326d253e031c4f049264bdead3a54ce6",
+      "id": "9b1114e06792",
+      "priority": 1,
+      "group": "8f52ce7ea26a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sink",
+      "meaningInSourceLanguage": "水槽",
+      "id": "56b41d8d5d12",
+      "priority": 0,
+      "group": "73cf25e14fc3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sink",
+      "meaning": "水槽",
+      "audio": "d70c11c2f7b646c298784e97ae7cdefe",
+      "id": "4fa64f64582e",
+      "priority": 1,
+      "group": "73cf25e14fc3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "faucet",
+      "meaningInSourceLanguage": "水龙头",
+      "id": "1908839d5036",
+      "priority": 0,
+      "group": "4938eb139bc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "faucet",
+      "meaning": "水龙头",
+      "audio": "e9e328f0d1f4460d996eacd7eda769ba",
+      "id": "b6657b08f887",
+      "priority": 1,
+      "group": "4938eb139bc5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dish rack",
+      "meaningInSourceLanguage": "碗架",
+      "id": "40a7ebc1300e",
+      "priority": 0,
+      "group": "ac1cdbcd5e5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dish rack",
+      "meaning": "碗架",
+      "audio": "4c2fd253356c4de5ac74e76fff85f433",
+      "id": "a3c30c70185a",
+      "priority": 1,
+      "group": "ac1cdbcd5e5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dish towel",
+      "meaningInSourceLanguage": "洗碗巾",
+      "id": "980fc67625a4",
+      "priority": 0,
+      "group": "88fc951365f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dish towel",
+      "meaning": "洗碗巾",
+      "audio": "8ca79531cc864f01a98ef4ad268541f3",
+      "id": "c2747fe5db13",
+      "priority": 1,
+      "group": "88fc951365f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oven mitt",
+      "meaningInSourceLanguage": "烤箱手套",
+      "id": "3ad0a3757d12",
+      "priority": 0,
+      "group": "26cc5403dfa7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oven mitt",
+      "meaning": "烤箱手套",
+      "audio": "0f76ba53e82e461aac5f1be6ef765659",
+      "id": "3505ad823364",
+      "priority": 1,
+      "group": "26cc5403dfa7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pot holder",
+      "meaningInSourceLanguage": "锅垫",
+      "id": "e1cdb7a9c25d",
+      "priority": 0,
+      "group": "cfdae9888638"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pot holder",
+      "meaning": "锅垫",
+      "audio": "1a956d81c1c342af9bd21dfc31bbb9d2",
+      "id": "1c6962c9b6df",
+      "priority": 1,
+      "group": "cfdae9888638"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trivet",
+      "meaningInSourceLanguage": "三脚架",
+      "id": "84d1d42efa57",
+      "priority": 0,
+      "group": "ada00625a94a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trivet",
+      "meaning": "三脚架",
+      "audio": "fb2ab3c3faef4b6eb7b6934c59a543ce",
+      "id": "f18f84567f6b",
+      "priority": 1,
+      "group": "ada00625a94a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "measuring cup",
+      "meaningInSourceLanguage": "量杯",
+      "id": "c7125d6d0b11",
+      "priority": 0,
+      "group": "85e7e0914588"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "measuring cup",
+      "meaning": "量杯",
+      "audio": "a3a50a6eb2d34253aa05cf6f4d738b6d",
+      "id": "523be72afc95",
+      "priority": 1,
+      "group": "85e7e0914588"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "measuring spoon",
+      "meaningInSourceLanguage": "量勺",
+      "id": "65e0efdee66f",
+      "priority": 0,
+      "group": "2edc2310ccdc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "measuring spoon",
+      "meaning": "量勺",
+      "audio": "9485f493f77b42be9010be6040bbe5da",
+      "id": "a11183f9a8ff",
+      "priority": 1,
+      "group": "2edc2310ccdc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kitchen scale",
+      "meaningInSourceLanguage": "厨房秤",
+      "id": "15da87e4021b",
+      "priority": 0,
+      "group": "03a5607d9146"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kitchen scale",
+      "meaning": "厨房秤",
+      "audio": "36607a04d7574d608d0ea778efcbdd85",
+      "id": "cf34585726ae",
+      "priority": 1,
+      "group": "03a5607d9146"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "timer",
+      "meaningInSourceLanguage": "定时器",
+      "id": "9ceb66d13cef",
+      "priority": 0,
+      "group": "33db9f511c6b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "timer",
+      "meaning": "定时器",
+      "audio": "891c787239374a699d6b2bca1746eae5",
+      "id": "2286a49ce26b",
+      "priority": 1,
+      "group": "33db9f511c6b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "colander",
+      "meaningInSourceLanguage": "滤盆",
+      "id": "58d19ee8e9c1",
+      "priority": 0,
+      "group": "39e9cdc62fdc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "colander",
+      "meaning": "滤盆",
+      "audio": "ca4bb1bf935142a8999ed340285e9faa",
+      "id": "9b2c3ebd1466",
+      "priority": 1,
+      "group": "39e9cdc62fdc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grater",
+      "meaningInSourceLanguage": "刨丝器",
+      "id": "cb029527133f",
+      "priority": 0,
+      "group": "fdbaae3d838a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grater",
+      "meaning": "刨丝器",
+      "audio": "01047d8a337f4385be5a9cb72be6a3d1",
+      "id": "4056579a5ad2",
+      "priority": 1,
+      "group": "fdbaae3d838a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peeler",
+      "meaningInSourceLanguage": "削皮器",
+      "id": "40efbc8e53cd",
+      "priority": 0,
+      "group": "5f2279506a37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peeler",
+      "meaning": "削皮器",
+      "audio": "a0168a951a6a4a989bf3e75ee39d1d23",
+      "id": "9d75cb9c8cbd",
+      "priority": 1,
+      "group": "5f2279506a37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "can opener",
+      "meaningInSourceLanguage": "开罐器",
+      "id": "9c5227394040",
+      "priority": 0,
+      "group": "68e718f74193"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "can opener",
+      "meaning": "开罐器",
+      "audio": "74928bf3e36e450ba212b75676b14a96",
+      "id": "458b9b49e42c",
+      "priority": 1,
+      "group": "68e718f74193"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bottle opener",
+      "meaningInSourceLanguage": "开瓶器",
+      "id": "c15352fc74cb",
+      "priority": 0,
+      "group": "5845b41bc88e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bottle opener",
+      "meaning": "开瓶器",
+      "audio": "94e1fad8310f4e119b3d5ecd64899f86",
+      "id": "a62cc3c2cd4a",
+      "priority": 1,
+      "group": "5845b41bc88e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "corkscrew",
+      "meaningInSourceLanguage": "开塞钻",
+      "id": "3f35986cce1e",
+      "priority": 0,
+      "group": "fc9b33d3a275"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "corkscrew",
+      "meaning": "开塞钻",
+      "audio": "81a97eee3e5245668c491245ec9d0f52",
+      "id": "357cc35af4b3",
+      "priority": 1,
+      "group": "fc9b33d3a275"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nutcracker",
+      "meaningInSourceLanguage": "核桃夹",
+      "id": "44641ada6243",
+      "priority": 0,
+      "group": "05f644346a80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nutcracker",
+      "meaning": "核桃夹",
+      "audio": "63fe7da9e8fb4031a495f23991cffb26",
+      "id": "d8581d0ff059",
+      "priority": 1,
+      "group": "05f644346a80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "whisk",
+      "meaningInSourceLanguage": "打蛋器",
+      "id": "d0f74ae0b18c",
+      "priority": 0,
+      "group": "91ef46f24a6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "whisk",
+      "meaning": "打蛋器",
+      "audio": "3668a59f6d494188a0c52bcb3d4c8fc9",
+      "id": "6f265b8b00e1",
+      "priority": 1,
+      "group": "91ef46f24a6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spatula",
+      "meaningInSourceLanguage": "锅铲",
+      "id": "90d77720e4f9",
+      "priority": 0,
+      "group": "34344291dbce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spatula",
+      "meaning": "锅铲",
+      "audio": "9ad1d497b2314f63b67efdaa618f09a3",
+      "id": "4125153d7796",
+      "priority": 1,
+      "group": "34344291dbce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ladle",
+      "meaningInSourceLanguage": "汤勺",
+      "id": "9cd021de3a5d",
+      "priority": 0,
+      "group": "7d5ea67ecce3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ladle",
+      "meaning": "汤勺",
+      "audio": "2c638bbbf7374ceba55b1020a9efedfa",
+      "id": "78ec4300aa9e",
+      "priority": 1,
+      "group": "7d5ea67ecce3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tongs",
+      "meaningInSourceLanguage": "夹子",
+      "id": "4c46b951f9c4",
+      "priority": 0,
+      "group": "b71aa2ba208b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tongs",
+      "meaning": "夹子",
+      "audio": "9b60ab567be74c5eae6ac0a9eaadd671",
+      "id": "2e539f153541",
+      "priority": 1,
+      "group": "b71aa2ba208b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rolling pin",
+      "meaningInSourceLanguage": "擀面杖",
+      "id": "54e1b5c3da5e",
+      "priority": 0,
+      "group": "7205e20ddb94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rolling pin",
+      "meaning": "擀面杖",
+      "audio": "35f6cd8e3b2f4dbaa4e05cc1191d59b1",
+      "id": "b36a2e1982d2",
+      "priority": 1,
+      "group": "7205e20ddb94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pastry brush",
+      "meaningInSourceLanguage": "刷子",
+      "id": "6a5b858f6025",
+      "priority": 0,
+      "group": "7b104eefd261"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pastry brush",
+      "meaning": "刷子",
+      "audio": "f57f456e0f4349dc8ee518780f29f989",
+      "id": "e8fcb77d1517",
+      "priority": 1,
+      "group": "7b104eefd261"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "piping bag",
+      "meaningInSourceLanguage": "裱花袋",
+      "id": "d7d9d5fb0c9e",
+      "priority": 0,
+      "group": "d2f20e257679"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "piping bag",
+      "meaning": "裱花袋",
+      "audio": "6ada0dccd0054a5c82bab0b569f79414",
+      "id": "e97544a91b5f",
+      "priority": 1,
+      "group": "d2f20e257679"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baking sheet",
+      "meaningInSourceLanguage": "烤盘",
+      "id": "130756e3895a",
+      "priority": 0,
+      "group": "3ecbce493a3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baking sheet",
+      "meaning": "烤盘",
+      "audio": "75e2a3659af44285b973dc2268302921",
+      "id": "5e1d0c3ce3ee",
+      "priority": 1,
+      "group": "3ecbce493a3e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "muffin tin",
+      "meaningInSourceLanguage": "松饼模具",
+      "id": "e22966ca9e20",
+      "priority": 0,
+      "group": "46792dd38885"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "muffin tin",
+      "meaning": "松饼模具",
+      "audio": "3c57b43aa7444ffab1ae0a48b13e487e",
+      "id": "dbcb4ebab33e",
+      "priority": 1,
+      "group": "46792dd38885"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cake pan",
+      "meaningInSourceLanguage": "蛋糕模具",
+      "id": "b2fbaa9232f4",
+      "priority": 0,
+      "group": "74daf7adb668"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cake pan",
+      "meaning": "蛋糕模具",
+      "audio": "8371d0741d9b477c9e7ba46c7377e71f",
+      "id": "3a078b59286f",
+      "priority": 1,
+      "group": "74daf7adb668"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "loaf pan",
+      "meaningInSourceLanguage": "面包模具",
+      "id": "0d5d22992c5f",
+      "priority": 0,
+      "group": "35d9e3d7d376"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "loaf pan",
+      "meaning": "面包模具",
+      "audio": "6e73aa282075471b87a6d7a335c86fab",
+      "id": "8ca0de4a70ed",
+      "priority": 1,
+      "group": "35d9e3d7d376"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pie dish",
+      "meaningInSourceLanguage": "派盘",
+      "id": "a48ac6a86cef",
+      "priority": 0,
+      "group": "06c370a780ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pie dish",
+      "meaning": "派盘",
+      "audio": "6f62b3b6c99041fe830f87cd01fe6538",
+      "id": "db0f96255acc",
+      "priority": 1,
+      "group": "06c370a780ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roasting pan",
+      "meaningInSourceLanguage": "烤锅",
+      "id": "ba42b7f89b39",
+      "priority": 0,
+      "group": "1af4b4325e22"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roasting pan",
+      "meaning": "烤锅",
+      "audio": "09a168407942441aa9fadf90416d09d8",
+      "id": "f14449163eee",
+      "priority": 1,
+      "group": "1af4b4325e22"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cutting board",
+      "meaningInSourceLanguage": "砧板",
+      "id": "cd8c82619500",
+      "priority": 0,
+      "group": "fc23e391d607"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cutting board",
+      "meaning": "砧板",
+      "audio": "3c8596bcc9fb408db640cfd85a9199ad",
+      "id": "9f9aa1611e9a",
+      "priority": 1,
+      "group": "fc23e391d607"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chef knife",
+      "meaningInSourceLanguage": "厨师刀",
+      "id": "d6f2b83288a9",
+      "priority": 0,
+      "group": "41fcebe4e600"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chef knife",
+      "meaning": "厨师刀",
+      "audio": "8b4e3e4092b941a78beb5f2c02623a63",
+      "id": "f92bed039509",
+      "priority": 1,
+      "group": "41fcebe4e600"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paring knife",
+      "meaningInSourceLanguage": "水果刀",
+      "id": "57fdeba01a32",
+      "priority": 0,
+      "group": "d93a4befbd2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paring knife",
+      "meaning": "水果刀",
+      "audio": "14e9ba7390074f79b454403194522dbc",
+      "id": "5464f3a00ea3",
+      "priority": 1,
+      "group": "d93a4befbd2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bread knife",
+      "meaningInSourceLanguage": "面包刀",
+      "id": "a7b28f817192",
+      "priority": 0,
+      "group": "14bc8fc6e626"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bread knife",
+      "meaning": "面包刀",
+      "audio": "535398e7434e4cb0a3d29bc1e65a2ce2",
+      "id": "06cd4c8d2254",
+      "priority": 1,
+      "group": "14bc8fc6e626"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cleaver",
+      "meaningInSourceLanguage": "菜刀",
+      "id": "14a4eb0681c1",
+      "priority": 0,
+      "group": "9dfb20773c49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cleaver",
+      "meaning": "菜刀",
+      "audio": "9b2d2dc751ef4f138f56d3bdfe145854",
+      "id": "ab1ab4624603",
+      "priority": 1,
+      "group": "9dfb20773c49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sharpener",
+      "meaningInSourceLanguage": "磨刀器",
+      "id": "48a53d1f2edd",
+      "priority": 0,
+      "group": "07b6d2349dc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sharpener",
+      "meaning": "磨刀器",
+      "audio": "6148770b3153466092947b83c8e58e33",
+      "id": "01c85456e43e",
+      "priority": 1,
+      "group": "07b6d2349dc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mortar and pestle",
+      "meaningInSourceLanguage": "研钵和研杵",
+      "id": "8543e65f69a5",
+      "priority": 0,
+      "group": "9bd9d5eec327"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mortar and pestle",
+      "meaning": "研钵和研杵",
+      "audio": "590cad4a3b524847b6dbe55a029138ac",
+      "id": "6c2eeb44ba5e",
+      "priority": 1,
+      "group": "9bd9d5eec327"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "food processor",
+      "meaningInSourceLanguage": "食品加工机",
+      "id": "3ad2d738476a",
+      "priority": 0,
+      "group": "4315ebe2a16b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "food processor",
+      "meaning": "食品加工机",
+      "audio": "9304f4e5a8854290afde020dc0ccd91e",
+      "id": "160bc8aca43a",
+      "priority": 1,
+      "group": "4315ebe2a16b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blender",
+      "meaningInSourceLanguage": "搅拌机",
+      "id": "8dedcb5ff75f",
+      "priority": 0,
+      "group": "3fdfd4c23301"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blender",
+      "meaning": "搅拌机",
+      "audio": "d405bedb410b4b8b94d118312e42e15a",
+      "id": "7585fa9f6478",
+      "priority": 1,
+      "group": "3fdfd4c23301"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mixer",
+      "meaningInSourceLanguage": "搅拌器",
+      "id": "d39ba7bf863c",
+      "priority": 0,
+      "group": "300bf3c6e660"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mixer",
+      "meaning": "搅拌器",
+      "audio": "164010e1094343b2a712a4d17f4b5e84",
+      "id": "785d55b304c6",
+      "priority": 1,
+      "group": "300bf3c6e660"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toaster",
+      "meaningInSourceLanguage": "烤面包机",
+      "id": "9b9d82212229",
+      "priority": 0,
+      "group": "a3223c7797ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toaster",
+      "meaning": "烤面包机",
+      "audio": "8355d81e109d496f9e4792f1b8bdd125",
+      "id": "4ce822e3ea3b",
+      "priority": 1,
+      "group": "a3223c7797ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coffee maker",
+      "meaningInSourceLanguage": "咖啡机",
+      "id": "2c57010e1136",
+      "priority": 0,
+      "group": "300533a9e4cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coffee maker",
+      "meaning": "咖啡机",
+      "audio": "03f06aa0f35c42598008695afcb11023",
+      "id": "5e7271b668ab",
+      "priority": 1,
+      "group": "300533a9e4cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "electric kettle",
+      "meaningInSourceLanguage": "电水壶",
+      "id": "846eeeef68e0",
+      "priority": 0,
+      "group": "04fd7138d7ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "electric kettle",
+      "meaning": "电水壶",
+      "audio": "5ee3a57cfdb54b0a91c9db04a59609cc",
+      "id": "fea8f211a1ef",
+      "priority": 1,
+      "group": "04fd7138d7ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rice cooker",
+      "meaningInSourceLanguage": "电饭煲",
+      "id": "6252e8d555a0",
+      "priority": 0,
+      "group": "57c6c8a5c986"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rice cooker",
+      "meaning": "电饭煲",
+      "audio": "80bb9ffac1814d9f83f2386aabe4c53e",
+      "id": "e3febdc0ec94",
+      "priority": 1,
+      "group": "57c6c8a5c986"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "slow cooker",
+      "meaningInSourceLanguage": "慢炖锅",
+      "id": "0e5dfd359d26",
+      "priority": 0,
+      "group": "cf0a3a478571"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "slow cooker",
+      "meaning": "慢炖锅",
+      "audio": "985dfbe4b4bb437bbbcaa8ba79201b9a",
+      "id": "a9c5bc2322e1",
+      "priority": 1,
+      "group": "cf0a3a478571"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pressure cooker",
+      "meaningInSourceLanguage": "压力锅",
+      "id": "fcb3b7f1fba5",
+      "priority": 0,
+      "group": "91837f6a8b39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pressure cooker",
+      "meaning": "压力锅",
+      "audio": "80f8b418bd0a49ddaac0645679be01af",
+      "id": "346fda3c5d8c",
+      "priority": 1,
+      "group": "91837f6a8b39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "air fryer",
+      "meaningInSourceLanguage": "空气炸锅",
+      "id": "0376002c8a98",
+      "priority": 0,
+      "group": "d8f0d84732f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "air fryer",
+      "meaning": "空气炸锅",
+      "audio": "4dbea31beecc479f96d1b0cd10a053ea",
+      "id": "a520c5d50bf0",
+      "priority": 1,
+      "group": "d8f0d84732f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deep fryer",
+      "meaningInSourceLanguage": "油炸锅",
+      "id": "c624bcf0abd4",
+      "priority": 0,
+      "group": "b521c4bc8d00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deep fryer",
+      "meaning": "油炸锅",
+      "audio": "3446041bd8fb413badab7dd7032c7552",
+      "id": "603dae754d53",
+      "priority": 1,
+      "group": "b521c4bc8d00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grill pan",
+      "meaningInSourceLanguage": "烤盘",
+      "id": "bd5a6a081ad3",
+      "priority": 0,
+      "group": "1b2d3d25b1c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grill pan",
+      "meaning": "烤盘",
+      "audio": "9e4e1921c8ee418da9f96f95000b31d5",
+      "id": "47a27daf0f7e",
+      "priority": 1,
+      "group": "1b2d3d25b1c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wok",
+      "meaningInSourceLanguage": "炒锅",
+      "id": "9dc9f283834a",
+      "priority": 0,
+      "group": "46964233699f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wok",
+      "meaning": "炒锅",
+      "audio": "820ff6e71f8e49268329ef11876daa57",
+      "id": "a7d32990cfe5",
+      "priority": 1,
+      "group": "46964233699f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "saucepan",
+      "meaningInSourceLanguage": "平底锅",
+      "id": "65c2f86ad8b1",
+      "priority": 0,
+      "group": "051a95c26e02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "saucepan",
+      "meaning": "平底锅",
+      "audio": "2f2f238447ba4e3c86cd6daff8630cc4",
+      "id": "7d4c89a53a25",
+      "priority": 1,
+      "group": "051a95c26e02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skillet",
+      "meaningInSourceLanguage": "煎锅",
+      "id": "49c0e6011fbf",
+      "priority": 0,
+      "group": "6e1e075ff1cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skillet",
+      "meaning": "煎锅",
+      "audio": "8d36e543c6004aeba2870dbae8d873bf",
+      "id": "0805865f40a2",
+      "priority": 1,
+      "group": "6e1e075ff1cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dutch oven",
+      "meaningInSourceLanguage": "荷兰锅",
+      "id": "740557b27977",
+      "priority": 0,
+      "group": "b58c5e9a4e0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dutch oven",
+      "meaning": "荷兰锅",
+      "audio": "522f9d1dce4a44c4a9b23edea304b74a",
+      "id": "41c9152a8430",
+      "priority": 1,
+      "group": "b58c5e9a4e0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "casserole dish",
+      "meaningInSourceLanguage": "砂锅",
+      "id": "a562f4d0e8b3",
+      "priority": 0,
+      "group": "6f536e5cc875"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "casserole dish",
+      "meaning": "砂锅",
+      "audio": "4ee65ba9899149d891e02ef3079cb1aa",
+      "id": "58f9fe7c9130",
+      "priority": 1,
+      "group": "6f536e5cc875"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "steamer",
+      "meaningInSourceLanguage": "蒸锅",
+      "id": "69f2a6daea01",
+      "priority": 0,
+      "group": "00286a86fcde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "steamer",
+      "meaning": "蒸锅",
+      "audio": "583693e867d740bea218eaf8d5c407e5",
+      "id": "ab0bd36d14cd",
+      "priority": 1,
+      "group": "00286a86fcde"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kitchen knife",
+      "meaningInSourceLanguage": "厨房刀",
+      "id": "d153010f376c",
+      "priority": 0,
+      "group": "059c5445d96c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kitchen knife",
+      "meaning": "厨房刀",
+      "audio": "81418961a72d41849e8d893a6f42dfe5",
+      "id": "ff86556a173a",
+      "priority": 1,
+      "group": "059c5445d96c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cutting board",
+      "meaningInSourceLanguage": "切菜板",
+      "id": "3617cbb8c48a",
+      "priority": 0,
+      "group": "f0864324e761"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cutting board",
+      "meaning": "切菜板",
+      "audio": "975d7f931efa496d8f74b5d76deceb65",
+      "id": "c94f081ba107",
+      "priority": 1,
+      "group": "f0864324e761"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kitchen scale",
+      "meaningInSourceLanguage": "厨房秤",
+      "id": "6752c271f4fc",
+      "priority": 0,
+      "group": "dd4e378096af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kitchen scale",
+      "meaning": "厨房秤",
+      "audio": "3102355b411847e886cae4a720608be7",
+      "id": "4ce1a318ae03",
+      "priority": 1,
+      "group": "dd4e378096af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "juicer",
+      "meaningInSourceLanguage": "榨汁机",
+      "id": "b9cac7a6e47e",
+      "priority": 0,
+      "group": "fc5732523418"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "juicer",
+      "meaning": "榨汁机",
+      "audio": "8e17197d3ae74a71813548f25c0ec4e8",
+      "id": "f267b74a6b2e",
+      "priority": 1,
+      "group": "fc5732523418"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ice cream maker",
+      "meaningInSourceLanguage": "冰淇淋机",
+      "id": "8f357eb4214b",
+      "priority": 0,
+      "group": "48ac136a752a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ice cream maker",
+      "meaning": "冰淇淋机",
+      "audio": "9dd5d28845344ee9aaf6d68ae798363c",
+      "id": "5485c56b88e7",
+      "priority": 1,
+      "group": "48ac136a752a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bread machine",
+      "meaningInSourceLanguage": "面包机",
+      "id": "da3d119e322d",
+      "priority": 0,
+      "group": "fd3fe9487399"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bread machine",
+      "meaning": "面包机",
+      "audio": "1b8a2bca1a2a4883a13bdc3b0f941ce8",
+      "id": "c4f1e06b1c46",
+      "priority": 1,
+      "group": "fd3fe9487399"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kitchen utensil",
+      "meaningInSourceLanguage": "厨具",
+      "id": "3cd9158056ce",
+      "priority": 0,
+      "group": "e26541997529"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kitchen utensil",
+      "meaning": "厨具",
+      "audio": "33ae152213a3422c9f7354805c59378a",
+      "id": "93d588214935",
+      "priority": 1,
+      "group": "e26541997529"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cooking oil",
+      "meaningInSourceLanguage": "食用油",
+      "id": "0a09e21dae36",
+      "priority": 0,
+      "group": "c06bd3f58c93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cooking oil",
+      "meaning": "食用油",
+      "audio": "a4415db647534179b72fece64fedf3d2",
+      "id": "149f48305d99",
+      "priority": 1,
+      "group": "c06bd3f58c93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "olive oil",
+      "meaningInSourceLanguage": "橄榄油",
+      "id": "d28b64d7cdf3",
+      "priority": 0,
+      "group": "0a6f2af7bb3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "olive oil",
+      "meaning": "橄榄油",
+      "audio": "921b332097ea4224bffb47da5379bc85",
+      "id": "75c4753b1da7",
+      "priority": 1,
+      "group": "0a6f2af7bb3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vegetable oil",
+      "meaningInSourceLanguage": "植物油",
+      "id": "25929f2de5c8",
+      "priority": 0,
+      "group": "115f2aa48e12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vegetable oil",
+      "meaning": "植物油",
+      "audio": "da3c4328ef6f442f891fd3ea902d13e6",
+      "id": "c8aa76eee04e",
+      "priority": 1,
+      "group": "115f2aa48e12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sesame oil",
+      "meaningInSourceLanguage": "芝麻油",
+      "id": "2a738c3f7d63",
+      "priority": 0,
+      "group": "44f92fd4d0b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sesame oil",
+      "meaning": "芝麻油",
+      "audio": "a75608d176914f709ed5f31ec17bb92c",
+      "id": "addb7d8d66ea",
+      "priority": 1,
+      "group": "44f92fd4d0b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peanut oil",
+      "meaningInSourceLanguage": "花生油",
+      "id": "7566dabe7fe6",
+      "priority": 0,
+      "group": "7d106c1fe5cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peanut oil",
+      "meaning": "花生油",
+      "audio": "4a0a9d918257458ca96707d15fe780ad",
+      "id": "51c602503b97",
+      "priority": 1,
+      "group": "7d106c1fe5cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coconut oil",
+      "meaningInSourceLanguage": "椰子油",
+      "id": "0c1dabc0bce6",
+      "priority": 0,
+      "group": "78ddf566f35a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coconut oil",
+      "meaning": "椰子油",
+      "audio": "9ceb08f4a988494c987a8f02284e566b",
+      "id": "be74ab6a28b2",
+      "priority": 1,
+      "group": "78ddf566f35a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "butter",
+      "meaningInSourceLanguage": "黄油",
+      "id": "c5f4de15c494",
+      "priority": 0,
+      "group": "8bc24fe9fd31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "butter",
+      "meaning": "黄油",
+      "audio": "6ee7d54aeed943d58a5cdf6178823376",
+      "id": "698a7ec3190b",
+      "priority": 1,
+      "group": "8bc24fe9fd31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "margarine",
+      "meaningInSourceLanguage": "人造黄油",
+      "id": "4c539bab456a",
+      "priority": 0,
+      "group": "6dc8fd748669"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "margarine",
+      "meaning": "人造黄油",
+      "audio": "f6137372f78d4fdd88714ecc470183c4",
+      "id": "b6b0f45b2561",
+      "priority": 1,
+      "group": "6dc8fd748669"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shortening",
+      "meaningInSourceLanguage": "起酥油",
+      "id": "3b8dc520726b",
+      "priority": 0,
+      "group": "f645630cb87c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shortening",
+      "meaning": "起酥油",
+      "audio": "5fbe0e726b144106817b4510534adf8a",
+      "id": "f4177e0e2f61",
+      "priority": 1,
+      "group": "f645630cb87c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lard",
+      "meaningInSourceLanguage": "猪油",
+      "id": "25bffcdc1a72",
+      "priority": 0,
+      "group": "6d197ba074eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lard",
+      "meaning": "猪油",
+      "audio": "f319a7934caa46c1a8f4d9cfc35ad13b",
+      "id": "054960a7173c",
+      "priority": 1,
+      "group": "6d197ba074eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salt",
+      "meaningInSourceLanguage": "盐",
+      "id": "a334e796be5a",
+      "priority": 0,
+      "group": "2980d800470b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salt",
+      "meaning": "盐",
+      "audio": "1c14acb18a714417a338caecd18ff810",
+      "id": "b2c91e4b7991",
+      "priority": 1,
+      "group": "2980d800470b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pepper",
+      "meaningInSourceLanguage": "胡椒",
+      "id": "e27e024a6164",
+      "priority": 0,
+      "group": "3683ff1ec3c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pepper",
+      "meaning": "胡椒",
+      "audio": "5b0203a02f464e8b814140671743e0c1",
+      "id": "49569fc80688",
+      "priority": 1,
+      "group": "3683ff1ec3c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sweet",
+      "meaningInSourceLanguage": "甜的",
+      "id": "7b1c38517ac0",
+      "priority": 0,
+      "group": "7eb24ea01075"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sweet",
+      "meaning": "甜的",
+      "audio": "06cf1c6695de422f860b1d258a8e7da1",
+      "id": "a0c572d2f152",
+      "priority": 1,
+      "group": "7eb24ea01075"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bitter",
+      "meaningInSourceLanguage": "苦的",
+      "id": "043f5acd8582",
+      "priority": 0,
+      "group": "1344028d3d0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bitter",
+      "meaning": "苦的",
+      "audio": "444ff6ad9d6f471db868750dee076ed6",
+      "id": "dedd82929676",
+      "priority": 1,
+      "group": "1344028d3d0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spicy",
+      "meaningInSourceLanguage": "辣的",
+      "id": "a39f77a3102c",
+      "priority": 0,
+      "group": "c6f63996d926"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spicy",
+      "meaning": "辣的",
+      "audio": "f25e4c6c0ee54417afc73d62d76ded50",
+      "id": "37a542656e3c",
+      "priority": 1,
+      "group": "c6f63996d926"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salty",
+      "meaningInSourceLanguage": "咸的",
+      "id": "f072d7034b58",
+      "priority": 0,
+      "group": "044f2d846726"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salty",
+      "meaning": "咸的",
+      "audio": "d748c8c15cf748b1a0297fc5d57144c6",
+      "id": "14def1840b0e",
+      "priority": 1,
+      "group": "044f2d846726"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fresh",
+      "meaningInSourceLanguage": "新鲜的",
+      "id": "f7f8398abaa8",
+      "priority": 0,
+      "group": "54b5ead4bafe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fresh",
+      "meaning": "新鲜的",
+      "audio": "922009d93ccf40ec8fc28639be4615ce",
+      "id": "b871dbb499d8",
+      "priority": 1,
+      "group": "54b5ead4bafe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stale",
+      "meaningInSourceLanguage": "不新鲜的",
+      "id": "a055dd5242e3",
+      "priority": 0,
+      "group": "d93adf60df4f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stale",
+      "meaning": "不新鲜的",
+      "audio": "8ed12caeff364c3d9d566e3e5b1fd23c",
+      "id": "48680845c39a",
+      "priority": 1,
+      "group": "d93adf60df4f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "raw",
+      "meaningInSourceLanguage": "生的",
+      "id": "b3d6fbe253cf",
+      "priority": 0,
+      "group": "9fc038b617c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "raw",
+      "meaning": "生的",
+      "audio": "6008ca98957b46599a2bfb9c219f29d8",
+      "id": "a5843ea2cf79",
+      "priority": 1,
+      "group": "9fc038b617c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cooked",
+      "meaningInSourceLanguage": "熟的",
+      "id": "ef83539530b5",
+      "priority": 0,
+      "group": "1e7a8cd3fa01"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cooked",
+      "meaning": "熟的",
+      "audio": "b0c6be4c61ac4b2ea6256fc8ea685b4b",
+      "id": "71c708a75985",
+      "priority": 1,
+      "group": "1e7a8cd3fa01"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "frozen",
+      "meaningInSourceLanguage": "冷冻的",
+      "id": "6964220d59b8",
+      "priority": 0,
+      "group": "3512eab502b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frozen",
+      "meaning": "冷冻的",
+      "audio": "770ab8de7e37460db67592272704f1f9",
+      "id": "ff060eb956fd",
+      "priority": 1,
+      "group": "3512eab502b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "organic",
+      "meaningInSourceLanguage": "有机的",
+      "id": "465990e4c6c1",
+      "priority": 0,
+      "group": "716d1ed9c65b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "organic",
+      "meaning": "有机的",
+      "audio": "b6d3aa8ef5b34406851a94c4330c8a3a",
+      "id": "6db9081107c6",
+      "priority": 1,
+      "group": "716d1ed9c65b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vegetarian",
+      "meaningInSourceLanguage": "素食的",
+      "id": "0429531511ed",
+      "priority": 0,
+      "group": "57cf54eadb4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vegetarian",
+      "meaning": "素食的",
+      "audio": "c16810e458c0477c8d97f8449434acb9",
+      "id": "3d24941f41c6",
+      "priority": 1,
+      "group": "57cf54eadb4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vegan",
+      "meaningInSourceLanguage": "纯素的",
+      "id": "a1b76bcace8a",
+      "priority": 0,
+      "group": "958890e77d03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vegan",
+      "meaning": "纯素的",
+      "audio": "1b7ee81a6fe94cd5a76e95f73c351792",
+      "id": "d3a4f776fccc",
+      "priority": 1,
+      "group": "958890e77d03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gluten-free",
+      "meaningInSourceLanguage": "无麸质的",
+      "id": "58c8371347a1",
+      "priority": 0,
+      "group": "0ac3692cc85d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gluten-free",
+      "meaning": "无麸质的",
+      "audio": "1a2446e1131f4b44a4953c010497d4eb",
+      "id": "20edaa84cd44",
+      "priority": 1,
+      "group": "0ac3692cc85d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nutritious",
+      "meaningInSourceLanguage": "有营养的",
+      "id": "8e7c3e43361d",
+      "priority": 0,
+      "group": "5c3c16302c82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nutritious",
+      "meaning": "有营养的",
+      "audio": "90fdc91ccf724288b328ec9a7da4256d",
+      "id": "6d6bdb5cfc1f",
+      "priority": 1,
+      "group": "5c3c16302c82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calorie",
+      "meaningInSourceLanguage": "卡路里",
+      "id": "16186e5949b3",
+      "priority": 0,
+      "group": "c60e0e3f7caf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calorie",
+      "meaning": "卡路里",
+      "audio": "344ae478c91c48819ce43c95e6dcbb14",
+      "id": "f5d51181bd7e",
+      "priority": 1,
+      "group": "c60e0e3f7caf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diet",
+      "meaningInSourceLanguage": "饮食",
+      "id": "3414b8d06ae5",
+      "priority": 0,
+      "group": "afa878014cc9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diet",
+      "meaning": "饮食",
+      "audio": "c130d4e0714b424d9aa09d569e80293b",
+      "id": "b6635a6f2b1c",
+      "priority": 1,
+      "group": "afa878014cc9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hungry",
+      "meaningInSourceLanguage": "饿的",
+      "id": "32e47fa4319d",
+      "priority": 0,
+      "group": "99f96deb3150"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hungry",
+      "meaning": "饿的",
+      "audio": "6c6e4e68950844eb84df58368cfce693",
+      "id": "f08d605f203b",
+      "priority": 1,
+      "group": "99f96deb3150"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thirsty",
+      "meaningInSourceLanguage": "渴的",
+      "id": "2cae70b90c7e",
+      "priority": 0,
+      "group": "b10a08d60bce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thirsty",
+      "meaning": "渴的",
+      "audio": "e514f516610447dc9b0a1b465cb2cd09",
+      "id": "416214630af7",
+      "priority": 1,
+      "group": "b10a08d60bce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "full",
+      "meaningInSourceLanguage": "饱的",
+      "id": "e2f06c8e8c6b",
+      "priority": 0,
+      "group": "b672e259ad14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "full",
+      "meaning": "饱的",
+      "audio": "8fc5989db8f440fc961ebc42495ca1f7",
+      "id": "6c503087f39e",
+      "priority": 1,
+      "group": "b672e259ad14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "taste",
+      "meaningInSourceLanguage": "味道",
+      "id": "a13b2fab460a",
+      "priority": 0,
+      "group": "1aeced9ec2ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "taste",
+      "meaning": "味道",
+      "audio": "567f5881fe4341f2b3d9fba2b467219b",
+      "id": "fe358e37f2c2",
+      "priority": 1,
+      "group": "1aeced9ec2ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flavor",
+      "meaningInSourceLanguage": "风味",
+      "id": "2a3bc6842b78",
+      "priority": 0,
+      "group": "231ef9614289"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flavor",
+      "meaning": "风味",
+      "audio": "3a1398d885f741dea047027f319209be",
+      "id": "209b65a59641",
+      "priority": 1,
+      "group": "231ef9614289"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aroma",
+      "meaningInSourceLanguage": "香气",
+      "id": "3bca3a58c701",
+      "priority": 0,
+      "group": "cf338ce3520a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aroma",
+      "meaning": "香气",
+      "audio": "16a5e1f8e9ec4b7b8f56d140dfc1b3b2",
+      "id": "d6dc9267893c",
+      "priority": 1,
+      "group": "cf338ce3520a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "broccoli",
+      "meaningInSourceLanguage": "西兰花",
+      "id": "18638b894587",
+      "priority": 0,
+      "group": "7c05cbef74bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "broccoli",
+      "meaning": "西兰花",
+      "audio": "68174999263642498a607c1db3ad299f",
+      "id": "e3b62ef428c6",
+      "priority": 1,
+      "group": "7c05cbef74bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spinach",
+      "meaningInSourceLanguage": "菠菜",
+      "id": "c52f62fa1697",
+      "priority": 0,
+      "group": "83006e1eab8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spinach",
+      "meaning": "菠菜",
+      "audio": "68c1758fe0e744869a04dfbf7b3a784d",
+      "id": "eced26ad8be8",
+      "priority": 1,
+      "group": "83006e1eab8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "celery",
+      "meaningInSourceLanguage": "芹菜",
+      "id": "515c6f7a6a8a",
+      "priority": 0,
+      "group": "d76a7c52a5e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "celery",
+      "meaning": "芹菜",
+      "audio": "8510d02891c8409d9d68f45116c655a6",
+      "id": "7764c44c05a1",
+      "priority": 1,
+      "group": "d76a7c52a5e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "asparagus",
+      "meaningInSourceLanguage": "芦笋",
+      "id": "19344fba2fcf",
+      "priority": 0,
+      "group": "584663e46ba2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "asparagus",
+      "meaning": "芦笋",
+      "audio": "1993f6e21b1b454e964ead564f9ef3c7",
+      "id": "9444185046c3",
+      "priority": 1,
+      "group": "584663e46ba2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cauliflower",
+      "meaningInSourceLanguage": "花椰菜",
+      "id": "2abe167b6532",
+      "priority": 0,
+      "group": "452060c327a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cauliflower",
+      "meaning": "花椰菜",
+      "audio": "07b39b30eca047228abf043abad3c119",
+      "id": "1dc2d8608d8a",
+      "priority": 1,
+      "group": "452060c327a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bell pepper",
+      "meaningInSourceLanguage": "甜椒",
+      "id": "2e8f6c30b703",
+      "priority": 0,
+      "group": "ef661127ec35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bell pepper",
+      "meaning": "甜椒",
+      "audio": "f9c355a59ae44024ab8fd79215644979",
+      "id": "756a81d108cb",
+      "priority": 1,
+      "group": "ef661127ec35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chili",
+      "meaningInSourceLanguage": "辣椒",
+      "id": "91555a6dd2a0",
+      "priority": 0,
+      "group": "1dd6a0818a71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chili",
+      "meaning": "辣椒",
+      "audio": "b33f5eaa832f4f10a7c458298fc9287f",
+      "id": "3c61ade0e2d5",
+      "priority": 1,
+      "group": "1dd6a0818a71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zucchini",
+      "meaningInSourceLanguage": "西葫芦",
+      "id": "971ab5064f6e",
+      "priority": 0,
+      "group": "0d69ca18002e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zucchini",
+      "meaning": "西葫芦",
+      "audio": "2ea540b1c7e145fcb3213ec70aa26440",
+      "id": "3ff3e61315df",
+      "priority": 1,
+      "group": "0d69ca18002e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eggplant",
+      "meaningInSourceLanguage": "茄子",
+      "id": "1058175cd46e",
+      "priority": 0,
+      "group": "8a5e06651829"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eggplant",
+      "meaning": "茄子",
+      "audio": "c8d14ad0da0a486d83296ef8e327219f",
+      "id": "90c83849dba8",
+      "priority": 1,
+      "group": "8a5e06651829"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sweet potato",
+      "meaningInSourceLanguage": "红薯",
+      "id": "40766d08794e",
+      "priority": 0,
+      "group": "3c60266bb42e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sweet potato",
+      "meaning": "红薯",
+      "audio": "4ef3ddded6fb4af39dc2b1c71e78f662",
+      "id": "e9dbeb44e37d",
+      "priority": 1,
+      "group": "3c60266bb42e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pumpkin",
+      "meaningInSourceLanguage": "南瓜",
+      "id": "477121340e2d",
+      "priority": 0,
+      "group": "9d85b8a72f21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pumpkin",
+      "meaning": "南瓜",
+      "audio": "5461a837165f467aa150fca00509831c",
+      "id": "b21db6a6df1b",
+      "priority": 1,
+      "group": "9d85b8a72f21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "radish",
+      "meaningInSourceLanguage": "萝卜",
+      "id": "7b8c58709945",
+      "priority": 0,
+      "group": "653fd30b5dee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "radish",
+      "meaning": "萝卜",
+      "audio": "42e35b1e26dc47dd8fb2d05e6e0923af",
+      "id": "a4eb6d1df45f",
+      "priority": 1,
+      "group": "653fd30b5dee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turnip",
+      "meaningInSourceLanguage": "芜菁",
+      "id": "a982c59adffc",
+      "priority": 0,
+      "group": "ffcc4fc73f16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turnip",
+      "meaning": "芜菁",
+      "audio": "d4ba8cb99dd847e5b593784b15d6aea8",
+      "id": "900201cbc748",
+      "priority": 1,
+      "group": "ffcc4fc73f16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beet",
+      "meaningInSourceLanguage": "甜菜",
+      "id": "374a2e0f63f1",
+      "priority": 0,
+      "group": "5965be2a29fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beet",
+      "meaning": "甜菜",
+      "audio": "38b28b1298a7478c90c8ec9f3409b9e1",
+      "id": "313081505d92",
+      "priority": 1,
+      "group": "5965be2a29fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pea",
+      "meaningInSourceLanguage": "豌豆",
+      "id": "a72119b9faf1",
+      "priority": 0,
+      "group": "7df8882085e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pea",
+      "meaning": "豌豆",
+      "audio": "e1af042ed4624511a1e90d66c524e95c",
+      "id": "b67c31b9c392",
+      "priority": 1,
+      "group": "7df8882085e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "green bean",
+      "meaningInSourceLanguage": "四季豆",
+      "id": "b4eb9006ceea",
+      "priority": 0,
+      "group": "78837e75c721"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "green bean",
+      "meaning": "四季豆",
+      "audio": "1a481dd0a26c4e9b86cc82cf1b068873",
+      "id": "df3d41e3eb8a",
+      "priority": 1,
+      "group": "78837e75c721"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lentil",
+      "meaningInSourceLanguage": "扁豆",
+      "id": "9ca169996278",
+      "priority": 0,
+      "group": "3c3e467660d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lentil",
+      "meaning": "扁豆",
+      "audio": "759806fa25a540319493f6f178cb9b66",
+      "id": "b35f7beb3339",
+      "priority": 1,
+      "group": "3c3e467660d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chickpea",
+      "meaningInSourceLanguage": "鹰嘴豆",
+      "id": "ac4590a8a301",
+      "priority": 0,
+      "group": "7a2042a42252"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chickpea",
+      "meaning": "鹰嘴豆",
+      "audio": "bec20a830c4f465f8b75e26a05e02cb5",
+      "id": "a6f88f343af5",
+      "priority": 1,
+      "group": "7a2042a42252"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "almond",
+      "meaningInSourceLanguage": "杏仁",
+      "id": "e825baf02bb3",
+      "priority": 0,
+      "group": "cefac939a2d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "almond",
+      "meaning": "杏仁",
+      "audio": "a6ea8c2590544a15aeee6452451fb481",
+      "id": "9bf3c331268d",
+      "priority": 1,
+      "group": "cefac939a2d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "walnut",
+      "meaningInSourceLanguage": "核桃",
+      "id": "2418e7d02f5b",
+      "priority": 0,
+      "group": "a8c3f8f31a37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "walnut",
+      "meaning": "核桃",
+      "audio": "5b5d89fb2c044c68b39a209bdc41c1e1",
+      "id": "428a23a0379b",
+      "priority": 1,
+      "group": "a8c3f8f31a37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peanut",
+      "meaningInSourceLanguage": "花生",
+      "id": "7394ae880b03",
+      "priority": 0,
+      "group": "4821aae81f4d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peanut",
+      "meaning": "花生",
+      "audio": "ec2ee133f5d84ddc8814a2c54c584a05",
+      "id": "154730c0416a",
+      "priority": 1,
+      "group": "4821aae81f4d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cashew",
+      "meaningInSourceLanguage": "腰果",
+      "id": "1e14efb4fd6f",
+      "priority": 0,
+      "group": "3df34e4e4620"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cashew",
+      "meaning": "腰果",
+      "audio": "bd5cdcdfdd694e1fa5b4005917f4cc66",
+      "id": "0b84e5530541",
+      "priority": 1,
+      "group": "3df34e4e4620"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pistachio",
+      "meaningInSourceLanguage": "开心果",
+      "id": "4f0ed9bce576",
+      "priority": 0,
+      "group": "9a9649606c23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pistachio",
+      "meaning": "开心果",
+      "audio": "d51932dbbf7845adb038ed3006310340",
+      "id": "4cbfd17d4bcc",
+      "priority": 1,
+      "group": "9a9649606c23"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pecan",
+      "meaningInSourceLanguage": "山核桃",
+      "id": "9a47f5d26e20",
+      "priority": 0,
+      "group": "2d6dff8295d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pecan",
+      "meaning": "山核桃",
+      "audio": "de96e3873cea44879c21a386cbe4802b",
+      "id": "b7549aee2648",
+      "priority": 1,
+      "group": "2d6dff8295d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blueberry",
+      "meaningInSourceLanguage": "蓝莓",
+      "id": "491f3538f352",
+      "priority": 0,
+      "group": "ddfe3c8f796e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blueberry",
+      "meaning": "蓝莓",
+      "audio": "e761d23c70444171b65df83ff4d1d3e0",
+      "id": "19d8832c7823",
+      "priority": 1,
+      "group": "ddfe3c8f796e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "raspberry",
+      "meaningInSourceLanguage": "覆盆子",
+      "id": "ca884b598b22",
+      "priority": 0,
+      "group": "fd67a542f77e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "raspberry",
+      "meaning": "覆盆子",
+      "audio": "a174d4b5ee68402bba78e573663c2dac",
+      "id": "3fd67f731501",
+      "priority": 1,
+      "group": "fd67a542f77e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blackberry",
+      "meaningInSourceLanguage": "黑莓",
+      "id": "b958dec0594a",
+      "priority": 0,
+      "group": "871ce59487f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blackberry",
+      "meaning": "黑莓",
+      "audio": "abc2a0cbea2c4bcb867e3c1fae0a6eff",
+      "id": "f96898e21dd1",
+      "priority": 1,
+      "group": "871ce59487f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cranberry",
+      "meaningInSourceLanguage": "蔓越莓",
+      "id": "bc3f96b0cc0e",
+      "priority": 0,
+      "group": "1bd993303ae5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cranberry",
+      "meaning": "蔓越莓",
+      "audio": "fe762dc638974639913a4348df660be1",
+      "id": "b9d43e8e2cbc",
+      "priority": 1,
+      "group": "1bd993303ae5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grapefruit",
+      "meaningInSourceLanguage": "葡萄柚",
+      "id": "d2c7d96a922e",
+      "priority": 0,
+      "group": "342c5d2a6aba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grapefruit",
+      "meaning": "葡萄柚",
+      "audio": "29555cbebee949bba9a7fb32eb6d563a",
+      "id": "d31efe785c02",
+      "priority": 1,
+      "group": "342c5d2a6aba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pomegranate",
+      "meaningInSourceLanguage": "石榴",
+      "id": "a541ef86c72b",
+      "priority": 0,
+      "group": "44092009a71d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pomegranate",
+      "meaning": "石榴",
+      "audio": "ca41df64c9e148fabc772432284779ce",
+      "id": "c311067b360c",
+      "priority": 1,
+      "group": "44092009a71d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fig",
+      "meaningInSourceLanguage": "无花果",
+      "id": "bfd108b1cc82",
+      "priority": 0,
+      "group": "3baf82449864"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fig",
+      "meaning": "无花果",
+      "audio": "6457c136bf5648d299a294f494d3aa88",
+      "id": "fbc27521eb22",
+      "priority": 1,
+      "group": "3baf82449864"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "date",
+      "meaningInSourceLanguage": "枣",
+      "id": "882b60e68f5a",
+      "priority": 0,
+      "group": "ff2bfedcd34a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "date",
+      "meaning": "枣",
+      "audio": "dbf017421767434eac80e474e78b2382",
+      "id": "6ef3bcad9adc",
+      "priority": 1,
+      "group": "ff2bfedcd34a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "raisin",
+      "meaningInSourceLanguage": "葡萄干",
+      "id": "6f89a553b7bd",
+      "priority": 0,
+      "group": "de76dd6f3f9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "raisin",
+      "meaning": "葡萄干",
+      "audio": "41414987d8b54861a6ecfa981b0f4ef3",
+      "id": "c65e5e1eebdf",
+      "priority": 1,
+      "group": "de76dd6f3f9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yogurt",
+      "meaningInSourceLanguage": "酸奶",
+      "id": "d38fbc1e6df8",
+      "priority": 0,
+      "group": "4d2e4e9ab62e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yogurt",
+      "meaning": "酸奶",
+      "audio": "adb6077f61bb48fe8a07d75c142171f4",
+      "id": "5a447dafa152",
+      "priority": 1,
+      "group": "4d2e4e9ab62e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ice cream",
+      "meaningInSourceLanguage": "冰淇淋",
+      "id": "f767d70e7ef0",
+      "priority": 0,
+      "group": "3a226353c21b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ice cream",
+      "meaning": "冰淇淋",
+      "audio": "48b907712329467e93fa3187edfabe9d",
+      "id": "29c98f84cf3b",
+      "priority": 1,
+      "group": "3a226353c21b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pudding",
+      "meaningInSourceLanguage": "布丁",
+      "id": "ed71d052d526",
+      "priority": 0,
+      "group": "df4c2c41d4e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pudding",
+      "meaning": "布丁",
+      "audio": "383443c1302c4c43b0e702276acf7616",
+      "id": "6cfe16350bce",
+      "priority": 1,
+      "group": "df4c2c41d4e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "custard",
+      "meaningInSourceLanguage": "奶黄",
+      "id": "67354eded51b",
+      "priority": 0,
+      "group": "9f3f80fe4a02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "custard",
+      "meaning": "奶黄",
+      "audio": "5bbcbf7b851d447e9cd23773ea26798d",
+      "id": "4804bc5761b6",
+      "priority": 1,
+      "group": "9f3f80fe4a02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mousse",
+      "meaningInSourceLanguage": "慕斯",
+      "id": "1248ed6f28e0",
+      "priority": 0,
+      "group": "bd894533cc33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mousse",
+      "meaning": "慕斯",
+      "audio": "ffbfd4c824354abc87becdf0dfa2d8ff",
+      "id": "c1af320d2cd6",
+      "priority": 1,
+      "group": "bd894533cc33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sorbet",
+      "meaningInSourceLanguage": "雪葩",
+      "id": "9445d8734c23",
+      "priority": 0,
+      "group": "a1fb7035da73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sorbet",
+      "meaning": "雪葩",
+      "audio": "5e8056f319c343a59bc99d880adcb8e5",
+      "id": "450b3618ef67",
+      "priority": 1,
+      "group": "a1fb7035da73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bread roll",
+      "meaningInSourceLanguage": "面包卷",
+      "id": "8346000360ce",
+      "priority": 0,
+      "group": "fa7f252669ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bread roll",
+      "meaning": "面包卷",
+      "audio": "ee41dcab455d4d6eacabcdce31380dd8",
+      "id": "09d88a2903f6",
+      "priority": 1,
+      "group": "fa7f252669ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baguette",
+      "meaningInSourceLanguage": "法棍",
+      "id": "aa25bffe644c",
+      "priority": 0,
+      "group": "a65eb19d89b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baguette",
+      "meaning": "法棍",
+      "audio": "3303ecc0e1b34751928886f87aa7e3be",
+      "id": "b2461d6463d0",
+      "priority": 1,
+      "group": "a65eb19d89b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "croissant",
+      "meaningInSourceLanguage": "牛角面包",
+      "id": "9af53a156356",
+      "priority": 0,
+      "group": "2c5090b525f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "croissant",
+      "meaning": "牛角面包",
+      "audio": "46759fb90a33470f931a348973ecbc84",
+      "id": "794d46adf3d6",
+      "priority": 1,
+      "group": "2c5090b525f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "muffin",
+      "meaningInSourceLanguage": "松饼",
+      "id": "a00d1fed396e",
+      "priority": 0,
+      "group": "64e80e356400"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "muffin",
+      "meaning": "松饼",
+      "audio": "402b3103e9ec40a4b7b13045d434d09b",
+      "id": "c21e59987591",
+      "priority": 1,
+      "group": "64e80e356400"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scone",
+      "meaningInSourceLanguage": "司康饼",
+      "id": "8089a961e3e9",
+      "priority": 0,
+      "group": "28b56d22a2db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scone",
+      "meaning": "司康饼",
+      "audio": "68a67f16b11746c3b93ae77997574035",
+      "id": "f65d8bad63e2",
+      "priority": 1,
+      "group": "28b56d22a2db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "donut",
+      "meaningInSourceLanguage": "甜甜圈",
+      "id": "87fa7a61e40e",
+      "priority": 0,
+      "group": "cc3f61e6c85f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "donut",
+      "meaning": "甜甜圈",
+      "audio": "dc04ab6198d141ba88aa2655e72495d2",
+      "id": "c0c41787c53d",
+      "priority": 1,
+      "group": "cc3f61e6c85f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bagel",
+      "meaningInSourceLanguage": "贝果",
+      "id": "49b6704ba1a2",
+      "priority": 0,
+      "group": "adf2e7173900"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bagel",
+      "meaning": "贝果",
+      "audio": "6384f2e90b254314aeaaea8ef6d47aa9",
+      "id": "c28a553c1c1e",
+      "priority": 1,
+      "group": "adf2e7173900"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waffle",
+      "meaningInSourceLanguage": "华夫饼",
+      "id": "7fd585ca95a1",
+      "priority": 0,
+      "group": "458161fb8f19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waffle",
+      "meaning": "华夫饼",
+      "audio": "18027f68278f4a0c811ba2fdb44b0c0d",
+      "id": "3e7513424679",
+      "priority": 1,
+      "group": "458161fb8f19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crepe",
+      "meaningInSourceLanguage": "可丽饼",
+      "id": "7e5c812ce386",
+      "priority": 0,
+      "group": "f216e087ad36"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crepe",
+      "meaning": "可丽饼",
+      "audio": "2c435d5d1144436882f3b01deaa56d33",
+      "id": "709a194d85bc",
+      "priority": 1,
+      "group": "f216e087ad36"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "curry",
+      "meaningInSourceLanguage": "咖喱",
+      "id": "f48c12d91f06",
+      "priority": 0,
+      "group": "a87229c4e405"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "curry",
+      "meaning": "咖喱",
+      "audio": "54d93c539d834fbc935c6edfdeae8d75",
+      "id": "e32e996aad1e",
+      "priority": 1,
+      "group": "a87229c4e405"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stew",
+      "meaningInSourceLanguage": "炖菜",
+      "id": "b60050c6361f",
+      "priority": 0,
+      "group": "8d2e48f82afd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stew",
+      "meaning": "炖菜",
+      "audio": "4351a973a266417eb0aaed5f24318113",
+      "id": "af55d0250f4f",
+      "priority": 1,
+      "group": "8d2e48f82afd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roast",
+      "meaningInSourceLanguage": "烤肉",
+      "id": "dde503efa682",
+      "priority": 0,
+      "group": "c46ee02eba89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roast",
+      "meaning": "烤肉",
+      "audio": "7b22b9f756c94752a58ac17dbf017f00",
+      "id": "05a635dfd5bd",
+      "priority": 1,
+      "group": "c46ee02eba89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grill",
+      "meaningInSourceLanguage": "烧烤",
+      "id": "559f2133f141",
+      "priority": 0,
+      "group": "9f65c71ab812"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grill",
+      "meaning": "烧烤",
+      "audio": "4f15736a3eb54c8586ed10b3564636ab",
+      "id": "f1b0bb364f4f",
+      "priority": 1,
+      "group": "9f65c71ab812"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "barbecue",
+      "meaningInSourceLanguage": "烧烤",
+      "id": "5fca57108b09",
+      "priority": 0,
+      "group": "ef9ad2b57ea7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "barbecue",
+      "meaning": "烧烤",
+      "audio": "c2567b3355f4479b8f3e13f8b75a116d",
+      "id": "7b2937ad717b",
+      "priority": 1,
+      "group": "ef9ad2b57ea7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smoke",
+      "meaningInSourceLanguage": "烟熏",
+      "id": "ad2a9839bba0",
+      "priority": 0,
+      "group": "703d25d494bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smoke",
+      "meaning": "烟熏",
+      "audio": "5f7b58ddfc4f4780a34e43ba4dfb54da",
+      "id": "4f7cedf2fc82",
+      "priority": 1,
+      "group": "703d25d494bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pickle",
+      "meaningInSourceLanguage": "泡菜",
+      "id": "44db2993def3",
+      "priority": 0,
+      "group": "19eb0cbff492"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pickle",
+      "meaning": "泡菜",
+      "audio": "662ccbc57dd44ca3a6243fc7750a28e2",
+      "id": "0b8129f13e1a",
+      "priority": 1,
+      "group": "19eb0cbff492"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sauce",
+      "meaningInSourceLanguage": "酱汁",
+      "id": "72d950470c6f",
+      "priority": 0,
+      "group": "e8cd67bee951"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sauce",
+      "meaning": "酱汁",
+      "audio": "a5ee23b2bb7c47a89246246699f4f72a",
+      "id": "243f5ab6dd7a",
+      "priority": 1,
+      "group": "e8cd67bee951"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gravy",
+      "meaningInSourceLanguage": "肉汁",
+      "id": "0804d78b81ce",
+      "priority": 0,
+      "group": "93e34a8daf12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gravy",
+      "meaning": "肉汁",
+      "audio": "f7924ca50e684ff3acc0945201265dca",
+      "id": "1d3065a5103d",
+      "priority": 1,
+      "group": "93e34a8daf12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dressing",
+      "meaningInSourceLanguage": "调料",
+      "id": "6b8c0748cd9f",
+      "priority": 0,
+      "group": "3d39fa6c5162"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dressing",
+      "meaning": "调料",
+      "audio": "099dced4a156415abfa5e3915d78450f",
+      "id": "822ca539a37d",
+      "priority": 1,
+      "group": "3d39fa6c5162"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marinade",
+      "meaningInSourceLanguage": "腌料",
+      "id": "16d8e104c404",
+      "priority": 0,
+      "group": "17941bb610dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marinade",
+      "meaning": "腌料",
+      "audio": "3b98213eb70142a79f29a20d31f50c0e",
+      "id": "f776db704561",
+      "priority": 1,
+      "group": "17941bb610dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "broth",
+      "meaningInSourceLanguage": "高汤",
+      "id": "2e7d913b39b9",
+      "priority": 0,
+      "group": "1dc5d8c8faf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "broth",
+      "meaning": "高汤",
+      "audio": "a8edc3ea2b6d452cbde71c5b9688c261",
+      "id": "40f9a0375b52",
+      "priority": 1,
+      "group": "1dc5d8c8faf7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stock",
+      "meaningInSourceLanguage": "汤底",
+      "id": "a98342563990",
+      "priority": 0,
+      "group": "2903bf0425c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stock",
+      "meaning": "汤底",
+      "audio": "0882930498e74d09bc4a5f5402683918",
+      "id": "844aa8255343",
+      "priority": 1,
+      "group": "2903bf0425c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yeast",
+      "meaningInSourceLanguage": "酵母",
+      "id": "b18002f2fbf4",
+      "priority": 0,
+      "group": "f1a274427c47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yeast",
+      "meaning": "酵母",
+      "audio": "2d55a4a97c8d42e6b11697bf1dc5182d",
+      "id": "bc15f8600a15",
+      "priority": 1,
+      "group": "f1a274427c47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baking soda",
+      "meaningInSourceLanguage": "小苏打",
+      "id": "a4f7442899c2",
+      "priority": 0,
+      "group": "c83922256d54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baking soda",
+      "meaning": "小苏打",
+      "audio": "37676850070d4159b9411bd06a76ed5c",
+      "id": "4c8deb477ffb",
+      "priority": 1,
+      "group": "c83922256d54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baking powder",
+      "meaningInSourceLanguage": "泡打粉",
+      "id": "994e9a31da5d",
+      "priority": 0,
+      "group": "387c148afb6b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baking powder",
+      "meaning": "泡打粉",
+      "audio": "7d27bb8ed6d24633a3881e6d186cce83",
+      "id": "75a989e58a47",
+      "priority": 1,
+      "group": "387c148afb6b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flour",
+      "meaningInSourceLanguage": "面粉",
+      "id": "bf748333441e",
+      "priority": 0,
+      "group": "ce229778fa21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flour",
+      "meaning": "面粉",
+      "audio": "a53a39c3ee614bfcbc6d87fb1be67d1a",
+      "id": "8df87201e39b",
+      "priority": 1,
+      "group": "ce229778fa21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cornstarch",
+      "meaningInSourceLanguage": "玉米淀粉",
+      "id": "69da9834d8f0",
+      "priority": 0,
+      "group": "aca587f95245"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cornstarch",
+      "meaning": "玉米淀粉",
+      "audio": "cd38a8eaa57a4addbd5139dd54d93c6d",
+      "id": "0ae8df4e04fb",
+      "priority": 1,
+      "group": "aca587f95245"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gelatin",
+      "meaningInSourceLanguage": "明胶",
+      "id": "ad4f11328380",
+      "priority": 0,
+      "group": "3de65dc45c7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gelatin",
+      "meaning": "明胶",
+      "audio": "6115ce6449924f6d9e0fe8b0e8f6c6ec",
+      "id": "9b8f140caedd",
+      "priority": 1,
+      "group": "3de65dc45c7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vanilla",
+      "meaningInSourceLanguage": "香草",
+      "id": "e3c1e8aa1a2c",
+      "priority": 0,
+      "group": "c1b6b1d11ef8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vanilla",
+      "meaning": "香草",
+      "audio": "790e9cd407284fecbf88c2d65dbc795d",
+      "id": "41af13f39c5f",
+      "priority": 1,
+      "group": "c1b6b1d11ef8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cinnamon",
+      "meaningInSourceLanguage": "肉桂",
+      "id": "b2f028c6e1d0",
+      "priority": 0,
+      "group": "5635cede9e43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cinnamon",
+      "meaning": "肉桂",
+      "audio": "83a13457b4e549468cc1b43c75e67721",
+      "id": "d9a884f538b5",
+      "priority": 1,
+      "group": "5635cede9e43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nutmeg",
+      "meaningInSourceLanguage": "豆蔻",
+      "id": "2915042425ce",
+      "priority": 0,
+      "group": "42d8ef0853a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nutmeg",
+      "meaning": "豆蔻",
+      "audio": "d4327f644a3442e087d95f80898da8c8",
+      "id": "4b1e8ccf4bcc",
+      "priority": 1,
+      "group": "42d8ef0853a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clove",
+      "meaningInSourceLanguage": "丁香",
+      "id": "39fdbbf4a83e",
+      "priority": 0,
+      "group": "0adbf807c841"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clove",
+      "meaning": "丁香",
+      "audio": "9c33066cf3a14f0b903fbb1a32698e3d",
+      "id": "bb24bcf7c92f",
+      "priority": 1,
+      "group": "0adbf807c841"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cumin",
+      "meaningInSourceLanguage": "孜然",
+      "id": "b9149009bbcc",
+      "priority": 0,
+      "group": "b854008bec8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cumin",
+      "meaning": "孜然",
+      "audio": "1c4de888445c47eba218268b451e3707",
+      "id": "4766e82efd15",
+      "priority": 1,
+      "group": "b854008bec8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turmeric",
+      "meaningInSourceLanguage": "姜黄",
+      "id": "e6d0d60bba4c",
+      "priority": 0,
+      "group": "e1adcead3ff3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turmeric",
+      "meaning": "姜黄",
+      "audio": "e5081acfd38f49cf85bccfcb4beab1fb",
+      "id": "df39d34029fb",
+      "priority": 1,
+      "group": "e1adcead3ff3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paprika",
+      "meaningInSourceLanguage": "辣椒粉",
+      "id": "a30c9b2374f7",
+      "priority": 0,
+      "group": "d2dd2bf30f1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paprika",
+      "meaning": "辣椒粉",
+      "audio": "3589025278dc4ec09f70b33b946c999a",
+      "id": "cb506415bd05",
+      "priority": 1,
+      "group": "d2dd2bf30f1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oregano",
+      "meaningInSourceLanguage": "牛至",
+      "id": "4c94eefe44bd",
+      "priority": 0,
+      "group": "8e217f87833c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oregano",
+      "meaning": "牛至",
+      "audio": "c37e72d44ac84bedb503851c55a016b1",
+      "id": "a8b7b1aa6a38",
+      "priority": 1,
+      "group": "8e217f87833c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "basil",
+      "meaningInSourceLanguage": "罗勒",
+      "id": "7159d658fd69",
+      "priority": 0,
+      "group": "6b6d62239fbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "basil",
+      "meaning": "罗勒",
+      "audio": "288599eee37048e68449c7dd06dbdb31",
+      "id": "5917216e911d",
+      "priority": 1,
+      "group": "6b6d62239fbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thyme",
+      "meaningInSourceLanguage": "百里香",
+      "id": "e5b4eabaf762",
+      "priority": 0,
+      "group": "8e074be68631"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thyme",
+      "meaning": "百里香",
+      "audio": "56201cbb25104109a3fd3c006ce7a0fb",
+      "id": "03eb305f4b90",
+      "priority": 1,
+      "group": "8e074be68631"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rosemary",
+      "meaningInSourceLanguage": "迷迭香",
+      "id": "3dcd48d1b36b",
+      "priority": 0,
+      "group": "10dbef153655"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rosemary",
+      "meaning": "迷迭香",
+      "audio": "fb40ee404605432b8fb6a7c002d7ee35",
+      "id": "755b94974685",
+      "priority": 1,
+      "group": "10dbef153655"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coriander",
+      "meaningInSourceLanguage": "香菜",
+      "id": "86491e16775d",
+      "priority": 0,
+      "group": "cc72269b0648"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coriander",
+      "meaning": "香菜",
+      "audio": "fec46afb816043968de40dadd47f81d5",
+      "id": "7d71c2d168f2",
+      "priority": 1,
+      "group": "cc72269b0648"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parsley",
+      "meaningInSourceLanguage": "欧芹",
+      "id": "16c4da37e0e7",
+      "priority": 0,
+      "group": "777c758bf6be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parsley",
+      "meaning": "欧芹",
+      "audio": "c2e9ec4837354c86b0a51dbfde1d73c4",
+      "id": "6db8f1aaa8ad",
+      "priority": 1,
+      "group": "777c758bf6be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mint",
+      "meaningInSourceLanguage": "薄荷",
+      "id": "d7463851a05c",
+      "priority": 0,
+      "group": "fbdcee9a5c5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mint",
+      "meaning": "薄荷",
+      "audio": "7f3125a2b081440ea1ab98a392ee1777",
+      "id": "980f6fab7c6b",
+      "priority": 1,
+      "group": "fbdcee9a5c5c"
+    }
+  ]
+}

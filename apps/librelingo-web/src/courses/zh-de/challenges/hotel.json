@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich brauche ein Zimmer.",
+      "meaningInSourceLanguage": "我需要一个房间。",
+      "id": "da349744c55c",
+      "priority": 0,
+      "group": "c9d8c339a9bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich brauche ein Zimmer.",
+      "meaning": "我需要一个房间。",
+      "audio": "fb63d547457ccf998c55f6c2d536c5c0c4c664b7181c3df7341ea94adb50023a",
+      "id": "c4654a8ea7f5",
+      "priority": 1,
+      "group": "c9d8c339a9bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wie viel pro Nacht?",
+      "meaningInSourceLanguage": "每晚多少钱？",
+      "id": "345a853460ce",
+      "priority": 0,
+      "group": "fed20e558db5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wie viel pro Nacht?",
+      "meaning": "每晚多少钱？",
+      "audio": "1e91fa93f4e4771e5046dc60553152a6a35c62f86556e2df87e603fedf82c1d7",
+      "id": "1c6328bcc14a",
+      "priority": 1,
+      "group": "fed20e558db5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wo ist das Badezimmer?",
+      "meaningInSourceLanguage": "浴室在哪里？",
+      "id": "3081405cde92",
+      "priority": 0,
+      "group": "4ed9060b3684"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wo ist das Badezimmer?",
+      "meaning": "浴室在哪里？",
+      "audio": "d3f266fca74a91b193032c46368303e218b7a89619b0dcb0281fd4ad6eeb65ec",
+      "id": "923527fcbeee",
+      "priority": 1,
+      "group": "4ed9060b3684"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kann ich ein Handtuch haben?",
+      "meaningInSourceLanguage": "能给我一条毛巾吗？",
+      "id": "cd4431a73a77",
+      "priority": 0,
+      "group": "e76a3118869c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kann ich ein Handtuch haben?",
+      "meaning": "能给我一条毛巾吗？",
+      "audio": "b72a216b9f1a6a34063ee7eaf92decede3c66f8382e6bb1c5abcfa691c4a020c",
+      "id": "7b7fd2dbf572",
+      "priority": 1,
+      "group": "e76a3118869c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Das Bett ist bequem.",
+      "meaningInSourceLanguage": "床很舒服。",
+      "id": "d3121b484f08",
+      "priority": 0,
+      "group": "8df1c8c085ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Das Bett ist bequem.",
+      "meaning": "床很舒服。",
+      "audio": "1b915c93eba1a496d2a846cad815cb454f1497198ac473cd705d8c253500c7bb",
+      "id": "d129c1f0e52a",
+      "priority": 1,
+      "group": "8df1c8c085ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich bin hier ein Gast.",
+      "meaningInSourceLanguage": "我是这里的客人。",
+      "id": "b9e21b0d4c77",
+      "priority": 0,
+      "group": "a47ab61460cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich bin hier ein Gast.",
+      "meaning": "我是这里的客人。",
+      "audio": "76fc9fdbb8f98374e3828cbfe4dd23200b3dde91dd4f0fef8f3269a22a7a6702",
+      "id": "d7c7bae8f596",
+      "priority": 1,
+      "group": "a47ab61460cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ist die Rezeption auf dieser Etage?",
+      "meaningInSourceLanguage": "前台在这一层吗？",
+      "id": "b280729edb90",
+      "priority": 0,
+      "group": "ffb817cd243c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ist die Rezeption auf dieser Etage?",
+      "meaning": "前台在这一层吗？",
+      "audio": "3be27c1fbf517be59bed39ef4acf1f22d5893833be3be73a5b750882a59c083c",
+      "id": "5e9d38c40fbd",
+      "priority": 1,
+      "group": "ffb817cd243c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Zimmer",
+      "meaningInSourceLanguage": "房间",
+      "id": "c8471255d8cf",
+      "priority": 0,
+      "group": "d93b50606ba7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Zimmer"
+      ],
+      "phrase": [
+        {
+          "word": "房间",
+          "definition": "Zimmer"
+        }
+      ],
+      "id": "ad3bca95773b",
+      "priority": 1,
+      "group": "d93b50606ba7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Zimmer",
+      "meaning": "房间",
+      "audio": "5181a3812bea1e0526a34ed30ba09945be5eb1f5ee06768bc1d9471db04ba931",
+      "id": "a82c8bd0256a",
+      "priority": 1,
+      "group": "d93b50606ba7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Bett",
+      "meaningInSourceLanguage": "床",
+      "id": "bea86fcc2749",
+      "priority": 0,
+      "group": "d72cda9de37f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Bett"
+      ],
+      "phrase": [
+        {
+          "word": "床",
+          "definition": "Bett"
+        }
+      ],
+      "id": "c7ab83cef7b5",
+      "priority": 1,
+      "group": "d72cda9de37f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bett",
+      "meaning": "床",
+      "audio": "b1eeae4cc4f720e8a69191846203f68423658e5232f2c9bf8ab5385e52ad9d5c",
+      "id": "af9e2188f88a",
+      "priority": 1,
+      "group": "d72cda9de37f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Dusche",
+      "meaningInSourceLanguage": "淋浴",
+      "id": "64ba323242b8",
+      "priority": 0,
+      "group": "c64001cf542f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Dusche"
+      ],
+      "phrase": [
+        {
+          "word": "淋浴",
+          "definition": "Dusche"
+        }
+      ],
+      "id": "8b60aff312ee",
+      "priority": 1,
+      "group": "c64001cf542f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dusche",
+      "meaning": "淋浴",
+      "audio": "fe55c11a878678134a86e5ea2a14cb062e8501aee3ea03cd460d48cc82ecc0bb",
+      "id": "adc11ce1a61f",
+      "priority": 1,
+      "group": "c64001cf542f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Badezimmer",
+      "meaningInSourceLanguage": "浴室",
+      "id": "866fd5479fc0",
+      "priority": 0,
+      "group": "07e96591cbd8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Badezimmer"
+      ],
+      "phrase": [
+        {
+          "word": "浴室",
+          "definition": "Badezimmer"
+        }
+      ],
+      "id": "45dd575fea0c",
+      "priority": 1,
+      "group": "07e96591cbd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Badezimmer",
+      "meaning": "浴室",
+      "audio": "90182669e092af33502470804ed011e2a2975a016d893ecf8e040956e5ed7f8c",
+      "id": "9e136e754a93",
+      "priority": 1,
+      "group": "07e96591cbd8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Handtuch",
+      "meaningInSourceLanguage": "毛巾",
+      "id": "23c73f5ba017",
+      "priority": 0,
+      "group": "8f2ede3eb411"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Handtuch"
+      ],
+      "phrase": [
+        {
+          "word": "毛巾",
+          "definition": "Handtuch"
+        }
+      ],
+      "id": "52276c60fd66",
+      "priority": 1,
+      "group": "8f2ede3eb411"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Handtuch",
+      "meaning": "毛巾",
+      "audio": "63664196941cfe6382afc8b6ef34cce0064024e3f9cb5ce5657eeaf8fcc8756b",
+      "id": "1d9a12bfc249",
+      "priority": 1,
+      "group": "8f2ede3eb411"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Kissen",
+      "meaningInSourceLanguage": "枕头",
+      "id": "219011d70718",
+      "priority": 0,
+      "group": "b11e06028d48"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Kissen"
+      ],
+      "phrase": [
+        {
+          "word": "枕头",
+          "definition": "Kissen"
+        }
+      ],
+      "id": "ae4a247a4ab2",
+      "priority": 1,
+      "group": "b11e06028d48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kissen",
+      "meaning": "枕头",
+      "audio": "21d4cd80e6eb51fbaa129855ac42a92baaaea5473c86858e147bf42c3ca97eb3",
+      "id": "3431e39a1c4d",
+      "priority": 1,
+      "group": "b11e06028d48"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Decke",
+      "meaningInSourceLanguage": "毯子",
+      "id": "84c2d88fd943",
+      "priority": 0,
+      "group": "138289ca4c12"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Decke"
+      ],
+      "phrase": [
+        {
+          "word": "毯子",
+          "definition": "Decke"
+        }
+      ],
+      "id": "e8fdb5594126",
+      "priority": 1,
+      "group": "138289ca4c12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Decke",
+      "meaning": "毯子",
+      "audio": "fc752178f38473d7047cf25dcf4c89b74e1d95c73b27f0ecbb11b2b5ed23542f",
+      "id": "d624ad0cf5dc",
+      "priority": 1,
+      "group": "138289ca4c12"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Stockwerk",
+      "meaningInSourceLanguage": "楼层",
+      "id": "d9aa3e3338cd",
+      "priority": 0,
+      "group": "b753095a32f8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Stockwerk"
+      ],
+      "phrase": [
+        {
+          "word": "楼层",
+          "definition": "Stockwerk"
+        }
+      ],
+      "id": "4e5ac559c6eb",
+      "priority": 1,
+      "group": "b753095a32f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Stockwerk",
+      "meaning": "楼层",
+      "audio": "511be68dbb5259cd0a800f523091b4dcbe7545d353c319aaf1f3342df54f4ae8",
+      "id": "6937d06aa2c9",
+      "priority": 1,
+      "group": "b753095a32f8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Rezeption",
+      "meaningInSourceLanguage": "前台",
+      "id": "5b46397e1f33",
+      "priority": 0,
+      "group": "e5bf54b99439"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Rezeption"
+      ],
+      "phrase": [
+        {
+          "word": "前台",
+          "definition": "Rezeption"
+        }
+      ],
+      "id": "e0cc8c24cce0",
+      "priority": 1,
+      "group": "e5bf54b99439"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Rezeption",
+      "meaning": "前台",
+      "audio": "2166258a1761ee198b1c928bd3241655a521676c1d96521f9bb6fe8abc5f3fe1",
+      "id": "bacc9c5aa7a4",
+      "priority": 1,
+      "group": "e5bf54b99439"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Gast",
+      "meaningInSourceLanguage": "客人",
+      "id": "db84e3b6e5b6",
+      "priority": 0,
+      "group": "a2c2d415ba6f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Gast"
+      ],
+      "phrase": [
+        {
+          "word": "客人",
+          "definition": "Gast"
+        }
+      ],
+      "id": "803f557c45dd",
+      "priority": 1,
+      "group": "a2c2d415ba6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gast",
+      "meaning": "客人",
+      "audio": "79163718f95c51dec817a6386b8d57bf25d278d674d7d9111e0150e7a1ca6808",
+      "id": "4798720ad625",
+      "priority": 1,
+      "group": "a2c2d415ba6f"
+    }
+  ]
+}

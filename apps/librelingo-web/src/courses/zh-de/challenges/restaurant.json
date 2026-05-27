@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich möchte ein Getränk.",
+      "meaningInSourceLanguage": "我想要一杯饮料。",
+      "id": "d35d1b2d6526",
+      "priority": 0,
+      "group": "0b1e40ee8d1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich möchte ein Getränk.",
+      "meaning": "我想要一杯饮料。",
+      "audio": "f499e8e6b5b6a55702a0f6a663c9440904411a19dcd56bef4421d018c296dd11",
+      "id": "7ebc82942583",
+      "priority": 1,
+      "group": "0b1e40ee8d1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Das Essen ist gut.",
+      "meaningInSourceLanguage": "食物很好。",
+      "id": "1bdb232a1bb5",
+      "priority": 0,
+      "group": "839d9b8e3d43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Das Essen ist gut.",
+      "meaning": "食物很好。",
+      "audio": "6ea198af6c823ade66a25797f797eeb4e840a0b5f1aa452d966dac777de6c247",
+      "id": "912836c27ac8",
+      "priority": 1,
+      "group": "839d9b8e3d43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kann ich ein Glas Wasser haben?",
+      "meaningInSourceLanguage": "能给我一杯水吗？",
+      "id": "89525e77d113",
+      "priority": 0,
+      "group": "cfb59f368f8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kann ich ein Glas Wasser haben?",
+      "meaning": "能给我一杯水吗？",
+      "audio": "e693962ce6342230cb70710fd99a7ae384fb39320c2eb1edefcd73b7b3a2c4eb",
+      "id": "5c136d4d93a0",
+      "priority": 1,
+      "group": "cfb59f368f8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wir brauchen eine Flasche Wein.",
+      "meaningInSourceLanguage": "我们需要一瓶酒。",
+      "id": "ccd49cdd2623",
+      "priority": 0,
+      "group": "e0096e5b3092"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wir brauchen eine Flasche Wein.",
+      "meaning": "我们需要一瓶酒。",
+      "audio": "622894952094d9330e835b7710e2ca4b8031c8468eaf7da1d93f82cef5ba0bc3",
+      "id": "849701638cc7",
+      "priority": 1,
+      "group": "e0096e5b3092"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich hätte gern eine Nachspeise.",
+      "meaningInSourceLanguage": "我想要甜点。",
+      "id": "eaced930af8e",
+      "priority": 0,
+      "group": "1f962d5512c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich hätte gern eine Nachspeise.",
+      "meaning": "我想要甜点。",
+      "audio": "b8a6394b25e22f6711690afc2f2cdc28f2677b26731a5ba0276f7213124798af",
+      "id": "2757f968c148",
+      "priority": 1,
+      "group": "1f962d5512c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gib mir bitte das Salz.",
+      "meaningInSourceLanguage": "请把盐递给我。",
+      "id": "a8926d140c07",
+      "priority": 0,
+      "group": "63230c4ac424"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gib mir bitte das Salz.",
+      "meaning": "请把盐递给我。",
+      "audio": "c18bc247a3b1e7c6b22141cb25c5f9ca8513ae86dec39f0641ccb2fb25271203",
+      "id": "22abb566c9a9",
+      "priority": 1,
+      "group": "63230c4ac424"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Restaurant",
+      "meaningInSourceLanguage": "餐厅",
+      "id": "5d2a5cd9c514",
+      "priority": 0,
+      "group": "cb39eb867ad1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Restaurant"
+      ],
+      "phrase": [
+        {
+          "word": "餐厅",
+          "definition": "Restaurant"
+        }
+      ],
+      "id": "2a3228ec991e",
+      "priority": 1,
+      "group": "cb39eb867ad1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Restaurant",
+      "meaning": "餐厅",
+      "audio": "476ee0b7056f81c3b6e192bf2b729eed403d52af2ebd0c173c1d9f9914f254b8",
+      "id": "367f2d1dc44c",
+      "priority": 1,
+      "group": "cb39eb867ad1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Getränk",
+      "meaningInSourceLanguage": "饮料",
+      "id": "eb24b8802f15",
+      "priority": 0,
+      "group": "907406c0eb60"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Getränk"
+      ],
+      "phrase": [
+        {
+          "word": "饮料",
+          "definition": "Getränk"
+        }
+      ],
+      "id": "f8079f1cad4d",
+      "priority": 1,
+      "group": "907406c0eb60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Getränk",
+      "meaning": "饮料",
+      "audio": "a27bc2b2aa468db44c3b0bf1b0d8e472f095ef5fdc6a292ceb2656989bed22f2",
+      "id": "8fbd9fceea44",
+      "priority": 1,
+      "group": "907406c0eb60"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Essen",
+      "meaningInSourceLanguage": "食物",
+      "id": "166fcc76adfc",
+      "priority": 0,
+      "group": "89324051a3a3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Essen"
+      ],
+      "phrase": [
+        {
+          "word": "食物",
+          "definition": "Essen"
+        }
+      ],
+      "id": "e3afd6ca01e2",
+      "priority": 1,
+      "group": "89324051a3a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Essen",
+      "meaning": "食物",
+      "audio": "2d488338bdf662bf175ec704e1e013ab7ed3ca5aeb70e135f67448c3f949d516",
+      "id": "2720a7ab3f11",
+      "priority": 1,
+      "group": "89324051a3a3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Serviette",
+      "meaningInSourceLanguage": "餐巾",
+      "id": "17123d288e2d",
+      "priority": 0,
+      "group": "42e82416b657"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Serviette"
+      ],
+      "phrase": [
+        {
+          "word": "餐巾",
+          "definition": "Serviette"
+        }
+      ],
+      "id": "e7906b374f53",
+      "priority": 1,
+      "group": "42e82416b657"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Serviette",
+      "meaning": "餐巾",
+      "audio": "c1084a17e1a7294c5918f6e6d00ae61c1707ef0af9be5d04690edd35aa5cb97f",
+      "id": "e863cfec647c",
+      "priority": 1,
+      "group": "42e82416b657"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Salz",
+      "meaningInSourceLanguage": "盐",
+      "id": "59d20c022bcc",
+      "priority": 0,
+      "group": "e72fb24faffb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Salz"
+      ],
+      "phrase": [
+        {
+          "word": "盐",
+          "definition": "Salz"
+        }
+      ],
+      "id": "8f9acb905d2e",
+      "priority": 1,
+      "group": "e72fb24faffb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Salz",
+      "meaning": "盐",
+      "audio": "1fcb40862eafc48ac55ce80439c177a280d918164801747bfbcba6034cf455df",
+      "id": "590fe003ad13",
+      "priority": 1,
+      "group": "e72fb24faffb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Pfeffer",
+      "meaningInSourceLanguage": "胡椒",
+      "id": "5d5731114d38",
+      "priority": 0,
+      "group": "4ccf40f57f82"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Pfeffer"
+      ],
+      "phrase": [
+        {
+          "word": "胡椒",
+          "definition": "Pfeffer"
+        }
+      ],
+      "id": "4ca7b9483ed5",
+      "priority": 1,
+      "group": "4ccf40f57f82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pfeffer",
+      "meaning": "胡椒",
+      "audio": "8a4edd6f174e70d0bac8c4d7946b5e085862f78b013b5c3dcc9e826f56b8d994",
+      "id": "99fc1007f1db",
+      "priority": 1,
+      "group": "4ccf40f57f82"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Glas",
+      "meaningInSourceLanguage": "玻璃杯",
+      "id": "e99717ca407e",
+      "priority": 0,
+      "group": "4891f2afef70"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Glas"
+      ],
+      "phrase": [
+        {
+          "word": "玻璃杯",
+          "definition": "Glas"
+        }
+      ],
+      "id": "499e4521b66b",
+      "priority": 1,
+      "group": "4891f2afef70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Glas",
+      "meaning": "玻璃杯",
+      "audio": "8cff6520ffb6e2e2947a04600bdad46b3fc4a1fe63f99e462e49f5450d4056b5",
+      "id": "244df3471f95",
+      "priority": 1,
+      "group": "4891f2afef70"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Flasche",
+      "meaningInSourceLanguage": "瓶子",
+      "id": "b86f578ba438",
+      "priority": 0,
+      "group": "fe19fdd5fe35"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Flasche"
+      ],
+      "phrase": [
+        {
+          "word": "瓶子",
+          "definition": "Flasche"
+        }
+      ],
+      "id": "ea8807949baa",
+      "priority": 1,
+      "group": "fe19fdd5fe35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Flasche",
+      "meaning": "瓶子",
+      "audio": "3b441e48b1737e4955b580802b4481c7b11df465753c9a331839f6eeaa06af3f",
+      "id": "544834f011e0",
+      "priority": 1,
+      "group": "fe19fdd5fe35"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nachspeise",
+      "meaningInSourceLanguage": "甜点",
+      "id": "6c8bb5bc6a16",
+      "priority": 0,
+      "group": "62a0c892a6e4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nachspeise"
+      ],
+      "phrase": [
+        {
+          "word": "甜点",
+          "definition": "Nachspeise"
+        }
+      ],
+      "id": "f86c0fa5f039",
+      "priority": 1,
+      "group": "62a0c892a6e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nachspeise",
+      "meaning": "甜点",
+      "audio": "0d53314c335067cfe43a7d85623812c5b9e750f12143bef84e21b7ec63de3893",
+      "id": "184cac0fb248",
+      "priority": 1,
+      "group": "62a0c892a6e4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Hauptgericht",
+      "meaningInSourceLanguage": "主菜",
+      "id": "12ea592d52fb",
+      "priority": 0,
+      "group": "abd17af1d425"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Hauptgericht"
+      ],
+      "phrase": [
+        {
+          "word": "主菜",
+          "definition": "Hauptgericht"
+        }
+      ],
+      "id": "ad3afa74d821",
+      "priority": 1,
+      "group": "abd17af1d425"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hauptgericht",
+      "meaning": "主菜",
+      "audio": "2fcd199b031d15428a694149241d0a962acd0f7d9449fd8bb140f9615f2cdb0f",
+      "id": "25aed740de59",
+      "priority": 1,
+      "group": "abd17af1d425"
+    }
+  ]
+}

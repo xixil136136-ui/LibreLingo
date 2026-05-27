@@ -1,0 +1,771 @@
+{
+  "id": "2139704c229d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "money",
+      "meaningInSourceLanguage": "钱",
+      "id": "18b5bd6b9e64",
+      "priority": 0,
+      "group": "6c0cca3da699"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "money",
+      "meaning": "钱",
+      "audio": "8ecc9ad44d0ba26e9833d5df7525a3b2046f344fdcf4524f05c5946df843393a",
+      "id": "a3152894db10",
+      "priority": 1,
+      "group": "6c0cca3da699"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cash",
+      "meaningInSourceLanguage": "现金",
+      "id": "61a86d205d6e",
+      "priority": 0,
+      "group": "72639411d41b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cash",
+      "meaning": "现金",
+      "audio": "85b2d8be467392187231e5216d53fdf65664e9f567629b08d5f6640975c9bed0",
+      "id": "a54b4197ad37",
+      "priority": 1,
+      "group": "72639411d41b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coin",
+      "meaningInSourceLanguage": "硬币",
+      "id": "a9283c0df743",
+      "priority": 0,
+      "group": "5a043c8bd9fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coin",
+      "meaning": "硬币",
+      "audio": "eb0ed0da00422c78614754fb20293dd58f5c1bb550a978ab3a6fd703c837edfe",
+      "id": "49ab39ea5677",
+      "priority": 1,
+      "group": "5a043c8bd9fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bill",
+      "meaningInSourceLanguage": "纸币",
+      "id": "c712be80baf6",
+      "priority": 0,
+      "group": "249eb5e82762"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bill",
+      "meaning": "纸币",
+      "audio": "ff7233c8e83e7e7a437e6215b8a0e69e4c79ee89658e205c884fa6773dffc08d",
+      "id": "07dbdb44566d",
+      "priority": 1,
+      "group": "249eb5e82762"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "credit card",
+      "meaningInSourceLanguage": "信用卡",
+      "id": "326279b087c4",
+      "priority": 0,
+      "group": "bdbdcc293700"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "credit card",
+      "meaning": "信用卡",
+      "audio": "9f19c69a1c427e34cce89a1496542b08a0062ccf9d8548fc6981e597cb862247",
+      "id": "d88df4dac266",
+      "priority": 1,
+      "group": "bdbdcc293700"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debit card",
+      "meaningInSourceLanguage": "借记卡",
+      "id": "f15d89e11a18",
+      "priority": 0,
+      "group": "ef9f801662e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debit card",
+      "meaning": "借记卡",
+      "audio": "6c585561beb360f8188e75ae7441b7e0fd7fcddfefcacc702dc650e0553aa6b5",
+      "id": "2f376b9d04f9",
+      "priority": 1,
+      "group": "ef9f801662e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "check",
+      "meaningInSourceLanguage": "支票",
+      "id": "6b56c6c66575",
+      "priority": 0,
+      "group": "07c33e98c155"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check",
+      "meaning": "支票",
+      "audio": "c4bec0c5acef81151b9bd622b620f187bf72c4de684c526f90fd11bc7a2a7ce7",
+      "id": "20e290fb25b1",
+      "priority": 1,
+      "group": "07c33e98c155"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bank account",
+      "meaningInSourceLanguage": "银行账户",
+      "id": "4c16151e0127",
+      "priority": 0,
+      "group": "753a753cac7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bank account",
+      "meaning": "银行账户",
+      "audio": "6471af1fe978491d3a8fe446389a561091d471ac4f97776074d225e22f508ddc",
+      "id": "89950e827304",
+      "priority": 1,
+      "group": "753a753cac7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "savings account",
+      "meaningInSourceLanguage": "储蓄账户",
+      "id": "3c1d53f54445",
+      "priority": 0,
+      "group": "2fe69309bce2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "savings account",
+      "meaning": "储蓄账户",
+      "audio": "e638e9aa877768d5bda779f90a7ebca611b1e9d352c4746266810fd1147206e6",
+      "id": "4271820a8a2b",
+      "priority": 1,
+      "group": "2fe69309bce2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "checking account",
+      "meaningInSourceLanguage": "支票账户",
+      "id": "17f58c7d70c3",
+      "priority": 0,
+      "group": "cf3ea6aa8ed2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "checking account",
+      "meaning": "支票账户",
+      "audio": "5a62692d3f18ece7cbaa695b37460ff372e2fa3595d48b8b5931c9acec51e7d3",
+      "id": "f3797531fe68",
+      "priority": 1,
+      "group": "cf3ea6aa8ed2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deposit",
+      "meaningInSourceLanguage": "存款",
+      "id": "c1b3e7577708",
+      "priority": 0,
+      "group": "a2be10d2db92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deposit",
+      "meaning": "存款",
+      "audio": "536e6c2573d083f29bbda7e28d8b87658da900440c2719666c78e50c6dbb77fe",
+      "id": "1ac453eda7d1",
+      "priority": 1,
+      "group": "a2be10d2db92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "withdrawal",
+      "meaningInSourceLanguage": "取款",
+      "id": "bf3ece5299e6",
+      "priority": 0,
+      "group": "baad660545d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "withdrawal",
+      "meaning": "取款",
+      "audio": "e64a84ecadb34b43932e809afc8577d9aca41df2fdc4c27f52508d6a3c573e0e",
+      "id": "a0a23fdf6ec2",
+      "priority": 1,
+      "group": "baad660545d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "transfer",
+      "meaningInSourceLanguage": "转账",
+      "id": "90689c640ff2",
+      "priority": 0,
+      "group": "dc8e2729bb4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "transfer",
+      "meaning": "转账",
+      "audio": "20bda0b204c11080aaba907cc7e8a4ca8eff2c6ccaabecb6c267873c419d1757",
+      "id": "4a89181d434b",
+      "priority": 1,
+      "group": "dc8e2729bb4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "balance",
+      "meaningInSourceLanguage": "余额",
+      "id": "1a258e6c7143",
+      "priority": 0,
+      "group": "fde2fb956d34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "balance",
+      "meaning": "余额",
+      "audio": "0c689bac9eb7bcde750b41f415e94c9c5f3b643f48010464c50e1c53a21b6a65",
+      "id": "41a46cfd5d0f",
+      "priority": 1,
+      "group": "fde2fb956d34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interest",
+      "meaningInSourceLanguage": "利息",
+      "id": "4bc5ed2ff6c3",
+      "priority": 0,
+      "group": "f7963257a8ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interest",
+      "meaning": "利息",
+      "audio": "b5fc9d1544ea3b04fa5a9bb359b5e3b1d54fb3326055c7deadb7ad06a417b642",
+      "id": "1474b86e3011",
+      "priority": 1,
+      "group": "f7963257a8ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "loan",
+      "meaningInSourceLanguage": "贷款",
+      "id": "6ccb0b0197b9",
+      "priority": 0,
+      "group": "b79b1071616b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "loan",
+      "meaning": "贷款",
+      "audio": "2441d62a06fe5bebcf18fa5c62954a1853541b4b45fdf1d7b6aa846606dd8dcf",
+      "id": "419c8fc49ac3",
+      "priority": 1,
+      "group": "b79b1071616b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mortgage",
+      "meaningInSourceLanguage": "按揭",
+      "id": "edcf9a8da189",
+      "priority": 0,
+      "group": "ddc010bc60a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mortgage",
+      "meaning": "按揭",
+      "audio": "37feb6d0c888967f1488107b1dd4cc295ee2dec635a8b7d80d7c0f1c5b313612",
+      "id": "d1205d215c3a",
+      "priority": 1,
+      "group": "ddc010bc60a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "credit",
+      "meaningInSourceLanguage": "信用",
+      "id": "37f338373024",
+      "priority": 0,
+      "group": "ddc86ada7e11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "credit",
+      "meaning": "信用",
+      "audio": "10913f7ac765bb63fd9bc5cda938f8729ce4b43f4b97be1d342f639bf0435502",
+      "id": "799ec8d2da35",
+      "priority": 1,
+      "group": "ddc86ada7e11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debt",
+      "meaningInSourceLanguage": "债务",
+      "id": "e276dca5a8e5",
+      "priority": 0,
+      "group": "55090378b636"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debt",
+      "meaning": "债务",
+      "audio": "5ba4010f8b64b05af7d357b8f81cfa80e1e40b420a4cb48458a5cc411b9b0464",
+      "id": "5de08a7b8cb8",
+      "priority": 1,
+      "group": "55090378b636"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "invest",
+      "meaningInSourceLanguage": "投资",
+      "id": "5ceb66dfaa47",
+      "priority": 0,
+      "group": "4c343ed82f74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "invest",
+      "meaning": "投资",
+      "audio": "f0dd220d49d5cee2bd7f9b1900948b53c9bc6f35b25dd43d48bc150a04c3bebc",
+      "id": "f545e662065c",
+      "priority": 1,
+      "group": "4c343ed82f74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stock",
+      "meaningInSourceLanguage": "股票",
+      "id": "229163324c9d",
+      "priority": 0,
+      "group": "88d398b43990"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stock",
+      "meaning": "股票",
+      "audio": "da1e85ea23f19dca4caf79fee624935f5559f7fa32c969e4f39452dc246a1e95",
+      "id": "3daa12d7235d",
+      "priority": 1,
+      "group": "88d398b43990"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bond",
+      "meaningInSourceLanguage": "债券",
+      "id": "c6b3a5265581",
+      "priority": 0,
+      "group": "cc1064c708ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bond",
+      "meaning": "债券",
+      "audio": "0bddf01ca8ec2b49ff1a203eec20f2a9dfe9cb44a476fcbffbce1df3f6bf4e71",
+      "id": "8149858708b5",
+      "priority": 1,
+      "group": "cc1064c708ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fund",
+      "meaningInSourceLanguage": "基金",
+      "id": "5bf9291535f7",
+      "priority": 0,
+      "group": "abcf218e6c61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fund",
+      "meaning": "基金",
+      "audio": "a4e4a4ee724f34e330d1fddee76c5c3df1bbcd75cf5b0639d8a4c9c3a774f925",
+      "id": "6fa1d0906c5b",
+      "priority": 1,
+      "group": "abcf218e6c61"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exchange rate",
+      "meaningInSourceLanguage": "汇率",
+      "id": "2b530aa6919e",
+      "priority": 0,
+      "group": "79f14cc87016"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exchange rate",
+      "meaning": "汇率",
+      "audio": "0255c642a4c741e50abd4ed16e81804b8890e4a05c4bd1a6a89fb25efed9cacb",
+      "id": "488da6c57445",
+      "priority": 1,
+      "group": "79f14cc87016"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "currency",
+      "meaningInSourceLanguage": "货币",
+      "id": "9f1872d8b507",
+      "priority": 0,
+      "group": "527110ec8b38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "currency",
+      "meaning": "货币",
+      "audio": "0043eb025d3fe224de2a150cf08771994252b98b4dd6783d0791aa7d2e79b96a",
+      "id": "c63b7d1780e4",
+      "priority": 1,
+      "group": "527110ec8b38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dollar",
+      "meaningInSourceLanguage": "美元",
+      "id": "0ab472c119cd",
+      "priority": 0,
+      "group": "b85c9b0f44c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dollar",
+      "meaning": "美元",
+      "audio": "1a15b17aaaf9b11a3c7ad55c3814d885f976d489fa7892966e7544c489232e9e",
+      "id": "d6cfb19392fd",
+      "priority": 1,
+      "group": "b85c9b0f44c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "euro",
+      "meaningInSourceLanguage": "欧元",
+      "id": "92c5564c57e1",
+      "priority": 0,
+      "group": "98a8880277e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "euro",
+      "meaning": "欧元",
+      "audio": "b39abd24c399e0f77f5b9c8037855108df5f9fcaf1e7156e7bd11d000fa4bb30",
+      "id": "587862b306a2",
+      "priority": 1,
+      "group": "98a8880277e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yen",
+      "meaningInSourceLanguage": "日元",
+      "id": "cba3533df69c",
+      "priority": 0,
+      "group": "1d05a60d29e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yen",
+      "meaning": "日元",
+      "audio": "5ea550fea64613f0250596575a28e931fe90c80763c125da9dd08d6be15b0f28",
+      "id": "877a7593a4b8",
+      "priority": 1,
+      "group": "1d05a60d29e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pound",
+      "meaningInSourceLanguage": "英镑",
+      "id": "b827efc217e4",
+      "priority": 0,
+      "group": "46852ee1795b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pound",
+      "meaning": "英镑",
+      "audio": "b4d8a4501c30c33b74d08a17c2acf665e24cbf9263a68215a1585974e748f0ec",
+      "id": "5700aa53ac26",
+      "priority": 1,
+      "group": "46852ee1795b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yuan",
+      "meaningInSourceLanguage": "元",
+      "id": "bd55e33f26d9",
+      "priority": 0,
+      "group": "a4be8c826549"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yuan",
+      "meaning": "元",
+      "audio": "6436d4a2c0d4391f98d5915851225d17045a095103b7c05302fd0c343af01e76",
+      "id": "58cdf2ff8b2d",
+      "priority": 1,
+      "group": "a4be8c826549"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ATM",
+      "meaningInSourceLanguage": "自动取款机",
+      "id": "5652dc182f90",
+      "priority": 0,
+      "group": "22341ec0547d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ATM",
+      "meaning": "自动取款机",
+      "audio": "7b68fa9562fd06dec084b681e1579081ebbad186605579089db9d837207a88ae",
+      "id": "9d04628726b1",
+      "priority": 1,
+      "group": "22341ec0547d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bank statement",
+      "meaningInSourceLanguage": "银行对账单",
+      "id": "b6fdf6a61de6",
+      "priority": 0,
+      "group": "f5321773e61b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bank statement",
+      "meaning": "银行对账单",
+      "audio": "31ae6c0ea9ef4dadce22ec4f78f70177a17a7952cf2deedc8767760f53c82f9b",
+      "id": "6f0dcab37007",
+      "priority": 1,
+      "group": "f5321773e61b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "transaction",
+      "meaningInSourceLanguage": "交易",
+      "id": "ea2efefa378b",
+      "priority": 0,
+      "group": "25ce61c6a1df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "transaction",
+      "meaning": "交易",
+      "audio": "ecf1bf5bda734f3fa7e09448c8045a027f61b8b3dae9e58b9197133a756fdd5d",
+      "id": "4528e6316065",
+      "priority": 1,
+      "group": "25ce61c6a1df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fee",
+      "meaningInSourceLanguage": "费用",
+      "id": "69d24c818f33",
+      "priority": 0,
+      "group": "89f1fec3c90d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fee",
+      "meaning": "费用",
+      "audio": "68a4e9e06bfaabbfad6c814b6521405424e30f5cc4360a23970553c86bfc2182",
+      "id": "76f21d260be5",
+      "priority": 1,
+      "group": "89f1fec3c90d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fine",
+      "meaningInSourceLanguage": "罚款",
+      "id": "5a2131eb0bc2",
+      "priority": 0,
+      "group": "3cdeaa2bbb2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fine",
+      "meaning": "罚款",
+      "audio": "ee8ea02acced5aed1ad41372765bf3df35054bd3d4448696bbc5a715ff21d028",
+      "id": "4aaf13dc1aa0",
+      "priority": 1,
+      "group": "3cdeaa2bbb2f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tax",
+      "meaningInSourceLanguage": "税",
+      "id": "182ef8a199fb",
+      "priority": 0,
+      "group": "3b454b6862e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tax",
+      "meaning": "税",
+      "audio": "22b230e8b08a94927136b4214c4cb346b991119437a90e3fb6b643fc9919e833",
+      "id": "e82d80382d0a",
+      "priority": 1,
+      "group": "3b454b6862e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "income",
+      "meaningInSourceLanguage": "收入",
+      "id": "b3d7a2b529a8",
+      "priority": 0,
+      "group": "d5e555356ca7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "income",
+      "meaning": "收入",
+      "audio": "55120f0eb958407333dbb804bfbeba41701e1b3712173ee51b5ced8c892a8abe",
+      "id": "3eb547bca756",
+      "priority": 1,
+      "group": "d5e555356ca7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "expense",
+      "meaningInSourceLanguage": "支出",
+      "id": "25a5f77faba8",
+      "priority": 0,
+      "group": "a9857fa5c88d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "expense",
+      "meaning": "支出",
+      "audio": "384b889c4582397cc7b941c00bb1fccbf3203957771bba824142f30737dc6e13",
+      "id": "afba80549936",
+      "priority": 1,
+      "group": "a9857fa5c88d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "budget",
+      "meaningInSourceLanguage": "预算",
+      "id": "048bb33497b9",
+      "priority": 0,
+      "group": "49764905ae9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "budget",
+      "meaning": "预算",
+      "audio": "31cba5fea17eda1a18ce9ae73051cbb909d4b5d4ee88de1d53ca243557959e3b",
+      "id": "4f23175f06a0",
+      "priority": 1,
+      "group": "49764905ae9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "savings",
+      "meaningInSourceLanguage": "储蓄",
+      "id": "4990e976eb22",
+      "priority": 0,
+      "group": "e2e64b9d7987"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "savings",
+      "meaning": "储蓄",
+      "audio": "50ebeb21163410fe74f7a6d298960e8135de839440a751f84cc2d52840bae5d8",
+      "id": "046b2e98ba7b",
+      "priority": 1,
+      "group": "e2e64b9d7987"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wealth",
+      "meaningInSourceLanguage": "财富",
+      "id": "e002fa58ea81",
+      "priority": 0,
+      "group": "c085f80383bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wealth",
+      "meaning": "财富",
+      "audio": "2a6337f257147e5df6e10a541da724f37058ac90fb4e4a6ae06b5fb2bce5d153",
+      "id": "f21777b879ac",
+      "priority": 1,
+      "group": "c085f80383bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "profit",
+      "meaningInSourceLanguage": "利润",
+      "id": "9a7f391f2975",
+      "priority": 0,
+      "group": "4b2f4c1397b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "profit",
+      "meaning": "利润",
+      "audio": "2b54adf1b1de72ce61aeeea9e77a1a36b9379a62c2a33300b16e305228aa361c",
+      "id": "f667b904c007",
+      "priority": 1,
+      "group": "4b2f4c1397b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "loss",
+      "meaningInSourceLanguage": "损失",
+      "id": "aeed4815f227",
+      "priority": 0,
+      "group": "4be92370a05e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "loss",
+      "meaning": "损失",
+      "audio": "50291d2e88699a61b6602a6ef9e8494b0d6d48af6524eed6c93c24d1fae895eb",
+      "id": "bc183c6934bb",
+      "priority": 1,
+      "group": "4be92370a05e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "revenue",
+      "meaningInSourceLanguage": "收入",
+      "id": "c9ffb62ff82c",
+      "priority": 0,
+      "group": "7647d5ed5201"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "revenue",
+      "meaning": "收入",
+      "audio": "7d614a7788905cc4d9a4074c487568084704d9c77fb8d1b099a0727f2def7cdb",
+      "id": "63ccee9eb4c6",
+      "priority": 1,
+      "group": "7647d5ed5201"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "invoice",
+      "meaningInSourceLanguage": "发票",
+      "id": "a69257d7e973",
+      "priority": 0,
+      "group": "ee15f4cebb3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "invoice",
+      "meaning": "发票",
+      "audio": "b960fd67d0850a0a3744cbe0ffedf485d87b8f63db27af3cab82e5544b072d7f",
+      "id": "a1f7d621e3e4",
+      "priority": 1,
+      "group": "ee15f4cebb3d"
+    }
+  ]
+}

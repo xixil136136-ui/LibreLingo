@@ -1,0 +1,482 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "อันนี้เท่าไหร่",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "e9cbec866bdb",
+      "priority": 0,
+      "group": "ce3ee556434e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อันนี้เท่าไหร่",
+      "meaning": "这个多少钱？",
+      "audio": "bd3225e848ef4fcc1ee1a068eb877a6eba7578f8e0546c30605f85ed306d75e1",
+      "id": "ba5b483dcab2",
+      "priority": 1,
+      "group": "ce3ee556434e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "แพงเกินไป",
+      "meaningInSourceLanguage": "太贵了。",
+      "id": "295b979f8741",
+      "priority": 0,
+      "group": "9cf9ff479612"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แพงเกินไป",
+      "meaning": "太贵了。",
+      "audio": "cf6331aa1b5ed8039ef0e85fbe11b4bdb54b740d48cf0b4cc8dad685cf8b916f",
+      "id": "452b520e9a8f",
+      "priority": 1,
+      "group": "9cf9ff479612"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "อันนี้คุณภาพดี",
+      "meaningInSourceLanguage": "这个质量很好。",
+      "id": "aeeb7317e59c",
+      "priority": 0,
+      "group": "d94460976502"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อันนี้คุณภาพดี",
+      "meaning": "这个质量很好。",
+      "audio": "e2c30fa78aca8aab06f131a1d9425b468d2fde070b46266b4a47f4ff724bb873",
+      "id": "80d618b1b2c0",
+      "priority": 1,
+      "group": "d94460976502"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ร้านเปิดไหม",
+      "meaningInSourceLanguage": "商店开门吗？",
+      "id": "67f3cfdd2ba2",
+      "priority": 0,
+      "group": "e7b1cc2e4a0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ร้านเปิดไหม",
+      "meaning": "商店开门吗？",
+      "audio": "15e6bc41d3f57b06115560073e82864132f1566fc402fd331da597eab234d895",
+      "id": "6c147061acb3",
+      "priority": 1,
+      "group": "e7b1cc2e4a0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "วันนี้ปิด",
+      "meaningInSourceLanguage": "今天关门了。",
+      "id": "fcb85fda0bcb",
+      "priority": 0,
+      "group": "4178578994f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "วันนี้ปิด",
+      "meaning": "今天关门了。",
+      "audio": "c0b4eb66502d261ae2e18288d342fb965b07b4b0ca8e9cbb133da4f6f49625f5",
+      "id": "b81358a070b3",
+      "priority": 1,
+      "group": "4178578994f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "คืนสินค้าได้ไหม",
+      "meaningInSourceLanguage": "能退货吗？",
+      "id": "415257265ea4",
+      "priority": 0,
+      "group": "cd827cdb91cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "คืนสินค้าได้ไหม",
+      "meaning": "能退货吗？",
+      "audio": "2dfd6392fcc26eab2d1354bcd8c9ccb3e48bb1d3a35cc6a1c24efb3218a7bb57",
+      "id": "147feedf1ea5",
+      "priority": 1,
+      "group": "cd827cdb91cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ร้านอยู่ตรงนั้น",
+      "meaningInSourceLanguage": "商店在那里。",
+      "id": "ed7c775b4384",
+      "priority": 0,
+      "group": "31b497b573f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ร้านอยู่ตรงนั้น",
+      "meaning": "商店在那里。",
+      "audio": "feda0b48f2e7c4c3eb6e1c679c57172930b3f2535db459df1c55a94d2d150a70",
+      "id": "e117538da08c",
+      "priority": 1,
+      "group": "31b497b573f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันไม่มีเงิน",
+      "meaningInSourceLanguage": "我没钱。",
+      "id": "5f6b3d949721",
+      "priority": 0,
+      "group": "6a06d3f195ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันไม่มีเงิน",
+      "meaning": "我没钱。",
+      "audio": "5be09a3bdcdc0237e0bf8cd268ba42ce9d64e5b4961aa4339cc29e14e2be4faa",
+      "id": "27ca94ead68a",
+      "priority": 1,
+      "group": "6a06d3f195ff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ร้านค้า",
+      "meaningInSourceLanguage": "商店",
+      "id": "45d798a064ce",
+      "priority": 0,
+      "group": "015d53eb9841"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ร้านค้า"
+      ],
+      "phrase": [
+        {
+          "word": "商店",
+          "definition": "ร้านค้า"
+        }
+      ],
+      "id": "0ab3cc8a0353",
+      "priority": 1,
+      "group": "015d53eb9841"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ร้านค้า",
+      "meaning": "商店",
+      "audio": "80835438c2c4fea307eb41aa02ed5e4c2cd40f0841da22422363f2673d544c22",
+      "id": "c0e31f9be405",
+      "priority": 1,
+      "group": "015d53eb9841"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ราคา",
+      "meaningInSourceLanguage": "价格",
+      "id": "79077512e36f",
+      "priority": 0,
+      "group": "65585de0cc7e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ราคา"
+      ],
+      "phrase": [
+        {
+          "word": "价格",
+          "definition": "ราคา"
+        }
+      ],
+      "id": "79a15154a414",
+      "priority": 1,
+      "group": "65585de0cc7e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ราคา",
+      "meaning": "价格",
+      "audio": "cbc851f516d29011237f6d1281929a852ca42b4ebdde1b91038759710a0e3f82",
+      "id": "3a677aed6594",
+      "priority": 1,
+      "group": "65585de0cc7e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แพง",
+      "meaningInSourceLanguage": "贵的",
+      "id": "b72fd3946ef8",
+      "priority": 0,
+      "group": "455cdfa6c487"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แพง"
+      ],
+      "phrase": [
+        {
+          "word": "贵的",
+          "definition": "แพง"
+        }
+      ],
+      "id": "637bcb8ef2d9",
+      "priority": 1,
+      "group": "455cdfa6c487"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แพง",
+      "meaning": "贵的",
+      "audio": "e6d77a00d151281271c6dc559a24d355df31e546436ba4bf2295cea82277283b",
+      "id": "2d31a5fdbf14",
+      "priority": 1,
+      "group": "455cdfa6c487"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ถูก",
+      "meaningInSourceLanguage": "便宜的",
+      "id": "84e379331d19",
+      "priority": 0,
+      "group": "62988a353458"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ถูก"
+      ],
+      "phrase": [
+        {
+          "word": "便宜的",
+          "definition": "ถูก"
+        }
+      ],
+      "id": "f9d38e3937a9",
+      "priority": 1,
+      "group": "62988a353458"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ถูก",
+      "meaning": "便宜的",
+      "audio": "f9e827b5bb8cf109398db7a8be5f9143fbc50e9de7ef7eacb3bcc9b9c5b82e42",
+      "id": "2cdd1c5c4f5a",
+      "priority": 1,
+      "group": "62988a353458"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เงิน",
+      "meaningInSourceLanguage": "钱",
+      "id": "91b6893a4288",
+      "priority": 0,
+      "group": "1773711bbcea"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เงิน"
+      ],
+      "phrase": [
+        {
+          "word": "钱",
+          "definition": "เงิน"
+        }
+      ],
+      "id": "7bae984f156a",
+      "priority": 1,
+      "group": "1773711bbcea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เงิน",
+      "meaning": "钱",
+      "audio": "b8b1ce1a56420c093bb89417dafd41fe40a7dbf421fa43b2ae8ff0194b907b99",
+      "id": "085dab6ef66d",
+      "priority": 1,
+      "group": "1773711bbcea"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "คุณภาพ",
+      "meaningInSourceLanguage": "质量",
+      "id": "5a1c8d47800c",
+      "priority": 0,
+      "group": "6049c30f2e12"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "คุณภาพ"
+      ],
+      "phrase": [
+        {
+          "word": "质量",
+          "definition": "คุณภาพ"
+        }
+      ],
+      "id": "0e313153334d",
+      "priority": 1,
+      "group": "6049c30f2e12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "คุณภาพ",
+      "meaning": "质量",
+      "audio": "25db087003e16e25585d4006daea4b7be6e69c0fbbd7a483a90149cd0c9d6876",
+      "id": "3c5be26faa6d",
+      "priority": 1,
+      "group": "6049c30f2e12"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แบรนด์",
+      "meaningInSourceLanguage": "品牌",
+      "id": "164a073f2243",
+      "priority": 0,
+      "group": "5e07d0fa6fbf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แบรนด์"
+      ],
+      "phrase": [
+        {
+          "word": "品牌",
+          "definition": "แบรนด์"
+        }
+      ],
+      "id": "733e33d45e83",
+      "priority": 1,
+      "group": "5e07d0fa6fbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แบรนด์",
+      "meaning": "品牌",
+      "audio": "23ecface8998bdff24057e93ca11d07114df96e9da9ecca1afdca2a8b59e9f8b",
+      "id": "4080ba7c82e8",
+      "priority": 1,
+      "group": "5e07d0fa6fbf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "คืนสินค้า",
+      "meaningInSourceLanguage": "退货",
+      "id": "08f24c5bb031",
+      "priority": 0,
+      "group": "a6de453a069d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "คืนสินค้า"
+      ],
+      "phrase": [
+        {
+          "word": "退货",
+          "definition": "คืนสินค้า"
+        }
+      ],
+      "id": "a24d8d503bf0",
+      "priority": 1,
+      "group": "a6de453a069d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "คืนสินค้า",
+      "meaning": "退货",
+      "audio": "40c00f366bb8ec037dbf334423776be98490d89481eff72c5c21ed2df68dd742",
+      "id": "ccccae2b9297",
+      "priority": 1,
+      "group": "a6de453a069d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เปิด",
+      "meaningInSourceLanguage": "营业",
+      "id": "24ea21c45afb",
+      "priority": 0,
+      "group": "c69a3ccb3f10"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เปิด"
+      ],
+      "phrase": [
+        {
+          "word": "营业",
+          "definition": "เปิด"
+        }
+      ],
+      "id": "dcf7cdf09a02",
+      "priority": 1,
+      "group": "c69a3ccb3f10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เปิด",
+      "meaning": "营业",
+      "audio": "29507c6d545b65e1eae64f11033d3a6f2708eebd520d06c3383332f815c02de1",
+      "id": "5ca7c31c8fd9",
+      "priority": 1,
+      "group": "c69a3ccb3f10"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ปิด",
+      "meaningInSourceLanguage": "关门",
+      "id": "7cd914e04494",
+      "priority": 0,
+      "group": "9598cb79a032"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ปิด"
+      ],
+      "phrase": [
+        {
+          "word": "关门",
+          "definition": "ปิด"
+        }
+      ],
+      "id": "1b8860fa6ee8",
+      "priority": 1,
+      "group": "9598cb79a032"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ปิด",
+      "meaning": "关门",
+      "audio": "1a6e6f61c746de0e95f3189ebee65a03ec9fb3c9c785db8f9b18b9d567249a0c",
+      "id": "2d2b2a20eee1",
+      "priority": 1,
+      "group": "9598cb79a032"
+    }
+  ]
+}

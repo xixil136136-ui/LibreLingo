@@ -41,24 +41,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - neuf: 九
-    - sept: 七
-    - quatre: 四
-    - six: 六
-    - dix: 十
-    - deux: 二
     - huit: 八
     - cinq: 五
     - trois: 三
+    - neuf: 九
+    - dix: 十
+    - quatre: 四
     - un: 一
+    - deux: 二
+    - sept: 七
+    - six: 六
   Chinese:
-    - 五: cinq
+    - 二: deux
     - 一: un
+    - 十: dix
+    - 五: cinq
+    - 九: neuf
     - 八: huit
     - 六: six
-    - 四: quatre
     - 七: sept
     - 三: trois
-    - 十: dix
-    - 九: neuf
-    - 二: deux
+    - 四: quatre

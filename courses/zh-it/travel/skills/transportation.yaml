@@ -1,0 +1,68 @@
+Skill:
+  Name: Transportation
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: treno
+    Translation: 火车
+  - Word: autobus
+    Translation: 公共汽车
+  - Word: taxi
+    Translation: 出租车
+  - Word: metropolitana
+    Translation: 地铁
+  - Word: hotel
+    Translation: 酒店
+  - Word: bagaglio
+    Translation: 行李
+  - Word: stazione
+    Translation: 车站
+  - Word: volo
+    Translation: 航班
+  - Word: ritardo
+    Translation: 延误
+  - Word: imbarco
+    Translation: 登机
+
+Phrases:
+  - Phrase: Dov'è la fermata dell'autobus?
+    Translation: 公共汽车站在哪里？
+  - Phrase: Il treno è in ritardo.
+    Translation: 火车晚点了。
+  - Phrase: Ho bagaglio.
+    Translation: 我有行李。
+  - Phrase: Quanto costa il treno?
+    Translation: 火车票多少钱？
+  - Phrase: Dov'è il posteggio dei taxi?
+    Translation: 出租车站在哪里？
+
+Mini-dictionary:
+  Italian:
+    - stazione: 车站
+    - autobus: 公共汽车
+    - volo: 航班
+    - taxi: 出租车
+    - treno: 火车
+    - ritardo: 延误
+    - imbarco: 登机
+    - metropolitana: 地铁
+    - hotel: 酒店
+    - bagaglio: 行李
+  Chinese:
+    - 公共汽车: autobus
+    - 登机: imbarco
+    - 延误: ritardo
+    - 航班: volo
+    - 行李: bagaglio
+    - 车站: stazione
+    - 地铁: metropolitana
+    - 火车: treno
+    - 出租车: taxi
+    - 酒店: hotel

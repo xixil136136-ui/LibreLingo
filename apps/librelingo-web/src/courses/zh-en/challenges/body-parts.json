@@ -1,0 +1,2012 @@
+{
+  "id": "59fe4a24fdd3",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "head",
+      "meaningInSourceLanguage": "头",
+      "id": "ebb28d21965e",
+      "priority": 0,
+      "group": "2169ba64d77b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "head",
+      "meaning": "头",
+      "audio": "9e82011c65fc4c68aca27a2488eb3e3a",
+      "id": "fc525ac91ec7",
+      "priority": 1,
+      "group": "2169ba64d77b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hair",
+      "meaningInSourceLanguage": "头发",
+      "id": "b4c4c0eef820",
+      "priority": 0,
+      "group": "9a2d8f02ae53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hair",
+      "meaning": "头发",
+      "audio": "fe437332f263438c8995b8a04588a1a3",
+      "id": "1c985b5e2c38",
+      "priority": 1,
+      "group": "9a2d8f02ae53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "face",
+      "meaningInSourceLanguage": "脸",
+      "id": "82c31c51104d",
+      "priority": 0,
+      "group": "65fbf86ce283"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "face",
+      "meaning": "脸",
+      "audio": "149601922ba84eb1bcedacbcc7cf39c7",
+      "id": "814934f7217c",
+      "priority": 1,
+      "group": "65fbf86ce283"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eye",
+      "meaningInSourceLanguage": "眼睛",
+      "id": "b3669f9eafa8",
+      "priority": 0,
+      "group": "48930f985d9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eye",
+      "meaning": "眼睛",
+      "audio": "c9fb624cce714d91806d81066a5b23a4",
+      "id": "fb811fcb3462",
+      "priority": 1,
+      "group": "48930f985d9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nose",
+      "meaningInSourceLanguage": "鼻子",
+      "id": "75b50df7f2e7",
+      "priority": 0,
+      "group": "e35d8df6919e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nose",
+      "meaning": "鼻子",
+      "audio": "9919d822da9d491391d037b7d487d186",
+      "id": "ce0cd871dc70",
+      "priority": 1,
+      "group": "e35d8df6919e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mouth",
+      "meaningInSourceLanguage": "嘴",
+      "id": "424529a5e2db",
+      "priority": 0,
+      "group": "5dc3c1202100"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mouth",
+      "meaning": "嘴",
+      "audio": "35fa4f99ef2943dc84fd13b5b66ffd81",
+      "id": "732e66485339",
+      "priority": 1,
+      "group": "5dc3c1202100"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ear",
+      "meaningInSourceLanguage": "耳朵",
+      "id": "906b054b6756",
+      "priority": 0,
+      "group": "98b115fff062"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ear",
+      "meaning": "耳朵",
+      "audio": "df3142c310334126a3477cb416a1533a",
+      "id": "cd38bb466861",
+      "priority": 1,
+      "group": "98b115fff062"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "neck",
+      "meaningInSourceLanguage": "脖子",
+      "id": "dcee75a57b09",
+      "priority": 0,
+      "group": "4e3a1159cf78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "neck",
+      "meaning": "脖子",
+      "audio": "5077a6d49bf2443c889ca447e6813fb2",
+      "id": "65a3d04a8eee",
+      "priority": 1,
+      "group": "4e3a1159cf78"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shoulder",
+      "meaningInSourceLanguage": "肩膀",
+      "id": "1ecd311b2f60",
+      "priority": 0,
+      "group": "ec8727e3f06e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shoulder",
+      "meaning": "肩膀",
+      "audio": "808b46e43e254c92b550bdb0c19b96eb",
+      "id": "0b3dcbc62c32",
+      "priority": 1,
+      "group": "ec8727e3f06e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arm",
+      "meaningInSourceLanguage": "手臂",
+      "id": "164cf23ad1a2",
+      "priority": 0,
+      "group": "7d7a2b5ed346"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arm",
+      "meaning": "手臂",
+      "audio": "577b9b9b60da4f6ab415a704547f813a",
+      "id": "25902bc8f92a",
+      "priority": 1,
+      "group": "7d7a2b5ed346"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hand",
+      "meaningInSourceLanguage": "手",
+      "id": "fb02da089604",
+      "priority": 0,
+      "group": "6e0d6de4fbe9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hand",
+      "meaning": "手",
+      "audio": "d96a8b8fa09d47f587a56ba790795ba9",
+      "id": "d6c85328d4e3",
+      "priority": 1,
+      "group": "6e0d6de4fbe9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "finger",
+      "meaningInSourceLanguage": "手指",
+      "id": "d8676f900026",
+      "priority": 0,
+      "group": "c97e3ef78a92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "finger",
+      "meaning": "手指",
+      "audio": "e633d1623b934a1f9545597fa06fa756",
+      "id": "b67318b6ef6b",
+      "priority": 1,
+      "group": "c97e3ef78a92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chest",
+      "meaningInSourceLanguage": "胸部",
+      "id": "0ae87ed2ddf3",
+      "priority": 0,
+      "group": "a2c686fcb6fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chest",
+      "meaning": "胸部",
+      "audio": "cf724f8c36364691a04edda68b5350e5",
+      "id": "109da97748ca",
+      "priority": 1,
+      "group": "a2c686fcb6fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "back",
+      "meaningInSourceLanguage": "背部",
+      "id": "78043dc7e215",
+      "priority": 0,
+      "group": "f9761b50f41a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "back",
+      "meaning": "背部",
+      "audio": "94fcd5124f3d40019c598c97ba1a708e",
+      "id": "143ba89f51cd",
+      "priority": 1,
+      "group": "f9761b50f41a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stomach",
+      "meaningInSourceLanguage": "肚子",
+      "id": "62b3c023a6ad",
+      "priority": 0,
+      "group": "b563da288aad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stomach",
+      "meaning": "肚子",
+      "audio": "56e06a1c59204e2fb674d62a503eade5",
+      "id": "4105e0b3dabf",
+      "priority": 1,
+      "group": "b563da288aad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leg",
+      "meaningInSourceLanguage": "腿",
+      "id": "a95a53cb7635",
+      "priority": 0,
+      "group": "19fb53090a37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leg",
+      "meaning": "腿",
+      "audio": "be27c347aade4e2ab93aa364278929db",
+      "id": "856d1726e260",
+      "priority": 1,
+      "group": "19fb53090a37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "knee",
+      "meaningInSourceLanguage": "膝盖",
+      "id": "f60c7bf140be",
+      "priority": 0,
+      "group": "877b5ad76bec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "knee",
+      "meaning": "膝盖",
+      "audio": "ad74e12ec1a1478b86b05e798d2cb12f",
+      "id": "9975cbc9aa63",
+      "priority": 1,
+      "group": "877b5ad76bec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "foot",
+      "meaningInSourceLanguage": "脚",
+      "id": "b9c810e418a1",
+      "priority": 0,
+      "group": "7a39afccb0fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "foot",
+      "meaning": "脚",
+      "audio": "b739022457cb48bd8c6f3590cc000adb",
+      "id": "df7d66ead69f",
+      "priority": 1,
+      "group": "7a39afccb0fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toe",
+      "meaningInSourceLanguage": "脚趾",
+      "id": "b5c6d23262f2",
+      "priority": 0,
+      "group": "04bcb85c810d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toe",
+      "meaning": "脚趾",
+      "audio": "3f9321f2bdf24d1d86bde7c6f42cd29e",
+      "id": "05cd36f910b3",
+      "priority": 1,
+      "group": "04bcb85c810d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skin",
+      "meaningInSourceLanguage": "皮肤",
+      "id": "d3d8ca50637d",
+      "priority": 0,
+      "group": "c34912ed6cd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skin",
+      "meaning": "皮肤",
+      "audio": "8e2a44d4770b4505acb70308fb610e4a",
+      "id": "68128b4ad43e",
+      "priority": 1,
+      "group": "c34912ed6cd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bone",
+      "meaningInSourceLanguage": "骨头",
+      "id": "5715e723daf4",
+      "priority": 0,
+      "group": "261d5c493812"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bone",
+      "meaning": "骨头",
+      "audio": "d7ae08fba6054963b80f1c1c46c7195e",
+      "id": "100d9ab15a90",
+      "priority": 1,
+      "group": "261d5c493812"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "muscle",
+      "meaningInSourceLanguage": "肌肉",
+      "id": "29561fd6e94c",
+      "priority": 0,
+      "group": "2b3f7b8d4ed8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "muscle",
+      "meaning": "肌肉",
+      "audio": "85b57bf5c1f44b1d86b152a6a4e9a05c",
+      "id": "75f27c796c29",
+      "priority": 1,
+      "group": "2b3f7b8d4ed8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heart",
+      "meaningInSourceLanguage": "心脏",
+      "id": "501032c62c26",
+      "priority": 0,
+      "group": "fe7ef45663b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heart",
+      "meaning": "心脏",
+      "audio": "23720231dde9453c8d5be35fce234835",
+      "id": "fc198e3a1507",
+      "priority": 1,
+      "group": "fe7ef45663b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lung",
+      "meaningInSourceLanguage": "肺",
+      "id": "0db6cbf2498f",
+      "priority": 0,
+      "group": "d84bd925dafe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lung",
+      "meaning": "肺",
+      "audio": "bb758da489074e138e160a6b88eb610a",
+      "id": "2e3ee37176d7",
+      "priority": 1,
+      "group": "d84bd925dafe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "liver",
+      "meaningInSourceLanguage": "肝脏",
+      "id": "2f705a6a0316",
+      "priority": 0,
+      "group": "be30a2f17658"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "liver",
+      "meaning": "肝脏",
+      "audio": "9888c2da7c6f4f158e971df0455d2156",
+      "id": "4cd3875463eb",
+      "priority": 1,
+      "group": "be30a2f17658"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kidney",
+      "meaningInSourceLanguage": "肾脏",
+      "id": "edc2b7143831",
+      "priority": 0,
+      "group": "b7c0de41bd0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kidney",
+      "meaning": "肾脏",
+      "audio": "17bd6141be6b41ddb6629b9cb7050214",
+      "id": "4f90540ad71a",
+      "priority": 1,
+      "group": "b7c0de41bd0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brain",
+      "meaningInSourceLanguage": "大脑",
+      "id": "b5940886cefc",
+      "priority": 0,
+      "group": "b0b7ee2eb6f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brain",
+      "meaning": "大脑",
+      "audio": "a3a1c2a289b24296be11a58d2b3fe8ec",
+      "id": "ad832499f503",
+      "priority": 1,
+      "group": "b0b7ee2eb6f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blood",
+      "meaningInSourceLanguage": "血液",
+      "id": "6ad02186fa62",
+      "priority": 0,
+      "group": "6bd188023db9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blood",
+      "meaning": "血液",
+      "audio": "19a78c385a744478afde3a5294f44413",
+      "id": "fd040257c7e9",
+      "priority": 1,
+      "group": "6bd188023db9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eyebrow",
+      "meaningInSourceLanguage": "眉毛",
+      "id": "eb7db7cbb50c",
+      "priority": 0,
+      "group": "9c96368f462d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eyebrow",
+      "meaning": "眉毛",
+      "audio": "a62c39abd0194fd2b3bb5907b2fe3e1c",
+      "id": "bf61ee2bc183",
+      "priority": 1,
+      "group": "9c96368f462d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eyelash",
+      "meaningInSourceLanguage": "睫毛",
+      "id": "154418d3aff9",
+      "priority": 0,
+      "group": "23f31d673572"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eyelash",
+      "meaning": "睫毛",
+      "audio": "f9f29c16bf3840a5986e6decdf4af79d",
+      "id": "dbf86a091075",
+      "priority": 1,
+      "group": "23f31d673572"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tongue",
+      "meaningInSourceLanguage": "舌头",
+      "id": "8ea5a5d01993",
+      "priority": 0,
+      "group": "3bd6bc7a5170"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tongue",
+      "meaning": "舌头",
+      "audio": "465a449f62314a67b7a34c6aab2eba41",
+      "id": "8f9dbeeb205d",
+      "priority": 1,
+      "group": "3bd6bc7a5170"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tooth",
+      "meaningInSourceLanguage": "牙齿",
+      "id": "ce301047c5ed",
+      "priority": 0,
+      "group": "f0349424e208"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tooth",
+      "meaning": "牙齿",
+      "audio": "b162eac90ae340a2bcf1369726354039",
+      "id": "32f100acc9b1",
+      "priority": 1,
+      "group": "f0349424e208"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lip",
+      "meaningInSourceLanguage": "嘴唇",
+      "id": "adcb3a7b866d",
+      "priority": 0,
+      "group": "9ec56b9b31cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lip",
+      "meaning": "嘴唇",
+      "audio": "728e6fe7de964171b7e71462bbe65642",
+      "id": "e2f54c7e6e15",
+      "priority": 1,
+      "group": "9ec56b9b31cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chin",
+      "meaningInSourceLanguage": "下巴",
+      "id": "1dedabc54dc8",
+      "priority": 0,
+      "group": "c1c78f93bac6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chin",
+      "meaning": "下巴",
+      "audio": "245d01928b6a4a1189bcd98d7344df33",
+      "id": "5ddc89429d63",
+      "priority": 1,
+      "group": "c1c78f93bac6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cheek",
+      "meaningInSourceLanguage": "脸颊",
+      "id": "d02587756f13",
+      "priority": 0,
+      "group": "c674bbc17f93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cheek",
+      "meaning": "脸颊",
+      "audio": "e243ff2e4aca47c687c0ef1e82ef4cf4",
+      "id": "33fc45c71154",
+      "priority": 1,
+      "group": "c674bbc17f93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "forehead",
+      "meaningInSourceLanguage": "额头",
+      "id": "21107127a042",
+      "priority": 0,
+      "group": "c147a1281d06"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "forehead",
+      "meaning": "额头",
+      "audio": "5671d65e718a40798af50d69f670943e",
+      "id": "5355c56017f1",
+      "priority": 1,
+      "group": "c147a1281d06"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jaw",
+      "meaningInSourceLanguage": "下巴",
+      "id": "6b52f0b7d89e",
+      "priority": 0,
+      "group": "6b38d738cfd6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jaw",
+      "meaning": "下巴",
+      "audio": "23eb04dc04cc46328519a067257409e7",
+      "id": "4a748349c18f",
+      "priority": 1,
+      "group": "6b38d738cfd6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wrist",
+      "meaningInSourceLanguage": "手腕",
+      "id": "d6ac0cd0d3ab",
+      "priority": 0,
+      "group": "5f514b80d12c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wrist",
+      "meaning": "手腕",
+      "audio": "6de057254da64f46993530d629ec624f",
+      "id": "2580cc849273",
+      "priority": 1,
+      "group": "5f514b80d12c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ankle",
+      "meaningInSourceLanguage": "脚踝",
+      "id": "adc6f99200f0",
+      "priority": 0,
+      "group": "0df67ea0df29"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ankle",
+      "meaning": "脚踝",
+      "audio": "086dc49cc1af4d2094e140716d46b334",
+      "id": "75202fe5f201",
+      "priority": 1,
+      "group": "0df67ea0df29"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "elbow",
+      "meaningInSourceLanguage": "肘部",
+      "id": "b3ed45aa59e0",
+      "priority": 0,
+      "group": "a4a88bae64f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "elbow",
+      "meaning": "肘部",
+      "audio": "120cf1db411f4d9587cea8abe80656a6",
+      "id": "b062b48756cd",
+      "priority": 1,
+      "group": "a4a88bae64f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hip",
+      "meaningInSourceLanguage": "臀部",
+      "id": "1bb43f12ff43",
+      "priority": 0,
+      "group": "e0ca3a2ee82f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hip",
+      "meaning": "臀部",
+      "audio": "48bd306e477d44148425bb62a0d9e237",
+      "id": "6a7b4470e6b4",
+      "priority": 1,
+      "group": "e0ca3a2ee82f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waist",
+      "meaningInSourceLanguage": "腰",
+      "id": "8207de3e317d",
+      "priority": 0,
+      "group": "6c4dc973641f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waist",
+      "meaning": "腰",
+      "audio": "03caee28abd847ce81ac968e19975067",
+      "id": "0c3b34702d14",
+      "priority": 1,
+      "group": "6c4dc973641f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thumb",
+      "meaningInSourceLanguage": "大拇指",
+      "id": "2a79e094a4be",
+      "priority": 0,
+      "group": "a931f429dd16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thumb",
+      "meaning": "大拇指",
+      "audio": "5b3a97c4003947e0a4dd1110bc427a46",
+      "id": "c0afbfd4a097",
+      "priority": 1,
+      "group": "a931f429dd16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "palm",
+      "meaningInSourceLanguage": "手掌",
+      "id": "7f4497602d87",
+      "priority": 0,
+      "group": "57281961ea0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "palm",
+      "meaning": "手掌",
+      "audio": "e208da5995a642d486a8b07687906020",
+      "id": "2a14bbdb899d",
+      "priority": 1,
+      "group": "57281961ea0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fist",
+      "meaningInSourceLanguage": "拳头",
+      "id": "4a31333f85ce",
+      "priority": 0,
+      "group": "fb87ba4cebfb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fist",
+      "meaning": "拳头",
+      "audio": "1c88549f2dff4ff991a656ba3db5754f",
+      "id": "70031e260cde",
+      "priority": 1,
+      "group": "fb87ba4cebfb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nail",
+      "meaningInSourceLanguage": "指甲",
+      "id": "5b6f203e18fa",
+      "priority": 0,
+      "group": "686524d9fef9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nail",
+      "meaning": "指甲",
+      "audio": "f2d546f6cefb4f039c219609018b5afd",
+      "id": "96abab967ff4",
+      "priority": 1,
+      "group": "686524d9fef9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heel",
+      "meaningInSourceLanguage": "脚后跟",
+      "id": "9692eb27a023",
+      "priority": 0,
+      "group": "c69273de1a85"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heel",
+      "meaning": "脚后跟",
+      "audio": "0b1e4a90f86646ea889cbe5a1b0ac910",
+      "id": "4342ed194700",
+      "priority": 1,
+      "group": "c69273de1a85"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sole",
+      "meaningInSourceLanguage": "脚底",
+      "id": "b1ef64f5cf8f",
+      "priority": 0,
+      "group": "495315475272"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sole",
+      "meaning": "脚底",
+      "audio": "04c0fff297154aa3a18fcb0102a02002",
+      "id": "c89e27479319",
+      "priority": 1,
+      "group": "495315475272"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spine",
+      "meaningInSourceLanguage": "脊柱",
+      "id": "a6fef7a14642",
+      "priority": 0,
+      "group": "b66dceafe750"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spine",
+      "meaning": "脊柱",
+      "audio": "03c6f833374c4381b9df984cc578802c",
+      "id": "cf1b66bf457a",
+      "priority": 1,
+      "group": "b66dceafe750"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rib",
+      "meaningInSourceLanguage": "肋骨",
+      "id": "c025ffab9ebd",
+      "priority": 0,
+      "group": "5258d70b6095"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rib",
+      "meaning": "肋骨",
+      "audio": "9c790a2812444d629907586ccf15f9f6",
+      "id": "171855b392e3",
+      "priority": 1,
+      "group": "5258d70b6095"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "throat",
+      "meaningInSourceLanguage": "喉咙",
+      "id": "2e973b63c4dc",
+      "priority": 0,
+      "group": "0a75f1fc7364"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "throat",
+      "meaning": "喉咙",
+      "audio": "2ee4ce0b9a024d59b5dad99e68c2498e",
+      "id": "a4ef0b4d0195",
+      "priority": 1,
+      "group": "0a75f1fc7364"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vein",
+      "meaningInSourceLanguage": "静脉",
+      "id": "8841bad57f9c",
+      "priority": 0,
+      "group": "e4de94226bca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vein",
+      "meaning": "静脉",
+      "audio": "38d88f67eb5f4c2895a68f06c32863bf",
+      "id": "6851bcbb20ba",
+      "priority": 1,
+      "group": "e4de94226bca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "artery",
+      "meaningInSourceLanguage": "动脉",
+      "id": "0858ef4a571a",
+      "priority": 0,
+      "group": "b84d09391f88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "artery",
+      "meaning": "动脉",
+      "audio": "752ecf3da28b4fb086ac9d7946db9132",
+      "id": "fcc3a5523f53",
+      "priority": 1,
+      "group": "b84d09391f88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nerve",
+      "meaningInSourceLanguage": "神经",
+      "id": "20c4569af0de",
+      "priority": 0,
+      "group": "471607d2a9f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nerve",
+      "meaning": "神经",
+      "audio": "22fc4376a70242969dea51eef5b27181",
+      "id": "0463e78e9a5e",
+      "priority": 1,
+      "group": "471607d2a9f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gland",
+      "meaningInSourceLanguage": "腺体",
+      "id": "fb290571795f",
+      "priority": 0,
+      "group": "898df4efbfa7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gland",
+      "meaning": "腺体",
+      "audio": "8667af800bd64ef6909001b888cd009c",
+      "id": "063504a40e67",
+      "priority": 1,
+      "group": "898df4efbfa7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "organ",
+      "meaningInSourceLanguage": "器官",
+      "id": "e98f7e37d46d",
+      "priority": 0,
+      "group": "286fc9701ad9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "organ",
+      "meaning": "器官",
+      "audio": "c2cb887b24134349975b2ea390266b60",
+      "id": "54b8925656c3",
+      "priority": 1,
+      "group": "286fc9701ad9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pupil",
+      "meaningInSourceLanguage": "瞳孔",
+      "id": "3961884babe9",
+      "priority": 0,
+      "group": "e55a5ddb8e3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pupil",
+      "meaning": "瞳孔",
+      "audio": "89b5fee71fa64b1faac504b7f95daa29",
+      "id": "5cb4814aee27",
+      "priority": 1,
+      "group": "e55a5ddb8e3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "iris",
+      "meaningInSourceLanguage": "虹膜",
+      "id": "cd6325f78029",
+      "priority": 0,
+      "group": "c705391a3e89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "iris",
+      "meaning": "虹膜",
+      "audio": "c1d206d0a6ea4d639eb21551ce4257ea",
+      "id": "48f77221fe35",
+      "priority": 1,
+      "group": "c705391a3e89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eyelid",
+      "meaningInSourceLanguage": "眼睑",
+      "id": "633da7be9d7d",
+      "priority": 0,
+      "group": "717ef582a9dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eyelid",
+      "meaning": "眼睑",
+      "audio": "ab69ea5164cf4fffa6c47921a05abab8",
+      "id": "7b5ffac78b65",
+      "priority": 1,
+      "group": "717ef582a9dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nostril",
+      "meaningInSourceLanguage": "鼻孔",
+      "id": "9eaa4c65a1e7",
+      "priority": 0,
+      "group": "201f2bf65db5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nostril",
+      "meaning": "鼻孔",
+      "audio": "496fc6dc83034241a1fb544efa9bdd40",
+      "id": "b89f65dd51b6",
+      "priority": 1,
+      "group": "201f2bf65db5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "palate",
+      "meaningInSourceLanguage": "上颚",
+      "id": "7cb9f44c9231",
+      "priority": 0,
+      "group": "f4a4179b5085"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "palate",
+      "meaning": "上颚",
+      "audio": "dbb6ac0aac9f42cd9e18030eee3f1dc0",
+      "id": "d4f2b6056b90",
+      "priority": 1,
+      "group": "f4a4179b5085"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gum",
+      "meaningInSourceLanguage": "牙龈",
+      "id": "4779a1e37801",
+      "priority": 0,
+      "group": "1b82816e9670"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gum",
+      "meaning": "牙龈",
+      "audio": "14641578401a456899c248f14b57a47e",
+      "id": "94aeaf9d51ab",
+      "priority": 1,
+      "group": "1b82816e9670"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "molar",
+      "meaningInSourceLanguage": "磨牙",
+      "id": "3482d143d9b0",
+      "priority": 0,
+      "group": "96ef79aec637"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "molar",
+      "meaning": "磨牙",
+      "audio": "6461738b89584e248fe758f7fbb8456b",
+      "id": "a185efa23490",
+      "priority": 1,
+      "group": "96ef79aec637"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "incisor",
+      "meaningInSourceLanguage": "门牙",
+      "id": "4951937a9e9a",
+      "priority": 0,
+      "group": "bee76a9db97c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "incisor",
+      "meaning": "门牙",
+      "audio": "644b0dd58d9b4dcb802e98025ad9168b",
+      "id": "690f448fd214",
+      "priority": 1,
+      "group": "bee76a9db97c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "canine",
+      "meaningInSourceLanguage": "犬牙",
+      "id": "d16b9f7017b6",
+      "priority": 0,
+      "group": "5f3e7dc26b21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "canine",
+      "meaning": "犬牙",
+      "audio": "801d465d81014ebda3cdffbca1461b48",
+      "id": "d4cd91f6096a",
+      "priority": 1,
+      "group": "5f3e7dc26b21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "temple",
+      "meaningInSourceLanguage": "太阳穴",
+      "id": "686e8f4a3469",
+      "priority": 0,
+      "group": "6257162af0a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temple",
+      "meaning": "太阳穴",
+      "audio": "c61eef37090b472e80765ab8e47422b9",
+      "id": "8e5e733c14e3",
+      "priority": 1,
+      "group": "6257162af0a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skull",
+      "meaningInSourceLanguage": "头骨",
+      "id": "83aa666f0187",
+      "priority": 0,
+      "group": "9f171afb32d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skull",
+      "meaning": "头骨",
+      "audio": "b5562e5f7a504bebbb97dd4b1d5ff7dc",
+      "id": "9398e7de7466",
+      "priority": 1,
+      "group": "9f171afb32d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "collarbone",
+      "meaningInSourceLanguage": "锁骨",
+      "id": "b8c842c24d6b",
+      "priority": 0,
+      "group": "65109490c892"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "collarbone",
+      "meaning": "锁骨",
+      "audio": "7b50f3cc5da84504943fe9cfbbb339a3",
+      "id": "abd7be5e048e",
+      "priority": 1,
+      "group": "65109490c892"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shoulder blade",
+      "meaningInSourceLanguage": "肩胛骨",
+      "id": "786084919e62",
+      "priority": 0,
+      "group": "7d2aa3c1ca3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shoulder blade",
+      "meaning": "肩胛骨",
+      "audio": "1964f6a99d56402988261250081ec4e5",
+      "id": "95c2524271ac",
+      "priority": 1,
+      "group": "7d2aa3c1ca3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thigh",
+      "meaningInSourceLanguage": "大腿",
+      "id": "422c122b32db",
+      "priority": 0,
+      "group": "c4da1db8a86e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thigh",
+      "meaning": "大腿",
+      "audio": "be86c068c8e542d99588c325f211e80f",
+      "id": "b865d8c01d5e",
+      "priority": 1,
+      "group": "c4da1db8a86e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calf",
+      "meaningInSourceLanguage": "小腿",
+      "id": "2487d28c9074",
+      "priority": 0,
+      "group": "32ee59a01d03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calf",
+      "meaning": "小腿",
+      "audio": "7ee71df27a7e43908050342cb06dcca6",
+      "id": "beb77206b8f9",
+      "priority": 1,
+      "group": "32ee59a01d03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shin",
+      "meaningInSourceLanguage": "胫骨",
+      "id": "aafa1332cd46",
+      "priority": 0,
+      "group": "7602582e6f05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shin",
+      "meaning": "胫骨",
+      "audio": "a9c3382f6ace49b2be11fb69d84afaad",
+      "id": "192b63e29675",
+      "priority": 1,
+      "group": "7602582e6f05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "instep",
+      "meaningInSourceLanguage": "脚背",
+      "id": "91410193d6c6",
+      "priority": 0,
+      "group": "a0668e182fd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "instep",
+      "meaning": "脚背",
+      "audio": "5b69ebbf90114b03b26af096363666e8",
+      "id": "74c87c66cb8c",
+      "priority": 1,
+      "group": "a0668e182fd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cuticle",
+      "meaningInSourceLanguage": "表皮",
+      "id": "2203df8aa693",
+      "priority": 0,
+      "group": "d9446f470fb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cuticle",
+      "meaning": "表皮",
+      "audio": "9e19492abd1145079915ff3e75818d74",
+      "id": "2062b7fb6a73",
+      "priority": 1,
+      "group": "d9446f470fb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "knuckle",
+      "meaningInSourceLanguage": "指关节",
+      "id": "30d862469e24",
+      "priority": 0,
+      "group": "7b21b2e7400a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "knuckle",
+      "meaning": "指关节",
+      "audio": "2d0224cc37864dc6b0cc05c5c0cb2357",
+      "id": "30d3c9a3e1a5",
+      "priority": 1,
+      "group": "7b21b2e7400a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dimple",
+      "meaningInSourceLanguage": "酒窝",
+      "id": "a70f10152c26",
+      "priority": 0,
+      "group": "389437413126"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dimple",
+      "meaning": "酒窝",
+      "audio": "723d36bdddb54cf4a1527ef02eb43903",
+      "id": "026c6f93d551",
+      "priority": 1,
+      "group": "389437413126"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "freckle",
+      "meaningInSourceLanguage": "雀斑",
+      "id": "dd08978cc7e7",
+      "priority": 0,
+      "group": "09643cd31a88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "freckle",
+      "meaning": "雀斑",
+      "audio": "7b938be702504558988b10e6b1aedcf9",
+      "id": "f732966a47b6",
+      "priority": 1,
+      "group": "09643cd31a88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wrinkle",
+      "meaningInSourceLanguage": "皱纹",
+      "id": "ad9da0d88090",
+      "priority": 0,
+      "group": "006fad80c711"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wrinkle",
+      "meaning": "皱纹",
+      "audio": "8664f6c61509409c9359a65718d4c7d5",
+      "id": "13bde9fc12cf",
+      "priority": 1,
+      "group": "006fad80c711"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mole",
+      "meaningInSourceLanguage": "痣",
+      "id": "816c0c7654e1",
+      "priority": 0,
+      "group": "86c0ed10d11a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mole",
+      "meaning": "痣",
+      "audio": "416e96ace3fa46b8bb7190643b87c45f",
+      "id": "4a3a2e5ec9d6",
+      "priority": 1,
+      "group": "86c0ed10d11a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "birthmark",
+      "meaningInSourceLanguage": "胎记",
+      "id": "96e29441ba64",
+      "priority": 0,
+      "group": "d4eb90b14039"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "birthmark",
+      "meaning": "胎记",
+      "audio": "9643ec49c1c5474382eff9313ae04428",
+      "id": "ff0ed7a43b40",
+      "priority": 1,
+      "group": "d4eb90b14039"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "abdomen",
+      "meaningInSourceLanguage": "腹部",
+      "id": "1d4aed2bd2a0",
+      "priority": 0,
+      "group": "f4394e1a467a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "abdomen",
+      "meaning": "腹部",
+      "audio": "adaf1f5f748c46d595a9488ac9e21517",
+      "id": "9720276963c1",
+      "priority": 1,
+      "group": "f4394e1a467a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "appendix",
+      "meaningInSourceLanguage": "阑尾",
+      "id": "a93da15cc61f",
+      "priority": 0,
+      "group": "cd9c872a9432"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "appendix",
+      "meaning": "阑尾",
+      "audio": "2336e0f473694ace9b3979e341f927ee",
+      "id": "8c156239ff96",
+      "priority": 1,
+      "group": "cd9c872a9432"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bladder",
+      "meaningInSourceLanguage": "膀胱",
+      "id": "f23da96d8b54",
+      "priority": 0,
+      "group": "e549b2cc0c8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bladder",
+      "meaning": "膀胱",
+      "audio": "a2fe4bbb68c241ec980f227f60f92dab",
+      "id": "02945b4f034a",
+      "priority": 1,
+      "group": "e549b2cc0c8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blood vessel",
+      "meaningInSourceLanguage": "血管",
+      "id": "a775d6d1c93e",
+      "priority": 0,
+      "group": "3947238c02a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blood vessel",
+      "meaning": "血管",
+      "audio": "6043dde707b047dfa911375450379483",
+      "id": "dd58d7cffd63",
+      "priority": 1,
+      "group": "3947238c02a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "breast",
+      "meaningInSourceLanguage": "乳房",
+      "id": "be81d9e4cb7e",
+      "priority": 0,
+      "group": "f853b014bf6a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "breast",
+      "meaning": "乳房",
+      "audio": "4a013c015c474ca1b76121ea24db29cb",
+      "id": "a3abcb9cc6c7",
+      "priority": 1,
+      "group": "f853b014bf6a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diaphragm",
+      "meaningInSourceLanguage": "横膈膜",
+      "id": "a6204e3e23d8",
+      "priority": 0,
+      "group": "97d01a8a4214"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diaphragm",
+      "meaning": "横膈膜",
+      "audio": "b21bb6591a8749c29cf9151ad92c2721",
+      "id": "86d48dd8e0df",
+      "priority": 1,
+      "group": "97d01a8a4214"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "digestive system",
+      "meaningInSourceLanguage": "消化系统",
+      "id": "9d67b212b6d3",
+      "priority": 0,
+      "group": "3c69a2049a9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "digestive system",
+      "meaning": "消化系统",
+      "audio": "fab512068f2b4387b085ef59528f6cf7",
+      "id": "b6fae0a86fc0",
+      "priority": 1,
+      "group": "3c69a2049a9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "esophagus",
+      "meaningInSourceLanguage": "食道",
+      "id": "98cfe29a6d27",
+      "priority": 0,
+      "group": "4b9a3563329b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "esophagus",
+      "meaning": "食道",
+      "audio": "13764ab0fd474f5ea42596dd6f770a99",
+      "id": "42d29527215f",
+      "priority": 1,
+      "group": "4b9a3563329b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gall bladder",
+      "meaningInSourceLanguage": "胆囊",
+      "id": "caa99815e67e",
+      "priority": 0,
+      "group": "4c6c5cca0ba3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gall bladder",
+      "meaning": "胆囊",
+      "audio": "43bfe88dbc824c569e5cacfe40681eb6",
+      "id": "da1d2fe46a79",
+      "priority": 1,
+      "group": "4c6c5cca0ba3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "intestine",
+      "meaningInSourceLanguage": "肠",
+      "id": "cd83445461fe",
+      "priority": 0,
+      "group": "4ca223a5d44e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "intestine",
+      "meaning": "肠",
+      "audio": "efeae3a238ee447d8669762a01c713e5",
+      "id": "02ee659cdba9",
+      "priority": 1,
+      "group": "4ca223a5d44e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "joint",
+      "meaningInSourceLanguage": "关节",
+      "id": "57b6533a7cc9",
+      "priority": 0,
+      "group": "0aa744e40f57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "joint",
+      "meaning": "关节",
+      "audio": "2885e7b4835c4aafa7ac63a1ac066c54",
+      "id": "39f8d41ab714",
+      "priority": 1,
+      "group": "0aa744e40f57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ligament",
+      "meaningInSourceLanguage": "韧带",
+      "id": "8b3ebe607ae5",
+      "priority": 0,
+      "group": "265ba6535769"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ligament",
+      "meaning": "韧带",
+      "audio": "82dc24b30f974be08afa6045f00d1fcf",
+      "id": "70350285ae20",
+      "priority": 1,
+      "group": "265ba6535769"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lymph node",
+      "meaningInSourceLanguage": "淋巴结",
+      "id": "d98818e85cf4",
+      "priority": 0,
+      "group": "53b16ff6a836"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lymph node",
+      "meaning": "淋巴结",
+      "audio": "2d4acb9cfb314d9aabd3362055cff61f",
+      "id": "5ad5b2f3f932",
+      "priority": 1,
+      "group": "53b16ff6a836"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pancreas",
+      "meaningInSourceLanguage": "胰腺",
+      "id": "1f0310f3290f",
+      "priority": 0,
+      "group": "8aff1b1723b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pancreas",
+      "meaning": "胰腺",
+      "audio": "f8a73b7466fa4e71923b41f3a0ff057f",
+      "id": "c4db0d381473",
+      "priority": 1,
+      "group": "8aff1b1723b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pelvis",
+      "meaningInSourceLanguage": "骨盆",
+      "id": "0b8654d22fe8",
+      "priority": 0,
+      "group": "489268d09758"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pelvis",
+      "meaning": "骨盆",
+      "audio": "8c483d0501d5480085086164f9c894cd",
+      "id": "3527912a20d0",
+      "priority": 1,
+      "group": "489268d09758"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rectum",
+      "meaningInSourceLanguage": "直肠",
+      "id": "5125fa1b9acd",
+      "priority": 0,
+      "group": "f812c54caf72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rectum",
+      "meaning": "直肠",
+      "audio": "961ee460358340329dc7d9738b08636e",
+      "id": "e21fa53119a2",
+      "priority": 1,
+      "group": "f812c54caf72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salivary gland",
+      "meaningInSourceLanguage": "唾液腺",
+      "id": "315d2d4b30d9",
+      "priority": 0,
+      "group": "1cca46900ec5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salivary gland",
+      "meaning": "唾液腺",
+      "audio": "99eaa85de85449769c7868602a841c9c",
+      "id": "00a3e076c59a",
+      "priority": 1,
+      "group": "1cca46900ec5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sinew",
+      "meaningInSourceLanguage": "肌腱",
+      "id": "ea00034dfca0",
+      "priority": 0,
+      "group": "5b49323b3f62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sinew",
+      "meaning": "肌腱",
+      "audio": "809c0c21c263447e935a6fbb02a8f23f",
+      "id": "ec534e641484",
+      "priority": 1,
+      "group": "5b49323b3f62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skeleton",
+      "meaningInSourceLanguage": "骨骼",
+      "id": "bdf1f68f0ab9",
+      "priority": 0,
+      "group": "4bd553f4a6fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skeleton",
+      "meaning": "骨骼",
+      "audio": "5566756617d448acb8bd22e59f2da904",
+      "id": "87cd64c08e81",
+      "priority": 1,
+      "group": "4bd553f4a6fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "small intestine",
+      "meaningInSourceLanguage": "小肠",
+      "id": "f224027134ef",
+      "priority": 0,
+      "group": "042321f0322b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "small intestine",
+      "meaning": "小肠",
+      "audio": "cec49f807a6f4577b8bd0e89eb84698d",
+      "id": "14aee460cd79",
+      "priority": 1,
+      "group": "042321f0322b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "large intestine",
+      "meaningInSourceLanguage": "大肠",
+      "id": "cef0260da2a0",
+      "priority": 0,
+      "group": "4864ba20f57a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "large intestine",
+      "meaning": "大肠",
+      "audio": "b4fd0d1a7fff4f92814a3898932545ad",
+      "id": "6b4c5c96ed60",
+      "priority": 1,
+      "group": "4864ba20f57a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spinal cord",
+      "meaningInSourceLanguage": "脊髓",
+      "id": "d93851d54796",
+      "priority": 0,
+      "group": "5fd7fecd01d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spinal cord",
+      "meaning": "脊髓",
+      "audio": "10f2744412414d3abf3737b45ff49374",
+      "id": "7e49a6a8706c",
+      "priority": 1,
+      "group": "5fd7fecd01d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spleen",
+      "meaningInSourceLanguage": "脾脏",
+      "id": "bf9ba81b1dee",
+      "priority": 0,
+      "group": "bf56cb14339f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spleen",
+      "meaning": "脾脏",
+      "audio": "cdbafd9b14254d47a0043ad2939ac5e2",
+      "id": "8364cb84ed2e",
+      "priority": 1,
+      "group": "bf56cb14339f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tendon",
+      "meaningInSourceLanguage": "腱",
+      "id": "abbcba24d5c0",
+      "priority": 0,
+      "group": "cb49a1168713"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tendon",
+      "meaning": "腱",
+      "audio": "1174a4e4431944ae970a1a3fac2f7d78",
+      "id": "88221ef6cfe0",
+      "priority": 1,
+      "group": "cb49a1168713"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thyroid",
+      "meaningInSourceLanguage": "甲状腺",
+      "id": "e2053f9ff398",
+      "priority": 0,
+      "group": "e54dd3bafbb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thyroid",
+      "meaning": "甲状腺",
+      "audio": "ff2443ae88164261864b9bcec0cd9a9b",
+      "id": "f8ec2c755a8c",
+      "priority": 1,
+      "group": "e54dd3bafbb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tonsil",
+      "meaningInSourceLanguage": "扁桃体",
+      "id": "61e4dfb604c5",
+      "priority": 0,
+      "group": "1c47aa022891"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tonsil",
+      "meaning": "扁桃体",
+      "audio": "f9e7f54b56f3495b8d4623a4930b6a81",
+      "id": "0a6d16e4804b",
+      "priority": 1,
+      "group": "1c47aa022891"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trachea",
+      "meaningInSourceLanguage": "气管",
+      "id": "6a85f3f83d55",
+      "priority": 0,
+      "group": "9b347fdd22a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trachea",
+      "meaning": "气管",
+      "audio": "40d0221359664f02b19880781da51fee",
+      "id": "2b92b9595821",
+      "priority": 1,
+      "group": "9b347fdd22a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "uvula",
+      "meaningInSourceLanguage": "悬雍垂",
+      "id": "b371238bd120",
+      "priority": 0,
+      "group": "bf220155c5f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "uvula",
+      "meaning": "悬雍垂",
+      "audio": "27ae6c85e62f4287815bff707066f4ac",
+      "id": "624bb419f3d1",
+      "priority": 1,
+      "group": "bf220155c5f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wisdom tooth",
+      "meaningInSourceLanguage": "智齿",
+      "id": "87dbc50e0c6d",
+      "priority": 0,
+      "group": "3e4a1ae73a41"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wisdom tooth",
+      "meaning": "智齿",
+      "audio": "83b95b597c494e188d9c5947bbc6c211",
+      "id": "1321101c23d0",
+      "priority": 1,
+      "group": "3e4a1ae73a41"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fingertip",
+      "meaningInSourceLanguage": "指尖",
+      "id": "9514575db941",
+      "priority": 0,
+      "group": "19bb0857281c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fingertip",
+      "meaning": "指尖",
+      "audio": "de76c72000ee4d85926e6c5dbe0a1808",
+      "id": "63d47d1af063",
+      "priority": 1,
+      "group": "19bb0857281c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fingernail",
+      "meaningInSourceLanguage": "手指甲",
+      "id": "5ff14f58e047",
+      "priority": 0,
+      "group": "78b63a7da70f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fingernail",
+      "meaning": "手指甲",
+      "audio": "d888c043888e4ad6a2c30b8464ba2048",
+      "id": "e2a4e365580b",
+      "priority": 1,
+      "group": "78b63a7da70f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toenail",
+      "meaningInSourceLanguage": "脚趾甲",
+      "id": "1fd9bff021aa",
+      "priority": 0,
+      "group": "6903be3f8137"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toenail",
+      "meaning": "脚趾甲",
+      "audio": "316c43267de349b49da0c098424f5314",
+      "id": "43b5228aa9fd",
+      "priority": 1,
+      "group": "6903be3f8137"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "knuckle",
+      "meaningInSourceLanguage": "指关节",
+      "id": "9bffd188cf88",
+      "priority": 0,
+      "group": "4b67bf2585a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "knuckle",
+      "meaning": "指关节",
+      "audio": "7ffd7a2b5daf4018ade32c9c00ee536d",
+      "id": "691da6bfa158",
+      "priority": 1,
+      "group": "4b67bf2585a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pores",
+      "meaningInSourceLanguage": "毛孔",
+      "id": "fa77f4779a43",
+      "priority": 0,
+      "group": "52a3e48c186f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pores",
+      "meaning": "毛孔",
+      "audio": "36f48943f1f243cca03c767837e26edf",
+      "id": "32369db9379c",
+      "priority": 1,
+      "group": "52a3e48c186f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sweat gland",
+      "meaningInSourceLanguage": "汗腺",
+      "id": "99722e776b02",
+      "priority": 0,
+      "group": "b0973c3da9f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sweat gland",
+      "meaning": "汗腺",
+      "audio": "04aa09ab7638415ebc23994d2b795dd2",
+      "id": "292ea891abc1",
+      "priority": 1,
+      "group": "b0973c3da9f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tear duct",
+      "meaningInSourceLanguage": "泪腺",
+      "id": "f8a7a043f825",
+      "priority": 0,
+      "group": "0a41dcd54ed3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tear duct",
+      "meaning": "泪腺",
+      "audio": "673e421e56d24a1880c16013279d3859",
+      "id": "71d9ee9df581",
+      "priority": 1,
+      "group": "0a41dcd54ed3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eardrum",
+      "meaningInSourceLanguage": "耳膜",
+      "id": "13f895ebffc3",
+      "priority": 0,
+      "group": "d74df869f161"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eardrum",
+      "meaning": "耳膜",
+      "audio": "9852f8db56b64af89bc34a25f564b937",
+      "id": "101442d9c4e3",
+      "priority": 1,
+      "group": "d74df869f161"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coccyx",
+      "meaningInSourceLanguage": "尾骨",
+      "id": "690fd1c936cc",
+      "priority": 0,
+      "group": "290e65ec15f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coccyx",
+      "meaning": "尾骨",
+      "audio": "6e227fe30243439dbed331ddbecafe59",
+      "id": "81ee9d0b7d90",
+      "priority": 1,
+      "group": "290e65ec15f1"
+    }
+  ]
+}

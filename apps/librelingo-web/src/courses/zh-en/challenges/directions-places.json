@@ -1,0 +1,720 @@
+{
+  "id": "1efc29011c5a",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "platform",
+      "meaningInSourceLanguage": "站台",
+      "id": "ff85446f9b64",
+      "priority": 0,
+      "group": "270956ee27ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "platform",
+      "meaning": "站台",
+      "audio": "7f36419ff95d4d7082b9e08397c7e2b3",
+      "id": "123131b26d2a",
+      "priority": 1,
+      "group": "270956ee27ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "terminal",
+      "meaningInSourceLanguage": "航站楼",
+      "id": "cf8930b5f4a6",
+      "priority": 0,
+      "group": "239dd6ec09ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "terminal",
+      "meaning": "航站楼",
+      "audio": "0f773f561a4f4c588adbf28636121d4b",
+      "id": "f64a4dcf60af",
+      "priority": 1,
+      "group": "239dd6ec09ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "delay",
+      "meaningInSourceLanguage": "延误",
+      "id": "ea728071a951",
+      "priority": 0,
+      "group": "cae488e015fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "delay",
+      "meaning": "延误",
+      "audio": "24859e3d02444adb80a62d06c5d31ca6",
+      "id": "bd238427b5f7",
+      "priority": 1,
+      "group": "cae488e015fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cancel",
+      "meaningInSourceLanguage": "取消",
+      "id": "ed679dce5d7e",
+      "priority": 0,
+      "group": "1eec164a2333"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cancel",
+      "meaning": "取消",
+      "audio": "51f315163f4140ed95f99b082d97275c",
+      "id": "9f8d52ff6a55",
+      "priority": 1,
+      "group": "1eec164a2333"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "transfer",
+      "meaningInSourceLanguage": "转机",
+      "id": "a7c7cf22e203",
+      "priority": 0,
+      "group": "584cebb60251"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "transfer",
+      "meaning": "转机",
+      "audio": "58f0acd91e50465285c702c3aa94b151",
+      "id": "c5d99570250c",
+      "priority": 1,
+      "group": "584cebb60251"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "layover",
+      "meaningInSourceLanguage": "中转停留",
+      "id": "7530db00a3ac",
+      "priority": 0,
+      "group": "f89009c02626"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "layover",
+      "meaning": "中转停留",
+      "audio": "74f876029dce4dcb9b668ec07e822217",
+      "id": "03ab0edb0484",
+      "priority": 1,
+      "group": "f89009c02626"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "direct flight",
+      "meaningInSourceLanguage": "直飞",
+      "id": "95c116455dfe",
+      "priority": 0,
+      "group": "97f4c19f634a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "direct flight",
+      "meaning": "直飞",
+      "audio": "50be4771500c405d951638b5532262bf",
+      "id": "690ff19135d7",
+      "priority": 1,
+      "group": "97f4c19f634a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "one-way",
+      "meaningInSourceLanguage": "单程",
+      "id": "fda2dbb270a7",
+      "priority": 0,
+      "group": "1c450c8e00ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "one-way",
+      "meaning": "单程",
+      "audio": "47e4c77a6670497693fad197ed691c10",
+      "id": "2db8185771fd",
+      "priority": 1,
+      "group": "1c450c8e00ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "round trip",
+      "meaningInSourceLanguage": "往返",
+      "id": "b0ae0e68e635",
+      "priority": 0,
+      "group": "fcea688629b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "round trip",
+      "meaning": "往返",
+      "audio": "972242020e62467fb94445c03de88401",
+      "id": "4c6d2012be3c",
+      "priority": 1,
+      "group": "fcea688629b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "first class",
+      "meaningInSourceLanguage": "头等舱",
+      "id": "111bdeadfd38",
+      "priority": 0,
+      "group": "c8d2e5c87ae9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "first class",
+      "meaning": "头等舱",
+      "audio": "bebf2c16744f42a09f8c9f342bac635a",
+      "id": "60bfa1061b42",
+      "priority": 1,
+      "group": "c8d2e5c87ae9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "business class",
+      "meaningInSourceLanguage": "商务舱",
+      "id": "4d52a5bcb83f",
+      "priority": 0,
+      "group": "7014228d4f95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "business class",
+      "meaning": "商务舱",
+      "audio": "7db78b8ad3c24e07b6fe52d8252b0bb2",
+      "id": "dfa4592f414b",
+      "priority": 1,
+      "group": "7014228d4f95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "economy class",
+      "meaningInSourceLanguage": "经济舱",
+      "id": "c59b12b11630",
+      "priority": 0,
+      "group": "c953bb91a65c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "economy class",
+      "meaning": "经济舱",
+      "audio": "7b81d3e8d544455c9d0220409d716181",
+      "id": "9f5da2d8aafe",
+      "priority": 1,
+      "group": "c953bb91a65c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "window seat",
+      "meaningInSourceLanguage": "靠窗座位",
+      "id": "41616c3d684a",
+      "priority": 0,
+      "group": "7f6f6f2f3324"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "window seat",
+      "meaning": "靠窗座位",
+      "audio": "04f3bc298f9649e6ad8a77614648790b",
+      "id": "1a75af860c5b",
+      "priority": 1,
+      "group": "7f6f6f2f3324"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aisle seat",
+      "meaningInSourceLanguage": "靠过道座位",
+      "id": "8802d81e20d2",
+      "priority": 0,
+      "group": "64bb3f3c3a76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aisle seat",
+      "meaning": "靠过道座位",
+      "audio": "f9aaf00e7bd24a16a87164d39ab41cec",
+      "id": "4929e4b84700",
+      "priority": 1,
+      "group": "64bb3f3c3a76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "middle seat",
+      "meaningInSourceLanguage": "中间座位",
+      "id": "daddfa6acc1a",
+      "priority": 0,
+      "group": "abea6f09d979"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "middle seat",
+      "meaning": "中间座位",
+      "audio": "90378fb682de4bbd9121ba60ded0cef3",
+      "id": "de443ca7ab15",
+      "priority": 1,
+      "group": "abea6f09d979"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seat belt",
+      "meaningInSourceLanguage": "安全带",
+      "id": "31a96968b30e",
+      "priority": 0,
+      "group": "c21a4879d9c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seat belt",
+      "meaning": "安全带",
+      "audio": "59c6069226434ba9bf8f6905d4305b46",
+      "id": "454b5d58c3a5",
+      "priority": 1,
+      "group": "c21a4879d9c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "life jacket",
+      "meaningInSourceLanguage": "救生衣",
+      "id": "dbc18537e816",
+      "priority": 0,
+      "group": "4ac31a11c2b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "life jacket",
+      "meaning": "救生衣",
+      "audio": "1bd8ff24931042e49d5b6a8c2307d8a0",
+      "id": "d5fae8a53b73",
+      "priority": 1,
+      "group": "4ac31a11c2b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oxygen mask",
+      "meaningInSourceLanguage": "氧气面罩",
+      "id": "786e4e26552b",
+      "priority": 0,
+      "group": "9413d285d431"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oxygen mask",
+      "meaning": "氧气面罩",
+      "audio": "8532845cbf8a4f3ba4a69c096a5a5ed3",
+      "id": "dc885c281827",
+      "priority": 1,
+      "group": "9413d285d431"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "emergency exit",
+      "meaningInSourceLanguage": "紧急出口",
+      "id": "b0b6d2b39c7d",
+      "priority": 0,
+      "group": "edb74f16e1db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "emergency exit",
+      "meaning": "紧急出口",
+      "audio": "2d7a86b07047432f8c3e6ad325d30ca7",
+      "id": "ca2ff3cfd351",
+      "priority": 1,
+      "group": "edb74f16e1db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flight attendant",
+      "meaningInSourceLanguage": "空乘",
+      "id": "17d4e85c401a",
+      "priority": 0,
+      "group": "9e768049c722"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flight attendant",
+      "meaning": "空乘",
+      "audio": "ba4a9d8d12874f739e790250882d1815",
+      "id": "f474f39cb2c8",
+      "priority": 1,
+      "group": "9e768049c722"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pilot",
+      "meaningInSourceLanguage": "飞行员",
+      "id": "e5d0b1c258c8",
+      "priority": 0,
+      "group": "93ed947119ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pilot",
+      "meaning": "飞行员",
+      "audio": "ab863eec6a944fb98e9a64c77f8ea3ad",
+      "id": "250ae16cfd74",
+      "priority": 1,
+      "group": "93ed947119ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "captain",
+      "meaningInSourceLanguage": "机长",
+      "id": "fc8afa740bb0",
+      "priority": 0,
+      "group": "c1209ddfa82b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "captain",
+      "meaning": "机长",
+      "audio": "443d9afe01af4707933f98786a13bb2b",
+      "id": "d1a5bf1d97c1",
+      "priority": 1,
+      "group": "c1209ddfa82b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "copilot",
+      "meaningInSourceLanguage": "副驾驶",
+      "id": "640a989c2dbf",
+      "priority": 0,
+      "group": "b3a25c73b6be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "copilot",
+      "meaning": "副驾驶",
+      "audio": "13c4953256324b5a9d3275142eb7dbb9",
+      "id": "28a2eef5b5fe",
+      "priority": 1,
+      "group": "b3a25c73b6be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hotel",
+      "meaningInSourceLanguage": "酒店",
+      "id": "29f164f6e4fc",
+      "priority": 0,
+      "group": "985d05fda486"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hotel",
+      "meaning": "酒店",
+      "audio": "90e4c838d0d943a09f26f8c859053328",
+      "id": "4b766f9f0e62",
+      "priority": 1,
+      "group": "985d05fda486"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "inn",
+      "meaningInSourceLanguage": "旅馆",
+      "id": "d9f97df27500",
+      "priority": 0,
+      "group": "b4ae76299039"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "inn",
+      "meaning": "旅馆",
+      "audio": "06d3f6be13bf4ab1b2586c4d5eff2a51",
+      "id": "4c13abd30a89",
+      "priority": 1,
+      "group": "b4ae76299039"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hostel",
+      "meaningInSourceLanguage": "青旅",
+      "id": "0fe9f73a51b8",
+      "priority": 0,
+      "group": "3f5fa4b1b442"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hostel",
+      "meaning": "青旅",
+      "audio": "babda8682d9e4fc0aa7216cdebc0fab4",
+      "id": "b8f99077607e",
+      "priority": 1,
+      "group": "3f5fa4b1b442"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "resort",
+      "meaningInSourceLanguage": "度假村",
+      "id": "b1b10fab0abb",
+      "priority": 0,
+      "group": "983f34e2f739"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "resort",
+      "meaning": "度假村",
+      "audio": "2e2474c3b0b342bf833a20d1940c585d",
+      "id": "2781162cb509",
+      "priority": 1,
+      "group": "983f34e2f739"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "motel",
+      "meaningInSourceLanguage": "汽车旅馆",
+      "id": "7711f0bc495c",
+      "priority": 0,
+      "group": "c772f136b324"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "motel",
+      "meaning": "汽车旅馆",
+      "audio": "5b129ae0acfb486895a03f5e775b3794",
+      "id": "51a9d849799f",
+      "priority": 1,
+      "group": "c772f136b324"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bed and breakfast",
+      "meaningInSourceLanguage": "民宿",
+      "id": "94f1535ea944",
+      "priority": 0,
+      "group": "b8d929c91ef3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bed and breakfast",
+      "meaning": "民宿",
+      "audio": "281d58943479499a9edb5de967c53f9e",
+      "id": "b86b12d77bd6",
+      "priority": 1,
+      "group": "b8d929c91ef3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "check in",
+      "meaningInSourceLanguage": "入住",
+      "id": "f759636eacf1",
+      "priority": 0,
+      "group": "e086d530ca68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check in",
+      "meaning": "入住",
+      "audio": "464bc7aed08f4dfabd2ad7974de239e3",
+      "id": "21b5e5791b8d",
+      "priority": 1,
+      "group": "e086d530ca68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "check out",
+      "meaningInSourceLanguage": "退房",
+      "id": "a4bce4531d39",
+      "priority": 0,
+      "group": "92095a901948"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check out",
+      "meaning": "退房",
+      "audio": "92a26b1ca74e4508a1ded52a4f6cf08e",
+      "id": "a7462958f7d7",
+      "priority": 1,
+      "group": "92095a901948"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "room service",
+      "meaningInSourceLanguage": "客房服务",
+      "id": "aec717d82ab3",
+      "priority": 0,
+      "group": "3d94ed90eb03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "room service",
+      "meaning": "客房服务",
+      "audio": "557fe49e45704ba7956ae185a16d496e",
+      "id": "9a87a772b1ed",
+      "priority": 1,
+      "group": "3d94ed90eb03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "housekeeping",
+      "meaningInSourceLanguage": "客房清洁",
+      "id": "6e5a74b76b3e",
+      "priority": 0,
+      "group": "2f0e4b8e3707"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "housekeeping",
+      "meaning": "客房清洁",
+      "audio": "37804658395849308693a72b56ca7fd7",
+      "id": "bf64796251db",
+      "priority": 1,
+      "group": "2f0e4b8e3707"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "concierge",
+      "meaningInSourceLanguage": "礼宾部",
+      "id": "9c7dd9257b86",
+      "priority": 0,
+      "group": "515a86f6db23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "concierge",
+      "meaning": "礼宾部",
+      "audio": "908d36008fad4b5d8d377b6f288d4e9f",
+      "id": "c9ecd96803cf",
+      "priority": 1,
+      "group": "515a86f6db23"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bellboy",
+      "meaningInSourceLanguage": "行李员",
+      "id": "263aa2f5fa84",
+      "priority": 0,
+      "group": "3cb35b46b6d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bellboy",
+      "meaning": "行李员",
+      "audio": "311a39fbe1af444bbfc59c98d2936ed3",
+      "id": "4cb757cd96a0",
+      "priority": 1,
+      "group": "3cb35b46b6d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "single room",
+      "meaningInSourceLanguage": "单人间",
+      "id": "e881b6c0d1ea",
+      "priority": 0,
+      "group": "4b67d601a257"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "single room",
+      "meaning": "单人间",
+      "audio": "b1ac42ebf86345c8894404a93f03a617",
+      "id": "a83c64a18e5b",
+      "priority": 1,
+      "group": "4b67d601a257"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "double room",
+      "meaningInSourceLanguage": "双人间",
+      "id": "0188b0cd0a68",
+      "priority": 0,
+      "group": "6ebe92c7c56b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "double room",
+      "meaning": "双人间",
+      "audio": "86fc128d8897459a8ea2e0b7a1ef19e3",
+      "id": "a6f87388419e",
+      "priority": 1,
+      "group": "6ebe92c7c56b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suite",
+      "meaningInSourceLanguage": "套房",
+      "id": "4f76929849f1",
+      "priority": 0,
+      "group": "88f0f4611d46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suite",
+      "meaning": "套房",
+      "audio": "1f91aa3af3f64cb1af32351950604eb3",
+      "id": "5586b10db794",
+      "priority": 1,
+      "group": "88f0f4611d46"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "penthouse",
+      "meaningInSourceLanguage": "顶层套房",
+      "id": "47ad2316a022",
+      "priority": 0,
+      "group": "cabd4214b58c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "penthouse",
+      "meaning": "顶层套房",
+      "audio": "6da5d2ec794f43a2b0b6fabd2c856399",
+      "id": "bd3a5709a002",
+      "priority": 1,
+      "group": "cabd4214b58c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "map",
+      "meaningInSourceLanguage": "地图",
+      "id": "e8fdb107bf8b",
+      "priority": 0,
+      "group": "97ded8d16f37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "map",
+      "meaning": "地图",
+      "audio": "495a8e09a7644464a46a6094ecf575a5",
+      "id": "70c55180a64b",
+      "priority": 1,
+      "group": "97ded8d16f37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guide",
+      "meaningInSourceLanguage": "导游",
+      "id": "f28636eb44c8",
+      "priority": 0,
+      "group": "f73c4245d4c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guide",
+      "meaning": "导游",
+      "audio": "fc55ff7c18564f28818d691ed5225b90",
+      "id": "049c72f8d945",
+      "priority": 1,
+      "group": "f73c4245d4c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tour guide",
+      "meaningInSourceLanguage": "导游",
+      "id": "54601788ee61",
+      "priority": 0,
+      "group": "6a084af1a3c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tour guide",
+      "meaning": "导游",
+      "audio": "ee4a1ab9004f429282b329b22e298f3c",
+      "id": "7f141e385a8b",
+      "priority": 1,
+      "group": "6a084af1a3c2"
+    }
+  ]
+}

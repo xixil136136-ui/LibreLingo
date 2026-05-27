@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Esta é minha mãe.",
+      "meaningInSourceLanguage": "这是我的妈妈。",
+      "id": "670f6ca876d7",
+      "priority": 0,
+      "group": "4ada8411f769"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Esta é minha mãe.",
+      "meaning": "这是我的妈妈。",
+      "audio": "14b44a1679a4421013d61332a21f6c6986a9cfe9b52435750255f00976a52c98",
+      "id": "9162d1e59128",
+      "priority": 1,
+      "group": "4ada8411f769"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Meu pai é alto.",
+      "meaningInSourceLanguage": "我的爸爸很高。",
+      "id": "9c554801008b",
+      "priority": 0,
+      "group": "4fe1fbe4a701"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Meu pai é alto.",
+      "meaning": "我的爸爸很高。",
+      "audio": "d45fdb25babf1b7ef412d237ef41cf069b70694653be3000abb25f923c815d3b",
+      "id": "fc129d722c23",
+      "priority": 1,
+      "group": "4fe1fbe4a701"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tenho uma irmã.",
+      "meaningInSourceLanguage": "我有一个姐妹。",
+      "id": "d473f00722ff",
+      "priority": 0,
+      "group": "febd09b0b2bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tenho uma irmã.",
+      "meaning": "我有一个姐妹。",
+      "audio": "466e812720ca07170b521a035a5866bcc4458a7b6d07ad9bb7bec70c0514b97b",
+      "id": "8927a5a7642b",
+      "priority": 1,
+      "group": "febd09b0b2bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Meu irmão é jovem.",
+      "meaningInSourceLanguage": "我的兄弟很年轻。",
+      "id": "adb6013f4d02",
+      "priority": 0,
+      "group": "76d3a86fcef2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Meu irmão é jovem.",
+      "meaning": "我的兄弟很年轻。",
+      "audio": "d29c6646bc744689a2edee333dd57368cc933393227916f32d2ab59335fd2778",
+      "id": "9993c845bbac",
+      "priority": 1,
+      "group": "76d3a86fcef2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ela é minha amiga.",
+      "meaningInSourceLanguage": "她是我的朋友。",
+      "id": "15f09536b1a4",
+      "priority": 0,
+      "group": "1bf185183de7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ela é minha amiga.",
+      "meaning": "她是我的朋友。",
+      "audio": "36886c23de2220434db847fb52ee63d27ebb889986368aaad85e928ff199c837",
+      "id": "db4bd23e1328",
+      "priority": 1,
+      "group": "1bf185183de7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A criança está feliz.",
+      "meaningInSourceLanguage": "孩子很高兴。",
+      "id": "0edba865742e",
+      "priority": 0,
+      "group": "40bff6ffaef6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A criança está feliz.",
+      "meaning": "孩子很高兴。",
+      "audio": "b45771844fe9efc1048c43f3d1e47ebaf37e2ea4f3ead28a670592b0d7c42d57",
+      "id": "ccee2635c6ed",
+      "priority": 1,
+      "group": "40bff6ffaef6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Minha esposa é gentil.",
+      "meaningInSourceLanguage": "我的妻子很善良。",
+      "id": "d27af157ec0f",
+      "priority": 0,
+      "group": "ea038bb71efa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Minha esposa é gentil.",
+      "meaning": "我的妻子很善良。",
+      "audio": "dc239abac6de6c6caf030a048209f2bbed6e85adbfb55656dafdffb39357ea91",
+      "id": "142702c7fb9c",
+      "priority": 1,
+      "group": "ea038bb71efa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "mãe",
+      "meaningInSourceLanguage": "母亲",
+      "id": "41b7b4f4f5b7",
+      "priority": 0,
+      "group": "2619d457423a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "mãe"
+      ],
+      "phrase": [
+        {
+          "word": "母亲",
+          "definition": "mãe"
+        }
+      ],
+      "id": "47aabaa3763f",
+      "priority": 1,
+      "group": "2619d457423a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mãe",
+      "meaning": "母亲",
+      "audio": "f20a31cc497324cf7e9cec2c96a52c21f8d2e18263f2b8e882b2128148406045",
+      "id": "f664f4df9a0b",
+      "priority": 1,
+      "group": "2619d457423a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pai",
+      "meaningInSourceLanguage": "父亲",
+      "id": "44ecab6a3c9d",
+      "priority": 0,
+      "group": "91f0af7e73b7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pai"
+      ],
+      "phrase": [
+        {
+          "word": "父亲",
+          "definition": "pai"
+        }
+      ],
+      "id": "7b88bcbba6cd",
+      "priority": 1,
+      "group": "91f0af7e73b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pai",
+      "meaning": "父亲",
+      "audio": "7512b7f45c36ec6ee34c2538ea5378f99fef46eb50b706e085e0884e258ad3f0",
+      "id": "0c8714e77c52",
+      "priority": 1,
+      "group": "91f0af7e73b7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "irmã",
+      "meaningInSourceLanguage": "姐妹",
+      "id": "c3de10c775aa",
+      "priority": 0,
+      "group": "3b3f503f180b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "irmã"
+      ],
+      "phrase": [
+        {
+          "word": "姐妹",
+          "definition": "irmã"
+        }
+      ],
+      "id": "50a976d68753",
+      "priority": 1,
+      "group": "3b3f503f180b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "irmã",
+      "meaning": "姐妹",
+      "audio": "0bc0433ffdc86a0c6efaa37d7726604925ec76b0378c38a4b34ac88d6a0931e7",
+      "id": "018f07cd38db",
+      "priority": 1,
+      "group": "3b3f503f180b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "irmão",
+      "meaningInSourceLanguage": "兄弟",
+      "id": "8c3a007f802e",
+      "priority": 0,
+      "group": "fabb1d05e626"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "irmão"
+      ],
+      "phrase": [
+        {
+          "word": "兄弟",
+          "definition": "irmão"
+        }
+      ],
+      "id": "5ad046eb2b5c",
+      "priority": 1,
+      "group": "fabb1d05e626"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "irmão",
+      "meaning": "兄弟",
+      "audio": "26feed6eb3241fbcfa4f66cd32c6fdbecea15faa58fdab44a86a4d484b5ab11f",
+      "id": "4e2b963920d1",
+      "priority": 1,
+      "group": "fabb1d05e626"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "filha",
+      "meaningInSourceLanguage": "女儿",
+      "id": "9a6df25a30f2",
+      "priority": 0,
+      "group": "45cb876e3f8b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "filha"
+      ],
+      "phrase": [
+        {
+          "word": "女儿",
+          "definition": "filha"
+        }
+      ],
+      "id": "b85111506f11",
+      "priority": 1,
+      "group": "45cb876e3f8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "filha",
+      "meaning": "女儿",
+      "audio": "c7bebfd768ace1f918e3a6951b823007bafdb27e7ed1096b527035c1eb138cda",
+      "id": "c0f91fb6f612",
+      "priority": 1,
+      "group": "45cb876e3f8b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "filho",
+      "meaningInSourceLanguage": "儿子",
+      "id": "cd0ee5f2864f",
+      "priority": 0,
+      "group": "b074e7a4b3b8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "filho"
+      ],
+      "phrase": [
+        {
+          "word": "儿子",
+          "definition": "filho"
+        }
+      ],
+      "id": "ed9c5dc493f6",
+      "priority": 1,
+      "group": "b074e7a4b3b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "filho",
+      "meaning": "儿子",
+      "audio": "93a0c1e22de6349c1ed6cac614713f857dc7f9dfb83a851917a4362891417abf",
+      "id": "1775b63d5a3d",
+      "priority": 1,
+      "group": "b074e7a4b3b8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "esposa",
+      "meaningInSourceLanguage": "妻子",
+      "id": "f93f0be198d0",
+      "priority": 0,
+      "group": "e1a364c46dcc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "esposa"
+      ],
+      "phrase": [
+        {
+          "word": "妻子",
+          "definition": "esposa"
+        }
+      ],
+      "id": "3b778fe1f135",
+      "priority": 1,
+      "group": "e1a364c46dcc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "esposa",
+      "meaning": "妻子",
+      "audio": "80729dba2f872f5340400ca3776d1922160c4320cae22f122e3e1d6c4d8042f0",
+      "id": "00872bb0a999",
+      "priority": 1,
+      "group": "e1a364c46dcc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "marido",
+      "meaningInSourceLanguage": "丈夫",
+      "id": "c13dce635357",
+      "priority": 0,
+      "group": "6538f4e558df"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "marido"
+      ],
+      "phrase": [
+        {
+          "word": "丈夫",
+          "definition": "marido"
+        }
+      ],
+      "id": "f2a1c70b0528",
+      "priority": 1,
+      "group": "6538f4e558df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marido",
+      "meaning": "丈夫",
+      "audio": "78ba011ac013170aef91f95679a816f21f8ecd0b926001cd5203de174e8de6db",
+      "id": "00a13b957715",
+      "priority": 1,
+      "group": "6538f4e558df"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "amigo",
+      "meaningInSourceLanguage": "朋友",
+      "id": "b3360e75c959",
+      "priority": 0,
+      "group": "bd89d489dbc5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "amigo"
+      ],
+      "phrase": [
+        {
+          "word": "朋友",
+          "definition": "amigo"
+        }
+      ],
+      "id": "09fc9f9059f0",
+      "priority": 1,
+      "group": "bd89d489dbc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "amigo",
+      "meaning": "朋友",
+      "audio": "d076a385ea0e76a254fcddf0a6a4dcc736b98f5724e662ee7d191eedb1971796",
+      "id": "662ba6e15524",
+      "priority": 1,
+      "group": "bd89d489dbc5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "criança",
+      "meaningInSourceLanguage": "孩子",
+      "id": "ef87538cde74",
+      "priority": 0,
+      "group": "ab7b76fe20d6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "criança"
+      ],
+      "phrase": [
+        {
+          "word": "孩子",
+          "definition": "criança"
+        }
+      ],
+      "id": "b88f7f3f9f2d",
+      "priority": 1,
+      "group": "ab7b76fe20d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "criança",
+      "meaning": "孩子",
+      "audio": "f3a5e973602f2e6d01973acd6c564112af5c899945517c5b3e2aab407a5172b4",
+      "id": "89c0ec48cc8e",
+      "priority": 1,
+      "group": "ab7b76fe20d6"
+    }
+  ]
+}

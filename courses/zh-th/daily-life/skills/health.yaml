@@ -1,0 +1,72 @@
+Skill:
+  Name: Health
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: หมอ
+    Translation: 医生
+  - Word: โรงพยาบาล
+    Translation: 医院
+  - Word: ยา
+    Translation: 药
+  - Word: ปวดหัว
+    Translation: 头痛
+  - Word: ไข้
+    Translation: 发烧
+  - Word: ไอ
+    Translation: 咳嗽
+  - Word: ปวด
+    Translation: 疼痛
+  - Word: ร้านขายยา
+    Translation: 药店
+  - Word: พักผ่อน
+    Translation: 休息
+  - Word: ปวดท้อง
+    Translation: 肚子痛
+
+Phrases:
+  - Phrase: ฉันต้องการหมอ
+    Translation: 我需要医生。
+  - Phrase: โรงพยาบาลอยู่ที่ไหน
+    Translation: 医院在哪里？
+  - Phrase: ฉันปวดหัว
+    Translation: 我头痛。
+  - Phrase: ฉันเป็นไข้
+    Translation: 我发烧了。
+  - Phrase: กินยานี้
+    Translation: 吃这个药。
+  - Phrase: คุณต้องการพักผ่อน
+    Translation: 你需要休息。
+  - Phrase: ฉันปวดท้อง
+    Translation: 我肚子痛。
+
+Mini-dictionary:
+  Thai:
+    - หมอ: 医生
+    - ไข้: 发烧
+    - ปวดหัว: 头痛
+    - โรงพยาบาล: 医院
+    - ยา: 药
+    - ร้านขายยา: 药店
+    - พักผ่อน: 休息
+    - ปวด: 疼痛
+    - ปวดท้อง: 肚子痛
+    - ไอ: 咳嗽
+  Chinese:
+    - 药店: ร้านขายยา
+    - 医院: โรงพยาบาล
+    - 疼痛: ปวด
+    - 肚子痛: ปวดท้อง
+    - 医生: หมอ
+    - 药: ยา
+    - 发烧: ไข้
+    - 休息: พักผ่อน
+    - 头痛: ปวดหัว
+    - 咳嗽: ไอ

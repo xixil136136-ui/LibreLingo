@@ -1,0 +1,74 @@
+Skill:
+  Name: Weather
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: солнечно
+    Translation: 晴天
+  - Word: дождь
+    Translation: 雨
+  - Word: снег
+    Translation: 雪
+  - Word: ветер
+    Translation: 风
+  - Word: облачно
+    Translation: 云
+  - Word: холодно
+    Translation: 冷
+  - Word: жарко
+    Translation: 热
+  - Word: тепло
+    Translation: 温暖
+  - Word: температура
+    Translation: 温度
+  - Word: зонтик
+    Translation: 雨伞
+
+Phrases:
+  - Phrase: Сегодня солнечно.
+    Translation: 今天天气晴朗。
+  - Phrase: Будет дождь.
+    Translation: 要下雨了。
+  - Phrase: На улице очень холодно.
+    Translation: 外面很冷。
+  - Phrase: Возьмите зонтик.
+    Translation: 带上雨伞。
+  - Phrase: Какая температура?
+    Translation: 多少度？
+  - Phrase: Идёт снег.
+    Translation: 下雪了。
+  - Phrase: Сегодня тепло.
+    Translation: 今天很暖和。
+  - Phrase: Ветрено.
+    Translation: 刮风了。
+
+Mini-dictionary:
+  Russian:
+    - жарко: 热
+    - тепло: 温暖
+    - температура: 温度
+    - холодно: 冷
+    - ветер: 风
+    - солнечно: 晴天
+    - зонтик: 雨伞
+    - снег: 雪
+    - дождь: 雨
+    - облачно: 云
+  Chinese:
+    - 雨伞: зонтик
+    - 温暖: тепло
+    - 晴天: солнечно
+    - 温度: температура
+    - 云: облачно
+    - 热: жарко
+    - 雪: снег
+    - 风: ветер
+    - 冷: холодно
+    - 雨: дождь

@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "이게 제 집이에요.",
+      "meaningInSourceLanguage": "这是我的房子。",
+      "id": "d12d5483a3bb",
+      "priority": 0,
+      "group": "d7db1c406164"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "이게 제 집이에요.",
+      "meaning": "这是我的房子。",
+      "audio": "5edf558a3ba79d060b5219dcef5b62f2e1270fa45bcc25827da12a840f489bc8",
+      "id": "afecacfce726",
+      "priority": 1,
+      "group": "d7db1c406164"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "문을 여세요.",
+      "meaningInSourceLanguage": "开门。",
+      "id": "8fb2d81e804c",
+      "priority": 0,
+      "group": "d4d0aa196d48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "문을 여세요.",
+      "meaning": "开门。",
+      "audio": "0bea7a3fe78dff2d0d57534791c470e1eb43332fd66fa9f48d7c12f3839af63a",
+      "id": "08ddb43d52dc",
+      "priority": 1,
+      "group": "d4d0aa196d48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "부엌이 커요.",
+      "meaningInSourceLanguage": "厨房很大。",
+      "id": "c9ab5fe21e3c",
+      "priority": 0,
+      "group": "ecc22faf2e23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "부엌이 커요.",
+      "meaning": "厨房很大。",
+      "audio": "d825a47ccdb65aebc898be38097e8451dc5d3c09322f841269b03c3b3619682b",
+      "id": "067d96487d44",
+      "priority": 1,
+      "group": "ecc22faf2e23"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "침실이 깨끗해요.",
+      "meaningInSourceLanguage": "卧室很干净。",
+      "id": "9feee3d1588e",
+      "priority": 0,
+      "group": "478a19a42487"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "침실이 깨끗해요.",
+      "meaning": "卧室很干净。",
+      "audio": "30fb60d38840e58eb47b79c633380c1e26b89bb72c64c1fb36edc5e5672df960",
+      "id": "68030b0b3db2",
+      "priority": 1,
+      "group": "478a19a42487"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "정원이 있어요.",
+      "meaningInSourceLanguage": "有一个花园。",
+      "id": "4d37fe62b9ff",
+      "priority": 0,
+      "group": "b8fc35353089"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "정원이 있어요.",
+      "meaning": "有一个花园。",
+      "audio": "cd3898900fee1d2a20d05a26bb6f8d947a8ab259f0bea85fc60fef4f5d47aa28",
+      "id": "d5e22f1905a7",
+      "priority": 1,
+      "group": "b8fc35353089"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "창문을 닫으세요.",
+      "meaningInSourceLanguage": "关窗。",
+      "id": "bb0142056042",
+      "priority": 0,
+      "group": "a0b6dd1e95ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "창문을 닫으세요.",
+      "meaning": "关窗。",
+      "audio": "4414b0be3e076281906c820c76b6634105e70cdbb57b52de4e6090ca8def180d",
+      "id": "086a0d005f65",
+      "priority": 1,
+      "group": "a0b6dd1e95ac"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "집",
+      "meaningInSourceLanguage": "房子",
+      "id": "1d743fb0008f",
+      "priority": 0,
+      "group": "cab749e8285d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "집"
+      ],
+      "phrase": [
+        {
+          "word": "房子",
+          "definition": "집"
+        }
+      ],
+      "id": "93f1d2b67882",
+      "priority": 1,
+      "group": "cab749e8285d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "집",
+      "meaning": "房子",
+      "audio": "315cf4726a59298b8b09fb52e30541d2011e50aebb481c30146520543407c8d8",
+      "id": "af44d617b31d",
+      "priority": 1,
+      "group": "cab749e8285d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "문",
+      "meaningInSourceLanguage": "门",
+      "id": "357d3f68563a",
+      "priority": 0,
+      "group": "42d1d8b43476"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "문"
+      ],
+      "phrase": [
+        {
+          "word": "门",
+          "definition": "문"
+        }
+      ],
+      "id": "8d8acd790ee1",
+      "priority": 1,
+      "group": "42d1d8b43476"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "문",
+      "meaning": "门",
+      "audio": "431767f48cbd02ce8ee2f0db351a7e713672ab5221a718ce753340f60949b3e7",
+      "id": "11584f9c8940",
+      "priority": 1,
+      "group": "42d1d8b43476"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "창문",
+      "meaningInSourceLanguage": "窗户",
+      "id": "6440c006ddf4",
+      "priority": 0,
+      "group": "f2657b00e431"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "창문"
+      ],
+      "phrase": [
+        {
+          "word": "窗户",
+          "definition": "창문"
+        }
+      ],
+      "id": "8fb0ad5dd425",
+      "priority": 1,
+      "group": "f2657b00e431"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "창문",
+      "meaning": "窗户",
+      "audio": "fe965e49c0cd768e0720ad8a1c22e95761e5f6d352710c7caecba4f9a09940f4",
+      "id": "e836abf75bf6",
+      "priority": 1,
+      "group": "f2657b00e431"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "부엌",
+      "meaningInSourceLanguage": "厨房",
+      "id": "50b84dd6d59c",
+      "priority": 0,
+      "group": "6697ae9fd466"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "부엌"
+      ],
+      "phrase": [
+        {
+          "word": "厨房",
+          "definition": "부엌"
+        }
+      ],
+      "id": "d7c208aaa565",
+      "priority": 1,
+      "group": "6697ae9fd466"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "부엌",
+      "meaning": "厨房",
+      "audio": "7b248b669178be705fd4c67a5d09a406a9d5208cb2bdab4cc359b1aed1162bf3",
+      "id": "14bc59848d28",
+      "priority": 1,
+      "group": "6697ae9fd466"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "침실",
+      "meaningInSourceLanguage": "卧室",
+      "id": "07808de92441",
+      "priority": 0,
+      "group": "bd875b3ef7f7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "침실"
+      ],
+      "phrase": [
+        {
+          "word": "卧室",
+          "definition": "침실"
+        }
+      ],
+      "id": "c981ab44966a",
+      "priority": 1,
+      "group": "bd875b3ef7f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "침실",
+      "meaning": "卧室",
+      "audio": "033ac9f8f8c8026fbdf1acf6a31d007df60cb6252006fa5c66649ac7135f53f1",
+      "id": "ec62ea43df24",
+      "priority": 1,
+      "group": "bd875b3ef7f7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "정원",
+      "meaningInSourceLanguage": "花园",
+      "id": "494420cc5f3c",
+      "priority": 0,
+      "group": "d0e65afbb281"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "정원"
+      ],
+      "phrase": [
+        {
+          "word": "花园",
+          "definition": "정원"
+        }
+      ],
+      "id": "42837a557a6f",
+      "priority": 1,
+      "group": "d0e65afbb281"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "정원",
+      "meaning": "花园",
+      "audio": "5b7856c9cbaa5f913b6744e0d4d5ab2732fa61402bb107c2e2944d22ac5f9b42",
+      "id": "70eb53cbd495",
+      "priority": 1,
+      "group": "d0e65afbb281"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "차고",
+      "meaningInSourceLanguage": "车库",
+      "id": "da25dbbbce0a",
+      "priority": 0,
+      "group": "4e5d91d65e81"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "차고"
+      ],
+      "phrase": [
+        {
+          "word": "车库",
+          "definition": "차고"
+        }
+      ],
+      "id": "3b9b0e8f8967",
+      "priority": 1,
+      "group": "4e5d91d65e81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "차고",
+      "meaning": "车库",
+      "audio": "d368bca80a432a6d62b7ffd202685b800a29b4007e6461e7a4aa0fb5092a77d7",
+      "id": "39802b255af5",
+      "priority": 1,
+      "group": "4e5d91d65e81"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "계단",
+      "meaningInSourceLanguage": "楼梯",
+      "id": "eec74587d8bb",
+      "priority": 0,
+      "group": "0d3fea1e369b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "계단"
+      ],
+      "phrase": [
+        {
+          "word": "楼梯",
+          "definition": "계단"
+        }
+      ],
+      "id": "af969a4a31ca",
+      "priority": 1,
+      "group": "0d3fea1e369b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "계단",
+      "meaning": "楼梯",
+      "audio": "edc485758ecb5c40ebd47912858cc1f04ebf3b3508ad93c74bec5242b63211e3",
+      "id": "d6739801995d",
+      "priority": 1,
+      "group": "0d3fea1e369b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "마당",
+      "meaningInSourceLanguage": "院子",
+      "id": "7e9632b8c88e",
+      "priority": 0,
+      "group": "ea5280068b71"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "마당"
+      ],
+      "phrase": [
+        {
+          "word": "院子",
+          "definition": "마당"
+        }
+      ],
+      "id": "7bce6013b3e1",
+      "priority": 1,
+      "group": "ea5280068b71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "마당",
+      "meaning": "院子",
+      "audio": "2068a3adc1a581ac9d54185d8f267386efa1957bc6132dd90f656901cd994df7",
+      "id": "53ad13600156",
+      "priority": 1,
+      "group": "ea5280068b71"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "지붕",
+      "meaningInSourceLanguage": "屋顶",
+      "id": "d82db62c4a3f",
+      "priority": 0,
+      "group": "688cd16df961"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "지붕"
+      ],
+      "phrase": [
+        {
+          "word": "屋顶",
+          "definition": "지붕"
+        }
+      ],
+      "id": "af3f278e97a5",
+      "priority": 1,
+      "group": "688cd16df961"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "지붕",
+      "meaning": "屋顶",
+      "audio": "7f6c2016ba28a106474b22354bbc235d51cd05c43ba9166694ff71f7a8981e38",
+      "id": "84a390adc323",
+      "priority": 1,
+      "group": "688cd16df961"
+    }
+  ]
+}

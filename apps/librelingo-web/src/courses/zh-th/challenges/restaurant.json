@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันต้องการเครื่องดื่ม",
+      "meaningInSourceLanguage": "我想要一杯饮料。",
+      "id": "44e95f0669f3",
+      "priority": 0,
+      "group": "8cf4b9378f35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันต้องการเครื่องดื่ม",
+      "meaning": "我想要一杯饮料。",
+      "audio": "250968581868bde8a2638c592ad5e6917bbf026dc4a4ac7b1dd3de879ad547b0",
+      "id": "ee75f4a7998b",
+      "priority": 1,
+      "group": "8cf4b9378f35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "อาหารอร่อย",
+      "meaningInSourceLanguage": "食物很好。",
+      "id": "8437f7d245b8",
+      "priority": 0,
+      "group": "afd0e2becf12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อาหารอร่อย",
+      "meaning": "食物很好。",
+      "audio": "16169f2395b1274f54a29331cfbcde34f4f5faf0ef2ec9ee622b95d3de6c25bb",
+      "id": "4a1d1ff89adf",
+      "priority": 1,
+      "group": "afd0e2becf12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอน้ำแก้วนึง",
+      "meaningInSourceLanguage": "能给我一杯水吗？",
+      "id": "ef74cd54b335",
+      "priority": 0,
+      "group": "75c66e4652f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอน้ำแก้วนึง",
+      "meaning": "能给我一杯水吗？",
+      "audio": "fa19995b354322ef7d0d16baaa7dce31ab563c9a4f21932b8a092c48863e1a0d",
+      "id": "ffe892fafc96",
+      "priority": 1,
+      "group": "75c66e4652f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เราต้องการไวน์หนึ่งขวด",
+      "meaningInSourceLanguage": "我们需要一瓶酒。",
+      "id": "0476e4d4bf71",
+      "priority": 0,
+      "group": "116a87f82db2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เราต้องการไวน์หนึ่งขวด",
+      "meaning": "我们需要一瓶酒。",
+      "audio": "dac733d2cc1749e24c362825699f80dcc9c5424c802d8518f0389cb3109361c7",
+      "id": "2b37b983264e",
+      "priority": 1,
+      "group": "116a87f82db2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันอยากได้ของหวาน",
+      "meaningInSourceLanguage": "我想要甜点。",
+      "id": "f88b913f19b8",
+      "priority": 0,
+      "group": "fd7ba5964a89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันอยากได้ของหวาน",
+      "meaning": "我想要甜点。",
+      "audio": "1f8a0283153e076128135d8a5ad62c0057b049b0e1e9761e8a3b456ddfc8972c",
+      "id": "e1703b39716f",
+      "priority": 1,
+      "group": "fd7ba5964a89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ส่งเกลือให้หน่อย",
+      "meaningInSourceLanguage": "请把盐递给我。",
+      "id": "e977db39294a",
+      "priority": 0,
+      "group": "03afda1bb3ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ส่งเกลือให้หน่อย",
+      "meaning": "请把盐递给我。",
+      "audio": "d6a1771e9bdcce7158c1eb1527735ac03e90c9159236f699426155d4cffca6f9",
+      "id": "919380234b95",
+      "priority": 1,
+      "group": "03afda1bb3ce"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ร้านอาหาร",
+      "meaningInSourceLanguage": "餐厅",
+      "id": "c964f6b50a06",
+      "priority": 0,
+      "group": "39a0fcca5522"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ร้านอาหาร"
+      ],
+      "phrase": [
+        {
+          "word": "餐厅",
+          "definition": "ร้านอาหาร"
+        }
+      ],
+      "id": "8307202a1399",
+      "priority": 1,
+      "group": "39a0fcca5522"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ร้านอาหาร",
+      "meaning": "餐厅",
+      "audio": "63c90f89b59756cf949b1154de26f46b82584798d255d8d742dcf5806e91d919",
+      "id": "35f255bbdc54",
+      "priority": 1,
+      "group": "39a0fcca5522"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เครื่องดื่ม",
+      "meaningInSourceLanguage": "饮料",
+      "id": "37f0a6a8a5cf",
+      "priority": 0,
+      "group": "ce2d4178fc7f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เครื่องดื่ม"
+      ],
+      "phrase": [
+        {
+          "word": "饮料",
+          "definition": "เครื่องดื่ม"
+        }
+      ],
+      "id": "739853d2c18e",
+      "priority": 1,
+      "group": "ce2d4178fc7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เครื่องดื่ม",
+      "meaning": "饮料",
+      "audio": "af595bcfe6888a2cb4cea48348ef355ce24b321313f73e66671689453d5d365e",
+      "id": "e85b89453e3e",
+      "priority": 1,
+      "group": "ce2d4178fc7f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "อาหาร",
+      "meaningInSourceLanguage": "食物",
+      "id": "a50d74c70997",
+      "priority": 0,
+      "group": "007c7369f7a3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "อาหาร"
+      ],
+      "phrase": [
+        {
+          "word": "食物",
+          "definition": "อาหาร"
+        }
+      ],
+      "id": "ccd540afc09b",
+      "priority": 1,
+      "group": "007c7369f7a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อาหาร",
+      "meaning": "食物",
+      "audio": "4ebf24da6ed665a32757091425a6b7ab0a34bfaefbe6cbe95a988b98d6ba9960",
+      "id": "9a234cb02383",
+      "priority": 1,
+      "group": "007c7369f7a3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ผ้าเช็ดปาก",
+      "meaningInSourceLanguage": "餐巾",
+      "id": "a90135cca5cb",
+      "priority": 0,
+      "group": "65827f10b8d7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ผ้าเช็ดปาก"
+      ],
+      "phrase": [
+        {
+          "word": "餐巾",
+          "definition": "ผ้าเช็ดปาก"
+        }
+      ],
+      "id": "2116c4086f97",
+      "priority": 1,
+      "group": "65827f10b8d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ผ้าเช็ดปาก",
+      "meaning": "餐巾",
+      "audio": "fa4fc5c1c8fd39d31597451bd210d9d4913b17b9d3ada3f3a724d309cb0416c5",
+      "id": "df7cca673eb5",
+      "priority": 1,
+      "group": "65827f10b8d7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เกลือ",
+      "meaningInSourceLanguage": "盐",
+      "id": "91cfea5afc91",
+      "priority": 0,
+      "group": "5db52dfc640f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เกลือ"
+      ],
+      "phrase": [
+        {
+          "word": "盐",
+          "definition": "เกลือ"
+        }
+      ],
+      "id": "c06ddf57dab8",
+      "priority": 1,
+      "group": "5db52dfc640f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เกลือ",
+      "meaning": "盐",
+      "audio": "a83405c52a230aefbedc9cf5991a0a78e890653d6aa3a761a73cb3dbf5eee2dd",
+      "id": "b15b2ac13117",
+      "priority": 1,
+      "group": "5db52dfc640f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "พริกไทย",
+      "meaningInSourceLanguage": "胡椒",
+      "id": "451524b05e02",
+      "priority": 0,
+      "group": "2be532998dd5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "พริกไทย"
+      ],
+      "phrase": [
+        {
+          "word": "胡椒",
+          "definition": "พริกไทย"
+        }
+      ],
+      "id": "8a6372ea79a4",
+      "priority": 1,
+      "group": "2be532998dd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พริกไทย",
+      "meaning": "胡椒",
+      "audio": "b78fb63f8ad42f5076b0b601635141a6e489682445c42f04738291fdf34434ce",
+      "id": "dd469878dea6",
+      "priority": 1,
+      "group": "2be532998dd5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แก้ว",
+      "meaningInSourceLanguage": "玻璃杯",
+      "id": "10ba6296c507",
+      "priority": 0,
+      "group": "0fe4079a5729"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แก้ว"
+      ],
+      "phrase": [
+        {
+          "word": "玻璃杯",
+          "definition": "แก้ว"
+        }
+      ],
+      "id": "73f86b766c4f",
+      "priority": 1,
+      "group": "0fe4079a5729"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แก้ว",
+      "meaning": "玻璃杯",
+      "audio": "83e8e73f73b6c9f42366fea438dc21673eca5d7cecc574a7e7a2acf89a9602dd",
+      "id": "345e9773d3b1",
+      "priority": 1,
+      "group": "0fe4079a5729"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ขวด",
+      "meaningInSourceLanguage": "瓶子",
+      "id": "b24cfa3a8e5a",
+      "priority": 0,
+      "group": "6fd82e7bb7b3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ขวด"
+      ],
+      "phrase": [
+        {
+          "word": "瓶子",
+          "definition": "ขวด"
+        }
+      ],
+      "id": "547a6054d7af",
+      "priority": 1,
+      "group": "6fd82e7bb7b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขวด",
+      "meaning": "瓶子",
+      "audio": "9a454156b0f3c4bdc963532f20465e6aedbbb4ad1c7461fe154ce08b1720a271",
+      "id": "1fac71e40750",
+      "priority": 1,
+      "group": "6fd82e7bb7b3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ของหวาน",
+      "meaningInSourceLanguage": "甜点",
+      "id": "4da8df43edd9",
+      "priority": 0,
+      "group": "cb67dbd58c51"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ของหวาน"
+      ],
+      "phrase": [
+        {
+          "word": "甜点",
+          "definition": "ของหวาน"
+        }
+      ],
+      "id": "294a421618bf",
+      "priority": 1,
+      "group": "cb67dbd58c51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ของหวาน",
+      "meaning": "甜点",
+      "audio": "fcee2d3c43324fe460557c8455e59ce68656652cce7a6faa3aeaf8128a8516f6",
+      "id": "f102291b60ab",
+      "priority": 1,
+      "group": "cb67dbd58c51"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "อาหารจานหลัก",
+      "meaningInSourceLanguage": "主菜",
+      "id": "1d2d39b5bf61",
+      "priority": 0,
+      "group": "3baca09511c3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "อาหารจานหลัก"
+      ],
+      "phrase": [
+        {
+          "word": "主菜",
+          "definition": "อาหารจานหลัก"
+        }
+      ],
+      "id": "e8550ceb7c4c",
+      "priority": 1,
+      "group": "3baca09511c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อาหารจานหลัก",
+      "meaning": "主菜",
+      "audio": "91f614e22f856bfd83a15a7381f076eeac6fece3cf157e8ee9c772895942e53c",
+      "id": "9bb6cefad67c",
+      "priority": 1,
+      "group": "3baca09511c3"
+    }
+  ]
+}

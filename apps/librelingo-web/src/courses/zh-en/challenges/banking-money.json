@@ -1,0 +1,567 @@
+{
+  "id": "245fcdd188ca",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "value added tax",
+      "meaningInSourceLanguage": "增值税",
+      "id": "e0aea8038126",
+      "priority": 0,
+      "group": "5001c2cd609d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "value added tax",
+      "meaning": "增值税",
+      "audio": "7218308fc84341f6a10ed69c6c147565",
+      "id": "f4ce7d219191",
+      "priority": 1,
+      "group": "5001c2cd609d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "duty",
+      "meaningInSourceLanguage": "关税",
+      "id": "ef6b68cb353c",
+      "priority": 0,
+      "group": "ed9143cf9619"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "duty",
+      "meaning": "关税",
+      "audio": "ee09f3e8e1994433bc489e8f8d3d9714",
+      "id": "b12be4445fe6",
+      "priority": 1,
+      "group": "ed9143cf9619"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tip",
+      "meaningInSourceLanguage": "小费",
+      "id": "421bc41268e1",
+      "priority": 0,
+      "group": "2bf4293f7de3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tip",
+      "meaning": "小费",
+      "audio": "5522eca32e404672b74b799b748f52d7",
+      "id": "464ec7d62822",
+      "priority": 1,
+      "group": "2bf4293f7de3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "service charge",
+      "meaningInSourceLanguage": "服务费",
+      "id": "53edf7686d16",
+      "priority": 0,
+      "group": "4bd9bf316365"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "service charge",
+      "meaning": "服务费",
+      "audio": "b660404bd9c647a3952f5af491f205e3",
+      "id": "a5a53d1015ea",
+      "priority": 1,
+      "group": "4bd9bf316365"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "membership",
+      "meaningInSourceLanguage": "会员",
+      "id": "941ba92a85df",
+      "priority": 0,
+      "group": "90f67311d349"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "membership",
+      "meaning": "会员",
+      "audio": "7751691a24844584a5a554824cc82c48",
+      "id": "07280c99d53c",
+      "priority": 1,
+      "group": "90f67311d349"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "loyalty card",
+      "meaningInSourceLanguage": "积分卡",
+      "id": "2ed721908236",
+      "priority": 0,
+      "group": "1786c1c98f92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "loyalty card",
+      "meaning": "积分卡",
+      "audio": "dddbefc6d5934726bc3712752f0177f0",
+      "id": "5db60e2b512d",
+      "priority": 1,
+      "group": "1786c1c98f92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coupon",
+      "meaningInSourceLanguage": "优惠券",
+      "id": "db779a662528",
+      "priority": 0,
+      "group": "507e8a2302f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coupon",
+      "meaning": "优惠券",
+      "audio": "9f7d8fde1d284fe7aa0f343d213007fc",
+      "id": "781e94e9a83a",
+      "priority": 1,
+      "group": "507e8a2302f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "voucher",
+      "meaningInSourceLanguage": "代金券",
+      "id": "c44d663977cc",
+      "priority": 0,
+      "group": "7232beacb26d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "voucher",
+      "meaning": "代金券",
+      "audio": "8e614de90e4b4a608f143382f40057e6",
+      "id": "8e9ed1ec5a6b",
+      "priority": 1,
+      "group": "7232beacb26d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gift card",
+      "meaningInSourceLanguage": "礼品卡",
+      "id": "53cce64f6d39",
+      "priority": 0,
+      "group": "65a244d0d046"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gift card",
+      "meaning": "礼品卡",
+      "audio": "89a8d92f3b924e4098d70efc8064e464",
+      "id": "959aa1eab14f",
+      "priority": 1,
+      "group": "65a244d0d046"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "promotion",
+      "meaningInSourceLanguage": "促销",
+      "id": "57bcfbaa9e69",
+      "priority": 0,
+      "group": "35cb4259af83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "promotion",
+      "meaning": "促销",
+      "audio": "828bc155f32e424cbd778ca765b7b878",
+      "id": "186f96d1f3e4",
+      "priority": 1,
+      "group": "35cb4259af83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "buy one get one",
+      "meaningInSourceLanguage": "买一送一",
+      "id": "a40b8ab6577e",
+      "priority": 0,
+      "group": "e13108049b07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "buy one get one",
+      "meaning": "买一送一",
+      "audio": "7daee39fdfa34c9a9197986685e93217",
+      "id": "8a01856428ad",
+      "priority": 1,
+      "group": "e13108049b07"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "free sample",
+      "meaningInSourceLanguage": "免费样品",
+      "id": "86869db9d8fd",
+      "priority": 0,
+      "group": "a6c165d669b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "free sample",
+      "meaning": "免费样品",
+      "audio": "120617f4e68241ed9119bb771850e8ac",
+      "id": "5e435643b1d5",
+      "priority": 1,
+      "group": "a6c165d669b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "try on",
+      "meaningInSourceLanguage": "试穿",
+      "id": "618449ada8e1",
+      "priority": 0,
+      "group": "c7b1e270d17e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "try on",
+      "meaning": "试穿",
+      "audio": "927417e98fa84460831f06b2be561beb",
+      "id": "948e71ee53d5",
+      "priority": 1,
+      "group": "c7b1e270d17e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fitting room",
+      "meaningInSourceLanguage": "试衣间",
+      "id": "9eead5eb8080",
+      "priority": 0,
+      "group": "83e0cc390611"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fitting room",
+      "meaning": "试衣间",
+      "audio": "c2aa1f1526604b03a8d7138d754fe1f8",
+      "id": "3485536468e5",
+      "priority": 1,
+      "group": "83e0cc390611"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "size",
+      "meaningInSourceLanguage": "尺码",
+      "id": "07b0850f2359",
+      "priority": 0,
+      "group": "11abc994d535"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "size",
+      "meaning": "尺码",
+      "audio": "4555dba416594af8b6c7c6294ea991be",
+      "id": "84e58a333bd7",
+      "priority": 1,
+      "group": "11abc994d535"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "small",
+      "meaningInSourceLanguage": "小号",
+      "id": "bf651f9b2eca",
+      "priority": 0,
+      "group": "40f65d6ed8c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "small",
+      "meaning": "小号",
+      "audio": "3e825226d1cd468b87dde206ffd55669",
+      "id": "0e331060d1d0",
+      "priority": 1,
+      "group": "40f65d6ed8c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "medium",
+      "meaningInSourceLanguage": "中号",
+      "id": "7ef758bd974b",
+      "priority": 0,
+      "group": "7710d85a6b5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "medium",
+      "meaning": "中号",
+      "audio": "c4b4bf02ae0647ad988f89143bdb7da0",
+      "id": "843ba226a7fd",
+      "priority": 1,
+      "group": "7710d85a6b5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "large",
+      "meaningInSourceLanguage": "大号",
+      "id": "fb239a5bfce4",
+      "priority": 0,
+      "group": "a5b946119c7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "large",
+      "meaning": "大号",
+      "audio": "382ec1a511eb45f998153b465f70a0ee",
+      "id": "cdcfcbf85342",
+      "priority": 1,
+      "group": "a5b946119c7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "extra large",
+      "meaningInSourceLanguage": "加大号",
+      "id": "448df0c09e94",
+      "priority": 0,
+      "group": "14cbbede8246"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "extra large",
+      "meaning": "加大号",
+      "audio": "14ca11cf1c184b6994b3c8f5fa2ae71a",
+      "id": "1b70d3cc3a94",
+      "priority": 1,
+      "group": "14cbbede8246"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brand",
+      "meaningInSourceLanguage": "品牌",
+      "id": "c757c2410a29",
+      "priority": 0,
+      "group": "f96ff5ff6499"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brand",
+      "meaning": "品牌",
+      "audio": "ff069418a2874a8aa578b0adb48a818a",
+      "id": "90c8f3b936e4",
+      "priority": 1,
+      "group": "f96ff5ff6499"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "designer",
+      "meaningInSourceLanguage": "设计师品牌",
+      "id": "fef88b1b6bf0",
+      "priority": 0,
+      "group": "c53b24c6119a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "designer",
+      "meaning": "设计师品牌",
+      "audio": "5ff5e54184444fa59858bc466854c9f8",
+      "id": "fc7f1f1e1883",
+      "priority": 1,
+      "group": "c53b24c6119a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "luxury",
+      "meaningInSourceLanguage": "奢侈品",
+      "id": "e97fffc89dc5",
+      "priority": 0,
+      "group": "b1e91ef8889d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "luxury",
+      "meaning": "奢侈品",
+      "audio": "dfb6e149bd8349ee9cf9b626e432464e",
+      "id": "c459090c3118",
+      "priority": 1,
+      "group": "b1e91ef8889d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "counterfeit",
+      "meaningInSourceLanguage": "假冒的",
+      "id": "438a9f96258b",
+      "priority": 0,
+      "group": "31037030a672"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "counterfeit",
+      "meaning": "假冒的",
+      "audio": "bb00369b157042a3a48670c22716f57d",
+      "id": "739e1521815e",
+      "priority": 1,
+      "group": "31037030a672"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "warranty",
+      "meaningInSourceLanguage": "保修",
+      "id": "0cd51cfba791",
+      "priority": 0,
+      "group": "0af722341b25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "warranty",
+      "meaning": "保修",
+      "audio": "cc45e3bc60074705b2a0b1f0b018eba2",
+      "id": "a86e824d93b1",
+      "priority": 1,
+      "group": "0af722341b25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guarantee",
+      "meaningInSourceLanguage": "保证",
+      "id": "b6e5a3b8a6ad",
+      "priority": 0,
+      "group": "a5215bca7d52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guarantee",
+      "meaning": "保证",
+      "audio": "02b141439c3742eaa6c43091336028ea",
+      "id": "940cbdf22e6d",
+      "priority": 1,
+      "group": "a5215bca7d52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "return policy",
+      "meaningInSourceLanguage": "退货政策",
+      "id": "e041b6b8b4ee",
+      "priority": 0,
+      "group": "b99421b096dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "return policy",
+      "meaning": "退货政策",
+      "audio": "fdb08c9666414e01ab7d7dab8ccf9960",
+      "id": "a505debf54b8",
+      "priority": 1,
+      "group": "b99421b096dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exchange policy",
+      "meaningInSourceLanguage": "换货政策",
+      "id": "2beae8fcf578",
+      "priority": 0,
+      "group": "0c8ef3964e8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exchange policy",
+      "meaning": "换货政策",
+      "audio": "164fee9a09b14b47b51caad98696026b",
+      "id": "ec9e5b4af30a",
+      "priority": 1,
+      "group": "0c8ef3964e8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "receipt",
+      "meaningInSourceLanguage": "收据",
+      "id": "bd6a60cb727a",
+      "priority": 0,
+      "group": "245bedcf9ff6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "receipt",
+      "meaning": "收据",
+      "audio": "43ef431768eb4e708bc510d8ba706e2f",
+      "id": "ae51172907ff",
+      "priority": 1,
+      "group": "245bedcf9ff6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "invoice",
+      "meaningInSourceLanguage": "发票",
+      "id": "7b29591dc06e",
+      "priority": 0,
+      "group": "1e8cf1a8e9b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "invoice",
+      "meaning": "发票",
+      "audio": "7d05141ca3a6471d92520cbe624b3ca4",
+      "id": "142e5f1dc752",
+      "priority": 1,
+      "group": "1e8cf1a8e9b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "budget",
+      "meaningInSourceLanguage": "预算",
+      "id": "dc00f5a2346f",
+      "priority": 0,
+      "group": "a2799297b24e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "budget",
+      "meaning": "预算",
+      "audio": "aea184937a734628a04dff18c6b858f8",
+      "id": "a3c6bf513cb7",
+      "priority": 1,
+      "group": "a2799297b24e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spend",
+      "meaningInSourceLanguage": "花费",
+      "id": "088e951a372f",
+      "priority": 0,
+      "group": "bade442e323e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spend",
+      "meaning": "花费",
+      "audio": "da559a656b8346b696fe61c6ffc52899",
+      "id": "c9d06d340f0f",
+      "priority": 1,
+      "group": "bade442e323e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "save",
+      "meaningInSourceLanguage": "节省",
+      "id": "e921865517d4",
+      "priority": 0,
+      "group": "e4189f618025"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "save",
+      "meaning": "节省",
+      "audio": "6d258da50ec944aa88de95295635c4f7",
+      "id": "bff2fc81959b",
+      "priority": 1,
+      "group": "e4189f618025"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waste",
+      "meaningInSourceLanguage": "浪费",
+      "id": "0445170497d1",
+      "priority": 0,
+      "group": "f78095ed3c3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waste",
+      "meaning": "浪费",
+      "audio": "847be0d5029842959eb8dcd7e6e12505",
+      "id": "35dd528ef257",
+      "priority": 1,
+      "group": "f78095ed3c3e"
+    }
+  ]
+}

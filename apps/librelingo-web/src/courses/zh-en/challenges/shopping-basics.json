@@ -1,0 +1,567 @@
+{
+  "id": "1e97d8b70617",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "shop",
+      "meaningInSourceLanguage": "商店",
+      "id": "3d7cd4c0587c",
+      "priority": 0,
+      "group": "b0179e9d03bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shop",
+      "meaning": "商店",
+      "audio": "4a3076be618f40d6bbe35c8e552d1d64",
+      "id": "d2857e9c5e7f",
+      "priority": 1,
+      "group": "b0179e9d03bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "store",
+      "meaningInSourceLanguage": "商店",
+      "id": "205b322f9a3d",
+      "priority": 0,
+      "group": "3b3e4b69ef17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "store",
+      "meaning": "商店",
+      "audio": "0a2280e058c64b6c83787e29f17a92e8",
+      "id": "0242c6207f9c",
+      "priority": 1,
+      "group": "3b3e4b69ef17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "market",
+      "meaningInSourceLanguage": "市场",
+      "id": "dd528345a3e5",
+      "priority": 0,
+      "group": "6c787f47b8f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "market",
+      "meaning": "市场",
+      "audio": "abade6df1b1448dd8d32f6eb67fb26f7",
+      "id": "9b2f67672de9",
+      "priority": 1,
+      "group": "6c787f47b8f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "supermarket",
+      "meaningInSourceLanguage": "超市",
+      "id": "b59a8e2c0fb0",
+      "priority": 0,
+      "group": "f0cbffd4394b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "supermarket",
+      "meaning": "超市",
+      "audio": "81e8df5ecfa5436c89a1d841e2c38574",
+      "id": "c5590cd414af",
+      "priority": 1,
+      "group": "f0cbffd4394b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mall",
+      "meaningInSourceLanguage": "购物中心",
+      "id": "f8eebd750331",
+      "priority": 0,
+      "group": "d54417788e72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mall",
+      "meaning": "购物中心",
+      "audio": "db451aa1ec7347acbef29e6b77166404",
+      "id": "094c410dd65a",
+      "priority": 1,
+      "group": "d54417788e72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boutique",
+      "meaningInSourceLanguage": "精品店",
+      "id": "ae6824e7c6b2",
+      "priority": 0,
+      "group": "1b00ebe84633"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boutique",
+      "meaning": "精品店",
+      "audio": "a39920ee479e4fa0b9014e9e9ea1d2ca",
+      "id": "96d4dc9c36b8",
+      "priority": 1,
+      "group": "1b00ebe84633"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pharmacy",
+      "meaningInSourceLanguage": "药店",
+      "id": "ed0710a79e19",
+      "priority": 0,
+      "group": "f90534343e3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pharmacy",
+      "meaning": "药店",
+      "audio": "88f9a4e1a4d04e17bacd9be4571fac4d",
+      "id": "df917ccdfdbc",
+      "priority": 1,
+      "group": "f90534343e3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grocery store",
+      "meaningInSourceLanguage": "杂货店",
+      "id": "c5e884b7eab2",
+      "priority": 0,
+      "group": "0892fbec090b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grocery store",
+      "meaning": "杂货店",
+      "audio": "68f16581a2ce4fd5b7511aa96dc1c50d",
+      "id": "079dc5decd8b",
+      "priority": 1,
+      "group": "0892fbec090b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "department store",
+      "meaningInSourceLanguage": "百货商店",
+      "id": "b7ac246da4b4",
+      "priority": 0,
+      "group": "8e85ff40d59f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "department store",
+      "meaning": "百货商店",
+      "audio": "c0af0a98a38c412eb9b718c0de08d7ef",
+      "id": "ad5e4e6f3789",
+      "priority": 1,
+      "group": "8e85ff40d59f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "convenience store",
+      "meaningInSourceLanguage": "便利店",
+      "id": "e4f04d308f0a",
+      "priority": 0,
+      "group": "92097ef4946c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "convenience store",
+      "meaning": "便利店",
+      "audio": "34bf50502b994257a60613bd7550598f",
+      "id": "7140f8851ccc",
+      "priority": 1,
+      "group": "92097ef4946c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "online shop",
+      "meaningInSourceLanguage": "网店",
+      "id": "43dc3e54a1fa",
+      "priority": 0,
+      "group": "4994e71aa62e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "online shop",
+      "meaning": "网店",
+      "audio": "f5e3743307ed4239b429dad06e7f9331",
+      "id": "1b936bbf8403",
+      "priority": 1,
+      "group": "4994e71aa62e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "price",
+      "meaningInSourceLanguage": "价格",
+      "id": "7b5f2cbd6f1f",
+      "priority": 0,
+      "group": "d2a6bd6aa1fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "price",
+      "meaning": "价格",
+      "audio": "7fe0ef6f98174eb6a435fd5641783909",
+      "id": "404596608663",
+      "priority": 1,
+      "group": "d2a6bd6aa1fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cost",
+      "meaningInSourceLanguage": "费用",
+      "id": "a5059c8b7a62",
+      "priority": 0,
+      "group": "e1b0bb253b10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cost",
+      "meaning": "费用",
+      "audio": "48a4135ebbbe499da946779ed5853dac",
+      "id": "698a1e80565b",
+      "priority": 1,
+      "group": "e1b0bb253b10"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discount",
+      "meaningInSourceLanguage": "折扣",
+      "id": "525d9b010c45",
+      "priority": 0,
+      "group": "864ba4a85450"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discount",
+      "meaning": "折扣",
+      "audio": "de9bbf3cb3ea4022b25af569b17b4180",
+      "id": "0a84d270872e",
+      "priority": 1,
+      "group": "864ba4a85450"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sale",
+      "meaningInSourceLanguage": "打折",
+      "id": "e9a0ff30693e",
+      "priority": 0,
+      "group": "9649102a47fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sale",
+      "meaning": "打折",
+      "audio": "6e4d24c2b0044712b33c32ba24a270f7",
+      "id": "b6461c3e71a9",
+      "priority": 1,
+      "group": "9649102a47fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clearance",
+      "meaningInSourceLanguage": "清仓",
+      "id": "b63709187e9e",
+      "priority": 0,
+      "group": "0132aeae672d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clearance",
+      "meaning": "清仓",
+      "audio": "4c2e7c3ebe8840c7ae89c2b7e13f144e",
+      "id": "fc3336ad2e09",
+      "priority": 1,
+      "group": "0132aeae672d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bargain",
+      "meaningInSourceLanguage": "便宜货",
+      "id": "5b4f09b99a1d",
+      "priority": 0,
+      "group": "2e2dee2bc89c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bargain",
+      "meaning": "便宜货",
+      "audio": "c9bca2f215c94b5c80747c5981d48be3",
+      "id": "32462b99d8c7",
+      "priority": 1,
+      "group": "2e2dee2bc89c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "receipt",
+      "meaningInSourceLanguage": "收据",
+      "id": "a9f40732740a",
+      "priority": 0,
+      "group": "b11f68ff3e27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "receipt",
+      "meaning": "收据",
+      "audio": "f249a3940bea46d8b1f0159a16b91887",
+      "id": "e38d31935f0f",
+      "priority": 1,
+      "group": "b11f68ff3e27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "refund",
+      "meaningInSourceLanguage": "退款",
+      "id": "ff8ace7bdfbd",
+      "priority": 0,
+      "group": "e6702772a053"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "refund",
+      "meaning": "退款",
+      "audio": "51263f36a4d64fb7aa7569254160d563",
+      "id": "dd1b380d2704",
+      "priority": 1,
+      "group": "e6702772a053"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exchange",
+      "meaningInSourceLanguage": "换货",
+      "id": "376b7b3bc585",
+      "priority": 0,
+      "group": "1faf8f5a93ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exchange",
+      "meaning": "换货",
+      "audio": "6cf5ee9efd734a40b9e4c53517035287",
+      "id": "8f277d388be3",
+      "priority": 1,
+      "group": "1faf8f5a93ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customer service",
+      "meaningInSourceLanguage": "客服",
+      "id": "1602bf7cfc29",
+      "priority": 0,
+      "group": "451a665b7ec0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customer service",
+      "meaning": "客服",
+      "audio": "17e341e24d5d4d6ea3325bdaa91b035c",
+      "id": "5a7b1b405da3",
+      "priority": 1,
+      "group": "451a665b7ec0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cashier",
+      "meaningInSourceLanguage": "收银员",
+      "id": "66099d7cfbdc",
+      "priority": 0,
+      "group": "86b71942b684"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cashier",
+      "meaning": "收银员",
+      "audio": "58f5f2879451417fac75335229283852",
+      "id": "b6d52ad85cdb",
+      "priority": 1,
+      "group": "86b71942b684"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shopping cart",
+      "meaningInSourceLanguage": "购物车",
+      "id": "9a55740ad956",
+      "priority": 0,
+      "group": "528b01b85dca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shopping cart",
+      "meaning": "购物车",
+      "audio": "5ba71b93d0534a89a700da2147aae1cb",
+      "id": "d0bc1e4f0973",
+      "priority": 1,
+      "group": "528b01b85dca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shopping basket",
+      "meaningInSourceLanguage": "购物篮",
+      "id": "0bfc77363385",
+      "priority": 0,
+      "group": "7347fa7f59a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shopping basket",
+      "meaning": "购物篮",
+      "audio": "486cf5ef7de54f77a82dd154fc91141f",
+      "id": "b9e2b472b7a9",
+      "priority": 1,
+      "group": "7347fa7f59a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "checkout",
+      "meaningInSourceLanguage": "结账",
+      "id": "9321f7add698",
+      "priority": 0,
+      "group": "04b4e443e6fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "checkout",
+      "meaning": "结账",
+      "audio": "29517c491d1a48fba2b280dec3e09c07",
+      "id": "1436be1719b5",
+      "priority": 1,
+      "group": "04b4e443e6fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "payment",
+      "meaningInSourceLanguage": "支付",
+      "id": "98574ebbd919",
+      "priority": 0,
+      "group": "d6953666a7eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "payment",
+      "meaning": "支付",
+      "audio": "093ee7eca3c84dc4836c09c842cd1891",
+      "id": "780d131b7117",
+      "priority": 1,
+      "group": "d6953666a7eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cash",
+      "meaningInSourceLanguage": "现金",
+      "id": "189838f92213",
+      "priority": 0,
+      "group": "95283413cf1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cash",
+      "meaning": "现金",
+      "audio": "ba111f0a509649b38b7ecfce6d764564",
+      "id": "ee6819612c39",
+      "priority": 1,
+      "group": "95283413cf1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "credit card",
+      "meaningInSourceLanguage": "信用卡",
+      "id": "6770fd68ec86",
+      "priority": 0,
+      "group": "8eea2231df3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "credit card",
+      "meaning": "信用卡",
+      "audio": "647eee45a9bf45e2a689903324b32c6c",
+      "id": "735178714098",
+      "priority": 1,
+      "group": "8eea2231df3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debit card",
+      "meaningInSourceLanguage": "借记卡",
+      "id": "a99a0b031943",
+      "priority": 0,
+      "group": "35059a806034"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debit card",
+      "meaning": "借记卡",
+      "audio": "cc0b097ef4d3435baf52b604c0ea0a6f",
+      "id": "4b8d79509659",
+      "priority": 1,
+      "group": "35059a806034"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mobile payment",
+      "meaningInSourceLanguage": "移动支付",
+      "id": "979e78da198c",
+      "priority": 0,
+      "group": "c0fd40f91e98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mobile payment",
+      "meaning": "移动支付",
+      "audio": "cdea13facce84e27a09eee83a88a16c2",
+      "id": "92ebd8520c33",
+      "priority": 1,
+      "group": "c0fd40f91e98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Alipay",
+      "meaningInSourceLanguage": "支付宝",
+      "id": "5df6bb72e450",
+      "priority": 0,
+      "group": "c26266687df8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Alipay",
+      "meaning": "支付宝",
+      "audio": "ce94c3fe9c584fa2a8b1adec730e4599",
+      "id": "26e0d6451d9b",
+      "priority": 1,
+      "group": "c26266687df8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "WeChat Pay",
+      "meaningInSourceLanguage": "微信支付",
+      "id": "ff9b6d8ca384",
+      "priority": 0,
+      "group": "21a964f6d9cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "WeChat Pay",
+      "meaning": "微信支付",
+      "audio": "ea728a2191f14ab891621ca8eb9b4a8f",
+      "id": "1a93864d3492",
+      "priority": 1,
+      "group": "21a964f6d9cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scan",
+      "meaningInSourceLanguage": "扫码",
+      "id": "b3e7abd52f10",
+      "priority": 0,
+      "group": "9579582933d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scan",
+      "meaning": "扫码",
+      "audio": "4783a8cb5f3146d2b2c059a3c4a43748",
+      "id": "0250cf205800",
+      "priority": 1,
+      "group": "9579582933d2"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+Skill:
+  Name: Family
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Mutter
+    Translation: 母亲
+  - Word: Vater
+    Translation: 父亲
+  - Word: Schwester
+    Translation: 姐妹
+  - Word: Bruder
+    Translation: 兄弟
+  - Word: Tochter
+    Translation: 女儿
+  - Word: Sohn
+    Translation: 儿子
+  - Word: Frau
+    Translation: 妻子
+  - Word: Mann
+    Translation: 丈夫
+  - Word: Freund
+    Translation: 朋友
+  - Word: Kind
+    Translation: 孩子
+
+Phrases:
+  - Phrase: Das ist meine Mutter.
+    Translation: 这是我的妈妈。
+  - Phrase: Mein Vater ist groß.
+    Translation: 我的爸爸很高。
+  - Phrase: Ich habe eine Schwester.
+    Translation: 我有一个姐妹。
+  - Phrase: Mein Bruder ist jung.
+    Translation: 我的兄弟很年轻。
+  - Phrase: Sie ist meine Freundin.
+    Translation: 她是我的朋友。
+  - Phrase: Das Kind ist glücklich.
+    Translation: 孩子很高兴。
+  - Phrase: Meine Frau ist nett.
+    Translation: 我的妻子很善良。
+
+Mini-dictionary:
+  German:
+    - Freund: 朋友
+    - Schwester: 姐妹
+    - Mutter: 母亲
+    - Sohn: 儿子
+    - Mann: 丈夫
+    - Frau: 妻子
+    - Tochter: 女儿
+    - Bruder: 兄弟
+    - Vater: 父亲
+    - Kind: 孩子
+  Chinese:
+    - 女儿: Tochter
+    - 丈夫: Mann
+    - 父亲: Vater
+    - 姐妹: Schwester
+    - 儿子: Sohn
+    - 朋友: Freund
+    - 妻子: Frau
+    - 孩子: Kind
+    - 兄弟: Bruder
+    - 母亲: Mutter

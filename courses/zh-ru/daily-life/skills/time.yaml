@@ -1,0 +1,70 @@
+Skill:
+  Name: Time
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: утро
+    Translation: 早上
+  - Word: день
+    Translation: 下午
+  - Word: вечер
+    Translation: 晚上
+  - Word: ночь
+    Translation: 夜晚
+  - Word: сегодня
+    Translation: 今天
+  - Word: завтра
+    Translation: 明天
+  - Word: вчера
+    Translation: 昨天
+  - Word: сейчас
+    Translation: 现在
+  - Word: позже
+    Translation: 稍后
+  - Word: рано
+    Translation: 早
+
+Phrases:
+  - Phrase: Утром.
+    Translation: 在早上。
+  - Phrase: Увидимся завтра.
+    Translation: 明天见。
+  - Phrase: Раннее утро.
+    Translation: 现在是清晨。
+  - Phrase: Я сейчас свободен.
+    Translation: 我现在有空。
+  - Phrase: Увидимся позже.
+    Translation: 回头见。
+  - Phrase: Днём.
+    Translation: 在下午。
+
+Mini-dictionary:
+  Russian:
+    - день: 下午
+    - позже: 稍后
+    - вчера: 昨天
+    - ночь: 夜晚
+    - рано: 早
+    - сегодня: 今天
+    - вечер: 晚上
+    - утро: 早上
+    - завтра: 明天
+    - сейчас: 现在
+  Chinese:
+    - 早: рано
+    - 今天: сегодня
+    - 晚上: вечер
+    - 现在: сейчас
+    - 稍后: позже
+    - 早上: утро
+    - 下午: день
+    - 昨天: вчера
+    - 夜晚: ночь
+    - 明天: завтра

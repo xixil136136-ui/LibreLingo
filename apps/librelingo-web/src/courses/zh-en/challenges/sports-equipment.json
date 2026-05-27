@@ -1,0 +1,975 @@
+{
+  "id": "15da8c732f9b",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "pickleball",
+      "meaningInSourceLanguage": "匹克球",
+      "id": "5ce6aa4bccf1",
+      "priority": 0,
+      "group": "4a3438bcaa77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pickleball",
+      "meaning": "匹克球",
+      "audio": "a632dd386f3e4ca2ab4ad5d55902f95c",
+      "id": "1f9fc11d41bb",
+      "priority": 1,
+      "group": "4a3438bcaa77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "windsurfing",
+      "meaningInSourceLanguage": "风帆冲浪",
+      "id": "141438df27d6",
+      "priority": 0,
+      "group": "3d94e7ab5915"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "windsurfing",
+      "meaning": "风帆冲浪",
+      "audio": "411f48dea6f045c496aa20dc98253806",
+      "id": "bf0fb6ca3e5c",
+      "priority": 1,
+      "group": "3d94e7ab5915"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kitesurfing",
+      "meaningInSourceLanguage": "风筝冲浪",
+      "id": "85df2b0bbd31",
+      "priority": 0,
+      "group": "0223f8a7853b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kitesurfing",
+      "meaning": "风筝冲浪",
+      "audio": "08ff75fa70e949579e9d5dde04030a43",
+      "id": "4a625d6561c7",
+      "priority": 1,
+      "group": "0223f8a7853b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skateboarding",
+      "meaningInSourceLanguage": "滑板",
+      "id": "aae674f7ea43",
+      "priority": 0,
+      "group": "cff9af5fad4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skateboarding",
+      "meaning": "滑板",
+      "audio": "99fcca67a43b459a9f046f1ff9e3996a",
+      "id": "b37f5c478663",
+      "priority": 1,
+      "group": "cff9af5fad4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rollerblading",
+      "meaningInSourceLanguage": "轮滑",
+      "id": "17154414ec14",
+      "priority": 0,
+      "group": "5a36a86371b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rollerblading",
+      "meaning": "轮滑",
+      "audio": "ee195219fd5d466b9c8768cebf629fdd",
+      "id": "8f91e7cce51a",
+      "priority": 1,
+      "group": "5a36a86371b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parkour",
+      "meaningInSourceLanguage": "跑酷",
+      "id": "cf0523c70292",
+      "priority": 0,
+      "group": "9a15bfef94a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parkour",
+      "meaning": "跑酷",
+      "audio": "3ffb4dd3ccef42a780cf59541e7686dc",
+      "id": "53f4b92d0c89",
+      "priority": 1,
+      "group": "9a15bfef94a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zumba",
+      "meaningInSourceLanguage": "尊巴",
+      "id": "cd7c5cfbe0f0",
+      "priority": 0,
+      "group": "94153ff59868"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zumba",
+      "meaning": "尊巴",
+      "audio": "16b2a4e0219c4ea7a3ba06578999c04d",
+      "id": "cdf332256c64",
+      "priority": 1,
+      "group": "94153ff59868"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spectator",
+      "meaningInSourceLanguage": "观众",
+      "id": "30a1367b7450",
+      "priority": 0,
+      "group": "cde24c19dd9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spectator",
+      "meaning": "观众",
+      "audio": "28aeb5941b004a29a175cd41f782a8c1",
+      "id": "5fb8c29c3a6a",
+      "priority": 1,
+      "group": "cde24c19dd9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fan",
+      "meaningInSourceLanguage": "粉丝",
+      "id": "99a82726910f",
+      "priority": 0,
+      "group": "8e60e609c4fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fan",
+      "meaning": "粉丝",
+      "audio": "bb448fc128f24cbfad529750f5e13d68",
+      "id": "e667b8d39a46",
+      "priority": 1,
+      "group": "8e60e609c4fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cheerleader",
+      "meaningInSourceLanguage": "啦啦队",
+      "id": "ee1fb528a89f",
+      "priority": 0,
+      "group": "4c3a0608c3b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cheerleader",
+      "meaning": "啦啦队",
+      "audio": "2fb0d4fd78e246d5ba2543632857e548",
+      "id": "4df0b1663e4a",
+      "priority": 1,
+      "group": "4c3a0608c3b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anthem",
+      "meaningInSourceLanguage": "国歌",
+      "id": "6aa651e123da",
+      "priority": 0,
+      "group": "cfed8d68d211"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anthem",
+      "meaning": "国歌",
+      "audio": "d79b1032c1054bf887230d4b014a729f",
+      "id": "a404f901d54f",
+      "priority": 1,
+      "group": "cfed8d68d211"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "opening ceremony",
+      "meaningInSourceLanguage": "开幕式",
+      "id": "0da8db9c09ae",
+      "priority": 0,
+      "group": "ce3443d3dfd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "opening ceremony",
+      "meaning": "开幕式",
+      "audio": "ec9b1af32a064a59835914d65dfcaef5",
+      "id": "7a0575cd4862",
+      "priority": 1,
+      "group": "ce3443d3dfd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "closing ceremony",
+      "meaningInSourceLanguage": "闭幕式",
+      "id": "28b84853d0f9",
+      "priority": 0,
+      "group": "a64a1e695fb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "closing ceremony",
+      "meaning": "闭幕式",
+      "audio": "dd3b48f662b9435bba569bdc8a9c1801",
+      "id": "7584840fed06",
+      "priority": 1,
+      "group": "a64a1e695fb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "victory",
+      "meaningInSourceLanguage": "胜利",
+      "id": "87f1504d467f",
+      "priority": 0,
+      "group": "30c8c6b57f94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "victory",
+      "meaning": "胜利",
+      "audio": "df056a1455304d13b87a00e6ea957fb7",
+      "id": "d705d3abd404",
+      "priority": 1,
+      "group": "30c8c6b57f94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "defeat",
+      "meaningInSourceLanguage": "失败",
+      "id": "5a9bedb0f3d2",
+      "priority": 0,
+      "group": "b6dbbd7c1f8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "defeat",
+      "meaning": "失败",
+      "audio": "bc4f11d1d6514ecd84c245f3be7e61e1",
+      "id": "864d13347fee",
+      "priority": 1,
+      "group": "b6dbbd7c1f8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comeback",
+      "meaningInSourceLanguage": "逆转",
+      "id": "7eb8ae193da0",
+      "priority": 0,
+      "group": "581233c4c8b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comeback",
+      "meaning": "逆转",
+      "audio": "3021f9366fe24df99c203a560e570fd6",
+      "id": "0b8c92af4bec",
+      "priority": 1,
+      "group": "581233c4c8b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "underdog",
+      "meaningInSourceLanguage": "冷门",
+      "id": "dc5936d7e27d",
+      "priority": 0,
+      "group": "f6fc35a5642b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "underdog",
+      "meaning": "冷门",
+      "audio": "85ea561c786a4b74ae014b562ce1961e",
+      "id": "907a7f6f112e",
+      "priority": 1,
+      "group": "f6fc35a5642b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "upset",
+      "meaningInSourceLanguage": "爆冷",
+      "id": "ec98bfcbe66b",
+      "priority": 0,
+      "group": "7db6beb643c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "upset",
+      "meaning": "爆冷",
+      "audio": "041fad98c1b94eef90a79293f3dd2ba9",
+      "id": "522771484e69",
+      "priority": 1,
+      "group": "7db6beb643c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "push-up",
+      "meaningInSourceLanguage": "俯卧撑",
+      "id": "0741c3090635",
+      "priority": 0,
+      "group": "cc7742b232c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "push-up",
+      "meaning": "俯卧撑",
+      "audio": "085ebc25384a4b59a7c46d2b5abc0b38",
+      "id": "294d84ab394f",
+      "priority": 1,
+      "group": "cc7742b232c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pull-up",
+      "meaningInSourceLanguage": "引体向上",
+      "id": "b9b689387d42",
+      "priority": 0,
+      "group": "5ea050f7ea89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pull-up",
+      "meaning": "引体向上",
+      "audio": "8bf9c20ea43543979643d829f0d2c0d4",
+      "id": "b40ebae93e20",
+      "priority": 1,
+      "group": "5ea050f7ea89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sit-up",
+      "meaningInSourceLanguage": "仰卧起坐",
+      "id": "eeb03af39838",
+      "priority": 0,
+      "group": "4c24aff8349b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sit-up",
+      "meaning": "仰卧起坐",
+      "audio": "eea20f02df2c494da2ab47a7095751c7",
+      "id": "ad15df2a8d87",
+      "priority": 1,
+      "group": "4c24aff8349b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "squat",
+      "meaningInSourceLanguage": "深蹲",
+      "id": "bee9ab4431e7",
+      "priority": 0,
+      "group": "f909980d9e86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "squat",
+      "meaning": "深蹲",
+      "audio": "208a6fe4d95349f7ab5c0eb60944320e",
+      "id": "2c8b066c78a9",
+      "priority": 1,
+      "group": "f909980d9e86"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lunges",
+      "meaningInSourceLanguage": "弓步",
+      "id": "c1f181f49754",
+      "priority": 0,
+      "group": "6d6922afe8a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lunges",
+      "meaning": "弓步",
+      "audio": "e1f37a4e87384eff926cc2814ecac5ab",
+      "id": "4db6e6cf63a5",
+      "priority": 1,
+      "group": "6d6922afe8a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plank",
+      "meaningInSourceLanguage": "平板支撑",
+      "id": "3fafb3222415",
+      "priority": 0,
+      "group": "fe4a472f5327"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plank",
+      "meaning": "平板支撑",
+      "audio": "ea14032036ec49d1ac745c82854df2bf",
+      "id": "cca8650afd68",
+      "priority": 1,
+      "group": "fe4a472f5327"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deadlift",
+      "meaningInSourceLanguage": "硬拉",
+      "id": "e4a6b6d09454",
+      "priority": 0,
+      "group": "71c34064d539"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deadlift",
+      "meaning": "硬拉",
+      "audio": "af41e8b82c1543c784100f0c450cb42e",
+      "id": "05cb50829a15",
+      "priority": 1,
+      "group": "71c34064d539"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bench press",
+      "meaningInSourceLanguage": "卧推",
+      "id": "6cb8eed80f42",
+      "priority": 0,
+      "group": "360d312ac22e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bench press",
+      "meaning": "卧推",
+      "audio": "8cd7a57fc2da48d4922165623223e0de",
+      "id": "f1825caacd7b",
+      "priority": 1,
+      "group": "360d312ac22e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bicep curl",
+      "meaningInSourceLanguage": "弯举",
+      "id": "944ffddf0f7a",
+      "priority": 0,
+      "group": "5a79ce2d852e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bicep curl",
+      "meaning": "弯举",
+      "audio": "39f295b8bdd34f3189f83019dd23ac99",
+      "id": "eaccf75c9981",
+      "priority": 1,
+      "group": "5a79ce2d852e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shoulder press",
+      "meaningInSourceLanguage": "肩推",
+      "id": "ee247a177a20",
+      "priority": 0,
+      "group": "01a7ad260a48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shoulder press",
+      "meaning": "肩推",
+      "audio": "601aa98effd642f7a3aabda1754bf03f",
+      "id": "bcc7cbdefbd2",
+      "priority": 1,
+      "group": "01a7ad260a48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "treadmill",
+      "meaningInSourceLanguage": "跑步机",
+      "id": "4f21d34de455",
+      "priority": 0,
+      "group": "82ca743563e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "treadmill",
+      "meaning": "跑步机",
+      "audio": "4cbd180bded44513807be30bb3070d32",
+      "id": "8a6f600662c2",
+      "priority": 1,
+      "group": "82ca743563e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "elliptical",
+      "meaningInSourceLanguage": "椭圆机",
+      "id": "964b8f02ca66",
+      "priority": 0,
+      "group": "592bdc1c3103"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "elliptical",
+      "meaning": "椭圆机",
+      "audio": "bd10058df01c4f689723197c382c5c83",
+      "id": "e5646d69a7c5",
+      "priority": 1,
+      "group": "592bdc1c3103"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stationary bike",
+      "meaningInSourceLanguage": "固定自行车",
+      "id": "dfc37672a03f",
+      "priority": 0,
+      "group": "560f6bbbde58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stationary bike",
+      "meaning": "固定自行车",
+      "audio": "4a4087b5212440bbb5f41ad182b38f07",
+      "id": "08df69685f10",
+      "priority": 1,
+      "group": "560f6bbbde58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rower",
+      "meaningInSourceLanguage": "划船机",
+      "id": "97a623fd16b7",
+      "priority": 0,
+      "group": "5c777cbf6181"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rower",
+      "meaning": "划船机",
+      "audio": "40d74c5c7ebb4eebb9510a26f551b965",
+      "id": "f948c8058a6d",
+      "priority": 1,
+      "group": "5c777cbf6181"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kettlebell",
+      "meaningInSourceLanguage": "壶铃",
+      "id": "3cf1e881918b",
+      "priority": 0,
+      "group": "f57f681754ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kettlebell",
+      "meaning": "壶铃",
+      "audio": "8fe7dc2b74b448bcbc7c1c41e9956aa1",
+      "id": "2ea2b85182c0",
+      "priority": 1,
+      "group": "f57f681754ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dumbbell",
+      "meaningInSourceLanguage": "哑铃",
+      "id": "a7b2eeb9e064",
+      "priority": 0,
+      "group": "76732ee52ed6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dumbbell",
+      "meaning": "哑铃",
+      "audio": "684fbe32533c4fe98519d7f029894132",
+      "id": "aa15a6579ef8",
+      "priority": 1,
+      "group": "76732ee52ed6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "barbell",
+      "meaningInSourceLanguage": "杠铃",
+      "id": "c2b59d04ad80",
+      "priority": 0,
+      "group": "e535632d907b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "barbell",
+      "meaning": "杠铃",
+      "audio": "9068fe88dd464ac2bde62b95a8b37caa",
+      "id": "545f830f191d",
+      "priority": 1,
+      "group": "e535632d907b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "resistance band",
+      "meaningInSourceLanguage": "弹力带",
+      "id": "6453f67ed923",
+      "priority": 0,
+      "group": "2558e37651e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "resistance band",
+      "meaning": "弹力带",
+      "audio": "6c0187b4754e49bda4d7ef79b91c8512",
+      "id": "50fdefc75d12",
+      "priority": 1,
+      "group": "2558e37651e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jump rope",
+      "meaningInSourceLanguage": "跳绳",
+      "id": "d662f93bbe6d",
+      "priority": 0,
+      "group": "de6e09f6a8f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jump rope",
+      "meaning": "跳绳",
+      "audio": "18968522e6c44df7a386211b816e6bd0",
+      "id": "a2613019a4dd",
+      "priority": 1,
+      "group": "de6e09f6a8f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "medicine ball",
+      "meaningInSourceLanguage": "药球",
+      "id": "d9e624d0cb98",
+      "priority": 0,
+      "group": "1394b450d84e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "medicine ball",
+      "meaning": "药球",
+      "audio": "a5423f53c1f04623ad83e0eb0d26b0b8",
+      "id": "31beffa4e6a8",
+      "priority": 1,
+      "group": "1394b450d84e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "foam roller",
+      "meaningInSourceLanguage": "泡沫轴",
+      "id": "6d188f20e21a",
+      "priority": 0,
+      "group": "ec85846b88c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "foam roller",
+      "meaning": "泡沫轴",
+      "audio": "22816ef98895444cb6edf00ef217dfca",
+      "id": "e5dadb199bfd",
+      "priority": 1,
+      "group": "ec85846b88c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yoga mat",
+      "meaningInSourceLanguage": "瑜伽垫",
+      "id": "7d9ca70932fb",
+      "priority": 0,
+      "group": "af52d7051468"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yoga mat",
+      "meaning": "瑜伽垫",
+      "audio": "247ddf101a904fd29b46937d49a7ef3c",
+      "id": "26b9acf9769a",
+      "priority": 1,
+      "group": "af52d7051468"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heart rate",
+      "meaningInSourceLanguage": "心率",
+      "id": "2cdfff75aa46",
+      "priority": 0,
+      "group": "63e239680f94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heart rate",
+      "meaning": "心率",
+      "audio": "1305542b84924a9396d4ef5d93c7f673",
+      "id": "717bd969b3b5",
+      "priority": 1,
+      "group": "63e239680f94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calories burned",
+      "meaningInSourceLanguage": "消耗卡路里",
+      "id": "32c5db9b6891",
+      "priority": 0,
+      "group": "1cd81a52e669"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calories burned",
+      "meaning": "消耗卡路里",
+      "audio": "91ac9156242643438065f94c4adb31ab",
+      "id": "216f711cd32b",
+      "priority": 1,
+      "group": "1cd81a52e669"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "personal trainer",
+      "meaningInSourceLanguage": "私人教练",
+      "id": "4ea0b7e883fb",
+      "priority": 0,
+      "group": "2a837c6e15c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "personal trainer",
+      "meaning": "私人教练",
+      "audio": "0db0aa4e7b3049aba9406803c04e13ff",
+      "id": "84ee4b860620",
+      "priority": 1,
+      "group": "2a837c6e15c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fitness tracker",
+      "meaningInSourceLanguage": "健身追踪器",
+      "id": "3e5d20f3ca08",
+      "priority": 0,
+      "group": "49ebf37499e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fitness tracker",
+      "meaning": "健身追踪器",
+      "audio": "67b9bddc15424ae2aa61f48b7b9d2158",
+      "id": "6b0ca1a34f43",
+      "priority": 1,
+      "group": "49ebf37499e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "workout plan",
+      "meaningInSourceLanguage": "训练计划",
+      "id": "a6379ff8c9b0",
+      "priority": 0,
+      "group": "5d9e2d14430a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "workout plan",
+      "meaning": "训练计划",
+      "audio": "1b967ecb16bf4c59b100f7361d5e9e7d",
+      "id": "dfdd078d67f0",
+      "priority": 1,
+      "group": "5d9e2d14430a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rest day",
+      "meaningInSourceLanguage": "休息日",
+      "id": "4e23cc3d414c",
+      "priority": 0,
+      "group": "58010e0a7c28"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rest day",
+      "meaning": "休息日",
+      "audio": "6a1c58cdafcd4accbbe0992c9c727b44",
+      "id": "6ccfb1d15e4f",
+      "priority": 1,
+      "group": "58010e0a7c28"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sports drink",
+      "meaningInSourceLanguage": "运动饮料",
+      "id": "b208eb61ce28",
+      "priority": 0,
+      "group": "fdd447c384b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sports drink",
+      "meaning": "运动饮料",
+      "audio": "05e2b365803046d0b1222e50fe7029d3",
+      "id": "9d5657bdd6d6",
+      "priority": 1,
+      "group": "fdd447c384b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "protein shake",
+      "meaningInSourceLanguage": "蛋白奶昔",
+      "id": "e238e35232a6",
+      "priority": 0,
+      "group": "b4c39c62ef77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "protein shake",
+      "meaning": "蛋白奶昔",
+      "audio": "ffdeeea171604201982312920f03c851",
+      "id": "c092f9597742",
+      "priority": 1,
+      "group": "b4c39c62ef77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hydration",
+      "meaningInSourceLanguage": "补水",
+      "id": "7bc829c1104b",
+      "priority": 0,
+      "group": "e9f3eda3fc0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hydration",
+      "meaning": "补水",
+      "audio": "d5face7dda7c44f284cf61e90b2978a7",
+      "id": "ea0b7c625a6a",
+      "priority": 1,
+      "group": "e9f3eda3fc0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recovery",
+      "meaningInSourceLanguage": "恢复",
+      "id": "b9be97cc6177",
+      "priority": 0,
+      "group": "38202c87b215"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recovery",
+      "meaning": "恢复",
+      "audio": "b6a658059eb34a468667205d135b96eb",
+      "id": "00382dca3cb0",
+      "priority": 1,
+      "group": "38202c87b215"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "endurance",
+      "meaningInSourceLanguage": "耐力",
+      "id": "818cb2234eb9",
+      "priority": 0,
+      "group": "9215c7eec297"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "endurance",
+      "meaning": "耐力",
+      "audio": "2dc00447469146e299bd94b5052946b2",
+      "id": "d916f77a133e",
+      "priority": 1,
+      "group": "9215c7eec297"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "muscle",
+      "meaningInSourceLanguage": "肌肉",
+      "id": "2b6ad2dca283",
+      "priority": 0,
+      "group": "e09efc39ac0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "muscle",
+      "meaning": "肌肉",
+      "audio": "75ae9da48b2b4a7c8946a8b6a36d2678",
+      "id": "4393284e1219",
+      "priority": 1,
+      "group": "e09efc39ac0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cardio",
+      "meaningInSourceLanguage": "有氧",
+      "id": "f8f58b5ceca8",
+      "priority": 0,
+      "group": "c72c7f31779d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cardio",
+      "meaning": "有氧",
+      "audio": "c315fb62a6fa46268ede229c02e4050e",
+      "id": "399ecb96ce18",
+      "priority": 1,
+      "group": "c72c7f31779d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crossfit",
+      "meaningInSourceLanguage": "CrossFit",
+      "id": "a58dbb799845",
+      "priority": 0,
+      "group": "d7bf52147b17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crossfit",
+      "meaning": "CrossFit",
+      "audio": "433c885ac5e847d29e5bce878b78f634",
+      "id": "5d90ed41aca5",
+      "priority": 1,
+      "group": "d7bf52147b17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "HIIT",
+      "meaningInSourceLanguage": "高强度间歇训练",
+      "id": "049b6f2ebb6d",
+      "priority": 0,
+      "group": "dc91e5ba01b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "HIIT",
+      "meaning": "高强度间歇训练",
+      "audio": "8d451227edf742c5a1c93b519b2f0267",
+      "id": "621fac3c93b5",
+      "priority": 1,
+      "group": "dc91e5ba01b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bodybuilding",
+      "meaningInSourceLanguage": "健美",
+      "id": "ca1930700fc3",
+      "priority": 0,
+      "group": "90f89f6c7e54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bodybuilding",
+      "meaning": "健美",
+      "audio": "46360e7e1c514119bb8c474c942719ef",
+      "id": "cdeeaac4fa28",
+      "priority": 1,
+      "group": "90f89f6c7e54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calisthenics",
+      "meaningInSourceLanguage": "自重训练",
+      "id": "aabe8a507418",
+      "priority": 0,
+      "group": "66d78ded6e78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calisthenics",
+      "meaning": "自重训练",
+      "audio": "98496d365c384ba5a3f21d2fb4a596df",
+      "id": "80ae3845d886",
+      "priority": 1,
+      "group": "66d78ded6e78"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+Skill:
+  Name: Time
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Morgen
+    Translation: 早上
+  - Word: Nachmittag
+    Translation: 下午
+  - Word: Abend
+    Translation: 晚上
+  - Word: Nacht
+    Translation: 夜晚
+  - Word: heute
+    Translation: 今天
+  - Word: morgen
+    Translation: 明天
+  - Word: gestern
+    Translation: 昨天
+  - Word: jetzt
+    Translation: 现在
+  - Word: später
+    Translation: 稍后
+  - Word: früh
+    Translation: 早
+
+Phrases:
+  - Phrase: Am Morgen.
+    Translation: 在早上。
+  - Phrase: Bis morgen.
+    Translation: 明天见。
+  - Phrase: Es ist früher Morgen.
+    Translation: 现在是清晨。
+  - Phrase: Ich bin jetzt frei.
+    Translation: 我现在有空。
+  - Phrase: Bis später.
+    Translation: 回头见。
+  - Phrase: Am Nachmittag.
+    Translation: 在下午。
+
+Mini-dictionary:
+  German:
+    - gestern: 昨天
+    - Nachmittag: 下午
+    - heute: 今天
+    - Abend: 晚上
+    - Morgen: 早上
+    - jetzt: 现在
+    - Nacht: 夜晚
+    - morgen: 明天
+    - früh: 早
+    - später: 稍后
+  Chinese:
+    - 明天: morgen
+    - 稍后: später
+    - 今天: heute
+    - 晚上: Abend
+    - 夜晚: Nacht
+    - 现在: jetzt
+    - 早上: Morgen
+    - 早: früh
+    - 下午: Nachmittag
+    - 昨天: gestern

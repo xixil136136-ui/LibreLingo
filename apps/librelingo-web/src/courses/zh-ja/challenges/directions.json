@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ここを左に曲がってください。",
+      "meaningInSourceLanguage": "在这里左转。",
+      "id": "7fb64ca92ace",
+      "priority": 0,
+      "group": "96b2da08e6aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ここを左に曲がってください。",
+      "meaning": "在这里左转。",
+      "audio": "ec39ea03509122c5001b9a738dbe80da4b6385906d336e2cb8c09e4301bf048a",
+      "id": "f14e70f543a6",
+      "priority": 1,
+      "group": "96b2da08e6aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "まっすぐ行ってください。",
+      "meaningInSourceLanguage": "一直往前走。",
+      "id": "5db696c04c29",
+      "priority": 0,
+      "group": "9e91c2975310"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "まっすぐ行ってください。",
+      "meaning": "一直往前走。",
+      "audio": "7b2754fbd2daf75904fd2a9dd0f42315614e2f5b4179fbb2540b1051b4d2ea47",
+      "id": "8702624127d3",
+      "priority": 1,
+      "group": "9e91c2975310"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "駅はどこですか？",
+      "meaningInSourceLanguage": "车站在哪里？",
+      "id": "473f2b70b222",
+      "priority": 0,
+      "group": "25da59cdde95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "駅はどこですか？",
+      "meaning": "车站在哪里？",
+      "audio": "e6cfdb23e01e664259084cf882d25749ce06574f7b224b99dacf87cab8732945",
+      "id": "8d6c090f6c5b",
+      "priority": 1,
+      "group": "25da59cdde95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ここから遠いですか？",
+      "meaningInSourceLanguage": "离这里远吗？",
+      "id": "a04495ce46f8",
+      "priority": 0,
+      "group": "51cec47e7991"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ここから遠いですか？",
+      "meaning": "离这里远吗？",
+      "audio": "6e3befa89a55b5ad1f9bc0ccc2dd7eab9011c1dd1c41689b3d3648435eee98ad",
+      "id": "28b5e150626e",
+      "priority": 1,
+      "group": "51cec47e7991"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "地図が必要です。",
+      "meaningInSourceLanguage": "我需要一张地图。",
+      "id": "34f4a8382456",
+      "priority": 0,
+      "group": "7b6d6937cac0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "地図が必要です。",
+      "meaning": "我需要一张地图。",
+      "audio": "0ca3340dcd707426631d97d669b3ed2970f33b4aec7ee790752e991f68a6244d",
+      "id": "b43e67166b4f",
+      "priority": 1,
+      "group": "7b6d6937cac0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "左",
+      "meaningInSourceLanguage": "左边",
+      "id": "29b9e8e385a1",
+      "priority": 0,
+      "group": "4269a5f5d1ee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "左"
+      ],
+      "phrase": [
+        {
+          "word": "左边",
+          "definition": "左"
+        }
+      ],
+      "id": "557f4a500417",
+      "priority": 1,
+      "group": "4269a5f5d1ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "左",
+      "meaning": "左边",
+      "audio": "a854e607ef4a49ef3ac28b412c63d243f1ef7c9be76a9f068eb99d68afd094d2",
+      "id": "e5ae07b4703d",
+      "priority": 1,
+      "group": "4269a5f5d1ee"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "右",
+      "meaningInSourceLanguage": "右边",
+      "id": "5e25e3a33a8f",
+      "priority": 0,
+      "group": "2199488b328b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "右"
+      ],
+      "phrase": [
+        {
+          "word": "右边",
+          "definition": "右"
+        }
+      ],
+      "id": "ff59a78b73a7",
+      "priority": 1,
+      "group": "2199488b328b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "右",
+      "meaning": "右边",
+      "audio": "58515671d5142930e8edc0536adc34666975eee35bd188e05c7e65d347b0348d",
+      "id": "bce52a67ade5",
+      "priority": 1,
+      "group": "2199488b328b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "まっすぐ",
+      "meaningInSourceLanguage": "直走",
+      "id": "ac56119036b5",
+      "priority": 0,
+      "group": "2910080442a8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "まっすぐ"
+      ],
+      "phrase": [
+        {
+          "word": "直走",
+          "definition": "まっすぐ"
+        }
+      ],
+      "id": "c34b5f1cdd86",
+      "priority": 1,
+      "group": "2910080442a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "まっすぐ",
+      "meaning": "直走",
+      "audio": "7bacc8a1effb93e1bd41d14ac05d2f4de800896fda3f39477e96926627bacd0c",
+      "id": "b39bc07ec10e",
+      "priority": 1,
+      "group": "2910080442a8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ここ",
+      "meaningInSourceLanguage": "这里",
+      "id": "e73a16a7b820",
+      "priority": 0,
+      "group": "990a5600a649"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ここ"
+      ],
+      "phrase": [
+        {
+          "word": "这里",
+          "definition": "ここ"
+        }
+      ],
+      "id": "6af9be64acef",
+      "priority": 1,
+      "group": "990a5600a649"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ここ",
+      "meaning": "这里",
+      "audio": "9caea5d42255330cad46337ede7955aaea0d021177339ff44ff770977f95a6f9",
+      "id": "d77c24f6f229",
+      "priority": 1,
+      "group": "990a5600a649"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "そこ",
+      "meaningInSourceLanguage": "那里",
+      "id": "bce452ca9dc6",
+      "priority": 0,
+      "group": "a3d14672985b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "そこ"
+      ],
+      "phrase": [
+        {
+          "word": "那里",
+          "definition": "そこ"
+        }
+      ],
+      "id": "42ec5a44bd9b",
+      "priority": 1,
+      "group": "a3d14672985b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "そこ",
+      "meaning": "那里",
+      "audio": "06127a57be549d094fd8148e54aba1ed3eef1b97f3dfb705e80f7fb51ede9e52",
+      "id": "df35227da9d6",
+      "priority": 1,
+      "group": "a3d14672985b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "近く",
+      "meaningInSourceLanguage": "附近",
+      "id": "95db9ef03f57",
+      "priority": 0,
+      "group": "a12038846fd0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "近く"
+      ],
+      "phrase": [
+        {
+          "word": "附近",
+          "definition": "近く"
+        }
+      ],
+      "id": "ebd3540351a8",
+      "priority": 1,
+      "group": "a12038846fd0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "近く",
+      "meaning": "附近",
+      "audio": "4d1b9622d6607792ded28b7b807fd4293c4d122ff4e153d9db3e9f877e93aebc",
+      "id": "dcdcabfc01ed",
+      "priority": 1,
+      "group": "a12038846fd0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "遠い",
+      "meaningInSourceLanguage": "远",
+      "id": "ae917050d1df",
+      "priority": 0,
+      "group": "31148106a21c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "遠い"
+      ],
+      "phrase": [
+        {
+          "word": "远",
+          "definition": "遠い"
+        }
+      ],
+      "id": "b9d62a16156f",
+      "priority": 1,
+      "group": "31148106a21c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "遠い",
+      "meaning": "远",
+      "audio": "9db34ea1d3d27f98508d4fea14c1ee2b88c1e6381282c9002624458d9a81eabb",
+      "id": "720568fe7f8e",
+      "priority": 1,
+      "group": "31148106a21c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "地図",
+      "meaningInSourceLanguage": "地图",
+      "id": "8d86be47bca1",
+      "priority": 0,
+      "group": "d6c3c7d7485e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "地図"
+      ],
+      "phrase": [
+        {
+          "word": "地图",
+          "definition": "地図"
+        }
+      ],
+      "id": "456c892f6221",
+      "priority": 1,
+      "group": "d6c3c7d7485e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "地図",
+      "meaning": "地图",
+      "audio": "2494228e7955c89045f8f8456d0a2663f2fe4974994abaff7fb9b1a73293e70b",
+      "id": "fb732ed38131",
+      "priority": 1,
+      "group": "d6c3c7d7485e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "通り",
+      "meaningInSourceLanguage": "街道",
+      "id": "8132efe2ea49",
+      "priority": 0,
+      "group": "4d9257a92278"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "通り"
+      ],
+      "phrase": [
+        {
+          "word": "街道",
+          "definition": "通り"
+        }
+      ],
+      "id": "a9af3b92f832",
+      "priority": 1,
+      "group": "4d9257a92278"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "通り",
+      "meaning": "街道",
+      "audio": "2227f41b1e722dc51c26c1641682f3e6956f8edea1efcaf8233403ac69372d40",
+      "id": "f0e811d0e8d9",
+      "priority": 1,
+      "group": "4d9257a92278"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "道",
+      "meaningInSourceLanguage": "路",
+      "id": "14069f9f9038",
+      "priority": 0,
+      "group": "469a53ab9c4a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "道"
+      ],
+      "phrase": [
+        {
+          "word": "路",
+          "definition": "道"
+        }
+      ],
+      "id": "089184262fae",
+      "priority": 1,
+      "group": "469a53ab9c4a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "道",
+      "meaning": "路",
+      "audio": "87433921aabe1f499caf4c528b5481799012765fe31e863bc5af89d05d49b48e",
+      "id": "d92755f270c8",
+      "priority": 1,
+      "group": "469a53ab9c4a"
+    }
+  ]
+}

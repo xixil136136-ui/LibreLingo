@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это мой дом.",
+      "meaningInSourceLanguage": "这是我的房子。",
+      "id": "5512dfd9632c",
+      "priority": 0,
+      "group": "73b20c658c97"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это мой дом.",
+      "meaning": "这是我的房子。",
+      "audio": "e9202ff9e11eacfe628655c0249c2827e8d48235a9c929ed7346ca6b2fa25e8a",
+      "id": "122e0b2fcae3",
+      "priority": 1,
+      "group": "73b20c658c97"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Откройте дверь.",
+      "meaningInSourceLanguage": "开门。",
+      "id": "d92b610265a7",
+      "priority": 0,
+      "group": "b3088f1d1476"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Откройте дверь.",
+      "meaning": "开门。",
+      "audio": "532e520e89fe55fa917f01c2b0ed1ea6d459ac8f07ff5ff895938404a032e2e6",
+      "id": "b540ba868c1c",
+      "priority": 1,
+      "group": "b3088f1d1476"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кухня большая.",
+      "meaningInSourceLanguage": "厨房很大。",
+      "id": "f4c9b332b612",
+      "priority": 0,
+      "group": "f1dc11ac1197"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кухня большая.",
+      "meaning": "厨房很大。",
+      "audio": "a2800e5266a611732cb6636750279d62a8809752a5fb3644f0ba82929ef61df9",
+      "id": "86858940f045",
+      "priority": 1,
+      "group": "f1dc11ac1197"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Спальня чистая.",
+      "meaningInSourceLanguage": "卧室很干净。",
+      "id": "9745af55b82a",
+      "priority": 0,
+      "group": "2ba43e34f4dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Спальня чистая.",
+      "meaning": "卧室很干净。",
+      "audio": "fdb49b8f7d4efc42d97e1391f4790c094f3f1f71b8800597681504b25d92caa3",
+      "id": "204416946a7c",
+      "priority": 1,
+      "group": "2ba43e34f4dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Там есть сад.",
+      "meaningInSourceLanguage": "有一个花园。",
+      "id": "31cdcd3d89d1",
+      "priority": 0,
+      "group": "fa13ef3b213a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Там есть сад.",
+      "meaning": "有一个花园。",
+      "audio": "40f2e84f53b744a591171077b6351ccd0e0a4cbd33f55ab11dc197c5f8d223c8",
+      "id": "6aeb27e335da",
+      "priority": 1,
+      "group": "fa13ef3b213a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Закройте окно.",
+      "meaningInSourceLanguage": "关窗。",
+      "id": "1bf788c5a422",
+      "priority": 0,
+      "group": "42eac37c70cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Закройте окно.",
+      "meaning": "关窗。",
+      "audio": "1e3a3b8abf0cb449b026ce56eb7d88de9fdde96a50c7e0a12514111c4c6dceff",
+      "id": "965234175aeb",
+      "priority": 1,
+      "group": "42eac37c70cd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дом",
+      "meaningInSourceLanguage": "房子",
+      "id": "fa362e539842",
+      "priority": 0,
+      "group": "68fa51c363f5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дом"
+      ],
+      "phrase": [
+        {
+          "word": "房子",
+          "definition": "дом"
+        }
+      ],
+      "id": "7b9c2a8527eb",
+      "priority": 1,
+      "group": "68fa51c363f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дом",
+      "meaning": "房子",
+      "audio": "b0269cfb0d93b3f1e5b4f6aaa23d61ef0cddebb0435200c5e801ec2cd05f3d72",
+      "id": "74dc95761b05",
+      "priority": 1,
+      "group": "68fa51c363f5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дверь",
+      "meaningInSourceLanguage": "门",
+      "id": "cdc038dd206a",
+      "priority": 0,
+      "group": "ad8bfb804427"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дверь"
+      ],
+      "phrase": [
+        {
+          "word": "门",
+          "definition": "дверь"
+        }
+      ],
+      "id": "5502803c0eff",
+      "priority": 1,
+      "group": "ad8bfb804427"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дверь",
+      "meaning": "门",
+      "audio": "6a01cee4676da6d84eb0d56d83f3417b2479baeb9c30a4d26c180bea4f0d77f5",
+      "id": "a34fc9c1a546",
+      "priority": 1,
+      "group": "ad8bfb804427"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "окно",
+      "meaningInSourceLanguage": "窗户",
+      "id": "063ba5a25bad",
+      "priority": 0,
+      "group": "71378e8d5c5b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "окно"
+      ],
+      "phrase": [
+        {
+          "word": "窗户",
+          "definition": "окно"
+        }
+      ],
+      "id": "f7c560fac41a",
+      "priority": 1,
+      "group": "71378e8d5c5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "окно",
+      "meaning": "窗户",
+      "audio": "1f704b4ace93635e7bcfbaaa03a5d7bbd5e93be06f75ed89c18bd391d136f8fb",
+      "id": "0899c8f9ccd0",
+      "priority": 1,
+      "group": "71378e8d5c5b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кухня",
+      "meaningInSourceLanguage": "厨房",
+      "id": "300f9ccb7dae",
+      "priority": 0,
+      "group": "f497f5d41f49"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кухня"
+      ],
+      "phrase": [
+        {
+          "word": "厨房",
+          "definition": "кухня"
+        }
+      ],
+      "id": "552134657436",
+      "priority": 1,
+      "group": "f497f5d41f49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кухня",
+      "meaning": "厨房",
+      "audio": "2bc4171e87bd0fe0f00310a4384f233c607994aaf064d9c63a4a1feca9568abb",
+      "id": "da8a152fecf0",
+      "priority": 1,
+      "group": "f497f5d41f49"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "спальня",
+      "meaningInSourceLanguage": "卧室",
+      "id": "861e4d76e47f",
+      "priority": 0,
+      "group": "8939aae34ef1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "спальня"
+      ],
+      "phrase": [
+        {
+          "word": "卧室",
+          "definition": "спальня"
+        }
+      ],
+      "id": "cca33bf3d66d",
+      "priority": 1,
+      "group": "8939aae34ef1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "спальня",
+      "meaning": "卧室",
+      "audio": "f9c61795f7479dca2173a184b65bd04e5dda50717ebd64592482d14b6389413b",
+      "id": "0521576edc40",
+      "priority": 1,
+      "group": "8939aae34ef1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сад",
+      "meaningInSourceLanguage": "花园",
+      "id": "81f11635de2c",
+      "priority": 0,
+      "group": "968a52783d5c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сад"
+      ],
+      "phrase": [
+        {
+          "word": "花园",
+          "definition": "сад"
+        }
+      ],
+      "id": "3d2a10d15378",
+      "priority": 1,
+      "group": "968a52783d5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сад",
+      "meaning": "花园",
+      "audio": "f2cd9d5206bf939dcf95598de2d860aa8b256f003d6d3a58dde52fcac1611418",
+      "id": "510c992382bd",
+      "priority": 1,
+      "group": "968a52783d5c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "гараж",
+      "meaningInSourceLanguage": "车库",
+      "id": "cd2ec97cf307",
+      "priority": 0,
+      "group": "ade7787c26ee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "гараж"
+      ],
+      "phrase": [
+        {
+          "word": "车库",
+          "definition": "гараж"
+        }
+      ],
+      "id": "13f0e01cafeb",
+      "priority": 1,
+      "group": "ade7787c26ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "гараж",
+      "meaning": "车库",
+      "audio": "fe2c214b52aba03527f3dd61f13eb39575c06cd5e3f53083fddf759f2ee83e47",
+      "id": "ea22d26f0454",
+      "priority": 1,
+      "group": "ade7787c26ee"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "лестница",
+      "meaningInSourceLanguage": "楼梯",
+      "id": "c080ceb2be91",
+      "priority": 0,
+      "group": "a73e01385231"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "лестница"
+      ],
+      "phrase": [
+        {
+          "word": "楼梯",
+          "definition": "лестница"
+        }
+      ],
+      "id": "cb4d5c0856ea",
+      "priority": 1,
+      "group": "a73e01385231"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "лестница",
+      "meaning": "楼梯",
+      "audio": "d9723b98ae3d49e2f2a023d5170fc1cc4e481aa7fee6ebadcfaeced19d9add63",
+      "id": "89db6b62f201",
+      "priority": 1,
+      "group": "a73e01385231"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "двор",
+      "meaningInSourceLanguage": "院子",
+      "id": "06f083e6e79b",
+      "priority": 0,
+      "group": "465023432f79"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "двор"
+      ],
+      "phrase": [
+        {
+          "word": "院子",
+          "definition": "двор"
+        }
+      ],
+      "id": "5bdf526626b6",
+      "priority": 1,
+      "group": "465023432f79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "двор",
+      "meaning": "院子",
+      "audio": "e529c8200de08151b5fa3c5bab5b9e795bcf887eb14b839934c59c9fc1c0febe",
+      "id": "5ddc3cdad909",
+      "priority": 1,
+      "group": "465023432f79"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "крыша",
+      "meaningInSourceLanguage": "屋顶",
+      "id": "ff57f56606f6",
+      "priority": 0,
+      "group": "6d373be2068c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "крыша"
+      ],
+      "phrase": [
+        {
+          "word": "屋顶",
+          "definition": "крыша"
+        }
+      ],
+      "id": "9061fd523acb",
+      "priority": 1,
+      "group": "6d373be2068c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "крыша",
+      "meaning": "屋顶",
+      "audio": "e60d20af4d34b5dcfd14bed96a2f8fdcba1b20a89993d8a86d095ab3f80deb76",
+      "id": "e6a9e73b9630",
+      "priority": 1,
+      "group": "6d373be2068c"
+    }
+  ]
+}

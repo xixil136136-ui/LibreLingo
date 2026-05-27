@@ -1,0 +1,975 @@
+{
+  "id": "ea949540b02d",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "common law",
+      "meaningInSourceLanguage": "普通法",
+      "id": "bd313febfd79",
+      "priority": 0,
+      "group": "bdccdb901566"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "common law",
+      "meaning": "普通法",
+      "audio": "dd196fbe1b57433fb3f4c120d9e59217",
+      "id": "01dc323dacad",
+      "priority": 1,
+      "group": "bdccdb901566"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "statutory interpretation",
+      "meaningInSourceLanguage": "法律解释",
+      "id": "9bf42b4f6716",
+      "priority": 0,
+      "group": "e1c45b7a2b72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "statutory interpretation",
+      "meaning": "法律解释",
+      "audio": "4e87a98c0b4a4041b155046ffdd8be6a",
+      "id": "49a3a8e0d472",
+      "priority": 1,
+      "group": "e1c45b7a2b72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plain meaning rule",
+      "meaningInSourceLanguage": "平义规则",
+      "id": "91ecb751da9a",
+      "priority": 0,
+      "group": "fbdb531bb901"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plain meaning rule",
+      "meaning": "平义规则",
+      "audio": "210746f127454ec8a0381aab8d9e9ec3",
+      "id": "60d640188061",
+      "priority": 1,
+      "group": "fbdb531bb901"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legislative history",
+      "meaningInSourceLanguage": "立法历史",
+      "id": "c050254ef95d",
+      "priority": 0,
+      "group": "6a5ebc4a263a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legislative history",
+      "meaning": "立法历史",
+      "audio": "ca02c7c1963b4d4b8dfe418dcdf96ba6",
+      "id": "efdfb8fb40a3",
+      "priority": 1,
+      "group": "6a5ebc4a263a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "canons of construction",
+      "meaningInSourceLanguage": "解释准则",
+      "id": "4654e5d4363d",
+      "priority": 0,
+      "group": "afe84f73d77c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "canons of construction",
+      "meaning": "解释准则",
+      "audio": "188e4c0e58f842d3be19a810d079a744",
+      "id": "4652d292416c",
+      "priority": 1,
+      "group": "afe84f73d77c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ejusdem generis",
+      "meaningInSourceLanguage": "同类原则",
+      "id": "cae950438bb9",
+      "priority": 0,
+      "group": "89895f8f95e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ejusdem generis",
+      "meaning": "同类原则",
+      "audio": "d8ab1be45e6b4134a477749deda8df4a",
+      "id": "8d8b1ea01921",
+      "priority": 1,
+      "group": "89895f8f95e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "expressio unius",
+      "meaningInSourceLanguage": "明示其一原则",
+      "id": "8a47a18afd25",
+      "priority": 0,
+      "group": "042aa69b80fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "expressio unius",
+      "meaning": "明示其一原则",
+      "audio": "d8869e67fc974893977e729cb8e1bf15",
+      "id": "cfdb38e00670",
+      "priority": 1,
+      "group": "042aa69b80fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "noscitur a sociis",
+      "meaningInSourceLanguage": "文义关联",
+      "id": "d381db5d2ca7",
+      "priority": 0,
+      "group": "4a4dc04898b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "noscitur a sociis",
+      "meaning": "文义关联",
+      "audio": "84a84a564aff46b8b83de940350c3f99",
+      "id": "a2e65efaa02a",
+      "priority": 1,
+      "group": "4a4dc04898b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legal ethics",
+      "meaningInSourceLanguage": "法律道德",
+      "id": "f6f408efb243",
+      "priority": 0,
+      "group": "c8594c393b39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legal ethics",
+      "meaning": "法律道德",
+      "audio": "66905a8bf08346268368f52195d3790f",
+      "id": "51096888505a",
+      "priority": 1,
+      "group": "c8594c393b39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conflict of interest",
+      "meaningInSourceLanguage": "利益冲突",
+      "id": "f90c1451ebf9",
+      "priority": 0,
+      "group": "f71935e8e5e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conflict of interest",
+      "meaning": "利益冲突",
+      "audio": "e0ba09ea0ca24750a4c8a3ea21772c49",
+      "id": "a17cc3b9d4f4",
+      "priority": 1,
+      "group": "f71935e8e5e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "professional conduct",
+      "meaningInSourceLanguage": "职业行为",
+      "id": "8d782a403fa7",
+      "priority": 0,
+      "group": "64e8c9fc7a24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "professional conduct",
+      "meaning": "职业行为",
+      "audio": "119a3bf407634d7a845fb929e20b1caa",
+      "id": "1e483de78271",
+      "priority": 1,
+      "group": "64e8c9fc7a24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "malpractice",
+      "meaningInSourceLanguage": "渎职",
+      "id": "bc210e9672f5",
+      "priority": 0,
+      "group": "c421ec663c40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "malpractice",
+      "meaning": "渎职",
+      "audio": "704f033111244e8ab086969ab9d9c573",
+      "id": "d6a798cc4ad1",
+      "priority": 1,
+      "group": "c421ec663c40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "disbarment",
+      "meaningInSourceLanguage": "取消律师资格",
+      "id": "3cf2542acf3f",
+      "priority": 0,
+      "group": "bfbd4e09570c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "disbarment",
+      "meaning": "取消律师资格",
+      "audio": "075ae2f2b40e4820a2d08512d6f38fe2",
+      "id": "3e7455fab0d8",
+      "priority": 1,
+      "group": "bfbd4e09570c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suspension",
+      "meaningInSourceLanguage": "暂停执业",
+      "id": "46ae4313409c",
+      "priority": 0,
+      "group": "89748a261f7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suspension",
+      "meaning": "暂停执业",
+      "audio": "36048b4cfb054c9f9c3215bb3d562e73",
+      "id": "635043583c3f",
+      "priority": 1,
+      "group": "89748a261f7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pro bono",
+      "meaningInSourceLanguage": "公益法律服务",
+      "id": "93145e0a7a9d",
+      "priority": 0,
+      "group": "3e8e8dcf1a0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pro bono",
+      "meaning": "公益法律服务",
+      "audio": "3b9e034713d14dd0b18e36266c2cb8a2",
+      "id": "49a4d0e37965",
+      "priority": 1,
+      "group": "3e8e8dcf1a0d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contingency fee",
+      "meaningInSourceLanguage": "风险代理费",
+      "id": "73293d6dbfa9",
+      "priority": 0,
+      "group": "b5c9ee7725dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contingency fee",
+      "meaning": "风险代理费",
+      "audio": "1305ce9071454aecb68e13358b3d6cf8",
+      "id": "a681c46296bc",
+      "priority": 1,
+      "group": "b5c9ee7725dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hourly fee",
+      "meaningInSourceLanguage": "按小时收费",
+      "id": "66bc9172d33d",
+      "priority": 0,
+      "group": "9e34c947a541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hourly fee",
+      "meaning": "按小时收费",
+      "audio": "59b0f0f8d79f4a15849540748d97f0f8",
+      "id": "d9639f6c886e",
+      "priority": 1,
+      "group": "9e34c947a541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "retainer",
+      "meaningInSourceLanguage": "聘用费",
+      "id": "44dc873ad7f3",
+      "priority": 0,
+      "group": "a5723b59eb7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retainer",
+      "meaning": "聘用费",
+      "audio": "6a495b025b97447a91627b5f59f6d699",
+      "id": "852126622dd0",
+      "priority": 1,
+      "group": "a5723b59eb7a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legal aid",
+      "meaningInSourceLanguage": "法律援助",
+      "id": "e10dd33589b0",
+      "priority": 0,
+      "group": "5b51cf264340"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legal aid",
+      "meaning": "法律援助",
+      "audio": "703be43ded534ada85a0af90161a0c1f",
+      "id": "52400c270454",
+      "priority": 1,
+      "group": "5b51cf264340"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "public defender",
+      "meaningInSourceLanguage": "公设辩护人",
+      "id": "6c2714d5aca2",
+      "priority": 0,
+      "group": "ffb46764674f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "public defender",
+      "meaning": "公设辩护人",
+      "audio": "64f4e0656cd14feb9b7431126801b451",
+      "id": "fecd5a404d46",
+      "priority": 1,
+      "group": "ffb46764674f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Chinese legal system",
+      "meaningInSourceLanguage": "中国法律体系",
+      "id": "8dde18bf9ae7",
+      "priority": 0,
+      "group": "ee812ce1a528"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Chinese legal system",
+      "meaning": "中国法律体系",
+      "audio": "9d9f3dffb2174af698142e99d0ec74e0",
+      "id": "281d705dd4ca",
+      "priority": 1,
+      "group": "ee812ce1a528"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "socialist rule of law",
+      "meaningInSourceLanguage": "社会主义法治",
+      "id": "689f609eefb4",
+      "priority": 0,
+      "group": "248652b75976"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "socialist rule of law",
+      "meaning": "社会主义法治",
+      "audio": "e0e6c2696e9a466398dfbf270d9bdb09",
+      "id": "1fb009b5c1e1",
+      "priority": 1,
+      "group": "248652b75976"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "National People's Congress",
+      "meaningInSourceLanguage": "全国人民代表大会",
+      "id": "da18053d69f6",
+      "priority": 0,
+      "group": "b1d29ddd47d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "National People's Congress",
+      "meaning": "全国人民代表大会",
+      "audio": "4118b92ccd64493e926d7cc000d9eb02",
+      "id": "ddea4d86608f",
+      "priority": 1,
+      "group": "b1d29ddd47d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Standing Committee",
+      "meaningInSourceLanguage": "常务委员会",
+      "id": "be1715b1d589",
+      "priority": 0,
+      "group": "5ec458a66f9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Standing Committee",
+      "meaning": "常务委员会",
+      "audio": "57d8f67286824992b5155a232bf08aab",
+      "id": "d029ceee6919",
+      "priority": 1,
+      "group": "5ec458a66f9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Supreme People's Court",
+      "meaningInSourceLanguage": "最高人民法院",
+      "id": "68587d4aad4d",
+      "priority": 0,
+      "group": "cf19db19b431"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Supreme People's Court",
+      "meaning": "最高人民法院",
+      "audio": "b22e1e7913004852ba394484400f62ae",
+      "id": "777cf472c773",
+      "priority": 1,
+      "group": "cf19db19b431"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Supreme People's Procuratorate",
+      "meaningInSourceLanguage": "最高人民检察院",
+      "id": "7d19a04f8892",
+      "priority": 0,
+      "group": "d0fe82767f9d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Supreme People's Procuratorate",
+      "meaning": "最高人民检察院",
+      "audio": "8f1c5918f438428d89805d15fce87e40",
+      "id": "27d847904451",
+      "priority": 1,
+      "group": "d0fe82767f9d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "People's Court",
+      "meaningInSourceLanguage": "人民法院",
+      "id": "c0c07ebc05a3",
+      "priority": 0,
+      "group": "6c235c248749"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "People's Court",
+      "meaning": "人民法院",
+      "audio": "6dd5f7ba9a9a43b8abbef83ba88f37a6",
+      "id": "5e75ca8f8935",
+      "priority": 1,
+      "group": "6c235c248749"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "People's Procuratorate",
+      "meaningInSourceLanguage": "人民检察院",
+      "id": "89997dd8600b",
+      "priority": 0,
+      "group": "b603f2761cf5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "People's Procuratorate",
+      "meaning": "人民检察院",
+      "audio": "c958a6d0e9ad437189e20bed7504dfc8",
+      "id": "779b0551fcc8",
+      "priority": 1,
+      "group": "b603f2761cf5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "court levels",
+      "meaningInSourceLanguage": "法院级别",
+      "id": "476f4e4892ca",
+      "priority": 0,
+      "group": "9143db942d77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "court levels",
+      "meaning": "法院级别",
+      "audio": "716d8752d21446e9b3496a50c73f5492",
+      "id": "6bc01b10aa9b",
+      "priority": 1,
+      "group": "9143db942d77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "basic court",
+      "meaningInSourceLanguage": "基层人民法院",
+      "id": "8535305ccd2a",
+      "priority": 0,
+      "group": "b43d83815414"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "basic court",
+      "meaning": "基层人民法院",
+      "audio": "1a8c4e810b264181bb8b3826c7513948",
+      "id": "9d8f22ebf9e7",
+      "priority": 1,
+      "group": "b43d83815414"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "intermediate court",
+      "meaningInSourceLanguage": "中级人民法院",
+      "id": "9ef5515a210b",
+      "priority": 0,
+      "group": "7f030ba590aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "intermediate court",
+      "meaning": "中级人民法院",
+      "audio": "a14f62b6bcc64800b930c337a37fac76",
+      "id": "fd68e50bd96c",
+      "priority": 1,
+      "group": "7f030ba590aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "high court",
+      "meaningInSourceLanguage": "高级人民法院",
+      "id": "265308326311",
+      "priority": 0,
+      "group": "06f4a205937a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "high court",
+      "meaning": "高级人民法院",
+      "audio": "3d5f4127df864380be1629ccb001505b",
+      "id": "b8b9f8686f62",
+      "priority": 1,
+      "group": "06f4a205937a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "civil procedure law",
+      "meaningInSourceLanguage": "民事诉讼法",
+      "id": "4730c09ced85",
+      "priority": 0,
+      "group": "774e3d9ab664"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "civil procedure law",
+      "meaning": "民事诉讼法",
+      "audio": "6ff52ee588f743d6ae96d1977c75bc7d",
+      "id": "856fbe0531cb",
+      "priority": 1,
+      "group": "774e3d9ab664"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "criminal procedure law",
+      "meaningInSourceLanguage": "刑事诉讼法",
+      "id": "4a3bfc201fbb",
+      "priority": 0,
+      "group": "b1341a2a7159"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "criminal procedure law",
+      "meaning": "刑事诉讼法",
+      "audio": "2dbfc64a36064cf9b37726c6dab9cbc0",
+      "id": "a95782e4872f",
+      "priority": 1,
+      "group": "b1341a2a7159"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "administrative procedure law",
+      "meaningInSourceLanguage": "行政诉讼法",
+      "id": "521541eeba1b",
+      "priority": 0,
+      "group": "8fe6007f4b57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "administrative procedure law",
+      "meaning": "行政诉讼法",
+      "audio": "0ff5318572014b4dbf95fe4317e11a95",
+      "id": "2a177856ea72",
+      "priority": 1,
+      "group": "8fe6007f4b57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contract law",
+      "meaningInSourceLanguage": "合同法",
+      "id": "0a37c744e8ac",
+      "priority": 0,
+      "group": "2c33c4bac881"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contract law",
+      "meaning": "合同法",
+      "audio": "2a30ee4289f04651a7f59041d7e2b0b3",
+      "id": "18595051efec",
+      "priority": 1,
+      "group": "2c33c4bac881"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tort liability law",
+      "meaningInSourceLanguage": "侵权责任法",
+      "id": "38d5101d8091",
+      "priority": 0,
+      "group": "c5d1b9465531"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tort liability law",
+      "meaning": "侵权责任法",
+      "audio": "ec44fce692484b5a98a17a64de0f409c",
+      "id": "7383ce49d3c8",
+      "priority": 1,
+      "group": "c5d1b9465531"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "property law",
+      "meaningInSourceLanguage": "物权法",
+      "id": "a6e7b73e4561",
+      "priority": 0,
+      "group": "07f8eb8eb9bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "property law",
+      "meaning": "物权法",
+      "audio": "94822eb8780e4536b526057e9c87a108",
+      "id": "c1ae2d9d5e36",
+      "priority": 1,
+      "group": "07f8eb8eb9bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marriage law",
+      "meaningInSourceLanguage": "婚姻法",
+      "id": "1f1b1cd31109",
+      "priority": 0,
+      "group": "26c658f3814c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marriage law",
+      "meaning": "婚姻法",
+      "audio": "32c0d73a9c574581a08564c2c15cce31",
+      "id": "2251722a7e07",
+      "priority": 1,
+      "group": "26c658f3814c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "labor law",
+      "meaningInSourceLanguage": "劳动法",
+      "id": "cce9db7be67d",
+      "priority": 0,
+      "group": "25a47719e0a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "labor law",
+      "meaning": "劳动法",
+      "audio": "460f4139de10463ba22bbccc148db763",
+      "id": "bdcad1368bc3",
+      "priority": 1,
+      "group": "25a47719e0a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "company law",
+      "meaningInSourceLanguage": "公司法",
+      "id": "7b121630e352",
+      "priority": 0,
+      "group": "82de08e612d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "company law",
+      "meaning": "公司法",
+      "audio": "11395a27115d43fb83ff1a4fd9c6f218",
+      "id": "1b174807ef63",
+      "priority": 1,
+      "group": "82de08e612d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "securities law",
+      "meaningInSourceLanguage": "证券法",
+      "id": "184b22236705",
+      "priority": 0,
+      "group": "2ceae805ad17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "securities law",
+      "meaning": "证券法",
+      "audio": "c1e30fb7786344dab7fd277cc9a22ccc",
+      "id": "ab80d3b336bb",
+      "priority": 1,
+      "group": "2ceae805ad17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bankruptcy law",
+      "meaningInSourceLanguage": "企业破产法",
+      "id": "c22ac0221b11",
+      "priority": 0,
+      "group": "823e9d4025a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bankruptcy law",
+      "meaning": "企业破产法",
+      "audio": "0b647a7fa529468fbb5e101c5cbf848d",
+      "id": "9bcd5b85347c",
+      "priority": 1,
+      "group": "823e9d4025a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anti-monopoly law",
+      "meaningInSourceLanguage": "反垄断法",
+      "id": "bd9411d93ce9",
+      "priority": 0,
+      "group": "8a6ec8801871"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anti-monopoly law",
+      "meaning": "反垄断法",
+      "audio": "29ea8f610ead4a16bd0030790649e1e6",
+      "id": "ec5ce19479b5",
+      "priority": 1,
+      "group": "8a6ec8801871"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "foreign investment law",
+      "meaningInSourceLanguage": "外商投资法",
+      "id": "71ad6712057d",
+      "priority": 0,
+      "group": "c72ab5bf20d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "foreign investment law",
+      "meaning": "外商投资法",
+      "audio": "671b1940b6dc44e8ac8a108eec7b0899",
+      "id": "21f1979bf237",
+      "priority": 1,
+      "group": "c72ab5bf20d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "e-commerce law",
+      "meaningInSourceLanguage": "电子商务法",
+      "id": "0bce9d462b33",
+      "priority": 0,
+      "group": "b94da3ab86d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "e-commerce law",
+      "meaning": "电子商务法",
+      "audio": "22706525c3bc4543b63e806956ea7df0",
+      "id": "17c62ab3fefd",
+      "priority": 1,
+      "group": "b94da3ab86d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cybersecurity law",
+      "meaningInSourceLanguage": "网络安全法",
+      "id": "7fd6ec684c12",
+      "priority": 0,
+      "group": "6bb876b0364b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cybersecurity law",
+      "meaning": "网络安全法",
+      "audio": "610ac54ddc60446ab3d9460cba3eecc3",
+      "id": "d2b28ddfde99",
+      "priority": 1,
+      "group": "6bb876b0364b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "data security law",
+      "meaningInSourceLanguage": "数据安全法",
+      "id": "db4469bd4900",
+      "priority": 0,
+      "group": "e1c8e94646f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "data security law",
+      "meaning": "数据安全法",
+      "audio": "e2acbde0acc040d6afd3747996626ba6",
+      "id": "dabc89d2f8d0",
+      "priority": 1,
+      "group": "e1c8e94646f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "personal information protection law",
+      "meaningInSourceLanguage": "个人信息保护法",
+      "id": "7b6abeed537b",
+      "priority": 0,
+      "group": "f0d3f6ad1584"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "personal information protection law",
+      "meaning": "个人信息保护法",
+      "audio": "cf0ffcd90bc84e819d006517567ead52",
+      "id": "99146dabdbb0",
+      "priority": 1,
+      "group": "f0d3f6ad1584"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "copyright law",
+      "meaningInSourceLanguage": "著作权法",
+      "id": "ad8655b7afcc",
+      "priority": 0,
+      "group": "9cf2391b3c4d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "copyright law",
+      "meaning": "著作权法",
+      "audio": "5ee3e97d3feb4dfd98c7fa92314713cb",
+      "id": "4a77fc9e2b95",
+      "priority": 1,
+      "group": "9cf2391b3c4d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "patent law",
+      "meaningInSourceLanguage": "专利法",
+      "id": "8d690ec65dfa",
+      "priority": 0,
+      "group": "19c199960ddc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "patent law",
+      "meaning": "专利法",
+      "audio": "0a447536fa42464ca323766d51741d60",
+      "id": "c79ea7b3a7cd",
+      "priority": 1,
+      "group": "19c199960ddc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trademark law",
+      "meaningInSourceLanguage": "商标法",
+      "id": "cb857014aae7",
+      "priority": 0,
+      "group": "b7562efc265f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trademark law",
+      "meaning": "商标法",
+      "audio": "5769a4977dad40918ffc86af286224d7",
+      "id": "b5feec8e41ea",
+      "priority": 1,
+      "group": "b7562efc265f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anti-unfair competition law",
+      "meaningInSourceLanguage": "反不正当竞争法",
+      "id": "aa9c29d830cc",
+      "priority": 0,
+      "group": "c62f43886d8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anti-unfair competition law",
+      "meaning": "反不正当竞争法",
+      "audio": "157ef24b92bd4018ad81ac4157c8c695",
+      "id": "ffee42800b5c",
+      "priority": 1,
+      "group": "c62f43886d8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "consumer protection law",
+      "meaningInSourceLanguage": "消费者权益保护法",
+      "id": "8ae646310e57",
+      "priority": 0,
+      "group": "46b018606746"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "consumer protection law",
+      "meaning": "消费者权益保护法",
+      "audio": "f354cb338c4940cb9be929df17d10257",
+      "id": "2c489f8fa668",
+      "priority": 1,
+      "group": "46b018606746"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "product quality law",
+      "meaningInSourceLanguage": "产品质量法",
+      "id": "c604b413b868",
+      "priority": 0,
+      "group": "55eeda53de48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "product quality law",
+      "meaning": "产品质量法",
+      "audio": "c1ca0bad14e14f0b840a4bfc2dc232b4",
+      "id": "e4a31562be33",
+      "priority": 1,
+      "group": "55eeda53de48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "food safety law",
+      "meaningInSourceLanguage": "食品安全法",
+      "id": "8085f7520e6b",
+      "priority": 0,
+      "group": "991e166f9c13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "food safety law",
+      "meaning": "食品安全法",
+      "audio": "02fde99b91f6461f94e3db2e7571a5a9",
+      "id": "ab49d9f26e56",
+      "priority": 1,
+      "group": "991e166f9c13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "environmental protection law",
+      "meaningInSourceLanguage": "环境保护法",
+      "id": "e6472f1674ba",
+      "priority": 0,
+      "group": "c5ad7941b0e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "environmental protection law",
+      "meaning": "环境保护法",
+      "audio": "fcd2b91efcc242cab776f4a21ba10a76",
+      "id": "ae9236efe027",
+      "priority": 1,
+      "group": "c5ad7941b0e5"
+    }
+  ]
+}

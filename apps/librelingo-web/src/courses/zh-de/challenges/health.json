@@ -1,0 +1,465 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich brauche einen Arzt.",
+      "meaningInSourceLanguage": "我需要医生。",
+      "id": "68b3114f7e84",
+      "priority": 0,
+      "group": "53dc387682d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich brauche einen Arzt.",
+      "meaning": "我需要医生。",
+      "audio": "39be52e42ed6eccc7de6da4c8ae5cd141f0faf0b742155294a73827b580cfacd",
+      "id": "5699bc358ee3",
+      "priority": 1,
+      "group": "53dc387682d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wo ist das Krankenhaus?",
+      "meaningInSourceLanguage": "医院在哪里？",
+      "id": "977de6f6b11b",
+      "priority": 0,
+      "group": "d2a5b6179b53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wo ist das Krankenhaus?",
+      "meaning": "医院在哪里？",
+      "audio": "8835cb093867d4aa59786f5de4788d7e9624d0f0d4e178eaee62bc73532c1fa5",
+      "id": "d0e05e4d6e39",
+      "priority": 1,
+      "group": "d2a5b6179b53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich habe Kopfschmerzen.",
+      "meaningInSourceLanguage": "我头痛。",
+      "id": "5bc276575e76",
+      "priority": 0,
+      "group": "646d782fec57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich habe Kopfschmerzen.",
+      "meaning": "我头痛。",
+      "audio": "c0360721846691216acec5c2600492ec987ae0840a5a465a03f2a777322ea5e4",
+      "id": "a66bcff25cf6",
+      "priority": 1,
+      "group": "646d782fec57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich habe Fieber.",
+      "meaningInSourceLanguage": "我发烧了。",
+      "id": "a058334b9fb3",
+      "priority": 0,
+      "group": "503a6467d62d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich habe Fieber.",
+      "meaning": "我发烧了。",
+      "audio": "fe27027f869cca76abce8bab760a45ac511b362c6ac95386eebed135af00cfff",
+      "id": "ee9e581a9452",
+      "priority": 1,
+      "group": "503a6467d62d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nimm diese Medizin.",
+      "meaningInSourceLanguage": "吃这个药。",
+      "id": "284ef63760a5",
+      "priority": 0,
+      "group": "6f1a0479ef3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nimm diese Medizin.",
+      "meaning": "吃这个药。",
+      "audio": "763a0a6b1f6d04090866a0f165ba91671d836c6b3f0630562e536baaf2949998",
+      "id": "20f01d231d3a",
+      "priority": 1,
+      "group": "6f1a0479ef3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Du brauchst Ruhe.",
+      "meaningInSourceLanguage": "你需要休息。",
+      "id": "07863bf57579",
+      "priority": 0,
+      "group": "2666436f1571"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Du brauchst Ruhe.",
+      "meaning": "你需要休息。",
+      "audio": "7a4f03456d7081bf10a81bc662406bd4651e0063137aba5f633dec2dc03a1d79",
+      "id": "c7f876ca74b4",
+      "priority": 1,
+      "group": "2666436f1571"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich habe Bauchschmerzen.",
+      "meaningInSourceLanguage": "我肚子痛。",
+      "id": "6c711bb9ccf4",
+      "priority": 0,
+      "group": "fdd7f09196b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich habe Bauchschmerzen.",
+      "meaning": "我肚子痛。",
+      "audio": "a0a6ce0a1120e2263415ed9880c7bc54ac2e8c523d21c042dc1ee2ce1b73895d",
+      "id": "8425c5665416",
+      "priority": 1,
+      "group": "fdd7f09196b0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Arzt",
+      "meaningInSourceLanguage": "医生",
+      "id": "c2067972f8fd",
+      "priority": 0,
+      "group": "2fb767dc3388"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Arzt"
+      ],
+      "phrase": [
+        {
+          "word": "医生",
+          "definition": "Arzt"
+        }
+      ],
+      "id": "73856ddce207",
+      "priority": 1,
+      "group": "2fb767dc3388"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Arzt",
+      "meaning": "医生",
+      "audio": "bd92e78ea8314b319e2f6976f1aa66f22962adc9d3f7286a6be0ee70dabba9c0",
+      "id": "f8f0988b3f24",
+      "priority": 1,
+      "group": "2fb767dc3388"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Krankenhaus",
+      "meaningInSourceLanguage": "医院",
+      "id": "ed10ae73703d",
+      "priority": 0,
+      "group": "d72eef5b85da"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Krankenhaus"
+      ],
+      "phrase": [
+        {
+          "word": "医院",
+          "definition": "Krankenhaus"
+        }
+      ],
+      "id": "41178d66870a",
+      "priority": 1,
+      "group": "d72eef5b85da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Krankenhaus",
+      "meaning": "医院",
+      "audio": "3aba3d53d52a47b90275239dfcced7d4f849a6ed09a0644ce176b7596087aa5f",
+      "id": "af67741d08eb",
+      "priority": 1,
+      "group": "d72eef5b85da"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Medizin",
+      "meaningInSourceLanguage": "药",
+      "id": "e1c5ba4d1a20",
+      "priority": 0,
+      "group": "50b9fc23cc35"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Medizin"
+      ],
+      "phrase": [
+        {
+          "word": "药",
+          "definition": "Medizin"
+        }
+      ],
+      "id": "ba7ac1032421",
+      "priority": 1,
+      "group": "50b9fc23cc35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Medizin",
+      "meaning": "药",
+      "audio": "af2a83e3f2b0042b57a9c3580f47041f2816725134efa5c9c51a39e48d1525cd",
+      "id": "87c66f28b918",
+      "priority": 1,
+      "group": "50b9fc23cc35"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Kopfschmerzen",
+      "meaningInSourceLanguage": "头痛",
+      "id": "0839c7f38405",
+      "priority": 0,
+      "group": "8c4c2985693d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Kopfschmerzen"
+      ],
+      "phrase": [
+        {
+          "word": "头痛",
+          "definition": "Kopfschmerzen"
+        }
+      ],
+      "id": "872119dfc725",
+      "priority": 1,
+      "group": "8c4c2985693d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kopfschmerzen",
+      "meaning": "头痛",
+      "audio": "5c62441ef5acc094caf3c133e3256718502488fb3cc5a6af50e3dbbd2ccf95d9",
+      "id": "8dd768427642",
+      "priority": 1,
+      "group": "8c4c2985693d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Fieber",
+      "meaningInSourceLanguage": "发烧",
+      "id": "dba521bc1b18",
+      "priority": 0,
+      "group": "86e5677b8db4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Fieber"
+      ],
+      "phrase": [
+        {
+          "word": "发烧",
+          "definition": "Fieber"
+        }
+      ],
+      "id": "0d0f2923532c",
+      "priority": 1,
+      "group": "86e5677b8db4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Fieber",
+      "meaning": "发烧",
+      "audio": "d9d42a23ba50912cbdd41461d77caefd85e21c8a7d13ead2250859c27c1b0511",
+      "id": "067f457d3533",
+      "priority": 1,
+      "group": "86e5677b8db4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Husten",
+      "meaningInSourceLanguage": "咳嗽",
+      "id": "2a2cd7710fa0",
+      "priority": 0,
+      "group": "2d8add9696b5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Husten"
+      ],
+      "phrase": [
+        {
+          "word": "咳嗽",
+          "definition": "Husten"
+        }
+      ],
+      "id": "365676b45403",
+      "priority": 1,
+      "group": "2d8add9696b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Husten",
+      "meaning": "咳嗽",
+      "audio": "5bc6debe185b7422b2eb7ac5026a43ab5ae35bf18bd23e0d91f70f67750db657",
+      "id": "dbdbfde9ca66",
+      "priority": 1,
+      "group": "2d8add9696b5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Schmerz",
+      "meaningInSourceLanguage": "疼痛",
+      "id": "3a320ee48f83",
+      "priority": 0,
+      "group": "55da7e790abc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Schmerz"
+      ],
+      "phrase": [
+        {
+          "word": "疼痛",
+          "definition": "Schmerz"
+        }
+      ],
+      "id": "f829c47343ba",
+      "priority": 1,
+      "group": "55da7e790abc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Schmerz",
+      "meaning": "疼痛",
+      "audio": "8444f1c3ba76c80222d9e6514c6fd615176a00a19e1c052c3cb5b9a928179fee",
+      "id": "d3af8fc2a533",
+      "priority": 1,
+      "group": "55da7e790abc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Apotheke",
+      "meaningInSourceLanguage": "药店",
+      "id": "1a7f30a3bf0b",
+      "priority": 0,
+      "group": "50a1d9c9d082"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Apotheke"
+      ],
+      "phrase": [
+        {
+          "word": "药店",
+          "definition": "Apotheke"
+        }
+      ],
+      "id": "8a49a2e3b689",
+      "priority": 1,
+      "group": "50a1d9c9d082"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Apotheke",
+      "meaning": "药店",
+      "audio": "2730b7f01df5245edff43c4ede3cfeb1e4bafb708c87857f7936c89467984a32",
+      "id": "66d0b96694ef",
+      "priority": 1,
+      "group": "50a1d9c9d082"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Ruhe",
+      "meaningInSourceLanguage": "休息",
+      "id": "f8c4325b39fb",
+      "priority": 0,
+      "group": "7f6c3d7eb137"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Ruhe"
+      ],
+      "phrase": [
+        {
+          "word": "休息",
+          "definition": "Ruhe"
+        }
+      ],
+      "id": "85778b8f25c1",
+      "priority": 1,
+      "group": "7f6c3d7eb137"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ruhe",
+      "meaning": "休息",
+      "audio": "910a389bd5a66bcd3b377ea665d294b4d9299a983a284ffbe43d5e3c10a8b101",
+      "id": "e4d27e3cbe73",
+      "priority": 1,
+      "group": "7f6c3d7eb137"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Bauchschmerzen",
+      "meaningInSourceLanguage": "肚子痛",
+      "id": "6ac7ee94305f",
+      "priority": 0,
+      "group": "366baf240734"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Bauchschmerzen"
+      ],
+      "phrase": [
+        {
+          "word": "肚子痛",
+          "definition": "Bauchschmerzen"
+        }
+      ],
+      "id": "57bfe6e30c4f",
+      "priority": 1,
+      "group": "366baf240734"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bauchschmerzen",
+      "meaning": "肚子痛",
+      "audio": "8b9f0c054230ee16218a156ca8aab13b3d1151ae5538fa63f1e0e25b918d25b6",
+      "id": "9e319cb39816",
+      "priority": 1,
+      "group": "366baf240734"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "id": "e2add491fa9f",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "movie",
+      "meaningInSourceLanguage": "电影",
+      "id": "a30d92aaf73f",
+      "priority": 0,
+      "group": "94480f0ac421"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "movie",
+      "meaning": "电影",
+      "audio": "4ecc44c4f4ab46ce85219ebdc6ce6856",
+      "id": "10875522f0fa",
+      "priority": 1,
+      "group": "94480f0ac421"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "film",
+      "meaningInSourceLanguage": "电影",
+      "id": "48cc038f1156",
+      "priority": 0,
+      "group": "1cf548bdaf45"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "film",
+      "meaning": "电影",
+      "audio": "a8171967f1fc41e583b5c51b3b884c44",
+      "id": "9a5c3a3a34a4",
+      "priority": 1,
+      "group": "1cf548bdaf45"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cinema",
+      "meaningInSourceLanguage": "电影院",
+      "id": "f155d5fac971",
+      "priority": 0,
+      "group": "02f29a93f448"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cinema",
+      "meaning": "电影院",
+      "audio": "89fb13fc4f8d4f2db802d9a6178bbff1",
+      "id": "ec020d32fcfc",
+      "priority": 1,
+      "group": "02f29a93f448"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "actor",
+      "meaningInSourceLanguage": "演员",
+      "id": "343c719765b2",
+      "priority": 0,
+      "group": "1d645749487b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "actor",
+      "meaning": "演员",
+      "audio": "143aa36636bb4e4ab37e656ee4653c7d",
+      "id": "71d217564930",
+      "priority": 1,
+      "group": "1d645749487b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "actress",
+      "meaningInSourceLanguage": "女演员",
+      "id": "1b5f11953ac6",
+      "priority": 0,
+      "group": "9ffc1fab0423"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "actress",
+      "meaning": "女演员",
+      "audio": "336550212f1d4846be256bca69bb9718",
+      "id": "66a2984a63d0",
+      "priority": 1,
+      "group": "9ffc1fab0423"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "director",
+      "meaningInSourceLanguage": "导演",
+      "id": "c41d975f6f5e",
+      "priority": 0,
+      "group": "98b96361f107"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "director",
+      "meaning": "导演",
+      "audio": "3944960cb8f84ddf8a4629662aa3b0aa",
+      "id": "83fc8348c1a9",
+      "priority": 1,
+      "group": "98b96361f107"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "producer",
+      "meaningInSourceLanguage": "制片人",
+      "id": "5c2221208ca7",
+      "priority": 0,
+      "group": "afb42248ae79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "producer",
+      "meaning": "制片人",
+      "audio": "53703f17f6514a80a4477de73b58cf8a",
+      "id": "68824b200c11",
+      "priority": 1,
+      "group": "afb42248ae79"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "screenplay",
+      "meaningInSourceLanguage": "剧本",
+      "id": "b9454dbd7309",
+      "priority": 0,
+      "group": "2ec750222a30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "screenplay",
+      "meaning": "剧本",
+      "audio": "18858f976fc340ae99d21b04edd23cd2",
+      "id": "c28add7fd591",
+      "priority": 1,
+      "group": "2ec750222a30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "genre",
+      "meaningInSourceLanguage": "类型",
+      "id": "d8dde55b72cc",
+      "priority": 0,
+      "group": "30ff05d449a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "genre",
+      "meaning": "类型",
+      "audio": "1b73a6fdaa6347b29565a0ca0190271a",
+      "id": "3d0541164290",
+      "priority": 1,
+      "group": "30ff05d449a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comedy",
+      "meaningInSourceLanguage": "喜剧",
+      "id": "a2ee13b2ffdb",
+      "priority": 0,
+      "group": "2eb9d2e6b428"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comedy",
+      "meaning": "喜剧",
+      "audio": "8ef6c46ea23644dfaeba0e2b738b847e",
+      "id": "db0944d6ef7e",
+      "priority": 1,
+      "group": "2eb9d2e6b428"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drama",
+      "meaningInSourceLanguage": "剧情片",
+      "id": "541d78143940",
+      "priority": 0,
+      "group": "36d7a1310601"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drama",
+      "meaning": "剧情片",
+      "audio": "cb70ec0ee57b4c63bf247094e806cf2c",
+      "id": "affbcae3f696",
+      "priority": 1,
+      "group": "36d7a1310601"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "horror",
+      "meaningInSourceLanguage": "恐怖片",
+      "id": "6d0beb4535d7",
+      "priority": 0,
+      "group": "98f6b3de5b84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "horror",
+      "meaning": "恐怖片",
+      "audio": "73f61842299642919d44ea5347134af2",
+      "id": "8fb5c1736196",
+      "priority": 1,
+      "group": "98f6b3de5b84"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thriller",
+      "meaningInSourceLanguage": "惊悚片",
+      "id": "a0b03294f830",
+      "priority": 0,
+      "group": "1c2a9fb695ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thriller",
+      "meaning": "惊悚片",
+      "audio": "5a709f7bf8a54ec6942020dfc4620533",
+      "id": "2058e30c987f",
+      "priority": 1,
+      "group": "1c2a9fb695ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "action",
+      "meaningInSourceLanguage": "动作片",
+      "id": "e69ed3b192fb",
+      "priority": 0,
+      "group": "b9e5cf517952"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "action",
+      "meaning": "动作片",
+      "audio": "ef5ab68ea1d2499a9881277a9630f4f3",
+      "id": "fcae9b0698bb",
+      "priority": 1,
+      "group": "b9e5cf517952"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "romance",
+      "meaningInSourceLanguage": "爱情片",
+      "id": "500ff7834ddc",
+      "priority": 0,
+      "group": "c885014954e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "romance",
+      "meaning": "爱情片",
+      "audio": "db1fa5763884430fa71ec73d68f07097",
+      "id": "8044d31bd232",
+      "priority": 1,
+      "group": "c885014954e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sci-fi",
+      "meaningInSourceLanguage": "科幻片",
+      "id": "9202d7bc28d3",
+      "priority": 0,
+      "group": "864430e38962"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sci-fi",
+      "meaning": "科幻片",
+      "audio": "d0d1969eafda4005b40aff5e4b0461aa",
+      "id": "1d6653c27296",
+      "priority": 1,
+      "group": "864430e38962"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "documentary",
+      "meaningInSourceLanguage": "纪录片",
+      "id": "b77e4df396f7",
+      "priority": 0,
+      "group": "7e5e614af741"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "documentary",
+      "meaning": "纪录片",
+      "audio": "8fb84c4db9b741ceab82aadb46b6ab2f",
+      "id": "638e7aa9fb7b",
+      "priority": 1,
+      "group": "7e5e614af741"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "animation",
+      "meaningInSourceLanguage": "动画片",
+      "id": "839be38c6d03",
+      "priority": 0,
+      "group": "385da9debe1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "animation",
+      "meaning": "动画片",
+      "audio": "23656315a00b4e27ba34b3116bdf6729",
+      "id": "41d370f3d020",
+      "priority": 1,
+      "group": "385da9debe1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "musical",
+      "meaningInSourceLanguage": "音乐剧",
+      "id": "1b7c774c714c",
+      "priority": 0,
+      "group": "5370c5c065e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "musical",
+      "meaning": "音乐剧",
+      "audio": "bde82d7b71de4de7b1a85837dc78a965",
+      "id": "67ba36ac702d",
+      "priority": 1,
+      "group": "5370c5c065e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "series",
+      "meaningInSourceLanguage": "连续剧",
+      "id": "7363b540748e",
+      "priority": 0,
+      "group": "775d916abb19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "series",
+      "meaning": "连续剧",
+      "audio": "c33e848aa9e64a43a9a93c7b1c4318bc",
+      "id": "bb6b7816a0de",
+      "priority": 1,
+      "group": "775d916abb19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "episode",
+      "meaningInSourceLanguage": "剧集",
+      "id": "0d8fd7b64abf",
+      "priority": 0,
+      "group": "2adca360e407"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "episode",
+      "meaning": "剧集",
+      "audio": "96a2d585d2be439bad770bcff4bde602",
+      "id": "40deea30cdf2",
+      "priority": 1,
+      "group": "2adca360e407"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "season",
+      "meaningInSourceLanguage": "季",
+      "id": "bb439c051943",
+      "priority": 0,
+      "group": "b9e27d717c5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "season",
+      "meaning": "季",
+      "audio": "3345d55562454b42901fb7812a392c5f",
+      "id": "add20a270c68",
+      "priority": 1,
+      "group": "b9e27d717c5d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "music",
+      "meaningInSourceLanguage": "音乐",
+      "id": "dfe0d9efe4c9",
+      "priority": 0,
+      "group": "19e2ae3ee63f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "music",
+      "meaning": "音乐",
+      "audio": "bc0c758a00cf4a348d107de0f4e4d25c",
+      "id": "f6b4aa7acee5",
+      "priority": 1,
+      "group": "19e2ae3ee63f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "song",
+      "meaningInSourceLanguage": "歌曲",
+      "id": "78861a46c869",
+      "priority": 0,
+      "group": "f1519344b2cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "song",
+      "meaning": "歌曲",
+      "audio": "cabd0d099a6a4a918d5608f79edcb69e",
+      "id": "22542e099a29",
+      "priority": 1,
+      "group": "f1519344b2cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "singer",
+      "meaningInSourceLanguage": "歌手",
+      "id": "0844025537ea",
+      "priority": 0,
+      "group": "9b265c1c7a48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "singer",
+      "meaning": "歌手",
+      "audio": "73b0b2cdd1854abf8c8ed5882ba56ce0",
+      "id": "9db4cddca6ff",
+      "priority": 1,
+      "group": "9b265c1c7a48"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "band",
+      "meaningInSourceLanguage": "乐队",
+      "id": "5191219dd56c",
+      "priority": 0,
+      "group": "4fce7cf3e3cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "band",
+      "meaning": "乐队",
+      "audio": "dfdcca6c884a41a7b60cb0a47586e24e",
+      "id": "076b243252de",
+      "priority": 1,
+      "group": "4fce7cf3e3cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "concert",
+      "meaningInSourceLanguage": "演唱会",
+      "id": "d11696de6853",
+      "priority": 0,
+      "group": "6c27c64ad030"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "concert",
+      "meaning": "演唱会",
+      "audio": "9516201a3bb146b2b8659affc02db646",
+      "id": "d411f64115e7",
+      "priority": 1,
+      "group": "6c27c64ad030"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "festival",
+      "meaningInSourceLanguage": "音乐节",
+      "id": "1a69370c5b33",
+      "priority": 0,
+      "group": "e330a49ffe2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "festival",
+      "meaning": "音乐节",
+      "audio": "da87eb953f7d4aed90718336bd1cbfa4",
+      "id": "28cebeb8f702",
+      "priority": 1,
+      "group": "e330a49ffe2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "instrument",
+      "meaningInSourceLanguage": "乐器",
+      "id": "ed23c7b12ca2",
+      "priority": 0,
+      "group": "50309c86a988"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "instrument",
+      "meaning": "乐器",
+      "audio": "b1c0cb3d23014db8b76403b183eadf17",
+      "id": "59be93133e42",
+      "priority": 1,
+      "group": "50309c86a988"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guitar",
+      "meaningInSourceLanguage": "吉他",
+      "id": "067008bfb36f",
+      "priority": 0,
+      "group": "5e2701bc1ad4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guitar",
+      "meaning": "吉他",
+      "audio": "226611b16cf644f889fb9cf68747b711",
+      "id": "cc1e42a28461",
+      "priority": 1,
+      "group": "5e2701bc1ad4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "piano",
+      "meaningInSourceLanguage": "钢琴",
+      "id": "1812ba1180dd",
+      "priority": 0,
+      "group": "ed332b1a92e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "piano",
+      "meaning": "钢琴",
+      "audio": "cb7465f8b39c497a9208dc17f84612cb",
+      "id": "d8045189dda0",
+      "priority": 1,
+      "group": "ed332b1a92e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "violin",
+      "meaningInSourceLanguage": "小提琴",
+      "id": "802f0bfb4392",
+      "priority": 0,
+      "group": "96476f0e9dcf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "violin",
+      "meaning": "小提琴",
+      "audio": "23763d50d1e64fb09843dfc144476510",
+      "id": "6ab32fb522be",
+      "priority": 1,
+      "group": "96476f0e9dcf"
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันต้องการห้อง",
+      "meaningInSourceLanguage": "我需要一个房间。",
+      "id": "ca8782612a4b",
+      "priority": 0,
+      "group": "308fcfbc0616"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันต้องการห้อง",
+      "meaning": "我需要一个房间。",
+      "audio": "a45eb06ef5a3da1976b3fddc9078f1864b3407ea19cf52299a7cf5a5db61edcb",
+      "id": "ef81072d170c",
+      "priority": 1,
+      "group": "308fcfbc0616"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "คืนละเท่าไหร่",
+      "meaningInSourceLanguage": "每晚多少钱？",
+      "id": "96030d3f5755",
+      "priority": 0,
+      "group": "32b1ab23142c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "คืนละเท่าไหร่",
+      "meaning": "每晚多少钱？",
+      "audio": "193fcffd7b91b3ed88e493904674f358ced0c9d58e22e130c5f201bf1f1454a8",
+      "id": "b802c9601f04",
+      "priority": 1,
+      "group": "32b1ab23142c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ห้องน้ำอยู่ที่ไหน",
+      "meaningInSourceLanguage": "浴室在哪里？",
+      "id": "642880b0eeb6",
+      "priority": 0,
+      "group": "1de4d95bb736"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ห้องน้ำอยู่ที่ไหน",
+      "meaning": "浴室在哪里？",
+      "audio": "a225426ee774f7a52f3796929bebda1af0e18a062cc9c701f8786959d9b6aefe",
+      "id": "4d14113d6453",
+      "priority": 1,
+      "group": "1de4d95bb736"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอผ้าเช็ดตัวหน่อย",
+      "meaningInSourceLanguage": "能给我一条毛巾吗？",
+      "id": "bb04f6087b46",
+      "priority": 0,
+      "group": "b1816a896452"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอผ้าเช็ดตัวหน่อย",
+      "meaning": "能给我一条毛巾吗？",
+      "audio": "09cdf23eb5f5af1e28fbe06f131986164dc8d6af3981ddb5a15b6d0019f1dc30",
+      "id": "3a1f40994c6e",
+      "priority": 1,
+      "group": "b1816a896452"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เตียงนุ่มสบาย",
+      "meaningInSourceLanguage": "床很舒服。",
+      "id": "b939cd6f6bfb",
+      "priority": 0,
+      "group": "b113e0205552"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เตียงนุ่มสบาย",
+      "meaning": "床很舒服。",
+      "audio": "5de77e75583d7af7d0cf2b4841bb19ff69033b2d549c778fbb1710ccd1587fd0",
+      "id": "8414779c8bd8",
+      "priority": 1,
+      "group": "b113e0205552"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันเป็นแขกที่นี่",
+      "meaningInSourceLanguage": "我是这里的客人。",
+      "id": "ff1aec293522",
+      "priority": 0,
+      "group": "a5fb8dbc707c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันเป็นแขกที่นี่",
+      "meaning": "我是这里的客人。",
+      "audio": "c73dadb160598047db577ca5ac5f020ae580d20395eaa2116099abaf2edea830",
+      "id": "eb9aec478269",
+      "priority": 1,
+      "group": "a5fb8dbc707c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "แผนกต้อนรับอยู่ชั้นนี้ไหม",
+      "meaningInSourceLanguage": "前台在这一层吗？",
+      "id": "64a69496aa40",
+      "priority": 0,
+      "group": "6fd44b0d536d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แผนกต้อนรับอยู่ชั้นนี้ไหม",
+      "meaning": "前台在这一层吗？",
+      "audio": "d370929e987aac2d7575fd707226da1e7e673b4a56e619e7ae841b81ca5a243a",
+      "id": "1c313e831f9c",
+      "priority": 1,
+      "group": "6fd44b0d536d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ห้อง",
+      "meaningInSourceLanguage": "房间",
+      "id": "b6c9661a7c81",
+      "priority": 0,
+      "group": "051a4c5af02f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ห้อง"
+      ],
+      "phrase": [
+        {
+          "word": "房间",
+          "definition": "ห้อง"
+        }
+      ],
+      "id": "bbf5e72c08ce",
+      "priority": 1,
+      "group": "051a4c5af02f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ห้อง",
+      "meaning": "房间",
+      "audio": "6d862c88b884c9034b03e2d82e1fe11e79bdf590ad3cf0fd45a81172c2889c46",
+      "id": "4ab2951a2f27",
+      "priority": 1,
+      "group": "051a4c5af02f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เตียง",
+      "meaningInSourceLanguage": "床",
+      "id": "8959a22ffb4f",
+      "priority": 0,
+      "group": "14b3def89d2b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เตียง"
+      ],
+      "phrase": [
+        {
+          "word": "床",
+          "definition": "เตียง"
+        }
+      ],
+      "id": "4c4b767a52fc",
+      "priority": 1,
+      "group": "14b3def89d2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เตียง",
+      "meaning": "床",
+      "audio": "d2e17baeb91d4680caa0a027ecf544740e8ab9fdd8f5388141404d64ed3d9742",
+      "id": "fc7d9406a487",
+      "priority": 1,
+      "group": "14b3def89d2b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ฝักบัว",
+      "meaningInSourceLanguage": "淋浴",
+      "id": "e043c333f219",
+      "priority": 0,
+      "group": "6feffb643f42"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ฝักบัว"
+      ],
+      "phrase": [
+        {
+          "word": "淋浴",
+          "definition": "ฝักบัว"
+        }
+      ],
+      "id": "2af099426519",
+      "priority": 1,
+      "group": "6feffb643f42"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฝักบัว",
+      "meaning": "淋浴",
+      "audio": "c43757300ff50b3111006a592bc565cf00924cd01e3e3af93a741a6cc78bd4f7",
+      "id": "351310f4fc1b",
+      "priority": 1,
+      "group": "6feffb643f42"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ห้องน้ำ",
+      "meaningInSourceLanguage": "浴室",
+      "id": "f204f4dffcba",
+      "priority": 0,
+      "group": "1bba9c94c250"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ห้องน้ำ"
+      ],
+      "phrase": [
+        {
+          "word": "浴室",
+          "definition": "ห้องน้ำ"
+        }
+      ],
+      "id": "32e2d93cf2cb",
+      "priority": 1,
+      "group": "1bba9c94c250"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ห้องน้ำ",
+      "meaning": "浴室",
+      "audio": "cf1f33201ff7c56236dce7ee4aa07603c240025fe498246cd103c215c7ffb6a4",
+      "id": "e3284651cfb0",
+      "priority": 1,
+      "group": "1bba9c94c250"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ผ้าเช็ดตัว",
+      "meaningInSourceLanguage": "毛巾",
+      "id": "3ecca4495d80",
+      "priority": 0,
+      "group": "b66716fa332d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ผ้าเช็ดตัว"
+      ],
+      "phrase": [
+        {
+          "word": "毛巾",
+          "definition": "ผ้าเช็ดตัว"
+        }
+      ],
+      "id": "70c8a767efa2",
+      "priority": 1,
+      "group": "b66716fa332d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ผ้าเช็ดตัว",
+      "meaning": "毛巾",
+      "audio": "7272a6154a99224e469ce3cb577fa04a880bd1da1d91b42995877bb5b92b928b",
+      "id": "d362ce097699",
+      "priority": 1,
+      "group": "b66716fa332d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "หมอน",
+      "meaningInSourceLanguage": "枕头",
+      "id": "0c410785d383",
+      "priority": 0,
+      "group": "9ccee6839531"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "หมอน"
+      ],
+      "phrase": [
+        {
+          "word": "枕头",
+          "definition": "หมอน"
+        }
+      ],
+      "id": "5f0dd32e976f",
+      "priority": 1,
+      "group": "9ccee6839531"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "หมอน",
+      "meaning": "枕头",
+      "audio": "dc457a68725c0146dd3500f441ca108fdae4ff0d1b43b5b5d875dce2c9d64500",
+      "id": "4f6582681995",
+      "priority": 1,
+      "group": "9ccee6839531"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ผ้าห่ม",
+      "meaningInSourceLanguage": "毯子",
+      "id": "aaf8433e5dae",
+      "priority": 0,
+      "group": "3711a7c20cba"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ผ้าห่ม"
+      ],
+      "phrase": [
+        {
+          "word": "毯子",
+          "definition": "ผ้าห่ม"
+        }
+      ],
+      "id": "be37d07ba398",
+      "priority": 1,
+      "group": "3711a7c20cba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ผ้าห่ม",
+      "meaning": "毯子",
+      "audio": "1cad9e09f53cdd1bfef1e29c1d69c8b1251c6bce3151a42c5588d870c59c4b06",
+      "id": "1284ac7e49e4",
+      "priority": 1,
+      "group": "3711a7c20cba"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ชั้น",
+      "meaningInSourceLanguage": "楼层",
+      "id": "af1ed2a3c19d",
+      "priority": 0,
+      "group": "9ac12e7341f2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ชั้น"
+      ],
+      "phrase": [
+        {
+          "word": "楼层",
+          "definition": "ชั้น"
+        }
+      ],
+      "id": "7d3e1bef7f8d",
+      "priority": 1,
+      "group": "9ac12e7341f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ชั้น",
+      "meaning": "楼层",
+      "audio": "7b8bc8c7617da5c991ee12687471cae6f2e6e14d190e853b79fc22931ad22e99",
+      "id": "565dcd4392ba",
+      "priority": 1,
+      "group": "9ac12e7341f2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แผนกต้อนรับ",
+      "meaningInSourceLanguage": "前台",
+      "id": "9327aa02dce5",
+      "priority": 0,
+      "group": "cb78f24e7a88"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แผนกต้อนรับ"
+      ],
+      "phrase": [
+        {
+          "word": "前台",
+          "definition": "แผนกต้อนรับ"
+        }
+      ],
+      "id": "9862d83c573e",
+      "priority": 1,
+      "group": "cb78f24e7a88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แผนกต้อนรับ",
+      "meaning": "前台",
+      "audio": "d760f7e212114d625876975a3962152fccdd2ca026bda5f6b43b7ea1b50e575e",
+      "id": "aa2166111b3a",
+      "priority": 1,
+      "group": "cb78f24e7a88"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แขก",
+      "meaningInSourceLanguage": "客人",
+      "id": "3becaf516ccd",
+      "priority": 0,
+      "group": "ed4cd4384986"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แขก"
+      ],
+      "phrase": [
+        {
+          "word": "客人",
+          "definition": "แขก"
+        }
+      ],
+      "id": "c7133702fbad",
+      "priority": 1,
+      "group": "ed4cd4384986"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แขก",
+      "meaning": "客人",
+      "audio": "cb213df1dd9bdaf5372f90d8892c8824fea256a2f9a2f5ce488a33ad2706b0fb",
+      "id": "0c41269d22ee",
+      "priority": 1,
+      "group": "ed4cd4384986"
+    }
+  ]
+}

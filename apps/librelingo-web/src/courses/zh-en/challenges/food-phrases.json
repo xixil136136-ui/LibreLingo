@@ -1,0 +1,346 @@
+{
+  "id": "e7e64415e32a",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I want water.",
+      "meaningInSourceLanguage": "我想要水。",
+      "id": "f811ac32941b",
+      "priority": 0,
+      "group": "d87c3e82f128"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I want water.",
+      "meaning": "我想要水。",
+      "audio": "1b3b8b0ea140335be492972690a52387aaae7725ec68fe4b33ebb98834551b18",
+      "id": "5fa684485a1d",
+      "priority": 1,
+      "group": "d87c3e82f128"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bread and milk, please.",
+      "meaningInSourceLanguage": "请给我面包和牛奶。",
+      "id": "fad942afcb06",
+      "priority": 0,
+      "group": "013e15d25b24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bread and milk, please.",
+      "meaning": "请给我面包和牛奶。",
+      "audio": "6f84d93f26655758d8f6d03e08203df13242b36ee2fb0bfdcbee8603b176b88d",
+      "id": "0c5a16c3635f",
+      "priority": 1,
+      "group": "013e15d25b24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like rice.",
+      "meaningInSourceLanguage": "我喜欢米饭。",
+      "id": "420a72915415",
+      "priority": 0,
+      "group": "e074adf00a93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like rice.",
+      "meaning": "我喜欢米饭。",
+      "audio": "1333eb43df296c61859af2a59e0c996810b1e60b02e6ca10a80a5c0506857f97",
+      "id": "2a622ccad03b",
+      "priority": 1,
+      "group": "e074adf00a93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tea or coffee?",
+      "meaningInSourceLanguage": "茶还是咖啡？",
+      "id": "694d488658f6",
+      "priority": 0,
+      "group": "983794f920af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tea or coffee?",
+      "meaning": "茶还是咖啡？",
+      "audio": "e298105f80c0a59616b6944847d3be1c09f17f78977d8884e57fdd91579914f2",
+      "id": "1760f80e3d4c",
+      "priority": 1,
+      "group": "983794f920af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "This is delicious.",
+      "meaningInSourceLanguage": "这个很好吃。",
+      "id": "935c2d35bbc4",
+      "priority": 0,
+      "group": "b0d636b5c957"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "This is delicious.",
+      "meaning": "这个很好吃。",
+      "audio": "04db8677c7e250f62fb0b4f2b8fcedf23c568f24129763936cc5466ac444bd66",
+      "id": "0c527627e15c",
+      "priority": 1,
+      "group": "b0d636b5c957"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I see the menu?",
+      "meaningInSourceLanguage": "我能看看菜单吗？",
+      "id": "63af6ad02838",
+      "priority": 0,
+      "group": "f133f77cb875"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I see the menu?",
+      "meaning": "我能看看菜单吗？",
+      "audio": "34bfdfc9b4d3ad381477cbb2d2b84281f79ca006716190751e9f9abe58adb519",
+      "id": "a43de2b72aa0",
+      "priority": 1,
+      "group": "f133f77cb875"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to order.",
+      "meaningInSourceLanguage": "我想点餐。",
+      "id": "77839f263145",
+      "priority": 0,
+      "group": "16e0a06f3761"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to order.",
+      "meaning": "我想点餐。",
+      "audio": "a46bcde8d2d503d687a3b63eefa965a488002ad7bc91c52af10447c15e6c4f9d",
+      "id": "fbc945aa5e82",
+      "priority": 1,
+      "group": "16e0a06f3761"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The bill, please.",
+      "meaningInSourceLanguage": "请结账。",
+      "id": "a7114da91248",
+      "priority": 0,
+      "group": "9e8f15f0d8a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The bill, please.",
+      "meaning": "请结账。",
+      "audio": "d199405f542d8cb29b76cf4c5e428d918670fcde545dcac61405e278e86f52f6",
+      "id": "36553d3b6426",
+      "priority": 1,
+      "group": "9e8f15f0d8a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A table for two.",
+      "meaningInSourceLanguage": "一张两人桌。",
+      "id": "9cc9c55a5d71",
+      "priority": 0,
+      "group": "75cffed2b067"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A table for two.",
+      "meaning": "一张两人桌。",
+      "audio": "2c9a82c7be173c886dc24fa921f3e60ee4c2ec06a22b928124264dcb29db4966",
+      "id": "1b3ba96c11cb",
+      "priority": 1,
+      "group": "75cffed2b067"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What do you recommend?",
+      "meaningInSourceLanguage": "你推荐什么？",
+      "id": "65a7e768a7fc",
+      "priority": 0,
+      "group": "a44d3143f7c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What do you recommend?",
+      "meaning": "你推荐什么？",
+      "audio": "bc95fcb81bbba5b56e5881a093bc29f7213573eacdf6fde4e87ae1ec4b4f8136",
+      "id": "e7effdd66a4e",
+      "priority": 1,
+      "group": "a44d3143f7c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm allergic to peanuts.",
+      "meaningInSourceLanguage": "我对花生过敏。",
+      "id": "481ac8bc88e9",
+      "priority": 0,
+      "group": "4ded85fba7b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm allergic to peanuts.",
+      "meaning": "我对花生过敏。",
+      "audio": "fc3b62d848e13a86570c58b3f78cc86ada5179b83ef7cac819a7ed1870c6433a",
+      "id": "db68a1296b28",
+      "priority": 1,
+      "group": "4ded85fba7b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is service charge included?",
+      "meaningInSourceLanguage": "服务费包含在内吗？",
+      "id": "0660eda66ea0",
+      "priority": 0,
+      "group": "1b30ebf6dd32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is service charge included?",
+      "meaning": "服务费包含在内吗？",
+      "audio": "a19f4da24f0436dec934017fe53f9e0b46b1e19cedaebe3ced4886933dbf375c",
+      "id": "11aecc81735f",
+      "priority": 1,
+      "group": "1b30ebf6dd32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could I have the bill, please?",
+      "meaningInSourceLanguage": "请给我账单好吗？",
+      "id": "3be2f72f0951",
+      "priority": 0,
+      "group": "0a047131c87b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could I have the bill, please?",
+      "meaning": "请给我账单好吗？",
+      "audio": "09106d542351ad237f18536f87e4548d238fcea6267cf4575974c828d3e2b596",
+      "id": "1727680f33c6",
+      "priority": 1,
+      "group": "0a047131c87b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The food is delicious!",
+      "meaningInSourceLanguage": "食物太好吃了！",
+      "id": "6c1bcfd60432",
+      "priority": 0,
+      "group": "197ded0743a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The food is delicious!",
+      "meaning": "食物太好吃了！",
+      "audio": "8fd1778defe1b558a120c17eccb9f86d9df292992ed3e8e5480f8bbdbb6fef59",
+      "id": "ce52b83e9d80",
+      "priority": 1,
+      "group": "197ded0743a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I have some water?",
+      "meaningInSourceLanguage": "能给我一些水吗？",
+      "id": "73ea7d5d4b9d",
+      "priority": 0,
+      "group": "e6cc0530358f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I have some water?",
+      "meaning": "能给我一些水吗？",
+      "audio": "5d9f39f5e8547a46b0740ceb18d33267cbe7d5ecde5e1584bddbc57378de2565",
+      "id": "02978f814c9d",
+      "priority": 1,
+      "group": "e6cc0530358f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll have the steak, please.",
+      "meaningInSourceLanguage": "我要牛排。",
+      "id": "757e7cdcfa7e",
+      "priority": 0,
+      "group": "3b83d4c665b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll have the steak, please.",
+      "meaning": "我要牛排。",
+      "audio": "272dc6f84ac51a51521432f4b0121d827f4321c57229bb29579c9518bdb47dc1",
+      "id": "fc60977a1103",
+      "priority": 1,
+      "group": "3b83d4c665b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's today's special?",
+      "meaningInSourceLanguage": "今天的特色菜是什么？",
+      "id": "3959a0cd332e",
+      "priority": 0,
+      "group": "b9ce250ea3a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's today's special?",
+      "meaning": "今天的特色菜是什么？",
+      "audio": "c5510b83e3229c88ec47b411f4e47d09de1de093b0fad38cc697858fb8ce0981",
+      "id": "8b2902dbe25b",
+      "priority": 1,
+      "group": "b9ce250ea3a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I get this to go?",
+      "meaningInSourceLanguage": "这个能打包吗？",
+      "id": "c4b454ead24c",
+      "priority": 0,
+      "group": "142d0004feb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I get this to go?",
+      "meaning": "这个能打包吗？",
+      "audio": "bf4625acd62b4246a78dca6bff98746a81f9eeb1782e2731cb7e6a1d591f17f4",
+      "id": "4902c022fb02",
+      "priority": 1,
+      "group": "142d0004feb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could you recommend a dish?",
+      "meaningInSourceLanguage": "你能推荐一道菜吗？",
+      "id": "904df5f47ce3",
+      "priority": 0,
+      "group": "1dd0ab86ab57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could you recommend a dish?",
+      "meaning": "你能推荐一道菜吗？",
+      "audio": "768ae8abe177c58126d872b15eb23e2bf0e2ae83b19201e8e7e4b2662551658a",
+      "id": "0d3b6f143920",
+      "priority": 1,
+      "group": "1dd0ab86ab57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to make a reservation.",
+      "meaningInSourceLanguage": "我想预约。",
+      "id": "bc1cda93a3f6",
+      "priority": 0,
+      "group": "a60564ef370a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to make a reservation.",
+      "meaning": "我想预约。",
+      "audio": "2d49ca2c49beb9cc0e1df40a92c3188c5e976e8ef7efa085dea33cf6b3b9f4b9",
+      "id": "dedf97948f01",
+      "priority": 1,
+      "group": "a60564ef370a"
+    }
+  ]
+}

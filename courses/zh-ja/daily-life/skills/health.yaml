@@ -1,0 +1,72 @@
+Skill:
+  Name: Health
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 医者
+    Translation: 医生
+  - Word: 病院
+    Translation: 医院
+  - Word: 薬
+    Translation: 药
+  - Word: 頭痛
+    Translation: 头痛
+  - Word: 熱
+    Translation: 发烧
+  - Word: 咳
+    Translation: 咳嗽
+  - Word: 痛み
+    Translation: 疼痛
+  - Word: 薬局
+    Translation: 药店
+  - Word: 休息
+    Translation: 休息
+  - Word: 腹痛
+    Translation: 肚子痛
+
+Phrases:
+  - Phrase: 医者が必要です。
+    Translation: 我需要医生。
+  - Phrase: 病院はどこですか？
+    Translation: 医院在哪里？
+  - Phrase: 頭痛がします。
+    Translation: 我头痛。
+  - Phrase: 熱があります。
+    Translation: 我发烧了。
+  - Phrase: この薬を飲んでください。
+    Translation: 吃这个药。
+  - Phrase: 休息が必要です。
+    Translation: 你需要休息。
+  - Phrase: 腹痛がします。
+    Translation: 我肚子痛。
+
+Mini-dictionary:
+  Japanese:
+    - 熱: 发烧
+    - 病院: 医院
+    - 咳: 咳嗽
+    - 薬: 药
+    - 腹痛: 肚子痛
+    - 薬局: 药店
+    - 医者: 医生
+    - 痛み: 疼痛
+    - 休息: 休息
+    - 頭痛: 头痛
+  Chinese:
+    - 发烧: 熱
+    - 肚子痛: 腹痛
+    - 医院: 病院
+    - 头痛: 頭痛
+    - 药店: 薬局
+    - 药: 薬
+    - 医生: 医者
+    - 咳嗽: 咳
+    - 休息: 休息
+    - 疼痛: 痛み

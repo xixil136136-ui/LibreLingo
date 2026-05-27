@@ -1,0 +1,431 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Dónde está la parada de autobús?",
+      "meaningInSourceLanguage": "公共汽车站在哪里？",
+      "id": "5412c02d81a1",
+      "priority": 0,
+      "group": "555e2029c612"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Dónde está la parada de autobús?",
+      "meaning": "公共汽车站在哪里？",
+      "audio": "7fad8197120ce68fbf4026e31dbf4f14ae6849712310c22c78ee1dd0cec2c96c",
+      "id": "9c7a062bd9d8",
+      "priority": 1,
+      "group": "555e2029c612"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "El tren tiene retraso.",
+      "meaningInSourceLanguage": "火车晚点了。",
+      "id": "2e167ca4a973",
+      "priority": 0,
+      "group": "5dc60d3ffe5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "El tren tiene retraso.",
+      "meaning": "火车晚点了。",
+      "audio": "53c00d8b69bc82da3af7558f4da82ae0eac0e586116df1574b2ee8eecf7b20fb",
+      "id": "a00107d04070",
+      "priority": 1,
+      "group": "5dc60d3ffe5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tengo equipaje.",
+      "meaningInSourceLanguage": "我有行李。",
+      "id": "1677bfc35a22",
+      "priority": 0,
+      "group": "7707cc16d3ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tengo equipaje.",
+      "meaning": "我有行李。",
+      "audio": "4fccc5cfd0a422903b6a39457dc47492d0811401ee2b29620bfa4d09c5a5e6de",
+      "id": "53790e474b26",
+      "priority": 1,
+      "group": "7707cc16d3ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Cuánto cuesta el tren?",
+      "meaningInSourceLanguage": "火车票多少钱？",
+      "id": "06cb39123fa5",
+      "priority": 0,
+      "group": "5eafa3211e3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Cuánto cuesta el tren?",
+      "meaning": "火车票多少钱？",
+      "audio": "f1fafc6cf968d59c80ce9925b1716fc960e5f3900b9b91a37652b3f4880f3b92",
+      "id": "c27cac262c76",
+      "priority": 1,
+      "group": "5eafa3211e3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Dónde está la parada de taxi?",
+      "meaningInSourceLanguage": "出租车站在哪里？",
+      "id": "662b26efe4c2",
+      "priority": 0,
+      "group": "6ff7e8440654"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Dónde está la parada de taxi?",
+      "meaning": "出租车站在哪里？",
+      "audio": "39bf5843dc4b35671fa84c2731da0f5d8f28b0be08594f388b475a477669a262",
+      "id": "0e9ed8ab2491",
+      "priority": 1,
+      "group": "6ff7e8440654"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tren",
+      "meaningInSourceLanguage": "火车",
+      "id": "b16d1d317925",
+      "priority": 0,
+      "group": "23080bfd9a94"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tren"
+      ],
+      "phrase": [
+        {
+          "word": "火车",
+          "definition": "tren"
+        }
+      ],
+      "id": "e9ffb88b1f70",
+      "priority": 1,
+      "group": "23080bfd9a94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tren",
+      "meaning": "火车",
+      "audio": "f31cdc1e7ed54b02dae6f629649a383d86e4975cd3ed8edffbcbd1a823ad4314",
+      "id": "71283a6955f2",
+      "priority": 1,
+      "group": "23080bfd9a94"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "autobús",
+      "meaningInSourceLanguage": "公共汽车",
+      "id": "31e8ae075143",
+      "priority": 0,
+      "group": "cbec6b7ed824"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "autobús"
+      ],
+      "phrase": [
+        {
+          "word": "公共汽车",
+          "definition": "autobús"
+        }
+      ],
+      "id": "8ad01e6b0304",
+      "priority": 1,
+      "group": "cbec6b7ed824"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "autobús",
+      "meaning": "公共汽车",
+      "audio": "6b5c544354d275097abe4e462c1ad7cd4be530db1767b710d77be998b3dafb93",
+      "id": "69f591c1298e",
+      "priority": 1,
+      "group": "cbec6b7ed824"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "taxi",
+      "meaningInSourceLanguage": "出租车",
+      "id": "0f1c288e3544",
+      "priority": 0,
+      "group": "bff42e6b4b51"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "taxi"
+      ],
+      "phrase": [
+        {
+          "word": "出租车",
+          "definition": "taxi"
+        }
+      ],
+      "id": "bf5e3d10e00c",
+      "priority": 1,
+      "group": "bff42e6b4b51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "taxi",
+      "meaning": "出租车",
+      "audio": "1d40f31ee8560dd078c5bdca5610453186a1d3daf5fe68e80d1bcc49346d7748",
+      "id": "c4bbf474f1bb",
+      "priority": 1,
+      "group": "bff42e6b4b51"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "metro",
+      "meaningInSourceLanguage": "地铁",
+      "id": "c952c79a8cc9",
+      "priority": 0,
+      "group": "20064ebb687d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "metro"
+      ],
+      "phrase": [
+        {
+          "word": "地铁",
+          "definition": "metro"
+        }
+      ],
+      "id": "1785d14c7174",
+      "priority": 1,
+      "group": "20064ebb687d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "metro",
+      "meaning": "地铁",
+      "audio": "1c3cc1a6b6bcc0312a22e21f2d0ba89d851efea13887ff0d2953ad9711efaf79",
+      "id": "68bed5da0d78",
+      "priority": 1,
+      "group": "20064ebb687d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hotel",
+      "meaningInSourceLanguage": "酒店",
+      "id": "06f0dd16b5b1",
+      "priority": 0,
+      "group": "cacdfb225ba6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hotel"
+      ],
+      "phrase": [
+        {
+          "word": "酒店",
+          "definition": "hotel"
+        }
+      ],
+      "id": "e19b9e45042e",
+      "priority": 1,
+      "group": "cacdfb225ba6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hotel",
+      "meaning": "酒店",
+      "audio": "dbf8ee84a8e5febf5bf34193bc0d5dd6c12207dfda15c465d5a19fa4451bed6a",
+      "id": "81664500965a",
+      "priority": 1,
+      "group": "cacdfb225ba6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "equipaje",
+      "meaningInSourceLanguage": "行李",
+      "id": "7f82c3aea51a",
+      "priority": 0,
+      "group": "3692757013eb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "equipaje"
+      ],
+      "phrase": [
+        {
+          "word": "行李",
+          "definition": "equipaje"
+        }
+      ],
+      "id": "90259eb75475",
+      "priority": 1,
+      "group": "3692757013eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "equipaje",
+      "meaning": "行李",
+      "audio": "c65ae96a4c5ab52f66a178c83c408451105aefe0f5937fa17879e15270c3b391",
+      "id": "577484c06124",
+      "priority": 1,
+      "group": "3692757013eb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "estación",
+      "meaningInSourceLanguage": "车站",
+      "id": "e559e8ac8c3e",
+      "priority": 0,
+      "group": "dcd5ea93d0b1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "estación"
+      ],
+      "phrase": [
+        {
+          "word": "车站",
+          "definition": "estación"
+        }
+      ],
+      "id": "16be5b9f0498",
+      "priority": 1,
+      "group": "dcd5ea93d0b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "estación",
+      "meaning": "车站",
+      "audio": "f4cd6d576f613fdd4bbe178ed17ec66ba8c2de9826ae2e8a298354806827a3af",
+      "id": "289691dc8826",
+      "priority": 1,
+      "group": "dcd5ea93d0b1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "vuelo",
+      "meaningInSourceLanguage": "航班",
+      "id": "3e43da0015bf",
+      "priority": 0,
+      "group": "eea8a671f010"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "vuelo"
+      ],
+      "phrase": [
+        {
+          "word": "航班",
+          "definition": "vuelo"
+        }
+      ],
+      "id": "512d97b69da0",
+      "priority": 1,
+      "group": "eea8a671f010"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vuelo",
+      "meaning": "航班",
+      "audio": "d2da40a00636c980eb8274200d69aa455f5918ab270ca51bc57c94aaabe64b60",
+      "id": "4a3f8d3e9eed",
+      "priority": 1,
+      "group": "eea8a671f010"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "retraso",
+      "meaningInSourceLanguage": "延误",
+      "id": "8adda4510d17",
+      "priority": 0,
+      "group": "517cef29c67e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "retraso"
+      ],
+      "phrase": [
+        {
+          "word": "延误",
+          "definition": "retraso"
+        }
+      ],
+      "id": "9e293151aa4a",
+      "priority": 1,
+      "group": "517cef29c67e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retraso",
+      "meaning": "延误",
+      "audio": "0e09d04b4cf73b3718e4b8eff152990d7c018d32450fad8612c43232a4e3e5da",
+      "id": "a679e914e5a9",
+      "priority": 1,
+      "group": "517cef29c67e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "embarque",
+      "meaningInSourceLanguage": "登机",
+      "id": "1a2eaff9ffd3",
+      "priority": 0,
+      "group": "7573f38c22bd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "embarque"
+      ],
+      "phrase": [
+        {
+          "word": "登机",
+          "definition": "embarque"
+        }
+      ],
+      "id": "f75e53b2c8ae",
+      "priority": 1,
+      "group": "7573f38c22bd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "embarque",
+      "meaning": "登机",
+      "audio": "25f37f59ff2b2daab8e9f7770da6f5cec79a4fefe5e82e267cd16ea8815918c2",
+      "id": "733c96d6f638",
+      "priority": 1,
+      "group": "7573f38c22bd"
+    }
+  ]
+}

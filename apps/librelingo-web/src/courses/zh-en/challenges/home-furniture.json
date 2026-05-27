@@ -1,0 +1,1281 @@
+{
+  "id": "986c7acf62bf",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "sewing machine",
+      "meaningInSourceLanguage": "缝纫机",
+      "id": "439ea931223f",
+      "priority": 0,
+      "group": "2826ba5dc26f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sewing machine",
+      "meaning": "缝纫机",
+      "audio": "5bbaa4e8129e4428917d0fd51e0177a7",
+      "id": "7075469a3603",
+      "priority": 1,
+      "group": "2826ba5dc26f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cooking",
+      "meaningInSourceLanguage": "烹饪",
+      "id": "957f96b33481",
+      "priority": 0,
+      "group": "478d178b5cbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cooking",
+      "meaning": "烹饪",
+      "audio": "740c2ff258c74d4fbe81f79d694c1754",
+      "id": "8f0d567a03a0",
+      "priority": 1,
+      "group": "478d178b5cbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cleaning",
+      "meaningInSourceLanguage": "打扫",
+      "id": "94b5a37e2310",
+      "priority": 0,
+      "group": "9e499906be12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cleaning",
+      "meaning": "打扫",
+      "audio": "ea6c12e11aa5421a8888190b155226c8",
+      "id": "67a280dc6a8c",
+      "priority": 1,
+      "group": "9e499906be12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "laundry",
+      "meaningInSourceLanguage": "洗衣",
+      "id": "00669876f792",
+      "priority": 0,
+      "group": "24bd10b83deb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "laundry",
+      "meaning": "洗衣",
+      "audio": "397ada8073f146588ae53151c3fc7630",
+      "id": "1983e258dca5",
+      "priority": 1,
+      "group": "24bd10b83deb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gardening",
+      "meaningInSourceLanguage": "园艺",
+      "id": "d3a122df36b0",
+      "priority": 0,
+      "group": "29a2d10f069d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gardening",
+      "meaning": "园艺",
+      "audio": "798f85a01e5041f7adc41a88b9275e3a",
+      "id": "cd06366cf080",
+      "priority": 1,
+      "group": "29a2d10f069d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "repair",
+      "meaningInSourceLanguage": "修理",
+      "id": "5b9e524d5382",
+      "priority": 0,
+      "group": "829af2432734"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "repair",
+      "meaning": "修理",
+      "audio": "4a0f1dcc2d9f41d7af51d21df2ea69b4",
+      "id": "5d0179fb74a1",
+      "priority": 1,
+      "group": "829af2432734"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "decorating",
+      "meaningInSourceLanguage": "装饰",
+      "id": "5d626c5a19b6",
+      "priority": 0,
+      "group": "2a71d21d9bd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "decorating",
+      "meaning": "装饰",
+      "audio": "cfd3af74086d47eca00a090666284904",
+      "id": "da924724bbda",
+      "priority": 1,
+      "group": "2a71d21d9bd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rent",
+      "meaningInSourceLanguage": "租金",
+      "id": "da22a664222c",
+      "priority": 0,
+      "group": "347518de5e1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rent",
+      "meaning": "租金",
+      "audio": "6a3f6495dffb4885882cc7963cb264a7",
+      "id": "ccb0aa2bf0bb",
+      "priority": 1,
+      "group": "347518de5e1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mortgage",
+      "meaningInSourceLanguage": "房贷",
+      "id": "281033d77963",
+      "priority": 0,
+      "group": "fcdb52ab9fff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mortgage",
+      "meaning": "房贷",
+      "audio": "083c3f44785845788f43a241ed853701",
+      "id": "92886142fef2",
+      "priority": 1,
+      "group": "fcdb52ab9fff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "utility",
+      "meaningInSourceLanguage": "水电费",
+      "id": "fd559863167b",
+      "priority": 0,
+      "group": "e2e73cbcc90c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "utility",
+      "meaning": "水电费",
+      "audio": "31beee466db048ad89a19946dd883417",
+      "id": "ac63c2d3c14e",
+      "priority": 1,
+      "group": "e2e73cbcc90c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "electricity",
+      "meaningInSourceLanguage": "电",
+      "id": "7ac3f093174d",
+      "priority": 0,
+      "group": "d02be507f94b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "electricity",
+      "meaning": "电",
+      "audio": "14090b20bf6f406394bef47de9d1600b",
+      "id": "f22ace52b7d6",
+      "priority": 1,
+      "group": "d02be507f94b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gas",
+      "meaningInSourceLanguage": "煤气",
+      "id": "c1b60342f789",
+      "priority": 0,
+      "group": "808e1a12e411"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gas",
+      "meaning": "煤气",
+      "audio": "ad833b55d2b3460e9c6d9ff221e37782",
+      "id": "bc4b5d440369",
+      "priority": 1,
+      "group": "808e1a12e411"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "water bill",
+      "meaningInSourceLanguage": "水费",
+      "id": "f642125a7b57",
+      "priority": 0,
+      "group": "3fca79a4e102"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "water bill",
+      "meaning": "水费",
+      "audio": "3c3c7345bbca4b2b8f70ee8d61950ca7",
+      "id": "44b3e2065e19",
+      "priority": 1,
+      "group": "3fca79a4e102"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "neighbor",
+      "meaningInSourceLanguage": "邻居",
+      "id": "bf145c781244",
+      "priority": 0,
+      "group": "738f2dc86137"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "neighbor",
+      "meaning": "邻居",
+      "audio": "12914241575d4e84aa1036ec27f4e214",
+      "id": "27c36eb5e1f7",
+      "priority": 1,
+      "group": "738f2dc86137"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "landlord",
+      "meaningInSourceLanguage": "房东",
+      "id": "259b8dfc9f64",
+      "priority": 0,
+      "group": "70c538feda3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "landlord",
+      "meaning": "房东",
+      "audio": "7c448fe226b348b6957f170fedff72b8",
+      "id": "843e06c26da8",
+      "priority": 1,
+      "group": "70c538feda3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tenant",
+      "meaningInSourceLanguage": "租客",
+      "id": "9b6a4d7eed84",
+      "priority": 0,
+      "group": "c78102a48fed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tenant",
+      "meaning": "租客",
+      "audio": "7b345af7f3b9408e9cf34f2e62c6b6d9",
+      "id": "eb93f3087fb6",
+      "priority": 1,
+      "group": "c78102a48fed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mail",
+      "meaningInSourceLanguage": "邮件",
+      "id": "b11502c644d6",
+      "priority": 0,
+      "group": "7f5a2e42f932"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mail",
+      "meaning": "邮件",
+      "audio": "e3db153dc8184ca0957397f05c0362d0",
+      "id": "7c6b1af27afa",
+      "priority": 1,
+      "group": "7f5a2e42f932"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "package",
+      "meaningInSourceLanguage": "包裹",
+      "id": "5480b88b1ece",
+      "priority": 0,
+      "group": "4cc02ee5c386"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "package",
+      "meaning": "包裹",
+      "audio": "7acae2251f74477787b9b5efee92dc9e",
+      "id": "1ceed4ae3ba0",
+      "priority": 1,
+      "group": "4cc02ee5c386"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "delivery",
+      "meaningInSourceLanguage": "递送",
+      "id": "816c95893510",
+      "priority": 0,
+      "group": "9e6e9b5d95b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "delivery",
+      "meaning": "递送",
+      "audio": "d40237a8125e4ae19acbb5cce53e7340",
+      "id": "47e1e2fe696e",
+      "priority": 1,
+      "group": "9e6e9b5d95b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "garbage",
+      "meaningInSourceLanguage": "垃圾",
+      "id": "5ff7723c19c3",
+      "priority": 0,
+      "group": "0149b28bd8d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garbage",
+      "meaning": "垃圾",
+      "audio": "f10d73c00e964bf8b99594100dc110a1",
+      "id": "35df217217a9",
+      "priority": 1,
+      "group": "0149b28bd8d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recycling",
+      "meaningInSourceLanguage": "回收",
+      "id": "72438149a8fc",
+      "priority": 0,
+      "group": "07f929dfcb82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recycling",
+      "meaning": "回收",
+      "audio": "09ea6664f71c468688b8a020946ee944",
+      "id": "a9e5ea2fac8f",
+      "priority": 1,
+      "group": "07f929dfcb82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parking",
+      "meaningInSourceLanguage": "停车",
+      "id": "2fcdbede12c6",
+      "priority": 0,
+      "group": "0e1d102d3de9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parking",
+      "meaning": "停车",
+      "audio": "99b6f6f4ede247239377bdd1a09ed673",
+      "id": "65c377437850",
+      "priority": 1,
+      "group": "0e1d102d3de9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "elevator",
+      "meaningInSourceLanguage": "电梯",
+      "id": "87a6dda25ac6",
+      "priority": 0,
+      "group": "547a62c40d13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "elevator",
+      "meaning": "电梯",
+      "audio": "402f23a2b6dc46f8b8137a27efc13766",
+      "id": "662cf5e3f036",
+      "priority": 1,
+      "group": "547a62c40d13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lobby",
+      "meaningInSourceLanguage": "大堂",
+      "id": "5bc65a081a05",
+      "priority": 0,
+      "group": "67397d2c8604"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lobby",
+      "meaning": "大堂",
+      "audio": "a75b9630955c4d98b873dfb573380303",
+      "id": "e6692e23ff19",
+      "priority": 1,
+      "group": "67397d2c8604"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hallway",
+      "meaningInSourceLanguage": "走廊",
+      "id": "1bc408137b72",
+      "priority": 0,
+      "group": "e74d0c7214a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hallway",
+      "meaning": "走廊",
+      "audio": "7a7c38fc707c42d0b160e4d203a46611",
+      "id": "c1c3f8346184",
+      "priority": 1,
+      "group": "e74d0c7214a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "attic",
+      "meaningInSourceLanguage": "阁楼",
+      "id": "5eb718aca2b9",
+      "priority": 0,
+      "group": "05c56be4a5dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "attic",
+      "meaning": "阁楼",
+      "audio": "94287223b0a74ad3945528741a5f5f66",
+      "id": "a1ffd8b51bd1",
+      "priority": 1,
+      "group": "05c56be4a5dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "basement",
+      "meaningInSourceLanguage": "地下室",
+      "id": "a700b4499891",
+      "priority": 0,
+      "group": "e86404cbc881"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "basement",
+      "meaning": "地下室",
+      "audio": "6e7e6b1efbef4ccfbfb70a9223fdc017",
+      "id": "627e47df02ae",
+      "priority": 1,
+      "group": "e86404cbc881"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yard",
+      "meaningInSourceLanguage": "院子",
+      "id": "3956311dc24f",
+      "priority": 0,
+      "group": "13a651842a8f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yard",
+      "meaning": "院子",
+      "audio": "7e2ce68487904491ba9e2087f1ffae05",
+      "id": "7ae572c3ccd6",
+      "priority": 1,
+      "group": "13a651842a8f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fence",
+      "meaningInSourceLanguage": "围栏",
+      "id": "b8f45c8ba303",
+      "priority": 0,
+      "group": "6e5fb51c52fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fence",
+      "meaning": "围栏",
+      "audio": "70799f8177094afb8c029424a4fbe0a1",
+      "id": "e867c9be3f85",
+      "priority": 1,
+      "group": "6e5fb51c52fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gate",
+      "meaningInSourceLanguage": "大门",
+      "id": "e7a8210b9e54",
+      "priority": 0,
+      "group": "2128dab802f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gate",
+      "meaning": "大门",
+      "audio": "c2ef578c8bfc450393661731c0eda0c3",
+      "id": "fc438633f9c9",
+      "priority": 1,
+      "group": "2128dab802f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "porch",
+      "meaningInSourceLanguage": "门廊",
+      "id": "b7284ec995f5",
+      "priority": 0,
+      "group": "5894df039bce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "porch",
+      "meaning": "门廊",
+      "audio": "f85685e29fcd4f2290bd6f47ccff7298",
+      "id": "f3e8e562efd2",
+      "priority": 1,
+      "group": "5894df039bce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wake up",
+      "meaningInSourceLanguage": "起床",
+      "id": "0488360e48bf",
+      "priority": 0,
+      "group": "b99ad811bd41"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wake up",
+      "meaning": "起床",
+      "audio": "81f1c67c5a7c4db7afb29ee8002843ab",
+      "id": "67edbb1ded7a",
+      "priority": 1,
+      "group": "b99ad811bd41"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "get dressed",
+      "meaningInSourceLanguage": "穿衣服",
+      "id": "23b7218aacc9",
+      "priority": 0,
+      "group": "17af63d88923"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "get dressed",
+      "meaning": "穿衣服",
+      "audio": "faa7ae66b5d64c328abfb652eb2f7159",
+      "id": "e5bc13069d00",
+      "priority": 1,
+      "group": "17af63d88923"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eat breakfast",
+      "meaningInSourceLanguage": "吃早餐",
+      "id": "4260cfb7fd85",
+      "priority": 0,
+      "group": "263b3453def1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eat breakfast",
+      "meaning": "吃早餐",
+      "audio": "1f4e3947902f41edb6ff7ec81d537a9c",
+      "id": "7f291a334d8f",
+      "priority": 1,
+      "group": "263b3453def1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "go to work",
+      "meaningInSourceLanguage": "去上班",
+      "id": "59bdbe92d971",
+      "priority": 0,
+      "group": "b6f94e58062b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "go to work",
+      "meaning": "去上班",
+      "audio": "dcba1a06acd54db8a35307553239f46e",
+      "id": "e03158fd01d9",
+      "priority": 1,
+      "group": "b6f94e58062b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "come home",
+      "meaningInSourceLanguage": "回家",
+      "id": "7e88813129a2",
+      "priority": 0,
+      "group": "1d4ea57af797"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "come home",
+      "meaning": "回家",
+      "audio": "60dedb3884d14bc19c1261a76a5b3fee",
+      "id": "6e0e44c5521e",
+      "priority": 1,
+      "group": "1d4ea57af797"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "have dinner",
+      "meaningInSourceLanguage": "吃晚餐",
+      "id": "2951e6e6ded0",
+      "priority": 0,
+      "group": "5ef6b63e4bc9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "have dinner",
+      "meaning": "吃晚餐",
+      "audio": "d68ba341b2b5441fb597d515e476404c",
+      "id": "4b893a7968fd",
+      "priority": 1,
+      "group": "5ef6b63e4bc9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take a shower",
+      "meaningInSourceLanguage": "洗澡",
+      "id": "555864ac04d5",
+      "priority": 0,
+      "group": "bf4610ebe1e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take a shower",
+      "meaning": "洗澡",
+      "audio": "b17abacc34ed4e11854a26767317a62c",
+      "id": "e11b079264dd",
+      "priority": 1,
+      "group": "bf4610ebe1e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brush teeth",
+      "meaningInSourceLanguage": "刷牙",
+      "id": "0c02be852d76",
+      "priority": 0,
+      "group": "df535fac8b62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brush teeth",
+      "meaning": "刷牙",
+      "audio": "9986befcd65249e1a2435f103dbcbe4a",
+      "id": "aa78417cefa1",
+      "priority": 1,
+      "group": "df535fac8b62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "go to bed",
+      "meaningInSourceLanguage": "上床睡觉",
+      "id": "eb36d5114480",
+      "priority": 0,
+      "group": "d90b3ca4b894"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "go to bed",
+      "meaning": "上床睡觉",
+      "audio": "34792cdf263c441782779c7d877750a2",
+      "id": "3ebec0035851",
+      "priority": 1,
+      "group": "d90b3ca4b894"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sleep",
+      "meaningInSourceLanguage": "睡觉",
+      "id": "77ec3b1d105e",
+      "priority": 0,
+      "group": "a855f1d6e4ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sleep",
+      "meaning": "睡觉",
+      "audio": "84fd2b8d1cd34192859d67a37c405e32",
+      "id": "07ba2177a565",
+      "priority": 1,
+      "group": "a855f1d6e4ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dream",
+      "meaningInSourceLanguage": "做梦",
+      "id": "5c86a70f5771",
+      "priority": 0,
+      "group": "092937eca952"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dream",
+      "meaning": "做梦",
+      "audio": "4174fa38f9b349678e41d36503fcfc22",
+      "id": "582b24835f22",
+      "priority": 1,
+      "group": "092937eca952"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "alarm",
+      "meaningInSourceLanguage": "闹钟",
+      "id": "06372074b217",
+      "priority": 0,
+      "group": "4cb50014f01f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "alarm",
+      "meaning": "闹钟",
+      "audio": "dca7181e0ea844448dedf81cbb48a218",
+      "id": "bec054c69f52",
+      "priority": 1,
+      "group": "4cb50014f01f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "breakfast",
+      "meaningInSourceLanguage": "早餐",
+      "id": "97f9f0a1bd87",
+      "priority": 0,
+      "group": "05219502047b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "breakfast",
+      "meaning": "早餐",
+      "audio": "9976a59e9d044b98a638e4b00b91092b",
+      "id": "7627b86f82b2",
+      "priority": 1,
+      "group": "05219502047b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lunch",
+      "meaningInSourceLanguage": "午餐",
+      "id": "dece7879f631",
+      "priority": 0,
+      "group": "cf21353fc5d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lunch",
+      "meaning": "午餐",
+      "audio": "7fa8e48f5757432897504cac9c428ed0",
+      "id": "9637f08439c2",
+      "priority": 1,
+      "group": "cf21353fc5d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dinner",
+      "meaningInSourceLanguage": "晚餐",
+      "id": "54b7b955f5a9",
+      "priority": 0,
+      "group": "6fdd9243ff87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dinner",
+      "meaning": "晚餐",
+      "audio": "8c71727fd06b43b39f7d323707069fac",
+      "id": "6784431ad8cb",
+      "priority": 1,
+      "group": "6fdd9243ff87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "snack",
+      "meaningInSourceLanguage": "零食",
+      "id": "f3be5b1afd7e",
+      "priority": 0,
+      "group": "cf552a107f49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snack",
+      "meaning": "零食",
+      "audio": "91a53ffc6f3a4054ac16747d988620e1",
+      "id": "fe59513e920f",
+      "priority": 1,
+      "group": "cf552a107f49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meal",
+      "meaningInSourceLanguage": "一餐",
+      "id": "34d8374bcfcf",
+      "priority": 0,
+      "group": "fa483c9a20b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meal",
+      "meaning": "一餐",
+      "audio": "600fa0c95c2a4261a66684c5518d8ede",
+      "id": "30047a682ba5",
+      "priority": 1,
+      "group": "fa483c9a20b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cook",
+      "meaningInSourceLanguage": "做饭",
+      "id": "8575c6851375",
+      "priority": 0,
+      "group": "ab319edc1227"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cook",
+      "meaning": "做饭",
+      "audio": "eec8e03c046548218a3316bc7b10b7f1",
+      "id": "0e60eaffa662",
+      "priority": 1,
+      "group": "ab319edc1227"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wash dishes",
+      "meaningInSourceLanguage": "洗碗",
+      "id": "de83f64101d3",
+      "priority": 0,
+      "group": "00f03c50acae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wash dishes",
+      "meaning": "洗碗",
+      "audio": "21b3a35e9a794d638112549e2e770c97",
+      "id": "24378b21a54b",
+      "priority": 1,
+      "group": "00f03c50acae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "do laundry",
+      "meaningInSourceLanguage": "洗衣服",
+      "id": "3372ee9c3cef",
+      "priority": 0,
+      "group": "e3122bdc7600"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "do laundry",
+      "meaning": "洗衣服",
+      "audio": "fa938370e4c54cf8a3ac1b58cb291319",
+      "id": "c25dd46af518",
+      "priority": 1,
+      "group": "e3122bdc7600"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clean",
+      "meaningInSourceLanguage": "打扫",
+      "id": "7be8b0f83eaf",
+      "priority": 0,
+      "group": "fd49bd3e928a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clean",
+      "meaning": "打扫",
+      "audio": "4ef28ef9b66148bf91027808b8edd744",
+      "id": "af04ba580d28",
+      "priority": 1,
+      "group": "fd49bd3e928a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tidy up",
+      "meaningInSourceLanguage": "整理",
+      "id": "a0f57cc3f4ca",
+      "priority": 0,
+      "group": "702f7a7d643a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tidy up",
+      "meaning": "整理",
+      "audio": "e5fe513c65aa44c9af07a6fee52aa77a",
+      "id": "a9c0640f9fb2",
+      "priority": 1,
+      "group": "702f7a7d643a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "make the bed",
+      "meaningInSourceLanguage": "铺床",
+      "id": "15fc8b261c25",
+      "priority": 0,
+      "group": "6e96065c0fc2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "make the bed",
+      "meaning": "铺床",
+      "audio": "00ccdcca685b46ec91f3ac82a565178e",
+      "id": "7093fcc0f1d0",
+      "priority": 1,
+      "group": "6e96065c0fc2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dust",
+      "meaningInSourceLanguage": "除尘",
+      "id": "fb35a5cebbdc",
+      "priority": 0,
+      "group": "39328e516b77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dust",
+      "meaning": "除尘",
+      "audio": "a69c4348e8ed4b629c6c931b32259264",
+      "id": "9ca6c0b67fc6",
+      "priority": 1,
+      "group": "39328e516b77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vacuum",
+      "meaningInSourceLanguage": "吸尘",
+      "id": "e2cd5f17a5ad",
+      "priority": 0,
+      "group": "16a4c217a32a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vacuum",
+      "meaning": "吸尘",
+      "audio": "a99e88f68efc4589938fb1013e16862d",
+      "id": "19dc909cd829",
+      "priority": 1,
+      "group": "16a4c217a32a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sweep",
+      "meaningInSourceLanguage": "扫地",
+      "id": "4f2d9cbb2c45",
+      "priority": 0,
+      "group": "0a4b1939655c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sweep",
+      "meaning": "扫地",
+      "audio": "a0c428a36efd43e18cb6d607a0e58abe",
+      "id": "251e1b95e6fb",
+      "priority": 1,
+      "group": "0a4b1939655c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mop",
+      "meaningInSourceLanguage": "拖地",
+      "id": "eb345af4523a",
+      "priority": 0,
+      "group": "a2acff2bd552"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mop",
+      "meaning": "拖地",
+      "audio": "56ad2e4fecdf491988a4fc4e869c0493",
+      "id": "b1ca44a10ae2",
+      "priority": 1,
+      "group": "a2acff2bd552"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "water plants",
+      "meaningInSourceLanguage": "浇花",
+      "id": "e01feaf14886",
+      "priority": 0,
+      "group": "7347cc6803b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "water plants",
+      "meaning": "浇花",
+      "audio": "e91f0bb1830744408b079a057a21b271",
+      "id": "035cf45bbcc8",
+      "priority": 1,
+      "group": "7347cc6803b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "feed pets",
+      "meaningInSourceLanguage": "喂宠物",
+      "id": "c904d63998d3",
+      "priority": 0,
+      "group": "226fdad0ba8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "feed pets",
+      "meaning": "喂宠物",
+      "audio": "2209541596b043caa6f8287dec453563",
+      "id": "ed3c97629686",
+      "priority": 1,
+      "group": "226fdad0ba8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take out trash",
+      "meaningInSourceLanguage": "倒垃圾",
+      "id": "a88da8291f24",
+      "priority": 0,
+      "group": "6904dcf09670"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take out trash",
+      "meaning": "倒垃圾",
+      "audio": "69e5a51515694a39a0181b8cecac9dde",
+      "id": "4aeab102770e",
+      "priority": 1,
+      "group": "6904dcf09670"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lock the door",
+      "meaningInSourceLanguage": "锁门",
+      "id": "8781b984289a",
+      "priority": 0,
+      "group": "0de5b57dc30d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lock the door",
+      "meaning": "锁门",
+      "audio": "63e3400b3187463791ea6be9b957c732",
+      "id": "dd78cb6b52ad",
+      "priority": 1,
+      "group": "0de5b57dc30d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turn off lights",
+      "meaningInSourceLanguage": "关灯",
+      "id": "03d67240f99a",
+      "priority": 0,
+      "group": "78b20a09a562"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turn off lights",
+      "meaning": "关灯",
+      "audio": "e42a873d0f16474e82553e2e6200b12a",
+      "id": "399b55f70464",
+      "priority": 1,
+      "group": "78b20a09a562"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "set alarm",
+      "meaningInSourceLanguage": "设闹钟",
+      "id": "8dfa66bd8a10",
+      "priority": 0,
+      "group": "dd553c1fbc7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "set alarm",
+      "meaning": "设闹钟",
+      "audio": "1b494aba25004953aa0ad389cd9944fc",
+      "id": "e16d0e009492",
+      "priority": 1,
+      "group": "dd553c1fbc7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "check email",
+      "meaningInSourceLanguage": "查邮件",
+      "id": "fcc52e7e3594",
+      "priority": 0,
+      "group": "246db8a70caf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check email",
+      "meaning": "查邮件",
+      "audio": "c070a755aa4940d9aa8d68a4ed115e49",
+      "id": "b91a082fba00",
+      "priority": 1,
+      "group": "246db8a70caf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "read news",
+      "meaningInSourceLanguage": "看新闻",
+      "id": "fad871e9619d",
+      "priority": 0,
+      "group": "3729c2de14d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "read news",
+      "meaning": "看新闻",
+      "audio": "5b82ba408eb744f4be815d914dc6aa99",
+      "id": "2155a69b9d2e",
+      "priority": 1,
+      "group": "3729c2de14d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exercise",
+      "meaningInSourceLanguage": "锻炼",
+      "id": "78569f5c8b11",
+      "priority": 0,
+      "group": "eed6fa943c2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exercise",
+      "meaning": "锻炼",
+      "audio": "dca4f148d4c34448870bba31826b17ad",
+      "id": "565a67e8e0b1",
+      "priority": 1,
+      "group": "eed6fa943c2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meditate",
+      "meaningInSourceLanguage": "冥想",
+      "id": "4a599bcff87a",
+      "priority": 0,
+      "group": "732c1afb9fc3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meditate",
+      "meaning": "冥想",
+      "audio": "7a4242075be94f0bb1666b1e73d23b6b",
+      "id": "a6d0749405cf",
+      "priority": 1,
+      "group": "732c1afb9fc3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shopping",
+      "meaningInSourceLanguage": "购物",
+      "id": "2ae3ad756608",
+      "priority": 0,
+      "group": "1e8a0126b8c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shopping",
+      "meaning": "购物",
+      "audio": "ffe19278e0574ba88e2804c3ff9d651c",
+      "id": "44d943e9f672",
+      "priority": 1,
+      "group": "1e8a0126b8c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "errand",
+      "meaningInSourceLanguage": "跑腿",
+      "id": "5b4a715636d0",
+      "priority": 0,
+      "group": "9099d35f1f94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "errand",
+      "meaning": "跑腿",
+      "audio": "200797a855054b1fa45ae58155a0e848",
+      "id": "794644c749a4",
+      "priority": 1,
+      "group": "9099d35f1f94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "commute",
+      "meaningInSourceLanguage": "通勤",
+      "id": "58701f84be6b",
+      "priority": 0,
+      "group": "17118beb01fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "commute",
+      "meaning": "通勤",
+      "audio": "f6d1157933d34caeaabbd49806ab0027",
+      "id": "df85785a60d5",
+      "priority": 1,
+      "group": "17118beb01fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "traffic",
+      "meaningInSourceLanguage": "交通",
+      "id": "055caadae62b",
+      "priority": 0,
+      "group": "f7d6ba09a86d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "traffic",
+      "meaning": "交通",
+      "audio": "ba8eb0c2b80a47b18d5a6fb3e71eee9e",
+      "id": "8418c6db85ee",
+      "priority": 1,
+      "group": "f7d6ba09a86d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "home",
+      "meaningInSourceLanguage": "家",
+      "id": "0a99c8e5c785",
+      "priority": 0,
+      "group": "33fcbbf54eeb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "home",
+      "meaning": "家",
+      "audio": "9f1138ab84094fafad559ebd5b7d3298",
+      "id": "9a42685f5755",
+      "priority": 1,
+      "group": "33fcbbf54eeb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "address",
+      "meaningInSourceLanguage": "地址",
+      "id": "ccd3595788cb",
+      "priority": 0,
+      "group": "eac8d03f5c4d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "address",
+      "meaning": "地址",
+      "audio": "b35bc53d4e114e18ab4b90101c17e813",
+      "id": "6a7031511f3b",
+      "priority": 1,
+      "group": "eac8d03f5c4d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mailbox",
+      "meaningInSourceLanguage": "信箱",
+      "id": "71a3f238fcf0",
+      "priority": 0,
+      "group": "216fcdafdc30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mailbox",
+      "meaning": "信箱",
+      "audio": "cdf35155a97e46ef90eeb6a790866a8b",
+      "id": "c869dde066d1",
+      "priority": 1,
+      "group": "216fcdafdc30"
+    }
+  ]
+}

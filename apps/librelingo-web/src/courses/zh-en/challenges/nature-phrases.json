@@ -1,0 +1,312 @@
+{
+  "id": "d374507d0c76",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "The sun is shining.",
+      "meaningInSourceLanguage": "太阳在照耀。",
+      "id": "6476a0ae0890",
+      "priority": 0,
+      "group": "c48253e3eda1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The sun is shining.",
+      "meaning": "太阳在照耀。",
+      "audio": "d6102d64589a9f5cb085e765d304a494e1eba7c51c70f84ca1281b938c34d3b5",
+      "id": "5cfe7575bda3",
+      "priority": 1,
+      "group": "c48253e3eda1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The stars are beautiful tonight.",
+      "meaningInSourceLanguage": "今晚的星星很美。",
+      "id": "c5a870da710c",
+      "priority": 0,
+      "group": "7852d7d0515d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The stars are beautiful tonight.",
+      "meaning": "今晚的星星很美。",
+      "audio": "5777f25df66323517c130e7100198688074b5318269c37db01230307fea96622",
+      "id": "4cefc95fee3d",
+      "priority": 1,
+      "group": "7852d7d0515d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I love nature.",
+      "meaningInSourceLanguage": "我爱大自然。",
+      "id": "c0773fef7f8c",
+      "priority": 0,
+      "group": "4a4d59cb1d2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I love nature.",
+      "meaning": "我爱大自然。",
+      "audio": "1d601ee0e843cb3ee679e8deb4e63dfec51dbe843afa309b0650ba9c0194043b",
+      "id": "8038f951aaf8",
+      "priority": 1,
+      "group": "4a4d59cb1d2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We need to protect the environment.",
+      "meaningInSourceLanguage": "我们需要保护环境。",
+      "id": "24366b5dc06e",
+      "priority": 0,
+      "group": "9e4d701de4e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We need to protect the environment.",
+      "meaning": "我们需要保护环境。",
+      "audio": "f9ccbab3a6e8e0145495dd031936afd95b4ebd0703638482b76d320ec40c362f",
+      "id": "61cab691f46c",
+      "priority": 1,
+      "group": "9e4d701de4e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Climate change is a serious problem.",
+      "meaningInSourceLanguage": "气候变化是一个严重的问题。",
+      "id": "1e5b5cd6df26",
+      "priority": 0,
+      "group": "3b28baf8999f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Climate change is a serious problem.",
+      "meaning": "气候变化是一个严重的问题。",
+      "audio": "f22e15c54fc6169be7ca692b4d327880a23b0ac2baf4286f1280d934fa223b0b",
+      "id": "fcbf56f2e5cd",
+      "priority": 1,
+      "group": "3b28baf8999f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Recycle your waste.",
+      "meaningInSourceLanguage": "回收你的垃圾。",
+      "id": "71e6f5b46031",
+      "priority": 0,
+      "group": "e5e1d7ea6406"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Recycle your waste.",
+      "meaning": "回收你的垃圾。",
+      "audio": "49857aaa9d62fa0b57ee6b4a06908ccf499b162406f9bb992bda02682eaf9182",
+      "id": "c15a3cee98b8",
+      "priority": 1,
+      "group": "e5e1d7ea6406"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The Earth is our home.",
+      "meaningInSourceLanguage": "地球是我们的家。",
+      "id": "17e878bcba58",
+      "priority": 0,
+      "group": "3339c1ed9bb5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The Earth is our home.",
+      "meaning": "地球是我们的家。",
+      "audio": "30cfde3546e1859075e9ae0fdb89120cd0b469dd4aff96b04618e679e89f4310",
+      "id": "e7ce48e502b7",
+      "priority": 1,
+      "group": "3339c1ed9bb5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cats are adorable.",
+      "meaningInSourceLanguage": "猫很可爱。",
+      "id": "01d6fdb55d99",
+      "priority": 0,
+      "group": "8d438178d707"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cats are adorable.",
+      "meaning": "猫很可爱。",
+      "audio": "d218ff1c6668674b67661b43c4004924d502df6843aed8e8f92a1fd9818cd317",
+      "id": "8189b08c383f",
+      "priority": 1,
+      "group": "8d438178d707"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dogs are loyal.",
+      "meaningInSourceLanguage": "狗很忠诚。",
+      "id": "6686b23db35c",
+      "priority": 0,
+      "group": "9ae2e98f62bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dogs are loyal.",
+      "meaning": "狗很忠诚。",
+      "audio": "984615e9272ff738cf1d501af6471c43eacca4b7b81f1b7e1f0e0bd7547d6101",
+      "id": "a22d04ba3df6",
+      "priority": 1,
+      "group": "9ae2e98f62bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like to watch birds.",
+      "meaningInSourceLanguage": "我喜欢观鸟。",
+      "id": "8a53b3c630c5",
+      "priority": 0,
+      "group": "356eb2b218d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like to watch birds.",
+      "meaning": "我喜欢观鸟。",
+      "audio": "ca7ca686e78e0e165b023191797c597f001c50e9ef04940a8940dc44f7b1640e",
+      "id": "7e9fbdfb0deb",
+      "priority": 1,
+      "group": "356eb2b218d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "This flower smells nice.",
+      "meaningInSourceLanguage": "这朵花闻起来很香。",
+      "id": "804c148ced09",
+      "priority": 0,
+      "group": "204597b566e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "This flower smells nice.",
+      "meaning": "这朵花闻起来很香。",
+      "audio": "3cd2704e7da54be949dbef3abdd6055190eb0fb2ae34f079a0682dc24c3243e9",
+      "id": "f654ffdbfd4a",
+      "priority": 1,
+      "group": "204597b566e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Trees give us oxygen.",
+      "meaningInSourceLanguage": "树木给我们提供氧气。",
+      "id": "c9f17e84340f",
+      "priority": 0,
+      "group": "b28a21f6da6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Trees give us oxygen.",
+      "meaning": "树木给我们提供氧气。",
+      "audio": "da19dcb577919ac432e4e5492532eac29215f3767f6a754c46300615e38e90cf",
+      "id": "72f39a62d2ed",
+      "priority": 1,
+      "group": "b28a21f6da6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Water is essential for life.",
+      "meaningInSourceLanguage": "水对生命至关重要。",
+      "id": "ed7f338fb32b",
+      "priority": 0,
+      "group": "013cec05c591"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Water is essential for life.",
+      "meaning": "水对生命至关重要。",
+      "audio": "4d1740be9ae33bb8541ed301abf0e23f1b6f7086118785f1fa08dfcd911e73b7",
+      "id": "6bf256fcfc3c",
+      "priority": 1,
+      "group": "013cec05c591"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The experiment failed.",
+      "meaningInSourceLanguage": "实验失败了。",
+      "id": "5c67e173bea8",
+      "priority": 0,
+      "group": "198b4e93fe6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The experiment failed.",
+      "meaning": "实验失败了。",
+      "audio": "663b92aa67bc751b0aacf2cc138b7cb697a5c17704031d22d9f258fe773cacff",
+      "id": "57060b6693b0",
+      "priority": 1,
+      "group": "198b4e93fe6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "E=mc² is a famous equation.",
+      "meaningInSourceLanguage": "E=mc²是一个著名的公式。",
+      "id": "80a98848443f",
+      "priority": 0,
+      "group": "01cc6ae0572d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "E=mc² is a famous equation.",
+      "meaning": "E=mc²是一个著名的公式。",
+      "audio": "34b9c61020eac21daeb431914482c01bbc9ec49b68decbaa800b1ba964508b14",
+      "id": "327c4d28c5ef",
+      "priority": 1,
+      "group": "01cc6ae0572d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dinosaurs are extinct.",
+      "meaningInSourceLanguage": "恐龙已经灭绝了。",
+      "id": "23e71d48aa83",
+      "priority": 0,
+      "group": "5424aa19d392"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dinosaurs are extinct.",
+      "meaning": "恐龙已经灭绝了。",
+      "audio": "8d32be6e5d3119f6f847e242b26ff6c9b9559918d17d55a590c2a2209e7fbc94",
+      "id": "b7724156d1c9",
+      "priority": 1,
+      "group": "5424aa19d392"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The moon orbits the Earth.",
+      "meaningInSourceLanguage": "月球绕着地球转。",
+      "id": "eff34c5dd930",
+      "priority": 0,
+      "group": "7b7e713ec9d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The moon orbits the Earth.",
+      "meaning": "月球绕着地球转。",
+      "audio": "7664a2131a75d80f9eb610ad09f11f6e30e07c53ad34a53af70a44480a828be6",
+      "id": "f955e89966b2",
+      "priority": 1,
+      "group": "7b7e713ec9d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We are made of stardust.",
+      "meaningInSourceLanguage": "我们是由星尘组成的。",
+      "id": "84b67a90f6f8",
+      "priority": 0,
+      "group": "979edcd44c9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We are made of stardust.",
+      "meaning": "我们是由星尘组成的。",
+      "audio": "644959eb53d2d10b7aa4feca4a9d51f6b9b506e2d28acfab46e32ea88baf9673",
+      "id": "5ef583e63f6e",
+      "priority": 1,
+      "group": "979edcd44c9e"
+    }
+  ]
+}

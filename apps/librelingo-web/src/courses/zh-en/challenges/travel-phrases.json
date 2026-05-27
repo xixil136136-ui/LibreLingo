@@ -1,0 +1,465 @@
+{
+  "id": "8687557848a2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the airport?",
+      "meaningInSourceLanguage": "机场在哪里？",
+      "id": "766a9ee0917c",
+      "priority": 0,
+      "group": "54f63e40c3c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the airport?",
+      "meaning": "机场在哪里？",
+      "audio": "e0dcec12c7adba882e5fb90dafd86faf61aa4e262402a3ecca80654b8e39f943",
+      "id": "732c38e5ca69",
+      "priority": 1,
+      "group": "54f63e40c3c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a taxi.",
+      "meaningInSourceLanguage": "我需要一辆出租车。",
+      "id": "d542475a14cf",
+      "priority": 0,
+      "group": "4fe407863798"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a taxi.",
+      "meaning": "我需要一辆出租车。",
+      "audio": "5014e870b79f5db7d57e9f496407a4ff446f4516f616bff23d10f73f79b684c8",
+      "id": "a286c188c574",
+      "priority": 1,
+      "group": "4fe407863798"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much is the ticket?",
+      "meaningInSourceLanguage": "票多少钱？",
+      "id": "c85447e32f2e",
+      "priority": 0,
+      "group": "9d05d4e5b0d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much is the ticket?",
+      "meaning": "票多少钱？",
+      "audio": "6ffa0ff2eef712ec140528f3922aa4d820b7e758807253d43a0c59814fcab506",
+      "id": "83a9f9b248ae",
+      "priority": 1,
+      "group": "9d05d4e5b0d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The train is late.",
+      "meaningInSourceLanguage": "火车晚点了。",
+      "id": "a56aaad45292",
+      "priority": 0,
+      "group": "66498469066a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The train is late.",
+      "meaning": "火车晚点了。",
+      "audio": "0bbf1a15296b18707fc5408ae5c31ffc9f42dec7c598bf58023bde7aa60593bf",
+      "id": "141d8d42d0b2",
+      "priority": 1,
+      "group": "66498469066a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have a reservation.",
+      "meaningInSourceLanguage": "我有预订。",
+      "id": "b9a88eeb97e5",
+      "priority": 0,
+      "group": "7aa35114bb93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have a reservation.",
+      "meaning": "我有预订。",
+      "audio": "262465b9073c10eb0642334569af49bd6694a685206cd3c791eab2f2eae7b47e",
+      "id": "4fb96d881d65",
+      "priority": 1,
+      "group": "7aa35114bb93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Turn left here.",
+      "meaningInSourceLanguage": "在这里左转。",
+      "id": "53f9e5ee859d",
+      "priority": 0,
+      "group": "4de3e2e40fca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Turn left here.",
+      "meaning": "在这里左转。",
+      "audio": "53726b8aaf407d49f1e87823e08b7d6be92ab83a5292ab064eb063886cfe88d3",
+      "id": "fe5e7c4d8f38",
+      "priority": 1,
+      "group": "4de3e2e40fca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Go straight ahead.",
+      "meaningInSourceLanguage": "一直往前走。",
+      "id": "b1bafd552979",
+      "priority": 0,
+      "group": "26bba170d30e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Go straight ahead.",
+      "meaning": "一直往前走。",
+      "audio": "561f270b3ee27b6543de826f2b300cd5a36be4b6966cec40fee9e688677e32b9",
+      "id": "843a53374982",
+      "priority": 1,
+      "group": "26bba170d30e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is it far from here?",
+      "meaningInSourceLanguage": "离这里远吗？",
+      "id": "cbf78f78a366",
+      "priority": 0,
+      "group": "9f8c7c9a735f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is it far from here?",
+      "meaning": "离这里远吗？",
+      "audio": "fffd3124663fe8a6fb99060efeb02a6e112a4586a01f1e11c6d4e900404ac8ba",
+      "id": "668e109caf85",
+      "priority": 1,
+      "group": "9f8c7c9a735f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a map.",
+      "meaningInSourceLanguage": "我需要一张地图。",
+      "id": "b730bb90189c",
+      "priority": 0,
+      "group": "6401187463a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a map.",
+      "meaning": "我需要一张地图。",
+      "audio": "1a21040867eb49728acb35a7a478d144fe5d144239ec5239af6f43a896130cbc",
+      "id": "3afaa9d6718f",
+      "priority": 1,
+      "group": "6401187463a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the station?",
+      "meaningInSourceLanguage": "车站在哪里？",
+      "id": "49f5119b9075",
+      "priority": 0,
+      "group": "a3e4e28c75dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the station?",
+      "meaning": "车站在哪里？",
+      "audio": "459aa6ba130311af1cb2eb6df2ec16906c1ddb5a2413e2063750d9b7f619956e",
+      "id": "4b64c15f48be",
+      "priority": 1,
+      "group": "a3e4e28c75dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a ticket to Beijing.",
+      "meaningInSourceLanguage": "我需要一张去北京的票。",
+      "id": "d390be9394e5",
+      "priority": 0,
+      "group": "cbf59f0478ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a ticket to Beijing.",
+      "meaning": "我需要一张去北京的票。",
+      "audio": "9aa0eb1b0c95e04df18ef97b488dcf7ae627c310d3004cdf62cdfa0f51b0ac69",
+      "id": "e6019efdcf0f",
+      "priority": 1,
+      "group": "cbf59f0478ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One-way or round trip?",
+      "meaningInSourceLanguage": "单程还是往返？",
+      "id": "b1280f374940",
+      "priority": 0,
+      "group": "bdd5a49a2a59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "One-way or round trip?",
+      "meaning": "单程还是往返？",
+      "audio": "015e08ea546e4b8586f9d71322ca3725965967a65ae9c41c9876862c0d5182d4",
+      "id": "5a1c95011141",
+      "priority": 1,
+      "group": "bdd5a49a2a59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Which platform does the train leave from?",
+      "meaningInSourceLanguage": "火车从哪个站台出发？",
+      "id": "b2bcc23f9aa4",
+      "priority": 0,
+      "group": "8367a7e16a2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Which platform does the train leave from?",
+      "meaning": "火车从哪个站台出发？",
+      "audio": "1585d0920a5195b2e3804f3d31820548c69b4bcb178eaa2f8ae4b9d9921e714c",
+      "id": "98795ad169c4",
+      "priority": 1,
+      "group": "8367a7e16a2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What time is the next bus?",
+      "meaningInSourceLanguage": "下一班车几点？",
+      "id": "cae727575a94",
+      "priority": 0,
+      "group": "ed710d3646c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What time is the next bus?",
+      "meaning": "下一班车几点？",
+      "audio": "458e7f32e8617e97af043b8065ac3ddcfb7b8b81fdcf7ebf13043d961148acbf",
+      "id": "958e5183df17",
+      "priority": 1,
+      "group": "ed710d3646c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is this seat taken?",
+      "meaningInSourceLanguage": "这个座位有人吗？",
+      "id": "53116f64fb81",
+      "priority": 0,
+      "group": "2090b41c5213"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is this seat taken?",
+      "meaning": "这个座位有人吗？",
+      "audio": "a45c77e8bdb586a55493f3001eec926418a1c811fe1adec8a18bee2c7f396d6e",
+      "id": "fe624752c3be",
+      "priority": 1,
+      "group": "2090b41c5213"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I see your passport?",
+      "meaningInSourceLanguage": "请出示您的护照。",
+      "id": "eed60c9892aa",
+      "priority": 0,
+      "group": "f0d36f2a76a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I see your passport?",
+      "meaning": "请出示您的护照。",
+      "audio": "c73b44472a18634b77b07343855f13bc8dc1a0734b9b991efeb6478ef665e2ab",
+      "id": "3e0c9b70cf6f",
+      "priority": 1,
+      "group": "f0d36f2a76a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have nothing to declare.",
+      "meaningInSourceLanguage": "我没有需要申报的物品。",
+      "id": "bc1aacdb7f05",
+      "priority": 0,
+      "group": "334a279efbcd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have nothing to declare.",
+      "meaning": "我没有需要申报的物品。",
+      "audio": "5e4a7fcb8446e184e2af9c8fbdf96b26fc46de9c2454053540a002d7ff9718eb",
+      "id": "8ae70423b5cf",
+      "priority": 1,
+      "group": "334a279efbcd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How long is the journey?",
+      "meaningInSourceLanguage": "旅途有多久？",
+      "id": "ff68456c21b4",
+      "priority": 0,
+      "group": "c95543a0ccaa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How long is the journey?",
+      "meaning": "旅途有多久？",
+      "audio": "de9ba9826d0c32c058b2c278fd9df97d55f7c5bca819ed1fb397b005a1040f00",
+      "id": "2c7b85828a74",
+      "priority": 1,
+      "group": "c95543a0ccaa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please let me off at the next stop.",
+      "meaningInSourceLanguage": "请在下一站让我下车。",
+      "id": "551584289039",
+      "priority": 0,
+      "group": "ef49896f20e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please let me off at the next stop.",
+      "meaning": "请在下一站让我下车。",
+      "audio": "6e84ac26311b9993d91559c85d6721150ce63ce46052557560a19786beecfcd6",
+      "id": "fef63efc3cae",
+      "priority": 1,
+      "group": "ef49896f20e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's the WiFi password?",
+      "meaningInSourceLanguage": "WiFi密码是什么？",
+      "id": "a40613f84b47",
+      "priority": 0,
+      "group": "867045ddd7d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's the WiFi password?",
+      "meaning": "WiFi密码是什么？",
+      "audio": "0394a42704c67a756683b70587e9e6d87dc522f22a640e44de732b420fd3bf76",
+      "id": "cd4d803dbc49",
+      "priority": 1,
+      "group": "867045ddd7d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much is a double room per night?",
+      "meaningInSourceLanguage": "双人间一晚多少钱？",
+      "id": "c9ed11166824",
+      "priority": 0,
+      "group": "7c161383b454"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much is a double room per night?",
+      "meaning": "双人间一晚多少钱？",
+      "audio": "978a6292005025ded75e51500ce46cd454e8fd32b47037a982c7f5e27b1e0786",
+      "id": "549dc40dbb7f",
+      "priority": 1,
+      "group": "7c161383b454"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is breakfast included?",
+      "meaningInSourceLanguage": "包含早餐吗？",
+      "id": "4c75fa6e76d3",
+      "priority": 0,
+      "group": "50bffb5b8e2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is breakfast included?",
+      "meaning": "包含早餐吗？",
+      "audio": "47b4909ac34745f9126d21edf331087bdf3a897d4c5be4e3c5d87f0734f32465",
+      "id": "b5aa5b7e907e",
+      "priority": 1,
+      "group": "50bffb5b8e2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The air conditioning isn't working.",
+      "meaningInSourceLanguage": "空调坏了。",
+      "id": "cf17e15b04aa",
+      "priority": 0,
+      "group": "d6312d2d0f18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The air conditioning isn't working.",
+      "meaning": "空调坏了。",
+      "audio": "45862d79505f6efbf9a802426ed1e92a81fd3a566a7ddb8570e63cf7dfbeeeed",
+      "id": "cf7fe692976b",
+      "priority": 1,
+      "group": "d6312d2d0f18"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I have a wake-up call at 7am?",
+      "meaningInSourceLanguage": "能给我设7点的叫醒服务吗？",
+      "id": "a9b03bc13aec",
+      "priority": 0,
+      "group": "e18eca635f6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I have a wake-up call at 7am?",
+      "meaning": "能给我设7点的叫醒服务吗？",
+      "audio": "999406ee3cce114995775cd81418e8e106963bf010533e36c7c96a0337c3cbdc",
+      "id": "8ebcfaa61f91",
+      "priority": 1,
+      "group": "e18eca635f6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I store my luggage here?",
+      "meaningInSourceLanguage": "我能寄存行李吗？",
+      "id": "059dd6e100b7",
+      "priority": 0,
+      "group": "8cd48f89397a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I store my luggage here?",
+      "meaning": "我能寄存行李吗？",
+      "audio": "83cfe5b9a2ea59b88ea5fb9dd0d7feefb0c10a70d14348d6fa8f7e5b59e76af0",
+      "id": "880e68b00572",
+      "priority": 1,
+      "group": "8cd48f89397a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to check in, please.",
+      "meaningInSourceLanguage": "我想办理入住。",
+      "id": "47f8631a7bb4",
+      "priority": 0,
+      "group": "8df452ad1348"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to check in, please.",
+      "meaning": "我想办理入住。",
+      "audio": "b78d28bc0e7b7f2a728917af0ad6750dfb3b384640b4f0d57608385c276b9017",
+      "id": "8177adf92137",
+      "priority": 1,
+      "group": "8df452ad1348"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to check out, please.",
+      "meaningInSourceLanguage": "我想退房。",
+      "id": "64258a1cdd11",
+      "priority": 0,
+      "group": "0f75fcb6309b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to check out, please.",
+      "meaning": "我想退房。",
+      "audio": "80f2648a403da732a927da67dbb67b234f1497ae31482c45d14b0961d3894bbf",
+      "id": "28c8a0bced9c",
+      "priority": 1,
+      "group": "0f75fcb6309b"
+    }
+  ]
+}

@@ -1,0 +1,2046 @@
+{
+  "id": "b0854ea7ae7b",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "mother",
+      "meaningInSourceLanguage": "母亲",
+      "id": "1ec3c4c9cd24",
+      "priority": 0,
+      "group": "8d694c9d2369"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mother",
+      "meaning": "母亲",
+      "audio": "ba0c0379231547b59264cc8601051d74",
+      "id": "32b2bb67ea0e",
+      "priority": 1,
+      "group": "8d694c9d2369"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "father",
+      "meaningInSourceLanguage": "父亲",
+      "id": "f11ae6a07a9d",
+      "priority": 0,
+      "group": "f9ca99e24e7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "father",
+      "meaning": "父亲",
+      "audio": "166732c878924539b58a5cfa53b79081",
+      "id": "3f6ff4abbc36",
+      "priority": 1,
+      "group": "f9ca99e24e7a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parents",
+      "meaningInSourceLanguage": "父母",
+      "id": "c90f5763ffaa",
+      "priority": 0,
+      "group": "c621c44c0940"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parents",
+      "meaning": "父母",
+      "audio": "4ea09b8ef84845d597c07f4ad7f94acc",
+      "id": "63b71bb05406",
+      "priority": 1,
+      "group": "c621c44c0940"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sister",
+      "meaningInSourceLanguage": "姐妹",
+      "id": "7d54b933aa44",
+      "priority": 0,
+      "group": "b9f3134933d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sister",
+      "meaning": "姐妹",
+      "audio": "df6d0710df14440bafbddbe908737bd8",
+      "id": "e5fc6a48f8eb",
+      "priority": 1,
+      "group": "b9f3134933d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brother",
+      "meaningInSourceLanguage": "兄弟",
+      "id": "b4a7b393e01e",
+      "priority": 0,
+      "group": "05de656bf60f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brother",
+      "meaning": "兄弟",
+      "audio": "162237fa4a1f47398662f243f5f1029d",
+      "id": "3175af27d994",
+      "priority": 1,
+      "group": "05de656bf60f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "daughter",
+      "meaningInSourceLanguage": "女儿",
+      "id": "e7736d7969b9",
+      "priority": 0,
+      "group": "4312ac983b1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "daughter",
+      "meaning": "女儿",
+      "audio": "1b416ebf616d4e1ba0c84ffb25be5c51",
+      "id": "672e8de021f2",
+      "priority": 1,
+      "group": "4312ac983b1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "son",
+      "meaningInSourceLanguage": "儿子",
+      "id": "4c3597578378",
+      "priority": 0,
+      "group": "118fdf57f3af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "son",
+      "meaning": "儿子",
+      "audio": "6b6194c9222a49989bf5c7c9a4620b6c",
+      "id": "1e8655e2b9ab",
+      "priority": 1,
+      "group": "118fdf57f3af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wife",
+      "meaningInSourceLanguage": "妻子",
+      "id": "162e474040f8",
+      "priority": 0,
+      "group": "7e8d32b57729"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wife",
+      "meaning": "妻子",
+      "audio": "bfd13b5fc824472eb953556a572d5443",
+      "id": "0dc2afc8da6e",
+      "priority": 1,
+      "group": "7e8d32b57729"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "husband",
+      "meaningInSourceLanguage": "丈夫",
+      "id": "b2978f96221d",
+      "priority": 0,
+      "group": "35e4a516b4d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "husband",
+      "meaning": "丈夫",
+      "audio": "5c5097ae506743a48b5ba37f341f50a1",
+      "id": "1ced6da4171c",
+      "priority": 1,
+      "group": "35e4a516b4d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grandmother",
+      "meaningInSourceLanguage": "祖母",
+      "id": "1b690ddbb1b8",
+      "priority": 0,
+      "group": "c5edc23acbfd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grandmother",
+      "meaning": "祖母",
+      "audio": "e0366c1aa7ff4529a8da3ee97b136820",
+      "id": "503f5bc3f315",
+      "priority": 1,
+      "group": "c5edc23acbfd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grandfather",
+      "meaningInSourceLanguage": "祖父",
+      "id": "2f382eecda16",
+      "priority": 0,
+      "group": "d519867e3f09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grandfather",
+      "meaning": "祖父",
+      "audio": "65e542d97453432586fb6995f438e907",
+      "id": "dd0cf9944a47",
+      "priority": 1,
+      "group": "d519867e3f09"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aunt",
+      "meaningInSourceLanguage": "阿姨",
+      "id": "a9654ef14642",
+      "priority": 0,
+      "group": "f14b5335da87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aunt",
+      "meaning": "阿姨",
+      "audio": "a87bf6e1c24a42b4be2e2230a8c1205c",
+      "id": "b89f19f5b2ec",
+      "priority": 1,
+      "group": "f14b5335da87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "uncle",
+      "meaningInSourceLanguage": "叔叔",
+      "id": "a9454c01eae4",
+      "priority": 0,
+      "group": "076e2199bab0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "uncle",
+      "meaning": "叔叔",
+      "audio": "34f80283211d49698136162a70f0fe7b",
+      "id": "cfab26a020a9",
+      "priority": 1,
+      "group": "076e2199bab0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cousin",
+      "meaningInSourceLanguage": "表亲",
+      "id": "dff049cee5b9",
+      "priority": 0,
+      "group": "a1474a3a3fd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cousin",
+      "meaning": "表亲",
+      "audio": "38525a9a0bb644b98519abdceef86310",
+      "id": "bb79fc3b4e94",
+      "priority": 1,
+      "group": "a1474a3a3fd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nephew",
+      "meaningInSourceLanguage": "侄子",
+      "id": "7331d507475a",
+      "priority": 0,
+      "group": "d49893c316ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nephew",
+      "meaning": "侄子",
+      "audio": "0247dbda841644fb815dc952d1dc3ae1",
+      "id": "81e8d2a72b7c",
+      "priority": 1,
+      "group": "d49893c316ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "niece",
+      "meaningInSourceLanguage": "侄女",
+      "id": "51e341c3f2a2",
+      "priority": 0,
+      "group": "aaea502131b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "niece",
+      "meaning": "侄女",
+      "audio": "a9aaf65f28e3481e9a3ddb9d0ff0c734",
+      "id": "fd7b758762ca",
+      "priority": 1,
+      "group": "aaea502131b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grandson",
+      "meaningInSourceLanguage": "孙子",
+      "id": "ae9896035c2e",
+      "priority": 0,
+      "group": "60fcd7a066e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grandson",
+      "meaning": "孙子",
+      "audio": "6a66cf41328a49c4851ba1d2006ae9bc",
+      "id": "a5fc39da16fb",
+      "priority": 1,
+      "group": "60fcd7a066e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "granddaughter",
+      "meaningInSourceLanguage": "孙女",
+      "id": "39bcdcf56916",
+      "priority": 0,
+      "group": "e94ff6f08dc9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "granddaughter",
+      "meaning": "孙女",
+      "audio": "aad379124ba54bd49d3f64e050061150",
+      "id": "b82b7be26a68",
+      "priority": 1,
+      "group": "e94ff6f08dc9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baby",
+      "meaningInSourceLanguage": "婴儿",
+      "id": "5d730e409979",
+      "priority": 0,
+      "group": "c9ed2621514c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baby",
+      "meaning": "婴儿",
+      "audio": "6bc61078f5bf417ca467ee33bf528864",
+      "id": "7208f33679d6",
+      "priority": 1,
+      "group": "c9ed2621514c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "child",
+      "meaningInSourceLanguage": "孩子",
+      "id": "422b5bee585e",
+      "priority": 0,
+      "group": "de4c13f1702f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "child",
+      "meaning": "孩子",
+      "audio": "50d3e24e0ffc4083a1353dd3d3f3b865",
+      "id": "98840ef774ef",
+      "priority": 1,
+      "group": "de4c13f1702f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "teenager",
+      "meaningInSourceLanguage": "青少年",
+      "id": "82807bff5b0b",
+      "priority": 0,
+      "group": "64a27171cf26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teenager",
+      "meaning": "青少年",
+      "audio": "27cc9e4b5d2c437aaf286e5e219527d9",
+      "id": "90a1fb05645d",
+      "priority": 1,
+      "group": "64a27171cf26"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "adult",
+      "meaningInSourceLanguage": "成年人",
+      "id": "1787479c314c",
+      "priority": 0,
+      "group": "8666a0bead59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "adult",
+      "meaning": "成年人",
+      "audio": "f5141c9853a84a5aa0f7f8302ef1abc1",
+      "id": "f5c4985d4be5",
+      "priority": 1,
+      "group": "8666a0bead59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "friend",
+      "meaningInSourceLanguage": "朋友",
+      "id": "8ff326628b5d",
+      "priority": 0,
+      "group": "f09f62703f13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "friend",
+      "meaning": "朋友",
+      "audio": "b9305e34aeb4406492f5aa08e9822716",
+      "id": "4132e1c0b288",
+      "priority": 1,
+      "group": "f09f62703f13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boyfriend",
+      "meaningInSourceLanguage": "男朋友",
+      "id": "2b4c829b4040",
+      "priority": 0,
+      "group": "ffe4198aaca7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boyfriend",
+      "meaning": "男朋友",
+      "audio": "ffdcc64ee16c48239c5a3aada8412184",
+      "id": "cf71971fc4f5",
+      "priority": 1,
+      "group": "ffe4198aaca7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "girlfriend",
+      "meaningInSourceLanguage": "女朋友",
+      "id": "2f9acc4235b4",
+      "priority": 0,
+      "group": "ffcbb0894efc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "girlfriend",
+      "meaning": "女朋友",
+      "audio": "34a9887b46e8484993eba8df28ae132e",
+      "id": "50565baf70c1",
+      "priority": 1,
+      "group": "ffcbb0894efc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "neighbor",
+      "meaningInSourceLanguage": "邻居",
+      "id": "7806eb0457c7",
+      "priority": 0,
+      "group": "5df55d4964e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "neighbor",
+      "meaning": "邻居",
+      "audio": "d60ef03de1134e1db2bf5a6fa5d7bb23",
+      "id": "e1679ae1c58d",
+      "priority": 1,
+      "group": "5df55d4964e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "classmate",
+      "meaningInSourceLanguage": "同学",
+      "id": "07c25705ab51",
+      "priority": 0,
+      "group": "d7c02b661a8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "classmate",
+      "meaning": "同学",
+      "audio": "2d6182bf8ddc49ee92a1fa4f740ba18b",
+      "id": "b5c475541032",
+      "priority": 1,
+      "group": "d7c02b661a8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "colleague",
+      "meaningInSourceLanguage": "同事",
+      "id": "e788471370e8",
+      "priority": 0,
+      "group": "e78d9f2d1081"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "colleague",
+      "meaning": "同事",
+      "audio": "343c73ce15834ca5abeb20fe575fafe3",
+      "id": "b67bda2c0be8",
+      "priority": 1,
+      "group": "e78d9f2d1081"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boss",
+      "meaningInSourceLanguage": "老板",
+      "id": "d3f02e56cbad",
+      "priority": 0,
+      "group": "886fad8f011f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boss",
+      "meaning": "老板",
+      "audio": "04fb4752dfb94c1f942a00ca2ed37f66",
+      "id": "7ed0b446c4e0",
+      "priority": 1,
+      "group": "886fad8f011f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "employee",
+      "meaningInSourceLanguage": "员工",
+      "id": "483f0685c6e8",
+      "priority": 0,
+      "group": "27cb88a6139b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "employee",
+      "meaning": "员工",
+      "audio": "96c5116e473f43a489ab065df10d657e",
+      "id": "f4a9ee1fbe8c",
+      "priority": 1,
+      "group": "27cb88a6139b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "manager",
+      "meaningInSourceLanguage": "经理",
+      "id": "57f798e3e17b",
+      "priority": 0,
+      "group": "a88b19c1e891"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "manager",
+      "meaning": "经理",
+      "audio": "02e713a80ba04a07a17329ed1926403c",
+      "id": "5e37b8342e1f",
+      "priority": 1,
+      "group": "a88b19c1e891"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customer",
+      "meaningInSourceLanguage": "客户",
+      "id": "8a7df504e62c",
+      "priority": 0,
+      "group": "2e1dedf04ffd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customer",
+      "meaning": "客户",
+      "audio": "05640a706dae461291348e79a9c56fb4",
+      "id": "e6ee4f359538",
+      "priority": 1,
+      "group": "2e1dedf04ffd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "client",
+      "meaningInSourceLanguage": "客户",
+      "id": "53edf9976050",
+      "priority": 0,
+      "group": "02e360f8c41b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "client",
+      "meaning": "客户",
+      "audio": "f267be00ea544e1babfe1817a42fe730",
+      "id": "0f152a33c9a2",
+      "priority": 1,
+      "group": "02e360f8c41b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guest",
+      "meaningInSourceLanguage": "客人",
+      "id": "2077402d4edd",
+      "priority": 0,
+      "group": "c5fd1d526fb0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guest",
+      "meaning": "客人",
+      "audio": "03c25104e7bc4e079697c43c4a01a23c",
+      "id": "aafe2d322aab",
+      "priority": 1,
+      "group": "c5fd1d526fb0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "host",
+      "meaningInSourceLanguage": "主人",
+      "id": "98cf5da6cdf8",
+      "priority": 0,
+      "group": "9c3b62e0c57b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "host",
+      "meaning": "主人",
+      "audio": "3d62a8c61cd1490db9831a034f7024a5",
+      "id": "8bfa1583d140",
+      "priority": 1,
+      "group": "9c3b62e0c57b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stranger",
+      "meaningInSourceLanguage": "陌生人",
+      "id": "0b35bfbf50ed",
+      "priority": 0,
+      "group": "128a150fd175"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stranger",
+      "meaning": "陌生人",
+      "audio": "c5684135d7bf429face7ef5202624a2d",
+      "id": "9158ede26127",
+      "priority": 1,
+      "group": "128a150fd175"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "partner",
+      "meaningInSourceLanguage": "伙伴",
+      "id": "f78d18563aae",
+      "priority": 0,
+      "group": "4bb6d1e280e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "partner",
+      "meaning": "伙伴",
+      "audio": "d1cfd0a25a824bd39f63d02d2efa079b",
+      "id": "8bfe2c5cf916",
+      "priority": 1,
+      "group": "4bb6d1e280e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "assistant",
+      "meaningInSourceLanguage": "助理",
+      "id": "c4fc91e69097",
+      "priority": 0,
+      "group": "c1a163c3982d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "assistant",
+      "meaning": "助理",
+      "audio": "dbfd379683ee441fb8f769670887cf26",
+      "id": "cd8af6bcce00",
+      "priority": 1,
+      "group": "c1a163c3982d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "volunteer",
+      "meaningInSourceLanguage": "志愿者",
+      "id": "bea28643e5ed",
+      "priority": 0,
+      "group": "74ecf02dbcae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "volunteer",
+      "meaning": "志愿者",
+      "audio": "971f606a205e4e269cf0c54cce1d6d7e",
+      "id": "79a2908682be",
+      "priority": 1,
+      "group": "74ecf02dbcae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "member",
+      "meaningInSourceLanguage": "成员",
+      "id": "1f9ea237b52f",
+      "priority": 0,
+      "group": "8780a2a29aef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "member",
+      "meaning": "成员",
+      "audio": "62ce603ed93041c6bd197ff972591b1e",
+      "id": "286f88673380",
+      "priority": 1,
+      "group": "8780a2a29aef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leader",
+      "meaningInSourceLanguage": "领导",
+      "id": "58365698f8a8",
+      "priority": 0,
+      "group": "98417f731b56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leader",
+      "meaning": "领导",
+      "audio": "d8b1479a66f747f0baa7f4e43c29fa55",
+      "id": "00c9f61a223b",
+      "priority": 1,
+      "group": "98417f731b56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "follower",
+      "meaningInSourceLanguage": "追随者",
+      "id": "3c9f2199466b",
+      "priority": 0,
+      "group": "60a3ee1c8712"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "follower",
+      "meaning": "追随者",
+      "audio": "365b32b056434a168899aee9c4e791a8",
+      "id": "0eb8f51e4589",
+      "priority": 1,
+      "group": "60a3ee1c8712"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "team",
+      "meaningInSourceLanguage": "团队",
+      "id": "b5b8f6a0c316",
+      "priority": 0,
+      "group": "67690060c123"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "team",
+      "meaning": "团队",
+      "audio": "c33be901f723410c9b28e0afdb0489b2",
+      "id": "78d648f990ed",
+      "priority": 1,
+      "group": "67690060c123"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "group",
+      "meaningInSourceLanguage": "小组",
+      "id": "ed3300e8583a",
+      "priority": 0,
+      "group": "19b22184f66d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "group",
+      "meaning": "小组",
+      "audio": "a3c4a216db024c2e86f032d298dbe679",
+      "id": "ed9ae4a47f69",
+      "priority": 1,
+      "group": "19b22184f66d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "generation",
+      "meaningInSourceLanguage": "一代",
+      "id": "b2dda9cccd7a",
+      "priority": 0,
+      "group": "5eafe6b979bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "generation",
+      "meaning": "一代",
+      "audio": "8018336a73354fb6a73a918b3c79b748",
+      "id": "a68d49e7edf0",
+      "priority": 1,
+      "group": "5eafe6b979bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ancestor",
+      "meaningInSourceLanguage": "祖先",
+      "id": "4db84066560f",
+      "priority": 0,
+      "group": "17a107de8ffe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ancestor",
+      "meaning": "祖先",
+      "audio": "976a461f69924886b0a96a2141d5ef3a",
+      "id": "e54ebb51851a",
+      "priority": 1,
+      "group": "17a107de8ffe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "descendant",
+      "meaningInSourceLanguage": "后代",
+      "id": "2acb2c894468",
+      "priority": 0,
+      "group": "53d3d498e829"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "descendant",
+      "meaning": "后代",
+      "audio": "2410f83e55f441328366ec7fb8012cbe",
+      "id": "380d53c56bde",
+      "priority": 1,
+      "group": "53d3d498e829"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "relative",
+      "meaningInSourceLanguage": "亲戚",
+      "id": "9da404050fe9",
+      "priority": 0,
+      "group": "4847053e616a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "relative",
+      "meaning": "亲戚",
+      "audio": "66ac4ed9af244f889f2152f8dbfceaa4",
+      "id": "6318e1a55d5e",
+      "priority": 1,
+      "group": "4847053e616a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "twin",
+      "meaningInSourceLanguage": "双胞胎",
+      "id": "02a291ba1916",
+      "priority": 0,
+      "group": "49a3dc2b3a9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "twin",
+      "meaning": "双胞胎",
+      "audio": "ecc7886682d5475280915e47147bca9f",
+      "id": "a96290eac189",
+      "priority": 1,
+      "group": "49a3dc2b3a9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orphan",
+      "meaningInSourceLanguage": "孤儿",
+      "id": "ab91f73d1c31",
+      "priority": 0,
+      "group": "cf604bad2f85"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orphan",
+      "meaning": "孤儿",
+      "audio": "2923bf6148ae435e939b29fe425fb373",
+      "id": "a925895b33b9",
+      "priority": 1,
+      "group": "cf604bad2f85"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "widow",
+      "meaningInSourceLanguage": "寡妇",
+      "id": "8bcadf3e6534",
+      "priority": 0,
+      "group": "8cab8a6a8e15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "widow",
+      "meaning": "寡妇",
+      "audio": "979684574a8343d8b8134df6a1060b8c",
+      "id": "39f5abecb181",
+      "priority": 1,
+      "group": "8cab8a6a8e15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "widower",
+      "meaningInSourceLanguage": "鳏夫",
+      "id": "8af809b684f2",
+      "priority": 0,
+      "group": "a91b299ac753"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "widower",
+      "meaning": "鳏夫",
+      "audio": "9386fe44b7ff4e149d81f20ba872dd0f",
+      "id": "27ad11b751db",
+      "priority": 1,
+      "group": "a91b299ac753"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiancé",
+      "meaningInSourceLanguage": "未婚夫",
+      "id": "f94e9e08013b",
+      "priority": 0,
+      "group": "bd7838dcf09b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiancé",
+      "meaning": "未婚夫",
+      "audio": "466f1b5af70e4ba4bdeccabcd96d1a41",
+      "id": "c9a863ecc6cf",
+      "priority": 1,
+      "group": "bd7838dcf09b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiancée",
+      "meaningInSourceLanguage": "未婚妻",
+      "id": "04398ab3bb97",
+      "priority": 0,
+      "group": "4f0de8e13159"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiancée",
+      "meaning": "未婚妻",
+      "audio": "d1e9c200da2f452ea4fd9895043bf55e",
+      "id": "3109dc8cf1c6",
+      "priority": 1,
+      "group": "4f0de8e13159"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stepmother",
+      "meaningInSourceLanguage": "继母",
+      "id": "e63e597225c8",
+      "priority": 0,
+      "group": "7a44f49b9227"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stepmother",
+      "meaning": "继母",
+      "audio": "f2e52c82f4494a2eb62ce05efa374147",
+      "id": "df41a3dc418e",
+      "priority": 1,
+      "group": "7a44f49b9227"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stepfather",
+      "meaningInSourceLanguage": "继父",
+      "id": "eb2a16adfefc",
+      "priority": 0,
+      "group": "79490eca9c58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stepfather",
+      "meaning": "继父",
+      "audio": "d45e5264a2e64ca0b304a668719e1590",
+      "id": "1e6a23609767",
+      "priority": 1,
+      "group": "79490eca9c58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "half-brother",
+      "meaningInSourceLanguage": "同父异母兄弟",
+      "id": "35ab5f98a0c3",
+      "priority": 0,
+      "group": "14c32c60f84b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "half-brother",
+      "meaning": "同父异母兄弟",
+      "audio": "71b81c6476364ee9930c4b180f13c11f",
+      "id": "85914d185545",
+      "priority": 1,
+      "group": "14c32c60f84b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "half-sister",
+      "meaningInSourceLanguage": "同父异母姐妹",
+      "id": "1e395911e3d3",
+      "priority": 0,
+      "group": "c76f23838fae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "half-sister",
+      "meaning": "同父异母姐妹",
+      "audio": "d26f35ec7c804af9890ba69a68c32b31",
+      "id": "d2321b4ac5b0",
+      "priority": 1,
+      "group": "c76f23838fae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "in-laws",
+      "meaningInSourceLanguage": "姻亲",
+      "id": "35f38f04d848",
+      "priority": 0,
+      "group": "45d344efc66f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "in-laws",
+      "meaning": "姻亲",
+      "audio": "e2f6f7b2775a47768a9c1fff84c8dbb5",
+      "id": "89db429a6fe2",
+      "priority": 1,
+      "group": "45d344efc66f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "godfather",
+      "meaningInSourceLanguage": "教父",
+      "id": "424785d95b11",
+      "priority": 0,
+      "group": "52051afc4bbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "godfather",
+      "meaning": "教父",
+      "audio": "eeb8b52b2d3244c498b693c5d85d8bfe",
+      "id": "8241ba4e6ac7",
+      "priority": 1,
+      "group": "52051afc4bbd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "godmother",
+      "meaningInSourceLanguage": "教母",
+      "id": "23cf442fb281",
+      "priority": 0,
+      "group": "df98d1195540"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "godmother",
+      "meaning": "教母",
+      "audio": "aab16bb8871c484d9da3935360e69704",
+      "id": "5878d7955d39",
+      "priority": 1,
+      "group": "df98d1195540"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "godchild",
+      "meaningInSourceLanguage": "教子",
+      "id": "18fdfdf17968",
+      "priority": 0,
+      "group": "c6eb9bb9f83a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "godchild",
+      "meaning": "教子",
+      "audio": "9417ef8c07e449fa842a04ab2cc5e6bb",
+      "id": "28d8915606f6",
+      "priority": 1,
+      "group": "c6eb9bb9f83a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bride",
+      "meaningInSourceLanguage": "新娘",
+      "id": "76f92af2ee04",
+      "priority": 0,
+      "group": "ece89da2ec7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bride",
+      "meaning": "新娘",
+      "audio": "a7ec1a2c53d14fc89e6e636be91677f2",
+      "id": "0e2938b9e520",
+      "priority": 1,
+      "group": "ece89da2ec7a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "groom",
+      "meaningInSourceLanguage": "新郎",
+      "id": "162d928c61f3",
+      "priority": 0,
+      "group": "43185c4ac05f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "groom",
+      "meaning": "新郎",
+      "audio": "9f1572b99fc641baba7b7bcbc2b119a0",
+      "id": "38ca570d6fb1",
+      "priority": 1,
+      "group": "43185c4ac05f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "best man",
+      "meaningInSourceLanguage": "伴郎",
+      "id": "f77fefc33cf9",
+      "priority": 0,
+      "group": "d33e0ffedc2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "best man",
+      "meaning": "伴郎",
+      "audio": "c3849273425d4e45ae2f6bdecf86e4e0",
+      "id": "9f213fec5db1",
+      "priority": 1,
+      "group": "d33e0ffedc2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bridesmaid",
+      "meaningInSourceLanguage": "伴娘",
+      "id": "b4edc5ea01a9",
+      "priority": 0,
+      "group": "e11f262f6d3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bridesmaid",
+      "meaning": "伴娘",
+      "audio": "6987a58aa0404f1dad6304918059923e",
+      "id": "cf772714cbb0",
+      "priority": 1,
+      "group": "e11f262f6d3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "single",
+      "meaningInSourceLanguage": "单身的",
+      "id": "3af4985e5bdd",
+      "priority": 0,
+      "group": "f1f6261427e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "single",
+      "meaning": "单身的",
+      "audio": "b9f19ab246ba4b1db2418a4c8c0ad294",
+      "id": "70a06f98d454",
+      "priority": 1,
+      "group": "f1f6261427e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "married",
+      "meaningInSourceLanguage": "已婚的",
+      "id": "f826472e407e",
+      "priority": 0,
+      "group": "4546948b9701"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "married",
+      "meaning": "已婚的",
+      "audio": "d4656de22f114c2aab1ded22cfad33c4",
+      "id": "9b8ead48ea88",
+      "priority": 1,
+      "group": "4546948b9701"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "divorced",
+      "meaningInSourceLanguage": "离婚的",
+      "id": "3583bba091cb",
+      "priority": 0,
+      "group": "e84523f92537"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "divorced",
+      "meaning": "离婚的",
+      "audio": "c67c472de8a14e62bbc575dd12255642",
+      "id": "2513b470a498",
+      "priority": 1,
+      "group": "e84523f92537"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "engaged",
+      "meaningInSourceLanguage": "已订婚的",
+      "id": "c1cf325c7c04",
+      "priority": 0,
+      "group": "aee70f47c52d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "engaged",
+      "meaning": "已订婚的",
+      "audio": "e7133440016144bab149a06e98421119",
+      "id": "425257b8186e",
+      "priority": 1,
+      "group": "aee70f47c52d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "separated",
+      "meaningInSourceLanguage": "分居的",
+      "id": "c0a088050100",
+      "priority": 0,
+      "group": "c2e2ff395980"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "separated",
+      "meaning": "分居的",
+      "audio": "647c49fecffd4058907d2589fb0051cc",
+      "id": "e3d91f798eae",
+      "priority": 1,
+      "group": "c2e2ff395980"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "widowed",
+      "meaningInSourceLanguage": "丧偶的",
+      "id": "f0097a37c1b9",
+      "priority": 0,
+      "group": "adc5beb80697"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "widowed",
+      "meaning": "丧偶的",
+      "audio": "bd381b6d511849c38d339a34b980e330",
+      "id": "44014e50ed36",
+      "priority": 1,
+      "group": "adc5beb80697"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "man",
+      "meaningInSourceLanguage": "男人",
+      "id": "adbd44da093f",
+      "priority": 0,
+      "group": "d1512e0c96d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "man",
+      "meaning": "男人",
+      "audio": "425cd3a4d5e342e38262f5adae72baaa",
+      "id": "3b50219beabd",
+      "priority": 1,
+      "group": "d1512e0c96d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "woman",
+      "meaningInSourceLanguage": "女人",
+      "id": "b0cd7fbcbd49",
+      "priority": 0,
+      "group": "3e6e480282a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "woman",
+      "meaning": "女人",
+      "audio": "524e03966df54a4bb8f2fe09ceb235ee",
+      "id": "9c8b1c30197e",
+      "priority": 1,
+      "group": "3e6e480282a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boy",
+      "meaningInSourceLanguage": "男孩",
+      "id": "0f670f424515",
+      "priority": 0,
+      "group": "f587090e82d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boy",
+      "meaning": "男孩",
+      "audio": "6e27cc27bab34b749e9d2021ed30f48f",
+      "id": "79e2f8824cb5",
+      "priority": 1,
+      "group": "f587090e82d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "girl",
+      "meaningInSourceLanguage": "女孩",
+      "id": "7078afdc6369",
+      "priority": 0,
+      "group": "9ffb81caeb2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "girl",
+      "meaning": "女孩",
+      "audio": "3b5cefafd4bf48fc876e28663b5c617f",
+      "id": "c73ee023f83c",
+      "priority": 1,
+      "group": "9ffb81caeb2f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gentleman",
+      "meaningInSourceLanguage": "绅士",
+      "id": "e5286fb4be2f",
+      "priority": 0,
+      "group": "bc1da0913c05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gentleman",
+      "meaning": "绅士",
+      "audio": "f86b7664b0d44a85a31224a42ae032de",
+      "id": "30c1f350df3e",
+      "priority": 1,
+      "group": "bc1da0913c05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lady",
+      "meaningInSourceLanguage": "女士",
+      "id": "b60c860238a6",
+      "priority": 0,
+      "group": "8d677b47e14d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lady",
+      "meaning": "女士",
+      "audio": "79d184f35cbd49bab318b14f9ba1d516",
+      "id": "ca3ec8738b6b",
+      "priority": 1,
+      "group": "8d677b47e14d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sir",
+      "meaningInSourceLanguage": "先生",
+      "id": "be441af0b575",
+      "priority": 0,
+      "group": "5475ea158f50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sir",
+      "meaning": "先生",
+      "audio": "6da5f3e71939412394874c3c00230412",
+      "id": "991c0056c7c0",
+      "priority": 1,
+      "group": "5475ea158f50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "madam",
+      "meaningInSourceLanguage": "夫人",
+      "id": "605b99dc560f",
+      "priority": 0,
+      "group": "9dc861525dde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "madam",
+      "meaning": "夫人",
+      "audio": "3811794ca1e641bea06330bac6458e33",
+      "id": "5556f8298e9a",
+      "priority": 1,
+      "group": "9dc861525dde"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mr.",
+      "meaningInSourceLanguage": "先生",
+      "id": "8f0ba3849378",
+      "priority": 0,
+      "group": "aedcba8adc45"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mr.",
+      "meaning": "先生",
+      "audio": "71f8a3111ff543a7b14a4df9d40aa5c9",
+      "id": "80a30786bf39",
+      "priority": 1,
+      "group": "aedcba8adc45"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mrs.",
+      "meaningInSourceLanguage": "太太",
+      "id": "98c759e2d7f1",
+      "priority": 0,
+      "group": "78fa06a1f7c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mrs.",
+      "meaning": "太太",
+      "audio": "21627dbc0ca4407c96123116339efe03",
+      "id": "e38ff747f1a5",
+      "priority": 1,
+      "group": "78fa06a1f7c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Miss",
+      "meaningInSourceLanguage": "小姐",
+      "id": "648562019e23",
+      "priority": 0,
+      "group": "068778993472"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Miss",
+      "meaning": "小姐",
+      "audio": "a236387e031642cdbe91103f111de5bc",
+      "id": "0caff3950695",
+      "priority": 1,
+      "group": "068778993472"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ms.",
+      "meaningInSourceLanguage": "女士",
+      "id": "875cacef0f51",
+      "priority": 0,
+      "group": "d7568fe5c6b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ms.",
+      "meaning": "女士",
+      "audio": "20358bc2c9cc4fc686db14a5d6010035",
+      "id": "959013536b6c",
+      "priority": 1,
+      "group": "d7568fe5c6b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "family",
+      "meaningInSourceLanguage": "家庭",
+      "id": "64f3f100b439",
+      "priority": 0,
+      "group": "218b145d9c1c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "family",
+      "meaning": "家庭",
+      "audio": "14c12dfd73af46d390df084bba2d26e6",
+      "id": "8933d409cdb4",
+      "priority": 1,
+      "group": "218b145d9c1c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "relative",
+      "meaningInSourceLanguage": "亲戚",
+      "id": "78ecd4713244",
+      "priority": 0,
+      "group": "520fcdb2c4fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "relative",
+      "meaning": "亲戚",
+      "audio": "3a99a1119ed04dc5a15e0dcc22330b8b",
+      "id": "6fcb6049d742",
+      "priority": 1,
+      "group": "520fcdb2c4fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grandparent",
+      "meaningInSourceLanguage": "祖父母",
+      "id": "0c53043e3f3e",
+      "priority": 0,
+      "group": "bb650894e17d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grandparent",
+      "meaning": "祖父母",
+      "audio": "e793e3cef931411881d0af7ca6f2d420",
+      "id": "dc44496210c3",
+      "priority": 1,
+      "group": "bb650894e17d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "great-grandfather",
+      "meaningInSourceLanguage": "曾祖父",
+      "id": "1ff2265a92e1",
+      "priority": 0,
+      "group": "5bda078da28a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "great-grandfather",
+      "meaning": "曾祖父",
+      "audio": "64ed64d856f649ad935ce94bbd797467",
+      "id": "8e8463268187",
+      "priority": 1,
+      "group": "5bda078da28a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "great-grandmother",
+      "meaningInSourceLanguage": "曾祖母",
+      "id": "1a58b92579c5",
+      "priority": 0,
+      "group": "06d760334b20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "great-grandmother",
+      "meaning": "曾祖母",
+      "audio": "b6e9ecaac5f844b3a02fd86179343292",
+      "id": "6cee4e750317",
+      "priority": 1,
+      "group": "06d760334b20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "step-sister",
+      "meaningInSourceLanguage": "继姐妹",
+      "id": "b6af92cc2b71",
+      "priority": 0,
+      "group": "b7fc48304daa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "step-sister",
+      "meaning": "继姐妹",
+      "audio": "7a8d1cb8a7c243d98c89257ca5e1a6c2",
+      "id": "92055d38e4e3",
+      "priority": 1,
+      "group": "b7fc48304daa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "step-brother",
+      "meaningInSourceLanguage": "继兄弟",
+      "id": "3b143628d473",
+      "priority": 0,
+      "group": "fc31e73a374b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "step-brother",
+      "meaning": "继兄弟",
+      "audio": "7221a55be4d14261ad58f0a1fb7d5443",
+      "id": "8053c20fdbac",
+      "priority": 1,
+      "group": "fc31e73a374b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "foster parent",
+      "meaningInSourceLanguage": "养父母",
+      "id": "91ed2a3100d9",
+      "priority": 0,
+      "group": "2f64a9fc37bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "foster parent",
+      "meaning": "养父母",
+      "audio": "97da487be04b47b7b09bda443546f4ed",
+      "id": "527ccde04699",
+      "priority": 1,
+      "group": "2f64a9fc37bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "foster child",
+      "meaningInSourceLanguage": "养子",
+      "id": "a9dd9c2cc203",
+      "priority": 0,
+      "group": "4ac05b3303d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "foster child",
+      "meaning": "养子",
+      "audio": "880a64a8ead84fcc9f78f9894b7d222d",
+      "id": "b46051ce83c1",
+      "priority": 1,
+      "group": "4ac05b3303d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "adoptive parent",
+      "meaningInSourceLanguage": "养父母",
+      "id": "bf7b104b484b",
+      "priority": 0,
+      "group": "955c72d97f77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "adoptive parent",
+      "meaning": "养父母",
+      "audio": "e81df0c2487747289669477072c2f9b2",
+      "id": "94fe24aa4284",
+      "priority": 1,
+      "group": "955c72d97f77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "biological parent",
+      "meaningInSourceLanguage": "亲生父母",
+      "id": "0201f7036853",
+      "priority": 0,
+      "group": "144c7e1cdee5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "biological parent",
+      "meaning": "亲生父母",
+      "audio": "b9db1ecf12264e43a83c779b2ab30361",
+      "id": "a524e1fecb95",
+      "priority": 1,
+      "group": "144c7e1cdee5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "only child",
+      "meaningInSourceLanguage": "独生子女",
+      "id": "1e35a3130f5f",
+      "priority": 0,
+      "group": "68e6757dadeb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "only child",
+      "meaning": "独生子女",
+      "audio": "2724179011c34fc7bc6b11d3f2dabb04",
+      "id": "e263c5037b33",
+      "priority": 1,
+      "group": "68e6757dadeb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eldest",
+      "meaningInSourceLanguage": "最年长的",
+      "id": "545049cf1129",
+      "priority": 0,
+      "group": "3c858d21bd57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eldest",
+      "meaning": "最年长的",
+      "audio": "ecef0ff83bd74e0a8e7cfd764a0af5cd",
+      "id": "0f18b11e1ab0",
+      "priority": 1,
+      "group": "3c858d21bd57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "youngest",
+      "meaningInSourceLanguage": "最年幼的",
+      "id": "17ea9bd6fc38",
+      "priority": 0,
+      "group": "8993cb501eab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "youngest",
+      "meaning": "最年幼的",
+      "audio": "20ddc65620374d16984f83a89e677e4d",
+      "id": "222c7ca8c78c",
+      "priority": 1,
+      "group": "8993cb501eab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "middle child",
+      "meaningInSourceLanguage": "中间的孩子",
+      "id": "1bda2f00125e",
+      "priority": 0,
+      "group": "6407834e90b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "middle child",
+      "meaning": "中间的孩子",
+      "audio": "d3962dadac3d4db6aae79de35def08ac",
+      "id": "e7f921186c28",
+      "priority": 1,
+      "group": "6407834e90b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sibling",
+      "meaningInSourceLanguage": "兄弟姐妹",
+      "id": "9b57009c1cdd",
+      "priority": 0,
+      "group": "0945ecf7a504"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sibling",
+      "meaning": "兄弟姐妹",
+      "audio": "fa50cbdd0b8a4b68bbaf4a8dc891f472",
+      "id": "40bbe5232821",
+      "priority": 1,
+      "group": "0945ecf7a504"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spouse",
+      "meaningInSourceLanguage": "配偶",
+      "id": "fa707547e150",
+      "priority": 0,
+      "group": "5d31477a63f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spouse",
+      "meaning": "配偶",
+      "audio": "981138a983fb47078f1d1f6277875b3d",
+      "id": "64e267087728",
+      "priority": 1,
+      "group": "5d31477a63f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "partner",
+      "meaningInSourceLanguage": "伴侣",
+      "id": "1e5a10349dd2",
+      "priority": 0,
+      "group": "120025abd8b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "partner",
+      "meaning": "伴侣",
+      "audio": "9870a1f72d7d472c94a386b80c5f1fb4",
+      "id": "a3d945299e80",
+      "priority": 1,
+      "group": "120025abd8b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiancé",
+      "meaningInSourceLanguage": "未婚夫",
+      "id": "17faef27430c",
+      "priority": 0,
+      "group": "15a24d926344"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiancé",
+      "meaning": "未婚夫",
+      "audio": "730a95f72cc74767ab56b6359ac7bd1a",
+      "id": "eb5622e2e280",
+      "priority": 1,
+      "group": "15a24d926344"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiancée",
+      "meaningInSourceLanguage": "未婚妻",
+      "id": "0cd17fcf3da9",
+      "priority": 0,
+      "group": "9c056c4dd9c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiancée",
+      "meaning": "未婚妻",
+      "audio": "88386b7b0b0b4925bed7f5887d07dd84",
+      "id": "b411083fba6b",
+      "priority": 1,
+      "group": "9c056c4dd9c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ex-husband",
+      "meaningInSourceLanguage": "前夫",
+      "id": "8d713526a2cd",
+      "priority": 0,
+      "group": "bad8fbbd8156"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ex-husband",
+      "meaning": "前夫",
+      "audio": "6db6c62b291d4f31add8d8d8a12d86f8",
+      "id": "e6925c6df827",
+      "priority": 1,
+      "group": "bad8fbbd8156"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ex-wife",
+      "meaningInSourceLanguage": "前妻",
+      "id": "3f536e07b241",
+      "priority": 0,
+      "group": "e5838132b130"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ex-wife",
+      "meaning": "前妻",
+      "audio": "95d53d95fedc494387a78f7f3bf6d80a",
+      "id": "f34eed94b111",
+      "priority": 1,
+      "group": "e5838132b130"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ex-boyfriend",
+      "meaningInSourceLanguage": "前男友",
+      "id": "9f605e6f963c",
+      "priority": 0,
+      "group": "df1e7507a058"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ex-boyfriend",
+      "meaning": "前男友",
+      "audio": "129835c491834667b551dc33e785e5ea",
+      "id": "0a1680b40b44",
+      "priority": 1,
+      "group": "df1e7507a058"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ex-girlfriend",
+      "meaningInSourceLanguage": "前女友",
+      "id": "427647e7cc20",
+      "priority": 0,
+      "group": "33732b7b47b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ex-girlfriend",
+      "meaning": "前女友",
+      "audio": "99308d2c956b4b70bba8157d63c32165",
+      "id": "d5a30267fdd4",
+      "priority": 1,
+      "group": "33732b7b47b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roommate",
+      "meaningInSourceLanguage": "室友",
+      "id": "a6cdb9cad9b7",
+      "priority": 0,
+      "group": "53c19b391487"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roommate",
+      "meaning": "室友",
+      "audio": "e5eaf05028934b31a506ba272cc291b3",
+      "id": "6162438897eb",
+      "priority": 1,
+      "group": "53c19b391487"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flatmate",
+      "meaningInSourceLanguage": "合租者",
+      "id": "e06334d04c8f",
+      "priority": 0,
+      "group": "a1d85209808f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flatmate",
+      "meaning": "合租者",
+      "audio": "c7192d505f0e45e5a1137a47e36cb410",
+      "id": "385bfb440c93",
+      "priority": 1,
+      "group": "a1d85209808f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pen pal",
+      "meaningInSourceLanguage": "笔友",
+      "id": "58003da6aec0",
+      "priority": 0,
+      "group": "316df71520b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pen pal",
+      "meaning": "笔友",
+      "audio": "35f2e6229bde453bae0d6b28cf084843",
+      "id": "8236e3f68ff9",
+      "priority": 1,
+      "group": "316df71520b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acquaintance",
+      "meaningInSourceLanguage": "熟人",
+      "id": "f1ef962f1273",
+      "priority": 0,
+      "group": "45d8f168b2f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acquaintance",
+      "meaning": "熟人",
+      "audio": "02cdbfa16112458fb5f7e34c8e2d574f",
+      "id": "3a47dd116ed9",
+      "priority": 1,
+      "group": "45d8f168b2f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mentor",
+      "meaningInSourceLanguage": "导师",
+      "id": "c13a5fccff1c",
+      "priority": 0,
+      "group": "15ffba37f883"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mentor",
+      "meaning": "导师",
+      "audio": "6807ba2ccebe4c3ab2b5d85e90ce7de7",
+      "id": "59b11a8740d8",
+      "priority": 1,
+      "group": "15ffba37f883"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mentee",
+      "meaningInSourceLanguage": "学员",
+      "id": "2b892d48933e",
+      "priority": 0,
+      "group": "c2375253b8a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mentee",
+      "meaning": "学员",
+      "audio": "fbc6ee58edd94c379d016fad11e1449f",
+      "id": "6b32fc6b1559",
+      "priority": 1,
+      "group": "c2375253b8a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "role model",
+      "meaningInSourceLanguage": "榜样",
+      "id": "de0a0a146a71",
+      "priority": 0,
+      "group": "fe2eb7ea453a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "role model",
+      "meaning": "榜样",
+      "audio": "60f5fcb38db84dcb8722462025291e4e",
+      "id": "c785771f7304",
+      "priority": 1,
+      "group": "fe2eb7ea453a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guardian",
+      "meaningInSourceLanguage": "监护人",
+      "id": "9203c939c462",
+      "priority": 0,
+      "group": "f202bb6dabe3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guardian",
+      "meaning": "监护人",
+      "audio": "f81483d4e727461e9196028de179e810",
+      "id": "6b592e9ce0a3",
+      "priority": 1,
+      "group": "f202bb6dabe3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "caretaker",
+      "meaningInSourceLanguage": "看护人",
+      "id": "49fe2ec1494d",
+      "priority": 0,
+      "group": "1d3b9b8bfd3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "caretaker",
+      "meaning": "看护人",
+      "audio": "5900d5504b9f40d7ad2f44cf40ee0069",
+      "id": "c85199205c3e",
+      "priority": 1,
+      "group": "1d3b9b8bfd3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nanny",
+      "meaningInSourceLanguage": "保姆",
+      "id": "f2b04af40dee",
+      "priority": 0,
+      "group": "eb42c0756bb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nanny",
+      "meaning": "保姆",
+      "audio": "b6bfafa8f4784b34ad462069e447f8a3",
+      "id": "0d9d5c215c31",
+      "priority": 1,
+      "group": "eb42c0756bb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "babysitter",
+      "meaningInSourceLanguage": "临时保姆",
+      "id": "13aa621ba7ca",
+      "priority": 0,
+      "group": "d213ac4da4d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "babysitter",
+      "meaning": "临时保姆",
+      "audio": "5e583c79fd724eb881572242035831bc",
+      "id": "271f9429727b",
+      "priority": 1,
+      "group": "d213ac4da4d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "godparent",
+      "meaningInSourceLanguage": "教父母",
+      "id": "767af4d2317d",
+      "priority": 0,
+      "group": "232053f58e74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "godparent",
+      "meaning": "教父母",
+      "audio": "776d576f7c41434ea7dda8e1182183f0",
+      "id": "c1aec913a21d",
+      "priority": 1,
+      "group": "232053f58e74"
+    }
+  ]
+}

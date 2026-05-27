@@ -1,0 +1,958 @@
+{
+  "id": "b25aca7d8316",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Good morning! How did you sleep?",
+      "meaningInSourceLanguage": "早上好！你睡得好吗？",
+      "id": "b648d6d49b55",
+      "priority": 0,
+      "group": "10311755704c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Good morning! How did you sleep?",
+      "meaning": "早上好！你睡得好吗？",
+      "audio": "9bdb08b86a414c7f8e5cf231f624519e",
+      "id": "dd6b3fb75a8b",
+      "priority": 1,
+      "group": "10311755704c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I slept very well, thank you.",
+      "meaningInSourceLanguage": "我睡得非常好，谢谢。",
+      "id": "63495bf0cfb8",
+      "priority": 0,
+      "group": "42aea5cfb8a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I slept very well, thank you.",
+      "meaning": "我睡得非常好，谢谢。",
+      "audio": "d28314ab56af45d4b0333a7f364e36fc",
+      "id": "f9d08da2bef6",
+      "priority": 1,
+      "group": "42aea5cfb8a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Would you like some coffee?",
+      "meaningInSourceLanguage": "你想喝点咖啡吗？",
+      "id": "5cd81bb811a3",
+      "priority": 0,
+      "group": "a156a677655a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Would you like some coffee?",
+      "meaning": "你想喝点咖啡吗？",
+      "audio": "9edea10af9ff41aa9b31360044caf620",
+      "id": "bd06d57997be",
+      "priority": 1,
+      "group": "a156a677655a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, please. I need it this morning.",
+      "meaningInSourceLanguage": "好的，今天早上我需要它。",
+      "id": "5f69ad814fcf",
+      "priority": 0,
+      "group": "9d08b69849a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, please. I need it this morning.",
+      "meaning": "好的，今天早上我需要它。",
+      "audio": "4bc3d15950314e4e98370aa9a53db6a5",
+      "id": "8f268bc8bb94",
+      "priority": 1,
+      "group": "9d08b69849a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How was the traffic?",
+      "meaningInSourceLanguage": "交通怎么样？",
+      "id": "0fe8e54a4b44",
+      "priority": 0,
+      "group": "a13451a16683"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How was the traffic?",
+      "meaning": "交通怎么样？",
+      "audio": "08a7e0df75ab4f14aee56e0bf2841406",
+      "id": "481317cd02e5",
+      "priority": 1,
+      "group": "a13451a16683"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It was terrible. I was stuck for an hour.",
+      "meaningInSourceLanguage": "太糟糕了。我被堵了一个小时。",
+      "id": "5c1515ed41e1",
+      "priority": 0,
+      "group": "61cf2c1bdc7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It was terrible. I was stuck for an hour.",
+      "meaning": "太糟糕了。我被堵了一个小时。",
+      "audio": "37a85f41eca44880a6dc3ff906a031e9",
+      "id": "667b0d4e0fa1",
+      "priority": 1,
+      "group": "61cf2c1bdc7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you finish the report?",
+      "meaningInSourceLanguage": "你完成报告了吗？",
+      "id": "9c724675a849",
+      "priority": 0,
+      "group": "c0e43d5a720a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you finish the report?",
+      "meaning": "你完成报告了吗？",
+      "audio": "82468589895c4aefb5d3dcfb77287415",
+      "id": "757ad64001b3",
+      "priority": 1,
+      "group": "c0e43d5a720a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Almost done. Just need to add some data.",
+      "meaningInSourceLanguage": "差不多了。只需要加一些数据。",
+      "id": "cc289efe247c",
+      "priority": 0,
+      "group": "2627d57d5315"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Almost done. Just need to add some data.",
+      "meaning": "差不多了。只需要加一些数据。",
+      "audio": "97d4096bb6dc4acabc1c87610039b8de",
+      "id": "c3ed451d5d9f",
+      "priority": 1,
+      "group": "2627d57d5315"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's grab lunch together.",
+      "meaningInSourceLanguage": "我们一起吃午饭吧。",
+      "id": "8fb1941049dd",
+      "priority": 0,
+      "group": "03b3b5bbd3f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's grab lunch together.",
+      "meaning": "我们一起吃午饭吧。",
+      "audio": "71d7ec072592411b951c106721579b68",
+      "id": "9d2571766e05",
+      "priority": 1,
+      "group": "03b3b5bbd3f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, I know a good place nearby.",
+      "meaningInSourceLanguage": "好的，我知道附近有个好地方。",
+      "id": "a4f624df207b",
+      "priority": 0,
+      "group": "87d4a5707bc9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, I know a good place nearby.",
+      "meaning": "好的，我知道附近有个好地方。",
+      "audio": "7d9e5280d3ef48e3b0508c1c9c86b916",
+      "id": "59fc61cc152c",
+      "priority": 1,
+      "group": "87d4a5707bc9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's the weather like today?",
+      "meaningInSourceLanguage": "今天天气怎么样？",
+      "id": "cdd52f081aa4",
+      "priority": 0,
+      "group": "00afbe2bdb9d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's the weather like today?",
+      "meaning": "今天天气怎么样？",
+      "audio": "4e72eb180f2e44518d3d16640799e17e",
+      "id": "b1ee2373e202",
+      "priority": 1,
+      "group": "00afbe2bdb9d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's raining. Don't forget your umbrella.",
+      "meaningInSourceLanguage": "在下雨。别忘了带伞。",
+      "id": "d81db1da2747",
+      "priority": 0,
+      "group": "00c532b74ed1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's raining. Don't forget your umbrella.",
+      "meaning": "在下雨。别忘了带伞。",
+      "audio": "669a104c6c5f45a5978e2b8801ee8183",
+      "id": "9b1d03b21960",
+      "priority": 1,
+      "group": "00c532b74ed1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I borrow your charger?",
+      "meaningInSourceLanguage": "我能借你的充电器吗？",
+      "id": "5ac9699e3625",
+      "priority": 0,
+      "group": "2189e2e89aac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I borrow your charger?",
+      "meaning": "我能借你的充电器吗？",
+      "audio": "f1b3c2ee1435435ba19d793ddecd1133",
+      "id": "d20331829e05",
+      "priority": 1,
+      "group": "2189e2e89aac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, I have a spare one.",
+      "meaningInSourceLanguage": "当然，我有一个备用的。",
+      "id": "67eadf303cc2",
+      "priority": 0,
+      "group": "4130b92eade1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, I have a spare one.",
+      "meaning": "当然，我有一个备用的。",
+      "audio": "ad3220fb82b34d0eb29acd8dfc561a31",
+      "id": "bb957907cecb",
+      "priority": 1,
+      "group": "4130b92eade1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Are you coming to the party tonight?",
+      "meaningInSourceLanguage": "你今晚来参加派对吗？",
+      "id": "59d403e28106",
+      "priority": 0,
+      "group": "87ff14d0f3f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Are you coming to the party tonight?",
+      "meaning": "你今晚来参加派对吗？",
+      "audio": "8d9da7e754f6422fae89f9a2f7ce14bb",
+      "id": "7d999d392894",
+      "priority": 1,
+      "group": "87ff14d0f3f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm not sure yet. I might be busy.",
+      "meaningInSourceLanguage": "还不确定。我可能很忙。",
+      "id": "2fda03e1ec93",
+      "priority": 0,
+      "group": "bb270e06f83a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm not sure yet. I might be busy.",
+      "meaning": "还不确定。我可能很忙。",
+      "audio": "d6dae23c6aba40ccb2e0b531f1e69ed6",
+      "id": "4ce70afb26d3",
+      "priority": 1,
+      "group": "bb270e06f83a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What did you think of the movie?",
+      "meaningInSourceLanguage": "你觉得电影怎么样？",
+      "id": "3ef3d0094a91",
+      "priority": 0,
+      "group": "1a8f96310a47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What did you think of the movie?",
+      "meaning": "你觉得电影怎么样？",
+      "audio": "2b80f7dc52d54c579c5611f41791022c",
+      "id": "a5fed5cfcc1a",
+      "priority": 1,
+      "group": "1a8f96310a47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It was amazing! The acting was great.",
+      "meaningInSourceLanguage": "太棒了！演技很好。",
+      "id": "3960e69dd664",
+      "priority": 0,
+      "group": "4037edf825be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It was amazing! The acting was great.",
+      "meaning": "太棒了！演技很好。",
+      "audio": "0bc3a354303d46a58e211685389c6a9e",
+      "id": "6bcf1375c762",
+      "priority": 1,
+      "group": "4037edf825be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to go to the supermarket.",
+      "meaningInSourceLanguage": "我需要去超市。",
+      "id": "1344d38a2ff5",
+      "priority": 0,
+      "group": "c084dbf3d9da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to go to the supermarket.",
+      "meaning": "我需要去超市。",
+      "audio": "2d0d47da1c2d4789b169d49b7f4b37bd",
+      "id": "6f2e8b50b9c4",
+      "priority": 1,
+      "group": "c084dbf3d9da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll come with you. I need some things too.",
+      "meaningInSourceLanguage": "我跟你一起去。我也需要买点东西。",
+      "id": "07e52c7bfedb",
+      "priority": 0,
+      "group": "e2ede6c7a2f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll come with you. I need some things too.",
+      "meaning": "我跟你一起去。我也需要买点东西。",
+      "audio": "2907292ab63d4221bdf41ee072baf1db",
+      "id": "b0cb17fecd7c",
+      "priority": 1,
+      "group": "e2ede6c7a2f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Happy birthday! Here's a gift.",
+      "meaningInSourceLanguage": "生日快乐！这是礼物。",
+      "id": "03c6fbf7462c",
+      "priority": 0,
+      "group": "316925a6b9c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Happy birthday! Here's a gift.",
+      "meaning": "生日快乐！这是礼物。",
+      "audio": "056c29370d6f4fd6bad15e5d30c69f23",
+      "id": "c8dd9e7f68f6",
+      "priority": 1,
+      "group": "316925a6b9c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thank you so much! You're so thoughtful.",
+      "meaningInSourceLanguage": "太谢谢了！你太贴心了。",
+      "id": "5a213899b73e",
+      "priority": 0,
+      "group": "276344f8e3f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thank you so much! You're so thoughtful.",
+      "meaning": "太谢谢了！你太贴心了。",
+      "audio": "c9753d2f5fd74b3f88f525c485e44820",
+      "id": "a0efde637f22",
+      "priority": 1,
+      "group": "276344f8e3f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm sorry I'm late.",
+      "meaningInSourceLanguage": "对不起，我迟到了。",
+      "id": "e7baa50919fc",
+      "priority": 0,
+      "group": "7f399fcd5376"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm sorry I'm late.",
+      "meaning": "对不起，我迟到了。",
+      "audio": "645fb780fcc14699a8ee8dc995aae375",
+      "id": "8fa904d998f6",
+      "priority": 1,
+      "group": "7f399fcd5376"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's okay. The traffic is bad today.",
+      "meaningInSourceLanguage": "没关系。今天交通不好。",
+      "id": "ad221ff2b6e2",
+      "priority": 0,
+      "group": "a4667a2d62cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's okay. The traffic is bad today.",
+      "meaning": "没关系。今天交通不好。",
+      "audio": "95ccc4847e164edba837eca13c44bbcc",
+      "id": "5ce886d1071c",
+      "priority": 1,
+      "group": "a4667a2d62cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let me introduce you to my friend.",
+      "meaningInSourceLanguage": "让我给你介绍我的朋友。",
+      "id": "d404a651a6e4",
+      "priority": 0,
+      "group": "ba90fcad1420"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let me introduce you to my friend.",
+      "meaning": "让我给你介绍我的朋友。",
+      "audio": "10d4c19cc95148d291abd9779fd6fd4d",
+      "id": "8daaa1b1d993",
+      "priority": 1,
+      "group": "ba90fcad1420"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nice to meet you! I've heard so much about you.",
+      "meaningInSourceLanguage": "很高兴认识你！久仰大名。",
+      "id": "d26f81390c3e",
+      "priority": 0,
+      "group": "7bb225116363"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nice to meet you! I've heard so much about you.",
+      "meaning": "很高兴认识你！久仰大名。",
+      "audio": "389f6919324d47faa51f721c3569ace5",
+      "id": "d18da5997581",
+      "priority": 1,
+      "group": "7bb225116363"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could you please turn down the music?",
+      "meaningInSourceLanguage": "你能把音乐关小点吗？",
+      "id": "305ba3467264",
+      "priority": 0,
+      "group": "0f8dfe44028d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could you please turn down the music?",
+      "meaning": "你能把音乐关小点吗？",
+      "audio": "dae62f04348e480189309a7d10e27d9f",
+      "id": "273468f92b0e",
+      "priority": 1,
+      "group": "0f8dfe44028d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oh, sorry. Is it too loud?",
+      "meaningInSourceLanguage": "哦，抱歉。太吵了吗？",
+      "id": "2d991bea6559",
+      "priority": 0,
+      "group": "dc16f6f9b60a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Oh, sorry. Is it too loud?",
+      "meaning": "哦，抱歉。太吵了吗？",
+      "audio": "ff8b014c4a5f4c15b46eead4442e00f3",
+      "id": "0fdec0045f65",
+      "priority": 1,
+      "group": "dc16f6f9b60a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm learning to cook Chinese food.",
+      "meaningInSourceLanguage": "我在学做中国菜。",
+      "id": "736168f0eb9c",
+      "priority": 0,
+      "group": "95b70179f195"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm learning to cook Chinese food.",
+      "meaning": "我在学做中国菜。",
+      "audio": "13db661e512e400e9f2f6f44466e2105",
+      "id": "c307f2e88552",
+      "priority": 1,
+      "group": "95b70179f195"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That's great! Can I try some?",
+      "meaningInSourceLanguage": "太好了！我能尝尝吗？",
+      "id": "68ffd1864375",
+      "priority": 0,
+      "group": "0650335d450e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That's great! Can I try some?",
+      "meaning": "太好了！我能尝尝吗？",
+      "audio": "95e2369e03c34e7d8806cb39d16fcdd2",
+      "id": "0fdf0a7b74d7",
+      "priority": 1,
+      "group": "0650335d450e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's your phone number?",
+      "meaningInSourceLanguage": "你的电话号码是多少？",
+      "id": "cedce5ec68b8",
+      "priority": 0,
+      "group": "e353ee72b37d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's your phone number?",
+      "meaning": "你的电话号码是多少？",
+      "audio": "8ce811fdbd1b4271a9fb442722d61579",
+      "id": "cf8780811868",
+      "priority": 1,
+      "group": "e353ee72b37d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's 138-5555-1234.",
+      "meaningInSourceLanguage": "138-5555-1234。",
+      "id": "a029fa5bb829",
+      "priority": 0,
+      "group": "2b77319de842"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's 138-5555-1234.",
+      "meaning": "138-5555-1234。",
+      "audio": "42d7752ac0ac4f69857ed1ab06777900",
+      "id": "c9efc448f48b",
+      "priority": 1,
+      "group": "2b77319de842"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll text you later.",
+      "meaningInSourceLanguage": "我晚点发短信给你。",
+      "id": "7b21b555e4d6",
+      "priority": 0,
+      "group": "01668eb3ac33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll text you later.",
+      "meaning": "我晚点发短信给你。",
+      "audio": "6d71d30522974719abad02f7fdc6ceae",
+      "id": "f53582391561",
+      "priority": 1,
+      "group": "01668eb3ac33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "OK, talk to you later!",
+      "meaningInSourceLanguage": "好的，回头聊！",
+      "id": "940e9b5718f7",
+      "priority": 0,
+      "group": "540df181d4b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "OK, talk to you later!",
+      "meaning": "好的，回头聊！",
+      "audio": "fc52c77c04b64a1b9615de2f6250827b",
+      "id": "686777738158",
+      "priority": 1,
+      "group": "540df181d4b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How's your family?",
+      "meaningInSourceLanguage": "你的家人好吗？",
+      "id": "71a7b5545516",
+      "priority": 0,
+      "group": "fce16dbbb6e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How's your family?",
+      "meaning": "你的家人好吗？",
+      "audio": "d1cbb205f4a843e3bf4cd2c1887d4e3c",
+      "id": "98d377a97755",
+      "priority": 1,
+      "group": "fce16dbbb6e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Everyone is doing well, thanks for asking.",
+      "meaningInSourceLanguage": "大家都很好，谢谢关心。",
+      "id": "ae9d5be60ba3",
+      "priority": 0,
+      "group": "b74a03e039e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Everyone is doing well, thanks for asking.",
+      "meaning": "大家都很好，谢谢关心。",
+      "audio": "adcbf0baa4b443a4a77a05e6db095aa2",
+      "id": "a39677a226ec",
+      "priority": 1,
+      "group": "b74a03e039e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you exercise regularly?",
+      "meaningInSourceLanguage": "你经常锻炼吗？",
+      "id": "1d0a8d732d34",
+      "priority": 0,
+      "group": "5ef7449e82f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you exercise regularly?",
+      "meaning": "你经常锻炼吗？",
+      "audio": "b2378cf62baa446d9e9340db882e6b3c",
+      "id": "56b22b779812",
+      "priority": 1,
+      "group": "5ef7449e82f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I try to go to the gym three times a week.",
+      "meaningInSourceLanguage": "我尽量每周去三次健身房。",
+      "id": "7d07544fb726",
+      "priority": 0,
+      "group": "1eaaecfcbacc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I try to go to the gym three times a week.",
+      "meaning": "我尽量每周去三次健身房。",
+      "audio": "28ea73afab944cf6b15d7f6bc442290b",
+      "id": "5c8b98352419",
+      "priority": 1,
+      "group": "1eaaecfcbacc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What kind of music do you like?",
+      "meaningInSourceLanguage": "你喜欢什么类型的音乐？",
+      "id": "5d06a5501195",
+      "priority": 0,
+      "group": "275ec161bb17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What kind of music do you like?",
+      "meaning": "你喜欢什么类型的音乐？",
+      "audio": "2f7bbbb47f11454e87ebb6f5ee6aec86",
+      "id": "2857ee1745d0",
+      "priority": 1,
+      "group": "275ec161bb17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like pop and rock music.",
+      "meaningInSourceLanguage": "我喜欢流行音乐和摇滚乐。",
+      "id": "86d5852afa0f",
+      "priority": 0,
+      "group": "0936f00dc9d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like pop and rock music.",
+      "meaning": "我喜欢流行音乐和摇滚乐。",
+      "audio": "ab822051989b4824b7663e4903e5241f",
+      "id": "745ff760d6f2",
+      "priority": 1,
+      "group": "0936f00dc9d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Have you ever been to China?",
+      "meaningInSourceLanguage": "你去过中国吗？",
+      "id": "e0184f0f8b66",
+      "priority": 0,
+      "group": "d7a34cf34baa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Have you ever been to China?",
+      "meaning": "你去过中国吗？",
+      "audio": "350f06069316404381c5913f79518686",
+      "id": "bd74afec642f",
+      "priority": 1,
+      "group": "d7a34cf34baa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, I visited Beijing last year.",
+      "meaningInSourceLanguage": "是的，我去年去了北京。",
+      "id": "eeed298c5537",
+      "priority": 0,
+      "group": "c5f1a7cbd8e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, I visited Beijing last year.",
+      "meaning": "是的，我去年去了北京。",
+      "audio": "27a05395de894f2bbd9d850fb87bfa03",
+      "id": "289ca75e0ad0",
+      "priority": 1,
+      "group": "c5f1a7cbd8e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could you recommend a good book?",
+      "meaningInSourceLanguage": "你能推荐一本好书吗？",
+      "id": "68e9766bd997",
+      "priority": 0,
+      "group": "96a6848502d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could you recommend a good book?",
+      "meaning": "你能推荐一本好书吗？",
+      "audio": "051bebb8993e403d99fef8052df4902b",
+      "id": "4f0a84523133",
+      "priority": 1,
+      "group": "96a6848502d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I recently read a great novel you might like.",
+      "meaningInSourceLanguage": "我最近读了一本你可能喜欢的小说。",
+      "id": "a92ab03b119c",
+      "priority": 0,
+      "group": "0e9224045805"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I recently read a great novel you might like.",
+      "meaning": "我最近读了一本你可能喜欢的小说。",
+      "audio": "2c7fdd19cb7147d5883599c4cf6e8571",
+      "id": "3d1a48d4bf8a",
+      "priority": 1,
+      "group": "0e9224045805"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm thinking about starting a business.",
+      "meaningInSourceLanguage": "我在考虑创业。",
+      "id": "3a7565ffc411",
+      "priority": 0,
+      "group": "43ebf9882f47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm thinking about starting a business.",
+      "meaning": "我在考虑创业。",
+      "audio": "656e8d1f4df44b589ab41d2ffa82dc56",
+      "id": "4b96f9249a9d",
+      "priority": 1,
+      "group": "43ebf9882f47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That's exciting! What kind of business?",
+      "meaningInSourceLanguage": "太令人兴奋了！什么样的生意？",
+      "id": "84f2441159dd",
+      "priority": 0,
+      "group": "6ed9b0a5807d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That's exciting! What kind of business?",
+      "meaning": "太令人兴奋了！什么样的生意？",
+      "audio": "ee95c196db264a9b9ab83689386ef676",
+      "id": "7d117a49044a",
+      "priority": 1,
+      "group": "6ed9b0a5807d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How do I get to the train station?",
+      "meaningInSourceLanguage": "去火车站怎么走？",
+      "id": "9467ea7b5d18",
+      "priority": 0,
+      "group": "aa8820da9179"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How do I get to the train station?",
+      "meaning": "去火车站怎么走？",
+      "audio": "9181fbcae27a4556bc3cb6c1899ee652",
+      "id": "c7da03635a0e",
+      "priority": 1,
+      "group": "aa8820da9179"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Go straight for two blocks then turn right.",
+      "meaningInSourceLanguage": "直走两个街区然后右转。",
+      "id": "31f2a159d4c2",
+      "priority": 0,
+      "group": "48ab0a47c758"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Go straight for two blocks then turn right.",
+      "meaning": "直走两个街区然后右转。",
+      "audio": "1acffdef3ff64863981396e03e9f6dd2",
+      "id": "e37587bd758e",
+      "priority": 1,
+      "group": "48ab0a47c758"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is this seat taken?",
+      "meaningInSourceLanguage": "这个座位有人吗？",
+      "id": "a287414710a7",
+      "priority": 0,
+      "group": "89c4270bc902"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is this seat taken?",
+      "meaning": "这个座位有人吗？",
+      "audio": "52c1128b802f4de7bdcdd3c76861bcf7",
+      "id": "46154662573f",
+      "priority": 1,
+      "group": "89c4270bc902"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "No, feel free to sit down.",
+      "meaningInSourceLanguage": "没有，请坐。",
+      "id": "0f811593bbb7",
+      "priority": 0,
+      "group": "c1c388e357fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "No, feel free to sit down.",
+      "meaning": "没有，请坐。",
+      "audio": "cf2c96b405af40488558f07c1a738cac",
+      "id": "32c3d9d39208",
+      "priority": 1,
+      "group": "c1c388e357fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have a headache.",
+      "meaningInSourceLanguage": "我头疼。",
+      "id": "3f4102d1997c",
+      "priority": 0,
+      "group": "4fddcae227c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have a headache.",
+      "meaning": "我头疼。",
+      "audio": "85496beff5b34c8288e4765e14373097",
+      "id": "b2b96fc201f1",
+      "priority": 1,
+      "group": "4fddcae227c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "You should take some medicine and rest.",
+      "meaningInSourceLanguage": "你应该吃点药休息一下。",
+      "id": "57de47c4e585",
+      "priority": 0,
+      "group": "48e421fb1c67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "You should take some medicine and rest.",
+      "meaning": "你应该吃点药休息一下。",
+      "audio": "bfd638efcf10475889586c2f02696fb9",
+      "id": "3c9cd218767c",
+      "priority": 1,
+      "group": "48e421fb1c67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What time do you usually wake up?",
+      "meaningInSourceLanguage": "你通常几点起床？",
+      "id": "37e65f824fd5",
+      "priority": 0,
+      "group": "9b860ed994d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What time do you usually wake up?",
+      "meaning": "你通常几点起床？",
+      "audio": "ac6ce6e7186c492981896a5b1ac96e84",
+      "id": "835ad650beb6",
+      "priority": 1,
+      "group": "9b860ed994d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I usually wake up at 6:30 am.",
+      "meaningInSourceLanguage": "我通常早上6点半起床。",
+      "id": "aa0c699fcdc3",
+      "priority": 0,
+      "group": "fcedcd7d02e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I usually wake up at 6:30 am.",
+      "meaning": "我通常早上6点半起床。",
+      "audio": "22aae2baeb774cd4af74d17c77db7ea2",
+      "id": "76d2acfdf28d",
+      "priority": 1,
+      "group": "fcedcd7d02e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's go for a walk in the park.",
+      "meaningInSourceLanguage": "我们去公园散步吧。",
+      "id": "74f4f52612c9",
+      "priority": 0,
+      "group": "0900da8d2c5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's go for a walk in the park.",
+      "meaning": "我们去公园散步吧。",
+      "audio": "116bf91ed632450cb4060873821ae8ab",
+      "id": "fecd31fe7351",
+      "priority": 1,
+      "group": "0900da8d2c5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That sounds lovely. Let me get my shoes.",
+      "meaningInSourceLanguage": "听起来不错。我去拿鞋。",
+      "id": "938b77afd3b7",
+      "priority": 0,
+      "group": "6a95059d9426"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That sounds lovely. Let me get my shoes.",
+      "meaning": "听起来不错。我去拿鞋。",
+      "audio": "75b6cb76bb744eeea519652f7d03c842",
+      "id": "c3f2aa1630ac",
+      "priority": 1,
+      "group": "6a95059d9426"
+    }
+  ]
+}

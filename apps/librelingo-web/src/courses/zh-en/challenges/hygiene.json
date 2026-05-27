@@ -1,0 +1,567 @@
+{
+  "id": "ebb857adedd9",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "shower",
+      "meaningInSourceLanguage": "淋浴",
+      "id": "6c6f03a602e3",
+      "priority": 0,
+      "group": "38803d63cb37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shower",
+      "meaning": "淋浴",
+      "audio": "67e862b9363e28fec0a5853b7d4f1669e5282d629306d09943d8cc74b7ebbab4",
+      "id": "175773c2861e",
+      "priority": 1,
+      "group": "38803d63cb37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bath",
+      "meaningInSourceLanguage": "洗澡",
+      "id": "a91266a22825",
+      "priority": 0,
+      "group": "d89ed9066286"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bath",
+      "meaning": "洗澡",
+      "audio": "eddf0bc29f5b89cf2aac4566b3e2c559cbf08eb1fb53f36b927121eb3da77f04",
+      "id": "fbfd6b5d3df0",
+      "priority": 1,
+      "group": "d89ed9066286"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wash",
+      "meaningInSourceLanguage": "洗",
+      "id": "2434174e98db",
+      "priority": 0,
+      "group": "86ba9503056c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wash",
+      "meaning": "洗",
+      "audio": "562ed05c253157d568a0337ed82108a56d2557ccedd2303a7a1d45d1469ba0a6",
+      "id": "5c87732ce8b6",
+      "priority": 1,
+      "group": "86ba9503056c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clean",
+      "meaningInSourceLanguage": "清洁",
+      "id": "50220eeb3a2c",
+      "priority": 0,
+      "group": "225e901ed96f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clean",
+      "meaning": "清洁",
+      "audio": "a0c1cd20d772b621fa13b87f2d7a59b499b6b911951cc7a5429d3cd95238a075",
+      "id": "dd0adf7f394f",
+      "priority": 1,
+      "group": "225e901ed96f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brush",
+      "meaningInSourceLanguage": "刷",
+      "id": "dfd1ae6c7624",
+      "priority": 0,
+      "group": "3ab0211c3424"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brush",
+      "meaning": "刷",
+      "audio": "be72b35e0c313ae2f74afb480c7ac8d47f36356ccfa4882426eb2c49fc7d27f5",
+      "id": "e88d97378a63",
+      "priority": 1,
+      "group": "3ab0211c3424"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "floss",
+      "meaningInSourceLanguage": "用牙线",
+      "id": "824e1da77fbd",
+      "priority": 0,
+      "group": "52c95840d0a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "floss",
+      "meaning": "用牙线",
+      "audio": "d8e69f4fa564648c730826b3d617e5acc3043d244a9ec89062f2fdf4097468bb",
+      "id": "39dcb6458c9a",
+      "priority": 1,
+      "group": "52c95840d0a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comb",
+      "meaningInSourceLanguage": "梳子",
+      "id": "9f47a264a002",
+      "priority": 0,
+      "group": "614eef0e0995"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comb",
+      "meaning": "梳子",
+      "audio": "9a132c564d27537da2ad5f5c56ca193d73836321381693bb56b327144e13f8bf",
+      "id": "c50ea324acfc",
+      "priority": 1,
+      "group": "614eef0e0995"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shave",
+      "meaningInSourceLanguage": "刮胡子",
+      "id": "3b57d3607418",
+      "priority": 0,
+      "group": "b7be15b1f4d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shave",
+      "meaning": "刮胡子",
+      "audio": "4cfc4d8dcc3487d44c03855bebbd0e10ca2426bd86829de635febfece075239e",
+      "id": "53f8bb0505b6",
+      "priority": 1,
+      "group": "b7be15b1f4d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trim",
+      "meaningInSourceLanguage": "修剪",
+      "id": "6d1fd475b8d5",
+      "priority": 0,
+      "group": "7c4a296880f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trim",
+      "meaning": "修剪",
+      "audio": "654a7ea5af207a811eb32044a8cd10f7ef30a4dce6f0ab0efa7c2485ff8d3200",
+      "id": "a3fff431e621",
+      "priority": 1,
+      "group": "7c4a296880f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cut",
+      "meaningInSourceLanguage": "剪",
+      "id": "2f65fc6a5526",
+      "priority": 0,
+      "group": "4e77455c1543"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cut",
+      "meaning": "剪",
+      "audio": "40699928bb243584e7e16b18d15b6ec85de55c700e8c364efd035ec014930e7d",
+      "id": "a1db6243e187",
+      "priority": 1,
+      "group": "4e77455c1543"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soap",
+      "meaningInSourceLanguage": "肥皂",
+      "id": "cfde477c44b4",
+      "priority": 0,
+      "group": "658abcfbe70b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soap",
+      "meaning": "肥皂",
+      "audio": "78dfcf823d46dac42d981fd1f013a84efc541c9f8e3f6952ccb49164e192541d",
+      "id": "099f5335f62a",
+      "priority": 1,
+      "group": "658abcfbe70b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shampoo",
+      "meaningInSourceLanguage": "洗发水",
+      "id": "b571aeb3979c",
+      "priority": 0,
+      "group": "cf8b7b3d4382"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shampoo",
+      "meaning": "洗发水",
+      "audio": "419fa4efb2ce53556d8e9ad35e2b445507559d1aa93ad29a78015e880dcf1590",
+      "id": "42378a77f6d7",
+      "priority": 1,
+      "group": "cf8b7b3d4382"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conditioner",
+      "meaningInSourceLanguage": "护发素",
+      "id": "e44ad0aef0d7",
+      "priority": 0,
+      "group": "db41158a10c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conditioner",
+      "meaning": "护发素",
+      "audio": "7bfb741c5ab492d2ad738badcc2b3e3029202d4f85b93001c46d943d9de144cd",
+      "id": "3db49d2968a8",
+      "priority": 1,
+      "group": "db41158a10c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "body wash",
+      "meaningInSourceLanguage": "沐浴露",
+      "id": "fddaf5c64d66",
+      "priority": 0,
+      "group": "2ad39dcca862"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "body wash",
+      "meaning": "沐浴露",
+      "audio": "638ced25eb1f205b54b5ca141bb99b5bf2c9898b4466ca23aa2c28ef30d27f39",
+      "id": "0362ae962b10",
+      "priority": 1,
+      "group": "2ad39dcca862"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lotion",
+      "meaningInSourceLanguage": "乳液",
+      "id": "ae93814a1d0a",
+      "priority": 0,
+      "group": "22a60ef907b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lotion",
+      "meaning": "乳液",
+      "audio": "f3d8e270ba361e82986c36a61b9479c4336135fc63910059e085b95e5f430be8",
+      "id": "43e0bc5f20f2",
+      "priority": 1,
+      "group": "22a60ef907b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sunscreen",
+      "meaningInSourceLanguage": "防晒霜",
+      "id": "90b45212441b",
+      "priority": 0,
+      "group": "36423da0ba3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sunscreen",
+      "meaning": "防晒霜",
+      "audio": "06288f6875ab696dc9afe4ec8db74335363e1d7399aa6e2148876e9ce815a244",
+      "id": "4e7f66c75796",
+      "priority": 1,
+      "group": "36423da0ba3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deodorant",
+      "meaningInSourceLanguage": "除臭剂",
+      "id": "5852c232a1d0",
+      "priority": 0,
+      "group": "1647eb2e6bd0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deodorant",
+      "meaning": "除臭剂",
+      "audio": "bc43892fbf8ee9d27ceff5770dc113ec6fe963950cba9df54ee1114b205988a6",
+      "id": "8634308339e9",
+      "priority": 1,
+      "group": "1647eb2e6bd0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "perfume",
+      "meaningInSourceLanguage": "香水",
+      "id": "5206292e8107",
+      "priority": 0,
+      "group": "a5eb966810c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "perfume",
+      "meaning": "香水",
+      "audio": "9941565d99784c2a83f9de0b47e340c0acd6cdcc7c4a860417ca817eabf889a8",
+      "id": "00725119431e",
+      "priority": 1,
+      "group": "a5eb966810c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cologne",
+      "meaningInSourceLanguage": "古龙水",
+      "id": "057a0dd1f8e8",
+      "priority": 0,
+      "group": "4c2f90db24be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cologne",
+      "meaning": "古龙水",
+      "audio": "a47475daea64a412bbad0c0612aa7b157d19ed5bb2dff592c1329f2ace6259c5",
+      "id": "980b586ac047",
+      "priority": 1,
+      "group": "4c2f90db24be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tissue",
+      "meaningInSourceLanguage": "纸巾",
+      "id": "bbd13bd0234f",
+      "priority": 0,
+      "group": "b6dcad762605"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tissue",
+      "meaning": "纸巾",
+      "audio": "0df94bccd72879d6b00d68c7b51f4985c6178877f00aa6ddb7312bd309f9560d",
+      "id": "f9bdd49b8d68",
+      "priority": 1,
+      "group": "b6dcad762605"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toilet paper",
+      "meaningInSourceLanguage": "卫生纸",
+      "id": "aaf32833d0c7",
+      "priority": 0,
+      "group": "61e577a0ba98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toilet paper",
+      "meaning": "卫生纸",
+      "audio": "3a9ff24f4ac514d9d6eff372421a36b664ee6c29ddde27eead04667b9f501c0b",
+      "id": "98a0b4ea5c27",
+      "priority": 1,
+      "group": "61e577a0ba98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "towel",
+      "meaningInSourceLanguage": "毛巾",
+      "id": "f655b8bd3e58",
+      "priority": 0,
+      "group": "1c3bb9e8a1be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "towel",
+      "meaning": "毛巾",
+      "audio": "e92bc2c747cc3ee301c32dcca40ae9f61ac1a9ff0df208ba670e66b59c30d154",
+      "id": "2c2ef583391a",
+      "priority": 1,
+      "group": "1c3bb9e8a1be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toothbrush",
+      "meaningInSourceLanguage": "牙刷",
+      "id": "7ec9291fc9d4",
+      "priority": 0,
+      "group": "0b1fb97c4102"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toothbrush",
+      "meaning": "牙刷",
+      "audio": "d9be4262a819e4a299bfcde1af5f763d7812e61e5243e061724314d0719a55f4",
+      "id": "c02952e9b309",
+      "priority": 1,
+      "group": "0b1fb97c4102"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toothpaste",
+      "meaningInSourceLanguage": "牙膏",
+      "id": "37d56568fa42",
+      "priority": 0,
+      "group": "973660ff683b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toothpaste",
+      "meaning": "牙膏",
+      "audio": "d15ccb2612fb1657e361d1430668e7e93c04cbbdd87b56ddfe57acd502f7bfa7",
+      "id": "a93b4179d3ae",
+      "priority": 1,
+      "group": "973660ff683b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mouthwash",
+      "meaningInSourceLanguage": "漱口水",
+      "id": "00ceeafd7700",
+      "priority": 0,
+      "group": "d93dfe06b666"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mouthwash",
+      "meaning": "漱口水",
+      "audio": "22afe73613e6265a4172a292057b4fea0858e4301fd0c37780a2f1bd3aae246f",
+      "id": "3b23ce92e33d",
+      "priority": 1,
+      "group": "d93dfe06b666"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "floss",
+      "meaningInSourceLanguage": "牙线",
+      "id": "5bb163315bc8",
+      "priority": 0,
+      "group": "28b8e6435cd2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "floss",
+      "meaning": "牙线",
+      "audio": "cb5b820e015baafcffa6dad026fcd10eb570b0e064742337d82e9da2c189cc52",
+      "id": "acf2a4e897cd",
+      "priority": 1,
+      "group": "28b8e6435cd2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nail clipper",
+      "meaningInSourceLanguage": "指甲刀",
+      "id": "4dd6b6338f33",
+      "priority": 0,
+      "group": "8064eeedddac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nail clipper",
+      "meaning": "指甲刀",
+      "audio": "75e2613058e61a56fffaf35e26baf68570392e92cf0f1cbdf2b4528dc308a51c",
+      "id": "a3b4a06138ec",
+      "priority": 1,
+      "group": "8064eeedddac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tweezers",
+      "meaningInSourceLanguage": "镊子",
+      "id": "643887acfe8b",
+      "priority": 0,
+      "group": "c9cf5224fa25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tweezers",
+      "meaning": "镊子",
+      "audio": "040950cdb5b02c4d2971035e32ef4e746f3d602ee482f281acb9914586086793",
+      "id": "11d58fddfe3c",
+      "priority": 1,
+      "group": "c9cf5224fa25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "razor",
+      "meaningInSourceLanguage": "剃须刀",
+      "id": "01d3f7f0addc",
+      "priority": 0,
+      "group": "1b0c128706f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "razor",
+      "meaning": "剃须刀",
+      "audio": "b5b0d6dc48916e5bc9b11a47e01bf7f16b9555b6dcca35dd50c9d17798992bdb",
+      "id": "8521b91014c5",
+      "priority": 1,
+      "group": "1b0c128706f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hair dryer",
+      "meaningInSourceLanguage": "吹风机",
+      "id": "0b952d693fe5",
+      "priority": 0,
+      "group": "3486493da131"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hair dryer",
+      "meaning": "吹风机",
+      "audio": "ff4439ac7e1bd184aae14d316c6eb5c2fd2e0f462b8f74aca185a580cb5e3533",
+      "id": "1f0d55ff1a6c",
+      "priority": 1,
+      "group": "3486493da131"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "curl",
+      "meaningInSourceLanguage": "卷发",
+      "id": "090565ca5e2f",
+      "priority": 0,
+      "group": "475746d0fa4f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "curl",
+      "meaning": "卷发",
+      "audio": "2e099360eadfc4620c3aabea80b4089f399a29486f26ff4d587ba649023f04b3",
+      "id": "1b9e2fd64071",
+      "priority": 1,
+      "group": "475746d0fa4f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "straighten",
+      "meaningInSourceLanguage": "拉直",
+      "id": "83458a7e28b9",
+      "priority": 0,
+      "group": "83fd48bbd9ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "straighten",
+      "meaning": "拉直",
+      "audio": "ed013940e84443a2458f33a7b94746a9dc83eb345f7389eb478b3821a4e56f46",
+      "id": "323ac8fcfcf7",
+      "priority": 1,
+      "group": "83fd48bbd9ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dye",
+      "meaningInSourceLanguage": "染发",
+      "id": "0938dca5394a",
+      "priority": 0,
+      "group": "129c79a391a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dye",
+      "meaning": "染发",
+      "audio": "3cdd3fd80471389461eb437d484bca97191e80ac4520207ddbafd549c3303f2f",
+      "id": "61e52480223a",
+      "priority": 1,
+      "group": "129c79a391a0"
+    }
+  ]
+}

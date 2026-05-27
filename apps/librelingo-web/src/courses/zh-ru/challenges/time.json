@@ -1,0 +1,448 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Утром.",
+      "meaningInSourceLanguage": "在早上。",
+      "id": "b0b3d07e0e0d",
+      "priority": 0,
+      "group": "e4132e6d5b56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Утром.",
+      "meaning": "在早上。",
+      "audio": "8b351f755179c0a9b3e047d8c07518c5f9c5d5fcba35d7c6f91131f093ebf5f5",
+      "id": "2ebf0c5b3e0c",
+      "priority": 1,
+      "group": "e4132e6d5b56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Увидимся завтра.",
+      "meaningInSourceLanguage": "明天见。",
+      "id": "03f5ece5a1d5",
+      "priority": 0,
+      "group": "0c452ab92af7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Увидимся завтра.",
+      "meaning": "明天见。",
+      "audio": "7ab93a3ed4a2f79bfa508e757b485fdf4a8f83f3b2d684c1a5968f9349957b64",
+      "id": "2e2bd136e95f",
+      "priority": 1,
+      "group": "0c452ab92af7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Раннее утро.",
+      "meaningInSourceLanguage": "现在是清晨。",
+      "id": "37a5f2e6b96b",
+      "priority": 0,
+      "group": "6cd069f552b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Раннее утро.",
+      "meaning": "现在是清晨。",
+      "audio": "69abc3dac24b19b5322167cf2ecd766e057672c9ff869196236c271fbd184f4f",
+      "id": "3943888823a4",
+      "priority": 1,
+      "group": "6cd069f552b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я сейчас свободен.",
+      "meaningInSourceLanguage": "我现在有空。",
+      "id": "f3bc168df250",
+      "priority": 0,
+      "group": "8188f662b77a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я сейчас свободен.",
+      "meaning": "我现在有空。",
+      "audio": "d3a6a1e0818184ca25fffd7e7d7461bbfe005936d6e1c9a362c200575a8ea83a",
+      "id": "a028d78a2716",
+      "priority": 1,
+      "group": "8188f662b77a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Увидимся позже.",
+      "meaningInSourceLanguage": "回头见。",
+      "id": "3a38329ced5f",
+      "priority": 0,
+      "group": "d45a182b0151"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Увидимся позже.",
+      "meaning": "回头见。",
+      "audio": "2f7ed836db177eb249a2fed2f796053e1fe9c539f65d88850685d792cfffb83a",
+      "id": "ccae85f7e634",
+      "priority": 1,
+      "group": "d45a182b0151"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Днём.",
+      "meaningInSourceLanguage": "在下午。",
+      "id": "a160b69d11c9",
+      "priority": 0,
+      "group": "d858605e1f60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Днём.",
+      "meaning": "在下午。",
+      "audio": "69941fb77a56ff338756fe0cd9309cb5b05bd0c83195529bdfa2d7fdc59d72ae",
+      "id": "f1735fa6d38b",
+      "priority": 1,
+      "group": "d858605e1f60"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "утро",
+      "meaningInSourceLanguage": "早上",
+      "id": "0706c8de6425",
+      "priority": 0,
+      "group": "7d409ca75d39"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "утро"
+      ],
+      "phrase": [
+        {
+          "word": "早上",
+          "definition": "утро"
+        }
+      ],
+      "id": "f85e51bf6931",
+      "priority": 1,
+      "group": "7d409ca75d39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "утро",
+      "meaning": "早上",
+      "audio": "2482c84c827236a080325226475b809c08153390199d91732643784ef5d0d4b1",
+      "id": "a6cb4734a12b",
+      "priority": 1,
+      "group": "7d409ca75d39"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "день",
+      "meaningInSourceLanguage": "下午",
+      "id": "4819508f46cd",
+      "priority": 0,
+      "group": "69a5005ee471"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "день"
+      ],
+      "phrase": [
+        {
+          "word": "下午",
+          "definition": "день"
+        }
+      ],
+      "id": "03f570a92691",
+      "priority": 1,
+      "group": "69a5005ee471"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "день",
+      "meaning": "下午",
+      "audio": "81d8b38c1bc1162f54821986c47dba511babad874b2acd814660a0e22ccdf9b3",
+      "id": "88cd8d16fba1",
+      "priority": 1,
+      "group": "69a5005ee471"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вечер",
+      "meaningInSourceLanguage": "晚上",
+      "id": "2c205cd421ed",
+      "priority": 0,
+      "group": "e2870a01917e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вечер"
+      ],
+      "phrase": [
+        {
+          "word": "晚上",
+          "definition": "вечер"
+        }
+      ],
+      "id": "f2ef4c9b6466",
+      "priority": 1,
+      "group": "e2870a01917e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вечер",
+      "meaning": "晚上",
+      "audio": "5ab88b09104c7eb318138802d42486b9a94213ff7dfab083ffceaa9c6b85502c",
+      "id": "5def4236b4b8",
+      "priority": 1,
+      "group": "e2870a01917e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ночь",
+      "meaningInSourceLanguage": "夜晚",
+      "id": "134858aaa3ea",
+      "priority": 0,
+      "group": "aa3889c59601"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ночь"
+      ],
+      "phrase": [
+        {
+          "word": "夜晚",
+          "definition": "ночь"
+        }
+      ],
+      "id": "105c78b7aa79",
+      "priority": 1,
+      "group": "aa3889c59601"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ночь",
+      "meaning": "夜晚",
+      "audio": "9c11870d8a1eda63cb0c8b262eefb8f41857494ca5848c414e97e678abb2fc79",
+      "id": "bc1c0f120b37",
+      "priority": 1,
+      "group": "aa3889c59601"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сегодня",
+      "meaningInSourceLanguage": "今天",
+      "id": "31c6c01f74c5",
+      "priority": 0,
+      "group": "ca07a3a37f60"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сегодня"
+      ],
+      "phrase": [
+        {
+          "word": "今天",
+          "definition": "сегодня"
+        }
+      ],
+      "id": "a977ccc476c3",
+      "priority": 1,
+      "group": "ca07a3a37f60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сегодня",
+      "meaning": "今天",
+      "audio": "3c23df511a5b85a2e8aff451d3fe86877e99d4cb9e121439edc675e402bd2480",
+      "id": "2b9bed269366",
+      "priority": 1,
+      "group": "ca07a3a37f60"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "завтра",
+      "meaningInSourceLanguage": "明天",
+      "id": "63cd1619545d",
+      "priority": 0,
+      "group": "e5c124d9a6d1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "завтра"
+      ],
+      "phrase": [
+        {
+          "word": "明天",
+          "definition": "завтра"
+        }
+      ],
+      "id": "d614e782f268",
+      "priority": 1,
+      "group": "e5c124d9a6d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "завтра",
+      "meaning": "明天",
+      "audio": "aca1cefbfc98245d868874ed283528b52c699511493101b36bc5a5e7197a8e6a",
+      "id": "bf4abd5f0ee3",
+      "priority": 1,
+      "group": "e5c124d9a6d1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вчера",
+      "meaningInSourceLanguage": "昨天",
+      "id": "839db0fb1b9d",
+      "priority": 0,
+      "group": "efa4b173564b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вчера"
+      ],
+      "phrase": [
+        {
+          "word": "昨天",
+          "definition": "вчера"
+        }
+      ],
+      "id": "f52d18d28209",
+      "priority": 1,
+      "group": "efa4b173564b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вчера",
+      "meaning": "昨天",
+      "audio": "ffe521847af5adc964342f7709bdafef85486bb653db43421d1d7d1a0a621956",
+      "id": "b14eaece0a5d",
+      "priority": 1,
+      "group": "efa4b173564b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сейчас",
+      "meaningInSourceLanguage": "现在",
+      "id": "a9831183b65c",
+      "priority": 0,
+      "group": "d2b72dc356a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сейчас"
+      ],
+      "phrase": [
+        {
+          "word": "现在",
+          "definition": "сейчас"
+        }
+      ],
+      "id": "68ea2530d5be",
+      "priority": 1,
+      "group": "d2b72dc356a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сейчас",
+      "meaning": "现在",
+      "audio": "13da457c063f0b24e86e31882a09fd8049b4e8512cde43e7b48524dd9236119b",
+      "id": "a57aa01776bd",
+      "priority": 1,
+      "group": "d2b72dc356a0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "позже",
+      "meaningInSourceLanguage": "稍后",
+      "id": "c8b5fd3408e5",
+      "priority": 0,
+      "group": "296a0099171d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "позже"
+      ],
+      "phrase": [
+        {
+          "word": "稍后",
+          "definition": "позже"
+        }
+      ],
+      "id": "5985f1562558",
+      "priority": 1,
+      "group": "296a0099171d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "позже",
+      "meaning": "稍后",
+      "audio": "020ee8457a240a117d77fa3c80afb13d3fc15d95eb15609893e4d93a02476783",
+      "id": "44308c8df42c",
+      "priority": 1,
+      "group": "296a0099171d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рано",
+      "meaningInSourceLanguage": "早",
+      "id": "d0f20c4bae12",
+      "priority": 0,
+      "group": "67b2d3a9f69d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рано"
+      ],
+      "phrase": [
+        {
+          "word": "早",
+          "definition": "рано"
+        }
+      ],
+      "id": "474c9647852e",
+      "priority": 1,
+      "group": "67b2d3a9f69d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рано",
+      "meaning": "早",
+      "audio": "e4cd719d200959a0cd025538dd49c293162be74aa3a2a3225f8d58b6ac1b4c5d",
+      "id": "c82360920e5a",
+      "priority": 1,
+      "group": "67b2d3a9f69d"
+    }
+  ]
+}

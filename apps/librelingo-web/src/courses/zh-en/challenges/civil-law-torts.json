@@ -1,0 +1,975 @@
+{
+  "id": "ffd8b2c3b92e",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "rescission",
+      "meaningInSourceLanguage": "解除合同",
+      "id": "86dde36cddfc",
+      "priority": 0,
+      "group": "0630f01f8aef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rescission",
+      "meaning": "解除合同",
+      "audio": "953208dab8e94923bc2c39a298775839",
+      "id": "a9607d70d7bb",
+      "priority": 1,
+      "group": "0630f01f8aef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "restitution",
+      "meaningInSourceLanguage": "归还",
+      "id": "ebb17d01def5",
+      "priority": 0,
+      "group": "b2f2c4e47475"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "restitution",
+      "meaning": "归还",
+      "audio": "acc23c69f441444682680b9e56103eb3",
+      "id": "e3f9ee5bb9a9",
+      "priority": 1,
+      "group": "b2f2c4e47475"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "liability",
+      "meaningInSourceLanguage": "责任",
+      "id": "cb8c2bcba679",
+      "priority": 0,
+      "group": "3df4b272d98e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "liability",
+      "meaning": "责任",
+      "audio": "5925e965a40a49f8bf65517ad8436050",
+      "id": "84f2fcbee656",
+      "priority": 1,
+      "group": "3df4b272d98e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strict liability",
+      "meaningInSourceLanguage": "严格责任",
+      "id": "fefd184bcaec",
+      "priority": 0,
+      "group": "d2dc07d19ecb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strict liability",
+      "meaning": "严格责任",
+      "audio": "686ee599a132408d8f1e4f0dbe979296",
+      "id": "ac22bc00074a",
+      "priority": 1,
+      "group": "d2dc07d19ecb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "product liability",
+      "meaningInSourceLanguage": "产品责任",
+      "id": "4f9e42341bfd",
+      "priority": 0,
+      "group": "252b0351e73d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "product liability",
+      "meaning": "产品责任",
+      "audio": "a76fe8e1f3fb46fdb4bbf388d24e0a45",
+      "id": "31719d6b239d",
+      "priority": 1,
+      "group": "252b0351e73d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "defamation",
+      "meaningInSourceLanguage": "诽谤",
+      "id": "cc7cc8bd7dfe",
+      "priority": 0,
+      "group": "531d02997f37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "defamation",
+      "meaning": "诽谤",
+      "audio": "7135b13e5da74587932621b9f12b9bb3",
+      "id": "7d0cf506f0d2",
+      "priority": 1,
+      "group": "531d02997f37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "slander",
+      "meaningInSourceLanguage": "口头诽谤",
+      "id": "fb63ee847b13",
+      "priority": 0,
+      "group": "2dff1bcd8e08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "slander",
+      "meaning": "口头诽谤",
+      "audio": "dd8fb673e120499e87d6f50f1c6054df",
+      "id": "4353a67b0bd8",
+      "priority": 1,
+      "group": "2dff1bcd8e08"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "libel",
+      "meaningInSourceLanguage": "书面诽谤",
+      "id": "32db7e27af02",
+      "priority": 0,
+      "group": "4d4485528318"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "libel",
+      "meaning": "书面诽谤",
+      "audio": "784ba497725b46a9827889c1289accb5",
+      "id": "4037bad82dc1",
+      "priority": 1,
+      "group": "4d4485528318"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "invasion of privacy",
+      "meaningInSourceLanguage": "侵犯隐私",
+      "id": "974c17739197",
+      "priority": 0,
+      "group": "abb1b9c4357f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "invasion of privacy",
+      "meaning": "侵犯隐私",
+      "audio": "9fba53ed27a64f38bc208a5bbe36d3f8",
+      "id": "fc1bcb1b05ea",
+      "priority": 1,
+      "group": "abb1b9c4357f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "intellectual property",
+      "meaningInSourceLanguage": "知识产权",
+      "id": "49e98acf863d",
+      "priority": 0,
+      "group": "cd3b579bc558"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "intellectual property",
+      "meaning": "知识产权",
+      "audio": "3a4b783b624944239abc098c960bcfdb",
+      "id": "866d1dfdc2c3",
+      "priority": 1,
+      "group": "cd3b579bc558"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "copyright",
+      "meaningInSourceLanguage": "版权",
+      "id": "8aeb3e339f1d",
+      "priority": 0,
+      "group": "cc6757034eb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "copyright",
+      "meaning": "版权",
+      "audio": "9ace3115fda446c7aa03b5d360be9a3b",
+      "id": "1e66f03974ab",
+      "priority": 1,
+      "group": "cc6757034eb6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trademark",
+      "meaningInSourceLanguage": "商标",
+      "id": "c36a7042805f",
+      "priority": 0,
+      "group": "62a23485873d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trademark",
+      "meaning": "商标",
+      "audio": "a5a0b4a2c77442d18e774430f06e7713",
+      "id": "4b674a64b25d",
+      "priority": 1,
+      "group": "62a23485873d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "patent",
+      "meaningInSourceLanguage": "专利",
+      "id": "fa84caa16f95",
+      "priority": 0,
+      "group": "696e5b3630cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "patent",
+      "meaning": "专利",
+      "audio": "5ba6a76948bf4a29b16ad3a38132e49e",
+      "id": "1dbd704ed1dd",
+      "priority": 1,
+      "group": "696e5b3630cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trade secret",
+      "meaningInSourceLanguage": "商业秘密",
+      "id": "a68834115e46",
+      "priority": 0,
+      "group": "f868bb9aebc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trade secret",
+      "meaning": "商业秘密",
+      "audio": "6de73413652545cab14be14dabfbe74b",
+      "id": "9afd68afea4c",
+      "priority": 1,
+      "group": "f868bb9aebc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plagiarism",
+      "meaningInSourceLanguage": "剽窃",
+      "id": "01dc85f18ea0",
+      "priority": 0,
+      "group": "b61b15729740"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plagiarism",
+      "meaning": "剽窃",
+      "audio": "5a13092c4ec6426fb5681e07effea87c",
+      "id": "ff91bcd7fdbe",
+      "priority": 1,
+      "group": "b61b15729740"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "infringement",
+      "meaningInSourceLanguage": "侵权",
+      "id": "72cbdb40d0d1",
+      "priority": 0,
+      "group": "450a682ff7f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "infringement",
+      "meaning": "侵权",
+      "audio": "40f96b132eb74dc2b27b632b4124c3cc",
+      "id": "357bcfb41b16",
+      "priority": 1,
+      "group": "450a682ff7f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "licensing",
+      "meaningInSourceLanguage": "许可",
+      "id": "1be3da8cc714",
+      "priority": 0,
+      "group": "be51c7978422"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "licensing",
+      "meaning": "许可",
+      "audio": "b93ea7dfa9b04b37adb31ea82ef924d0",
+      "id": "a633e7ccd6da",
+      "priority": 1,
+      "group": "be51c7978422"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "royalty",
+      "meaningInSourceLanguage": "版税",
+      "id": "1069f1ac2181",
+      "priority": 0,
+      "group": "2cfc8a490822"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "royalty",
+      "meaning": "版税",
+      "audio": "4121a75f1700431aae85c3b42479d9ad",
+      "id": "1030193b08ed",
+      "priority": 1,
+      "group": "2cfc8a490822"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "property law",
+      "meaningInSourceLanguage": "财产法",
+      "id": "d7b9e208d730",
+      "priority": 0,
+      "group": "8ffd419ff376"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "property law",
+      "meaning": "财产法",
+      "audio": "e98efb5ad78d4ed39a9fc509ddfc4507",
+      "id": "cba72154b6e6",
+      "priority": 1,
+      "group": "8ffd419ff376"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "real estate",
+      "meaningInSourceLanguage": "房地产",
+      "id": "9d1e1df26eb2",
+      "priority": 0,
+      "group": "13ade0c91ea1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "real estate",
+      "meaning": "房地产",
+      "audio": "a818035e8308482390da6ecd2c51578f",
+      "id": "282566011b9d",
+      "priority": 1,
+      "group": "13ade0c91ea1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "title",
+      "meaningInSourceLanguage": "所有权",
+      "id": "ecd2b1bfebde",
+      "priority": 0,
+      "group": "157519a27ff9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "title",
+      "meaning": "所有权",
+      "audio": "4682fc627e3141a092608cbae9d6100a",
+      "id": "4226f4b07a01",
+      "priority": 1,
+      "group": "157519a27ff9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deed",
+      "meaningInSourceLanguage": "契据",
+      "id": "e576501bdbec",
+      "priority": 0,
+      "group": "353c96434e96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deed",
+      "meaning": "契据",
+      "audio": "7199b5b8bde7440c994baf975d410421",
+      "id": "2d56b550f855",
+      "priority": 1,
+      "group": "353c96434e96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mortgage",
+      "meaningInSourceLanguage": "抵押",
+      "id": "612213a198b4",
+      "priority": 0,
+      "group": "0e8ac6ba9dbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mortgage",
+      "meaning": "抵押",
+      "audio": "9b84dcb324704324aac5e4dce5052ece",
+      "id": "9d03e1f15b15",
+      "priority": 1,
+      "group": "0e8ac6ba9dbb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "easement",
+      "meaningInSourceLanguage": "地役权",
+      "id": "e35141d52aa3",
+      "priority": 0,
+      "group": "f8ca5ab64492"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "easement",
+      "meaning": "地役权",
+      "audio": "59fe67f0126c4c3882481fd4567f7f0e",
+      "id": "c2e314b2badc",
+      "priority": 1,
+      "group": "f8ca5ab64492"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zoning",
+      "meaningInSourceLanguage": "分区",
+      "id": "0039b35f3c7f",
+      "priority": 0,
+      "group": "f66e159adc4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zoning",
+      "meaning": "分区",
+      "audio": "d604200c112247b6a912e82bcf76a553",
+      "id": "bcecf1f2866e",
+      "priority": 1,
+      "group": "f66e159adc4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lease",
+      "meaningInSourceLanguage": "租赁",
+      "id": "087e0fb0947b",
+      "priority": 0,
+      "group": "2d783c83c820"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lease",
+      "meaning": "租赁",
+      "audio": "f51dde25e95946a1afba498150315e4a",
+      "id": "0a7add1e31ae",
+      "priority": 1,
+      "group": "2d783c83c820"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "landlord",
+      "meaningInSourceLanguage": "房东",
+      "id": "1bb9eeeaf912",
+      "priority": 0,
+      "group": "f4515236e0b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "landlord",
+      "meaning": "房东",
+      "audio": "968ef70b0bba4c5fb60293a5d27c9097",
+      "id": "ab72f4811211",
+      "priority": 1,
+      "group": "f4515236e0b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tenant",
+      "meaningInSourceLanguage": "租客",
+      "id": "dc1f09d85e1d",
+      "priority": 0,
+      "group": "69b6ab7368ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tenant",
+      "meaning": "租客",
+      "audio": "c227c656b40746949ce353fd88011de2",
+      "id": "3533c313b06f",
+      "priority": 1,
+      "group": "69b6ab7368ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eviction",
+      "meaningInSourceLanguage": "驱逐",
+      "id": "f69965c0a20b",
+      "priority": 0,
+      "group": "c40e1a70e2e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eviction",
+      "meaning": "驱逐",
+      "audio": "5f45b990df7a4e76adc666e81982255a",
+      "id": "d63af2acee35",
+      "priority": 1,
+      "group": "c40e1a70e2e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "foreclosure",
+      "meaningInSourceLanguage": "止赎",
+      "id": "dc7775f9cb71",
+      "priority": 0,
+      "group": "01f6a4300b84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "foreclosure",
+      "meaning": "止赎",
+      "audio": "f8fd371c859a4d6bab09a53fb067629f",
+      "id": "9cdb1f14b7fb",
+      "priority": 1,
+      "group": "01f6a4300b84"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "inheritance",
+      "meaningInSourceLanguage": "继承",
+      "id": "a691561476fc",
+      "priority": 0,
+      "group": "4e2a7a94c80d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "inheritance",
+      "meaning": "继承",
+      "audio": "9827c37cb5324636bb63850691a64acf",
+      "id": "381fbd2eb1a1",
+      "priority": 1,
+      "group": "4e2a7a94c80d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "will",
+      "meaningInSourceLanguage": "遗嘱",
+      "id": "653957cd46b1",
+      "priority": 0,
+      "group": "546394667c08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "will",
+      "meaning": "遗嘱",
+      "audio": "e54b0fb502e64030b922a97030bbaca4",
+      "id": "ec638aaf2930",
+      "priority": 1,
+      "group": "546394667c08"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trust",
+      "meaningInSourceLanguage": "信托",
+      "id": "18c1e31844c0",
+      "priority": 0,
+      "group": "41e9d116ff1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trust",
+      "meaning": "信托",
+      "audio": "620201e81a1049f191b3573f9982701e",
+      "id": "7ea15edd6015",
+      "priority": 1,
+      "group": "41e9d116ff1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "estate",
+      "meaningInSourceLanguage": "遗产",
+      "id": "d20cf51bdb7e",
+      "priority": 0,
+      "group": "52975af24190"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "estate",
+      "meaning": "遗产",
+      "audio": "1c25f2e85b0146bb879bfa4247fd049f",
+      "id": "c5f31bccd786",
+      "priority": 1,
+      "group": "52975af24190"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "probate",
+      "meaningInSourceLanguage": "遗嘱认证",
+      "id": "ffcb13eabe47",
+      "priority": 0,
+      "group": "5061c63db44f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "probate",
+      "meaning": "遗嘱认证",
+      "audio": "546a1f5aab5c4ff08dad9f6c53aba6e1",
+      "id": "fe48cb4aa3be",
+      "priority": 1,
+      "group": "5061c63db44f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "intestate",
+      "meaningInSourceLanguage": "无遗嘱",
+      "id": "5cc38fd5b388",
+      "priority": 0,
+      "group": "fa01703a35d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "intestate",
+      "meaning": "无遗嘱",
+      "audio": "d4aaf09ff61f4746a89fc40eda78e958",
+      "id": "12e90a33ecd6",
+      "priority": 1,
+      "group": "fa01703a35d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heir",
+      "meaningInSourceLanguage": "继承人",
+      "id": "1a14bf5c4846",
+      "priority": 0,
+      "group": "9d66604b5a83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heir",
+      "meaning": "继承人",
+      "audio": "c2f6a137ab74473ca18030026d77295f",
+      "id": "959fe720b340",
+      "priority": 1,
+      "group": "9d66604b5a83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beneficiary",
+      "meaningInSourceLanguage": "受益人",
+      "id": "854713a011cd",
+      "priority": 0,
+      "group": "1145cc4fe253"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beneficiary",
+      "meaning": "受益人",
+      "audio": "bf443db766bd48e5a7a631ed3d49dee7",
+      "id": "325abdd17d61",
+      "priority": 1,
+      "group": "1145cc4fe253"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "family law",
+      "meaningInSourceLanguage": "家庭法",
+      "id": "6a98c75dd20d",
+      "priority": 0,
+      "group": "60af6c2c8ed5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "family law",
+      "meaning": "家庭法",
+      "audio": "e3cdd0d1fe5242a49afecf9ef92581ed",
+      "id": "b21743e05a24",
+      "priority": 1,
+      "group": "60af6c2c8ed5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marriage",
+      "meaningInSourceLanguage": "婚姻",
+      "id": "2bd5c49a9cc5",
+      "priority": 0,
+      "group": "2c0b1c71d309"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marriage",
+      "meaning": "婚姻",
+      "audio": "2614bdf367b547b9b444685767f653ab",
+      "id": "c98895b609cc",
+      "priority": 1,
+      "group": "2c0b1c71d309"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "divorce",
+      "meaningInSourceLanguage": "离婚",
+      "id": "bc8b2a640cb4",
+      "priority": 0,
+      "group": "664c3d8013fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "divorce",
+      "meaning": "离婚",
+      "audio": "c4ee31fa9a354dfdbb34f699b8408136",
+      "id": "0ffbe07f2737",
+      "priority": 1,
+      "group": "664c3d8013fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "child custody",
+      "meaningInSourceLanguage": "子女监护权",
+      "id": "69640c65025c",
+      "priority": 0,
+      "group": "227eb0d35bbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "child custody",
+      "meaning": "子女监护权",
+      "audio": "98dd55180ff841acbc51660662f2db62",
+      "id": "e48f24fcff20",
+      "priority": 1,
+      "group": "227eb0d35bbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "visitation",
+      "meaningInSourceLanguage": "探视权",
+      "id": "524d2aa89e16",
+      "priority": 0,
+      "group": "69c557b761bd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "visitation",
+      "meaning": "探视权",
+      "audio": "e872ab2da9ff4795bfd8c7866be0b766",
+      "id": "6d719642c87d",
+      "priority": 1,
+      "group": "69c557b761bd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "child support",
+      "meaningInSourceLanguage": "子女抚养费",
+      "id": "386990717524",
+      "priority": 0,
+      "group": "539ab43bdb0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "child support",
+      "meaning": "子女抚养费",
+      "audio": "4e12b1aa363048b7ae69f2c45c7b2d3e",
+      "id": "2834ecd561d7",
+      "priority": 1,
+      "group": "539ab43bdb0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "alimony",
+      "meaningInSourceLanguage": "赡养费",
+      "id": "f2e0117eef74",
+      "priority": 0,
+      "group": "f5080f3fc1b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "alimony",
+      "meaning": "赡养费",
+      "audio": "f284458b523144ff98454a67d6127b40",
+      "id": "889557bc2962",
+      "priority": 1,
+      "group": "f5080f3fc1b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prenuptial agreement",
+      "meaningInSourceLanguage": "婚前协议",
+      "id": "efb1e9c3318e",
+      "priority": 0,
+      "group": "0ff90178210d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prenuptial agreement",
+      "meaning": "婚前协议",
+      "audio": "0decb8ee99b04cfeabb02461170eae94",
+      "id": "b52129ae743d",
+      "priority": 1,
+      "group": "0ff90178210d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "adoption",
+      "meaningInSourceLanguage": "收养",
+      "id": "9110b6432eaa",
+      "priority": 0,
+      "group": "80ca89c33fcc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "adoption",
+      "meaning": "收养",
+      "audio": "f6e54740c1594426af47d5cc9a8ff76e",
+      "id": "782ff4bbcd49",
+      "priority": 1,
+      "group": "80ca89c33fcc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paternity",
+      "meaningInSourceLanguage": "亲子关系",
+      "id": "35b90bd7e0a5",
+      "priority": 0,
+      "group": "b71c53f5e15f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paternity",
+      "meaning": "亲子关系",
+      "audio": "35360411ad2d47fc9096fc1d496c6f13",
+      "id": "50d69ad115a3",
+      "priority": 1,
+      "group": "b71c53f5e15f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guardianship",
+      "meaningInSourceLanguage": "监护权",
+      "id": "1402bd0e8802",
+      "priority": 0,
+      "group": "47e29c6c9bef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guardianship",
+      "meaning": "监护权",
+      "audio": "64ebca232d8548b09874785209d0bf9c",
+      "id": "dabf60129bdb",
+      "priority": 1,
+      "group": "47e29c6c9bef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "domestic partnership",
+      "meaningInSourceLanguage": "同居关系",
+      "id": "c12fb2c7f600",
+      "priority": 0,
+      "group": "3c49b1018c55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "domestic partnership",
+      "meaning": "同居关系",
+      "audio": "85d3be1b3a494a5da46f63bb40476899",
+      "id": "bfb105e84ae9",
+      "priority": 1,
+      "group": "3c49b1018c55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "employment law",
+      "meaningInSourceLanguage": "劳动法",
+      "id": "1217b8e2341f",
+      "priority": 0,
+      "group": "92473bf0aae9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "employment law",
+      "meaning": "劳动法",
+      "audio": "ebf7f59b09314c62a4ef5acf0e38a7db",
+      "id": "2e1cdabbbb67",
+      "priority": 1,
+      "group": "92473bf0aae9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wrongful termination",
+      "meaningInSourceLanguage": "不当解雇",
+      "id": "2072d00bcebd",
+      "priority": 0,
+      "group": "49854697138c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wrongful termination",
+      "meaning": "不当解雇",
+      "audio": "b620fea14cc7489aa3153221f1379019",
+      "id": "8dabe12f728c",
+      "priority": 1,
+      "group": "49854697138c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discrimination",
+      "meaningInSourceLanguage": "歧视",
+      "id": "bbc1bdc38dab",
+      "priority": 0,
+      "group": "caf090fea091"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discrimination",
+      "meaning": "歧视",
+      "audio": "c64ca52354ec47d59ee74fe78358616c",
+      "id": "2e9f8be77977",
+      "priority": 1,
+      "group": "caf090fea091"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wage and hour",
+      "meaningInSourceLanguage": "工资工时",
+      "id": "2efa044dc974",
+      "priority": 0,
+      "group": "ca7d07581757"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wage and hour",
+      "meaning": "工资工时",
+      "audio": "bc73d839802e42998a994cd6c2826df8",
+      "id": "cffcbf5cc7f5",
+      "priority": 1,
+      "group": "ca7d07581757"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "minimum wage",
+      "meaningInSourceLanguage": "最低工资",
+      "id": "ea810137e0fb",
+      "priority": 0,
+      "group": "d41afd786563"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "minimum wage",
+      "meaning": "最低工资",
+      "audio": "2307a1b798ee4f1486addf38ce060aa4",
+      "id": "2f3cb8aa3eaf",
+      "priority": 1,
+      "group": "d41afd786563"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "overtime",
+      "meaningInSourceLanguage": "加班",
+      "id": "b02567c63adf",
+      "priority": 0,
+      "group": "825391b87ed6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "overtime",
+      "meaning": "加班",
+      "audio": "65f4813331ab4f3ebab5d09a65afac2a",
+      "id": "f81bfbaa437e",
+      "priority": 1,
+      "group": "825391b87ed6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "workers compensation",
+      "meaningInSourceLanguage": "工伤保险",
+      "id": "9ac5559b661e",
+      "priority": 0,
+      "group": "498db9ac4876"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "workers compensation",
+      "meaning": "工伤保险",
+      "audio": "402cdace4a354f829dd216de6c4d8e7e",
+      "id": "1e26ac1801a7",
+      "priority": 1,
+      "group": "498db9ac4876"
+    }
+  ]
+}

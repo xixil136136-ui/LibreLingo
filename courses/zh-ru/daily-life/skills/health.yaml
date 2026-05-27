@@ -1,0 +1,72 @@
+Skill:
+  Name: Health
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: врач
+    Translation: 医生
+  - Word: больница
+    Translation: 医院
+  - Word: лекарство
+    Translation: 药
+  - Word: головная боль
+    Translation: 头痛
+  - Word: лихорадка
+    Translation: 发烧
+  - Word: кашель
+    Translation: 咳嗽
+  - Word: боль
+    Translation: 疼痛
+  - Word: аптека
+    Translation: 药店
+  - Word: отдых
+    Translation: 休息
+  - Word: боль в животе
+    Translation: 肚子痛
+
+Phrases:
+  - Phrase: Мне нужен врач.
+    Translation: 我需要医生。
+  - Phrase: Где находится больница?
+    Translation: 医院在哪里？
+  - Phrase: У меня болит голова.
+    Translation: 我头痛。
+  - Phrase: У меня жар.
+    Translation: 我发烧了。
+  - Phrase: Примите это лекарство.
+    Translation: 吃这个药。
+  - Phrase: Вам нужен отдых.
+    Translation: 你需要休息。
+  - Phrase: У меня болит живот.
+    Translation: 我肚子痛。
+
+Mini-dictionary:
+  Russian:
+    - аптека: 药店
+    - лекарство: 药
+    - отдых: 休息
+    - боль в животе: 肚子痛
+    - кашель: 咳嗽
+    - лихорадка: 发烧
+    - больница: 医院
+    - врач: 医生
+    - головная боль: 头痛
+    - боль: 疼痛
+  Chinese:
+    - 头痛: головная боль
+    - 医院: больница
+    - 咳嗽: кашель
+    - 医生: врач
+    - 药店: аптека
+    - 疼痛: боль
+    - 休息: отдых
+    - 肚子痛: боль в животе
+    - 发烧: лихорадка
+    - 药: лекарство

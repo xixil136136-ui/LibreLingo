@@ -149,6 +149,1277 @@ Settings:
         f.write(course_yaml)
 
 
+# ── Travel & Daily Life modules (added to non-English courses) ──────────────
+
+def travel_daily_life_modules(lang_name, lang_label="en"):
+    """Return Travel and Daily Life modules for a language.
+    lang_name = target language name (e.g., 'German')
+    lang_label = short label for dict lookup (e.g., 'German')
+    Returns tuple of 2 module dicts (Travel, Daily Life).
+    10 skill groups: Travel (Directions, Transportation, Hotel, Restaurant, Shopping),
+    Daily Life (Weather, Time, Family, Home, Health).
+    Words are chosen to NOT overlap with existing modules (Basics, Food & Drink, Conversations).
+    """
+    # Word data: English word -> Chinese translation
+    # Directions skill words (no overlap with existing)
+    directions_words_en = [
+        ("left", "左边"), ("right", "右边"), ("straight", "直走"),
+        ("here", "这里"), ("there", "那里"), ("near", "附近"),
+        ("far", "远"), ("map", "地图"), ("street", "街道"), ("road", "路"),
+    ]
+    # Transportation skill words (avoid: airport/ticket/passport/platform - in Travel Dialogues)
+    transport_words_en = [
+        ("train", "火车"), ("bus", "公共汽车"), ("taxi", "出租车"),
+        ("subway", "地铁"), ("hotel", "酒店"), ("luggage", "行李"),
+        ("station", "车站"), ("flight", "航班"), ("delay", "延误"), ("boarding", "登机"),
+    ]
+    # Shopping skill words (avoid: discount/size/color/try on/receipt - in Shopping Dialogues)
+    shopping_words_en = [
+        ("shop", "商店"), ("price", "价格"), ("expensive", "贵的"),
+        ("cheap", "便宜的"), ("money", "钱"), ("quality", "质量"),
+        ("brand", "品牌"), ("return", "退货"), ("open", "营业"), ("closed", "关门"),
+    ]
+    # Weather skill words (no overlap)
+    weather_words_en = [
+        ("sunny", "晴天"), ("rain", "雨"), ("snow", "雪"),
+        ("wind", "风"), ("cloud", "云"), ("cold", "冷"),
+        ("hot", "热"), ("warm", "温暖"), ("temperature", "温度"), ("umbrella", "雨伞"),
+    ]
+    # Hotel skill words (avoid: check in/out/room key/single room/double room/reservation/breakfast/WiFi/AC/room service - in Hotel Dialogues)
+    hotel_words_en = [
+        ("room", "房间"), ("bed", "床"), ("shower", "淋浴"),
+        ("bathroom", "浴室"), ("towel", "毛巾"), ("pillow", "枕头"),
+        ("blanket", "毯子"), ("floor", "楼层"), ("reception", "前台"), ("guest", "客人"),
+    ]
+    # Restaurant skill words (avoid: menu/order/bill/delicious/recommendation/reservation/waiter/table/fork/knife/spoon/plate/cup/tip)
+    restaurant_words_en = [
+        ("restaurant", "餐厅"), ("drink", "饮料"), ("food", "食物"),
+        ("napkin", "餐巾"), ("salt", "盐"), ("pepper", "胡椒"),
+        ("glass", "玻璃杯"), ("bottle", "瓶子"), ("dessert", "甜点"), ("main", "主菜"),
+    ]
+    # Time skill words (avoid: numbers from Basics)
+    time_words_en = [
+        ("morning", "早上"), ("afternoon", "下午"), ("evening", "晚上"),
+        ("night", "夜晚"), ("today", "今天"), ("tomorrow", "明天"),
+        ("yesterday", "昨天"), ("now", "现在"), ("later", "稍后"), ("early", "早"),
+    ]
+    # Family skill words (no overlap with greetings)
+    family_words_en = [
+        ("mother", "母亲"), ("father", "父亲"), ("sister", "姐妹"),
+        ("brother", "兄弟"), ("daughter", "女儿"), ("son", "儿子"),
+        ("wife", "妻子"), ("husband", "丈夫"), ("friend", "朋友"), ("child", "孩子"),
+    ]
+    # Home skill words (no overlap)
+    home_words_en = [
+        ("house", "房子"), ("door", "门"), ("window", "窗户"),
+        ("kitchen", "厨房"), ("bedroom", "卧室"), ("garden", "花园"),
+        ("garage", "车库"), ("stairs", "楼梯"), ("yard", "院子"), ("roof", "屋顶"),
+    ]
+    # Health skill words (no overlap)
+    health_words_en = [
+        ("doctor", "医生"), ("hospital", "医院"), ("medicine", "药"),
+        ("headache", "头痛"), ("fever", "发烧"), ("cough", "咳嗽"),
+        ("pain", "疼痛"), ("pharmacy", "药店"), ("rest", "休息"), ("stomachache", "肚子痛"),
+    ]
+
+    # Translations per language
+    translations = {
+        "ja": {  # Japanese
+            # Existing word translations
+            "left": "左", "right": "右", "straight": "まっすぐ", "here": "ここ", "there": "そこ",
+            "near": "近く", "far": "遠い", "map": "地図", "street": "通り", "road": "道",
+            "train": "電車", "bus": "バス", "taxi": "タクシー", "subway": "地下鉄", "hotel": "ホテル",
+            "luggage": "荷物", "station": "駅", "flight": "飛行機", "delay": "遅れ", "boarding": "搭乗",
+            "shop": "店", "price": "値段", "expensive": "高い", "cheap": "安い", "money": "お金",
+            "quality": "品質", "brand": "ブランド", "return": "返品", "open": "営業中", "closed": "閉店",
+            "sunny": "晴れ", "rain": "雨", "snow": "雪", "wind": "風", "cloud": "曇り",
+            "cold": "寒い", "hot": "暑い", "warm": "暖かい", "temperature": "気温", "umbrella": "傘",
+            # New Hotel words
+            "room": "部屋", "bed": "ベッド", "shower": "シャワー", "bathroom": "浴室",
+            "towel": "タオル", "pillow": "枕", "blanket": "毛布", "floor": "階",
+            "reception": "フロント", "guest": "ゲスト",
+            # New Restaurant words
+            "restaurant": "レストラン", "drink": "飲み物", "food": "食べ物",
+            "napkin": "ナプキン", "salt": "塩", "pepper": "胡椒",
+            "glass": "グラス", "bottle": "ボトル", "dessert": "デザート", "main": "メイン料理",
+            # New Time words
+            "morning": "朝", "afternoon": "午後", "evening": "夕方", "night": "夜",
+            "today": "今日", "tomorrow": "明日", "yesterday": "昨日", "now": "今",
+            "later": "後で", "early": "早い",
+            # New Family words
+            "mother": "母", "father": "父", "sister": "姉妹", "brother": "兄弟",
+            "daughter": "娘", "son": "息子", "wife": "妻", "husband": "夫",
+            "friend": "友達", "child": "子供",
+            # New Home words
+            "house": "家", "door": "ドア", "window": "窓", "kitchen": "台所",
+            "bedroom": "寝室", "garden": "庭", "garage": "車庫", "stairs": "階段",
+            "yard": "庭", "roof": "屋根",
+            # New Health words
+            "doctor": "医者", "hospital": "病院", "medicine": "薬", "headache": "頭痛",
+            "fever": "熱", "cough": "咳", "pain": "痛み", "pharmacy": "薬局",
+            "rest": "休息", "stomachache": "腹痛",
+            # Existing phrase translations
+            "Turn left here.": "ここを左に曲がってください。",
+            "Go straight ahead.": "まっすぐ行ってください。",
+            "Where is the station?": "駅はどこですか？",
+            "Is it far from here?": "ここから遠いですか？",
+            "I need a map.": "地図が必要です。",
+            "Where is the bus stop?": "バス停はどこですか？",
+            "The train is delayed.": "電車が遅れています。",
+            "I have luggage.": "荷物があります。",
+            "How much is the train?": "電車はいくらですか？",
+            "Where is the taxi stand?": "タクシー乗り場はどこですか？",
+            "How much is this?": "これはいくらですか？",
+            "It's too expensive.": "高すぎます。",
+            "This is good quality.": "これは品質が良いです。",
+            "Is the shop open?": "店は営業中ですか？",
+            "It's closed today.": "今日は閉店です。",
+            "Can I return this?": "これを返品できますか？",
+            "The shop is over there.": "店はあそこです。",
+            "I don't have money.": "お金がありません。",
+            "It's sunny today.": "今日は晴れです。",
+            "It's going to rain.": "雨が降りそうです。",
+            "It's very cold outside.": "外はとても寒いです。",
+            "Bring an umbrella.": "傘を持って行ってください。",
+            "What's the temperature?": "気温は何度ですか？",
+            "It's snowing.": "雪が降っています。",
+            "It's warm today.": "今日は暖かいです。",
+            "It's windy.": "風が強いです。",
+            # New Hotel phrases
+            "I need a room.": "部屋が必要です。",
+            "How much per night?": "一泊いくらですか？",
+            "Where is the bathroom?": "浴室はどこですか？",
+            "Can I have a towel?": "タオルをお願いします。",
+            "The bed is comfortable.": "ベッドが快適です。",
+            "I am a guest here.": "私はここのゲストです。",
+            "The reception is on this floor.": "フロントはこの階ですか？",
+            # New Restaurant phrases
+            "I want a drink.": "飲み物が欲しいです。",
+            "The food is good.": "食べ物は美味しいです。",
+            "Can I have a glass of water?": "水をグラスでください。",
+            "We need a bottle of wine.": "ワインのボトルが必要です。",
+            "I'd like dessert.": "デザートをお願いします。",
+            "Pass me the salt, please.": "塩を取ってください。",
+            # New Time phrases
+            "In the morning.": "朝に。",
+            "See you tomorrow.": "また明日。",
+            "It's early morning.": "早朝です。",
+            "I am free now.": "今は暇です。",
+            "See you later.": "また後で。",
+            "In the afternoon.": "午後に。",
+            # New Family phrases
+            "This is my mother.": "これは私の母です。",
+            "My father is tall.": "父は背が高いです。",
+            "I have a sister.": "姉妹がいます。",
+            "My brother is young.": "兄弟は若いです。",
+            "She is my friend.": "彼女は私の友達です。",
+            "The child is happy.": "子供は幸せです。",
+            "My wife is kind.": "妻は優しいです。",
+            # New Home phrases
+            "This is my house.": "これは私の家です。",
+            "Open the door.": "ドアを開けてください。",
+            "The kitchen is big.": "台所は広いです。",
+            "The bedroom is clean.": "寝室は綺麗です。",
+            "There is a garden.": "庭があります。",
+            "Close the window.": "窓を閉めてください。",
+            # New Health phrases
+            "I need a doctor.": "医者が必要です。",
+            "Where is the hospital?": "病院はどこですか？",
+            "I have a headache.": "頭痛がします。",
+            "I have a fever.": "熱があります。",
+            "Take this medicine.": "この薬を飲んでください。",
+            "You need rest.": "休息が必要です。",
+            "I have a stomachache.": "腹痛がします。",
+        },
+        "ko": {  # Korean
+            # Existing word translations
+            "left": "왼쪽", "right": "오른쪽", "straight": "직진", "here": "여기", "there": "거기",
+            "near": "가까이", "far": "멀다", "map": "지도", "street": "거리", "road": "길",
+            "train": "기차", "bus": "버스", "taxi": "택시", "subway": "지하철", "hotel": "호텔",
+            "luggage": "짐", "station": "역", "flight": "비행기", "delay": "지연", "boarding": "탑승",
+            "shop": "가게", "price": "가격", "expensive": "비싸다", "cheap": "싸다", "money": "돈",
+            "quality": "품질", "brand": "브랜드", "return": "반품", "open": "영업 중", "closed": "문 닫음",
+            "sunny": "맑음", "rain": "비", "snow": "눈", "wind": "바람", "cloud": "구름",
+            "cold": "춥다", "hot": "덥다", "warm": "따뜻하다", "temperature": "기온", "umbrella": "우산",
+            # New Hotel words
+            "room": "방", "bed": "침대", "shower": "샤워", "bathroom": "화장실",
+            "towel": "수건", "pillow": "베개", "blanket": "담요", "floor": "층",
+            "reception": "리셉션", "guest": "손님",
+            # New Restaurant words
+            "restaurant": "식당", "drink": "음료", "food": "음식",
+            "napkin": "냅킨", "salt": "소금", "pepper": "후추",
+            "glass": "컵", "bottle": "병", "dessert": "디저트", "main": "메인 요리",
+            # New Time words
+            "morning": "아침", "afternoon": "오후", "evening": "저녁", "night": "밤",
+            "today": "오늘", "tomorrow": "내일", "yesterday": "어제", "now": "지금",
+            "later": "나중에", "early": "일찍",
+            # New Family words
+            "mother": "어머니", "father": "아버지", "sister": "자매", "brother": "형제",
+            "daughter": "딸", "son": "아들", "wife": "아내", "husband": "남편",
+            "friend": "친구", "child": "아이",
+            # New Home words
+            "house": "집", "door": "문", "window": "창문", "kitchen": "부엌",
+            "bedroom": "침실", "garden": "정원", "garage": "차고", "stairs": "계단",
+            "yard": "마당", "roof": "지붕",
+            # New Health words
+            "doctor": "의사", "hospital": "병원", "medicine": "약", "headache": "두통",
+            "fever": "열", "cough": "기침", "pain": "통증", "pharmacy": "약국",
+            "rest": "휴식", "stomachache": "복통",
+            # Existing phrase translations
+            "Turn left here.": "여기서 왼쪽으로 도세요.",
+            "Go straight ahead.": "직진하세요.",
+            "Where is the station?": "역이 어디예요?",
+            "Is it far from here?": "여기서 멀어요?",
+            "I need a map.": "지도가 필요해요.",
+            "Where is the bus stop?": "버스 정류장이 어디예요?",
+            "The train is delayed.": "기차가 지연되었어요.",
+            "I have luggage.": "짐이 있어요.",
+            "How much is the train?": "기차는 얼마예요?",
+            "Where is the taxi stand?": "택시 승강장이 어디예요?",
+            "How much is this?": "이거 얼마예요?",
+            "It's too expensive.": "너무 비싸요.",
+            "This is good quality.": "이건 품질이 좋아요.",
+            "Is the shop open?": "가게 영업 중이에요?",
+            "It's closed today.": "오늘 문 닫았어요.",
+            "Can I return this?": "이거 반품할 수 있어요?",
+            "The shop is over there.": "가게는 저기 있어요.",
+            "I don't have money.": "돈이 없어요.",
+            "It's sunny today.": "오늘 날씨가 맑아요.",
+            "It's going to rain.": "비가 올 거예요.",
+            "It's very cold outside.": "밖이 아주 추워요.",
+            "Bring an umbrella.": "우산 가져가세요.",
+            "What's the temperature?": "기온이 몇 도예요?",
+            "It's snowing.": "눈이 와요.",
+            "It's warm today.": "오늘 따뜻해요.",
+            "It's windy.": "바람이 불어요.",
+            # New Hotel phrases
+            "I need a room.": "방이 필요해요.",
+            "How much per night?": "하루에 얼마예요?",
+            "Where is the bathroom?": "화장실이 어디예요?",
+            "Can I have a towel?": "수건 좀 주세요.",
+            "The bed is comfortable.": "침대가 편해요.",
+            "I am a guest here.": "저는 여기 손님이에요.",
+            "The reception is on this floor.": "리셉션이 이 층에 있어요?",
+            # New Restaurant phrases
+            "I want a drink.": "음료를 원해요.",
+            "The food is good.": "음식이 맛있어요.",
+            "Can I have a glass of water?": "물 한 잔 주세요.",
+            "We need a bottle of wine.": "와인 한 병이 필요해요.",
+            "I'd like dessert.": "디저트를 원해요.",
+            "Pass me the salt, please.": "소금 좀 주세요.",
+            # New Time phrases
+            "In the morning.": "아침에.",
+            "See you tomorrow.": "내일 봐요.",
+            "It's early morning.": "이른 아침이에요.",
+            "I am free now.": "지금 한가해요.",
+            "See you later.": "나중에 봐요.",
+            "In the afternoon.": "오후에.",
+            # New Family phrases
+            "This is my mother.": "제 어머니예요.",
+            "My father is tall.": "아버지가 키가 크세요.",
+            "I have a sister.": "여자 형제가 있어요.",
+            "My brother is young.": "남자 형제가 젊어요.",
+            "She is my friend.": "그녀는 제 친구예요.",
+            "The child is happy.": "아이가 행복해요.",
+            "My wife is kind.": "제 아내는 친절해요.",
+            # New Home phrases
+            "This is my house.": "이게 제 집이에요.",
+            "Open the door.": "문을 여세요.",
+            "The kitchen is big.": "부엌이 커요.",
+            "The bedroom is clean.": "침실이 깨끗해요.",
+            "There is a garden.": "정원이 있어요.",
+            "Close the window.": "창문을 닫으세요.",
+            # New Health phrases
+            "I need a doctor.": "의사가 필요해요.",
+            "Where is the hospital?": "병원이 어디예요?",
+            "I have a headache.": "두통이 있어요.",
+            "I have a fever.": "열이 있어요.",
+            "Take this medicine.": "이 약을 드세요.",
+            "You need rest.": "휴식이 필요해요.",
+            "I have a stomachache.": "복통이 있어요.",
+        },
+        "fr": {  # French
+            # Existing word translations
+            "left": "gauche", "right": "droite", "straight": "tout droit", "here": "ici", "there": "là",
+            "near": "près", "far": "loin", "map": "carte", "street": "rue", "road": "route",
+            "train": "train", "bus": "bus", "taxi": "taxi", "subway": "métro", "hotel": "hôtel",
+            "luggage": "bagage", "station": "gare", "flight": "vol", "delay": "retard", "boarding": "embarquement",
+            "shop": "magasin", "price": "prix", "expensive": "cher", "cheap": "bon marché", "money": "argent",
+            "quality": "qualité", "brand": "marque", "return": "retour", "open": "ouvert", "closed": "fermé",
+            "sunny": "ensoleillé", "rain": "pluie", "snow": "neige", "wind": "vent", "cloud": "nuage",
+            "cold": "froid", "hot": "chaud", "warm": "doux", "temperature": "température", "umbrella": "parapluie",
+            # New Hotel words
+            "room": "chambre", "bed": "lit", "shower": "douche", "bathroom": "salle de bain",
+            "towel": "serviette", "pillow": "oreiller", "blanket": "couverture", "floor": "étage",
+            "reception": "réception", "guest": "invité",
+            # New Restaurant words
+            "restaurant": "restaurant", "drink": "boisson", "food": "nourriture",
+            "napkin": "serviette de table", "salt": "sel", "pepper": "poivre",
+            "glass": "verre", "bottle": "bouteille", "dessert": "dessert", "main": "plat principal",
+            # New Time words
+            "morning": "matin", "afternoon": "après-midi", "evening": "soir", "night": "nuit",
+            "today": "aujourd'hui", "tomorrow": "demain", "yesterday": "hier", "now": "maintenant",
+            "later": "plus tard", "early": "tôt",
+            # New Family words
+            "mother": "mère", "father": "père", "sister": "sœur", "brother": "frère",
+            "daughter": "fille", "son": "fils", "wife": "femme", "husband": "mari",
+            "friend": "ami", "child": "enfant",
+            # New Home words
+            "house": "maison", "door": "porte", "window": "fenêtre", "kitchen": "cuisine",
+            "bedroom": "chambre à coucher", "garden": "jardin", "garage": "garage", "stairs": "escalier",
+            "yard": "cour", "roof": "toit",
+            # New Health words
+            "doctor": "médecin", "hospital": "hôpital", "medicine": "médicament", "headache": "mal de tête",
+            "fever": "fièvre", "cough": "toux", "pain": "douleur", "pharmacy": "pharmacie",
+            "rest": "repos", "stomachache": "mal de ventre",
+            # Existing phrase translations
+            "Turn left here.": "Tournez à gauche ici.",
+            "Go straight ahead.": "Allez tout droit.",
+            "Where is the station?": "Où est la gare ?",
+            "Is it far from here?": "Est-ce loin d'ici ?",
+            "I need a map.": "J'ai besoin d'une carte.",
+            "Where is the bus stop?": "Où est l'arrêt de bus ?",
+            "The train is delayed.": "Le train a du retard.",
+            "I have luggage.": "J'ai des bagages.",
+            "How much is the train?": "Combien coûte le train ?",
+            "Where is the taxi stand?": "Où est la station de taxi ?",
+            "How much is this?": "Combien ça coûte ?",
+            "It's too expensive.": "C'est trop cher.",
+            "This is good quality.": "C'est de bonne qualité.",
+            "Is the shop open?": "Le magasin est ouvert ?",
+            "It's closed today.": "C'est fermé aujourd'hui.",
+            "Can I return this?": "Puis-je retourner ceci ?",
+            "The shop is over there.": "Le magasin est là-bas.",
+            "I don't have money.": "Je n'ai pas d'argent.",
+            "It's sunny today.": "Il fait beau aujourd'hui.",
+            "It's going to rain.": "Il va pleuvoir.",
+            "It's very cold outside.": "Il fait très froid dehors.",
+            "Bring an umbrella.": "Prends un parapluie.",
+            "What's the temperature?": "Quelle est la température ?",
+            "It's snowing.": "Il neige.",
+            "It's warm today.": "Il fait doux aujourd'hui.",
+            "It's windy.": "Il y a du vent.",
+            # New Hotel phrases
+            "I need a room.": "J'ai besoin d'une chambre.",
+            "How much per night?": "Combien par nuit ?",
+            "Where is the bathroom?": "Où est la salle de bain ?",
+            "Can I have a towel?": "Puis-je avoir une serviette ?",
+            "The bed is comfortable.": "Le lit est confortable.",
+            "I am a guest here.": "Je suis un invité ici.",
+            "The reception is on this floor.": "La réception est à cet étage ?",
+            # New Restaurant phrases
+            "I want a drink.": "Je veux une boisson.",
+            "The food is good.": "La nourriture est bonne.",
+            "Can I have a glass of water?": "Puis-je avoir un verre d'eau ?",
+            "We need a bottle of wine.": "Nous avons besoin d'une bouteille de vin.",
+            "I'd like dessert.": "Je voudrais un dessert.",
+            "Pass me the salt, please.": "Passez-moi le sel, s'il vous plaît.",
+            # New Time phrases
+            "In the morning.": "Le matin.",
+            "See you tomorrow.": "À demain.",
+            "It's early morning.": "C'est tôt le matin.",
+            "I am free now.": "Je suis libre maintenant.",
+            "See you later.": "À plus tard.",
+            "In the afternoon.": "L'après-midi.",
+            # New Family phrases
+            "This is my mother.": "C'est ma mère.",
+            "My father is tall.": "Mon père est grand.",
+            "I have a sister.": "J'ai une sœur.",
+            "My brother is young.": "Mon frère est jeune.",
+            "She is my friend.": "C'est mon amie.",
+            "The child is happy.": "L'enfant est heureux.",
+            "My wife is kind.": "Ma femme est gentille.",
+            # New Home phrases
+            "This is my house.": "C'est ma maison.",
+            "Open the door.": "Ouvrez la porte.",
+            "The kitchen is big.": "La cuisine est grande.",
+            "The bedroom is clean.": "La chambre est propre.",
+            "There is a garden.": "Il y a un jardin.",
+            "Close the window.": "Fermez la fenêtre.",
+            # New Health phrases
+            "I need a doctor.": "J'ai besoin d'un médecin.",
+            "Where is the hospital?": "Où est l'hôpital ?",
+            "I have a headache.": "J'ai mal à la tête.",
+            "I have a fever.": "J'ai de la fièvre.",
+            "Take this medicine.": "Prenez ce médicament.",
+            "You need rest.": "Vous avez besoin de repos.",
+            "I have a stomachache.": "J'ai mal au ventre.",
+        },
+        "de": {  # German
+            # Existing word translations
+            "left": "links", "right": "rechts", "straight": "geradeaus", "here": "hier", "there": "dort",
+            "near": "nah", "far": "weit", "map": "Karte", "street": "Straße", "road": "Weg",
+            "train": "Zug", "bus": "Bus", "taxi": "Taxi", "subway": "U-Bahn", "hotel": "Hotel",
+            "luggage": "Gepäck", "station": "Bahnhof", "flight": "Flug", "delay": "Verspätung", "boarding": "Boarding",
+            "shop": "Geschäft", "price": "Preis", "expensive": "teuer", "cheap": "billig", "money": "Geld",
+            "quality": "Qualität", "brand": "Marke", "return": "Rückgabe", "open": "geöffnet", "closed": "geschlossen",
+            "sunny": "sonnig", "rain": "Regen", "snow": "Schnee", "wind": "Wind", "cloud": "Wolke",
+            "cold": "kalt", "hot": "heiß", "warm": "warm", "temperature": "Temperatur", "umbrella": "Regenschirm",
+            # New Hotel words
+            "room": "Zimmer", "bed": "Bett", "shower": "Dusche", "bathroom": "Badezimmer",
+            "towel": "Handtuch", "pillow": "Kissen", "blanket": "Decke", "floor": "Stockwerk",
+            "reception": "Rezeption", "guest": "Gast",
+            # New Restaurant words
+            "restaurant": "Restaurant", "drink": "Getränk", "food": "Essen",
+            "napkin": "Serviette", "salt": "Salz", "pepper": "Pfeffer",
+            "glass": "Glas", "bottle": "Flasche", "dessert": "Nachspeise", "main": "Hauptgericht",
+            # New Time words
+            "morning": "Morgen", "afternoon": "Nachmittag", "evening": "Abend", "night": "Nacht",
+            "today": "heute", "tomorrow": "morgen", "yesterday": "gestern", "now": "jetzt",
+            "later": "später", "early": "früh",
+            # New Family words
+            "mother": "Mutter", "father": "Vater", "sister": "Schwester", "brother": "Bruder",
+            "daughter": "Tochter", "son": "Sohn", "wife": "Frau", "husband": "Mann",
+            "friend": "Freund", "child": "Kind",
+            # New Home words
+            "house": "Haus", "door": "Tür", "window": "Fenster", "kitchen": "Küche",
+            "bedroom": "Schlafzimmer", "garden": "Garten", "garage": "Garage", "stairs": "Treppe",
+            "yard": "Hof", "roof": "Dach",
+            # New Health words
+            "doctor": "Arzt", "hospital": "Krankenhaus", "medicine": "Medizin", "headache": "Kopfschmerzen",
+            "fever": "Fieber", "cough": "Husten", "pain": "Schmerz", "pharmacy": "Apotheke",
+            "rest": "Ruhe", "stomachache": "Bauchschmerzen",
+            # Existing phrase translations
+            "Turn left here.": "Hier links abbiegen.",
+            "Go straight ahead.": "Geradeaus gehen.",
+            "Where is the station?": "Wo ist der Bahnhof?",
+            "Is it far from here?": "Ist es weit von hier?",
+            "I need a map.": "Ich brauche eine Karte.",
+            "Where is the bus stop?": "Wo ist die Bushaltestelle?",
+            "The train is delayed.": "Der Zug hat Verspätung.",
+            "I have luggage.": "Ich habe Gepäck.",
+            "How much is the train?": "Wie viel kostet der Zug?",
+            "Where is the taxi stand?": "Wo ist der Taxistand?",
+            "How much is this?": "Wie viel kostet das?",
+            "It's too expensive.": "Es ist zu teuer.",
+            "This is good quality.": "Das ist gute Qualität.",
+            "Is the shop open?": "Ist das Geschäft geöffnet?",
+            "It's closed today.": "Es ist heute geschlossen.",
+            "Can I return this?": "Kann ich das zurückgeben?",
+            "The shop is over there.": "Das Geschäft ist dort drüben.",
+            "I don't have money.": "Ich habe kein Geld.",
+            "It's sunny today.": "Heute ist es sonnig.",
+            "It's going to rain.": "Es wird regnen.",
+            "It's very cold outside.": "Es ist sehr kalt draußen.",
+            "Bring an umbrella.": "Bring einen Regenschirm mit.",
+            "What's the temperature?": "Wie ist die Temperatur?",
+            "It's snowing.": "Es schneit.",
+            "It's warm today.": "Heute ist es warm.",
+            "It's windy.": "Es ist windig.",
+            # New Hotel phrases
+            "I need a room.": "Ich brauche ein Zimmer.",
+            "How much per night?": "Wie viel pro Nacht?",
+            "Where is the bathroom?": "Wo ist das Badezimmer?",
+            "Can I have a towel?": "Kann ich ein Handtuch haben?",
+            "The bed is comfortable.": "Das Bett ist bequem.",
+            "I am a guest here.": "Ich bin hier ein Gast.",
+            "The reception is on this floor.": "Ist die Rezeption auf dieser Etage?",
+            # New Restaurant phrases
+            "I want a drink.": "Ich möchte ein Getränk.",
+            "The food is good.": "Das Essen ist gut.",
+            "Can I have a glass of water?": "Kann ich ein Glas Wasser haben?",
+            "We need a bottle of wine.": "Wir brauchen eine Flasche Wein.",
+            "I'd like dessert.": "Ich hätte gern eine Nachspeise.",
+            "Pass me the salt, please.": "Gib mir bitte das Salz.",
+            # New Time phrases
+            "In the morning.": "Am Morgen.",
+            "See you tomorrow.": "Bis morgen.",
+            "It's early morning.": "Es ist früher Morgen.",
+            "I am free now.": "Ich bin jetzt frei.",
+            "See you later.": "Bis später.",
+            "In the afternoon.": "Am Nachmittag.",
+            # New Family phrases
+            "This is my mother.": "Das ist meine Mutter.",
+            "My father is tall.": "Mein Vater ist groß.",
+            "I have a sister.": "Ich habe eine Schwester.",
+            "My brother is young.": "Mein Bruder ist jung.",
+            "She is my friend.": "Sie ist meine Freundin.",
+            "The child is happy.": "Das Kind ist glücklich.",
+            "My wife is kind.": "Meine Frau ist nett.",
+            # New Home phrases
+            "This is my house.": "Das ist mein Haus.",
+            "Open the door.": "Öffne die Tür.",
+            "The kitchen is big.": "Die Küche ist groß.",
+            "The bedroom is clean.": "Das Schlafzimmer ist sauber.",
+            "There is a garden.": "Es gibt einen Garten.",
+            "Close the window.": "Schließe das Fenster.",
+            # New Health phrases
+            "I need a doctor.": "Ich brauche einen Arzt.",
+            "Where is the hospital?": "Wo ist das Krankenhaus?",
+            "I have a headache.": "Ich habe Kopfschmerzen.",
+            "I have a fever.": "Ich habe Fieber.",
+            "Take this medicine.": "Nimm diese Medizin.",
+            "You need rest.": "Du brauchst Ruhe.",
+            "I have a stomachache.": "Ich habe Bauchschmerzen.",
+        },
+        "es": {  # Spanish
+            # Existing word translations
+            "left": "izquierda", "right": "derecha", "straight": "recto", "here": "aquí", "there": "allí",
+            "near": "cerca", "far": "lejos", "map": "mapa", "street": "calle", "road": "carretera",
+            "train": "tren", "bus": "autobús", "taxi": "taxi", "subway": "metro", "hotel": "hotel",
+            "luggage": "equipaje", "station": "estación", "flight": "vuelo", "delay": "retraso", "boarding": "embarque",
+            "shop": "tienda", "price": "precio", "expensive": "caro", "cheap": "barato", "money": "dinero",
+            "quality": "calidad", "brand": "marca", "return": "devolución", "open": "abierto", "closed": "cerrado",
+            "sunny": "soleado", "rain": "lluvia", "snow": "nieve", "wind": "viento", "cloud": "nube",
+            "cold": "frío", "hot": "calor", "warm": "cálido", "temperature": "temperatura", "umbrella": "paraguas",
+            # New Hotel words
+            "room": "habitación", "bed": "cama", "shower": "ducha", "bathroom": "baño",
+            "towel": "toalla", "pillow": "almohada", "blanket": "manta", "floor": "piso",
+            "reception": "recepción", "guest": "huésped",
+            # New Restaurant words
+            "restaurant": "restaurante", "drink": "bebida", "food": "comida",
+            "napkin": "servilleta", "salt": "sal", "pepper": "pimienta",
+            "glass": "vaso", "bottle": "botella", "dessert": "postre", "main": "plato principal",
+            # New Time words
+            "morning": "mañana", "afternoon": "tarde", "evening": "noche", "night": "noche",
+            "today": "hoy", "tomorrow": "mañana", "yesterday": "ayer", "now": "ahora",
+            "later": "más tarde", "early": "temprano",
+            # New Family words
+            "mother": "madre", "father": "padre", "sister": "hermana", "brother": "hermano",
+            "daughter": "hija", "son": "hijo", "wife": "esposa", "husband": "esposo",
+            "friend": "amigo", "child": "niño",
+            # New Home words
+            "house": "casa", "door": "puerta", "window": "ventana", "kitchen": "cocina",
+            "bedroom": "dormitorio", "garden": "jardín", "garage": "garaje", "stairs": "escaleras",
+            "yard": "patio", "roof": "techo",
+            # New Health words
+            "doctor": "médico", "hospital": "hospital", "medicine": "medicina", "headache": "dolor de cabeza",
+            "fever": "fiebre", "cough": "tos", "pain": "dolor", "pharmacy": "farmacia",
+            "rest": "descanso", "stomachache": "dolor de estómago",
+            # Existing phrase translations
+            "Turn left here.": "Gire a la izquierda aquí.",
+            "Go straight ahead.": "Siga recto.",
+            "Where is the station?": "¿Dónde está la estación?",
+            "Is it far from here?": "¿Está lejos de aquí?",
+            "I need a map.": "Necesito un mapa.",
+            "Where is the bus stop?": "¿Dónde está la parada de autobús?",
+            "The train is delayed.": "El tren tiene retraso.",
+            "I have luggage.": "Tengo equipaje.",
+            "How much is the train?": "¿Cuánto cuesta el tren?",
+            "Where is the taxi stand?": "¿Dónde está la parada de taxi?",
+            "How much is this?": "¿Cuánto cuesta esto?",
+            "It's too expensive.": "Es demasiado caro.",
+            "This is good quality.": "Esto es de buena calidad.",
+            "Is the shop open?": "¿La tienda está abierta?",
+            "It's closed today.": "Está cerrado hoy.",
+            "Can I return this?": "¿Puedo devolver esto?",
+            "The shop is over there.": "La tienda está allí.",
+            "I don't have money.": "No tengo dinero.",
+            "It's sunny today.": "Hoy hace sol.",
+            "It's going to rain.": "Va a llover.",
+            "It's very cold outside.": "Hace mucho frío afuera.",
+            "Bring an umbrella.": "Trae un paraguas.",
+            "What's the temperature?": "¿Cuál es la temperatura?",
+            "It's snowing.": "Está nevando.",
+            "It's warm today.": "Hoy hace calorcito.",
+            "It's windy.": "Hace viento.",
+            # New Hotel phrases
+            "I need a room.": "Necesito una habitación.",
+            "How much per night?": "¿Cuánto por noche?",
+            "Where is the bathroom?": "¿Dónde está el baño?",
+            "Can I have a towel?": "¿Puedo tener una toalla?",
+            "The bed is comfortable.": "La cama es cómoda.",
+            "I am a guest here.": "Soy un huésped aquí.",
+            "The reception is on this floor.": "¿La recepción está en este piso?",
+            # New Restaurant phrases
+            "I want a drink.": "Quiero una bebida.",
+            "The food is good.": "La comida es buena.",
+            "Can I have a glass of water?": "¿Puedo tener un vaso de agua?",
+            "We need a bottle of wine.": "Necesitamos una botella de vino.",
+            "I'd like dessert.": "Me gustaría un postre.",
+            "Pass me the salt, please.": "Pásame la sal, por favor.",
+            # New Time phrases
+            "In the morning.": "Por la mañana.",
+            "See you tomorrow.": "Hasta mañana.",
+            "It's early morning.": "Es temprano por la mañana.",
+            "I am free now.": "Estoy libre ahora.",
+            "See you later.": "Hasta luego.",
+            "In the afternoon.": "Por la tarde.",
+            # New Family phrases
+            "This is my mother.": "Esta es mi madre.",
+            "My father is tall.": "Mi padre es alto.",
+            "I have a sister.": "Tengo una hermana.",
+            "My brother is young.": "Mi hermano es joven.",
+            "She is my friend.": "Ella es mi amiga.",
+            "The child is happy.": "El niño está feliz.",
+            "My wife is kind.": "Mi esposa es amable.",
+            # New Home phrases
+            "This is my house.": "Esta es mi casa.",
+            "Open the door.": "Abre la puerta.",
+            "The kitchen is big.": "La cocina es grande.",
+            "The bedroom is clean.": "El dormitorio está limpio.",
+            "There is a garden.": "Hay un jardín.",
+            "Close the window.": "Cierra la ventana.",
+            # New Health phrases
+            "I need a doctor.": "Necesito un médico.",
+            "Where is the hospital?": "¿Dónde está el hospital?",
+            "I have a headache.": "Tengo dolor de cabeza.",
+            "I have a fever.": "Tengo fiebre.",
+            "Take this medicine.": "Toma esta medicina.",
+            "You need rest.": "Necesitas descanso.",
+            "I have a stomachache.": "Tengo dolor de estómago.",
+        },
+        "it": {  # Italian
+            # Existing word translations
+            "left": "sinistra", "right": "destra", "straight": "dritto", "here": "qui", "there": "lì",
+            "near": "vicino", "far": "lontano", "map": "mappa", "street": "strada", "road": "via",
+            "train": "treno", "bus": "autobus", "taxi": "taxi", "subway": "metropolitana", "hotel": "hotel",
+            "luggage": "bagaglio", "station": "stazione", "flight": "volo", "delay": "ritardo", "boarding": "imbarco",
+            "shop": "negozio", "price": "prezzo", "expensive": "caro", "cheap": "economico", "money": "soldi",
+            "quality": "qualità", "brand": "marca", "return": "reso", "open": "aperto", "closed": "chiuso",
+            "sunny": "soleggiato", "rain": "pioggia", "snow": "neve", "wind": "vento", "cloud": "nuvola",
+            "cold": "freddo", "hot": "caldo", "warm": "tiepido", "temperature": "temperatura", "umbrella": "ombrello",
+            # New Hotel words
+            "room": "stanza", "bed": "letto", "shower": "doccia", "bathroom": "bagno",
+            "towel": "asciugamano", "pillow": "cuscino", "blanket": "coperta", "floor": "piano",
+            "reception": "reception", "guest": "ospite",
+            # New Restaurant words
+            "restaurant": "ristorante", "drink": "bevanda", "food": "cibo",
+            "napkin": "tovagliolo", "salt": "sale", "pepper": "pepe",
+            "glass": "bicchiere", "bottle": "bottiglia", "dessert": "dolce", "main": "piatto principale",
+            # New Time words
+            "morning": "mattina", "afternoon": "pomeriggio", "evening": "sera", "night": "notte",
+            "today": "oggi", "tomorrow": "domani", "yesterday": "ieri", "now": "adesso",
+            "later": "più tardi", "early": "presto",
+            # New Family words
+            "mother": "madre", "father": "padre", "sister": "sorella", "brother": "fratello",
+            "daughter": "figlia", "son": "figlio", "wife": "moglie", "husband": "marito",
+            "friend": "amico", "child": "bambino",
+            # New Home words
+            "house": "casa", "door": "porta", "window": "finestra", "kitchen": "cucina",
+            "bedroom": "camera da letto", "garden": "giardino", "garage": "garage", "stairs": "scale",
+            "yard": "cortile", "roof": "tetto",
+            # New Health words
+            "doctor": "dottore", "hospital": "ospedale", "medicine": "medicina", "headache": "mal di testa",
+            "fever": "febbre", "cough": "tosse", "pain": "dolore", "pharmacy": "farmacia",
+            "rest": "riposo", "stomachache": "mal di stomaco",
+            # Existing phrase translations
+            "Turn left here.": "Gira a sinistra qui.",
+            "Go straight ahead.": "Vai dritto.",
+            "Where is the station?": "Dov'è la stazione?",
+            "Is it far from here?": "È lontano da qui?",
+            "I need a map.": "Ho bisogno di una mappa.",
+            "Where is the bus stop?": "Dov'è la fermata dell'autobus?",
+            "The train is delayed.": "Il treno è in ritardo.",
+            "I have luggage.": "Ho bagaglio.",
+            "How much is the train?": "Quanto costa il treno?",
+            "Where is the taxi stand?": "Dov'è il posteggio dei taxi?",
+            "How much is this?": "Quanto costa questo?",
+            "It's too expensive.": "È troppo caro.",
+            "This is good quality.": "Questa è buona qualità.",
+            "Is the shop open?": "Il negozio è aperto?",
+            "It's closed today.": "Oggi è chiuso.",
+            "Can I return this?": "Posso rendere questo?",
+            "The shop is over there.": "Il negozio è laggiù.",
+            "I don't have money.": "Non ho soldi.",
+            "It's sunny today.": "Oggi c'è sole.",
+            "It's going to rain.": "Pioverà.",
+            "It's very cold outside.": "Fa molto freddo fuori.",
+            "Bring an umbrella.": "Porta un ombrello.",
+            "What's the temperature?": "Qual è la temperatura?",
+            "It's snowing.": "Nevica.",
+            "It's warm today.": "Oggi fa tiepido.",
+            "It's windy.": "C'è vento.",
+            # New Hotel phrases
+            "I need a room.": "Ho bisogno di una stanza.",
+            "How much per night?": "Quanto a notte?",
+            "Where is the bathroom?": "Dov'è il bagno?",
+            "Can I have a towel?": "Posso avere un asciugamano?",
+            "The bed is comfortable.": "Il letto è comodo.",
+            "I am a guest here.": "Sono un ospite qui.",
+            "The reception is on this floor.": "La reception è a questo piano?",
+            # New Restaurant phrases
+            "I want a drink.": "Voglio una bevanda.",
+            "The food is good.": "Il cibo è buono.",
+            "Can I have a glass of water?": "Posso avere un bicchiere d'acqua?",
+            "We need a bottle of wine.": "Abbiamo bisogno di una bottiglia di vino.",
+            "I'd like dessert.": "Vorrei il dolce.",
+            "Pass me the salt, please.": "Passami il sale, per favore.",
+            # New Time phrases
+            "In the morning.": "Al mattino.",
+            "See you tomorrow.": "A domani.",
+            "It's early morning.": "È mattina presto.",
+            "I am free now.": "Sono libero ora.",
+            "See you later.": "A più tardi.",
+            "In the afternoon.": "Nel pomeriggio.",
+            # New Family phrases
+            "This is my mother.": "Questa è mia madre.",
+            "My father is tall.": "Mio padre è alto.",
+            "I have a sister.": "Ho una sorella.",
+            "My brother is young.": "Mio fratello è giovane.",
+            "She is my friend.": "Lei è la mia amica.",
+            "The child is happy.": "Il bambino è felice.",
+            "My wife is kind.": "Mia moglie è gentile.",
+            # New Home phrases
+            "This is my house.": "Questa è la mia casa.",
+            "Open the door.": "Apri la porta.",
+            "The kitchen is big.": "La cucina è grande.",
+            "The bedroom is clean.": "La camera da letto è pulita.",
+            "There is a garden.": "C'è un giardino.",
+            "Close the window.": "Chiudi la finestra.",
+            # New Health phrases
+            "I need a doctor.": "Ho bisogno di un dottore.",
+            "Where is the hospital?": "Dov'è l'ospedale?",
+            "I have a headache.": "Ho mal di testa.",
+            "I have a fever.": "Ho la febbre.",
+            "Take this medicine.": "Prendi questa medicina.",
+            "You need rest.": "Hai bisogno di riposo.",
+            "I have a stomachache.": "Ho mal di stomaco.",
+        },
+        "pt": {  # Portuguese
+            # Existing word translations
+            "left": "esquerda", "right": "direita", "straight": "reto", "here": "aqui", "there": "ali",
+            "near": "perto", "far": "longe", "map": "mapa", "street": "rua", "road": "estrada",
+            "train": "trem", "bus": "ônibus", "taxi": "táxi", "subway": "metrô", "hotel": "hotel",
+            "luggage": "bagagem", "station": "estação", "flight": "voo", "delay": "atraso", "boarding": "embarque",
+            "shop": "loja", "price": "preço", "expensive": "caro", "cheap": "barato", "money": "dinheiro",
+            "quality": "qualidade", "brand": "marca", "return": "devolução", "open": "aberto", "closed": "fechado",
+            "sunny": "ensolarado", "rain": "chuva", "snow": "neve", "wind": "vento", "cloud": "nuvem",
+            "cold": "frio", "hot": "quente", "warm": "ameno", "temperature": "temperatura", "umbrella": "guarda-chuva",
+            # New Hotel words
+            "room": "quarto", "bed": "cama", "shower": "chuveiro", "bathroom": "banheiro",
+            "towel": "toalha", "pillow": "travesseiro", "blanket": "cobertor", "floor": "andar",
+            "reception": "recepção", "guest": "hóspede",
+            # New Restaurant words
+            "restaurant": "restaurante", "drink": "bebida", "food": "comida",
+            "napkin": "guardanapo", "salt": "sal", "pepper": "pimenta",
+            "glass": "copo", "bottle": "garrafa", "dessert": "sobremesa", "main": "prato principal",
+            # New Time words
+            "morning": "manhã", "afternoon": "tarde", "evening": "noite", "night": "noite",
+            "today": "hoje", "tomorrow": "amanhã", "yesterday": "ontem", "now": "agora",
+            "later": "mais tarde", "early": "cedo",
+            # New Family words
+            "mother": "mãe", "father": "pai", "sister": "irmã", "brother": "irmão",
+            "daughter": "filha", "son": "filho", "wife": "esposa", "husband": "marido",
+            "friend": "amigo", "child": "criança",
+            # New Home words
+            "house": "casa", "door": "porta", "window": "janela", "kitchen": "cozinha",
+            "bedroom": "quarto", "garden": "jardim", "garage": "garagem", "stairs": "escadas",
+            "yard": "quintal", "roof": "telhado",
+            # New Health words
+            "doctor": "médico", "hospital": "hospital", "medicine": "remédio", "headache": "dor de cabeça",
+            "fever": "febre", "cough": "tosse", "pain": "dor", "pharmacy": "farmácia",
+            "rest": "descanso", "stomachache": "dor de estômago",
+            # Existing phrase translations
+            "Turn left here.": "Vire à esquerda aqui.",
+            "Go straight ahead.": "Siga em frente.",
+            "Where is the station?": "Onde fica a estação?",
+            "Is it far from here?": "É longe daqui?",
+            "I need a map.": "Preciso de um mapa.",
+            "Where is the bus stop?": "Onde fica o ponto de ônibus?",
+            "The train is delayed.": "O trem está atrasado.",
+            "I have luggage.": "Tenho bagagem.",
+            "How much is the train?": "Quanto custa o trem?",
+            "Where is the taxi stand?": "Onde fica o ponto de táxi?",
+            "How much is this?": "Quanto custa isto?",
+            "It's too expensive.": "É muito caro.",
+            "This is good quality.": "Isto é de boa qualidade.",
+            "Is the shop open?": "A loja está aberta?",
+            "It's closed today.": "Está fechado hoje.",
+            "Can I return this?": "Posso devolver isto?",
+            "The shop is over there.": "A loja está ali.",
+            "I don't have money.": "Não tenho dinheiro.",
+            "It's sunny today.": "Hoje está ensolarado.",
+            "It's going to rain.": "Vai chover.",
+            "It's very cold outside.": "Está muito frio lá fora.",
+            "Bring an umbrella.": "Leve um guarda-chuva.",
+            "What's the temperature?": "Qual é a temperatura?",
+            "It's snowing.": "Está nevando.",
+            "It's warm today.": "Hoje está ameno.",
+            "It's windy.": "Está ventando.",
+            # New Hotel phrases
+            "I need a room.": "Preciso de um quarto.",
+            "How much per night?": "Quanto por noite?",
+            "Where is the bathroom?": "Onde fica o banheiro?",
+            "Can I have a towel?": "Posso ter uma toalha?",
+            "The bed is comfortable.": "A cama é confortável.",
+            "I am a guest here.": "Sou hóspede aqui.",
+            "The reception is on this floor.": "A recepção fica neste andar?",
+            # New Restaurant phrases
+            "I want a drink.": "Quero uma bebida.",
+            "The food is good.": "A comida é boa.",
+            "Can I have a glass of water?": "Posso ter um copo de água?",
+            "We need a bottle of wine.": "Precisamos de uma garrafa de vinho.",
+            "I'd like dessert.": "Gostaria de sobremesa.",
+            "Pass me the salt, please.": "Passe-me o sal, por favor.",
+            # New Time phrases
+            "In the morning.": "De manhã.",
+            "See you tomorrow.": "Até amanhã.",
+            "It's early morning.": "É de manhã cedo.",
+            "I am free now.": "Estou livre agora.",
+            "See you later.": "Até logo.",
+            "In the afternoon.": "À tarde.",
+            # New Family phrases
+            "This is my mother.": "Esta é minha mãe.",
+            "My father is tall.": "Meu pai é alto.",
+            "I have a sister.": "Tenho uma irmã.",
+            "My brother is young.": "Meu irmão é jovem.",
+            "She is my friend.": "Ela é minha amiga.",
+            "The child is happy.": "A criança está feliz.",
+            "My wife is kind.": "Minha esposa é gentil.",
+            # New Home phrases
+            "This is my house.": "Esta é minha casa.",
+            "Open the door.": "Abra a porta.",
+            "The kitchen is big.": "A cozinha é grande.",
+            "The bedroom is clean.": "O quarto está limpo.",
+            "There is a garden.": "Há um jardim.",
+            "Close the window.": "Feche a janela.",
+            # New Health phrases
+            "I need a doctor.": "Preciso de um médico.",
+            "Where is the hospital?": "Onde fica o hospital?",
+            "I have a headache.": "Estou com dor de cabeça.",
+            "I have a fever.": "Estou com febre.",
+            "Take this medicine.": "Tome este remédio.",
+            "You need rest.": "Você precisa de descanso.",
+            "I have a stomachache.": "Estou com dor de estômago.",
+        },
+        "ru": {  # Russian
+            # Existing word translations
+            "left": "налево", "right": "направо", "straight": "прямо", "here": "здесь", "there": "там",
+            "near": "близко", "far": "далеко", "map": "карта", "street": "улица", "road": "дорога",
+            "train": "поезд", "bus": "автобус", "taxi": "такси", "subway": "метро", "hotel": "отель",
+            "luggage": "багаж", "station": "вокзал", "flight": "рейс", "delay": "задержка", "boarding": "посадка",
+            "shop": "магазин", "price": "цена", "expensive": "дорогой", "cheap": "дешёвый", "money": "деньги",
+            "quality": "качество", "brand": "бренд", "return": "возврат", "open": "открыто", "closed": "закрыто",
+            "sunny": "солнечно", "rain": "дождь", "snow": "снег", "wind": "ветер", "cloud": "облачно",
+            "cold": "холодно", "hot": "жарко", "warm": "тепло", "temperature": "температура", "umbrella": "зонтик",
+            # New Hotel words
+            "room": "номер", "bed": "кровать", "shower": "душ", "bathroom": "ванная",
+            "towel": "полотенце", "pillow": "подушка", "blanket": "одеяло", "floor": "этаж",
+            "reception": "стойка регистрации", "guest": "гость",
+            # New Restaurant words
+            "restaurant": "ресторан", "drink": "напиток", "food": "еда",
+            "napkin": "салфетка", "salt": "соль", "pepper": "перец",
+            "glass": "стакан", "bottle": "бутылка", "dessert": "десерт", "main": "главное блюдо",
+            # New Time words
+            "morning": "утро", "afternoon": "день", "evening": "вечер", "night": "ночь",
+            "today": "сегодня", "tomorrow": "завтра", "yesterday": "вчера", "now": "сейчас",
+            "later": "позже", "early": "рано",
+            # New Family words
+            "mother": "мать", "father": "отец", "sister": "сестра", "brother": "брат",
+            "daughter": "дочь", "son": "сын", "wife": "жена", "husband": "муж",
+            "friend": "друг", "child": "ребёнок",
+            # New Home words
+            "house": "дом", "door": "дверь", "window": "окно", "kitchen": "кухня",
+            "bedroom": "спальня", "garden": "сад", "garage": "гараж", "stairs": "лестница",
+            "yard": "двор", "roof": "крыша",
+            # New Health words
+            "doctor": "врач", "hospital": "больница", "medicine": "лекарство", "headache": "головная боль",
+            "fever": "лихорадка", "cough": "кашель", "pain": "боль", "pharmacy": "аптека",
+            "rest": "отдых", "stomachache": "боль в животе",
+            # Existing phrase translations
+            "Turn left here.": "Поверните налево здесь.",
+            "Go straight ahead.": "Идите прямо.",
+            "Where is the station?": "Где находится вокзал?",
+            "Is it far from here?": "Это далеко отсюда?",
+            "I need a map.": "Мне нужна карта.",
+            "Where is the bus stop?": "Где автобусная остановка?",
+            "The train is delayed.": "Поезд задерживается.",
+            "I have luggage.": "У меня есть багаж.",
+            "How much is the train?": "Сколько стоит поезд?",
+            "Where is the taxi stand?": "Где стоянка такси?",
+            "How much is this?": "Сколько это стоит?",
+            "It's too expensive.": "Это слишком дорого.",
+            "This is good quality.": "Это хорошего качества.",
+            "Is the shop open?": "Магазин открыт?",
+            "It's closed today.": "Сегодня закрыто.",
+            "Can I return this?": "Можно вернуть это?",
+            "The shop is over there.": "Магазин вон там.",
+            "I don't have money.": "У меня нет денег.",
+            "It's sunny today.": "Сегодня солнечно.",
+            "It's going to rain.": "Будет дождь.",
+            "It's very cold outside.": "На улице очень холодно.",
+            "Bring an umbrella.": "Возьмите зонтик.",
+            "What's the temperature?": "Какая температура?",
+            "It's snowing.": "Идёт снег.",
+            "It's warm today.": "Сегодня тепло.",
+            "It's windy.": "Ветрено.",
+            # New Hotel phrases
+            "I need a room.": "Мне нужен номер.",
+            "How much per night?": "Сколько за ночь?",
+            "Where is the bathroom?": "Где находится ванная?",
+            "Can I have a towel?": "Можно полотенце?",
+            "The bed is comfortable.": "Кровать удобная.",
+            "I am a guest here.": "Я здесь гость.",
+            "The reception is on this floor.": "Стойка регистрации на этом этаже?",
+            # New Restaurant phrases
+            "I want a drink.": "Я хочу напиток.",
+            "The food is good.": "Еда вкусная.",
+            "Can I have a glass of water?": "Можно стакан воды?",
+            "We need a bottle of wine.": "Нам нужна бутылка вина.",
+            "I'd like dessert.": "Я бы хотел десерт.",
+            "Pass me the salt, please.": "Передайте соль, пожалуйста.",
+            # New Time phrases
+            "In the morning.": "Утром.",
+            "See you tomorrow.": "Увидимся завтра.",
+            "It's early morning.": "Раннее утро.",
+            "I am free now.": "Я сейчас свободен.",
+            "See you later.": "Увидимся позже.",
+            "In the afternoon.": "Днём.",
+            # New Family phrases
+            "This is my mother.": "Это моя мама.",
+            "My father is tall.": "Мой отец высокий.",
+            "I have a sister.": "У меня есть сестра.",
+            "My brother is young.": "Мой брат молодой.",
+            "She is my friend.": "Она моя подруга.",
+            "The child is happy.": "Ребёнок счастлив.",
+            "My wife is kind.": "Моя жена добрая.",
+            # New Home phrases
+            "This is my house.": "Это мой дом.",
+            "Open the door.": "Откройте дверь.",
+            "The kitchen is big.": "Кухня большая.",
+            "The bedroom is clean.": "Спальня чистая.",
+            "There is a garden.": "Там есть сад.",
+            "Close the window.": "Закройте окно.",
+            # New Health phrases
+            "I need a doctor.": "Мне нужен врач.",
+            "Where is the hospital?": "Где находится больница?",
+            "I have a headache.": "У меня болит голова.",
+            "I have a fever.": "У меня жар.",
+            "Take this medicine.": "Примите это лекарство.",
+            "You need rest.": "Вам нужен отдых.",
+            "I have a stomachache.": "У меня болит живот.",
+        },
+        "th": {  # Thai
+            # Existing word translations
+            "left": "ซ้าย", "right": "ขวา", "straight": "ตรงไป", "here": "ที่นี่", "there": "ที่นั่น",
+            "near": "ใกล้", "far": "ไกล", "map": "แผนที่", "street": "ถนน", "road": "ทาง",
+            "train": "รถไฟ", "bus": "รถเมล์", "taxi": "แท็กซี่", "subway": "รถไฟฟ้า", "hotel": "โรงแรม",
+            "luggage": "กระเป๋า", "station": "สถานี", "flight": "เที่ยวบิน", "delay": "ล่าช้า", "boarding": "ขึ้นเครื่อง",
+            "shop": "ร้านค้า", "price": "ราคา", "expensive": "แพง", "cheap": "ถูก", "money": "เงิน",
+            "quality": "คุณภาพ", "brand": "แบรนด์", "return": "คืนสินค้า", "open": "เปิด", "closed": "ปิด",
+            "sunny": "แดดออก", "rain": "ฝน", "snow": "หิมะ", "wind": "ลม", "cloud": "เมฆ",
+            "cold": "หนาว", "hot": "ร้อน", "warm": "อุ่น", "temperature": "อุณหภูมิ", "umbrella": "ร่ม",
+            # New Hotel words
+            "room": "ห้อง", "bed": "เตียง", "shower": "ฝักบัว", "bathroom": "ห้องน้ำ",
+            "towel": "ผ้าเช็ดตัว", "pillow": "หมอน", "blanket": "ผ้าห่ม", "floor": "ชั้น",
+            "reception": "แผนกต้อนรับ", "guest": "แขก",
+            # New Restaurant words
+            "restaurant": "ร้านอาหาร", "drink": "เครื่องดื่ม", "food": "อาหาร",
+            "napkin": "ผ้าเช็ดปาก", "salt": "เกลือ", "pepper": "พริกไทย",
+            "glass": "แก้ว", "bottle": "ขวด", "dessert": "ของหวาน", "main": "อาหารจานหลัก",
+            # New Time words
+            "morning": "เช้า", "afternoon": "บ่าย", "evening": "เย็น", "night": "กลางคืน",
+            "today": "วันนี้", "tomorrow": "พรุ่งนี้", "yesterday": "เมื่อวาน", "now": "ตอนนี้",
+            "later": "ทีหลัง", "early": "เช้า",
+            # New Family words
+            "mother": "แม่", "father": "พ่อ", "sister": "พี่สาว/น้องสาว", "brother": "พี่ชาย/น้องชาย",
+            "daughter": "ลูกสาว", "son": "ลูกชาย", "wife": "ภรรยา", "husband": "สามี",
+            "friend": "เพื่อน", "child": "เด็ก",
+            # New Home words
+            "house": "บ้าน", "door": "ประตู", "window": "หน้าต่าง", "kitchen": "ครัว",
+            "bedroom": "ห้องนอน", "garden": "สวน", "garage": "โรงรถ", "stairs": "บันได",
+            "yard": "สนาม", "roof": "หลังคา",
+            # New Health words
+            "doctor": "หมอ", "hospital": "โรงพยาบาล", "medicine": "ยา", "headache": "ปวดหัว",
+            "fever": "ไข้", "cough": "ไอ", "pain": "ปวด", "pharmacy": "ร้านขายยา",
+            "rest": "พักผ่อน", "stomachache": "ปวดท้อง",
+            # Existing phrase translations
+            "Turn left here.": "เลี้ยวซ้ายตรงนี้",
+            "Go straight ahead.": "ตรงไปข้างหน้า",
+            "Where is the station?": "สถานีอยู่ที่ไหน",
+            "Is it far from here?": "ไกลจากที่นี่ไหม",
+            "I need a map.": "ฉันต้องการแผนที่",
+            "Where is the bus stop?": "ป้ายรถเมล์อยู่ที่ไหน",
+            "The train is delayed.": "รถไฟล่าช้า",
+            "I have luggage.": "ฉันมีกระเป๋าเดินทาง",
+            "How much is the train?": "รถไฟเท่าไหร่",
+            "Where is the taxi stand?": "ที่จอดแท็กซี่อยู่ที่ไหน",
+            "How much is this?": "อันนี้เท่าไหร่",
+            "It's too expensive.": "แพงเกินไป",
+            "This is good quality.": "อันนี้คุณภาพดี",
+            "Is the shop open?": "ร้านเปิดไหม",
+            "It's closed today.": "วันนี้ปิด",
+            "Can I return this?": "คืนสินค้าได้ไหม",
+            "The shop is over there.": "ร้านอยู่ตรงนั้น",
+            "I don't have money.": "ฉันไม่มีเงิน",
+            "It's sunny today.": "วันนี้แดดออก",
+            "It's going to rain.": "ฝนจะตก",
+            "It's very cold outside.": "ข้างนอกหนาวมาก",
+            "Bring an umbrella.": "เอาร่มไปด้วย",
+            "What's the temperature?": "อุณหภูมิเท่าไหร่",
+            "It's snowing.": "หิมะตก",
+            "It's warm today.": "วันนี้อุ่น",
+            "It's windy.": "ลมแรง",
+            # New Hotel phrases
+            "I need a room.": "ฉันต้องการห้อง",
+            "How much per night?": "คืนละเท่าไหร่",
+            "Where is the bathroom?": "ห้องน้ำอยู่ที่ไหน",
+            "Can I have a towel?": "ขอผ้าเช็ดตัวหน่อย",
+            "The bed is comfortable.": "เตียงนุ่มสบาย",
+            "I am a guest here.": "ฉันเป็นแขกที่นี่",
+            "The reception is on this floor.": "แผนกต้อนรับอยู่ชั้นนี้ไหม",
+            # New Restaurant phrases
+            "I want a drink.": "ฉันต้องการเครื่องดื่ม",
+            "The food is good.": "อาหารอร่อย",
+            "Can I have a glass of water?": "ขอน้ำแก้วนึง",
+            "We need a bottle of wine.": "เราต้องการไวน์หนึ่งขวด",
+            "I'd like dessert.": "ฉันอยากได้ของหวาน",
+            "Pass me the salt, please.": "ส่งเกลือให้หน่อย",
+            # New Time phrases
+            "In the morning.": "ตอนเช้า",
+            "See you tomorrow.": "เจอกันพรุ่งนี้",
+            "It's early morning.": "ตอนเช้าตรู่",
+            "I am free now.": "ตอนนี้ฉันว่าง",
+            "See you later.": "แล้วเจอกัน",
+            "In the afternoon.": "ตอนบ่าย",
+            # New Family phrases
+            "This is my mother.": "นี่คือแม่ของฉัน",
+            "My father is tall.": "พ่อของฉันตัวสูง",
+            "I have a sister.": "ฉันมีพี่สาว/น้องสาว",
+            "My brother is young.": "พี่ชาย/น้องชายของฉันอายุน้อย",
+            "She is my friend.": "เธอเป็นเพื่อนของฉัน",
+            "The child is happy.": "เด็กมีความสุข",
+            "My wife is kind.": "ภรรยาของฉันใจดี",
+            # New Home phrases
+            "This is my house.": "นี่คือบ้านของฉัน",
+            "Open the door.": "เปิดประตู",
+            "The kitchen is big.": "ครัวใหญ่",
+            "The bedroom is clean.": "ห้องนอนสะอาด",
+            "There is a garden.": "มีสวน",
+            "Close the window.": "ปิดหน้าต่าง",
+            # New Health phrases
+            "I need a doctor.": "ฉันต้องการหมอ",
+            "Where is the hospital?": "โรงพยาบาลอยู่ที่ไหน",
+            "I have a headache.": "ฉันปวดหัว",
+            "I have a fever.": "ฉันเป็นไข้",
+            "Take this medicine.": "กินยานี้",
+            "You need rest.": "คุณต้องการพักผ่อน",
+            "I have a stomachache.": "ฉันปวดท้อง",
+        },
+    }
+
+    def t(word, phrase_only=False):
+        """Translate word or phrase"""
+        tr = translations.get(lang_label, {})
+        result = tr.get(word, word)
+        if not phrase_only and result == word:
+            # Try fallback
+            pass
+        return result
+
+    # Build Directions skill
+    directions_words = []
+    for eng_word, cn in directions_words_en:
+        directions_words.append({"word": t(eng_word), "translation": cn})
+
+    directions_phrases = [
+        {"phrase": t("Turn left here."), "translation": "在这里左转。"},
+        {"phrase": t("Go straight ahead."), "translation": "一直往前走。"},
+        {"phrase": t("Where is the station?"), "translation": "车站在哪里？"},
+        {"phrase": t("Is it far from here?"), "translation": "离这里远吗？"},
+        {"phrase": t("I need a map."), "translation": "我需要一张地图。"},
+    ]
+
+    # Build Transportation skill
+    transport_words = []
+    for eng_word, cn in transport_words_en:
+        transport_words.append({"word": t(eng_word), "translation": cn})
+
+    transport_phrases = [
+        {"phrase": t("Where is the bus stop?"), "translation": "公共汽车站在哪里？"},
+        {"phrase": t("The train is delayed."), "translation": "火车晚点了。"},
+        {"phrase": t("I have luggage."), "translation": "我有行李。"},
+        {"phrase": t("How much is the train?"), "translation": "火车票多少钱？"},
+        {"phrase": t("Where is the taxi stand?"), "translation": "出租车站在哪里？"},
+    ]
+
+    # Build Hotel skill
+    hotel_words = []
+    for eng_word, cn in hotel_words_en:
+        hotel_words.append({"word": t(eng_word), "translation": cn})
+
+    hotel_phrases = [
+        {"phrase": t("I need a room."), "translation": "我需要一个房间。"},
+        {"phrase": t("How much per night?"), "translation": "每晚多少钱？"},
+        {"phrase": t("Where is the bathroom?"), "translation": "浴室在哪里？"},
+        {"phrase": t("Can I have a towel?"), "translation": "能给我一条毛巾吗？"},
+        {"phrase": t("The bed is comfortable."), "translation": "床很舒服。"},
+        {"phrase": t("I am a guest here."), "translation": "我是这里的客人。"},
+        {"phrase": t("The reception is on this floor."), "translation": "前台在这一层吗？"},
+    ]
+
+    # Build Restaurant skill
+    restaurant_words = []
+    for eng_word, cn in restaurant_words_en:
+        restaurant_words.append({"word": t(eng_word), "translation": cn})
+
+    restaurant_phrases = [
+        {"phrase": t("I want a drink."), "translation": "我想要一杯饮料。"},
+        {"phrase": t("The food is good."), "translation": "食物很好。"},
+        {"phrase": t("Can I have a glass of water?"), "translation": "能给我一杯水吗？"},
+        {"phrase": t("We need a bottle of wine."), "translation": "我们需要一瓶酒。"},
+        {"phrase": t("I'd like dessert."), "translation": "我想要甜点。"},
+        {"phrase": t("Pass me the salt, please."), "translation": "请把盐递给我。"},
+    ]
+
+    # Build Shopping skill
+    shopping_words = []
+    for eng_word, cn in shopping_words_en:
+        shopping_words.append({"word": t(eng_word), "translation": cn})
+
+    shopping_phrases = [
+        {"phrase": t("How much is this?"), "translation": "这个多少钱？"},
+        {"phrase": t("It's too expensive."), "translation": "太贵了。"},
+        {"phrase": t("This is good quality."), "translation": "这个质量很好。"},
+        {"phrase": t("Is the shop open?"), "translation": "商店开门吗？"},
+        {"phrase": t("It's closed today."), "translation": "今天关门了。"},
+        {"phrase": t("Can I return this?"), "translation": "能退货吗？"},
+        {"phrase": t("The shop is over there."), "translation": "商店在那里。"},
+        {"phrase": t("I don't have money."), "translation": "我没钱。"},
+    ]
+
+    # Build Weather skill
+    weather_words = []
+    for eng_word, cn in weather_words_en:
+        weather_words.append({"word": t(eng_word), "translation": cn})
+
+    weather_phrases = [
+        {"phrase": t("It's sunny today."), "translation": "今天天气晴朗。"},
+        {"phrase": t("It's going to rain."), "translation": "要下雨了。"},
+        {"phrase": t("It's very cold outside."), "translation": "外面很冷。"},
+        {"phrase": t("Bring an umbrella."), "translation": "带上雨伞。"},
+        {"phrase": t("What's the temperature?"), "translation": "多少度？"},
+        {"phrase": t("It's snowing."), "translation": "下雪了。"},
+        {"phrase": t("It's warm today."), "translation": "今天很暖和。"},
+        {"phrase": t("It's windy."), "translation": "刮风了。"},
+    ]
+
+    # Build Time skill
+    time_words = []
+    for eng_word, cn in time_words_en:
+        time_words.append({"word": t(eng_word), "translation": cn})
+
+    time_phrases = [
+        {"phrase": t("In the morning."), "translation": "在早上。"},
+        {"phrase": t("See you tomorrow."), "translation": "明天见。"},
+        {"phrase": t("It's early morning."), "translation": "现在是清晨。"},
+        {"phrase": t("I am free now."), "translation": "我现在有空。"},
+        {"phrase": t("See you later."), "translation": "回头见。"},
+        {"phrase": t("In the afternoon."), "translation": "在下午。"},
+    ]
+
+    # Build Family skill
+    family_words = []
+    for eng_word, cn in family_words_en:
+        family_words.append({"word": t(eng_word), "translation": cn})
+
+    family_phrases = [
+        {"phrase": t("This is my mother."), "translation": "这是我的妈妈。"},
+        {"phrase": t("My father is tall."), "translation": "我的爸爸很高。"},
+        {"phrase": t("I have a sister."), "translation": "我有一个姐妹。"},
+        {"phrase": t("My brother is young."), "translation": "我的兄弟很年轻。"},
+        {"phrase": t("She is my friend."), "translation": "她是我的朋友。"},
+        {"phrase": t("The child is happy."), "translation": "孩子很高兴。"},
+        {"phrase": t("My wife is kind."), "translation": "我的妻子很善良。"},
+    ]
+
+    # Build Home skill
+    home_words = []
+    for eng_word, cn in home_words_en:
+        home_words.append({"word": t(eng_word), "translation": cn})
+
+    home_phrases = [
+        {"phrase": t("This is my house."), "translation": "这是我的房子。"},
+        {"phrase": t("Open the door."), "translation": "开门。"},
+        {"phrase": t("The kitchen is big."), "translation": "厨房很大。"},
+        {"phrase": t("The bedroom is clean."), "translation": "卧室很干净。"},
+        {"phrase": t("There is a garden."), "translation": "有一个花园。"},
+        {"phrase": t("Close the window."), "translation": "关窗。"},
+    ]
+
+    # Build Health skill
+    health_words = []
+    for eng_word, cn in health_words_en:
+        health_words.append({"word": t(eng_word), "translation": cn})
+
+    health_phrases = [
+        {"phrase": t("I need a doctor."), "translation": "我需要医生。"},
+        {"phrase": t("Where is the hospital?"), "translation": "医院在哪里？"},
+        {"phrase": t("I have a headache."), "translation": "我头痛。"},
+        {"phrase": t("I have a fever."), "translation": "我发烧了。"},
+        {"phrase": t("Take this medicine."), "translation": "吃这个药。"},
+        {"phrase": t("You need rest."), "translation": "你需要休息。"},
+        {"phrase": t("I have a stomachache."), "translation": "我肚子痛。"},
+    ]
+
+    # Build Travel module: Directions, Transportation, Hotel, Restaurant, Shopping
+    travel_module = {
+        "name": "Travel",
+        "skills": [
+            {
+                "name": "Directions",
+                "special_chars": [],
+                "words": directions_words,
+                "phrases": directions_phrases,
+            },
+            {
+                "name": "Transportation",
+                "special_chars": [],
+                "words": transport_words,
+                "phrases": transport_phrases,
+            },
+            {
+                "name": "Hotel",
+                "special_chars": [],
+                "words": hotel_words,
+                "phrases": hotel_phrases,
+            },
+            {
+                "name": "Restaurant",
+                "special_chars": [],
+                "words": restaurant_words,
+                "phrases": restaurant_phrases,
+            },
+            {
+                "name": "Shopping",
+                "special_chars": [],
+                "words": shopping_words,
+                "phrases": shopping_phrases,
+            },
+        ],
+    }
+
+    # Build Daily Life module: Weather, Time, Family, Home, Health
+    daily_life_module = {
+        "name": "Daily Life",
+        "skills": [
+            {
+                "name": "Weather",
+                "special_chars": [],
+                "words": weather_words,
+                "phrases": weather_phrases,
+            },
+            {
+                "name": "Time",
+                "special_chars": [],
+                "words": time_words,
+                "phrases": time_phrases,
+            },
+            {
+                "name": "Family",
+                "special_chars": [],
+                "words": family_words,
+                "phrases": family_phrases,
+            },
+            {
+                "name": "Home",
+                "special_chars": [],
+                "words": home_words,
+                "phrases": home_phrases,
+            },
+            {
+                "name": "Health",
+                "special_chars": [],
+                "words": health_words,
+                "phrases": health_phrases,
+            },
+        ],
+    }
+
+    return travel_module, daily_life_module
+
+
 # ── Shared conversation module (added to EVERY course) ──────────────────────
 
 def conversation_skills(lang_name, lang_label="en"):
@@ -1164,6 +2435,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("Japanese", "ja"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("Japanese", "ja"),
@@ -1253,6 +2525,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("Korean", "ko"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("Korean", "ko"),
@@ -1342,6 +2615,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("French", "fr"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("French", "fr"),
@@ -1433,6 +2707,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("German", "de"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("German", "de"),
@@ -1522,6 +2797,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("Spanish", "es"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("Spanish", "es"),
@@ -1611,6 +2887,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("Italian", "it"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("Italian", "it"),
@@ -1700,6 +2977,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("Portuguese", "pt"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("Portuguese", "pt"),
@@ -1789,6 +3067,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("Russian", "ru"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("Russian", "ru"),
@@ -1878,6 +3157,7 @@ def define_courses():
                     },
                 ],
             },
+            *travel_daily_life_modules("Thai", "th"),
             {
                 "name": "Conversations",
                 "skills": conversation_skills("Thai", "th"),

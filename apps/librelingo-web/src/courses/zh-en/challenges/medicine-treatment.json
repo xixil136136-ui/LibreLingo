@@ -1,0 +1,788 @@
+{
+  "id": "5fe412cf5081",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "therapy",
+      "meaningInSourceLanguage": "治疗",
+      "id": "bc55b873a9a1",
+      "priority": 0,
+      "group": "437eb06b8ca7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "therapy",
+      "meaning": "治疗",
+      "audio": "bf174e941b554d39a3cd813dc6e7829c",
+      "id": "52ade786a5ae",
+      "priority": 1,
+      "group": "437eb06b8ca7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diagnosis",
+      "meaningInSourceLanguage": "诊断",
+      "id": "59f996fe78bf",
+      "priority": 0,
+      "group": "755849fc4f4c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diagnosis",
+      "meaning": "诊断",
+      "audio": "61f53ac8a8a341dbb81acacb1bbae011",
+      "id": "9bbb8b307200",
+      "priority": 1,
+      "group": "755849fc4f4c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "examination",
+      "meaningInSourceLanguage": "检查",
+      "id": "ae58c81ab703",
+      "priority": 0,
+      "group": "8860f1a10c2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "examination",
+      "meaning": "检查",
+      "audio": "15a8ea4fdb8f4de4970a717c71febdbd",
+      "id": "58b31d9a4e7f",
+      "priority": 1,
+      "group": "8860f1a10c2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "test",
+      "meaningInSourceLanguage": "检测",
+      "id": "3bb2f6c6a37c",
+      "priority": 0,
+      "group": "64a75d98d6e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "test",
+      "meaning": "检测",
+      "audio": "e59d52314f2c4eaf9b264b26950cbc2f",
+      "id": "2bf9dd1124db",
+      "priority": 1,
+      "group": "64a75d98d6e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "X-ray",
+      "meaningInSourceLanguage": "X光",
+      "id": "2b1c832b0dd7",
+      "priority": 0,
+      "group": "204b06198dac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "X-ray",
+      "meaning": "X光",
+      "audio": "75374d4e720c4d3393500d41600924ba",
+      "id": "a4ca3c55bf09",
+      "priority": 1,
+      "group": "204b06198dac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "CT scan",
+      "meaningInSourceLanguage": "CT扫描",
+      "id": "d2300fbe44e0",
+      "priority": 0,
+      "group": "dd3d0695fc0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "CT scan",
+      "meaning": "CT扫描",
+      "audio": "113e097ecb3d49b39bceb0f52dfc03e9",
+      "id": "4ddb98587fcf",
+      "priority": 1,
+      "group": "dd3d0695fc0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "MRI",
+      "meaningInSourceLanguage": "核磁共振",
+      "id": "e0307b19410a",
+      "priority": 0,
+      "group": "293bb3a254e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "MRI",
+      "meaning": "核磁共振",
+      "audio": "aa78ed952f5142239ff7b1cdd01bcbdb",
+      "id": "8df2684f0f0c",
+      "priority": 1,
+      "group": "293bb3a254e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ultrasound",
+      "meaningInSourceLanguage": "超声波",
+      "id": "1030e87eb782",
+      "priority": 0,
+      "group": "f478e9a76e38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ultrasound",
+      "meaning": "超声波",
+      "audio": "59465337cdaf45f681873943b47097ac",
+      "id": "9986a634f58f",
+      "priority": 1,
+      "group": "f478e9a76e38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "check-up",
+      "meaningInSourceLanguage": "体检",
+      "id": "c705d2ec9c46",
+      "priority": 0,
+      "group": "db3c2709471a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check-up",
+      "meaning": "体检",
+      "audio": "2c9157b355114574a70f2f802179e952",
+      "id": "a7f4eaa01428",
+      "priority": 1,
+      "group": "db3c2709471a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "emergency",
+      "meaningInSourceLanguage": "急诊",
+      "id": "5b6542c6a72c",
+      "priority": 0,
+      "group": "2656d253d7c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "emergency",
+      "meaning": "急诊",
+      "audio": "35b4eeaefd054052a81b44d3a1a4e9fe",
+      "id": "00f40963ba15",
+      "priority": 1,
+      "group": "2656d253d7c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ambulance",
+      "meaningInSourceLanguage": "救护车",
+      "id": "c6e4ff5049b2",
+      "priority": 0,
+      "group": "8ece1d01af1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ambulance",
+      "meaning": "救护车",
+      "audio": "cb6068c72550470f9b542b11098d8510",
+      "id": "15b4ae26b8bb",
+      "priority": 1,
+      "group": "8ece1d01af1d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "first aid",
+      "meaningInSourceLanguage": "急救",
+      "id": "fb5940fcc25c",
+      "priority": 0,
+      "group": "30fd9ea5494a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "first aid",
+      "meaning": "急救",
+      "audio": "5d72390922c34627b96b6368612edd2d",
+      "id": "357605590988",
+      "priority": 1,
+      "group": "30fd9ea5494a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bandage",
+      "meaningInSourceLanguage": "绷带",
+      "id": "da70a53f9ab8",
+      "priority": 0,
+      "group": "0fc9ec6e6e51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bandage",
+      "meaning": "绷带",
+      "audio": "d0255da5f808408dbff4339ba4ab9e69",
+      "id": "2473223f1e10",
+      "priority": 1,
+      "group": "0fc9ec6e6e51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plaster",
+      "meaningInSourceLanguage": "创可贴",
+      "id": "f32b0748ef2b",
+      "priority": 0,
+      "group": "8f82b833d6b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plaster",
+      "meaning": "创可贴",
+      "audio": "ae889f7477164ba8831464e945753624",
+      "id": "d092e2d483bd",
+      "priority": 1,
+      "group": "8f82b833d6b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thermometer",
+      "meaningInSourceLanguage": "温度计",
+      "id": "33344ceb69b5",
+      "priority": 0,
+      "group": "3832d8705401"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thermometer",
+      "meaning": "温度计",
+      "audio": "87405b8b863a4044a63a150a25f2a395",
+      "id": "185011aebe65",
+      "priority": 1,
+      "group": "3832d8705401"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stethoscope",
+      "meaningInSourceLanguage": "听诊器",
+      "id": "058244083a81",
+      "priority": 0,
+      "group": "1d04f2852c8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stethoscope",
+      "meaning": "听诊器",
+      "audio": "8ddbc47b40e142f0b81fe9e170edf47e",
+      "id": "4205a97f78b9",
+      "priority": 1,
+      "group": "1d04f2852c8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wheelchair",
+      "meaningInSourceLanguage": "轮椅",
+      "id": "1badc1a2718f",
+      "priority": 0,
+      "group": "34718c792eec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wheelchair",
+      "meaning": "轮椅",
+      "audio": "4221ea8e436d43baa26445042f6ac4ab",
+      "id": "c5d4451ed34f",
+      "priority": 1,
+      "group": "34718c792eec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crutches",
+      "meaningInSourceLanguage": "拐杖",
+      "id": "eeb099e019a3",
+      "priority": 0,
+      "group": "4c6b75ae2d45"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crutches",
+      "meaning": "拐杖",
+      "audio": "ff2843a8cd3d4f5491f59d61a7b1ae1b",
+      "id": "09a39b2afa59",
+      "priority": 1,
+      "group": "4c6b75ae2d45"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "glasses",
+      "meaningInSourceLanguage": "眼镜",
+      "id": "4429f4f5bf4f",
+      "priority": 0,
+      "group": "52f424082afd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "glasses",
+      "meaning": "眼镜",
+      "audio": "b922fc2941314761bfa65b25746e26ef",
+      "id": "5090b63b431f",
+      "priority": 1,
+      "group": "52f424082afd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contact lens",
+      "meaningInSourceLanguage": "隐形眼镜",
+      "id": "71468795af56",
+      "priority": 0,
+      "group": "5caac7dfd256"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contact lens",
+      "meaning": "隐形眼镜",
+      "audio": "5a0ad6d5e7e9446f879b37bccf5fa14f",
+      "id": "1b0c6f232fb6",
+      "priority": 1,
+      "group": "5caac7dfd256"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hearing aid",
+      "meaningInSourceLanguage": "助听器",
+      "id": "c6c36c295a1a",
+      "priority": 0,
+      "group": "37b5476ad914"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hearing aid",
+      "meaning": "助听器",
+      "audio": "26a360855944475f94bb2f66240ccdf5",
+      "id": "1e26692dc489",
+      "priority": 1,
+      "group": "37b5476ad914"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exercise",
+      "meaningInSourceLanguage": "锻炼",
+      "id": "afaf850e9d96",
+      "priority": 0,
+      "group": "c93238e0b7a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exercise",
+      "meaning": "锻炼",
+      "audio": "1151d4e9b7334ceda2c57595f553496a",
+      "id": "5bed2179f47c",
+      "priority": 1,
+      "group": "c93238e0b7a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yoga",
+      "meaningInSourceLanguage": "瑜伽",
+      "id": "faacfd9bff3e",
+      "priority": 0,
+      "group": "4686175b7226"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yoga",
+      "meaning": "瑜伽",
+      "audio": "cd3e0d4f7650421c974c7e38e3825a71",
+      "id": "4947d8a96c68",
+      "priority": 1,
+      "group": "4686175b7226"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "swimming",
+      "meaningInSourceLanguage": "游泳",
+      "id": "251e9dec6a60",
+      "priority": 0,
+      "group": "8e4259b5654b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "swimming",
+      "meaning": "游泳",
+      "audio": "3fc307e85842422aa597637407b4fd64",
+      "id": "d90ecba00f38",
+      "priority": 1,
+      "group": "8e4259b5654b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "running",
+      "meaningInSourceLanguage": "跑步",
+      "id": "a88151649208",
+      "priority": 0,
+      "group": "92f52089d69e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "running",
+      "meaning": "跑步",
+      "audio": "20f32e8918df4d2caa9a2ded47766045",
+      "id": "2673793f010f",
+      "priority": 1,
+      "group": "92f52089d69e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "walking",
+      "meaningInSourceLanguage": "步行",
+      "id": "8815f8ea27d1",
+      "priority": 0,
+      "group": "8673deedae98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "walking",
+      "meaning": "步行",
+      "audio": "42c265d8e182470cbbebd640789716ef",
+      "id": "141633dcedb1",
+      "priority": 1,
+      "group": "8673deedae98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gym",
+      "meaningInSourceLanguage": "健身房",
+      "id": "15166f2cf370",
+      "priority": 0,
+      "group": "101253254ba3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gym",
+      "meaning": "健身房",
+      "audio": "6b8d74ef60354248b86e1381b3967f88",
+      "id": "83ecfb567453",
+      "priority": 1,
+      "group": "101253254ba3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diet",
+      "meaningInSourceLanguage": "饮食",
+      "id": "9670ea4a4271",
+      "priority": 0,
+      "group": "8b9973ba4318"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diet",
+      "meaning": "饮食",
+      "audio": "b289195738244441850c8fabcb070692",
+      "id": "c2d3e6a1dbc7",
+      "priority": 1,
+      "group": "8b9973ba4318"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nutrition",
+      "meaningInSourceLanguage": "营养",
+      "id": "3ece46dfd771",
+      "priority": 0,
+      "group": "a238cd765a24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nutrition",
+      "meaning": "营养",
+      "audio": "c48d0eea28fa495a9a4efe56d14d22a7",
+      "id": "bd59bab89055",
+      "priority": 1,
+      "group": "a238cd765a24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "protein",
+      "meaningInSourceLanguage": "蛋白质",
+      "id": "92a3646ff4d9",
+      "priority": 0,
+      "group": "750c19971332"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "protein",
+      "meaning": "蛋白质",
+      "audio": "ec37336b38174f34b354ba1af95e6c46",
+      "id": "3855c153d33b",
+      "priority": 1,
+      "group": "750c19971332"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vitamin",
+      "meaningInSourceLanguage": "维生素",
+      "id": "911eae0f6f56",
+      "priority": 0,
+      "group": "784d997f6fb5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vitamin",
+      "meaning": "维生素",
+      "audio": "41af36bc50c648e281c1fd117ca38552",
+      "id": "183c822ccebe",
+      "priority": 1,
+      "group": "784d997f6fb5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mineral",
+      "meaningInSourceLanguage": "矿物质",
+      "id": "d2a90521a6be",
+      "priority": 0,
+      "group": "f1acd670f3fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mineral",
+      "meaning": "矿物质",
+      "audio": "042a03c73a9344f79b89cb297aab93fc",
+      "id": "8488804f4e63",
+      "priority": 1,
+      "group": "f1acd670f3fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiber",
+      "meaningInSourceLanguage": "纤维",
+      "id": "8d4b403165c7",
+      "priority": 0,
+      "group": "c8d18ccb755b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiber",
+      "meaning": "纤维",
+      "audio": "989742be7e7f45c09cfab6def10319cf",
+      "id": "4157c402ad66",
+      "priority": 1,
+      "group": "c8d18ccb755b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calcium",
+      "meaningInSourceLanguage": "钙",
+      "id": "721d6cb593fa",
+      "priority": 0,
+      "group": "34180285411b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calcium",
+      "meaning": "钙",
+      "audio": "e699cb4a78dd4b79b8ce7d2f006e4a47",
+      "id": "472e4a36da20",
+      "priority": 1,
+      "group": "34180285411b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "iron",
+      "meaningInSourceLanguage": "铁",
+      "id": "f7feea60e637",
+      "priority": 0,
+      "group": "9c055cb49f98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "iron",
+      "meaning": "铁",
+      "audio": "f97da2e5900149e1972cc5e16607454e",
+      "id": "75ef24e0c2f8",
+      "priority": 1,
+      "group": "9c055cb49f98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zinc",
+      "meaningInSourceLanguage": "锌",
+      "id": "4b1795d5d032",
+      "priority": 0,
+      "group": "bd8a5a8afcb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zinc",
+      "meaning": "锌",
+      "audio": "fa6f079ae1674070b064f3a52ea5a65d",
+      "id": "7e1e56909444",
+      "priority": 1,
+      "group": "bd8a5a8afcb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "healthy",
+      "meaningInSourceLanguage": "健康的",
+      "id": "0ba003187f57",
+      "priority": 0,
+      "group": "914f191a7075"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "healthy",
+      "meaning": "健康的",
+      "audio": "0d73b20b04a74e42ac7a8d108453a544",
+      "id": "6fa1edc6ce7c",
+      "priority": 1,
+      "group": "914f191a7075"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "unhealthy",
+      "meaningInSourceLanguage": "不健康的",
+      "id": "5ab0703dbc4c",
+      "priority": 0,
+      "group": "c7f8d8246f40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "unhealthy",
+      "meaning": "不健康的",
+      "audio": "fceedcdd161447db976f6dacb7b55414",
+      "id": "460529f50ac5",
+      "priority": 1,
+      "group": "c7f8d8246f40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mental health",
+      "meaningInSourceLanguage": "心理健康",
+      "id": "d7f02afa9b6d",
+      "priority": 0,
+      "group": "d2f29ea766f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mental health",
+      "meaning": "心理健康",
+      "audio": "e8a8315ae1a845b585906833cb4d7d8b",
+      "id": "75d1c8df182d",
+      "priority": 1,
+      "group": "d2f29ea766f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stress",
+      "meaningInSourceLanguage": "压力",
+      "id": "4e0a24f65fed",
+      "priority": 0,
+      "group": "12f699cda708"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stress",
+      "meaning": "压力",
+      "audio": "d5b264dc4e3e4845ad673ab3eaa6d9b3",
+      "id": "e94cb7746b4e",
+      "priority": 1,
+      "group": "12f699cda708"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anxiety",
+      "meaningInSourceLanguage": "焦虑",
+      "id": "fea935f7871d",
+      "priority": 0,
+      "group": "4016f2363136"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anxiety",
+      "meaning": "焦虑",
+      "audio": "3bb14817b8f34a80a69bdbfee61e5131",
+      "id": "a36c4e10b40a",
+      "priority": 1,
+      "group": "4016f2363136"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "depression",
+      "meaningInSourceLanguage": "抑郁",
+      "id": "555869de2286",
+      "priority": 0,
+      "group": "782fc8533e99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "depression",
+      "meaning": "抑郁",
+      "audio": "780079fd8fcc4976985ebde8b67197ab",
+      "id": "2ebc54c6188e",
+      "priority": 1,
+      "group": "782fc8533e99"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "relaxation",
+      "meaningInSourceLanguage": "放松",
+      "id": "ace1eddd6b08",
+      "priority": 0,
+      "group": "c9fdcd6df650"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "relaxation",
+      "meaning": "放松",
+      "audio": "ce963566d5ef4b6f8a9214b58c11dd14",
+      "id": "8e4e4260313e",
+      "priority": 1,
+      "group": "c9fdcd6df650"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "massage",
+      "meaningInSourceLanguage": "按摩",
+      "id": "1ab2d8df5519",
+      "priority": 0,
+      "group": "d652172c425b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "massage",
+      "meaning": "按摩",
+      "audio": "8a86fa98f1b14e2a975d2ba3f99a2071",
+      "id": "3fdfaf3a5519",
+      "priority": 1,
+      "group": "d652172c425b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acupuncture",
+      "meaningInSourceLanguage": "针灸",
+      "id": "d4dd43368d13",
+      "priority": 0,
+      "group": "c3d54432addb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acupuncture",
+      "meaning": "针灸",
+      "audio": "7bb95349011f428cb1d69844767a5875",
+      "id": "ed9c9552092d",
+      "priority": 1,
+      "group": "c3d54432addb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "herbal medicine",
+      "meaningInSourceLanguage": "中药",
+      "id": "5d815fdd65a7",
+      "priority": 0,
+      "group": "e6c5ac3041e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "herbal medicine",
+      "meaning": "中药",
+      "audio": "ade37298bcd44f40940e5f0324f96335",
+      "id": "d3acf28c2377",
+      "priority": 1,
+      "group": "e6c5ac3041e3"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "id": "1a29b806a2a9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much is this?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "34cc7d316c0d",
+      "priority": 0,
+      "group": "35dd4cacfa67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much is this?",
+      "meaning": "这个多少钱？",
+      "audio": "f6d288c8643dfbdcd039a7b210a5615601eb4f88a275371df9d1a77dbdebfada",
+      "id": "ae42da6eb249",
+      "priority": 1,
+      "group": "35dd4cacfa67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's too expensive.",
+      "meaningInSourceLanguage": "太贵了。",
+      "id": "238985f228c5",
+      "priority": 0,
+      "group": "d3f9cd43e69b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's too expensive.",
+      "meaning": "太贵了。",
+      "audio": "ca7fb6c2cb51a0eafabe5b10d4a83314007e60a21b2bd5d38764f79c065323ce",
+      "id": "a41dcaab5d9f",
+      "priority": 1,
+      "group": "d3f9cd43e69b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have a discount?",
+      "meaningInSourceLanguage": "有折扣吗？",
+      "id": "2f9a94744262",
+      "priority": 0,
+      "group": "f602eb2acb8f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have a discount?",
+      "meaning": "有折扣吗？",
+      "audio": "d7659715d5b19aac132ca14b98ed1e856b85ae40d6d86f42d74ccb64f8f2e1b8",
+      "id": "d5813f7b022e",
+      "priority": 1,
+      "group": "f602eb2acb8f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I try this on?",
+      "meaningInSourceLanguage": "我能试穿这个吗？",
+      "id": "8ec19895a6a6",
+      "priority": 0,
+      "group": "f0ec305abdf5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I try this on?",
+      "meaning": "我能试穿这个吗？",
+      "audio": "4d179a656f272101b958f8012af4e13f3cee94ad371dda76c55fc05199f54a5a",
+      "id": "2f89ff70b7ea",
+      "priority": 1,
+      "group": "f0ec305abdf5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll take it.",
+      "meaningInSourceLanguage": "我买了。",
+      "id": "818f674bbbed",
+      "priority": 0,
+      "group": "661550e40125"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll take it.",
+      "meaning": "我买了。",
+      "audio": "05e519e7669312f9a5d35908619e462aa87c2ad9e1c2bd5068645e9cfd933df8",
+      "id": "b4c9a63216cd",
+      "priority": 1,
+      "group": "661550e40125"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have this in a different color?",
+      "meaningInSourceLanguage": "有别的颜色吗？",
+      "id": "8bdbd1da1ba3",
+      "priority": 0,
+      "group": "f365bbad3384"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have this in a different color?",
+      "meaning": "有别的颜色吗？",
+      "audio": "93cc5b972301fe9bc3d0b89babd3783af22509174bc0f5b8e1dd44acc0ff983e",
+      "id": "a7b6ebc58286",
+      "priority": 1,
+      "group": "f365bbad3384"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I pay by card?",
+      "meaningInSourceLanguage": "能用卡支付吗？",
+      "id": "7ff9cffe4665",
+      "priority": 0,
+      "group": "4bd08c4ab44e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I pay by card?",
+      "meaning": "能用卡支付吗？",
+      "audio": "bab79b3e001de26803222d1dd03f5bb5166cbbf477b33261e79fb6c6a17a6bb7",
+      "id": "a00107c94040",
+      "priority": 1,
+      "group": "4bd08c4ab44e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I have a receipt?",
+      "meaningInSourceLanguage": "能给我收据吗？",
+      "id": "db7cf5c0b33a",
+      "priority": 0,
+      "group": "f67e135fcecf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I have a receipt?",
+      "meaning": "能给我收据吗？",
+      "audio": "16ac65d4b88ed29fb6873c1434f58f8d4afa1462b1e84b41540c10ba29b0c01e",
+      "id": "6b6dd6a75c51",
+      "priority": 1,
+      "group": "f67e135fcecf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to exchange this.",
+      "meaningInSourceLanguage": "我想换这个。",
+      "id": "d96c99f8dc24",
+      "priority": 0,
+      "group": "3e64c15cd9e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to exchange this.",
+      "meaning": "我想换这个。",
+      "audio": "2cbcf0bb4c0e40f24cb4af7057e6c643818091f39f4fd8d2b38a8797662d5deb",
+      "id": "5dccdbc0f043",
+      "priority": 1,
+      "group": "3e64c15cd9e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have a smaller size?",
+      "meaningInSourceLanguage": "有小一点的尺寸吗？",
+      "id": "3b847f07b073",
+      "priority": 0,
+      "group": "78816918453b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have a smaller size?",
+      "meaning": "有小一点的尺寸吗？",
+      "audio": "2021736b1956829c6e51b9b2ff411a494f70ebb0bd5cd95f01173cef9af5aee9",
+      "id": "991a7411cbcb",
+      "priority": 1,
+      "group": "78816918453b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is there a sale going on?",
+      "meaningInSourceLanguage": "有打折活动吗？",
+      "id": "3638580ab494",
+      "priority": 0,
+      "group": "1568c33b7d78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is there a sale going on?",
+      "meaning": "有打折活动吗？",
+      "audio": "40658a12430deb7309df615461ee698f8ff74ac1e468bda47f19173285fe3c89",
+      "id": "544634e9fd19",
+      "priority": 1,
+      "group": "1568c33b7d78"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm just looking, thanks.",
+      "meaningInSourceLanguage": "我就看看，谢谢。",
+      "id": "417101227ffd",
+      "priority": 0,
+      "group": "80cc6e2e7d46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm just looking, thanks.",
+      "meaning": "我就看看，谢谢。",
+      "audio": "1c3904cb5a5301544c24616931ec127c088e079badc26a205e85854b1ca09ab7",
+      "id": "e61690225126",
+      "priority": 1,
+      "group": "80cc6e2e7d46"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I get a refund?",
+      "meaningInSourceLanguage": "能退款吗？",
+      "id": "9661af6aea1e",
+      "priority": 0,
+      "group": "d56c56e227de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I get a refund?",
+      "meaning": "能退款吗？",
+      "audio": "553a963774e33f0eb45b7b9799c03cc4f8df47ab4e740b3cc37d678ddecf3815",
+      "id": "0ab74382e0e2",
+      "priority": 1,
+      "group": "d56c56e227de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is this on sale?",
+      "meaningInSourceLanguage": "这个打折吗？",
+      "id": "64893370e44e",
+      "priority": 0,
+      "group": "bbd04b9530ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is this on sale?",
+      "meaning": "这个打折吗？",
+      "audio": "40cf1bfb57d354dd35e7fc314f34e8149f65736ff0b83fda445ece9c0ae1df0c",
+      "id": "fb995891cf92",
+      "priority": 1,
+      "group": "bbd04b9530ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the fitting room?",
+      "meaningInSourceLanguage": "试衣间在哪里？",
+      "id": "f129c0f57f75",
+      "priority": 0,
+      "group": "bf7e45ba8dba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the fitting room?",
+      "meaning": "试衣间在哪里？",
+      "audio": "39cd49f8278ec02dc896d9bc1a780405d36005f8a2e72f332c54d81f8b2b5d41",
+      "id": "26251ed7564c",
+      "priority": 1,
+      "group": "bf7e45ba8dba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a larger size.",
+      "meaningInSourceLanguage": "我需要大一点的尺寸。",
+      "id": "1ed955e586db",
+      "priority": 0,
+      "group": "8c8d4b5b6bf8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a larger size.",
+      "meaning": "我需要大一点的尺寸。",
+      "audio": "7ce65ac990e228aab5cc68bf0e29ab06178e82022864507005164f024245f7a0",
+      "id": "1057968ce327",
+      "priority": 1,
+      "group": "8c8d4b5b6bf8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you wrap this as a gift?",
+      "meaningInSourceLanguage": "能把这个包装成礼物吗？",
+      "id": "4e3160a1c07b",
+      "priority": 0,
+      "group": "3a6d57d85dcc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you wrap this as a gift?",
+      "meaning": "能把这个包装成礼物吗？",
+      "audio": "f0beceb1d6cb23fdd4a19c2822d1d63e2719974e559fe1ced4a2eb75dee61497",
+      "id": "a26799e7d30e",
+      "priority": 1,
+      "group": "3a6d57d85dcc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you accept returns?",
+      "meaningInSourceLanguage": "接受退货吗？",
+      "id": "30287bdea388",
+      "priority": 0,
+      "group": "c3d573de29ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you accept returns?",
+      "meaning": "接受退货吗？",
+      "audio": "32034d05d9b29a88b9c54959bdb5aa8cae426029a9a7a05d79fd202f68e37832",
+      "id": "15411bc0a0a7",
+      "priority": 1,
+      "group": "c3d573de29ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How long is the warranty?",
+      "meaningInSourceLanguage": "保修期多久？",
+      "id": "8a28ee592da8",
+      "priority": 0,
+      "group": "39c115b12e2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How long is the warranty?",
+      "meaning": "保修期多久？",
+      "audio": "53a952fd6c490e46967ff8bdfd2f8e8acf9bb4ba00f670ac68399c1d52eb2684",
+      "id": "71d42d98cd3d",
+      "priority": 1,
+      "group": "39c115b12e2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to open a bank account.",
+      "meaningInSourceLanguage": "我想开一个银行账户。",
+      "id": "d18c19f6a6c2",
+      "priority": 0,
+      "group": "53917f651347"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to open a bank account.",
+      "meaning": "我想开一个银行账户。",
+      "audio": "9b8cf5e07144ede346dff7cd0c43f904a259e217b2f2f1b3d7f325fc8c10c9d3",
+      "id": "bde39d340d37",
+      "priority": 1,
+      "group": "53917f651347"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to withdraw money.",
+      "meaningInSourceLanguage": "我需要取钱。",
+      "id": "b618550146c1",
+      "priority": 0,
+      "group": "1d763e954eba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to withdraw money.",
+      "meaning": "我需要取钱。",
+      "audio": "a316f75d8c39882025d390debcf965a85c66619d12488748efdb4268ad3caad8",
+      "id": "b5bc067ec5ef",
+      "priority": 1,
+      "group": "1d763e954eba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's the exchange rate?",
+      "meaningInSourceLanguage": "汇率是多少？",
+      "id": "ed831b224a3e",
+      "priority": 0,
+      "group": "b52af7fb0802"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's the exchange rate?",
+      "meaning": "汇率是多少？",
+      "audio": "a3a4bdd027d52aa8aa482eb88fc9b0815b9a6a3d15296ef9bcff11c468504ae4",
+      "id": "ee337ec0d044",
+      "priority": 1,
+      "group": "b52af7fb0802"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I transfer money?",
+      "meaningInSourceLanguage": "我能转账吗？",
+      "id": "b619c337f6fc",
+      "priority": 0,
+      "group": "d1861edf7281"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I transfer money?",
+      "meaning": "我能转账吗？",
+      "audio": "53404182fed16bc935f4aa0bce31c0e6c65a5dba9037607f8ea5c84214594d97",
+      "id": "742f3b07283e",
+      "priority": 1,
+      "group": "d1861edf7281"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to check my balance.",
+      "meaningInSourceLanguage": "我想查询余额。",
+      "id": "e95f3d9d96fa",
+      "priority": 0,
+      "group": "7ab72872eac5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to check my balance.",
+      "meaning": "我想查询余额。",
+      "audio": "25b467fdf96f329661854d8f4de9a3b8396f95ac75706aeb52de2b2c5665a66b",
+      "id": "2d68835144c0",
+      "priority": 1,
+      "group": "7ab72872eac5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please give me a receipt.",
+      "meaningInSourceLanguage": "请给我收据。",
+      "id": "68b709a42b32",
+      "priority": 0,
+      "group": "3c4a0d385a78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please give me a receipt.",
+      "meaning": "请给我收据。",
+      "audio": "3e7d46c0d869cd477c6929580a5513cf59f18a07b85b09358ff5545d9fc092ae",
+      "id": "87a0405d6f35",
+      "priority": 1,
+      "group": "3c4a0d385a78"
+    }
+  ]
+}

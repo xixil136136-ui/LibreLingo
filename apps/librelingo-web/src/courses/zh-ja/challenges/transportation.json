@@ -1,0 +1,431 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "バス停はどこですか？",
+      "meaningInSourceLanguage": "公共汽车站在哪里？",
+      "id": "a430f1db4316",
+      "priority": 0,
+      "group": "f08464aa9e9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "バス停はどこですか？",
+      "meaning": "公共汽车站在哪里？",
+      "audio": "d7613f08f54fc4a25a69cf146d3084134ff61c60493f7ce3b28c709e7cff35af",
+      "id": "4f97c5e6fadf",
+      "priority": 1,
+      "group": "f08464aa9e9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "電車が遅れています。",
+      "meaningInSourceLanguage": "火车晚点了。",
+      "id": "0d0ae3f0df4d",
+      "priority": 0,
+      "group": "d753e445816f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "電車が遅れています。",
+      "meaning": "火车晚点了。",
+      "audio": "b52fdfa290d1ac2fcfaa448038eb119592d7e2a73468846caa7357495546b814",
+      "id": "39ec576cb7b3",
+      "priority": 1,
+      "group": "d753e445816f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "荷物があります。",
+      "meaningInSourceLanguage": "我有行李。",
+      "id": "f4212bc1b0d1",
+      "priority": 0,
+      "group": "062c773f76f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "荷物があります。",
+      "meaning": "我有行李。",
+      "audio": "d777eb8bbf93cc081962bdb3b1b65dd9daf1ba2b8459ab827e0d612b5262694a",
+      "id": "226a5f5b9017",
+      "priority": 1,
+      "group": "062c773f76f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "電車はいくらですか？",
+      "meaningInSourceLanguage": "火车票多少钱？",
+      "id": "8c6e0e1a7292",
+      "priority": 0,
+      "group": "d60ad90897ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "電車はいくらですか？",
+      "meaning": "火车票多少钱？",
+      "audio": "acf01465e3cda90c78501deb1d8446e57a1a31f1143ad9cbbb9d7a6718a9f5a5",
+      "id": "1e6fd68d4712",
+      "priority": 1,
+      "group": "d60ad90897ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "タクシー乗り場はどこですか？",
+      "meaningInSourceLanguage": "出租车站在哪里？",
+      "id": "16f74135cf7e",
+      "priority": 0,
+      "group": "ac457c94704d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "タクシー乗り場はどこですか？",
+      "meaning": "出租车站在哪里？",
+      "audio": "c7c19ce9de460bf612972081f50b62972ed2d8eda2d8041c3c9bbcf818222a78",
+      "id": "ca4a2d15f558",
+      "priority": 1,
+      "group": "ac457c94704d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "電車",
+      "meaningInSourceLanguage": "火车",
+      "id": "f421ef220368",
+      "priority": 0,
+      "group": "4b50dd62a312"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "電車"
+      ],
+      "phrase": [
+        {
+          "word": "火车",
+          "definition": "電車"
+        }
+      ],
+      "id": "0122e6492932",
+      "priority": 1,
+      "group": "4b50dd62a312"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "電車",
+      "meaning": "火车",
+      "audio": "623f29c7fdead4c7a868f91dfe10e7c88f7baf7b99884f29ed94e09a15a46e53",
+      "id": "321e15247e9c",
+      "priority": 1,
+      "group": "4b50dd62a312"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "バス",
+      "meaningInSourceLanguage": "公共汽车",
+      "id": "fd9cafc49c1b",
+      "priority": 0,
+      "group": "ce7c7d3d0550"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "バス"
+      ],
+      "phrase": [
+        {
+          "word": "公共汽车",
+          "definition": "バス"
+        }
+      ],
+      "id": "53900ff941cf",
+      "priority": 1,
+      "group": "ce7c7d3d0550"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "バス",
+      "meaning": "公共汽车",
+      "audio": "21c1cd9c6ba3d290d968a74ede218e9d07dd5240eb4916554975f38a82d9fd68",
+      "id": "b3ce311804e7",
+      "priority": 1,
+      "group": "ce7c7d3d0550"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "タクシー",
+      "meaningInSourceLanguage": "出租车",
+      "id": "25a4295b2771",
+      "priority": 0,
+      "group": "67e49e95e55e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "タクシー"
+      ],
+      "phrase": [
+        {
+          "word": "出租车",
+          "definition": "タクシー"
+        }
+      ],
+      "id": "5340121ebe3a",
+      "priority": 1,
+      "group": "67e49e95e55e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "タクシー",
+      "meaning": "出租车",
+      "audio": "8218d4aecf4ebb9554ae1b3e68a20f4b8e0458b939d140f9867ff8e17808925b",
+      "id": "f4e328415340",
+      "priority": 1,
+      "group": "67e49e95e55e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "地下鉄",
+      "meaningInSourceLanguage": "地铁",
+      "id": "d16b3bacc5d7",
+      "priority": 0,
+      "group": "ecb800b628c5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "地下鉄"
+      ],
+      "phrase": [
+        {
+          "word": "地铁",
+          "definition": "地下鉄"
+        }
+      ],
+      "id": "f7fd26b6e820",
+      "priority": 1,
+      "group": "ecb800b628c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "地下鉄",
+      "meaning": "地铁",
+      "audio": "c6af6e593e189a659d92a92512ef41b860fa254540a7c95f86bfeff1b54374f7",
+      "id": "ba2608de3a78",
+      "priority": 1,
+      "group": "ecb800b628c5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ホテル",
+      "meaningInSourceLanguage": "酒店",
+      "id": "cba20b75a68a",
+      "priority": 0,
+      "group": "b1a0fc238a84"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ホテル"
+      ],
+      "phrase": [
+        {
+          "word": "酒店",
+          "definition": "ホテル"
+        }
+      ],
+      "id": "1643b5ebe55f",
+      "priority": 1,
+      "group": "b1a0fc238a84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ホテル",
+      "meaning": "酒店",
+      "audio": "702757b8d5f4f706775e7a84c999c2bf6bbc86553396d1dcd3f05ce94d1cbb0e",
+      "id": "9ef7410b3e09",
+      "priority": 1,
+      "group": "b1a0fc238a84"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "荷物",
+      "meaningInSourceLanguage": "行李",
+      "id": "03d9c2ea4776",
+      "priority": 0,
+      "group": "6af71ade4633"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "荷物"
+      ],
+      "phrase": [
+        {
+          "word": "行李",
+          "definition": "荷物"
+        }
+      ],
+      "id": "530bbe2d40d2",
+      "priority": 1,
+      "group": "6af71ade4633"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "荷物",
+      "meaning": "行李",
+      "audio": "9a01603e72584669b7a3796cfba1d68b24099062806fdc4e2ddb31963fe2356d",
+      "id": "298d4c4fd018",
+      "priority": 1,
+      "group": "6af71ade4633"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "駅",
+      "meaningInSourceLanguage": "车站",
+      "id": "3721413fdd8f",
+      "priority": 0,
+      "group": "b790ef66797d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "駅"
+      ],
+      "phrase": [
+        {
+          "word": "车站",
+          "definition": "駅"
+        }
+      ],
+      "id": "83ab4dce4c5c",
+      "priority": 1,
+      "group": "b790ef66797d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "駅",
+      "meaning": "车站",
+      "audio": "da53402cc3807adfd6f7505c97139073a9016256a6115f347ec00a1f0d70da2e",
+      "id": "d1b6e8d6f477",
+      "priority": 1,
+      "group": "b790ef66797d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "飛行機",
+      "meaningInSourceLanguage": "航班",
+      "id": "849c80b4991e",
+      "priority": 0,
+      "group": "de748e5bcc16"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "飛行機"
+      ],
+      "phrase": [
+        {
+          "word": "航班",
+          "definition": "飛行機"
+        }
+      ],
+      "id": "7183f982fd25",
+      "priority": 1,
+      "group": "de748e5bcc16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "飛行機",
+      "meaning": "航班",
+      "audio": "04f9994c4850245220d06d7e38104854a9946b7045a465da0260a0b34ee07e50",
+      "id": "713aeeb5f31a",
+      "priority": 1,
+      "group": "de748e5bcc16"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "遅れ",
+      "meaningInSourceLanguage": "延误",
+      "id": "4a2b8b332c5c",
+      "priority": 0,
+      "group": "60a011bb389d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "遅れ"
+      ],
+      "phrase": [
+        {
+          "word": "延误",
+          "definition": "遅れ"
+        }
+      ],
+      "id": "ec23dbb604ef",
+      "priority": 1,
+      "group": "60a011bb389d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "遅れ",
+      "meaning": "延误",
+      "audio": "f6d54aec5fcb0cb3ce786e1c60159bdad5e9cb956361374704e28805eca5fd3f",
+      "id": "01f7c3e4302d",
+      "priority": 1,
+      "group": "60a011bb389d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "搭乗",
+      "meaningInSourceLanguage": "登机",
+      "id": "94f893290ce4",
+      "priority": 0,
+      "group": "fbb827a1fc40"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "搭乗"
+      ],
+      "phrase": [
+        {
+          "word": "登机",
+          "definition": "搭乗"
+        }
+      ],
+      "id": "711cc9b59227",
+      "priority": 1,
+      "group": "fbb827a1fc40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "搭乗",
+      "meaning": "登机",
+      "audio": "59d2ef88a2875e732f1444dd432cb3032208c4b2fcbe8feb1f14a4a57ce0a426",
+      "id": "f1e56cfad8e7",
+      "priority": 1,
+      "group": "fbb827a1fc40"
+    }
+  ]
+}

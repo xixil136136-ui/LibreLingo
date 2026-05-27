@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мне нужен номер.",
+      "meaningInSourceLanguage": "我需要一个房间。",
+      "id": "6cf895056007",
+      "priority": 0,
+      "group": "497ab946c9e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мне нужен номер.",
+      "meaning": "我需要一个房间。",
+      "audio": "9c3f6a764d6bb8840aee17c798f064273e3f34af7a14d6060ab97ae7365601d6",
+      "id": "45ce9387b439",
+      "priority": 1,
+      "group": "497ab946c9e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сколько за ночь?",
+      "meaningInSourceLanguage": "每晚多少钱？",
+      "id": "e55f42df8443",
+      "priority": 0,
+      "group": "000726bc6c6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сколько за ночь?",
+      "meaning": "每晚多少钱？",
+      "audio": "db8c812d46b344ca9fdabef137ada415709020852b897fc0ddc5367c3419dedc",
+      "id": "692e7319efe1",
+      "priority": 1,
+      "group": "000726bc6c6f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Где находится ванная?",
+      "meaningInSourceLanguage": "浴室在哪里？",
+      "id": "1ac89727c694",
+      "priority": 0,
+      "group": "ea87067cc191"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Где находится ванная?",
+      "meaning": "浴室在哪里？",
+      "audio": "e8778e49a20f95ba29ef06c4031bb347c318906b660277334fb92682fd1381e6",
+      "id": "ae68dc3f1186",
+      "priority": 1,
+      "group": "ea87067cc191"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можно полотенце?",
+      "meaningInSourceLanguage": "能给我一条毛巾吗？",
+      "id": "eb8da1203b3d",
+      "priority": 0,
+      "group": "7b6e1e279a92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можно полотенце?",
+      "meaning": "能给我一条毛巾吗？",
+      "audio": "18e41a3629d71389b88db37fcc825586192cf30732d73a02f47ea097cbc776f1",
+      "id": "cc83acdc91a1",
+      "priority": 1,
+      "group": "7b6e1e279a92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кровать удобная.",
+      "meaningInSourceLanguage": "床很舒服。",
+      "id": "a72d35d48482",
+      "priority": 0,
+      "group": "9f0605abfe82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кровать удобная.",
+      "meaning": "床很舒服。",
+      "audio": "0447144fb877cf060628722da49ec3b4b70ca5ebfb2ce849734a4cd864d1fe56",
+      "id": "c409d27a3ae6",
+      "priority": 1,
+      "group": "9f0605abfe82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я здесь гость.",
+      "meaningInSourceLanguage": "我是这里的客人。",
+      "id": "fd98f73c3f2d",
+      "priority": 0,
+      "group": "eaf670ae0a5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я здесь гость.",
+      "meaning": "我是这里的客人。",
+      "audio": "89b72058836ddd7594a62655795a2f028b65d61a08d480413e11ef4b3b72ed01",
+      "id": "4c49b6f507b3",
+      "priority": 1,
+      "group": "eaf670ae0a5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Стойка регистрации на этом этаже?",
+      "meaningInSourceLanguage": "前台在这一层吗？",
+      "id": "14dc5769ed1b",
+      "priority": 0,
+      "group": "5110b85955f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Стойка регистрации на этом этаже?",
+      "meaning": "前台在这一层吗？",
+      "audio": "9e3bf203e0b31f15d7fb3e469f793660738173c562794cfb43d64dd1fd2a2f21",
+      "id": "fc77b9ae60c6",
+      "priority": 1,
+      "group": "5110b85955f8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "номер",
+      "meaningInSourceLanguage": "房间",
+      "id": "dc459c0d1416",
+      "priority": 0,
+      "group": "cfdac7b18d78"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "номер"
+      ],
+      "phrase": [
+        {
+          "word": "房间",
+          "definition": "номер"
+        }
+      ],
+      "id": "a4e830061a80",
+      "priority": 1,
+      "group": "cfdac7b18d78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "номер",
+      "meaning": "房间",
+      "audio": "62fd530b61b4c2893a1c164a5813d79bf2be95a9ab066896dbff7a9e56d0b4fc",
+      "id": "1c38b043f0ba",
+      "priority": 1,
+      "group": "cfdac7b18d78"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кровать",
+      "meaningInSourceLanguage": "床",
+      "id": "ff1cf77995f8",
+      "priority": 0,
+      "group": "f04ba509bb0a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кровать"
+      ],
+      "phrase": [
+        {
+          "word": "床",
+          "definition": "кровать"
+        }
+      ],
+      "id": "aa2fca46e3cc",
+      "priority": 1,
+      "group": "f04ba509bb0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кровать",
+      "meaning": "床",
+      "audio": "aebec00b66c71ca31c3d52d872b6efe4941aba8ec667d1edc0fc5705c76805a3",
+      "id": "3720a70f2a72",
+      "priority": 1,
+      "group": "f04ba509bb0a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "душ",
+      "meaningInSourceLanguage": "淋浴",
+      "id": "1ed3a1ad6e4f",
+      "priority": 0,
+      "group": "df8840d681a9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "душ"
+      ],
+      "phrase": [
+        {
+          "word": "淋浴",
+          "definition": "душ"
+        }
+      ],
+      "id": "0184561bc766",
+      "priority": 1,
+      "group": "df8840d681a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "душ",
+      "meaning": "淋浴",
+      "audio": "d1e56ea04c4365da649a174a9dadfb4620ab8275b6a4f96b737cdfe49f06d8a4",
+      "id": "5012b6fc42a2",
+      "priority": 1,
+      "group": "df8840d681a9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ванная",
+      "meaningInSourceLanguage": "浴室",
+      "id": "2bf82ba126d7",
+      "priority": 0,
+      "group": "5396236bce63"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ванная"
+      ],
+      "phrase": [
+        {
+          "word": "浴室",
+          "definition": "ванная"
+        }
+      ],
+      "id": "ca7cbd834ec3",
+      "priority": 1,
+      "group": "5396236bce63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ванная",
+      "meaning": "浴室",
+      "audio": "cf2668306dd50da52014da292326b5c6afd29205505c8122710049cbca3198df",
+      "id": "b5a558d8d1e7",
+      "priority": 1,
+      "group": "5396236bce63"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "полотенце",
+      "meaningInSourceLanguage": "毛巾",
+      "id": "e88a862aa944",
+      "priority": 0,
+      "group": "740580cb0d70"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "полотенце"
+      ],
+      "phrase": [
+        {
+          "word": "毛巾",
+          "definition": "полотенце"
+        }
+      ],
+      "id": "d057e94e8b3b",
+      "priority": 1,
+      "group": "740580cb0d70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "полотенце",
+      "meaning": "毛巾",
+      "audio": "9f93132791810819b27c8c43bca6dea0bccaea27565889afaa6a74aef4b8af21",
+      "id": "617083e905ea",
+      "priority": 1,
+      "group": "740580cb0d70"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "подушка",
+      "meaningInSourceLanguage": "枕头",
+      "id": "9bfaccb457d3",
+      "priority": 0,
+      "group": "c6bde7b6e077"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "подушка"
+      ],
+      "phrase": [
+        {
+          "word": "枕头",
+          "definition": "подушка"
+        }
+      ],
+      "id": "49a38fd8acd1",
+      "priority": 1,
+      "group": "c6bde7b6e077"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "подушка",
+      "meaning": "枕头",
+      "audio": "c52e355fb9f66d124b0d2f33f8cc35b0596762384ddcc847d9e1141e129c36aa",
+      "id": "f755f8958d6c",
+      "priority": 1,
+      "group": "c6bde7b6e077"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "одеяло",
+      "meaningInSourceLanguage": "毯子",
+      "id": "ebe843091814",
+      "priority": 0,
+      "group": "0f127a725b02"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "одеяло"
+      ],
+      "phrase": [
+        {
+          "word": "毯子",
+          "definition": "одеяло"
+        }
+      ],
+      "id": "ab538c835836",
+      "priority": 1,
+      "group": "0f127a725b02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "одеяло",
+      "meaning": "毯子",
+      "audio": "765d5640820e7ee955f8d4c89ec9d4bf01f3ad0d2b267b667cb09f74f89cd91b",
+      "id": "c389bb23eba8",
+      "priority": 1,
+      "group": "0f127a725b02"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "этаж",
+      "meaningInSourceLanguage": "楼层",
+      "id": "ebf6ba23fd8a",
+      "priority": 0,
+      "group": "c3b9e1ccdd95"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "этаж"
+      ],
+      "phrase": [
+        {
+          "word": "楼层",
+          "definition": "этаж"
+        }
+      ],
+      "id": "00d27e8e3ed1",
+      "priority": 1,
+      "group": "c3b9e1ccdd95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "этаж",
+      "meaning": "楼层",
+      "audio": "ae07d1f3037945a255e1f4cce0398ef3d52c98e9cf8bed6a46791595cbfc66b7",
+      "id": "02c5f8df338b",
+      "priority": 1,
+      "group": "c3b9e1ccdd95"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "стойка регистрации",
+      "meaningInSourceLanguage": "前台",
+      "id": "72d705b92697",
+      "priority": 0,
+      "group": "0cb064794b61"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "стойка регистрации"
+      ],
+      "phrase": [
+        {
+          "word": "前台",
+          "definition": "стойка регистрации"
+        }
+      ],
+      "id": "9ea31953f2db",
+      "priority": 1,
+      "group": "0cb064794b61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "стойка регистрации",
+      "meaning": "前台",
+      "audio": "52bdd1848ac0f4804d2f4c9794cefe15848fcd7983ac62b98bdcb1eef404f9a5",
+      "id": "0d6b70ca2566",
+      "priority": 1,
+      "group": "0cb064794b61"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "гость",
+      "meaningInSourceLanguage": "客人",
+      "id": "b84de94a53c9",
+      "priority": 0,
+      "group": "7e8de9d64049"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "гость"
+      ],
+      "phrase": [
+        {
+          "word": "客人",
+          "definition": "гость"
+        }
+      ],
+      "id": "d745a3ebfd00",
+      "priority": 1,
+      "group": "7e8de9d64049"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "гость",
+      "meaning": "客人",
+      "audio": "9c3ff07079bc9ba03029c72ff6fc7830b01b99d222b9d8b29304f2830a3d8d6e",
+      "id": "ea2041b53821",
+      "priority": 1,
+      "group": "7e8de9d64049"
+    }
+  ]
+}

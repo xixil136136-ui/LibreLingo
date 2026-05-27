@@ -1,0 +1,924 @@
+{
+  "id": "e594f08417af",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "email",
+      "meaningInSourceLanguage": "电子邮件",
+      "id": "d073a99365b6",
+      "priority": 0,
+      "group": "ec984c3f17fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "email",
+      "meaning": "电子邮件",
+      "audio": "19e6607b5cb946379f2acbcea42ceed9",
+      "id": "402e68622473",
+      "priority": 1,
+      "group": "ec984c3f17fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "password",
+      "meaningInSourceLanguage": "密码",
+      "id": "a9f3969224f8",
+      "priority": 0,
+      "group": "e4a25801a535"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "password",
+      "meaning": "密码",
+      "audio": "020a064c9f5d4d4197ba0412a7815b60",
+      "id": "fb388b8f8c9e",
+      "priority": 1,
+      "group": "e4a25801a535"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "username",
+      "meaningInSourceLanguage": "用户名",
+      "id": "995626fb458e",
+      "priority": 0,
+      "group": "c724b6e99f37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "username",
+      "meaning": "用户名",
+      "audio": "e2184eae2c654d2081c0ac7548e9a526",
+      "id": "8a927010f06f",
+      "priority": 1,
+      "group": "c724b6e99f37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "login",
+      "meaningInSourceLanguage": "登录",
+      "id": "4da879aa79f4",
+      "priority": 0,
+      "group": "2a6882738d59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "login",
+      "meaning": "登录",
+      "audio": "6d12fb785fc9496cb1afacf6ab65872d",
+      "id": "459f3006b575",
+      "priority": 1,
+      "group": "2a6882738d59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "logout",
+      "meaningInSourceLanguage": "退出",
+      "id": "ce57d38ff9f5",
+      "priority": 0,
+      "group": "6e8bece7d42c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "logout",
+      "meaning": "退出",
+      "audio": "2768b63304654c01855ae9da5d9175dc",
+      "id": "2f73ac63070c",
+      "priority": 1,
+      "group": "6e8bece7d42c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sign up",
+      "meaningInSourceLanguage": "注册",
+      "id": "24bd067ae1fe",
+      "priority": 0,
+      "group": "cad0530f258e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sign up",
+      "meaning": "注册",
+      "audio": "bd2a790768e7461a85a0578dba3d7eff",
+      "id": "1f22a35509ec",
+      "priority": 1,
+      "group": "cad0530f258e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "encryption",
+      "meaningInSourceLanguage": "加密",
+      "id": "3599861faec1",
+      "priority": 0,
+      "group": "c1055805b419"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "encryption",
+      "meaning": "加密",
+      "audio": "ee32f25b0a244159a87323346b7dfa4d",
+      "id": "c296a17a6c25",
+      "priority": 1,
+      "group": "c1055805b419"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "firewall",
+      "meaningInSourceLanguage": "防火墙",
+      "id": "0ba97ea63b8f",
+      "priority": 0,
+      "group": "1464185074fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "firewall",
+      "meaning": "防火墙",
+      "audio": "2c87ef0b4e674cc39570a045c4889f55",
+      "id": "92c1e2508233",
+      "priority": 1,
+      "group": "1464185074fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antivirus",
+      "meaningInSourceLanguage": "杀毒软件",
+      "id": "ed4f8ab5e9ba",
+      "priority": 0,
+      "group": "5d84a5cadcbe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antivirus",
+      "meaning": "杀毒软件",
+      "audio": "213e20b2073f444c8145af8be9656bfa",
+      "id": "b6400ebd0558",
+      "priority": 1,
+      "group": "5d84a5cadcbe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "virus",
+      "meaningInSourceLanguage": "病毒",
+      "id": "a5a03282c442",
+      "priority": 0,
+      "group": "16e56ddd9519"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "virus",
+      "meaning": "病毒",
+      "audio": "5c9d3c74f55c4fb0b64d2392672ea700",
+      "id": "1b86e50a0148",
+      "priority": 1,
+      "group": "16e56ddd9519"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "malware",
+      "meaningInSourceLanguage": "恶意软件",
+      "id": "c136b4330a95",
+      "priority": 0,
+      "group": "8db75910174f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "malware",
+      "meaning": "恶意软件",
+      "audio": "7ddb3eb6f9b445ed81548c97aecc873b",
+      "id": "8f3b851fccf6",
+      "priority": 1,
+      "group": "8db75910174f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hacker",
+      "meaningInSourceLanguage": "黑客",
+      "id": "1f4a416267d8",
+      "priority": 0,
+      "group": "dcf9046a9274"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hacker",
+      "meaning": "黑客",
+      "audio": "5f375725780a49e08d5cf1545b9ad621",
+      "id": "fa1c9ed121a4",
+      "priority": 1,
+      "group": "dcf9046a9274"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "data",
+      "meaningInSourceLanguage": "数据",
+      "id": "88143b535ec8",
+      "priority": 0,
+      "group": "a37385d27e44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "data",
+      "meaning": "数据",
+      "audio": "2179c1844534489db4e06539941c94a3",
+      "id": "d309616e749f",
+      "priority": 1,
+      "group": "a37385d27e44"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "algorithm",
+      "meaningInSourceLanguage": "算法",
+      "id": "923d644d70b4",
+      "priority": 0,
+      "group": "60fdf71f1906"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "algorithm",
+      "meaning": "算法",
+      "audio": "3b12e2fe69f54a39a0044ade9823db42",
+      "id": "3f0084bff831",
+      "priority": 1,
+      "group": "60fdf71f1906"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "programming",
+      "meaningInSourceLanguage": "编程",
+      "id": "6e8792d6e275",
+      "priority": 0,
+      "group": "0dab8a98503e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "programming",
+      "meaning": "编程",
+      "audio": "7ed2cfc58879413c914b694b253d2eaf",
+      "id": "7d46a20d836d",
+      "priority": 1,
+      "group": "0dab8a98503e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coding",
+      "meaningInSourceLanguage": "编码",
+      "id": "cec24f8dbb14",
+      "priority": 0,
+      "group": "df77fec88054"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coding",
+      "meaning": "编码",
+      "audio": "9fda69feb96e4ab98c5098bf67c8eac4",
+      "id": "9ead1a5e3a84",
+      "priority": 1,
+      "group": "df77fec88054"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debug",
+      "meaningInSourceLanguage": "调试",
+      "id": "ee4a7c5533d1",
+      "priority": 0,
+      "group": "4d763e6ca614"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debug",
+      "meaning": "调试",
+      "audio": "1bc4dcee5edc464abd1f61a2a98395fe",
+      "id": "dcd304845932",
+      "priority": 1,
+      "group": "4d763e6ca614"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compile",
+      "meaningInSourceLanguage": "编译",
+      "id": "7d0640342107",
+      "priority": 0,
+      "group": "b6f5a2745449"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compile",
+      "meaning": "编译",
+      "audio": "89e90e763f554fa382c3ea4798c93adf",
+      "id": "50a4ede0311c",
+      "priority": 1,
+      "group": "b6f5a2745449"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "code",
+      "meaningInSourceLanguage": "代码",
+      "id": "38c726295c32",
+      "priority": 0,
+      "group": "f486f1d6cf2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "code",
+      "meaning": "代码",
+      "audio": "6a2a07e5f1d54eb9bd0b74ee80f577aa",
+      "id": "e0c85322fa50",
+      "priority": 1,
+      "group": "f486f1d6cf2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "script",
+      "meaningInSourceLanguage": "脚本",
+      "id": "7d5ad69c4bea",
+      "priority": 0,
+      "group": "3759884aab8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "script",
+      "meaning": "脚本",
+      "audio": "40f8ec4190264da4b6e33d452ce8262e",
+      "id": "e12a43aa4ffe",
+      "priority": 1,
+      "group": "3759884aab8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "function",
+      "meaningInSourceLanguage": "函数",
+      "id": "a2d50f3368ed",
+      "priority": 0,
+      "group": "48e40b4d485c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "function",
+      "meaning": "函数",
+      "audio": "cf6ba8b353324439a226597cdc5b22b1",
+      "id": "637cdd420ce3",
+      "priority": 1,
+      "group": "48e40b4d485c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "variable",
+      "meaningInSourceLanguage": "变量",
+      "id": "b2fef17b3f59",
+      "priority": 0,
+      "group": "05785b841090"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "variable",
+      "meaning": "变量",
+      "audio": "c950726713b74da1991ba1456f67d288",
+      "id": "39ddee09b913",
+      "priority": 1,
+      "group": "05785b841090"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "loop",
+      "meaningInSourceLanguage": "循环",
+      "id": "7a04074421f1",
+      "priority": 0,
+      "group": "7ca8f1c2db50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "loop",
+      "meaning": "循环",
+      "audio": "ec828f4ed13943efbb4126d6e25ce456",
+      "id": "480d161042b4",
+      "priority": 1,
+      "group": "7ca8f1c2db50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "condition",
+      "meaningInSourceLanguage": "条件",
+      "id": "d424e94799be",
+      "priority": 0,
+      "group": "b06ccd8e3381"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "condition",
+      "meaning": "条件",
+      "audio": "2d84a9e9c8eb484983d6bf35f89d5e6b",
+      "id": "3ebef8081868",
+      "priority": 1,
+      "group": "b06ccd8e3381"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "array",
+      "meaningInSourceLanguage": "数组",
+      "id": "ba27ef37e69b",
+      "priority": 0,
+      "group": "83006500b621"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "array",
+      "meaning": "数组",
+      "audio": "cd22830734fa448b85f8f5a3a457b4bc",
+      "id": "e4cd08035c78",
+      "priority": 1,
+      "group": "83006500b621"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "object",
+      "meaningInSourceLanguage": "对象",
+      "id": "4f07c5428578",
+      "priority": 0,
+      "group": "a6be01459e81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "object",
+      "meaning": "对象",
+      "audio": "5425668d6d3d4c01a95893d75205e96a",
+      "id": "b7c9e044ef4f",
+      "priority": 1,
+      "group": "a6be01459e81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "class",
+      "meaningInSourceLanguage": "类",
+      "id": "0d666f07d9f2",
+      "priority": 0,
+      "group": "37c8f5918483"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "class",
+      "meaning": "类",
+      "audio": "44781329785340819277c33be0cc1746",
+      "id": "856a874634f5",
+      "priority": 1,
+      "group": "37c8f5918483"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "API",
+      "meaningInSourceLanguage": "应用程序接口",
+      "id": "5e3da1b570d1",
+      "priority": 0,
+      "group": "a7bdbc9309e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "API",
+      "meaning": "应用程序接口",
+      "audio": "96f2de11fab34eeea151adf9f3675248",
+      "id": "c3a7498492f1",
+      "priority": 1,
+      "group": "a7bdbc9309e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "framework",
+      "meaningInSourceLanguage": "框架",
+      "id": "0e21e7984060",
+      "priority": 0,
+      "group": "44478c8282f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "framework",
+      "meaning": "框架",
+      "audio": "dad9ee6e63e34272aa3d1491b0e54f71",
+      "id": "a88388da3e40",
+      "priority": 1,
+      "group": "44478c8282f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "library",
+      "meaningInSourceLanguage": "库",
+      "id": "38e240d29d85",
+      "priority": 0,
+      "group": "178c8ee93aa5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "library",
+      "meaning": "库",
+      "audio": "5fe427299d34404083d4737bb2104c24",
+      "id": "fc24b8a5f1ea",
+      "priority": 1,
+      "group": "178c8ee93aa5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "artificial intelligence",
+      "meaningInSourceLanguage": "人工智能",
+      "id": "d90487d4ae5a",
+      "priority": 0,
+      "group": "03fc1354ee0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "artificial intelligence",
+      "meaning": "人工智能",
+      "audio": "e9ad6e5da0f94f9385ec2ad8d043f837",
+      "id": "e7ff518f348f",
+      "priority": 1,
+      "group": "03fc1354ee0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "machine learning",
+      "meaningInSourceLanguage": "机器学习",
+      "id": "bb37ae619b7e",
+      "priority": 0,
+      "group": "1c1a9dfe29d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "machine learning",
+      "meaning": "机器学习",
+      "audio": "6427531bdda043a29eacd97fb3c216a5",
+      "id": "418d6a7ba69a",
+      "priority": 1,
+      "group": "1c1a9dfe29d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deep learning",
+      "meaningInSourceLanguage": "深度学习",
+      "id": "4f2fb61c7e8d",
+      "priority": 0,
+      "group": "0d74a2aaac1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deep learning",
+      "meaning": "深度学习",
+      "audio": "2b859c40d4f0489fa67aea7b9f7439b2",
+      "id": "b4b3635ea805",
+      "priority": 1,
+      "group": "0d74a2aaac1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "neural network",
+      "meaningInSourceLanguage": "神经网络",
+      "id": "63a90eae732d",
+      "priority": 0,
+      "group": "bb6e8ef65f94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "neural network",
+      "meaning": "神经网络",
+      "audio": "9ab68e8220574b8d968a9670bc9285e6",
+      "id": "e220208b891e",
+      "priority": 1,
+      "group": "bb6e8ef65f94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "data science",
+      "meaningInSourceLanguage": "数据科学",
+      "id": "410a2d48e782",
+      "priority": 0,
+      "group": "402cd03d4d0c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "data science",
+      "meaning": "数据科学",
+      "audio": "e20d12dc293542fd958277e806a0161e",
+      "id": "98385ebd625e",
+      "priority": 1,
+      "group": "402cd03d4d0c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "big data",
+      "meaningInSourceLanguage": "大数据",
+      "id": "68ca118ccb36",
+      "priority": 0,
+      "group": "17224133e4c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "big data",
+      "meaning": "大数据",
+      "audio": "eb6b5e4c78384427846f9d3c98c05d73",
+      "id": "ec0a1be6fdfb",
+      "priority": 1,
+      "group": "17224133e4c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blockchain",
+      "meaningInSourceLanguage": "区块链",
+      "id": "961bb34bd1d0",
+      "priority": 0,
+      "group": "2ed14fd191ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blockchain",
+      "meaning": "区块链",
+      "audio": "71f06e6cd1cb42f0a1e98d2218e4a1d6",
+      "id": "7bafd8804c0c",
+      "priority": 1,
+      "group": "2ed14fd191ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cryptocurrency",
+      "meaningInSourceLanguage": "加密货币",
+      "id": "f175670d156a",
+      "priority": 0,
+      "group": "d28e97a52ab1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cryptocurrency",
+      "meaning": "加密货币",
+      "audio": "28e2625f87224b97831c94bae3b86383",
+      "id": "11435777e8c9",
+      "priority": 1,
+      "group": "d28e97a52ab1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "virtual reality",
+      "meaningInSourceLanguage": "虚拟现实",
+      "id": "c5782716fc29",
+      "priority": 0,
+      "group": "9fed531170cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "virtual reality",
+      "meaning": "虚拟现实",
+      "audio": "27466e2b9e104b0e8f8699d03102e20f",
+      "id": "38c56edce1be",
+      "priority": 1,
+      "group": "9fed531170cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "augmented reality",
+      "meaningInSourceLanguage": "增强现实",
+      "id": "9ae80d7e3b31",
+      "priority": 0,
+      "group": "f378d31be0b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "augmented reality",
+      "meaning": "增强现实",
+      "audio": "88623e3f79c049a086f8926001dcdd75",
+      "id": "4a5f5a0be94e",
+      "priority": 1,
+      "group": "f378d31be0b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "robot",
+      "meaningInSourceLanguage": "机器人",
+      "id": "487e179f712c",
+      "priority": 0,
+      "group": "df3ed6854248"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "robot",
+      "meaning": "机器人",
+      "audio": "06d0b4ba4fc045feb5acad392297b2b3",
+      "id": "04bdd8a70e3c",
+      "priority": 1,
+      "group": "df3ed6854248"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "automation",
+      "meaningInSourceLanguage": "自动化",
+      "id": "3684de3f0005",
+      "priority": 0,
+      "group": "138af4d48534"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "automation",
+      "meaning": "自动化",
+      "audio": "85a1116f5c984e4bb8e86fec5e685b33",
+      "id": "ee1f3552b9b1",
+      "priority": 1,
+      "group": "138af4d48534"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chatbot",
+      "meaningInSourceLanguage": "聊天机器人",
+      "id": "59709db1c0ab",
+      "priority": 0,
+      "group": "653c8cee595d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chatbot",
+      "meaning": "聊天机器人",
+      "audio": "ffc60602a48e4856a9bc11a42e368c93",
+      "id": "b3c8e25f0188",
+      "priority": 1,
+      "group": "653c8cee595d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "IoT",
+      "meaningInSourceLanguage": "物联网",
+      "id": "8e22c926e3f8",
+      "priority": 0,
+      "group": "b3c13df4c14f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "IoT",
+      "meaning": "物联网",
+      "audio": "513795362c2c41048e11dc631291467e",
+      "id": "ecc3818cbaef",
+      "priority": 1,
+      "group": "b3c13df4c14f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "3D printing",
+      "meaningInSourceLanguage": "3D打印",
+      "id": "7f43490e29d5",
+      "priority": 0,
+      "group": "a4b61d571d3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "3D printing",
+      "meaning": "3D打印",
+      "audio": "3d8d23bd69d34b22a8f8eb1fccff7f7b",
+      "id": "4da7c36768b8",
+      "priority": 1,
+      "group": "a4b61d571d3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quantum computing",
+      "meaningInSourceLanguage": "量子计算",
+      "id": "f334f7558fad",
+      "priority": 0,
+      "group": "ad63c57f61aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quantum computing",
+      "meaning": "量子计算",
+      "audio": "6605d768719d4c80a868dc7630fade80",
+      "id": "58ce44afe32d",
+      "priority": 1,
+      "group": "ad63c57f61aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cybersecurity",
+      "meaningInSourceLanguage": "网络安全",
+      "id": "a5d78580b698",
+      "priority": 0,
+      "group": "0cecfbbc6186"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cybersecurity",
+      "meaning": "网络安全",
+      "audio": "dade2770fe0f44c9baad11e87d252634",
+      "id": "9cc0fb7b3dfb",
+      "priority": 1,
+      "group": "0cecfbbc6186"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "privacy",
+      "meaningInSourceLanguage": "隐私",
+      "id": "0b209624b96c",
+      "priority": 0,
+      "group": "7dc0d03e07ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "privacy",
+      "meaning": "隐私",
+      "audio": "fd88d25583eb4246bdba29de07bb62a1",
+      "id": "a87425c05121",
+      "priority": 1,
+      "group": "7dc0d03e07ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "social media",
+      "meaningInSourceLanguage": "社交媒体",
+      "id": "12b6bd3aeaa5",
+      "priority": 0,
+      "group": "57ab0f33526f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "social media",
+      "meaning": "社交媒体",
+      "audio": "72ecddd9a8dc4b7e9ac23cd227669892",
+      "id": "db678bb64326",
+      "priority": 1,
+      "group": "57ab0f33526f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "influencer",
+      "meaningInSourceLanguage": "网红",
+      "id": "25151809dccc",
+      "priority": 0,
+      "group": "364cc77455d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "influencer",
+      "meaning": "网红",
+      "audio": "318050a9238a4370bed2c128a6657983",
+      "id": "008938ec5441",
+      "priority": 1,
+      "group": "364cc77455d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "digital",
+      "meaningInSourceLanguage": "数字的",
+      "id": "da71b0b2738f",
+      "priority": 0,
+      "group": "222c237736ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "digital",
+      "meaning": "数字的",
+      "audio": "413a99f73d0b4a9d8aa19a0307effbb7",
+      "id": "c9146a0323dc",
+      "priority": 1,
+      "group": "222c237736ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "analog",
+      "meaningInSourceLanguage": "模拟的",
+      "id": "9d239dbf85a5",
+      "priority": 0,
+      "group": "10bee567746e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "analog",
+      "meaning": "模拟的",
+      "audio": "ee17249eb51542f6b7d16dab6520fbe2",
+      "id": "213334b96b2a",
+      "priority": 1,
+      "group": "10bee567746e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bit",
+      "meaningInSourceLanguage": "比特",
+      "id": "3d53da8edebb",
+      "priority": 0,
+      "group": "f35322203069"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bit",
+      "meaning": "比特",
+      "audio": "b9d519d5ca2c4609a9bf3e6d88e6d318",
+      "id": "dbb2a3912823",
+      "priority": 1,
+      "group": "f35322203069"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "byte",
+      "meaningInSourceLanguage": "字节",
+      "id": "0a860de5325c",
+      "priority": 0,
+      "group": "a8842dd81e47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "byte",
+      "meaning": "字节",
+      "audio": "411cb4641a5f413fba476e3fadb87a4a",
+      "id": "27d3512254d5",
+      "priority": 1,
+      "group": "a8842dd81e47"
+    }
+  ]
+}

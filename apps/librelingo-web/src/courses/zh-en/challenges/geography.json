@@ -1,0 +1,669 @@
+{
+  "id": "2c5717987036",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "continent",
+      "meaningInSourceLanguage": "大洲",
+      "id": "821552b01204",
+      "priority": 0,
+      "group": "6f91e8ed3790"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "continent",
+      "meaning": "大洲",
+      "audio": "47fe1f7dd7ea738cfb33ed753d783cdcaa1a50cec7537efca30d59827a7a865a",
+      "id": "a5c98cc44786",
+      "priority": 1,
+      "group": "6f91e8ed3790"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "country",
+      "meaningInSourceLanguage": "国家",
+      "id": "0dc1d4a4897d",
+      "priority": 0,
+      "group": "f6a0877d1393"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "country",
+      "meaning": "国家",
+      "audio": "55ab2f8c7acd3b35fa3fb5e18095c6efb94073c37e085a02adf6f8831d3a12ee",
+      "id": "0bc84de2ddf7",
+      "priority": 1,
+      "group": "f6a0877d1393"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "city",
+      "meaningInSourceLanguage": "城市",
+      "id": "ecf474c6d36e",
+      "priority": 0,
+      "group": "a49ce4ac47ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "city",
+      "meaning": "城市",
+      "audio": "5d896d9eca6967174edacb445f599e41ee1ecf399b55f2f595ce5bad1bf0c60e",
+      "id": "4a2f7b3dcbea",
+      "priority": 1,
+      "group": "a49ce4ac47ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "village",
+      "meaningInSourceLanguage": "村庄",
+      "id": "df931082e407",
+      "priority": 0,
+      "group": "183936ca7194"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "village",
+      "meaning": "村庄",
+      "audio": "1bfcdb27ff81c1847c5468aa1e0a5ee0f177eaccc68f3d001e495ba5e56c50f0",
+      "id": "fa72f5c0d615",
+      "priority": 1,
+      "group": "183936ca7194"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "town",
+      "meaningInSourceLanguage": "镇",
+      "id": "c958aa3cc6d6",
+      "priority": 0,
+      "group": "d715c98ea461"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "town",
+      "meaning": "镇",
+      "audio": "0514bbf45e0d0fcd475b1ab309a50e18db95cfdce45aa4e9c9767f3fe6eab497",
+      "id": "9ac84d6fc6c3",
+      "priority": 1,
+      "group": "d715c98ea461"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "capital",
+      "meaningInSourceLanguage": "首都",
+      "id": "bf62de68ed04",
+      "priority": 0,
+      "group": "7d7b369233c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "capital",
+      "meaning": "首都",
+      "audio": "abc95f47a42348df486484ca16866d60a8f5ef7903ff850f7fdaa8b481c18785",
+      "id": "144c4b8f690e",
+      "priority": 1,
+      "group": "7d7b369233c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "province",
+      "meaningInSourceLanguage": "省",
+      "id": "172f2c7a345f",
+      "priority": 0,
+      "group": "b3dd7e70faac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "province",
+      "meaning": "省",
+      "audio": "91ebcafaf0b881cf3b686cc65674850f6edb784ad04267a0f7202ef2d66fd1a9",
+      "id": "d799bce2005a",
+      "priority": 1,
+      "group": "b3dd7e70faac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "state",
+      "meaningInSourceLanguage": "州",
+      "id": "a5a5f0648123",
+      "priority": 0,
+      "group": "8b5ec9787f25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "state",
+      "meaning": "州",
+      "audio": "66a0fa35221824e4ef5ca56c6f6d3f4da72801f2047d96e6ca9334c99544c40e",
+      "id": "cc4633502dc1",
+      "priority": 1,
+      "group": "8b5ec9787f25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "region",
+      "meaningInSourceLanguage": "地区",
+      "id": "56ea89d1d071",
+      "priority": 0,
+      "group": "1f6131cc3ab9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "region",
+      "meaning": "地区",
+      "audio": "bfb3fcaf784dffecb2538d105a6c2cc30e5533f558206461df1acda97194ce71",
+      "id": "24ba377d4781",
+      "priority": 1,
+      "group": "1f6131cc3ab9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ocean",
+      "meaningInSourceLanguage": "海洋",
+      "id": "7bf39cd858a7",
+      "priority": 0,
+      "group": "904240890a8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ocean",
+      "meaning": "海洋",
+      "audio": "17da270d5ca3b87f8891c56d4a2baa3f53444c8fb61cd01b10c28e01fcc073b7",
+      "id": "affc6f67fe4c",
+      "priority": 1,
+      "group": "904240890a8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sea",
+      "meaningInSourceLanguage": "海",
+      "id": "d22cb1d26177",
+      "priority": 0,
+      "group": "f70ebd028b2c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sea",
+      "meaning": "海",
+      "audio": "73da460d15eeea0011f3ee09f599ef16fbf1c3d8e974929a46a4b12e252087db",
+      "id": "b099a87cb6d0",
+      "priority": 1,
+      "group": "f70ebd028b2c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lake",
+      "meaningInSourceLanguage": "湖",
+      "id": "d41fb3e27b2a",
+      "priority": 0,
+      "group": "7b9016558d3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lake",
+      "meaning": "湖",
+      "audio": "aaa9b3007663fb363a5749fb9d354b586b24f71c58ceeaeb98fa3af90aabfe0e",
+      "id": "494d5db095a3",
+      "priority": 1,
+      "group": "7b9016558d3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "river",
+      "meaningInSourceLanguage": "河流",
+      "id": "51e29d79d4e8",
+      "priority": 0,
+      "group": "949ce929bc1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "river",
+      "meaning": "河流",
+      "audio": "c4390b81c55f2b060b15877058c0a8b499d0f28ed8f763683167c7d67383ce28",
+      "id": "46b10909a8e3",
+      "priority": 1,
+      "group": "949ce929bc1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mountain range",
+      "meaningInSourceLanguage": "山脉",
+      "id": "44214c2da0dd",
+      "priority": 0,
+      "group": "2c10ef3e314e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mountain range",
+      "meaning": "山脉",
+      "audio": "bc7a19347de54adf6860c449a5a9140ada7c2e2ac4bdf361d096f12ed4c8ba37",
+      "id": "82927a20ffab",
+      "priority": 1,
+      "group": "2c10ef3e314e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "valley",
+      "meaningInSourceLanguage": "山谷",
+      "id": "67cec679afc3",
+      "priority": 0,
+      "group": "9281827db475"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "valley",
+      "meaning": "山谷",
+      "audio": "8698db6ddcdd8ef8a0669ac615e0aff308306d0f62e7051e3a124458c0a83848",
+      "id": "991a1f6a1743",
+      "priority": 1,
+      "group": "9281827db475"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "desert",
+      "meaningInSourceLanguage": "沙漠",
+      "id": "3f5fb62c4f30",
+      "priority": 0,
+      "group": "cf6f2db1ada8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "desert",
+      "meaning": "沙漠",
+      "audio": "16bfa51ffd79a481e3d9bab5935d41a2c4e4cce1c7939ad354acfa4d15cddf1f",
+      "id": "09b6a66025f5",
+      "priority": 1,
+      "group": "cf6f2db1ada8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "forest",
+      "meaningInSourceLanguage": "森林",
+      "id": "b37fd75aaccc",
+      "priority": 0,
+      "group": "6db74e81a7b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "forest",
+      "meaning": "森林",
+      "audio": "685632687b9d396241d6bb842c16ff87598a5d6969fde1fdab9f9ee7ecc51d28",
+      "id": "ad51d3c07c88",
+      "priority": 1,
+      "group": "6db74e81a7b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jungle",
+      "meaningInSourceLanguage": "丛林",
+      "id": "cb7d78f9faa7",
+      "priority": 0,
+      "group": "31eb852467cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jungle",
+      "meaning": "丛林",
+      "audio": "d148e45e8cabeae2321e5647e96de7723b98e78c41bc8db5d1f8194383bf65ac",
+      "id": "db4f6eb431bb",
+      "priority": 1,
+      "group": "31eb852467cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plain",
+      "meaningInSourceLanguage": "平原",
+      "id": "d2ff7388e754",
+      "priority": 0,
+      "group": "693e9d9fb3be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plain",
+      "meaning": "平原",
+      "audio": "dfcacf0ba46c69c653237a72b534c9492064ee5a210a8ef9b440ab0d10e215ab",
+      "id": "7f6884d0802f",
+      "priority": 1,
+      "group": "693e9d9fb3be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plateau",
+      "meaningInSourceLanguage": "高原",
+      "id": "742dc6c36b6e",
+      "priority": 0,
+      "group": "1162b87ed53e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plateau",
+      "meaning": "高原",
+      "audio": "783d710909d13fc2831d3636e3a31804e6e7735aca6bcac147d276d6b4cf9aca",
+      "id": "abeeb2aa1eea",
+      "priority": 1,
+      "group": "1162b87ed53e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peninsula",
+      "meaningInSourceLanguage": "半岛",
+      "id": "d43f60ca62be",
+      "priority": 0,
+      "group": "b743710df72a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peninsula",
+      "meaning": "半岛",
+      "audio": "744d9282573fca030829e3f42c086a560d61ebe2d623cce8358cb02458c83f7f",
+      "id": "51754648848a",
+      "priority": 1,
+      "group": "b743710df72a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bay",
+      "meaningInSourceLanguage": "海湾",
+      "id": "604509caf81b",
+      "priority": 0,
+      "group": "a8604a3bd434"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bay",
+      "meaning": "海湾",
+      "audio": "17ae713185ccbcbddffd7dfb183d11f05fc3c8677cd2b80a88000a1662069398",
+      "id": "0eb4077306c1",
+      "priority": 1,
+      "group": "a8604a3bd434"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "canyon",
+      "meaningInSourceLanguage": "峡谷",
+      "id": "a1bda08f9b16",
+      "priority": 0,
+      "group": "2883eca2a3d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "canyon",
+      "meaning": "峡谷",
+      "audio": "7d0e75eab979cd37e291776884fb0eb241307d3a80d9a61e1d727fce310042a3",
+      "id": "102f82c6d9d5",
+      "priority": 1,
+      "group": "2883eca2a3d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "volcano",
+      "meaningInSourceLanguage": "火山",
+      "id": "b3b2b1378521",
+      "priority": 0,
+      "group": "8b5a594bc925"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "volcano",
+      "meaning": "火山",
+      "audio": "4bde68853ab34aded07a5571f82a1392c4e9397984837d6fe5231f23ee2c2973",
+      "id": "b8a935aac15a",
+      "priority": 1,
+      "group": "8b5a594bc925"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "glacier",
+      "meaningInSourceLanguage": "冰川",
+      "id": "b5a6ed2329de",
+      "priority": 0,
+      "group": "13c5ea62a5e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "glacier",
+      "meaning": "冰川",
+      "audio": "2862476cd2f83ff88c3e92d63b73882b9c6992916d8b3b15ad5ba741950109d9",
+      "id": "363834491c84",
+      "priority": 1,
+      "group": "13c5ea62a5e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "island",
+      "meaningInSourceLanguage": "岛屿",
+      "id": "54c01d0b75c1",
+      "priority": 0,
+      "group": "42198164fbd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "island",
+      "meaning": "岛屿",
+      "audio": "42c7779bc3ac3fce5280e3efdedb1ed1c8c8b63b6baca9a4a6fbb2da75f6c879",
+      "id": "003b21da3ce7",
+      "priority": 1,
+      "group": "42198164fbd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "archipelago",
+      "meaningInSourceLanguage": "群岛",
+      "id": "42f19d7031c4",
+      "priority": 0,
+      "group": "b0b03654d5ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "archipelago",
+      "meaning": "群岛",
+      "audio": "156ae288b6b184f454125328ba35119eea52f99e32bddd25ddd5cdc32a277bd9",
+      "id": "70ba50b587bd",
+      "priority": 1,
+      "group": "b0b03654d5ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coast",
+      "meaningInSourceLanguage": "海岸",
+      "id": "756d9b2626a8",
+      "priority": 0,
+      "group": "d3a2749303ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coast",
+      "meaning": "海岸",
+      "audio": "1fe53eeb9fcd28978f682d926980c1b0a89912fbaa0d0c6f304f2749d3fd0a79",
+      "id": "2a9e32fbd941",
+      "priority": 1,
+      "group": "d3a2749303ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shore",
+      "meaningInSourceLanguage": "岸边",
+      "id": "5c9673c9be10",
+      "priority": 0,
+      "group": "2b9fda8ffb5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shore",
+      "meaning": "岸边",
+      "audio": "01a33d08da31d9c258e79333dd7f7bd58774f96c8bf97ec19e4eae16a7124d43",
+      "id": "918e19f46f90",
+      "priority": 1,
+      "group": "2b9fda8ffb5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "port",
+      "meaningInSourceLanguage": "港口",
+      "id": "41c2201ccdf2",
+      "priority": 0,
+      "group": "f0e7d2dcf45a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "port",
+      "meaning": "港口",
+      "audio": "c866f594de917a560912911ac72280a66fbc09d23b08c864a02f903eb309353b",
+      "id": "5590ab4792e1",
+      "priority": 1,
+      "group": "f0e7d2dcf45a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "border",
+      "meaningInSourceLanguage": "边界",
+      "id": "744a7c26aecc",
+      "priority": 0,
+      "group": "4010d3b090d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "border",
+      "meaning": "边界",
+      "audio": "ac1ac6db8f78126426464f8a1f1889b7b04d5da092482576aa54649fd790999c",
+      "id": "371b249c0c94",
+      "priority": 1,
+      "group": "4010d3b090d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "equator",
+      "meaningInSourceLanguage": "赤道",
+      "id": "02b0a0bda315",
+      "priority": 0,
+      "group": "fbaa1ceaaad3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "equator",
+      "meaning": "赤道",
+      "audio": "d6f206ea1e2d7521b20795e358881289f77c53d481af9e7725626ccf03b740bf",
+      "id": "24fcb67ad990",
+      "priority": 1,
+      "group": "fbaa1ceaaad3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pole",
+      "meaningInSourceLanguage": "极地",
+      "id": "6b5f673f2418",
+      "priority": 0,
+      "group": "fa78307b6a83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pole",
+      "meaning": "极地",
+      "audio": "08a33a0d10fa7b51dfdc5b46ab9f9138255109a9fe0fdb35b6fd3985ff2aaac9",
+      "id": "eeb5650421fd",
+      "priority": 1,
+      "group": "fa78307b6a83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hemisphere",
+      "meaningInSourceLanguage": "半球",
+      "id": "920f80edc684",
+      "priority": 0,
+      "group": "7395585f4f24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hemisphere",
+      "meaning": "半球",
+      "audio": "ea035810b9a835541eb21bc28c94000e6ba8c0ffd0a29b363abcf3ce81ccf027",
+      "id": "3047158bdfc0",
+      "priority": 1,
+      "group": "7395585f4f24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "climate",
+      "meaningInSourceLanguage": "气候",
+      "id": "03d60df0d881",
+      "priority": 0,
+      "group": "90b698712347"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "climate",
+      "meaning": "气候",
+      "audio": "1553fddff3db506fa704e086ef2c696b272bf81a8574a6dfacd815e8debcd913",
+      "id": "c73b545e79c6",
+      "priority": 1,
+      "group": "90b698712347"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "time zone",
+      "meaningInSourceLanguage": "时区",
+      "id": "947a080cd713",
+      "priority": 0,
+      "group": "1149ce4b5533"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "time zone",
+      "meaning": "时区",
+      "audio": "de1fc498f036aa16b4b7394b05a5fd19c85fa1b7018a26cec9b8cc217ceab558",
+      "id": "9db89464c65b",
+      "priority": 1,
+      "group": "1149ce4b5533"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "elevation",
+      "meaningInSourceLanguage": "海拔",
+      "id": "6418c43842e6",
+      "priority": 0,
+      "group": "958e8868bda3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "elevation",
+      "meaning": "海拔",
+      "audio": "e2ca38f977feb63e52632f15fd062002b93f718f0c1fdd7a48dbf1ade5fcafe6",
+      "id": "78dfecc1d7b3",
+      "priority": 1,
+      "group": "958e8868bda3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "latitude",
+      "meaningInSourceLanguage": "纬度",
+      "id": "a0a75c19ad29",
+      "priority": 0,
+      "group": "602db34e53d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "latitude",
+      "meaning": "纬度",
+      "audio": "3daf7b135b35c93ac3a126d53d08a9212dea88b69d86de527e2f38f0b8c3ae1a",
+      "id": "e1bb45226222",
+      "priority": 1,
+      "group": "602db34e53d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "longitude",
+      "meaningInSourceLanguage": "经度",
+      "id": "8de64b3c46d7",
+      "priority": 0,
+      "group": "964af97241cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "longitude",
+      "meaning": "经度",
+      "audio": "84a50bcdb224d5e8e02c7646dc76b02f3683eb35e7c8240f49bfe31e8047f5bd",
+      "id": "0e493c9b1cb3",
+      "priority": 1,
+      "group": "964af97241cc"
+    }
+  ]
+}

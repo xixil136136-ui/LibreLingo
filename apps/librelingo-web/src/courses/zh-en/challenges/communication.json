@@ -1,0 +1,516 @@
+{
+  "id": "a8d835439268",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "conversation",
+      "meaningInSourceLanguage": "对话",
+      "id": "8d0ae85084dd",
+      "priority": 0,
+      "group": "53be8e7aba1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conversation",
+      "meaning": "对话",
+      "audio": "d00302d740f8ce339091c0d1dfec3ee68bdeeff1dd0e6a14ff8c12bc7f3929cd",
+      "id": "cc76f3d3d27c",
+      "priority": 1,
+      "group": "53be8e7aba1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discussion",
+      "meaningInSourceLanguage": "讨论",
+      "id": "7d03a99ca5b4",
+      "priority": 0,
+      "group": "4f37d2ef13a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discussion",
+      "meaning": "讨论",
+      "audio": "b52b145b72712abbc3b318e77dbb4b71ac4b63d1fd29425e3645246b5c4885c8",
+      "id": "1d9de84b6baa",
+      "priority": 1,
+      "group": "4f37d2ef13a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debate",
+      "meaningInSourceLanguage": "辩论",
+      "id": "ae031cde8a19",
+      "priority": 0,
+      "group": "9996628d2833"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debate",
+      "meaning": "辩论",
+      "audio": "a174357dd66455f03d7b657ccd0869c8b63fc9e116bdeb3d71841b3d6795cb23",
+      "id": "67225aa7500d",
+      "priority": 1,
+      "group": "9996628d2833"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interview",
+      "meaningInSourceLanguage": "面试",
+      "id": "71dd04074deb",
+      "priority": 0,
+      "group": "0f43bc6dfdd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interview",
+      "meaning": "面试",
+      "audio": "e51b35cb0becc3e0df8a135fb6316880767544d19a2cdce115e0196d1b52cf68",
+      "id": "7afdad13663d",
+      "priority": 1,
+      "group": "0f43bc6dfdd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speech",
+      "meaningInSourceLanguage": "演讲",
+      "id": "d275fc9dfad9",
+      "priority": 0,
+      "group": "faa5d14301bd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speech",
+      "meaning": "演讲",
+      "audio": "630213334117b3c8e6394f984e7f54cc608be3c377b890c7c04a712f309e9ec8",
+      "id": "7d7dd604d924",
+      "priority": 1,
+      "group": "faa5d14301bd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "presentation",
+      "meaningInSourceLanguage": "演示",
+      "id": "1938878b91a3",
+      "priority": 0,
+      "group": "36d08596da9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "presentation",
+      "meaning": "演示",
+      "audio": "6153a50d7b63511f618441afbf3474f428487252e34d83e5314222b50f18dd1c",
+      "id": "f3b6882f9378",
+      "priority": 1,
+      "group": "36d08596da9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chat",
+      "meaningInSourceLanguage": "聊天",
+      "id": "f7e06d52c100",
+      "priority": 0,
+      "group": "cf999b5d2b54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chat",
+      "meaning": "聊天",
+      "audio": "137331a91f4d4cde4a205e4597c4c65221053ec0602efe332859aa6d7edb11cd",
+      "id": "80d4560f9441",
+      "priority": 1,
+      "group": "cf999b5d2b54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "talk",
+      "meaningInSourceLanguage": "谈话",
+      "id": "5926b17c9fa5",
+      "priority": 0,
+      "group": "f3c289d57b33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "talk",
+      "meaning": "谈话",
+      "audio": "778a737881ef496c382cc4bb8aa4a02bb0b479003cced2f548f729ab1a31e063",
+      "id": "a348b2833926",
+      "priority": 1,
+      "group": "f3c289d57b33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "whisper",
+      "meaningInSourceLanguage": "低语",
+      "id": "5a97d4d31113",
+      "priority": 0,
+      "group": "ea1e723bd90c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "whisper",
+      "meaning": "低语",
+      "audio": "23fbe3587edd924b4028dcda705856e791f516c04974bb9021895c9f5a07f17e",
+      "id": "04ba9214def9",
+      "priority": 1,
+      "group": "ea1e723bd90c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shout",
+      "meaningInSourceLanguage": "喊叫",
+      "id": "877ad7bb238e",
+      "priority": 0,
+      "group": "b1e785bdf749"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shout",
+      "meaning": "喊叫",
+      "audio": "ac371f02979660493a5e2c33f1378a8650ed2a95ceb43b058f62f5314496f175",
+      "id": "a013d99d9500",
+      "priority": 1,
+      "group": "b1e785bdf749"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mumble",
+      "meaningInSourceLanguage": "嘟囔",
+      "id": "572edd44d00d",
+      "priority": 0,
+      "group": "bffade535c1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mumble",
+      "meaning": "嘟囔",
+      "audio": "3e9318441845723794781b96f9ae8e1f899e809bdd45732036f28f7dbf2d8bd7",
+      "id": "d7f648b21a16",
+      "priority": 1,
+      "group": "bffade535c1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "explain",
+      "meaningInSourceLanguage": "解释",
+      "id": "5825772c55ad",
+      "priority": 0,
+      "group": "17f22ec57191"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "explain",
+      "meaning": "解释",
+      "audio": "2f4ee9c90fd9ebe593f685e9858e794d2d97b9320302b2b974b9d8df4e52eea6",
+      "id": "9734e4739bc2",
+      "priority": 1,
+      "group": "17f22ec57191"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "describe",
+      "meaningInSourceLanguage": "描述",
+      "id": "0df98dbb2b8f",
+      "priority": 0,
+      "group": "e6d63a6bd957"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "describe",
+      "meaning": "描述",
+      "audio": "edaa94bb4547f938b9f2cb9135f0316086329f7647c03d45ff237433be37c3af",
+      "id": "257a3d71f54d",
+      "priority": 1,
+      "group": "e6d63a6bd957"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "narrate",
+      "meaningInSourceLanguage": "叙述",
+      "id": "76ac0ba10d08",
+      "priority": 0,
+      "group": "29b3aa209935"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "narrate",
+      "meaning": "叙述",
+      "audio": "cb3a2c8e4ff8b5245c12a4b93774a94c1dafc95ab0c0a42430501dcad8334e19",
+      "id": "cf78a8f9d35c",
+      "priority": 1,
+      "group": "29b3aa209935"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "express",
+      "meaningInSourceLanguage": "表达",
+      "id": "3370cbfaa964",
+      "priority": 0,
+      "group": "bbd9ea785461"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "express",
+      "meaning": "表达",
+      "audio": "7cfb615a770e271bfeb9063202ebfb06ccf0585312f82f5d94a183eaeab00047",
+      "id": "256770e2cf4f",
+      "priority": 1,
+      "group": "bbd9ea785461"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "communicate",
+      "meaningInSourceLanguage": "沟通",
+      "id": "3f8319d8ad5c",
+      "priority": 0,
+      "group": "3711861dcb1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "communicate",
+      "meaning": "沟通",
+      "audio": "a06f201869a89ed1f1fa91f952cc17f64bd240b44fdaca5fff3c3a0432cbbdaa",
+      "id": "91aaf1ced235",
+      "priority": 1,
+      "group": "3711861dcb1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interact",
+      "meaningInSourceLanguage": "互动",
+      "id": "4b4cd09ad322",
+      "priority": 0,
+      "group": "157943bec95e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interact",
+      "meaning": "互动",
+      "audio": "1b86132c821aa7d839d21164835f4f8cdfbe1bc15fe2680e76e5f2a7b0eee34c",
+      "id": "902ca071199f",
+      "priority": 1,
+      "group": "157943bec95e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "respond",
+      "meaningInSourceLanguage": "回复",
+      "id": "36657994ae43",
+      "priority": 0,
+      "group": "4c00a2f72add"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "respond",
+      "meaning": "回复",
+      "audio": "747b039d97b07e7e9d74a5959f023c1ddafb204dd09cdcf71eb501b8868ac839",
+      "id": "e735fdab8eeb",
+      "priority": 1,
+      "group": "4c00a2f72add"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reply",
+      "meaningInSourceLanguage": "答复",
+      "id": "62f0af42cd55",
+      "priority": 0,
+      "group": "a49996f613cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reply",
+      "meaning": "答复",
+      "audio": "894f8e122c87b0771456405635396a9cd937bacfc374a19291c5ccfbc5a4bbb8",
+      "id": "4d1fae188e36",
+      "priority": 1,
+      "group": "a49996f613cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "answer",
+      "meaningInSourceLanguage": "回答",
+      "id": "6be4ced35531",
+      "priority": 0,
+      "group": "19e35a3bce18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "answer",
+      "meaning": "回答",
+      "audio": "a04366d3cbb17bda286899ce801f4fff2d71f46351e23bb459463cef2e887066",
+      "id": "0f56c8200dc7",
+      "priority": 1,
+      "group": "19e35a3bce18"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "question",
+      "meaningInSourceLanguage": "问题",
+      "id": "661456dbb52b",
+      "priority": 0,
+      "group": "9f4cc29c382c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "question",
+      "meaning": "问题",
+      "audio": "a9d6cec56c5a4ff8e0674050dd2a7c14279f850f2253594dde1d932fe59002f8",
+      "id": "4897b237e18b",
+      "priority": 1,
+      "group": "9f4cc29c382c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suggestion",
+      "meaningInSourceLanguage": "建议",
+      "id": "7e0d793b3eb0",
+      "priority": 0,
+      "group": "065369ed64c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suggestion",
+      "meaning": "建议",
+      "audio": "a58b90bffdb0e9ea90203a830ba5daef7cc9117c3270cced5d0a4cbfe1699245",
+      "id": "da2f145dc095",
+      "priority": 1,
+      "group": "065369ed64c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "opinion",
+      "meaningInSourceLanguage": "意见",
+      "id": "d74c89c69c54",
+      "priority": 0,
+      "group": "56c286b45524"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "opinion",
+      "meaning": "意见",
+      "audio": "c4d0e62c9a38172fa7a3155ddb32eb4f481de1d4e4939de77126e7265072ebf1",
+      "id": "be1df622989e",
+      "priority": 1,
+      "group": "56c286b45524"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "advice",
+      "meaningInSourceLanguage": "建议",
+      "id": "ccce0559e21a",
+      "priority": 0,
+      "group": "9dd79c8ddb25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "advice",
+      "meaning": "建议",
+      "audio": "0ac3a1c7709ba1ba4cd83efbfa92947d563692117d04c14e666130147c879fea",
+      "id": "c67bcfb07d0c",
+      "priority": 1,
+      "group": "9dd79c8ddb25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compliment",
+      "meaningInSourceLanguage": "赞美",
+      "id": "a2e38aa70504",
+      "priority": 0,
+      "group": "377ddbd0bfa6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compliment",
+      "meaning": "赞美",
+      "audio": "bbd0152c521feb8ddf7b1eafb67cbb40806f794ca6878d7f2152fae8214910fe",
+      "id": "3f78281f0b1f",
+      "priority": 1,
+      "group": "377ddbd0bfa6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "complaint",
+      "meaningInSourceLanguage": "投诉",
+      "id": "478723bcf7dd",
+      "priority": 0,
+      "group": "4dc669a53b77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "complaint",
+      "meaning": "投诉",
+      "audio": "13acd8085152f575f80f6fc387d637549cbc765394da6db41f0c727404ac7b00",
+      "id": "b30d854d0301",
+      "priority": 1,
+      "group": "4dc669a53b77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gossip",
+      "meaningInSourceLanguage": "八卦",
+      "id": "d84a4ede7b46",
+      "priority": 0,
+      "group": "d211e2510f81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gossip",
+      "meaning": "八卦",
+      "audio": "94113d0871b6ed1c55048a748b17117c7518fe28a795d6d065a4d177fd8411dc",
+      "id": "1ff28ace09c6",
+      "priority": 1,
+      "group": "d211e2510f81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rumor",
+      "meaningInSourceLanguage": "谣言",
+      "id": "088f7b827a17",
+      "priority": 0,
+      "group": "45ce649f2d2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rumor",
+      "meaning": "谣言",
+      "audio": "b9e45afb2a5976e2bdf16f42cd087a1418040961c72ff8c980c4c14429afdd99",
+      "id": "e8e36dd717c5",
+      "priority": 1,
+      "group": "45ce649f2d2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "secret",
+      "meaningInSourceLanguage": "秘密",
+      "id": "bac87e7416e5",
+      "priority": 0,
+      "group": "fee3357aff03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "secret",
+      "meaning": "秘密",
+      "audio": "f932cbc5b857e02844331c9697157546db5676a3cdcc05523c96d327ee719623",
+      "id": "e9c6697f2a4d",
+      "priority": 1,
+      "group": "fee3357aff03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "joke",
+      "meaningInSourceLanguage": "玩笑",
+      "id": "bad10129d442",
+      "priority": 0,
+      "group": "865a9f296006"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "joke",
+      "meaning": "玩笑",
+      "audio": "857316f63d2952925b7ce8008777d94c9cd016c898e5af54a2a7cf636dc629d6",
+      "id": "ae990d828c6c",
+      "priority": 1,
+      "group": "865a9f296006"
+    }
+  ]
+}

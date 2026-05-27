@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - wind: 风
-    - cold: 冷
-    - rain: 雨
-    - warm: 温暖
     - cloud: 云
-    - umbrella: 雨伞
-    - hot: 热
-    - temperature: 温度
-    - snow: 雪
+    - rain: 雨
+    - cold: 冷
     - sunny: 晴天
+    - hot: 热
+    - warm: 温暖
+    - wind: 风
+    - snow: 雪
+    - umbrella: 雨伞
+    - temperature: 温度
   Chinese:
     - 温暖: warm
-    - 温度: temperature
-    - 雪: snow
-    - 冷: cold
     - 雨: rain
+    - 温度: temperature
+    - 风: wind
+    - 晴天: sunny
     - 热: hot
     - 雨伞: umbrella
-    - 风: wind
+    - 冷: cold
     - 云: cloud
-    - 晴天: sunny
+    - 雪: snow

@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - registrarse: 入住
-    - el desayuno: 早餐
-    - el aire acondicionado: 空调
-    - la habitación doble: 双人间
-    - el servicio de habitaciones: 客房服务
-    - la habitación individual: 单人间
-    - salir: 退房
-    - la reserva: 预订
     - la llave de la habitación: 房卡
+    - salir: 退房
+    - la habitación individual: 单人间
+    - el aire acondicionado: 空调
+    - el servicio de habitaciones: 客房服务
+    - la habitación doble: 双人间
+    - la reserva: 预订
+    - el desayuno: 早餐
+    - registrarse: 入住
     - el WiFi: 无线网络
   Chinese:
-    - 早餐: el desayuno
     - 入住: registrarse
-    - 预订: la reserva
     - 房卡: la llave de la habitación
-    - 单人间: la habitación individual
-    - 客房服务: el servicio de habitaciones
-    - 空调: el aire acondicionado
-    - 双人间: la habitación doble
     - 无线网络: el WiFi
+    - 早餐: el desayuno
+    - 单人间: la habitación individual
+    - 双人间: la habitación doble
+    - 客房服务: el servicio de habitaciones
     - 退房: salir
+    - 预订: la reserva
+    - 空调: el aire acondicionado

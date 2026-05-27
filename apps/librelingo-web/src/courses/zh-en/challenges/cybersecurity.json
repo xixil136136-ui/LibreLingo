@@ -1,0 +1,941 @@
+{
+  "id": "ca5c78ee1ed0",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "IDE",
+      "meaningInSourceLanguage": "集成开发环境",
+      "id": "0a8de00913e3",
+      "priority": 0,
+      "group": "3a9ce820b908"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "IDE",
+      "meaning": "集成开发环境",
+      "audio": "690b8e172f7a4b5bb68423a04112c200",
+      "id": "5c58ce30938f",
+      "priority": 1,
+      "group": "3a9ce820b908"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debugger",
+      "meaningInSourceLanguage": "调试器",
+      "id": "7f39440afb1d",
+      "priority": 0,
+      "group": "3cbcf27d2de1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debugger",
+      "meaning": "调试器",
+      "audio": "d17ad52768f64fdb9b31937094ec6214",
+      "id": "6cf8b3a1e8c7",
+      "priority": 1,
+      "group": "3cbcf27d2de1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "profiler",
+      "meaningInSourceLanguage": "分析器",
+      "id": "927b83e55da9",
+      "priority": 0,
+      "group": "c7bf80f03546"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "profiler",
+      "meaning": "分析器",
+      "audio": "b3acd81511d143d0963db82fda0bd5f9",
+      "id": "1b82ba2c0166",
+      "priority": 1,
+      "group": "c7bf80f03546"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "linter",
+      "meaningInSourceLanguage": "代码检查器",
+      "id": "0fafc4d9236f",
+      "priority": 0,
+      "group": "4ed1203cf1a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "linter",
+      "meaning": "代码检查器",
+      "audio": "ee4f296b04d44f60ad1be9a27dc58171",
+      "id": "fcbf91084228",
+      "priority": 1,
+      "group": "4ed1203cf1a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "formatter",
+      "meaningInSourceLanguage": "格式化工具",
+      "id": "105d7fade1fe",
+      "priority": 0,
+      "group": "2662935baf03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "formatter",
+      "meaning": "格式化工具",
+      "audio": "63ccf846581e424c94a88a18bca7b2fe",
+      "id": "18a2e2d1e763",
+      "priority": 1,
+      "group": "2662935baf03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "agile",
+      "meaningInSourceLanguage": "敏捷开发",
+      "id": "1ffd4dd7e6ed",
+      "priority": 0,
+      "group": "b500bc1618b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "agile",
+      "meaning": "敏捷开发",
+      "audio": "61c3d777e44c47b296a65a4262177fa1",
+      "id": "7bcdde336876",
+      "priority": 1,
+      "group": "b500bc1618b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scrum",
+      "meaningInSourceLanguage": "Scrum",
+      "id": "2270b9a07e14",
+      "priority": 0,
+      "group": "d92cf822c679"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scrum",
+      "meaning": "Scrum",
+      "audio": "69489ccb525c4f8d83b2797ca2f054ad",
+      "id": "1564b2168a11",
+      "priority": 1,
+      "group": "d92cf822c679"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kanban",
+      "meaningInSourceLanguage": "看板",
+      "id": "d60eae3c1a86",
+      "priority": 0,
+      "group": "11c2e55fe3d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kanban",
+      "meaning": "看板",
+      "audio": "dedb6ea5323d426eaacd95cebdfa163a",
+      "id": "674213e256e1",
+      "priority": 1,
+      "group": "11c2e55fe3d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waterfall",
+      "meaningInSourceLanguage": "瀑布模型",
+      "id": "f11aae52efd7",
+      "priority": 0,
+      "group": "67a255b79b81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waterfall",
+      "meaning": "瀑布模型",
+      "audio": "112a7645cecd43faa3fe3a1546b389ef",
+      "id": "376d2f14fc54",
+      "priority": 1,
+      "group": "67a255b79b81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jira",
+      "meaningInSourceLanguage": "Jira",
+      "id": "cbcb30323073",
+      "priority": 0,
+      "group": "068c0cbd45fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Jira",
+      "meaning": "Jira",
+      "audio": "3dde884a530647adba7c3c9f4e0bed37",
+      "id": "7d16f5bfef85",
+      "priority": 1,
+      "group": "068c0cbd45fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Confluence",
+      "meaningInSourceLanguage": "Confluence",
+      "id": "597747156843",
+      "priority": 0,
+      "group": "c40e1df41c3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Confluence",
+      "meaning": "Confluence",
+      "audio": "66d8422fc72249579d9f388c84946f06",
+      "id": "10305ddcdbb3",
+      "priority": 1,
+      "group": "c40e1df41c3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Slack",
+      "meaningInSourceLanguage": "Slack",
+      "id": "3dfc9b9be060",
+      "priority": 0,
+      "group": "8e0c1406feef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Slack",
+      "meaning": "Slack",
+      "audio": "8efd49831a7042aa8470e29b5348e71a",
+      "id": "c77b8af4477b",
+      "priority": 1,
+      "group": "8e0c1406feef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Teams",
+      "meaningInSourceLanguage": "Teams",
+      "id": "42b67f3cc185",
+      "priority": 0,
+      "group": "06950a2cb739"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Teams",
+      "meaning": "Teams",
+      "audio": "89c892fddcd14f0496a4472b5b151b83",
+      "id": "a73aa53d5bb3",
+      "priority": 1,
+      "group": "06950a2cb739"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Zoom",
+      "meaningInSourceLanguage": "Zoom",
+      "id": "4098975dc10b",
+      "priority": 0,
+      "group": "27ff5da37783"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Zoom",
+      "meaning": "Zoom",
+      "audio": "6b043236e6b0473b95211a1446666930",
+      "id": "903bcccece39",
+      "priority": 1,
+      "group": "27ff5da37783"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meeting",
+      "meaningInSourceLanguage": "会议",
+      "id": "4552c873ceac",
+      "priority": 0,
+      "group": "5d25587367ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meeting",
+      "meaning": "会议",
+      "audio": "6a99a980b72a48639cf9a895df641b37",
+      "id": "259eab850dbb",
+      "priority": 1,
+      "group": "5d25587367ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pair programming",
+      "meaningInSourceLanguage": "结对编程",
+      "id": "a958dd0847cc",
+      "priority": 0,
+      "group": "5af385732dd0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pair programming",
+      "meaning": "结对编程",
+      "audio": "a25055d0ac29450282aacd8f92e5612b",
+      "id": "39bac770fe4d",
+      "priority": 1,
+      "group": "5af385732dd0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "code review",
+      "meaningInSourceLanguage": "代码审查",
+      "id": "f3a438862d19",
+      "priority": 0,
+      "group": "82adf41c7809"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "code review",
+      "meaning": "代码审查",
+      "audio": "326199f5c13e4497a0d35cb4efe3c843",
+      "id": "6daafd6f4117",
+      "priority": 1,
+      "group": "82adf41c7809"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pull request",
+      "meaningInSourceLanguage": "拉取请求",
+      "id": "f6eb5a950d9b",
+      "priority": 0,
+      "group": "a875c08b7a81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pull request",
+      "meaning": "拉取请求",
+      "audio": "717c3942f2ef44a793c87fdb9d169c5a",
+      "id": "e141e647619c",
+      "priority": 1,
+      "group": "a875c08b7a81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "issue tracker",
+      "meaningInSourceLanguage": "问题跟踪",
+      "id": "80e63df46c2a",
+      "priority": 0,
+      "group": "25862688d764"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "issue tracker",
+      "meaning": "问题跟踪",
+      "audio": "627c5a55f6b445b88fe59b8ed97a48b6",
+      "id": "d3ee37f743e2",
+      "priority": 1,
+      "group": "25862688d764"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roadmap",
+      "meaningInSourceLanguage": "路线图",
+      "id": "ff38eec356fa",
+      "priority": 0,
+      "group": "91cf06ca626e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roadmap",
+      "meaning": "路线图",
+      "audio": "85dd92a46fdb491e8a5dd5107bfa3538",
+      "id": "08f823d37e70",
+      "priority": 1,
+      "group": "91cf06ca626e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sprint",
+      "meaningInSourceLanguage": "冲刺",
+      "id": "f76534b7a15b",
+      "priority": 0,
+      "group": "15f62f4a823b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sprint",
+      "meaning": "冲刺",
+      "audio": "b604db165a5d42edb11a679e22e174e3",
+      "id": "9ccfb033f6c8",
+      "priority": 1,
+      "group": "15f62f4a823b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "standup",
+      "meaningInSourceLanguage": "每日站会",
+      "id": "1e7142a477e0",
+      "priority": 0,
+      "group": "8018b794f3c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "standup",
+      "meaning": "每日站会",
+      "audio": "73e714c7998b47ea8bac47719cd58cc7",
+      "id": "bfb5c187e0c2",
+      "priority": 1,
+      "group": "8018b794f3c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "retro",
+      "meaningInSourceLanguage": "回顾会议",
+      "id": "0b15565d359a",
+      "priority": 0,
+      "group": "8996bfafec64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retro",
+      "meaning": "回顾会议",
+      "audio": "7aa0dc94ca7d41fc9a698e8e455e4424",
+      "id": "eee40a93c51a",
+      "priority": 1,
+      "group": "8996bfafec64"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tech stack",
+      "meaningInSourceLanguage": "技术栈",
+      "id": "48b02ffc9f63",
+      "priority": 0,
+      "group": "44aa660ca663"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tech stack",
+      "meaning": "技术栈",
+      "audio": "e8f00a3d0ceb467fae1b3b15147dcdb5",
+      "id": "f04087506447",
+      "priority": 1,
+      "group": "44aa660ca663"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legacy code",
+      "meaningInSourceLanguage": "遗留代码",
+      "id": "e3344aa82a38",
+      "priority": 0,
+      "group": "1a20205cab56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legacy code",
+      "meaning": "遗留代码",
+      "audio": "d42c216d08dc47a286a2bff39714e858",
+      "id": "267bbe3d0e06",
+      "priority": 1,
+      "group": "1a20205cab56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "refactor",
+      "meaningInSourceLanguage": "重构",
+      "id": "c5b0da6cb50b",
+      "priority": 0,
+      "group": "453920302705"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "refactor",
+      "meaning": "重构",
+      "audio": "389039efd58d436a9bda39c19e6fb340",
+      "id": "2f28db717770",
+      "priority": 1,
+      "group": "453920302705"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "technical debt",
+      "meaningInSourceLanguage": "技术债务",
+      "id": "1d52481f3517",
+      "priority": 0,
+      "group": "36f63a2ff0b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "technical debt",
+      "meaning": "技术债务",
+      "audio": "2c24478682bb4cc88570818dcee73674",
+      "id": "9e1f00f19247",
+      "priority": 1,
+      "group": "36f63a2ff0b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scalable",
+      "meaningInSourceLanguage": "可扩展的",
+      "id": "c1c88f7f641b",
+      "priority": 0,
+      "group": "3cc6f59efe8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scalable",
+      "meaning": "可扩展的",
+      "audio": "fcf8a0bac7a743ddb18d4e9ca570dc78",
+      "id": "ed16c78906cc",
+      "priority": 1,
+      "group": "3cc6f59efe8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reliable",
+      "meaningInSourceLanguage": "可靠的",
+      "id": "e469c411a6bd",
+      "priority": 0,
+      "group": "216e11e4a2f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reliable",
+      "meaning": "可靠的",
+      "audio": "f513d77331034ce7b82862a782cc8739",
+      "id": "9f2c1cd5db8d",
+      "priority": 1,
+      "group": "216e11e4a2f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "maintainable",
+      "meaningInSourceLanguage": "可维护的",
+      "id": "629a0902a8cf",
+      "priority": 0,
+      "group": "38b42ff88e20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maintainable",
+      "meaning": "可维护的",
+      "audio": "c4e87c4088db4d5aa0422d2ce88c93bb",
+      "id": "6f38d1130851",
+      "priority": 1,
+      "group": "38b42ff88e20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "portable",
+      "meaningInSourceLanguage": "可移植的",
+      "id": "2e301269e069",
+      "priority": 0,
+      "group": "71998baad94c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "portable",
+      "meaning": "可移植的",
+      "audio": "48fb4be4363545188f4cea8fbafd3337",
+      "id": "467cec5d6077",
+      "priority": 1,
+      "group": "71998baad94c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "responsive",
+      "meaningInSourceLanguage": "响应式的",
+      "id": "d282d5248846",
+      "priority": 0,
+      "group": "f8d75a939488"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "responsive",
+      "meaning": "响应式的",
+      "audio": "aba386fa381448a3b64df66749463cd8",
+      "id": "8a5a8b4794a9",
+      "priority": 1,
+      "group": "f8d75a939488"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accessible",
+      "meaningInSourceLanguage": "无障碍的",
+      "id": "53e323134844",
+      "priority": 0,
+      "group": "965e49aaec72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accessible",
+      "meaning": "无障碍的",
+      "audio": "9f9157501eee4dafa94efed65c9c5ef8",
+      "id": "86d572bf0e27",
+      "priority": 1,
+      "group": "965e49aaec72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "localization",
+      "meaningInSourceLanguage": "本地化",
+      "id": "102966067bd1",
+      "priority": 0,
+      "group": "bd1dfdb3e301"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "localization",
+      "meaning": "本地化",
+      "audio": "e97bd859abab42a290d3c68a367e0b3c",
+      "id": "ea909c000f5b",
+      "priority": 1,
+      "group": "bd1dfdb3e301"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "internationalization",
+      "meaningInSourceLanguage": "国际化",
+      "id": "426bff1d0a11",
+      "priority": 0,
+      "group": "d1be3bb37a3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "internationalization",
+      "meaning": "国际化",
+      "audio": "44ec7722969d40b78c7d6462f4049474",
+      "id": "492d46c92f03",
+      "priority": 1,
+      "group": "d1be3bb37a3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "authentication",
+      "meaningInSourceLanguage": "认证",
+      "id": "cdd8e17a477b",
+      "priority": 0,
+      "group": "7e1df0730362"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "authentication",
+      "meaning": "认证",
+      "audio": "dd0a8c841b364c75a34082c315b710d3",
+      "id": "6a1f5acfb218",
+      "priority": 1,
+      "group": "7e1df0730362"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "authorization",
+      "meaningInSourceLanguage": "授权",
+      "id": "acfa34662f77",
+      "priority": 0,
+      "group": "aa0c4ad62910"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "authorization",
+      "meaning": "授权",
+      "audio": "4ea79220d994424eacf3aee473c65fb8",
+      "id": "7b9dc3ab56b6",
+      "priority": 1,
+      "group": "aa0c4ad62910"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "OAuth",
+      "meaningInSourceLanguage": "OAuth",
+      "id": "f3bbbf315b94",
+      "priority": 0,
+      "group": "393f5650a692"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "OAuth",
+      "meaning": "OAuth",
+      "audio": "6a3fca64c49d4450a15ec10a338146fe",
+      "id": "39d7d91a3dc3",
+      "priority": 1,
+      "group": "393f5650a692"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "JWT",
+      "meaningInSourceLanguage": "JWT",
+      "id": "612b3fe96603",
+      "priority": 0,
+      "group": "5f54b7ebe93c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "JWT",
+      "meaning": "JWT",
+      "audio": "eb56cad5d7bc4b6295384f1c3c2121a7",
+      "id": "bd11d1a7a72e",
+      "priority": 1,
+      "group": "5f54b7ebe93c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "session",
+      "meaningInSourceLanguage": "会话",
+      "id": "fc454f3a283a",
+      "priority": 0,
+      "group": "d0c07d41bd75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "session",
+      "meaning": "会话",
+      "audio": "f5c8b050cc01488083d3034207de0e52",
+      "id": "f81be8d0dbee",
+      "priority": 1,
+      "group": "d0c07d41bd75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cookie",
+      "meaningInSourceLanguage": "Cookie",
+      "id": "eb7bbaf8701c",
+      "priority": 0,
+      "group": "98a1648cb96f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cookie",
+      "meaning": "Cookie",
+      "audio": "e8f4a08ce6ea4995878467d26e877c13",
+      "id": "5abe5bc0120a",
+      "priority": 1,
+      "group": "98a1648cb96f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "token",
+      "meaningInSourceLanguage": "令牌",
+      "id": "9dd3bb8028e5",
+      "priority": 0,
+      "group": "81de1a6d6125"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "token",
+      "meaning": "令牌",
+      "audio": "3f3c4fa787d441b6bf18974e284da477",
+      "id": "260fc472412f",
+      "priority": 1,
+      "group": "81de1a6d6125"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "SSO",
+      "meaningInSourceLanguage": "单点登录",
+      "id": "8c80d869f612",
+      "priority": 0,
+      "group": "68e36ed3094b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "SSO",
+      "meaning": "单点登录",
+      "audio": "2eff90a34e8242a3938162728bc3ddfb",
+      "id": "625f5331642e",
+      "priority": 1,
+      "group": "68e36ed3094b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "data breach",
+      "meaningInSourceLanguage": "数据泄露",
+      "id": "6b34befd9c6f",
+      "priority": 0,
+      "group": "e5a2d129c620"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "data breach",
+      "meaning": "数据泄露",
+      "audio": "0a9ba173f52542baa6dce8238a1c5b2b",
+      "id": "0b398ca3c596",
+      "priority": 1,
+      "group": "e5a2d129c620"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vulnerability",
+      "meaningInSourceLanguage": "漏洞",
+      "id": "0633ce1b466d",
+      "priority": 0,
+      "group": "377a056ca96a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vulnerability",
+      "meaning": "漏洞",
+      "audio": "21a4b58fdcc9494888513e0f720cff37",
+      "id": "4363dad83435",
+      "priority": 1,
+      "group": "377a056ca96a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "patch",
+      "meaningInSourceLanguage": "补丁",
+      "id": "9931c326a99a",
+      "priority": 0,
+      "group": "11854a3200d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "patch",
+      "meaning": "补丁",
+      "audio": "177a73ad907b4a08aa500ab187f0291d",
+      "id": "83654de29dbf",
+      "priority": 1,
+      "group": "11854a3200d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exploit",
+      "meaningInSourceLanguage": "利用",
+      "id": "f876295a869f",
+      "priority": 0,
+      "group": "76b1b387266a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exploit",
+      "meaning": "利用",
+      "audio": "444df669bd664b30b674d108524f667f",
+      "id": "25339aa972c6",
+      "priority": 1,
+      "group": "76b1b387266a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ransomware",
+      "meaningInSourceLanguage": "勒索软件",
+      "id": "38702bc0b9c9",
+      "priority": 0,
+      "group": "27fe07dd8c91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ransomware",
+      "meaning": "勒索软件",
+      "audio": "73809a3603504c8893afa0def9182783",
+      "id": "7c6f66057460",
+      "priority": 1,
+      "group": "27fe07dd8c91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "phishing",
+      "meaningInSourceLanguage": "钓鱼",
+      "id": "707304a2b23a",
+      "priority": 0,
+      "group": "f102b40266ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "phishing",
+      "meaning": "钓鱼",
+      "audio": "3a52059e71164e8ab3452a12b8b0954f",
+      "id": "934272a7963d",
+      "priority": 1,
+      "group": "f102b40266ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spam",
+      "meaningInSourceLanguage": "垃圾邮件",
+      "id": "646edae68a6c",
+      "priority": 0,
+      "group": "bdde4fd5973f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spam",
+      "meaning": "垃圾邮件",
+      "audio": "e7cb2ee5cd644186b296c9f880da5cab",
+      "id": "5692bb2a2b34",
+      "priority": 1,
+      "group": "bdde4fd5973f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "adware",
+      "meaningInSourceLanguage": "广告软件",
+      "id": "5210e1338f31",
+      "priority": 0,
+      "group": "b5383c4e1417"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "adware",
+      "meaning": "广告软件",
+      "audio": "e7cc928b49a9472bae35a51bdc9c7a67",
+      "id": "d58285013604",
+      "priority": 1,
+      "group": "b5383c4e1417"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trojan",
+      "meaningInSourceLanguage": "木马",
+      "id": "0673ecf7a25b",
+      "priority": 0,
+      "group": "535c15951095"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trojan",
+      "meaning": "木马",
+      "audio": "d0d747cf121443efb56e0b2bee804d07",
+      "id": "9941e0cc18a3",
+      "priority": 1,
+      "group": "535c15951095"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "worm",
+      "meaningInSourceLanguage": "蠕虫",
+      "id": "c6d470b57b73",
+      "priority": 0,
+      "group": "946863b515f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "worm",
+      "meaning": "蠕虫",
+      "audio": "eb8dea7e1fc246e48aa663f1ffb4e336",
+      "id": "db06539c4b10",
+      "priority": 1,
+      "group": "946863b515f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "botnet",
+      "meaningInSourceLanguage": "僵尸网络",
+      "id": "e6af64d866bb",
+      "priority": 0,
+      "group": "a8813965d121"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "botnet",
+      "meaning": "僵尸网络",
+      "audio": "f24bb156e62a4ce1b3a7df7d463a1e6b",
+      "id": "b5b8403229e4",
+      "priority": 1,
+      "group": "a8813965d121"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "DDoS",
+      "meaningInSourceLanguage": "分布式拒绝服务",
+      "id": "e52a9f9927e5",
+      "priority": 0,
+      "group": "528bc396663b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "DDoS",
+      "meaning": "分布式拒绝服务",
+      "audio": "81c29f5d998f424dbfaa2ef280ec577c",
+      "id": "ab3f4d5d8092",
+      "priority": 1,
+      "group": "528bc396663b"
+    }
+  ]
+}

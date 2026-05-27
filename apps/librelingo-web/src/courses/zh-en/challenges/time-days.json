@@ -1,0 +1,2420 @@
+{
+  "id": "3608cc74cb09",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Monday",
+      "meaningInSourceLanguage": "星期一",
+      "id": "de39c1f87509",
+      "priority": 0,
+      "group": "91a0173a383b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Monday",
+      "meaning": "星期一",
+      "audio": "b078a075b44546aeab5787a9c1fded9a",
+      "id": "1e69f772972a",
+      "priority": 1,
+      "group": "91a0173a383b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tuesday",
+      "meaningInSourceLanguage": "星期二",
+      "id": "14fc5bee6ae3",
+      "priority": 0,
+      "group": "b4882793fb2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tuesday",
+      "meaning": "星期二",
+      "audio": "beee45f8fb0d42acafbdea8afacd87bc",
+      "id": "428a4f6c30e6",
+      "priority": 1,
+      "group": "b4882793fb2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wednesday",
+      "meaningInSourceLanguage": "星期三",
+      "id": "c3a1c7da2aef",
+      "priority": 0,
+      "group": "e4e03ba8b766"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wednesday",
+      "meaning": "星期三",
+      "audio": "5f780ac7ab694ec49a39acc3534e1477",
+      "id": "2c6349f2b925",
+      "priority": 1,
+      "group": "e4e03ba8b766"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thursday",
+      "meaningInSourceLanguage": "星期四",
+      "id": "4f1571b22dd8",
+      "priority": 0,
+      "group": "4530559c8c91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thursday",
+      "meaning": "星期四",
+      "audio": "c4f94b11fe3e44d699751e8d197949a6",
+      "id": "a7ac22122efa",
+      "priority": 1,
+      "group": "4530559c8c91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Friday",
+      "meaningInSourceLanguage": "星期五",
+      "id": "dcaab12de01c",
+      "priority": 0,
+      "group": "09f817c2e5eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Friday",
+      "meaning": "星期五",
+      "audio": "1732d0085e5445e6aad60cc000ecfa09",
+      "id": "6f10832a7207",
+      "priority": 1,
+      "group": "09f817c2e5eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Saturday",
+      "meaningInSourceLanguage": "星期六",
+      "id": "ad027d664a7a",
+      "priority": 0,
+      "group": "614342943370"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Saturday",
+      "meaning": "星期六",
+      "audio": "7dd998131c054f79bafcdb84e152e8d7",
+      "id": "5180f8d446e0",
+      "priority": 1,
+      "group": "614342943370"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sunday",
+      "meaningInSourceLanguage": "星期天",
+      "id": "32df0d462ed0",
+      "priority": 0,
+      "group": "47b6c7057cde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sunday",
+      "meaning": "星期天",
+      "audio": "4359295a8f754f5b985e17d87c90bf18",
+      "id": "df1b2e8347b1",
+      "priority": 1,
+      "group": "47b6c7057cde"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weekday",
+      "meaningInSourceLanguage": "工作日",
+      "id": "f7136f6b298b",
+      "priority": 0,
+      "group": "d72dc568dbd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weekday",
+      "meaning": "工作日",
+      "audio": "1ba6327413fa47b09523afa285fe4597",
+      "id": "cc20c42ea4a6",
+      "priority": 1,
+      "group": "d72dc568dbd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weekend",
+      "meaningInSourceLanguage": "周末",
+      "id": "8c31e0abc56c",
+      "priority": 0,
+      "group": "b682f32694e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weekend",
+      "meaning": "周末",
+      "audio": "c9bada65c4c44e31a27a72247509b28f",
+      "id": "2348785ddb75",
+      "priority": 1,
+      "group": "b682f32694e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "today",
+      "meaningInSourceLanguage": "今天",
+      "id": "9fc0a8d38103",
+      "priority": 0,
+      "group": "30be55774b2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "today",
+      "meaning": "今天",
+      "audio": "1431fbb6188a4c59816a66fb77d4744d",
+      "id": "0548605359a1",
+      "priority": 1,
+      "group": "30be55774b2f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yesterday",
+      "meaningInSourceLanguage": "昨天",
+      "id": "b9d437791c92",
+      "priority": 0,
+      "group": "d85569485691"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yesterday",
+      "meaning": "昨天",
+      "audio": "8562d69bb9a543e7b91a0b7a82d6e9b8",
+      "id": "c4e4f6bae8c5",
+      "priority": 1,
+      "group": "d85569485691"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tomorrow",
+      "meaningInSourceLanguage": "明天",
+      "id": "58d7fdbd88b8",
+      "priority": 0,
+      "group": "05663562ce05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tomorrow",
+      "meaning": "明天",
+      "audio": "a96c947d1dd14f47bae5a8e0009589e8",
+      "id": "898fda95df70",
+      "priority": 1,
+      "group": "05663562ce05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "day",
+      "meaningInSourceLanguage": "天",
+      "id": "7f7399575938",
+      "priority": 0,
+      "group": "6346788936c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "day",
+      "meaning": "天",
+      "audio": "ff069fbf69d84292996b16dac89e45a3",
+      "id": "75e0b9b02982",
+      "priority": 1,
+      "group": "6346788936c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "night",
+      "meaningInSourceLanguage": "晚上",
+      "id": "b848e4ca24ba",
+      "priority": 0,
+      "group": "160f32a10667"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "night",
+      "meaning": "晚上",
+      "audio": "a58a3802ff404249b148786e25bc4e7f",
+      "id": "b5f984b24eb2",
+      "priority": 1,
+      "group": "160f32a10667"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "morning",
+      "meaningInSourceLanguage": "早上",
+      "id": "c4b99ccbb521",
+      "priority": 0,
+      "group": "90ac9200624c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "morning",
+      "meaning": "早上",
+      "audio": "7ad2adfe8e0a4841bccc3d471407c60d",
+      "id": "0b0dc2602aed",
+      "priority": 1,
+      "group": "90ac9200624c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "afternoon",
+      "meaningInSourceLanguage": "下午",
+      "id": "f8e016036ed0",
+      "priority": 0,
+      "group": "433becbb4014"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "afternoon",
+      "meaning": "下午",
+      "audio": "10d50a8e8c9a4d3ba035505c30916580",
+      "id": "a46476cf6146",
+      "priority": 1,
+      "group": "433becbb4014"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "evening",
+      "meaningInSourceLanguage": "傍晚",
+      "id": "53502e4fb0c3",
+      "priority": 0,
+      "group": "8d64a6e14d3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "evening",
+      "meaning": "傍晚",
+      "audio": "14d07ff1db144fa3bb614ed0570ac7cf",
+      "id": "cfc77068dd2d",
+      "priority": 1,
+      "group": "8d64a6e14d3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "noon",
+      "meaningInSourceLanguage": "中午",
+      "id": "14c21d59a1d3",
+      "priority": 0,
+      "group": "74fa84063442"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "noon",
+      "meaning": "中午",
+      "audio": "42d3c9e3a7d9425d801f63975eeb4032",
+      "id": "e1cf12e1c867",
+      "priority": 1,
+      "group": "74fa84063442"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "midnight",
+      "meaningInSourceLanguage": "午夜",
+      "id": "da0dc845509b",
+      "priority": 0,
+      "group": "7d4066ff10cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "midnight",
+      "meaning": "午夜",
+      "audio": "6033c84413a44b83ba631fbdba7240fa",
+      "id": "8f86ed5aa707",
+      "priority": 1,
+      "group": "7d4066ff10cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dawn",
+      "meaningInSourceLanguage": "黎明",
+      "id": "fb0b6d73a8e7",
+      "priority": 0,
+      "group": "fafaad13748a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dawn",
+      "meaning": "黎明",
+      "audio": "60d4e7b4fdc244f1886bc6abd93e1427",
+      "id": "aff6e9cd9bc4",
+      "priority": 1,
+      "group": "fafaad13748a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dusk",
+      "meaningInSourceLanguage": "黄昏",
+      "id": "1f012c69d189",
+      "priority": 0,
+      "group": "5a897a336190"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dusk",
+      "meaning": "黄昏",
+      "audio": "8339876d957c474eb61150b8c2e7e8f8",
+      "id": "c3688eb6cc3f",
+      "priority": 1,
+      "group": "5a897a336190"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "now",
+      "meaningInSourceLanguage": "现在",
+      "id": "7f139f1a6177",
+      "priority": 0,
+      "group": "e360f4b1f629"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "now",
+      "meaning": "现在",
+      "audio": "8eb7d478790e425eaf9dc746e965f47b",
+      "id": "9c404204c408",
+      "priority": 1,
+      "group": "e360f4b1f629"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "later",
+      "meaningInSourceLanguage": "稍后",
+      "id": "c3720b7dc583",
+      "priority": 0,
+      "group": "9664bd44a049"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "later",
+      "meaning": "稍后",
+      "audio": "4db1672057214aabb3d5194b0e86cf58",
+      "id": "1adba97e0d66",
+      "priority": 1,
+      "group": "9664bd44a049"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soon",
+      "meaningInSourceLanguage": "很快",
+      "id": "4f25c23b1f96",
+      "priority": 0,
+      "group": "cd1a15a44d67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soon",
+      "meaning": "很快",
+      "audio": "7aa36ba2a1f14b10b66828a4a4aa2347",
+      "id": "4409527fb0b0",
+      "priority": 1,
+      "group": "cd1a15a44d67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "early",
+      "meaningInSourceLanguage": "早",
+      "id": "6358b25aaaf7",
+      "priority": 0,
+      "group": "2854e24ece89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "early",
+      "meaning": "早",
+      "audio": "9eb12bd9ecee482ba006884d83c3c2dc",
+      "id": "8409f66da450",
+      "priority": 1,
+      "group": "2854e24ece89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "late",
+      "meaningInSourceLanguage": "晚",
+      "id": "d9d7afaa158f",
+      "priority": 0,
+      "group": "a3919562cef9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "late",
+      "meaning": "晚",
+      "audio": "fc8ec167592d43aebfb4ac63997543a5",
+      "id": "06bac65177db",
+      "priority": 1,
+      "group": "a3919562cef9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "before",
+      "meaningInSourceLanguage": "之前",
+      "id": "bc07e19a7409",
+      "priority": 0,
+      "group": "b3f561555475"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "before",
+      "meaning": "之前",
+      "audio": "e147bb5adb95459da96c49ccec57f4b8",
+      "id": "def302d80e8c",
+      "priority": 1,
+      "group": "b3f561555475"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "after",
+      "meaningInSourceLanguage": "之后",
+      "id": "3bde5da05eb2",
+      "priority": 0,
+      "group": "2b17dfe493c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "after",
+      "meaning": "之后",
+      "audio": "e8bf096a757e4393ba63414aaccfe4a0",
+      "id": "3113489a0204",
+      "priority": 1,
+      "group": "2b17dfe493c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "during",
+      "meaningInSourceLanguage": "期间",
+      "id": "6fff1696643c",
+      "priority": 0,
+      "group": "f8a6e873e9d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "during",
+      "meaning": "期间",
+      "audio": "aa7f83db49264135a39915fcd804f04e",
+      "id": "7b9eb8cfeb39",
+      "priority": 1,
+      "group": "f8a6e873e9d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "while",
+      "meaningInSourceLanguage": "当...的时候",
+      "id": "6feb393d4ede",
+      "priority": 0,
+      "group": "e2b19a351d25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "while",
+      "meaning": "当...的时候",
+      "audio": "c180ad8665a545c5b4de65e5465d1edf",
+      "id": "97efe0de06a3",
+      "priority": 1,
+      "group": "e2b19a351d25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "January",
+      "meaningInSourceLanguage": "一月",
+      "id": "94f85e74bcc0",
+      "priority": 0,
+      "group": "ec79129c6fb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "January",
+      "meaning": "一月",
+      "audio": "a5becac30dd44a3cb8ca40d56da1fb70",
+      "id": "08c0772040e4",
+      "priority": 1,
+      "group": "ec79129c6fb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "February",
+      "meaningInSourceLanguage": "二月",
+      "id": "738397ae575f",
+      "priority": 0,
+      "group": "427f30ce5478"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "February",
+      "meaning": "二月",
+      "audio": "723334cc7fff43d985e3ee0ad55f1c7a",
+      "id": "6395dde6eefb",
+      "priority": 1,
+      "group": "427f30ce5478"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "March",
+      "meaningInSourceLanguage": "三月",
+      "id": "3a9d383045a2",
+      "priority": 0,
+      "group": "28f1506f3196"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "March",
+      "meaning": "三月",
+      "audio": "3592a9bfbe3549eb9c53aeaade5a743a",
+      "id": "b7368e4abdc1",
+      "priority": 1,
+      "group": "28f1506f3196"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "April",
+      "meaningInSourceLanguage": "四月",
+      "id": "8e8186c251ef",
+      "priority": 0,
+      "group": "1ee41d024172"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "April",
+      "meaning": "四月",
+      "audio": "20570058b78f43c28268450746135be6",
+      "id": "39c2a5be99b2",
+      "priority": 1,
+      "group": "1ee41d024172"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "May",
+      "meaningInSourceLanguage": "五月",
+      "id": "14ecf42fe7e5",
+      "priority": 0,
+      "group": "3bf93615bc94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "May",
+      "meaning": "五月",
+      "audio": "076cfcd06e7048b38ccd5f66ddc4125f",
+      "id": "a353fa654e6d",
+      "priority": 1,
+      "group": "3bf93615bc94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "June",
+      "meaningInSourceLanguage": "六月",
+      "id": "7806cce06209",
+      "priority": 0,
+      "group": "ef15c363c3e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "June",
+      "meaning": "六月",
+      "audio": "61e80ff1dc1c4471b88930a5c7527f1b",
+      "id": "3dbf5d4deece",
+      "priority": 1,
+      "group": "ef15c363c3e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "July",
+      "meaningInSourceLanguage": "七月",
+      "id": "fb47fe682603",
+      "priority": 0,
+      "group": "544116e7f430"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "July",
+      "meaning": "七月",
+      "audio": "49df576aacf3486b88c30776150ad06d",
+      "id": "281d4aa7ba9a",
+      "priority": 1,
+      "group": "544116e7f430"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "August",
+      "meaningInSourceLanguage": "八月",
+      "id": "d67f1a3a46a2",
+      "priority": 0,
+      "group": "01526e138bd6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "August",
+      "meaning": "八月",
+      "audio": "1a77463eb66243099581024e67b0266d",
+      "id": "c699840318fa",
+      "priority": 1,
+      "group": "01526e138bd6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "September",
+      "meaningInSourceLanguage": "九月",
+      "id": "e99cc07b4af1",
+      "priority": 0,
+      "group": "44b6949e4f1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "September",
+      "meaning": "九月",
+      "audio": "7a229dc337c14167846428391b4ec092",
+      "id": "72cb8c07d6d1",
+      "priority": 1,
+      "group": "44b6949e4f1d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "October",
+      "meaningInSourceLanguage": "十月",
+      "id": "b3e0fd7cb1af",
+      "priority": 0,
+      "group": "7dba728ea5cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "October",
+      "meaning": "十月",
+      "audio": "f212d38d1ca947879c0c03f90a99a51e",
+      "id": "f9c87091d32c",
+      "priority": 1,
+      "group": "7dba728ea5cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "November",
+      "meaningInSourceLanguage": "十一月",
+      "id": "9c8cbfcba04d",
+      "priority": 0,
+      "group": "e856df3e72c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "November",
+      "meaning": "十一月",
+      "audio": "1612207f1ad743689df09ec97909f9db",
+      "id": "10df1709ab0a",
+      "priority": 1,
+      "group": "e856df3e72c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "December",
+      "meaningInSourceLanguage": "十二月",
+      "id": "068c8f81b4ef",
+      "priority": 0,
+      "group": "e94ff9463779"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "December",
+      "meaning": "十二月",
+      "audio": "756ce933e62e4edab5813f9d5247b8b7",
+      "id": "d434d9a7076c",
+      "priority": 1,
+      "group": "e94ff9463779"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spring",
+      "meaningInSourceLanguage": "春天",
+      "id": "c3c19d17a4aa",
+      "priority": 0,
+      "group": "3da0d0ebbfba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spring",
+      "meaning": "春天",
+      "audio": "ff1728fe9f944e5a848f2571c9bc45f2",
+      "id": "119c2208bff8",
+      "priority": 1,
+      "group": "3da0d0ebbfba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "summer",
+      "meaningInSourceLanguage": "夏天",
+      "id": "6c4d918efaaa",
+      "priority": 0,
+      "group": "701705d6e502"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "summer",
+      "meaning": "夏天",
+      "audio": "1ef9443ed33c4a6d9e93e02582b1af76",
+      "id": "062d4ee53c83",
+      "priority": 1,
+      "group": "701705d6e502"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "autumn",
+      "meaningInSourceLanguage": "秋天",
+      "id": "43554d679dab",
+      "priority": 0,
+      "group": "eae948d93b3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "autumn",
+      "meaning": "秋天",
+      "audio": "51dc6ac8389644619ad30f0f09e2e890",
+      "id": "cb07b439fdb2",
+      "priority": 1,
+      "group": "eae948d93b3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "winter",
+      "meaningInSourceLanguage": "冬天",
+      "id": "8317c0cfcbf5",
+      "priority": 0,
+      "group": "5c9e772d96a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "winter",
+      "meaning": "冬天",
+      "audio": "1676a641376a4ecc94885ec04a660353",
+      "id": "c8ce963dd2bd",
+      "priority": 1,
+      "group": "5c9e772d96a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "season",
+      "meaningInSourceLanguage": "季节",
+      "id": "c667367d3c2b",
+      "priority": 0,
+      "group": "dca560cf238b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "season",
+      "meaning": "季节",
+      "audio": "81f79fcd6d794d5d84b4c1b4751036f5",
+      "id": "6e090df3dca8",
+      "priority": 1,
+      "group": "dca560cf238b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "month",
+      "meaningInSourceLanguage": "月",
+      "id": "9308df2c6f17",
+      "priority": 0,
+      "group": "a60d93facd3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "month",
+      "meaning": "月",
+      "audio": "b75575ad536a4847953aeca2e62ab678",
+      "id": "81ae63748735",
+      "priority": 1,
+      "group": "a60d93facd3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "year",
+      "meaningInSourceLanguage": "年",
+      "id": "0e278c600df8",
+      "priority": 0,
+      "group": "8dd328d755a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "year",
+      "meaning": "年",
+      "audio": "091da7865d3345dc8a78230012a03417",
+      "id": "afe01aa39547",
+      "priority": 1,
+      "group": "8dd328d755a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "week",
+      "meaningInSourceLanguage": "周",
+      "id": "e2eeeae64020",
+      "priority": 0,
+      "group": "ef6588b90d8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "week",
+      "meaning": "周",
+      "audio": "bfe078dcfcea4e04a543bec045e8ac9f",
+      "id": "3cdb4d8d3fec",
+      "priority": 1,
+      "group": "ef6588b90d8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hour",
+      "meaningInSourceLanguage": "小时",
+      "id": "5f22267fde44",
+      "priority": 0,
+      "group": "0546fe632fc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hour",
+      "meaning": "小时",
+      "audio": "08bd62a25d2e405fb434b0c936304887",
+      "id": "72e7830cab36",
+      "priority": 1,
+      "group": "0546fe632fc7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "minute",
+      "meaningInSourceLanguage": "分钟",
+      "id": "5d39e5b45d4a",
+      "priority": 0,
+      "group": "c29415b6de23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "minute",
+      "meaning": "分钟",
+      "audio": "ad474b7e959845fa8d36a465183523a1",
+      "id": "1e8fd4899151",
+      "priority": 1,
+      "group": "c29415b6de23"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "second",
+      "meaningInSourceLanguage": "秒",
+      "id": "2cbd8f5acee1",
+      "priority": 0,
+      "group": "bff1ace4cf57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "second",
+      "meaning": "秒",
+      "audio": "35f007d0e16c4dc1ba8971f97d6b07d4",
+      "id": "8dd5297c3913",
+      "priority": 1,
+      "group": "bff1ace4cf57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "century",
+      "meaningInSourceLanguage": "世纪",
+      "id": "8d419ec26ce2",
+      "priority": 0,
+      "group": "78f4d14d8cc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "century",
+      "meaning": "世纪",
+      "audio": "f0d382b1d1484bb89bc547fe7a0c0192",
+      "id": "92c4edaf3b4f",
+      "priority": 1,
+      "group": "78f4d14d8cc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "decade",
+      "meaningInSourceLanguage": "十年",
+      "id": "236ff1990ab9",
+      "priority": 0,
+      "group": "0e1461a219ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "decade",
+      "meaning": "十年",
+      "audio": "8f2a87b15c9e4976b9facd3c700dd75e",
+      "id": "cbaf3673265a",
+      "priority": 1,
+      "group": "0e1461a219ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "schedule",
+      "meaningInSourceLanguage": "日程",
+      "id": "3a31e5995d2d",
+      "priority": 0,
+      "group": "b58b8d556e99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "schedule",
+      "meaning": "日程",
+      "audio": "da7d84bb7f754356beee95befa8210d0",
+      "id": "42ece7b9d45f",
+      "priority": 1,
+      "group": "b58b8d556e99"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "appointment",
+      "meaningInSourceLanguage": "预约",
+      "id": "c839d8c8ab43",
+      "priority": 0,
+      "group": "71ccdaa072a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "appointment",
+      "meaning": "预约",
+      "audio": "979c837e994647358d6c81c13c9a286f",
+      "id": "583a4ba84355",
+      "priority": 1,
+      "group": "71ccdaa072a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deadline",
+      "meaningInSourceLanguage": "截止日期",
+      "id": "4fabc78a40d1",
+      "priority": 0,
+      "group": "ffd8a916e575"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deadline",
+      "meaning": "截止日期",
+      "audio": "c174031e718c425ca07f775ac86a9cc1",
+      "id": "10d3515a4e66",
+      "priority": 1,
+      "group": "ffd8a916e575"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "delay",
+      "meaningInSourceLanguage": "延迟",
+      "id": "18c735c383c3",
+      "priority": 0,
+      "group": "13bd794d2dc6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "delay",
+      "meaning": "延迟",
+      "audio": "c7c8b09d56824192aff94e9fd769ed5d",
+      "id": "637cf4fdb2b7",
+      "priority": 1,
+      "group": "13bd794d2dc6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "on time",
+      "meaningInSourceLanguage": "准时",
+      "id": "79bc85452dea",
+      "priority": 0,
+      "group": "c6b51610241a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "on time",
+      "meaning": "准时",
+      "audio": "544a2a7a1c7d4d91ae10bfeb536ba94d",
+      "id": "133b3f680b6a",
+      "priority": 1,
+      "group": "c6b51610241a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right now",
+      "meaningInSourceLanguage": "现在",
+      "id": "d88b40a1278d",
+      "priority": 0,
+      "group": "83a852bae702"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right now",
+      "meaning": "现在",
+      "audio": "590b7954c7094bfcb0945e15b74957cf",
+      "id": "b4562ccd2317",
+      "priority": 1,
+      "group": "83a852bae702"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "immediately",
+      "meaningInSourceLanguage": "立刻",
+      "id": "5b8a3bb703a1",
+      "priority": 0,
+      "group": "1e283ece3a39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "immediately",
+      "meaning": "立刻",
+      "audio": "34d9791d2c2943bcb1e2cbd4d4ebf642",
+      "id": "2425c95cfc71",
+      "priority": 1,
+      "group": "1e283ece3a39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "frequently",
+      "meaningInSourceLanguage": "经常",
+      "id": "288544e991fc",
+      "priority": 0,
+      "group": "5c9357769396"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frequently",
+      "meaning": "经常",
+      "audio": "0fb4439bb45b4015a95f913972ec40b6",
+      "id": "c0e4017633de",
+      "priority": 1,
+      "group": "5c9357769396"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rarely",
+      "meaningInSourceLanguage": "很少",
+      "id": "0dbc993acdc1",
+      "priority": 0,
+      "group": "d9d73b1abdb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rarely",
+      "meaning": "很少",
+      "audio": "2d3414eb438145c5ab68cefc3e5180bf",
+      "id": "df7b7de381b6",
+      "priority": 1,
+      "group": "d9d73b1abdb7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "occasionally",
+      "meaningInSourceLanguage": "偶尔",
+      "id": "44cf89638131",
+      "priority": 0,
+      "group": "d1d31c1086c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "occasionally",
+      "meaning": "偶尔",
+      "audio": "784dcd179e914434bc84516c0e9cc0ae",
+      "id": "83f858e7ccb9",
+      "priority": 1,
+      "group": "d1d31c1086c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "always",
+      "meaningInSourceLanguage": "总是",
+      "id": "e39a0feec32a",
+      "priority": 0,
+      "group": "4aa46f71fb13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "always",
+      "meaning": "总是",
+      "audio": "d1f199900f3549cfa6ffc96937331c10",
+      "id": "1c4bcaf643e6",
+      "priority": 1,
+      "group": "4aa46f71fb13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "usually",
+      "meaningInSourceLanguage": "通常",
+      "id": "ec09175b37f4",
+      "priority": 0,
+      "group": "840c00c8267b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "usually",
+      "meaning": "通常",
+      "audio": "eace00ae02124651b2ab7db9765903ca",
+      "id": "b8c3283bd268",
+      "priority": 1,
+      "group": "840c00c8267b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sometimes",
+      "meaningInSourceLanguage": "有时",
+      "id": "d52222368e23",
+      "priority": 0,
+      "group": "8efebdab76f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sometimes",
+      "meaning": "有时",
+      "audio": "cbef268b633d45e59bd6fc8b204029dd",
+      "id": "879dd1420bda",
+      "priority": 1,
+      "group": "8efebdab76f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "never",
+      "meaningInSourceLanguage": "从不",
+      "id": "bb8ea2b5c31b",
+      "priority": 0,
+      "group": "735236268c9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "never",
+      "meaning": "从不",
+      "audio": "b6cde62e7c294f94a8a8936e924b8861",
+      "id": "fb8f571c5ca0",
+      "priority": 1,
+      "group": "735236268c9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "every day",
+      "meaningInSourceLanguage": "每天",
+      "id": "75217e0310f4",
+      "priority": 0,
+      "group": "e39c16ab3dd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "every day",
+      "meaning": "每天",
+      "audio": "40dd5e6eeb6042c9a9732e905d4d99c5",
+      "id": "3436c18df358",
+      "priority": 1,
+      "group": "e39c16ab3dd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "every week",
+      "meaningInSourceLanguage": "每周",
+      "id": "f9310a77e423",
+      "priority": 0,
+      "group": "9d16dfe83536"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "every week",
+      "meaning": "每周",
+      "audio": "1f3f8b804cf447cc8556f0b670b59e13",
+      "id": "d90d4004ee12",
+      "priority": 1,
+      "group": "9d16dfe83536"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "every month",
+      "meaningInSourceLanguage": "每月",
+      "id": "d2d42e9760c1",
+      "priority": 0,
+      "group": "c6cc65f1c3a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "every month",
+      "meaning": "每月",
+      "audio": "f4b2e1a767824221b080b1874949f0fa",
+      "id": "6c9d0dc10a87",
+      "priority": 1,
+      "group": "c6cc65f1c3a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "last week",
+      "meaningInSourceLanguage": "上周",
+      "id": "ebb48c7d99ba",
+      "priority": 0,
+      "group": "1d8a4eed52e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "last week",
+      "meaning": "上周",
+      "audio": "6ff4ea925e1440cbbfba81d29ee6c821",
+      "id": "5abc42a91e72",
+      "priority": 1,
+      "group": "1d8a4eed52e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "next week",
+      "meaningInSourceLanguage": "下周",
+      "id": "673afaa580d9",
+      "priority": 0,
+      "group": "cdacdb7e2524"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "next week",
+      "meaning": "下周",
+      "audio": "da818fe869d141c19e1eb3707f1b9362",
+      "id": "ccea35322705",
+      "priority": 1,
+      "group": "cdacdb7e2524"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "this week",
+      "meaningInSourceLanguage": "这周",
+      "id": "0a5a54be69d3",
+      "priority": 0,
+      "group": "abbcf1ed1162"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "this week",
+      "meaning": "这周",
+      "audio": "5bbdb65855524e3b90c96fc976b326f3",
+      "id": "bfce4f3d8b37",
+      "priority": 1,
+      "group": "abbcf1ed1162"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ago",
+      "meaningInSourceLanguage": "之前",
+      "id": "d1c19e1f7a35",
+      "priority": 0,
+      "group": "28b10f70f145"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ago",
+      "meaning": "之前",
+      "audio": "8046c8c608444f64bdc82ebc770bb2ad",
+      "id": "3b829b4864f7",
+      "priority": 1,
+      "group": "28b10f70f145"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "in the future",
+      "meaningInSourceLanguage": "将来",
+      "id": "6b498daee8e3",
+      "priority": 0,
+      "group": "df3ca93b7eb0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "in the future",
+      "meaning": "将来",
+      "audio": "33cfc3db414a4c42a68ff1d552e802c1",
+      "id": "7173816b4b80",
+      "priority": 1,
+      "group": "df3ca93b7eb0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "currently",
+      "meaningInSourceLanguage": "目前",
+      "id": "612fa1ff6137",
+      "priority": 0,
+      "group": "93b28e577112"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "currently",
+      "meaning": "目前",
+      "audio": "2661c92d5acb40289f645b711223e18c",
+      "id": "f27dee509297",
+      "priority": 1,
+      "group": "93b28e577112"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meanwhile",
+      "meaningInSourceLanguage": "与此同时",
+      "id": "fbb4bbdbc08a",
+      "priority": 0,
+      "group": "b65e6c84a9a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meanwhile",
+      "meaning": "与此同时",
+      "audio": "de1ae9879bce4ff7a4ba898385de32f2",
+      "id": "2d763fa42fe7",
+      "priority": 1,
+      "group": "b65e6c84a9a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eventually",
+      "meaningInSourceLanguage": "最终",
+      "id": "fbc848567adb",
+      "priority": 0,
+      "group": "341f543c97ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eventually",
+      "meaning": "最终",
+      "audio": "6caeec19924743cab8562e34a94c4235",
+      "id": "f056886ecd17",
+      "priority": 1,
+      "group": "341f543c97ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "finally",
+      "meaningInSourceLanguage": "最后",
+      "id": "a73c33bef453",
+      "priority": 0,
+      "group": "bad4d10bcddb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "finally",
+      "meaning": "最后",
+      "audio": "782e8edad1324a3194df098b952826e5",
+      "id": "3f45d019c79c",
+      "priority": 1,
+      "group": "bad4d10bcddb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suddenly",
+      "meaningInSourceLanguage": "突然",
+      "id": "67591dbe4dbc",
+      "priority": 0,
+      "group": "fadb9bf7df82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suddenly",
+      "meaning": "突然",
+      "audio": "80cdb827c3334479ac85de31c1dbcd54",
+      "id": "524052366975",
+      "priority": 1,
+      "group": "fadb9bf7df82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gradually",
+      "meaningInSourceLanguage": "逐渐",
+      "id": "85076370fbda",
+      "priority": 0,
+      "group": "b99437c27364"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gradually",
+      "meaning": "逐渐",
+      "audio": "248e48cdb377421c9f6527c1ccc47ca6",
+      "id": "c3158ce20de5",
+      "priority": 1,
+      "group": "b99437c27364"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hourly",
+      "meaningInSourceLanguage": "每小时",
+      "id": "d7725cf5c0b0",
+      "priority": 0,
+      "group": "2491914d2a30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hourly",
+      "meaning": "每小时",
+      "audio": "fac30110ccb8453786b6ecadd42b7882",
+      "id": "f60e5d8cb2c0",
+      "priority": 1,
+      "group": "2491914d2a30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "daily",
+      "meaningInSourceLanguage": "每天",
+      "id": "3112d7c3aa26",
+      "priority": 0,
+      "group": "2d5d927278f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "daily",
+      "meaning": "每天",
+      "audio": "44fe661fbfb6484ab3ce49716d0b8e5a",
+      "id": "837b5264d23f",
+      "priority": 1,
+      "group": "2d5d927278f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weekly",
+      "meaningInSourceLanguage": "每周",
+      "id": "d3ac496ed9fe",
+      "priority": 0,
+      "group": "dedda6378ce7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weekly",
+      "meaning": "每周",
+      "audio": "b29b7a74098f48d6a43649046a9f01e7",
+      "id": "9fd134138438",
+      "priority": 1,
+      "group": "dedda6378ce7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monthly",
+      "meaningInSourceLanguage": "每月",
+      "id": "ce360e007dd4",
+      "priority": 0,
+      "group": "42d265471e57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monthly",
+      "meaning": "每月",
+      "audio": "3317c4636ac3432aaf31e2ad7327f84a",
+      "id": "8c6830ec38c2",
+      "priority": 1,
+      "group": "42d265471e57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "annually",
+      "meaningInSourceLanguage": "每年",
+      "id": "4ee5edcc2c9f",
+      "priority": 0,
+      "group": "3a7c8c0ce92e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "annually",
+      "meaning": "每年",
+      "audio": "2f798bb85bda4123a5cc786e83bc77f9",
+      "id": "a1a5e16c6858",
+      "priority": 1,
+      "group": "3a7c8c0ce92e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clock",
+      "meaningInSourceLanguage": "时钟",
+      "id": "1ee1e3fa447a",
+      "priority": 0,
+      "group": "b42b52e536f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clock",
+      "meaning": "时钟",
+      "audio": "394743858b5046119605cae169664744",
+      "id": "91d31e11bd9b",
+      "priority": 1,
+      "group": "b42b52e536f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "alarm",
+      "meaningInSourceLanguage": "闹钟",
+      "id": "d62bb652ba88",
+      "priority": 0,
+      "group": "7a3429a48239"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "alarm",
+      "meaning": "闹钟",
+      "audio": "df1dfd7f29424942ae8fd38f76b1e32d",
+      "id": "c645000b6f15",
+      "priority": 1,
+      "group": "7a3429a48239"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calendar",
+      "meaningInSourceLanguage": "日历",
+      "id": "8c2eeae9240e",
+      "priority": 0,
+      "group": "d2b4187893ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calendar",
+      "meaning": "日历",
+      "audio": "7106f18657d14ccdaa0606dd87a9f6d7",
+      "id": "ce3222a70d1b",
+      "priority": 1,
+      "group": "d2b4187893ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "timetable",
+      "meaningInSourceLanguage": "时间表",
+      "id": "f0a7d8b7cf66",
+      "priority": 0,
+      "group": "3e824172c719"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "timetable",
+      "meaning": "时间表",
+      "audio": "691da76764274e0fa425473104b00d51",
+      "id": "3142172dd017",
+      "priority": 1,
+      "group": "3e824172c719"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stopwatch",
+      "meaningInSourceLanguage": "秒表",
+      "id": "fed6927b8562",
+      "priority": 0,
+      "group": "cba43cbabdce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stopwatch",
+      "meaning": "秒表",
+      "audio": "504247c3c2364dafa4a783114ee8b085",
+      "id": "1e0820df3155",
+      "priority": 1,
+      "group": "cba43cbabdce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sundial",
+      "meaningInSourceLanguage": "日晷",
+      "id": "5b2d0502caed",
+      "priority": 0,
+      "group": "dd8e96776003"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sundial",
+      "meaning": "日晷",
+      "audio": "86464d866bb049bfb6b3b3fddd074712",
+      "id": "ad5ccb0e4829",
+      "priority": 1,
+      "group": "dd8e96776003"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "date",
+      "meaningInSourceLanguage": "日期",
+      "id": "9a5353697be4",
+      "priority": 0,
+      "group": "a10bc02696c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "date",
+      "meaning": "日期",
+      "audio": "28eb641806ee493b9dc9f2449c6534d0",
+      "id": "73eedb1a248c",
+      "priority": 1,
+      "group": "a10bc02696c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "time",
+      "meaningInSourceLanguage": "时间",
+      "id": "5d474b898835",
+      "priority": 0,
+      "group": "0e82ada1f556"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "time",
+      "meaning": "时间",
+      "audio": "0d1d1dd619e44578a36783974dd633ab",
+      "id": "ed05f9077c93",
+      "priority": 1,
+      "group": "0e82ada1f556"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "era",
+      "meaningInSourceLanguage": "时代",
+      "id": "6191d174a05e",
+      "priority": 0,
+      "group": "1354d95e36f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "era",
+      "meaning": "时代",
+      "audio": "7a2f71240d9a4db1a2f283e53170bb68",
+      "id": "ee8d85398a84",
+      "priority": 1,
+      "group": "1354d95e36f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "period",
+      "meaningInSourceLanguage": "时期",
+      "id": "7984c2c0b125",
+      "priority": 0,
+      "group": "a380b09ff96e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "period",
+      "meaning": "时期",
+      "audio": "f5ed9db650014ee5895878482c892260",
+      "id": "4f1ef474cd81",
+      "priority": 1,
+      "group": "a380b09ff96e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "moment",
+      "meaningInSourceLanguage": "时刻",
+      "id": "9ed1254d4b22",
+      "priority": 0,
+      "group": "c0aa6c66ecdb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "moment",
+      "meaning": "时刻",
+      "audio": "baef0afe56bd433289ee05350f972870",
+      "id": "c96397f019df",
+      "priority": 1,
+      "group": "c0aa6c66ecdb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "instant",
+      "meaningInSourceLanguage": "瞬间",
+      "id": "80ea76c071f9",
+      "priority": 0,
+      "group": "efeaf29d5954"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "instant",
+      "meaning": "瞬间",
+      "audio": "838756f3d29346bf8614a44aea6ad85c",
+      "id": "c427bcd7660e",
+      "priority": 1,
+      "group": "efeaf29d5954"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "age",
+      "meaningInSourceLanguage": "年龄",
+      "id": "7f1fa04f0558",
+      "priority": 0,
+      "group": "0da465642e4d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "age",
+      "meaning": "年龄",
+      "audio": "fdb31239684243d8b999cd08654e212e",
+      "id": "f7493b56971e",
+      "priority": 1,
+      "group": "0da465642e4d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "epoch",
+      "meaningInSourceLanguage": "纪元",
+      "id": "c079e2d0a247",
+      "priority": 0,
+      "group": "1b20ca84cd98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "epoch",
+      "meaning": "纪元",
+      "audio": "680add5f713c45c1ac63f397ea939fa9",
+      "id": "556248fb6eb1",
+      "priority": 1,
+      "group": "1b20ca84cd98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "millennium",
+      "meaningInSourceLanguage": "千年",
+      "id": "466b240c47b9",
+      "priority": 0,
+      "group": "f78a9faeda77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "millennium",
+      "meaning": "千年",
+      "audio": "c85b61e9c6ee4071aaf659399aef679e",
+      "id": "c8d304700dcd",
+      "priority": 1,
+      "group": "f78a9faeda77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fortnight",
+      "meaningInSourceLanguage": "两周",
+      "id": "3be3e52ffdc9",
+      "priority": 0,
+      "group": "b1e28880e4a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fortnight",
+      "meaning": "两周",
+      "audio": "0f17466d9f5f45208bbb36b0ced0ac62",
+      "id": "7b6e4a9045a4",
+      "priority": 1,
+      "group": "b1e28880e4a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "o'clock",
+      "meaningInSourceLanguage": "点钟",
+      "id": "faee164c5144",
+      "priority": 0,
+      "group": "38d3afd8671f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o'clock",
+      "meaning": "点钟",
+      "audio": "514e4080acb145148bd5c2e4a845a0db",
+      "id": "14c10821fb85",
+      "priority": 1,
+      "group": "38d3afd8671f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quarter past",
+      "meaningInSourceLanguage": "一刻过",
+      "id": "8024dc004637",
+      "priority": 0,
+      "group": "b905511d8f8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quarter past",
+      "meaning": "一刻过",
+      "audio": "6a46dc54b92a4b499b9a53321b409df7",
+      "id": "1267688c366d",
+      "priority": 1,
+      "group": "b905511d8f8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quarter to",
+      "meaningInSourceLanguage": "差一刻",
+      "id": "4fe07d860e31",
+      "priority": 0,
+      "group": "746cbe74c540"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quarter to",
+      "meaning": "差一刻",
+      "audio": "9428882df92948e1b2da191966c37375",
+      "id": "8bb0900624ae",
+      "priority": 1,
+      "group": "746cbe74c540"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "half past",
+      "meaningInSourceLanguage": "半点",
+      "id": "884dc6201ad6",
+      "priority": 0,
+      "group": "dfef40684057"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "half past",
+      "meaning": "半点",
+      "audio": "16d4384fd4504c75a4d65af6f024daae",
+      "id": "33e9b35b962e",
+      "priority": 1,
+      "group": "dfef40684057"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "a.m.",
+      "meaningInSourceLanguage": "上午",
+      "id": "ca6f8ff23588",
+      "priority": 0,
+      "group": "d4c5259d3ffe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a.m.",
+      "meaning": "上午",
+      "audio": "bb8b77a7aa7245f9b47d8f1d61257842",
+      "id": "80840c4d5d4f",
+      "priority": 1,
+      "group": "d4c5259d3ffe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "p.m.",
+      "meaningInSourceLanguage": "下午",
+      "id": "fc026a9b07bc",
+      "priority": 0,
+      "group": "d486556c7102"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "p.m.",
+      "meaning": "下午",
+      "audio": "d803f03c6be642c680506a33e033f442",
+      "id": "69088d10f9a3",
+      "priority": 1,
+      "group": "d486556c7102"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sunrise",
+      "meaningInSourceLanguage": "日出",
+      "id": "6e5e2d7c66d0",
+      "priority": 0,
+      "group": "1f25bc0b9f0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sunrise",
+      "meaning": "日出",
+      "audio": "ff3c97eb27ac45689578e5bfbcb00672",
+      "id": "e8d076cb26a5",
+      "priority": 1,
+      "group": "1f25bc0b9f0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sunset",
+      "meaningInSourceLanguage": "日落",
+      "id": "9b1dfde07e12",
+      "priority": 0,
+      "group": "c738e3c8204f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sunset",
+      "meaning": "日落",
+      "audio": "c4cd2b76041f4ca8adb831ec734c56a7",
+      "id": "a2d2c1d92804",
+      "priority": 1,
+      "group": "c738e3c8204f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "daybreak",
+      "meaningInSourceLanguage": "破晓",
+      "id": "ea5486ebc66c",
+      "priority": 0,
+      "group": "45e0ec0eec16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "daybreak",
+      "meaning": "破晓",
+      "audio": "72f11b1312de4605ae9beb1e185a8f2e",
+      "id": "3b96a6e5c55f",
+      "priority": 1,
+      "group": "45e0ec0eec16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "twilight",
+      "meaningInSourceLanguage": "暮光",
+      "id": "ef89bbeca007",
+      "priority": 0,
+      "group": "16c231f21e9d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "twilight",
+      "meaning": "暮光",
+      "audio": "a31211f277c04ca49444480fd598dfea",
+      "id": "a2e73cb67bca",
+      "priority": 1,
+      "group": "16c231f21e9d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bedtime",
+      "meaningInSourceLanguage": "就寝时间",
+      "id": "ad20f3d95fb4",
+      "priority": 0,
+      "group": "3d4918d14155"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bedtime",
+      "meaning": "就寝时间",
+      "audio": "f96fb015ad33478dadbf4067a5f109c7",
+      "id": "792d2e1f18e0",
+      "priority": 1,
+      "group": "3d4918d14155"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lunchtime",
+      "meaningInSourceLanguage": "午餐时间",
+      "id": "2061433bce19",
+      "priority": 0,
+      "group": "ab177df19494"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lunchtime",
+      "meaning": "午餐时间",
+      "audio": "f12f863976a940f9b4d426a363576c3b",
+      "id": "afe128c08ab3",
+      "priority": 1,
+      "group": "ab177df19494"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "teatime",
+      "meaningInSourceLanguage": "茶点时间",
+      "id": "af0adb1737c0",
+      "priority": 0,
+      "group": "b2b288e05758"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teatime",
+      "meaning": "茶点时间",
+      "audio": "277231928af94db8a1cdc40543a26ce8",
+      "id": "9a902795422f",
+      "priority": 1,
+      "group": "b2b288e05758"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dinnertime",
+      "meaningInSourceLanguage": "晚餐时间",
+      "id": "5537f2ad785c",
+      "priority": 0,
+      "group": "44b0783620c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dinnertime",
+      "meaning": "晚餐时间",
+      "audio": "55daaa20e99845d980083069f6098f61",
+      "id": "7883cf7d95ed",
+      "priority": 1,
+      "group": "44b0783620c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "time zone",
+      "meaningInSourceLanguage": "时区",
+      "id": "6f7e0a43da00",
+      "priority": 0,
+      "group": "c36c17af0112"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "time zone",
+      "meaning": "时区",
+      "audio": "b52fc8eccda84947a5a58cfb341c7fbe",
+      "id": "0432879153cb",
+      "priority": 1,
+      "group": "c36c17af0112"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "daylight saving",
+      "meaningInSourceLanguage": "夏令时",
+      "id": "555e87cc56a2",
+      "priority": 0,
+      "group": "13780c890e1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "daylight saving",
+      "meaning": "夏令时",
+      "audio": "1c110f436e764247bb8666f8362a8bf3",
+      "id": "c325fab4befc",
+      "priority": 1,
+      "group": "13780c890e1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leap year",
+      "meaningInSourceLanguage": "闰年",
+      "id": "0e0b665ba7a4",
+      "priority": 0,
+      "group": "375b679844f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leap year",
+      "meaning": "闰年",
+      "audio": "06cfdcb906df4c3fb93f51b0ca1d0e9d",
+      "id": "611bfec138c2",
+      "priority": 1,
+      "group": "375b679844f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "new moon",
+      "meaningInSourceLanguage": "新月",
+      "id": "bd5821359557",
+      "priority": 0,
+      "group": "04b4b67176bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "new moon",
+      "meaning": "新月",
+      "audio": "ce3d1f6a58f34178ba2f9bdcc9d1142d",
+      "id": "5a62c6440a18",
+      "priority": 1,
+      "group": "04b4b67176bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "full moon",
+      "meaningInSourceLanguage": "满月",
+      "id": "a1b40bed7f91",
+      "priority": 0,
+      "group": "de3829659290"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "full moon",
+      "meaning": "满月",
+      "audio": "2e97aa5d71e44ee4bfda23bd395e0e16",
+      "id": "a44c7c28a0c1",
+      "priority": 1,
+      "group": "de3829659290"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "holiday",
+      "meaningInSourceLanguage": "假日",
+      "id": "11c1deecb00d",
+      "priority": 0,
+      "group": "c6e917901a88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "holiday",
+      "meaning": "假日",
+      "audio": "1d5de88c9ca149109669d64bee457fa8",
+      "id": "969039c7d371",
+      "priority": 1,
+      "group": "c6e917901a88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "birthday",
+      "meaningInSourceLanguage": "生日",
+      "id": "27d881d18c62",
+      "priority": 0,
+      "group": "b2f9b4134d2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "birthday",
+      "meaning": "生日",
+      "audio": "26701dbbd5344d89a53a2187d1736a7d",
+      "id": "792ad3b88e4f",
+      "priority": 1,
+      "group": "b2f9b4134d2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anniversary",
+      "meaningInSourceLanguage": "周年纪念",
+      "id": "91d295d12797",
+      "priority": 0,
+      "group": "0053be6872bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anniversary",
+      "meaning": "周年纪念",
+      "audio": "a822579764fd41d2ac6a76e0f07ad7f7",
+      "id": "5d779383177b",
+      "priority": 1,
+      "group": "0053be6872bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "centenary",
+      "meaningInSourceLanguage": "百年纪念",
+      "id": "515e46efecac",
+      "priority": 0,
+      "group": "a47edbae0f6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "centenary",
+      "meaning": "百年纪念",
+      "audio": "93469ff883bc4db1952f2645391968fc",
+      "id": "c36d9cd8305f",
+      "priority": 1,
+      "group": "a47edbae0f6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bicentenary",
+      "meaningInSourceLanguage": "两百年纪念",
+      "id": "7f625bd9fbdc",
+      "priority": 0,
+      "group": "e4b96ba22040"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bicentenary",
+      "meaning": "两百年纪念",
+      "audio": "cc68ca163b9f474fbf4c68ba5ac9c5f9",
+      "id": "b552aa9c9175",
+      "priority": 1,
+      "group": "e4b96ba22040"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ancient",
+      "meaningInSourceLanguage": "古代的",
+      "id": "6e99fd618b1c",
+      "priority": 0,
+      "group": "aee3d3d52cfe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ancient",
+      "meaning": "古代的",
+      "audio": "c5bb5f70326d4b59a232b3e6441fd037",
+      "id": "cc89b79edebf",
+      "priority": 1,
+      "group": "aee3d3d52cfe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "modern",
+      "meaningInSourceLanguage": "现代的",
+      "id": "33b84a8cc3da",
+      "priority": 0,
+      "group": "d0f8f245c565"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "modern",
+      "meaning": "现代的",
+      "audio": "6c8167ff50e342bfb27b9a281eb0a8e9",
+      "id": "176b206bef1d",
+      "priority": 1,
+      "group": "d0f8f245c565"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contemporary",
+      "meaningInSourceLanguage": "当代的",
+      "id": "266e0e3e163c",
+      "priority": 0,
+      "group": "3d30f77b740c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contemporary",
+      "meaning": "当代的",
+      "audio": "535610c66f2944649e372b8ed0d11cc7",
+      "id": "26323b57af3e",
+      "priority": 1,
+      "group": "3d30f77b740c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "past",
+      "meaningInSourceLanguage": "过去",
+      "id": "24b8d5422d59",
+      "priority": 0,
+      "group": "cb99cd94530b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "past",
+      "meaning": "过去",
+      "audio": "0b454f62b5c949bdae6f923b622bb7b6",
+      "id": "b28a37e45d6e",
+      "priority": 1,
+      "group": "cb99cd94530b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "present",
+      "meaningInSourceLanguage": "现在",
+      "id": "2ffb81f82502",
+      "priority": 0,
+      "group": "93a2f871a956"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "present",
+      "meaning": "现在",
+      "audio": "bc6a89f3c869496397981ef703e8a2ea",
+      "id": "5815e338063e",
+      "priority": 1,
+      "group": "93a2f871a956"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "future",
+      "meaningInSourceLanguage": "未来",
+      "id": "23164f18a063",
+      "priority": 0,
+      "group": "84ef01797df2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "future",
+      "meaning": "未来",
+      "audio": "d7c5add205d544e3a4d2e1446d57f4dc",
+      "id": "8c4a960ad00d",
+      "priority": 1,
+      "group": "84ef01797df2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eternity",
+      "meaningInSourceLanguage": "永恒",
+      "id": "6db5ca8fb4e0",
+      "priority": 0,
+      "group": "27bc9e0a8c0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eternity",
+      "meaning": "永恒",
+      "audio": "fb087ae57235444f88915a4bedfd1bc7",
+      "id": "473b0aadc3a4",
+      "priority": 1,
+      "group": "27bc9e0a8c0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "permanent",
+      "meaningInSourceLanguage": "永久的",
+      "id": "08644b22b70b",
+      "priority": 0,
+      "group": "ef90534f4a0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "permanent",
+      "meaning": "永久的",
+      "audio": "9b7936f2051c41708db4e1b4f4eb80c2",
+      "id": "4a977cc1ccc7",
+      "priority": 1,
+      "group": "ef90534f4a0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "temporary",
+      "meaningInSourceLanguage": "临时的",
+      "id": "2d3012be99ca",
+      "priority": 0,
+      "group": "48f790aca1bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temporary",
+      "meaning": "临时的",
+      "audio": "9586745d56814c9eb2d98cc27db0ccdb",
+      "id": "d6b44e4ca02a",
+      "priority": 1,
+      "group": "48f790aca1bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mean time",
+      "meaningInSourceLanguage": "平均时",
+      "id": "a1397218da56",
+      "priority": 0,
+      "group": "f4109527d8dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mean time",
+      "meaning": "平均时",
+      "audio": "bc25d079121248b5bae5f14f84a9f98d",
+      "id": "26380521782e",
+      "priority": 1,
+      "group": "f4109527d8dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solar time",
+      "meaningInSourceLanguage": "太阳时",
+      "id": "d6f441cd1b7d",
+      "priority": 0,
+      "group": "4bec78f2b403"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solar time",
+      "meaning": "太阳时",
+      "audio": "cdc6256f7e0e467283c740def653a71d",
+      "id": "c7d69b1f607d",
+      "priority": 1,
+      "group": "4bec78f2b403"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stopwatch",
+      "meaningInSourceLanguage": "秒表",
+      "id": "24081b9ea15a",
+      "priority": 0,
+      "group": "5259ef4d5ad4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stopwatch",
+      "meaning": "秒表",
+      "audio": "15df52a2acdb435a845557128636eb70",
+      "id": "5794c4e1dcc5",
+      "priority": 1,
+      "group": "5259ef4d5ad4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "timer",
+      "meaningInSourceLanguage": "定时器",
+      "id": "308c7aa128bf",
+      "priority": 0,
+      "group": "2f9d6dfa8d32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "timer",
+      "meaning": "定时器",
+      "audio": "a302265cea834caa85ccc4efcaefc3a5",
+      "id": "f134f264f4c6",
+      "priority": 1,
+      "group": "2f9d6dfa8d32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hourglass",
+      "meaningInSourceLanguage": "沙漏",
+      "id": "11ab937c6905",
+      "priority": 0,
+      "group": "a64129b1f728"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hourglass",
+      "meaning": "沙漏",
+      "audio": "410b95a7cc9d49f3818ced8c05b4e5e7",
+      "id": "b7f32bfd4738",
+      "priority": 1,
+      "group": "a64129b1f728"
+    }
+  ]
+}

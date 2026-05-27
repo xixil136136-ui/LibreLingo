@@ -1,0 +1,788 @@
+{
+  "id": "92136e1b1286",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "scratch",
+      "meaningInSourceLanguage": "抓伤",
+      "id": "82986d68d29d",
+      "priority": 0,
+      "group": "568b8d17d1c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scratch",
+      "meaning": "抓伤",
+      "audio": "e457cadb842e49f98b2e2fcae4c293b7",
+      "id": "9f0bd3a2006a",
+      "priority": 1,
+      "group": "568b8d17d1c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bite",
+      "meaningInSourceLanguage": "咬伤",
+      "id": "fb996cd62276",
+      "priority": 0,
+      "group": "a5beb71beb2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bite",
+      "meaning": "咬伤",
+      "audio": "1a684701a8e44e26869125abeda6aa45",
+      "id": "da93fc1f7604",
+      "priority": 1,
+      "group": "a5beb71beb2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "poison",
+      "meaningInSourceLanguage": "中毒",
+      "id": "164825f6f245",
+      "priority": 0,
+      "group": "4233ee231a39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "poison",
+      "meaning": "中毒",
+      "audio": "c8ad4a867403445eb04123fe9b217392",
+      "id": "5f0421dd8903",
+      "priority": 1,
+      "group": "4233ee231a39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antidote",
+      "meaningInSourceLanguage": "解毒剂",
+      "id": "707ab1f25ec6",
+      "priority": 0,
+      "group": "f19a5f3f03a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antidote",
+      "meaning": "解毒剂",
+      "audio": "31855fe55c9f4184956fdf120bd5ae5a",
+      "id": "6bb3dec0e6eb",
+      "priority": 1,
+      "group": "f19a5f3f03a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antibiotic",
+      "meaningInSourceLanguage": "抗生素",
+      "id": "840d885ca6df",
+      "priority": 0,
+      "group": "299997b15f1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antibiotic",
+      "meaning": "抗生素",
+      "audio": "d561efa4652446a3ae069655c0f711d8",
+      "id": "a90877520c3c",
+      "priority": 1,
+      "group": "299997b15f1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antiviral",
+      "meaningInSourceLanguage": "抗病毒药",
+      "id": "7faf109cf8bd",
+      "priority": 0,
+      "group": "12427eca97f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antiviral",
+      "meaning": "抗病毒药",
+      "audio": "6ccac989ccd94f3cbe335ba3081f02d1",
+      "id": "288744d7e00d",
+      "priority": 1,
+      "group": "12427eca97f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "painkiller",
+      "meaningInSourceLanguage": "止痛药",
+      "id": "de3eb94cc884",
+      "priority": 0,
+      "group": "bd7a040adcb5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "painkiller",
+      "meaning": "止痛药",
+      "audio": "f34998449bde447280301ce5f3405da6",
+      "id": "ad8f95317c24",
+      "priority": 1,
+      "group": "bd7a040adcb5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sedative",
+      "meaningInSourceLanguage": "镇静剂",
+      "id": "d291f69f1317",
+      "priority": 0,
+      "group": "637d36b6aeff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sedative",
+      "meaning": "镇静剂",
+      "audio": "551098ffa8844a348f81d383af08e906",
+      "id": "7e6b100d5591",
+      "priority": 1,
+      "group": "637d36b6aeff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antidepressant",
+      "meaningInSourceLanguage": "抗抑郁药",
+      "id": "ba4e64b5bcf2",
+      "priority": 0,
+      "group": "04ccf4556b7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antidepressant",
+      "meaning": "抗抑郁药",
+      "audio": "c8f57029cb4943428d2df8702b296e75",
+      "id": "58c84b9d3c93",
+      "priority": 1,
+      "group": "04ccf4556b7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anti-inflammatory",
+      "meaningInSourceLanguage": "消炎药",
+      "id": "9629d484a0f5",
+      "priority": 0,
+      "group": "36c8720fce54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anti-inflammatory",
+      "meaning": "消炎药",
+      "audio": "af384806c4664f5097a65366e8e7e3f5",
+      "id": "1d5de951d59b",
+      "priority": 1,
+      "group": "36c8720fce54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ointment",
+      "meaningInSourceLanguage": "药膏",
+      "id": "7defbeec7dbb",
+      "priority": 0,
+      "group": "92e2b607c033"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ointment",
+      "meaning": "药膏",
+      "audio": "77f9af3a5ad843fa8559c522b4e09dbb",
+      "id": "af97ab5f2fbb",
+      "priority": 1,
+      "group": "92e2b607c033"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cream",
+      "meaningInSourceLanguage": "乳膏",
+      "id": "414ee6b9a0ca",
+      "priority": 0,
+      "group": "71a2da9b49fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cream",
+      "meaning": "乳膏",
+      "audio": "d2905f27c15246d2b3534e6625fe94fc",
+      "id": "bc30aa290cf4",
+      "priority": 1,
+      "group": "71a2da9b49fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lotion",
+      "meaningInSourceLanguage": "乳液",
+      "id": "638b5b7d0d6d",
+      "priority": 0,
+      "group": "bea85b30cc15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lotion",
+      "meaning": "乳液",
+      "audio": "2c82e6c4eafa40a583d9f20bc7fab03b",
+      "id": "f2930f1b1eb4",
+      "priority": 1,
+      "group": "bea85b30cc15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drops",
+      "meaningInSourceLanguage": "滴剂",
+      "id": "6f1f5aef797e",
+      "priority": 0,
+      "group": "294c0b4e50aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drops",
+      "meaning": "滴剂",
+      "audio": "53b68a60cd2f4177a0e0a3ce8ce0f5f3",
+      "id": "617c9b77d6e2",
+      "priority": 1,
+      "group": "294c0b4e50aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spray",
+      "meaningInSourceLanguage": "喷雾",
+      "id": "0e645b7faa07",
+      "priority": 0,
+      "group": "50db0ad89886"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spray",
+      "meaning": "喷雾",
+      "audio": "cfee9702c55d48c4badc82756bdab297",
+      "id": "67aa0500c2aa",
+      "priority": 1,
+      "group": "50db0ad89886"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "inhaler",
+      "meaningInSourceLanguage": "吸入器",
+      "id": "232ea972cf6b",
+      "priority": 0,
+      "group": "35a1ab5b959b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "inhaler",
+      "meaning": "吸入器",
+      "audio": "ba9b7448633b49248b1cae97683ecc7b",
+      "id": "65d16289944f",
+      "priority": 1,
+      "group": "35a1ab5b959b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blood test",
+      "meaningInSourceLanguage": "验血",
+      "id": "4740bd39fb30",
+      "priority": 0,
+      "group": "486a922e4405"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blood test",
+      "meaning": "验血",
+      "audio": "771c293644744cc986d44472b83e876b",
+      "id": "e9c2864d2e03",
+      "priority": 1,
+      "group": "486a922e4405"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "urine test",
+      "meaningInSourceLanguage": "验尿",
+      "id": "5c8726bf472d",
+      "priority": 0,
+      "group": "0ecbb728a0ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "urine test",
+      "meaning": "验尿",
+      "audio": "22eb63d1770d4eaa870328e139fc67da",
+      "id": "f9b4a4347983",
+      "priority": 1,
+      "group": "0ecbb728a0ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "biopsy",
+      "meaningInSourceLanguage": "活检",
+      "id": "126a2e994eb8",
+      "priority": 0,
+      "group": "41ab2a51a011"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "biopsy",
+      "meaning": "活检",
+      "audio": "9519a393cd95437988f28b6b8c136c28",
+      "id": "14edc25e3d4c",
+      "priority": 1,
+      "group": "41ab2a51a011"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "endoscopy",
+      "meaningInSourceLanguage": "内窥镜检查",
+      "id": "6630915ed0db",
+      "priority": 0,
+      "group": "0a4fc9f04f38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "endoscopy",
+      "meaning": "内窥镜检查",
+      "audio": "491a87a3e26145e2a4969fb74411537c",
+      "id": "f0d1e41a340c",
+      "priority": 1,
+      "group": "0a4fc9f04f38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chemotherapy",
+      "meaningInSourceLanguage": "化疗",
+      "id": "110c1c6fd96e",
+      "priority": 0,
+      "group": "f6e2579231e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chemotherapy",
+      "meaning": "化疗",
+      "audio": "069df78de9de4e0e9b065c2475819a05",
+      "id": "15736dfbc06d",
+      "priority": 1,
+      "group": "f6e2579231e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "radiation",
+      "meaningInSourceLanguage": "放疗",
+      "id": "1dde75933e95",
+      "priority": 0,
+      "group": "e1b50636e92a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "radiation",
+      "meaning": "放疗",
+      "audio": "28278c27684442afbac456bbef3058a4",
+      "id": "545838f83cfd",
+      "priority": 1,
+      "group": "e1b50636e92a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "physical therapy",
+      "meaningInSourceLanguage": "物理治疗",
+      "id": "808d9c536819",
+      "priority": 0,
+      "group": "23b4e1544cf0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "physical therapy",
+      "meaning": "物理治疗",
+      "audio": "16b387a3f94e4537a1ba9efb2766ebfa",
+      "id": "33572ebfa4e2",
+      "priority": 1,
+      "group": "23b4e1544cf0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "occupational therapy",
+      "meaningInSourceLanguage": "职业治疗",
+      "id": "9b7c614f7e2b",
+      "priority": 0,
+      "group": "36949de67d9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "occupational therapy",
+      "meaning": "职业治疗",
+      "audio": "18b13f4c3eb343858fdb022b6e55e317",
+      "id": "c301972e2502",
+      "priority": 1,
+      "group": "36949de67d9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speech therapy",
+      "meaningInSourceLanguage": "语言治疗",
+      "id": "08bcb2a482d0",
+      "priority": 0,
+      "group": "6489a66950cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speech therapy",
+      "meaning": "语言治疗",
+      "audio": "b2385b9ec6fc43adb7aaf3704a3157f7",
+      "id": "c5d2d148809a",
+      "priority": 1,
+      "group": "6489a66950cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "counseling",
+      "meaningInSourceLanguage": "咨询",
+      "id": "f5a01e26109c",
+      "priority": 0,
+      "group": "743aa0da585f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "counseling",
+      "meaning": "咨询",
+      "audio": "d208ec18260243d690a7d2e0f99c94e1",
+      "id": "60e02dd989aa",
+      "priority": 1,
+      "group": "743aa0da585f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "psychotherapy",
+      "meaningInSourceLanguage": "心理治疗",
+      "id": "1e155cbac24c",
+      "priority": 0,
+      "group": "8ccbb62a7771"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "psychotherapy",
+      "meaning": "心理治疗",
+      "audio": "59d86fc1328d4bf59181e76f0dd15900",
+      "id": "d5fd7b8aa406",
+      "priority": 1,
+      "group": "8ccbb62a7771"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cognitive behavioral therapy",
+      "meaningInSourceLanguage": "认知行为疗法",
+      "id": "d3f5cca97ef1",
+      "priority": 0,
+      "group": "2cc398086d77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cognitive behavioral therapy",
+      "meaning": "认知行为疗法",
+      "audio": "74dedeb11f6e436094d55f1795505420",
+      "id": "abe22ad591ad",
+      "priority": 1,
+      "group": "2cc398086d77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "disability",
+      "meaningInSourceLanguage": "残疾",
+      "id": "59d098fa4e80",
+      "priority": 0,
+      "group": "a7b39af5aa58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "disability",
+      "meaning": "残疾",
+      "audio": "e77588ab8b824ff090fafb649b642d9f",
+      "id": "fdadb52916c5",
+      "priority": 1,
+      "group": "a7b39af5aa58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rehabilitation",
+      "meaningInSourceLanguage": "康复",
+      "id": "d77814cb5c30",
+      "priority": 0,
+      "group": "4b35e4ae0bc9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rehabilitation",
+      "meaning": "康复",
+      "audio": "1fc221de298c4a2ca6990aa27fa6f04a",
+      "id": "d25465a83b06",
+      "priority": 1,
+      "group": "4b35e4ae0bc9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prosthetic",
+      "meaningInSourceLanguage": "假肢",
+      "id": "3d51ebdfad7e",
+      "priority": 0,
+      "group": "1f7cdbf66bcd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prosthetic",
+      "meaning": "假肢",
+      "audio": "da5c3d3109a6474ab49375e3289d7043",
+      "id": "4f1302eae763",
+      "priority": 1,
+      "group": "1f7cdbf66bcd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "implant",
+      "meaningInSourceLanguage": "植入物",
+      "id": "1dbed30bf900",
+      "priority": 0,
+      "group": "70c1c3a2715a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "implant",
+      "meaning": "植入物",
+      "audio": "3d68b22e5f294a7c9690bd0e687c5752",
+      "id": "e894130071de",
+      "priority": 1,
+      "group": "70c1c3a2715a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "organ donation",
+      "meaningInSourceLanguage": "器官捐献",
+      "id": "9f44b593541a",
+      "priority": 0,
+      "group": "4cb700791bec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "organ donation",
+      "meaning": "器官捐献",
+      "audio": "47659cefc7774d7287fae94ffc782fd2",
+      "id": "22d131cc9b18",
+      "priority": 1,
+      "group": "4cb700791bec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blood donation",
+      "meaningInSourceLanguage": "献血",
+      "id": "77b434a14ba4",
+      "priority": 0,
+      "group": "63005757f828"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blood donation",
+      "meaning": "献血",
+      "audio": "626fa5804222437c8c40283a3208d0b1",
+      "id": "0d4b1ec79340",
+      "priority": 1,
+      "group": "63005757f828"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "life support",
+      "meaningInSourceLanguage": "生命维持",
+      "id": "016645fd95c9",
+      "priority": 0,
+      "group": "6fb50de09011"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "life support",
+      "meaning": "生命维持",
+      "audio": "20d3d91c95a146388fba0ddfe0ea0cb8",
+      "id": "8584af45d3d4",
+      "priority": 1,
+      "group": "6fb50de09011"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "CPR",
+      "meaningInSourceLanguage": "心肺复苏",
+      "id": "d0609368069a",
+      "priority": 0,
+      "group": "96467d2c4501"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "CPR",
+      "meaning": "心肺复苏",
+      "audio": "8bced834db534bd8b1a8daece99047f8",
+      "id": "6be084608da0",
+      "priority": 1,
+      "group": "96467d2c4501"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "defibrillator",
+      "meaningInSourceLanguage": "除颤器",
+      "id": "eaacd1fb16e7",
+      "priority": 0,
+      "group": "f2f996d2c490"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "defibrillator",
+      "meaning": "除颤器",
+      "audio": "15da10e79b9d4164af2afec11285bf60",
+      "id": "f3f172879039",
+      "priority": 1,
+      "group": "f2f996d2c490"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ventilator",
+      "meaningInSourceLanguage": "呼吸机",
+      "id": "93dbe8b52757",
+      "priority": 0,
+      "group": "9cc627f929d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ventilator",
+      "meaning": "呼吸机",
+      "audio": "1e85bed945b841929393ad7587915ff9",
+      "id": "6ff6acd5f45a",
+      "priority": 1,
+      "group": "9cc627f929d5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "incubation",
+      "meaningInSourceLanguage": "孵化",
+      "id": "09afa7156510",
+      "priority": 0,
+      "group": "9202a96e3bad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "incubation",
+      "meaning": "孵化",
+      "audio": "f348d874a0204d9199424449ec6a8583",
+      "id": "d06cf485f596",
+      "priority": 1,
+      "group": "9202a96e3bad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "isolation",
+      "meaningInSourceLanguage": "隔离",
+      "id": "6aa4c7a739f7",
+      "priority": 0,
+      "group": "9631bf5f9d75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "isolation",
+      "meaning": "隔离",
+      "audio": "ba55f610b0794990b86b43201fb16a28",
+      "id": "628de2b391b2",
+      "priority": 1,
+      "group": "9631bf5f9d75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sanitation",
+      "meaningInSourceLanguage": "卫生",
+      "id": "e33a2b8dfa38",
+      "priority": 0,
+      "group": "ad9bdb653665"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sanitation",
+      "meaning": "卫生",
+      "audio": "1762543037834e3a971df567569d4662",
+      "id": "de4330361060",
+      "priority": 1,
+      "group": "ad9bdb653665"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hygiene",
+      "meaningInSourceLanguage": "卫生",
+      "id": "a6b8fb6be421",
+      "priority": 0,
+      "group": "bd61a066e3e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hygiene",
+      "meaning": "卫生",
+      "audio": "29fa4b53526a42aa976610b0b37b34ba",
+      "id": "df1e261f1ad4",
+      "priority": 1,
+      "group": "bd61a066e3e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "epidemic",
+      "meaningInSourceLanguage": "流行病",
+      "id": "a84d945e35f4",
+      "priority": 0,
+      "group": "0a757eec9076"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "epidemic",
+      "meaning": "流行病",
+      "audio": "f102f3ecb0e04fe2a05cf4f247186b66",
+      "id": "c64442936453",
+      "priority": 1,
+      "group": "0a757eec9076"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pandemic",
+      "meaningInSourceLanguage": "大流行病",
+      "id": "9bff83564dd5",
+      "priority": 0,
+      "group": "999e421e9a1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pandemic",
+      "meaning": "大流行病",
+      "audio": "3465f3b15284482b97ff747f50a89e71",
+      "id": "1c4bc4c8b532",
+      "priority": 1,
+      "group": "999e421e9a1d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "outbreak",
+      "meaningInSourceLanguage": "爆发",
+      "id": "e9935a3442d9",
+      "priority": 0,
+      "group": "85604cca48b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "outbreak",
+      "meaning": "爆发",
+      "audio": "2387cb871d9e4665b222271e7ab25064",
+      "id": "d895c6063486",
+      "priority": 1,
+      "group": "85604cca48b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "containment",
+      "meaningInSourceLanguage": "控制",
+      "id": "65685baece2a",
+      "priority": 0,
+      "group": "6774b50dde10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "containment",
+      "meaning": "控制",
+      "audio": "0f49d28ba240437ea324d869fe3cb6db",
+      "id": "2d5b64e980bc",
+      "priority": 1,
+      "group": "6774b50dde10"
+    }
+  ]
+}

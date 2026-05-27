@@ -1,0 +1,822 @@
+{
+  "id": "23b4fdc0f461",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "closed deal",
+      "meaningInSourceLanguage": "成交",
+      "id": "84be50ada8b3",
+      "priority": 0,
+      "group": "83d64942852f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "closed deal",
+      "meaning": "成交",
+      "audio": "84a6ceb03c8240a8b0f651b060beb389",
+      "id": "fb5b4fca7c56",
+      "priority": 1,
+      "group": "83d64942852f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pipeline",
+      "meaningInSourceLanguage": "销售管道",
+      "id": "b0c2398bb725",
+      "priority": 0,
+      "group": "6f9c9eebdf1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pipeline",
+      "meaning": "销售管道",
+      "audio": "c0ba0133ef894b55b4f9a9c013c02f2b",
+      "id": "03ae8f57170f",
+      "priority": 1,
+      "group": "6f9c9eebdf1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quote",
+      "meaningInSourceLanguage": "报价",
+      "id": "d1d67ee729f2",
+      "priority": 0,
+      "group": "f8754c7e55f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quote",
+      "meaning": "报价",
+      "audio": "72f2c98d807e423f82cacad2ac857aa6",
+      "id": "069f50f109d0",
+      "priority": 1,
+      "group": "f8754c7e55f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "estimate",
+      "meaningInSourceLanguage": "估价",
+      "id": "474d373cd658",
+      "priority": 0,
+      "group": "fe90d889bcb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "estimate",
+      "meaning": "估价",
+      "audio": "a4bfd035c2f44ef8bee24129337a345e",
+      "id": "dfc04fdcdf28",
+      "priority": 1,
+      "group": "fe90d889bcb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "terms and conditions",
+      "meaningInSourceLanguage": "条款和条件",
+      "id": "35d6306b25b7",
+      "priority": 0,
+      "group": "21936c43d632"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "terms and conditions",
+      "meaning": "条款和条件",
+      "audio": "9986e2fe715a4ccdb06866892dcab8fd",
+      "id": "a6367f7d59dd",
+      "priority": 1,
+      "group": "21936c43d632"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pricing",
+      "meaningInSourceLanguage": "定价",
+      "id": "f91949d6fe4f",
+      "priority": 0,
+      "group": "0e491b72cc75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pricing",
+      "meaning": "定价",
+      "audio": "84aefa7f46d04f43992a24aaef3f649a",
+      "id": "d3a219a72f27",
+      "priority": 1,
+      "group": "0e491b72cc75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "subscription",
+      "meaningInSourceLanguage": "订阅",
+      "id": "bde853fe89c5",
+      "priority": 0,
+      "group": "5332985c3b6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "subscription",
+      "meaning": "订阅",
+      "audio": "4f64bd2a3ed9434891090cfa1b999584",
+      "id": "dc64ab978b86",
+      "priority": 1,
+      "group": "5332985c3b6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "one-time fee",
+      "meaningInSourceLanguage": "一次性费用",
+      "id": "0b4db904f2af",
+      "priority": 0,
+      "group": "650e17b0c5db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "one-time fee",
+      "meaning": "一次性费用",
+      "audio": "f2244b611312429b8c9d19678c1081fa",
+      "id": "9e172a250a45",
+      "priority": 1,
+      "group": "650e17b0c5db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recurring revenue",
+      "meaningInSourceLanguage": "经常性收入",
+      "id": "6647fe75a640",
+      "priority": 0,
+      "group": "60ea025b8d9c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recurring revenue",
+      "meaning": "经常性收入",
+      "audio": "ab5d5a98c74b4f3a8099240aab1e99ab",
+      "id": "36fc88a41dc1",
+      "priority": 1,
+      "group": "60ea025b8d9c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "MRR",
+      "meaningInSourceLanguage": "月经常性收入",
+      "id": "94806db1cdce",
+      "priority": 0,
+      "group": "029c75b55c2c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "MRR",
+      "meaning": "月经常性收入",
+      "audio": "6cf35d22991c4371ad2c2b2194c82836",
+      "id": "7f3bc07c71c2",
+      "priority": 1,
+      "group": "029c75b55c2c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ARR",
+      "meaningInSourceLanguage": "年经常性收入",
+      "id": "e1f63bf654ed",
+      "priority": 0,
+      "group": "90fcc7dcf1d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ARR",
+      "meaning": "年经常性收入",
+      "audio": "abac842b0f9b4be6bd51cb4d3b755836",
+      "id": "5ca1e7939ab9",
+      "priority": 1,
+      "group": "90fcc7dcf1d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "churn rate",
+      "meaningInSourceLanguage": "流失率",
+      "id": "276c62ce0288",
+      "priority": 0,
+      "group": "31f8be23b0b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "churn rate",
+      "meaning": "流失率",
+      "audio": "a5d906bc3c774abd8cdedb019cbc8276",
+      "id": "0d52abc29d92",
+      "priority": 1,
+      "group": "31f8be23b0b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "retention rate",
+      "meaningInSourceLanguage": "留存率",
+      "id": "3804ecb714d9",
+      "priority": 0,
+      "group": "c3d5ee5e86d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retention rate",
+      "meaning": "留存率",
+      "audio": "d97a30d0179c43b29ed3f8a217d3260f",
+      "id": "80b8a0de2db7",
+      "priority": 1,
+      "group": "c3d5ee5e86d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lifetime value",
+      "meaningInSourceLanguage": "生命周期价值",
+      "id": "88354ee64189",
+      "priority": 0,
+      "group": "06bf4c0f54b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lifetime value",
+      "meaning": "生命周期价值",
+      "audio": "5f1ca58f9e734960b52b4d75093239bd",
+      "id": "9fcdce919bcf",
+      "priority": 1,
+      "group": "06bf4c0f54b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "freemium",
+      "meaningInSourceLanguage": "免费增值",
+      "id": "93af2820e36a",
+      "priority": 0,
+      "group": "a54e1d9b9bd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "freemium",
+      "meaning": "免费增值",
+      "audio": "d0a97cfb27324b38aa24236fddcf4697",
+      "id": "d2d7c8b4bd42",
+      "priority": 1,
+      "group": "a54e1d9b9bd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trial",
+      "meaningInSourceLanguage": "试用",
+      "id": "d7b6d97b4629",
+      "priority": 0,
+      "group": "311db364fcaf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trial",
+      "meaning": "试用",
+      "audio": "91a4b8e77af6492ea00cc8e5015a695b",
+      "id": "ec2b168d9a29",
+      "priority": 1,
+      "group": "311db364fcaf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "demo",
+      "meaningInSourceLanguage": "演示",
+      "id": "088ef5f98b3b",
+      "priority": 0,
+      "group": "3d7878df3d69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "demo",
+      "meaning": "演示",
+      "audio": "b74089a77a60468db9eed5873a0a8ea9",
+      "id": "60e778bef6b5",
+      "priority": 1,
+      "group": "3d7878df3d69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "onboarding",
+      "meaningInSourceLanguage": "入职",
+      "id": "508d0a64e531",
+      "priority": 0,
+      "group": "4c3dddff2944"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "onboarding",
+      "meaning": "入职",
+      "audio": "fbdd48622b4946c086325d878f712b67",
+      "id": "a3d76014bafd",
+      "priority": 1,
+      "group": "4c3dddff2944"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customer support",
+      "meaningInSourceLanguage": "客户支持",
+      "id": "5af6a657b176",
+      "priority": 0,
+      "group": "9f3af5393c5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customer support",
+      "meaning": "客户支持",
+      "audio": "90b84167db634c39af95daebcbb24d11",
+      "id": "bde4d9293077",
+      "priority": 1,
+      "group": "9f3af5393c5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "help desk",
+      "meaningInSourceLanguage": "帮助台",
+      "id": "f5f77a4484c9",
+      "priority": 0,
+      "group": "080dbe6f93ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "help desk",
+      "meaning": "帮助台",
+      "audio": "41c7f8219ad4455f87c44da2906513eb",
+      "id": "04a814e0ed3c",
+      "priority": 1,
+      "group": "080dbe6f93ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "FAQ",
+      "meaningInSourceLanguage": "常见问题",
+      "id": "2ff6012fac5f",
+      "priority": 0,
+      "group": "d5f16bdb93c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "FAQ",
+      "meaning": "常见问题",
+      "audio": "d39b6e82ddb74ebe959e3f950149b2b9",
+      "id": "16b391e419d7",
+      "priority": 1,
+      "group": "d5f16bdb93c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ticket",
+      "meaningInSourceLanguage": "工单",
+      "id": "8c58eab00faa",
+      "priority": 0,
+      "group": "4cb0c4b0acc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ticket",
+      "meaning": "工单",
+      "audio": "97d2a5bb4ca04daa83d23576e298d30d",
+      "id": "e5e97a089bb3",
+      "priority": 1,
+      "group": "4cb0c4b0acc5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "agile",
+      "meaningInSourceLanguage": "敏捷的",
+      "id": "781397084a03",
+      "priority": 0,
+      "group": "110567abb0f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "agile",
+      "meaning": "敏捷的",
+      "audio": "2f76f3bb8a7749b990aaaee22f784adc",
+      "id": "41aa0d3f41ea",
+      "priority": 1,
+      "group": "110567abb0f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scrum",
+      "meaningInSourceLanguage": "Scrum",
+      "id": "b9798aa34660",
+      "priority": 0,
+      "group": "bad9a4255c0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scrum",
+      "meaning": "Scrum",
+      "audio": "0febe82a23a14e52b3b739d24a23f3aa",
+      "id": "0ea42fdce332",
+      "priority": 1,
+      "group": "bad9a4255c0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sprint",
+      "meaningInSourceLanguage": "冲刺",
+      "id": "17cb47bbf62e",
+      "priority": 0,
+      "group": "383b7a232dc6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sprint",
+      "meaning": "冲刺",
+      "audio": "46222e87cd7942b591ac72869ffa8a25",
+      "id": "fcb7d97c3824",
+      "priority": 1,
+      "group": "383b7a232dc6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stand-up",
+      "meaningInSourceLanguage": "站会",
+      "id": "3e407e4db604",
+      "priority": 0,
+      "group": "d298e6b12fe9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stand-up",
+      "meaning": "站会",
+      "audio": "e01fd7d34686435987bb992dc1a7ae3d",
+      "id": "612833f2d0f6",
+      "priority": 1,
+      "group": "d298e6b12fe9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "retrospective",
+      "meaningInSourceLanguage": "回顾",
+      "id": "b7a9dbf94583",
+      "priority": 0,
+      "group": "a8d08d86e1c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "retrospective",
+      "meaning": "回顾",
+      "audio": "24e6b2a29a774fe6bfba499d3c8f63f0",
+      "id": "fdd4a46bb1be",
+      "priority": 1,
+      "group": "a8d08d86e1c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "backlog",
+      "meaningInSourceLanguage": "待办事项",
+      "id": "aef1850be7cc",
+      "priority": 0,
+      "group": "fa18cd09dffb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "backlog",
+      "meaning": "待办事项",
+      "audio": "4ae5e336eedf4790bad788c0bf683aea",
+      "id": "4b1223af6c2a",
+      "priority": 1,
+      "group": "fa18cd09dffb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "milestone",
+      "meaningInSourceLanguage": "里程碑",
+      "id": "4f9253835a6d",
+      "priority": 0,
+      "group": "6e2e31e4fba6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "milestone",
+      "meaning": "里程碑",
+      "audio": "9d8794f4b2dc4d1faf77b8cb4743f7e7",
+      "id": "d132fa6041b8",
+      "priority": 1,
+      "group": "6e2e31e4fba6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deliverable",
+      "meaningInSourceLanguage": "可交付成果",
+      "id": "291a7b173e47",
+      "priority": 0,
+      "group": "4726c5ba398c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deliverable",
+      "meaning": "可交付成果",
+      "audio": "eae4bb587d434b6888accfc598bf2a82",
+      "id": "0b8f0a268f0f",
+      "priority": 1,
+      "group": "4726c5ba398c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "workflow",
+      "meaningInSourceLanguage": "工作流程",
+      "id": "331854d37a4f",
+      "priority": 0,
+      "group": "e1519a049007"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "workflow",
+      "meaning": "工作流程",
+      "audio": "2fe1ffb949f64299942059e6ea2eb727",
+      "id": "e3cbf265fe92",
+      "priority": 1,
+      "group": "e1519a049007"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "automation",
+      "meaningInSourceLanguage": "自动化",
+      "id": "2003a745d120",
+      "priority": 0,
+      "group": "ac569856f8ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "automation",
+      "meaning": "自动化",
+      "audio": "adfe17c5048149bd98edcbbd67a53ce6",
+      "id": "7cd381cdbe44",
+      "priority": 1,
+      "group": "ac569856f8ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "optimization",
+      "meaningInSourceLanguage": "优化",
+      "id": "616313d3d6d8",
+      "priority": 0,
+      "group": "9775725e24a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "optimization",
+      "meaning": "优化",
+      "audio": "20d5469030c548bd9445e34ce916c19b",
+      "id": "526f6b951102",
+      "priority": 1,
+      "group": "9775725e24a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "streamline",
+      "meaningInSourceLanguage": "精简",
+      "id": "c6ce8a3654e5",
+      "priority": 0,
+      "group": "30bead7e7a6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "streamline",
+      "meaning": "精简",
+      "audio": "8ca7498ae0f848cb9bc95f4423c8db14",
+      "id": "880ad389301d",
+      "priority": 1,
+      "group": "30bead7e7a6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "outsource",
+      "meaningInSourceLanguage": "外包",
+      "id": "61a9d7fa417f",
+      "priority": 0,
+      "group": "f79fe74aeae8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "outsource",
+      "meaning": "外包",
+      "audio": "08a5cc1973a84d8e930b24287e50fcd8",
+      "id": "1d01e55bf060",
+      "priority": 1,
+      "group": "f79fe74aeae8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "offshore",
+      "meaningInSourceLanguage": "离岸",
+      "id": "bcba4756a73d",
+      "priority": 0,
+      "group": "a71f2b2003f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "offshore",
+      "meaning": "离岸",
+      "audio": "c3767a04810e4ea19c8d9201b8839935",
+      "id": "e274072eb8fa",
+      "priority": 1,
+      "group": "a71f2b2003f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "relocate",
+      "meaningInSourceLanguage": "搬迁",
+      "id": "a59b76b74274",
+      "priority": 0,
+      "group": "484bbbe32807"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "relocate",
+      "meaning": "搬迁",
+      "audio": "f325c190bcc04283afa791478c0374a9",
+      "id": "cb6f0b822db4",
+      "priority": 1,
+      "group": "484bbbe32807"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "downsize",
+      "meaningInSourceLanguage": "裁员",
+      "id": "a637270786c8",
+      "priority": 0,
+      "group": "da4d928ebbf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "downsize",
+      "meaning": "裁员",
+      "audio": "09868c86aaaf4fe19de6333c25aa4405",
+      "id": "d46e373e2179",
+      "priority": 1,
+      "group": "da4d928ebbf7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "restructure",
+      "meaningInSourceLanguage": "重组",
+      "id": "e25a5ba9608c",
+      "priority": 0,
+      "group": "3a73f0f2ee2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "restructure",
+      "meaning": "重组",
+      "audio": "207d36e02405470bb19f6420fc1d8583",
+      "id": "06c230087415",
+      "priority": 1,
+      "group": "3a73f0f2ee2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turnaround",
+      "meaningInSourceLanguage": "扭转",
+      "id": "ddf3ac1807b5",
+      "priority": 0,
+      "group": "4c687bdfa78f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turnaround",
+      "meaning": "扭转",
+      "audio": "4733f2c1b67f4ebb91892c3585e2adb8",
+      "id": "a0de41091e2c",
+      "priority": 1,
+      "group": "4c687bdfa78f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bankruptcy",
+      "meaningInSourceLanguage": "破产",
+      "id": "cae20acb0e84",
+      "priority": 0,
+      "group": "0087abe2c739"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bankruptcy",
+      "meaning": "破产",
+      "audio": "64623dd2011c4b63a3333e2cd1b40970",
+      "id": "87203f8a5b1a",
+      "priority": 1,
+      "group": "0087abe2c739"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "liquidation",
+      "meaningInSourceLanguage": "清算",
+      "id": "e8e78c801ba7",
+      "priority": 0,
+      "group": "f8f610eb1081"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "liquidation",
+      "meaning": "清算",
+      "audio": "e1d0fe16816b40e6b5bbffa824860b7e",
+      "id": "492ffaf61410",
+      "priority": 1,
+      "group": "f8f610eb1081"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acquisition",
+      "meaningInSourceLanguage": "收购",
+      "id": "4fe6ab1453ce",
+      "priority": 0,
+      "group": "af24d94017c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acquisition",
+      "meaning": "收购",
+      "audio": "4bf84ecd627d40c6aaa9a0a8fdab789e",
+      "id": "0b8a7798b307",
+      "priority": 1,
+      "group": "af24d94017c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "divestiture",
+      "meaningInSourceLanguage": "出售",
+      "id": "73512efc28c3",
+      "priority": 0,
+      "group": "0459afce9d2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "divestiture",
+      "meaning": "出售",
+      "audio": "66e2fc0260234fc99c2992f29a57da90",
+      "id": "1d08b4a298f3",
+      "priority": 1,
+      "group": "0459afce9d2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "joint venture",
+      "meaningInSourceLanguage": "合资企业",
+      "id": "47aaba4f23dd",
+      "priority": 0,
+      "group": "1085bb459651"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "joint venture",
+      "meaning": "合资企业",
+      "audio": "6f52d2e2927d4f36bb4f412e8303ee38",
+      "id": "46aab5745069",
+      "priority": 1,
+      "group": "1085bb459651"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "franchise",
+      "meaningInSourceLanguage": "特许经营",
+      "id": "31c6b1508744",
+      "priority": 0,
+      "group": "9554a6901cb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "franchise",
+      "meaning": "特许经营",
+      "audio": "b8e1c56b12b84593aea7fbd6e86a3c38",
+      "id": "18ccf5e510bd",
+      "priority": 1,
+      "group": "9554a6901cb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "license",
+      "meaningInSourceLanguage": "许可",
+      "id": "c66e6ee354ef",
+      "priority": 0,
+      "group": "e93ddc4bd71c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "license",
+      "meaning": "许可",
+      "audio": "15869578122d40e9a1873d251809ba88",
+      "id": "73136db72034",
+      "priority": 1,
+      "group": "e93ddc4bd71c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "royalty",
+      "meaningInSourceLanguage": "版税",
+      "id": "9c85d07802f5",
+      "priority": 0,
+      "group": "2862426da1fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "royalty",
+      "meaning": "版税",
+      "audio": "2b27ac1699704eb5a04eef0c94493afd",
+      "id": "f375b0558075",
+      "priority": 1,
+      "group": "2862426da1fc"
+    }
+  ]
+}

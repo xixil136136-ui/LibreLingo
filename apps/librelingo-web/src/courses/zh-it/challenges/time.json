@@ -1,0 +1,448 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Al mattino.",
+      "meaningInSourceLanguage": "在早上。",
+      "id": "326cad4fb52a",
+      "priority": 0,
+      "group": "73bcebf8666a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Al mattino.",
+      "meaning": "在早上。",
+      "audio": "1a6160692eb719e0ac04dcc653a290b6a2044a5f469cbb7aa7db2cf960d92e7a",
+      "id": "33ebd8dcfd77",
+      "priority": 1,
+      "group": "73bcebf8666a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A domani.",
+      "meaningInSourceLanguage": "明天见。",
+      "id": "020bfdc1a397",
+      "priority": 0,
+      "group": "485342139a40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A domani.",
+      "meaning": "明天见。",
+      "audio": "ab4bf4f344bffaf12faae95e65cdc3cefaf6c13fd4a0e47098fbc223c2555f73",
+      "id": "f62419da9e0d",
+      "priority": 1,
+      "group": "485342139a40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "È mattina presto.",
+      "meaningInSourceLanguage": "现在是清晨。",
+      "id": "a30e789af14a",
+      "priority": 0,
+      "group": "c0e2c9926812"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "È mattina presto.",
+      "meaning": "现在是清晨。",
+      "audio": "12fe4463ae1a69bf6c9cfba921eaacd34aabeb338283052d01a1adf00a77d201",
+      "id": "9d620832443a",
+      "priority": 1,
+      "group": "c0e2c9926812"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sono libero ora.",
+      "meaningInSourceLanguage": "我现在有空。",
+      "id": "56c0a2107de3",
+      "priority": 0,
+      "group": "e9de43e848a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sono libero ora.",
+      "meaning": "我现在有空。",
+      "audio": "85c1d69b553f7ae96e345d5ccc169dd9e670ec35c44a893cfab449957777c8eb",
+      "id": "b36418436f4e",
+      "priority": 1,
+      "group": "e9de43e848a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A più tardi.",
+      "meaningInSourceLanguage": "回头见。",
+      "id": "62cccee42611",
+      "priority": 0,
+      "group": "bbd54985ce70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A più tardi.",
+      "meaning": "回头见。",
+      "audio": "6167842a7213a18fcb88bc57969fd47bd848bde899133b67c58526fb6cb47e60",
+      "id": "4382463ffeb4",
+      "priority": 1,
+      "group": "bbd54985ce70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Nel pomeriggio.",
+      "meaningInSourceLanguage": "在下午。",
+      "id": "1ea2fe3021f8",
+      "priority": 0,
+      "group": "8a793d46b872"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nel pomeriggio.",
+      "meaning": "在下午。",
+      "audio": "98c5c9a6cf45a5a8d027276590dd7cb611d59935b33a468e88a2cee571736747",
+      "id": "cc7346e362e7",
+      "priority": 1,
+      "group": "8a793d46b872"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "mattina",
+      "meaningInSourceLanguage": "早上",
+      "id": "3f1a82a0f421",
+      "priority": 0,
+      "group": "6c77b5a0629a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "mattina"
+      ],
+      "phrase": [
+        {
+          "word": "早上",
+          "definition": "mattina"
+        }
+      ],
+      "id": "58d79566750c",
+      "priority": 1,
+      "group": "6c77b5a0629a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mattina",
+      "meaning": "早上",
+      "audio": "d52a1e80876d154a96cb025efac5bf3b7d717c5f6130e10c8b7b9162ba9416cd",
+      "id": "bc0d4fc925a1",
+      "priority": 1,
+      "group": "6c77b5a0629a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pomeriggio",
+      "meaningInSourceLanguage": "下午",
+      "id": "d68961d7bbb6",
+      "priority": 0,
+      "group": "ddd407ed3ccf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pomeriggio"
+      ],
+      "phrase": [
+        {
+          "word": "下午",
+          "definition": "pomeriggio"
+        }
+      ],
+      "id": "ff978cf7bdf4",
+      "priority": 1,
+      "group": "ddd407ed3ccf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pomeriggio",
+      "meaning": "下午",
+      "audio": "a217436e8a997d31e0ec6218e688c9afd95d6018eabe244abc74bc18305a6c00",
+      "id": "754851a82c8c",
+      "priority": 1,
+      "group": "ddd407ed3ccf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sera",
+      "meaningInSourceLanguage": "晚上",
+      "id": "92887874771a",
+      "priority": 0,
+      "group": "3cd71a4dfa5d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sera"
+      ],
+      "phrase": [
+        {
+          "word": "晚上",
+          "definition": "sera"
+        }
+      ],
+      "id": "f2b26a420750",
+      "priority": 1,
+      "group": "3cd71a4dfa5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sera",
+      "meaning": "晚上",
+      "audio": "b5f3c5e369dabc06f119e9e26f0b8e37611d3863f45de978152bd460532b04c6",
+      "id": "be10da072d55",
+      "priority": 1,
+      "group": "3cd71a4dfa5d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "notte",
+      "meaningInSourceLanguage": "夜晚",
+      "id": "546b67b6e57c",
+      "priority": 0,
+      "group": "df8818bf3532"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "notte"
+      ],
+      "phrase": [
+        {
+          "word": "夜晚",
+          "definition": "notte"
+        }
+      ],
+      "id": "ec77981f0750",
+      "priority": 1,
+      "group": "df8818bf3532"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "notte",
+      "meaning": "夜晚",
+      "audio": "91459f7ff819e598ea84a6902ea07a64b891ed4ce60574527e1aa839ab20564a",
+      "id": "8354807cb429",
+      "priority": 1,
+      "group": "df8818bf3532"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "oggi",
+      "meaningInSourceLanguage": "今天",
+      "id": "7b94cb02e846",
+      "priority": 0,
+      "group": "312e17f6aab2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "oggi"
+      ],
+      "phrase": [
+        {
+          "word": "今天",
+          "definition": "oggi"
+        }
+      ],
+      "id": "0e6e81c239e1",
+      "priority": 1,
+      "group": "312e17f6aab2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oggi",
+      "meaning": "今天",
+      "audio": "b2a19b48588684fc944395bfa2f77007a08791c9a28d831caa214cfc61cb5536",
+      "id": "faca98ac52a8",
+      "priority": 1,
+      "group": "312e17f6aab2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "domani",
+      "meaningInSourceLanguage": "明天",
+      "id": "ff6f9dcfb29d",
+      "priority": 0,
+      "group": "43d9fdbf9e5b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "domani"
+      ],
+      "phrase": [
+        {
+          "word": "明天",
+          "definition": "domani"
+        }
+      ],
+      "id": "cc231aff7654",
+      "priority": 1,
+      "group": "43d9fdbf9e5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "domani",
+      "meaning": "明天",
+      "audio": "68f3617f67afebc2ec028df8934e7f263d631fa54d2104c8f08a301ff291f2d7",
+      "id": "4be1e0bedc56",
+      "priority": 1,
+      "group": "43d9fdbf9e5b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ieri",
+      "meaningInSourceLanguage": "昨天",
+      "id": "6cb83168f55e",
+      "priority": 0,
+      "group": "96804f733f8a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ieri"
+      ],
+      "phrase": [
+        {
+          "word": "昨天",
+          "definition": "ieri"
+        }
+      ],
+      "id": "80b5fe0bb95d",
+      "priority": 1,
+      "group": "96804f733f8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ieri",
+      "meaning": "昨天",
+      "audio": "a650fbc7b086f6e38bca2ecd01debfe64bad32bdce14b1b5be5cdf3934edba12",
+      "id": "8cdce152eb73",
+      "priority": 1,
+      "group": "96804f733f8a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "adesso",
+      "meaningInSourceLanguage": "现在",
+      "id": "61df14f6ab1d",
+      "priority": 0,
+      "group": "a20ee5aaaa8a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "adesso"
+      ],
+      "phrase": [
+        {
+          "word": "现在",
+          "definition": "adesso"
+        }
+      ],
+      "id": "d9aa6bb82de4",
+      "priority": 1,
+      "group": "a20ee5aaaa8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "adesso",
+      "meaning": "现在",
+      "audio": "d19aaffe956958218e242e830a853fdd85b33f8fc7fe442a72a0fd4b3c95a8be",
+      "id": "933ae6b5fe9e",
+      "priority": 1,
+      "group": "a20ee5aaaa8a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "più tardi",
+      "meaningInSourceLanguage": "稍后",
+      "id": "1a240ff98d29",
+      "priority": 0,
+      "group": "2a3482976a6c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "più tardi"
+      ],
+      "phrase": [
+        {
+          "word": "稍后",
+          "definition": "più tardi"
+        }
+      ],
+      "id": "f2a6f7ea0899",
+      "priority": 1,
+      "group": "2a3482976a6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "più tardi",
+      "meaning": "稍后",
+      "audio": "f3f1133b75a8314bc05a14fa7ec8fe7cd3c2750b867e3ef099fa363f08f87cd1",
+      "id": "4ed715719f8c",
+      "priority": 1,
+      "group": "2a3482976a6c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "presto",
+      "meaningInSourceLanguage": "早",
+      "id": "31f027efe52e",
+      "priority": 0,
+      "group": "0716e776f3f5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "presto"
+      ],
+      "phrase": [
+        {
+          "word": "早",
+          "definition": "presto"
+        }
+      ],
+      "id": "4f1484bd5e14",
+      "priority": 1,
+      "group": "0716e776f3f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "presto",
+      "meaning": "早",
+      "audio": "28965b4a558e75f80d682975b8584f5ef280fd9829d3e3c872bdc2a1a4ba8e3c",
+      "id": "4cda7d51107d",
+      "priority": 1,
+      "group": "0716e776f3f5"
+    }
+  ]
+}

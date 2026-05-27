@@ -1,0 +1,1485 @@
+{
+  "id": "e476b5d65de7",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I prefer an aisle seat.",
+      "meaningInSourceLanguage": "我更喜欢过道的位置。",
+      "id": "d776ebb8f665",
+      "priority": 0,
+      "group": "daf91b4ee4ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I prefer an aisle seat.",
+      "meaning": "我更喜欢过道的位置。",
+      "audio": "f1504a2530cc489191f895ebaf323d85",
+      "id": "c07beda82b6d",
+      "priority": 1,
+      "group": "daf91b4ee4ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could I have a blanket, please?",
+      "meaningInSourceLanguage": "能给我一条毯子吗？",
+      "id": "690f1b5dc87a",
+      "priority": 0,
+      "group": "1d7987d44ccc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could I have a blanket, please?",
+      "meaning": "能给我一条毯子吗？",
+      "audio": "cd3c281fa1224db7bca936f278b8cd59",
+      "id": "e7b4ca7bcf43",
+      "priority": 1,
+      "group": "1d7987d44ccc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What time do we arrive?",
+      "meaningInSourceLanguage": "我们什么时候到达？",
+      "id": "087d3f9a92de",
+      "priority": 0,
+      "group": "d8c54e3ce09c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What time do we arrive?",
+      "meaning": "我们什么时候到达？",
+      "audio": "559c5a6683134a6ebc16a7411a9532b6",
+      "id": "20e56bcc4a19",
+      "priority": 1,
+      "group": "d8c54e3ce09c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We will arrive at 3 pm local time.",
+      "meaningInSourceLanguage": "我们将在当地时间下午3点到达。",
+      "id": "7dc63a06c149",
+      "priority": 0,
+      "group": "ea35650de47b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We will arrive at 3 pm local time.",
+      "meaning": "我们将在当地时间下午3点到达。",
+      "audio": "8f3271646e3d4ce184d68aec87677b74",
+      "id": "dd444df71da5",
+      "priority": 1,
+      "group": "ea35650de47b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have anything to declare?",
+      "meaningInSourceLanguage": "你有什么要申报的吗？",
+      "id": "7d06cf5e5c2e",
+      "priority": 0,
+      "group": "35d3eb5cbdde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have anything to declare?",
+      "meaning": "你有什么要申报的吗？",
+      "audio": "e90d5d7b56f4430aba8d4d2cf40d304d",
+      "id": "f8e8fb50dff6",
+      "priority": 1,
+      "group": "35d3eb5cbdde"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have nothing to declare.",
+      "meaningInSourceLanguage": "我没有什么要申报的。",
+      "id": "b2677b762456",
+      "priority": 0,
+      "group": "6607866413fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have nothing to declare.",
+      "meaning": "我没有什么要申报的。",
+      "audio": "ccb81035d9ac42928051b178dbf174b1",
+      "id": "b3920cca99d2",
+      "priority": 1,
+      "group": "6607866413fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where can I collect my luggage?",
+      "meaningInSourceLanguage": "我在哪里取行李？",
+      "id": "f752b04373dd",
+      "priority": 0,
+      "group": "5994a637af82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where can I collect my luggage?",
+      "meaning": "我在哪里取行李？",
+      "audio": "57c1b5a077204f7da656cccf5d0c25d3",
+      "id": "abc18c005f3b",
+      "priority": 1,
+      "group": "5994a637af82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Follow the signs to baggage claim.",
+      "meaningInSourceLanguage": "跟着指示牌去行李提取处。",
+      "id": "f6039033dc5f",
+      "priority": 0,
+      "group": "7d1bfcd39c59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Follow the signs to baggage claim.",
+      "meaning": "跟着指示牌去行李提取处。",
+      "audio": "4e376c6f0318461d9088513a2cabe7e3",
+      "id": "d39e66bd7fea",
+      "priority": 1,
+      "group": "7d1bfcd39c59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to exchange some currency.",
+      "meaningInSourceLanguage": "我需要换一些货币。",
+      "id": "97c0354e89ae",
+      "priority": 0,
+      "group": "034e5aa75f4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to exchange some currency.",
+      "meaning": "我需要换一些货币。",
+      "audio": "b6b6c5c4ef7c4fd3bd28eb04b40613cc",
+      "id": "93332587632e",
+      "priority": 1,
+      "group": "034e5aa75f4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the currency exchange?",
+      "meaningInSourceLanguage": "货币兑换处在哪里？",
+      "id": "63cafa345b68",
+      "priority": 0,
+      "group": "040f7b4f550b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the currency exchange?",
+      "meaning": "货币兑换处在哪里？",
+      "audio": "0c0cfecc0cd74edda890ce613968289d",
+      "id": "cb7a11f2ab05",
+      "priority": 1,
+      "group": "040f7b4f550b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to exchange 200 dollars.",
+      "meaningInSourceLanguage": "我想换200美元。",
+      "id": "0f9cb3cd8ec9",
+      "priority": 0,
+      "group": "8d8e65402128"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to exchange 200 dollars.",
+      "meaning": "我想换200美元。",
+      "audio": "18f8ab9b75bf40a2a9c6ffa2e57c6d5f",
+      "id": "26028d8d1b37",
+      "priority": 1,
+      "group": "8d8e65402128"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Help! I need help!",
+      "meaningInSourceLanguage": "救命！我需要帮助！",
+      "id": "04e572651018",
+      "priority": 0,
+      "group": "59eca47abced"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Help! I need help!",
+      "meaning": "救命！我需要帮助！",
+      "audio": "3dcf6252efb045b0a213baeae31cee7e",
+      "id": "24eb0eefc018",
+      "priority": 1,
+      "group": "59eca47abced"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Call the police!",
+      "meaningInSourceLanguage": "报警！",
+      "id": "e5dbfde3c802",
+      "priority": 0,
+      "group": "41047458ceb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Call the police!",
+      "meaning": "报警！",
+      "audio": "33038b0589cb45268a2671e5531f25a0",
+      "id": "e17aab1fbbbd",
+      "priority": 1,
+      "group": "41047458ceb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Call an ambulance!",
+      "meaningInSourceLanguage": "叫救护车！",
+      "id": "91af560708ef",
+      "priority": 0,
+      "group": "c2bd89c57bdd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Call an ambulance!",
+      "meaning": "叫救护车！",
+      "audio": "c1231e5552144f2aa2af80ea317c310a",
+      "id": "800f82f608f8",
+      "priority": 1,
+      "group": "c2bd89c57bdd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "There is an emergency!",
+      "meaningInSourceLanguage": "有紧急情况！",
+      "id": "b309044b1f64",
+      "priority": 0,
+      "group": "406d840dab2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "There is an emergency!",
+      "meaning": "有紧急情况！",
+      "audio": "8cda8b63b0764727ac52cd84e20b3cb6",
+      "id": "7763015d4c15",
+      "priority": 1,
+      "group": "406d840dab2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a doctor immediately.",
+      "meaningInSourceLanguage": "我需要马上看医生。",
+      "id": "628557e757b2",
+      "priority": 0,
+      "group": "48362df5a6a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a doctor immediately.",
+      "meaning": "我需要马上看医生。",
+      "audio": "886fb1a19de44cd89e938c767037ca75",
+      "id": "9952897e6935",
+      "priority": 1,
+      "group": "48362df5a6a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have lost my passport.",
+      "meaningInSourceLanguage": "我的护照丢了。",
+      "id": "463407b0da65",
+      "priority": 0,
+      "group": "d22dd18af090"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have lost my passport.",
+      "meaning": "我的护照丢了。",
+      "audio": "7fa2a905cf7b4d2e926176cd4d654768",
+      "id": "45fb1fdfb33d",
+      "priority": 1,
+      "group": "d22dd18af090"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the police station?",
+      "meaningInSourceLanguage": "警察局在哪里？",
+      "id": "e533f0611343",
+      "priority": 0,
+      "group": "b464332735a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the police station?",
+      "meaning": "警察局在哪里？",
+      "audio": "e6982022dc3a45819be9597ae58897b4",
+      "id": "897912928a1d",
+      "priority": 1,
+      "group": "b464332735a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to report a theft.",
+      "meaningInSourceLanguage": "我需要报盗窃案。",
+      "id": "ae0a55a4abc4",
+      "priority": 0,
+      "group": "73bfc47bb6c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to report a theft.",
+      "meaning": "我需要报盗窃案。",
+      "audio": "f7f42ff5413a4ee19c0950571c372f7a",
+      "id": "19dacdd6693b",
+      "priority": 1,
+      "group": "73bfc47bb6c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "My wallet has been stolen.",
+      "meaningInSourceLanguage": "我的钱包被偷了。",
+      "id": "27e5d44d37ee",
+      "priority": 0,
+      "group": "105b9daab711"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "My wallet has been stolen.",
+      "meaning": "我的钱包被偷了。",
+      "audio": "20c2535acc514bbd8638fe786bd76720",
+      "id": "670625a9a9da",
+      "priority": 1,
+      "group": "105b9daab711"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am lost.",
+      "meaningInSourceLanguage": "我迷路了。",
+      "id": "a63735bde415",
+      "priority": 0,
+      "group": "2e5e79911e70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am lost.",
+      "meaning": "我迷路了。",
+      "audio": "11640eccf9ad42b39952657dbc6de633",
+      "id": "30f65769caad",
+      "priority": 1,
+      "group": "2e5e79911e70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you help me find this address?",
+      "meaningInSourceLanguage": "你能帮我找到这个地址吗？",
+      "id": "94ea2b8012ae",
+      "priority": 0,
+      "group": "545a488e58c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you help me find this address?",
+      "meaning": "你能帮我找到这个地址吗？",
+      "audio": "bcc1fbc8c2374a9488ccc79d03f0aa2b",
+      "id": "b34ea5d976ce",
+      "priority": 1,
+      "group": "545a488e58c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I don't feel well.",
+      "meaningInSourceLanguage": "我感觉不舒服。",
+      "id": "59fd9eebd091",
+      "priority": 0,
+      "group": "a4b78fcc131c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I don't feel well.",
+      "meaning": "我感觉不舒服。",
+      "audio": "0b6e58bf93f34489960282f11a2c8edc",
+      "id": "82816797fee6",
+      "priority": 1,
+      "group": "a4b78fcc131c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have a fever.",
+      "meaningInSourceLanguage": "我发烧了。",
+      "id": "764ce0d8d79e",
+      "priority": 0,
+      "group": "a094d116267d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have a fever.",
+      "meaning": "我发烧了。",
+      "audio": "e5120f760b2849258587f5d026b6c636",
+      "id": "7145ccab4a5f",
+      "priority": 1,
+      "group": "a094d116267d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am allergic to peanuts.",
+      "meaningInSourceLanguage": "我对花生过敏。",
+      "id": "08b24bc1333d",
+      "priority": 0,
+      "group": "89b8bb9596a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am allergic to peanuts.",
+      "meaning": "我对花生过敏。",
+      "audio": "5fe47f6d3cbe46bd8e2fbb0b327ab1e4",
+      "id": "9c5e3834f2e6",
+      "priority": 1,
+      "group": "89b8bb9596a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a dentist.",
+      "meaningInSourceLanguage": "我需要看牙医。",
+      "id": "a038982e944f",
+      "priority": 0,
+      "group": "f154486d138b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a dentist.",
+      "meaning": "我需要看牙医。",
+      "audio": "866c1dbecfc845a7ab34e3cccff5a335",
+      "id": "3350adf64d90",
+      "priority": 1,
+      "group": "f154486d138b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It hurts here.",
+      "meaningInSourceLanguage": "这里疼。",
+      "id": "40329571a69c",
+      "priority": 0,
+      "group": "c125bf2d8c93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It hurts here.",
+      "meaning": "这里疼。",
+      "audio": "061085364128430cb68eb9565ad5b55b",
+      "id": "d722ae3ec574",
+      "priority": 1,
+      "group": "c125bf2d8c93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is there a hospital nearby?",
+      "meaningInSourceLanguage": "附近有医院吗？",
+      "id": "1e672c785f61",
+      "priority": 0,
+      "group": "cb89e02c0310"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is there a hospital nearby?",
+      "meaning": "附近有医院吗？",
+      "audio": "03de3f56821f453b99ae3602e24142f3",
+      "id": "e4621376e025",
+      "priority": 1,
+      "group": "cb89e02c0310"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please take me to the hospital.",
+      "meaningInSourceLanguage": "请带我去医院。",
+      "id": "5cb70886aba5",
+      "priority": 0,
+      "group": "1f282ea0832a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please take me to the hospital.",
+      "meaning": "请带我去医院。",
+      "audio": "6fa4f70b5a8d43e2bfae5e5aeb3ed581",
+      "id": "d85b28f3da3f",
+      "priority": 1,
+      "group": "1f282ea0832a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need medicine for a cold.",
+      "meaningInSourceLanguage": "我需要感冒药。",
+      "id": "46c3dea5664a",
+      "priority": 0,
+      "group": "e97f8beb3c12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need medicine for a cold.",
+      "meaning": "我需要感冒药。",
+      "audio": "a6d608cac4dc4e06866b351a7e3ed668",
+      "id": "30267e42e79c",
+      "priority": 1,
+      "group": "e97f8beb3c12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How do I take this medicine?",
+      "meaningInSourceLanguage": "这药怎么吃？",
+      "id": "76593de0f14b",
+      "priority": 0,
+      "group": "43c6b8ecfdc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How do I take this medicine?",
+      "meaning": "这药怎么吃？",
+      "audio": "35bf2ca4632b4e6487eebc89ef92ada3",
+      "id": "3d97335fed66",
+      "priority": 1,
+      "group": "43c6b8ecfdc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Take two pills three times a day.",
+      "meaningInSourceLanguage": "每天三次，每次两粒。",
+      "id": "5160efba7eea",
+      "priority": 0,
+      "group": "7e38e84eee96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Take two pills three times a day.",
+      "meaning": "每天三次，每次两粒。",
+      "audio": "1f4584d9206c49759aca1717d7406b22",
+      "id": "2c2135bee3f5",
+      "priority": 1,
+      "group": "7e38e84eee96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have health insurance.",
+      "meaningInSourceLanguage": "我有健康保险。",
+      "id": "061aef5ae2de",
+      "priority": 0,
+      "group": "8ca403a3e241"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have health insurance.",
+      "meaning": "我有健康保险。",
+      "audio": "7df61fa40c144ee7b90f9cf811d8b91e",
+      "id": "2f0083fb0018",
+      "priority": 1,
+      "group": "8ca403a3e241"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I contact my embassy?",
+      "meaningInSourceLanguage": "我能联系我的大使馆吗？",
+      "id": "6b2da86d0a42",
+      "priority": 0,
+      "group": "4ea501169bcb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I contact my embassy?",
+      "meaning": "我能联系我的大使馆吗？",
+      "audio": "0c21a99c209c40f08a6605368cae9193",
+      "id": "9c4fe5450d49",
+      "priority": 1,
+      "group": "4ea501169bcb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a new visa.",
+      "meaningInSourceLanguage": "我需要新的签证。",
+      "id": "4df01dbeeed7",
+      "priority": 0,
+      "group": "fab0df3dbfae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a new visa.",
+      "meaning": "我需要新的签证。",
+      "audio": "5c92b936dbf74a71a3b14c4b2da8a19d",
+      "id": "8909c63d59e2",
+      "priority": 1,
+      "group": "fab0df3dbfae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you help me with this?",
+      "meaningInSourceLanguage": "你能帮我做这个吗？",
+      "id": "d0fc8908427a",
+      "priority": 0,
+      "group": "acf2840fe5b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you help me with this?",
+      "meaning": "你能帮我做这个吗？",
+      "audio": "e143b2a59b9348a3b9f67d9bab06caaf",
+      "id": "193c348b41b1",
+      "priority": 1,
+      "group": "acf2840fe5b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Of course, what do you need?",
+      "meaningInSourceLanguage": "当然，你需要什么？",
+      "id": "0a25f08d61ca",
+      "priority": 0,
+      "group": "d183845670f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Of course, what do you need?",
+      "meaning": "当然，你需要什么？",
+      "audio": "2249b87a4f454958806f23262b8eb4fc",
+      "id": "9800c014bf15",
+      "priority": 1,
+      "group": "d183845670f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to find the library.",
+      "meaningInSourceLanguage": "我需要找到图书馆。",
+      "id": "985a288cdd66",
+      "priority": 0,
+      "group": "2df8873593e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to find the library.",
+      "meaning": "我需要找到图书馆。",
+      "audio": "12caaa33fbb0435bbae49f1a0a52708f",
+      "id": "75759936d1d2",
+      "priority": 1,
+      "group": "2df8873593e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's on the second floor.",
+      "meaningInSourceLanguage": "在二楼。",
+      "id": "f6e1acdc92a9",
+      "priority": 0,
+      "group": "0444feb8b2ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's on the second floor.",
+      "meaning": "在二楼。",
+      "audio": "bc18f910fe344c0588d5f9d341f15967",
+      "id": "874da801c42c",
+      "priority": 1,
+      "group": "0444feb8b2ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much does this cost?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "6a9823ed4461",
+      "priority": 0,
+      "group": "214fa58915ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much does this cost?",
+      "meaning": "这个多少钱？",
+      "audio": "cff848e9934c43968fae9f8be2ddb413",
+      "id": "22f18aef7236",
+      "priority": 1,
+      "group": "214fa58915ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's 50 dollars.",
+      "meaningInSourceLanguage": "50美元。",
+      "id": "45546cc7e361",
+      "priority": 0,
+      "group": "56da5b5f7fef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's 50 dollars.",
+      "meaning": "50美元。",
+      "audio": "a91241c377d0456999d049d60f71cdba",
+      "id": "ce27cd9ba628",
+      "priority": 1,
+      "group": "56da5b5f7fef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I try this on?",
+      "meaningInSourceLanguage": "我可以试穿这个吗？",
+      "id": "9b60dbc2a138",
+      "priority": 0,
+      "group": "ce39d4893ff1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I try this on?",
+      "meaning": "我可以试穿这个吗？",
+      "audio": "12872e799ef942338ce60ff568022b50",
+      "id": "8f803482014a",
+      "priority": 1,
+      "group": "ce39d4893ff1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, the fitting room is over there.",
+      "meaningInSourceLanguage": "当然，试衣间在那边。",
+      "id": "cdc677c6f76c",
+      "priority": 0,
+      "group": "52d51fdf7b2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, the fitting room is over there.",
+      "meaning": "当然，试衣间在那边。",
+      "audio": "8d53c86a820a41ad90c16ce53656844e",
+      "id": "842984b2590c",
+      "priority": 1,
+      "group": "52d51fdf7b2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have this in red?",
+      "meaningInSourceLanguage": "这个有红色的吗？",
+      "id": "363363a418d1",
+      "priority": 0,
+      "group": "896971310e7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have this in red?",
+      "meaning": "这个有红色的吗？",
+      "audio": "358d2f321e6449f782a66911af07189a",
+      "id": "7825300fb6e1",
+      "priority": 1,
+      "group": "896971310e7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let me check the back.",
+      "meaningInSourceLanguage": "我去后面看看。",
+      "id": "e34adf0c0e16",
+      "priority": 0,
+      "group": "a7a9b013bdb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let me check the back.",
+      "meaning": "我去后面看看。",
+      "audio": "f2fd533f4ace48f4b46338e88b6fca18",
+      "id": "4b555e634fbf",
+      "priority": 1,
+      "group": "a7a9b013bdb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to return this.",
+      "meaningInSourceLanguage": "我想退货。",
+      "id": "d282585389d0",
+      "priority": 0,
+      "group": "70d1a87d05e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to return this.",
+      "meaning": "我想退货。",
+      "audio": "fb3679fccf2944f383f858dfdf5af7b5",
+      "id": "971b9fe08cb2",
+      "priority": 1,
+      "group": "70d1a87d05e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have the receipt?",
+      "meaningInSourceLanguage": "你有收据吗？",
+      "id": "84972569daab",
+      "priority": 0,
+      "group": "e19139c80f47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have the receipt?",
+      "meaning": "你有收据吗？",
+      "audio": "77947ed89b754e15b61906195a73ea2b",
+      "id": "90e13df24456",
+      "priority": 1,
+      "group": "e19139c80f47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's the Wi-Fi password?",
+      "meaningInSourceLanguage": "WiFi密码是什么？",
+      "id": "f34a95d0c903",
+      "priority": 0,
+      "group": "6d81d8de78e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's the Wi-Fi password?",
+      "meaning": "WiFi密码是什么？",
+      "audio": "fd5b7bdc99fc44148a174b959d393cc3",
+      "id": "f9a54abbdf54",
+      "priority": 1,
+      "group": "6d81d8de78e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's on the card on the desk.",
+      "meaningInSourceLanguage": "在桌子上的卡片上。",
+      "id": "d4a63010410c",
+      "priority": 0,
+      "group": "5b7d5b12da2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's on the card on the desk.",
+      "meaning": "在桌子上的卡片上。",
+      "audio": "58679b0d89594e20a8d916dccf191c18",
+      "id": "aeb395415814",
+      "priority": 1,
+      "group": "5b7d5b12da2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is breakfast included?",
+      "meaningInSourceLanguage": "包含早餐吗？",
+      "id": "63ddf71918b3",
+      "priority": 0,
+      "group": "6026379063bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is breakfast included?",
+      "meaning": "包含早餐吗？",
+      "audio": "29c64e620dd249b8870585ae7a1459ce",
+      "id": "5d772b711d4d",
+      "priority": 1,
+      "group": "6026379063bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, from 7 to 10 am.",
+      "meaningInSourceLanguage": "是的，早上7点到10点。",
+      "id": "720c867d1754",
+      "priority": 0,
+      "group": "219d37aa8e26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, from 7 to 10 am.",
+      "meaning": "是的，早上7点到10点。",
+      "audio": "53469e6ea1ec4cd4853fdb0e8c6460fa",
+      "id": "2c15ed2ba2f3",
+      "priority": 1,
+      "group": "219d37aa8e26"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I get a wake-up call?",
+      "meaningInSourceLanguage": "能给我叫早服务吗？",
+      "id": "628bee38ad18",
+      "priority": 0,
+      "group": "8fdb7c7356b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I get a wake-up call?",
+      "meaning": "能给我叫早服务吗？",
+      "audio": "a64ae05d63ef457884281e82c7f4aa5a",
+      "id": "653add1fea06",
+      "priority": 1,
+      "group": "8fdb7c7356b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, what time?",
+      "meaningInSourceLanguage": "当然，几点？",
+      "id": "42f843a844ab",
+      "priority": 0,
+      "group": "be808c93cb53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, what time?",
+      "meaning": "当然，几点？",
+      "audio": "25ddde83a20c49358f90386f600a279e",
+      "id": "a9360d44fa03",
+      "priority": 1,
+      "group": "be808c93cb53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The room is too cold.",
+      "meaningInSourceLanguage": "房间太冷了。",
+      "id": "3bff49696e1a",
+      "priority": 0,
+      "group": "6237e19afb76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The room is too cold.",
+      "meaning": "房间太冷了。",
+      "audio": "36a0a5fcb4d74852b490dfb93f0ef8c7",
+      "id": "7993125b4be4",
+      "priority": 1,
+      "group": "6237e19afb76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll adjust the thermostat.",
+      "meaningInSourceLanguage": "我去调一下恒温器。",
+      "id": "31a575d60efe",
+      "priority": 0,
+      "group": "ef2602740ea6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll adjust the thermostat.",
+      "meaning": "我去调一下恒温器。",
+      "audio": "c30120a9d5d244dead20acfa888acf5b",
+      "id": "7cb1d13061a3",
+      "priority": 1,
+      "group": "ef2602740ea6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How do I get to the city center?",
+      "meaningInSourceLanguage": "怎么去市中心？",
+      "id": "9bcddd73627c",
+      "priority": 0,
+      "group": "5025a39910fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How do I get to the city center?",
+      "meaning": "怎么去市中心？",
+      "audio": "36fd8f2e68464c0ba7a0cfe916e1ce3d",
+      "id": "5a27640bc0c2",
+      "priority": 1,
+      "group": "5025a39910fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Take the subway, line 2.",
+      "meaningInSourceLanguage": "坐地铁2号线。",
+      "id": "fbbed2983226",
+      "priority": 0,
+      "group": "d7244acfe145"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Take the subway, line 2.",
+      "meaning": "坐地铁2号线。",
+      "audio": "61576b2656b2465a971fb1372f9b3dda",
+      "id": "49c05bd4ee5d",
+      "priority": 1,
+      "group": "d7244acfe145"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How long does it take?",
+      "meaningInSourceLanguage": "需要多长时间？",
+      "id": "c65b71d64966",
+      "priority": 0,
+      "group": "fa213f2de7f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How long does it take?",
+      "meaning": "需要多长时间？",
+      "audio": "15f5399eded4468a95f3b90622b2c0a2",
+      "id": "202eb47d5ef5",
+      "priority": 1,
+      "group": "fa213f2de7f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "About 20 minutes.",
+      "meaningInSourceLanguage": "大约20分钟。",
+      "id": "ef95c975414c",
+      "priority": 0,
+      "group": "4fa906f39c97"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "About 20 minutes.",
+      "meaning": "大约20分钟。",
+      "audio": "793eba1013e540129ac84e1399fc9676",
+      "id": "28942ef5d002",
+      "priority": 1,
+      "group": "4fa906f39c97"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the nearest restaurant?",
+      "meaningInSourceLanguage": "最近的餐厅在哪里？",
+      "id": "1305a573cde4",
+      "priority": 0,
+      "group": "000676a36461"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the nearest restaurant?",
+      "meaning": "最近的餐厅在哪里？",
+      "audio": "1506c57dc71d46d29d39a99ba4b4e6b3",
+      "id": "992906dfda3e",
+      "priority": 1,
+      "group": "000676a36461"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "There's one around the corner.",
+      "meaningInSourceLanguage": "拐角处有一个。",
+      "id": "3c5a4695273d",
+      "priority": 0,
+      "group": "d883e44abcbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "There's one around the corner.",
+      "meaning": "拐角处有一个。",
+      "audio": "0cbfdd4f75354b8480c2e4cd6386d5bb",
+      "id": "54220e575cda",
+      "priority": 1,
+      "group": "d883e44abcbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "This is delicious!",
+      "meaningInSourceLanguage": "这太好吃了！",
+      "id": "6593771d8f2d",
+      "priority": 0,
+      "group": "3e65a3debc45"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "This is delicious!",
+      "meaning": "这太好吃了！",
+      "audio": "097fe67e1ae048768b348ac676d7ae43",
+      "id": "015bf7bab91a",
+      "priority": 1,
+      "group": "3e65a3debc45"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm glad you enjoy it.",
+      "meaningInSourceLanguage": "很高兴你喜欢。",
+      "id": "2bab6914d157",
+      "priority": 0,
+      "group": "bb4110094db3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm glad you enjoy it.",
+      "meaning": "很高兴你喜欢。",
+      "audio": "ba1363895f404679ac2e6401dc3a8dad",
+      "id": "2d1f72467b30",
+      "priority": 1,
+      "group": "bb4110094db3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could you pass the salt?",
+      "meaningInSourceLanguage": "能把盐递给我吗？",
+      "id": "55db0446a325",
+      "priority": 0,
+      "group": "bc65ef37cb4d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could you pass the salt?",
+      "meaning": "能把盐递给我吗？",
+      "audio": "28a73072a1f046f494e4a4ed571d31a7",
+      "id": "bf38d36d7993",
+      "priority": 1,
+      "group": "bc65ef37cb4d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Here you go.",
+      "meaningInSourceLanguage": "给你。",
+      "id": "5352c3deb28b",
+      "priority": 0,
+      "group": "e0bf5bab1b63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Here you go.",
+      "meaning": "给你。",
+      "audio": "31aad2b58bbd43d089cf8d46e03e6f2d",
+      "id": "9433ae36d097",
+      "priority": 1,
+      "group": "e0bf5bab1b63"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Would you like some wine?",
+      "meaningInSourceLanguage": "你想喝点酒吗？",
+      "id": "07e6c561b22a",
+      "priority": 0,
+      "group": "7c4b6f2b53c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Would you like some wine?",
+      "meaning": "你想喝点酒吗？",
+      "audio": "c8df6953a8fd4cc9bce9de9f884b5899",
+      "id": "62830ed62b5a",
+      "priority": 1,
+      "group": "7c4b6f2b53c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, please. Red wine.",
+      "meaningInSourceLanguage": "好的，红葡萄酒。",
+      "id": "d1722fdd5afa",
+      "priority": 0,
+      "group": "f5389983857d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, please. Red wine.",
+      "meaning": "好的，红葡萄酒。",
+      "audio": "e6948fa45eaa45fbb2a2eda012cc648e",
+      "id": "6cc2a53e99a4",
+      "priority": 1,
+      "group": "f5389983857d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What are your hobbies?",
+      "meaningInSourceLanguage": "你的爱好是什么？",
+      "id": "2e7b2eb36686",
+      "priority": 0,
+      "group": "26b73b73ab92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What are your hobbies?",
+      "meaning": "你的爱好是什么？",
+      "audio": "121fc9109ad94ad48f6ed839a71e40e4",
+      "id": "d69a623215bd",
+      "priority": 1,
+      "group": "26b73b73ab92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like hiking and photography.",
+      "meaningInSourceLanguage": "我喜欢徒步和摄影。",
+      "id": "f0e4f117f491",
+      "priority": 0,
+      "group": "26408da9f9a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like hiking and photography.",
+      "meaning": "我喜欢徒步和摄影。",
+      "audio": "e79b25ef8efc4e00a519fa1f1db65911",
+      "id": "d797b751aa1a",
+      "priority": 1,
+      "group": "26408da9f9a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have any pets?",
+      "meaningInSourceLanguage": "你养宠物吗？",
+      "id": "33ab0c3c0b90",
+      "priority": 0,
+      "group": "e7eb2397c868"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have any pets?",
+      "meaning": "你养宠物吗？",
+      "audio": "1482e8fdf0734f0ba16a2b9336e3a88e",
+      "id": "f05744825bc0",
+      "priority": 1,
+      "group": "e7eb2397c868"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, I have a cat.",
+      "meaningInSourceLanguage": "是的，我有一只猫。",
+      "id": "4d0b9e08f6e3",
+      "priority": 0,
+      "group": "aec870e307a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, I have a cat.",
+      "meaning": "是的，我有一只猫。",
+      "audio": "d24de747acaa447f94689bdfe5d07ea7",
+      "id": "772848d8fe55",
+      "priority": 1,
+      "group": "aec870e307a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's your favorite color?",
+      "meaningInSourceLanguage": "你最喜欢的颜色是什么？",
+      "id": "5a22dd52d6cb",
+      "priority": 0,
+      "group": "af11acfce96c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's your favorite color?",
+      "meaning": "你最喜欢的颜色是什么？",
+      "audio": "e5be7e34150f475e92e7836633524773",
+      "id": "758123492cbc",
+      "priority": 1,
+      "group": "af11acfce96c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Blue, like the ocean.",
+      "meaningInSourceLanguage": "蓝色，像大海一样。",
+      "id": "ffc28fec5040",
+      "priority": 0,
+      "group": "09786b52cdb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Blue, like the ocean.",
+      "meaning": "蓝色，像大海一样。",
+      "audio": "63ea008587ce4e4c934b9d3ea3c4961d",
+      "id": "6a221e30e7b4",
+      "priority": 1,
+      "group": "09786b52cdb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I borrow your pen?",
+      "meaningInSourceLanguage": "我能借你的笔吗？",
+      "id": "d704b35cc5fc",
+      "priority": 0,
+      "group": "441549a2655d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I borrow your pen?",
+      "meaning": "我能借你的笔吗？",
+      "audio": "27b60679167b48a3b842ad79a444c49a",
+      "id": "b3d39db89b37",
+      "priority": 1,
+      "group": "441549a2655d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, here it is.",
+      "meaningInSourceLanguage": "当然，给你。",
+      "id": "045132eb66ad",
+      "priority": 0,
+      "group": "0bd4cbab5aa6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, here it is.",
+      "meaning": "当然，给你。",
+      "audio": "07506091edd44c1c8d6b1a73853f67a0",
+      "id": "7e829a16ef4b",
+      "priority": 1,
+      "group": "0bd4cbab5aa6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What time is the meeting?",
+      "meaningInSourceLanguage": "会议几点？",
+      "id": "2986e8e0f0f5",
+      "priority": 0,
+      "group": "163e078b7bd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What time is the meeting?",
+      "meaning": "会议几点？",
+      "audio": "de7a0ce89e0b4a2b99db2816802579a7",
+      "id": "90cdcd0b6252",
+      "priority": 1,
+      "group": "163e078b7bd8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "At 2 pm in the conference room.",
+      "meaningInSourceLanguage": "下午2点在会议室。",
+      "id": "62bad0c6aef1",
+      "priority": 0,
+      "group": "9282d5e5e695"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "At 2 pm in the conference room.",
+      "meaning": "下午2点在会议室。",
+      "audio": "5c59c18b5f20401d9fd295d47a158103",
+      "id": "2ece92400ef2",
+      "priority": 1,
+      "group": "9282d5e5e695"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please call me tonight.",
+      "meaningInSourceLanguage": "今晚给我打电话。",
+      "id": "1ee67295ca9b",
+      "priority": 0,
+      "group": "94213e8ebb11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please call me tonight.",
+      "meaning": "今晚给我打电话。",
+      "audio": "9003c0f3e05c45f9a7d32a4f21a493f9",
+      "id": "93448ce775a8",
+      "priority": 1,
+      "group": "94213e8ebb11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "OK, I'll call you at 8.",
+      "meaningInSourceLanguage": "好的，我8点打给你。",
+      "id": "4d1a8cc3bd01",
+      "priority": 0,
+      "group": "995b18284daa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "OK, I'll call you at 8.",
+      "meaning": "好的，我8点打给你。",
+      "audio": "4c455cfbfd6e4a7687415a4bd0fa0c9a",
+      "id": "3d9d652a4001",
+      "priority": 1,
+      "group": "995b18284daa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to buy a gift.",
+      "meaningInSourceLanguage": "我需要买礼物。",
+      "id": "46ccd0bbc9c4",
+      "priority": 0,
+      "group": "1c4a94ad5d91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to buy a gift.",
+      "meaning": "我需要买礼物。",
+      "audio": "d376d9bc5cf5495f9f777a934a915f83",
+      "id": "5a1bcb7ff4f0",
+      "priority": 1,
+      "group": "1c4a94ad5d91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What kind of gift?",
+      "meaningInSourceLanguage": "什么样的礼物？",
+      "id": "f1c84d814079",
+      "priority": 0,
+      "group": "81449fb34e13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What kind of gift?",
+      "meaning": "什么样的礼物？",
+      "audio": "758846ccdc724e7b8cbc854119fbdc2d",
+      "id": "7094aa3200e9",
+      "priority": 1,
+      "group": "81449fb34e13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's meet at the entrance.",
+      "meaningInSourceLanguage": "我们在入口见面。",
+      "id": "ec5816d769de",
+      "priority": 0,
+      "group": "1ba55e94f80f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's meet at the entrance.",
+      "meaning": "我们在入口见面。",
+      "audio": "7bd8351ba78943af93fd90693d05b923",
+      "id": "d97f10a8005b",
+      "priority": 1,
+      "group": "1ba55e94f80f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How will I recognize you?",
+      "meaningInSourceLanguage": "我怎么认出你？",
+      "id": "acc4a22db319",
+      "priority": 0,
+      "group": "e4e22cd0a592"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How will I recognize you?",
+      "meaning": "我怎么认出你？",
+      "audio": "b319413760e74421a47a4fe7f5e3b27c",
+      "id": "1de0952f801c",
+      "priority": 1,
+      "group": "e4e22cd0a592"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll wear a red jacket.",
+      "meaningInSourceLanguage": "我会穿一件红色夹克。",
+      "id": "706cdc4c6e35",
+      "priority": 0,
+      "group": "417e4cd8ecb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll wear a red jacket.",
+      "meaning": "我会穿一件红色夹克。",
+      "audio": "99fe6752d1874f608991312153c6ff7d",
+      "id": "31a000575f70",
+      "priority": 1,
+      "group": "417e4cd8ecb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "OK, see you there!",
+      "meaningInSourceLanguage": "好的，那里见！",
+      "id": "4991b6305029",
+      "priority": 0,
+      "group": "fbcc5efa91e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "OK, see you there!",
+      "meaning": "好的，那里见！",
+      "audio": "8c9ac05e57aa4ee4bd22f4bf8401ccf7",
+      "id": "7c8ed0b89826",
+      "priority": 1,
+      "group": "fbcc5efa91e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's take a break.",
+      "meaningInSourceLanguage": "我们休息一下吧。",
+      "id": "749ab55b45a2",
+      "priority": 0,
+      "group": "b4504ef4e1db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's take a break.",
+      "meaning": "我们休息一下吧。",
+      "audio": "4d28a9c26c194161892038060c6c7963",
+      "id": "df02f2db6015",
+      "priority": 1,
+      "group": "b4504ef4e1db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Good idea, I'm tired.",
+      "meaningInSourceLanguage": "好主意，我累了。",
+      "id": "fa253085a9e2",
+      "priority": 0,
+      "group": "3bf173f4a2ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Good idea, I'm tired.",
+      "meaning": "好主意，我累了。",
+      "audio": "028955b7af23449ab55967a5c2c91ab4",
+      "id": "0dc1541531bb",
+      "priority": 1,
+      "group": "3bf173f4a2ef"
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "これは私の家です。",
+      "meaningInSourceLanguage": "这是我的房子。",
+      "id": "16f247a7a0ca",
+      "priority": 0,
+      "group": "1ea134938e61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "これは私の家です。",
+      "meaning": "这是我的房子。",
+      "audio": "e635862d20e0b6d583a341e10ff21aaf3c17f3758eaebba95a4cda832633f2ed",
+      "id": "b677d5c4a5b2",
+      "priority": 1,
+      "group": "1ea134938e61"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ドアを開けてください。",
+      "meaningInSourceLanguage": "开门。",
+      "id": "61081c5e2e88",
+      "priority": 0,
+      "group": "85499fca88eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ドアを開けてください。",
+      "meaning": "开门。",
+      "audio": "8b448f82e2701fc677f14ed3fd232a9f3e0e509781455c742f405fb6e75f4364",
+      "id": "5a336e1a2dd6",
+      "priority": 1,
+      "group": "85499fca88eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "台所は広いです。",
+      "meaningInSourceLanguage": "厨房很大。",
+      "id": "dcb6ef7f883a",
+      "priority": 0,
+      "group": "68ab88a3970b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "台所は広いです。",
+      "meaning": "厨房很大。",
+      "audio": "5c00e099b1b4acf13f0172378d4c73a077a8fed124886845ee337280f8c4657d",
+      "id": "070c61b11915",
+      "priority": 1,
+      "group": "68ab88a3970b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "寝室は綺麗です。",
+      "meaningInSourceLanguage": "卧室很干净。",
+      "id": "a06a7fddc8da",
+      "priority": 0,
+      "group": "682d15225dc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "寝室は綺麗です。",
+      "meaning": "卧室很干净。",
+      "audio": "f8237b924ca82893775e432758cbc0603732773814e7d5592fabc1de764b6b73",
+      "id": "6a3cb4408167",
+      "priority": 1,
+      "group": "682d15225dc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "庭があります。",
+      "meaningInSourceLanguage": "有一个花园。",
+      "id": "cb1fbee23c5f",
+      "priority": 0,
+      "group": "963cf9328f34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "庭があります。",
+      "meaning": "有一个花园。",
+      "audio": "b78e4035dc5185f85ba774946e9ec2972807f3754b8125af6f7a840861b07c9d",
+      "id": "01aa6cc1c0b6",
+      "priority": 1,
+      "group": "963cf9328f34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "窓を閉めてください。",
+      "meaningInSourceLanguage": "关窗。",
+      "id": "d78e80e686bb",
+      "priority": 0,
+      "group": "cd0eab7cdc10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "窓を閉めてください。",
+      "meaning": "关窗。",
+      "audio": "03b65a6be241d0098aa5e53e7a7d8171930b3cf1abdaf4a691f69dbcc2cb0c5f",
+      "id": "8a0ed87a0401",
+      "priority": 1,
+      "group": "cd0eab7cdc10"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "家",
+      "meaningInSourceLanguage": "房子",
+      "id": "249c7c44d56c",
+      "priority": 0,
+      "group": "e9ed6f546ae9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "家"
+      ],
+      "phrase": [
+        {
+          "word": "房子",
+          "definition": "家"
+        }
+      ],
+      "id": "edb769372c36",
+      "priority": 1,
+      "group": "e9ed6f546ae9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "家",
+      "meaning": "房子",
+      "audio": "3960c7c934461b29002cffe9c889fca5737b284566e5974105db695f6bacc8be",
+      "id": "5a6824ea4839",
+      "priority": 1,
+      "group": "e9ed6f546ae9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ドア",
+      "meaningInSourceLanguage": "门",
+      "id": "59c3d5533752",
+      "priority": 0,
+      "group": "163be100cf7e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ドア"
+      ],
+      "phrase": [
+        {
+          "word": "门",
+          "definition": "ドア"
+        }
+      ],
+      "id": "a2a3864293d5",
+      "priority": 1,
+      "group": "163be100cf7e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ドア",
+      "meaning": "门",
+      "audio": "edc3d758b363effc811795bf13d7870896394ac60ac283425662e0f22d9fe0d9",
+      "id": "5afee4c74a9c",
+      "priority": 1,
+      "group": "163be100cf7e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "窓",
+      "meaningInSourceLanguage": "窗户",
+      "id": "e4c786bc4305",
+      "priority": 0,
+      "group": "c74ca0e918c3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "窓"
+      ],
+      "phrase": [
+        {
+          "word": "窗户",
+          "definition": "窓"
+        }
+      ],
+      "id": "cb9b521edcf2",
+      "priority": 1,
+      "group": "c74ca0e918c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "窓",
+      "meaning": "窗户",
+      "audio": "686220e793418a29a5f7d428cab3f85b6a369976ab032c8ee05047ec905908df",
+      "id": "c3a1de3064ce",
+      "priority": 1,
+      "group": "c74ca0e918c3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "台所",
+      "meaningInSourceLanguage": "厨房",
+      "id": "30b4079095fb",
+      "priority": 0,
+      "group": "85a706367a0b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "台所"
+      ],
+      "phrase": [
+        {
+          "word": "厨房",
+          "definition": "台所"
+        }
+      ],
+      "id": "0eb5ad9e2f1a",
+      "priority": 1,
+      "group": "85a706367a0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "台所",
+      "meaning": "厨房",
+      "audio": "7149180149831c4eb58055b613ef17ea4865c115ae1953f1b563aa00524a5540",
+      "id": "81f51404a5c6",
+      "priority": 1,
+      "group": "85a706367a0b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "寝室",
+      "meaningInSourceLanguage": "卧室",
+      "id": "fbc18d42d710",
+      "priority": 0,
+      "group": "39c8be666649"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "寝室"
+      ],
+      "phrase": [
+        {
+          "word": "卧室",
+          "definition": "寝室"
+        }
+      ],
+      "id": "5f3493896419",
+      "priority": 1,
+      "group": "39c8be666649"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "寝室",
+      "meaning": "卧室",
+      "audio": "e1ad2e23f64e7fe4c0b6fde6cbfa56507f1c8a96a1dce85a195d6e28b5cf5d14",
+      "id": "775d5a5a5927",
+      "priority": 1,
+      "group": "39c8be666649"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "庭",
+      "meaningInSourceLanguage": "花园",
+      "id": "5eded5852bfe",
+      "priority": 0,
+      "group": "bb0e418276ab"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "庭"
+      ],
+      "phrase": [
+        {
+          "word": "花园",
+          "definition": "庭"
+        }
+      ],
+      "id": "6246216b24d3",
+      "priority": 1,
+      "group": "bb0e418276ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "庭",
+      "meaning": "花园",
+      "audio": "6a271bd7dacf969150bcbddf5ae0d24be09f041de8d0ebf85d4965b27630267b",
+      "id": "a82ae4e29a64",
+      "priority": 1,
+      "group": "bb0e418276ab"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "車庫",
+      "meaningInSourceLanguage": "车库",
+      "id": "b94f1a5e4124",
+      "priority": 0,
+      "group": "e583107cf2d2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "車庫"
+      ],
+      "phrase": [
+        {
+          "word": "车库",
+          "definition": "車庫"
+        }
+      ],
+      "id": "87b9b73378cb",
+      "priority": 1,
+      "group": "e583107cf2d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "車庫",
+      "meaning": "车库",
+      "audio": "de00a40f4b739f56f13df89e9bcf643b52aaa09d400310894ff79f87570e42ed",
+      "id": "0aaa65c5b654",
+      "priority": 1,
+      "group": "e583107cf2d2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "階段",
+      "meaningInSourceLanguage": "楼梯",
+      "id": "f08280f72431",
+      "priority": 0,
+      "group": "2ea54764cbae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "階段"
+      ],
+      "phrase": [
+        {
+          "word": "楼梯",
+          "definition": "階段"
+        }
+      ],
+      "id": "8a797b570878",
+      "priority": 1,
+      "group": "2ea54764cbae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "階段",
+      "meaning": "楼梯",
+      "audio": "ec1d026539df8960d51afa84956c3c7b9349762f0b923136764dcda0ee5bb204",
+      "id": "da61f86d1ba6",
+      "priority": 1,
+      "group": "2ea54764cbae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "庭",
+      "meaningInSourceLanguage": "院子",
+      "id": "5d2b401cbb91",
+      "priority": 0,
+      "group": "aa4b09850cb7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "庭"
+      ],
+      "phrase": [
+        {
+          "word": "院子",
+          "definition": "庭"
+        }
+      ],
+      "id": "e31cf7ced52c",
+      "priority": 1,
+      "group": "aa4b09850cb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "庭",
+      "meaning": "院子",
+      "audio": "6a271bd7dacf969150bcbddf5ae0d24be09f041de8d0ebf85d4965b27630267b",
+      "id": "46cbc463427e",
+      "priority": 1,
+      "group": "aa4b09850cb7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "屋根",
+      "meaningInSourceLanguage": "屋顶",
+      "id": "c275d2c31542",
+      "priority": 0,
+      "group": "942199c8714e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "屋根"
+      ],
+      "phrase": [
+        {
+          "word": "屋顶",
+          "definition": "屋根"
+        }
+      ],
+      "id": "193703939667",
+      "priority": 1,
+      "group": "942199c8714e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "屋根",
+      "meaning": "屋顶",
+      "audio": "6c8847a21d85765d400ee9b7ba478c432275754e0d67045f7ec45e892c69ceea",
+      "id": "f7904b41cd6d",
+      "priority": 1,
+      "group": "942199c8714e"
+    }
+  ]
+}

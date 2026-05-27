@@ -1,0 +1,516 @@
+{
+  "id": "3e3625091914",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "greet",
+      "meaningInSourceLanguage": "打招呼",
+      "id": "15de06fcdb22",
+      "priority": 0,
+      "group": "00f1e5dabfed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "greet",
+      "meaning": "打招呼",
+      "audio": "4e70d3e9fba5145c789c5cbb2cffef4fb3407e3c3b25b9d026157f7c6981880c",
+      "id": "e1f2875502f8",
+      "priority": 1,
+      "group": "00f1e5dabfed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "introduce",
+      "meaningInSourceLanguage": "介绍",
+      "id": "b18b0a44507d",
+      "priority": 0,
+      "group": "ef47db155310"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "introduce",
+      "meaning": "介绍",
+      "audio": "ab5d60fb145643bd7fb4fd99c0ecf94fbe8cbb47e71d6209f43c26e6f57232e3",
+      "id": "5f20f6d0e52b",
+      "priority": 1,
+      "group": "ef47db155310"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "invite",
+      "meaningInSourceLanguage": "邀请",
+      "id": "9c3b8349c0cf",
+      "priority": 0,
+      "group": "7e2e036be013"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "invite",
+      "meaning": "邀请",
+      "audio": "486c36a512c60d6e10f3e0683535a121b7aa8725888bafd665d7bf620931006b",
+      "id": "113e01b7a096",
+      "priority": 1,
+      "group": "7e2e036be013"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accept",
+      "meaningInSourceLanguage": "接受",
+      "id": "c531988349b7",
+      "priority": 0,
+      "group": "062cd57f8a84"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accept",
+      "meaning": "接受",
+      "audio": "4e744903266888e0b30ce1967b1448a24b9c7140b05994679cf65c3029015009",
+      "id": "91bab2fbed8c",
+      "priority": 1,
+      "group": "062cd57f8a84"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "refuse",
+      "meaningInSourceLanguage": "拒绝",
+      "id": "80a14acdc30d",
+      "priority": 0,
+      "group": "956d9e4c3571"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "refuse",
+      "meaning": "拒绝",
+      "audio": "ae473c8641f9f4c60d9335501ca2711d963f9ff9727609c05a25e12acb9d8ab3",
+      "id": "8944cbed1641",
+      "priority": 1,
+      "group": "956d9e4c3571"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "offer",
+      "meaningInSourceLanguage": "提供",
+      "id": "853150ad912c",
+      "priority": 0,
+      "group": "a5fedd37abbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "offer",
+      "meaning": "提供",
+      "audio": "900335a16ec30ad177d16ce46e3721f28533322ef64bf55c1a3877e9f95f9dc0",
+      "id": "2b62445c8e69",
+      "priority": 1,
+      "group": "a5fedd37abbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thank",
+      "meaningInSourceLanguage": "感谢",
+      "id": "de7a80f0f010",
+      "priority": 0,
+      "group": "173f652c97e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thank",
+      "meaning": "感谢",
+      "audio": "9c071d47490e6d8a2c3ce02ee94e6d322745fe992e2db4fcafba14abe2c657d0",
+      "id": "172b4b0896f4",
+      "priority": 1,
+      "group": "173f652c97e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "apologize",
+      "meaningInSourceLanguage": "道歉",
+      "id": "c39da559b106",
+      "priority": 0,
+      "group": "1ed4ab0fa833"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "apologize",
+      "meaning": "道歉",
+      "audio": "aa7dbb2ccd3d9c6ea443347b4751a7b78c0009068f7deba128714f3d90adac12",
+      "id": "6b15acb596c2",
+      "priority": 1,
+      "group": "1ed4ab0fa833"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "forgive",
+      "meaningInSourceLanguage": "原谅",
+      "id": "a00379bf6c82",
+      "priority": 0,
+      "group": "9dfaeb8a1893"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "forgive",
+      "meaning": "原谅",
+      "audio": "133be44b83898e457edb5e4e16fb39a27bbbbbaf72061e9fcb19480a6da9cf1f",
+      "id": "71410999575b",
+      "priority": 1,
+      "group": "9dfaeb8a1893"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "celebrate",
+      "meaningInSourceLanguage": "庆祝",
+      "id": "cd6899d38a73",
+      "priority": 0,
+      "group": "2393bca52279"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "celebrate",
+      "meaning": "庆祝",
+      "audio": "7f8e829171c46d17c311f58415b8ce36f227dcdbbc2b0b265bad5454e697df23",
+      "id": "b3c7be03af0b",
+      "priority": 1,
+      "group": "2393bca52279"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "congratulate",
+      "meaningInSourceLanguage": "祝贺",
+      "id": "705efc073d31",
+      "priority": 0,
+      "group": "5fd92ad35249"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "congratulate",
+      "meaning": "祝贺",
+      "audio": "07a58f740eb13b063c28ff5ee0f91fd777a7b216a8100f7decae337091577898",
+      "id": "933034e73ea6",
+      "priority": 1,
+      "group": "5fd92ad35249"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comfort",
+      "meaningInSourceLanguage": "安慰",
+      "id": "e6519800008a",
+      "priority": 0,
+      "group": "61db56464d87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comfort",
+      "meaning": "安慰",
+      "audio": "a985f5fb61fd047abcd75d4d21693c2ce05ad2d753361f86fe9d6e4f8d9875b6",
+      "id": "a980ee60d97b",
+      "priority": 1,
+      "group": "61db56464d87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "encourage",
+      "meaningInSourceLanguage": "鼓励",
+      "id": "a1fce8a2dc63",
+      "priority": 0,
+      "group": "044a20526149"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "encourage",
+      "meaning": "鼓励",
+      "audio": "071ac1c055e63a44eea12ec932f2031a0125ea4c2ab81ec45084b6eeacb8b36e",
+      "id": "f906dfd2648b",
+      "priority": 1,
+      "group": "044a20526149"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "praise",
+      "meaningInSourceLanguage": "表扬",
+      "id": "409eb225161f",
+      "priority": 0,
+      "group": "4351c10d22d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "praise",
+      "meaning": "表扬",
+      "audio": "a28b1b376cd28d585df62db21e5c04d99b9bc133919e73ae44a1be9669b265ad",
+      "id": "b7918f3f588c",
+      "priority": 1,
+      "group": "4351c10d22d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "criticize",
+      "meaningInSourceLanguage": "批评",
+      "id": "bd7b17d5e6b8",
+      "priority": 0,
+      "group": "d41f1e15f939"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "criticize",
+      "meaning": "批评",
+      "audio": "30f78ab06638d52fdc2148b146017cee41775283d40883d690cc542b2caef5c3",
+      "id": "06604fa26b69",
+      "priority": 1,
+      "group": "d41f1e15f939"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "argue",
+      "meaningInSourceLanguage": "争论",
+      "id": "cf35079412f7",
+      "priority": 0,
+      "group": "74eb31605b78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "argue",
+      "meaning": "争论",
+      "audio": "42573207bc1658906c73d4f4e1dea193ad4f7d4d4fb600f500d03716a653c509",
+      "id": "8a5fb70b974b",
+      "priority": 1,
+      "group": "74eb31605b78"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discuss",
+      "meaningInSourceLanguage": "讨论",
+      "id": "6932cfcc03d2",
+      "priority": 0,
+      "group": "8b5281a1f99a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discuss",
+      "meaning": "讨论",
+      "audio": "34b89e0419ca33d922611a5a7c63d6845d4d543de9f25ef30a4835ba6243566b",
+      "id": "c281fe016a8a",
+      "priority": 1,
+      "group": "8b5281a1f99a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "negotiate",
+      "meaningInSourceLanguage": "谈判",
+      "id": "9eb915336c30",
+      "priority": 0,
+      "group": "759fe1274796"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "negotiate",
+      "meaning": "谈判",
+      "audio": "68dfda4a536478324ed5ffe8a93e27da55c12658618aa3cd28a193656cb2f60c",
+      "id": "47ff0bdfe687",
+      "priority": 1,
+      "group": "759fe1274796"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "promise",
+      "meaningInSourceLanguage": "承诺",
+      "id": "3752c9159d99",
+      "priority": 0,
+      "group": "50abbde6cdfa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "promise",
+      "meaning": "承诺",
+      "audio": "e587d07d7765b98c2e6b9db094fc8acf7b6f40b139690f840e7408787087277e",
+      "id": "dba2878ea4bb",
+      "priority": 1,
+      "group": "50abbde6cdfa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trust",
+      "meaningInSourceLanguage": "信任",
+      "id": "f39e400715a3",
+      "priority": 0,
+      "group": "f413b6fc20a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trust",
+      "meaning": "信任",
+      "audio": "394eae35054bb2b72faf84abe45f6e6319703dad8d4f72f8c08f3676ce3d3488",
+      "id": "16087272c06f",
+      "priority": 1,
+      "group": "f413b6fc20a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "betray",
+      "meaningInSourceLanguage": "背叛",
+      "id": "0a6b5b137abd",
+      "priority": 0,
+      "group": "2f0943a4c32f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "betray",
+      "meaning": "背叛",
+      "audio": "d958d3a18697f869f978d81525c1f3f20d2a4b251dd452280eb741064bda964b",
+      "id": "c2fc4ee29709",
+      "priority": 1,
+      "group": "2f0943a4c32f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "support",
+      "meaningInSourceLanguage": "支持",
+      "id": "00c0c0e09e37",
+      "priority": 0,
+      "group": "781739d47a7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "support",
+      "meaning": "支持",
+      "audio": "db403b4f8005046476841c887c0d278cdb1ae4f757de551d514ddcd860c197da",
+      "id": "a7712fc27696",
+      "priority": 1,
+      "group": "781739d47a7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "visit",
+      "meaningInSourceLanguage": "拜访",
+      "id": "b928485dc8c2",
+      "priority": 0,
+      "group": "e14d74cdeda7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "visit",
+      "meaning": "拜访",
+      "audio": "baa4ba5c361608930adfcb657b3ca766d376b0f94803eabc2983433e6a7c585e",
+      "id": "5cfee73313b2",
+      "priority": 1,
+      "group": "e14d74cdeda7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accompany",
+      "meaningInSourceLanguage": "陪伴",
+      "id": "466f768b99ba",
+      "priority": 0,
+      "group": "4fd6bb7744c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accompany",
+      "meaning": "陪伴",
+      "audio": "66828a85ef52f4cb43555ba2592e0118b1ce021e2b9e850fbbd81a6cecfc43f7",
+      "id": "f30cf979e128",
+      "priority": 1,
+      "group": "4fd6bb7744c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "respect",
+      "meaningInSourceLanguage": "尊重",
+      "id": "5c951ff9d558",
+      "priority": 0,
+      "group": "399bb82b2f85"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "respect",
+      "meaning": "尊重",
+      "audio": "cfa1a684f15259d7ddf478e84bc4759022f4995283f8b7a045938137a850b4da",
+      "id": "b8546604ed97",
+      "priority": 1,
+      "group": "399bb82b2f85"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "admire",
+      "meaningInSourceLanguage": "钦佩",
+      "id": "be024653776e",
+      "priority": 0,
+      "group": "58691e685ada"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "admire",
+      "meaning": "钦佩",
+      "audio": "670864006fa7eb8e1d754a4054af2fc4d11d0b658dd905f1579618586572c37d",
+      "id": "ae0cd3e6250c",
+      "priority": 1,
+      "group": "58691e685ada"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "appreciate",
+      "meaningInSourceLanguage": "欣赏",
+      "id": "a23b1e7bbd46",
+      "priority": 0,
+      "group": "4c3dff31a588"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "appreciate",
+      "meaning": "欣赏",
+      "audio": "c38cc917beb8155186effc3e0da2926a499bf1699b1010d7907df4923f306427",
+      "id": "3b5624e026f6",
+      "priority": 1,
+      "group": "4c3dff31a588"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ignore",
+      "meaningInSourceLanguage": "忽视",
+      "id": "524b8a2db8a6",
+      "priority": 0,
+      "group": "035c623f6047"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ignore",
+      "meaning": "忽视",
+      "audio": "9d4370a26d42af829b18a2c2e5b7a91a39edad97e7302f352ba2ce742249912f",
+      "id": "c02a5c331045",
+      "priority": 1,
+      "group": "035c623f6047"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interrupt",
+      "meaningInSourceLanguage": "打断",
+      "id": "52a92cb19cdc",
+      "priority": 0,
+      "group": "8f92612c29e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interrupt",
+      "meaning": "打断",
+      "audio": "7900a3e6aaf13a2b477e0feb24dc6d607e06fd04f827bf8f92eceecd01959915",
+      "id": "02a20baa4b44",
+      "priority": 1,
+      "group": "8f92612c29e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cooperate",
+      "meaningInSourceLanguage": "合作",
+      "id": "31acac9df0fb",
+      "priority": 0,
+      "group": "6507fd6078cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cooperate",
+      "meaning": "合作",
+      "audio": "4fced8f05469646f76ed83b04e3343bcecaf3356420b9ee9853b3049f8d64f26",
+      "id": "4ba3fec0d063",
+      "priority": 1,
+      "group": "6507fd6078cf"
+    }
+  ]
+}

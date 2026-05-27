@@ -1,0 +1,567 @@
+{
+  "id": "5aa21e18f814",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Easter",
+      "meaningInSourceLanguage": "复活节",
+      "id": "7ab51441ae2e",
+      "priority": 0,
+      "group": "5b795e2b23ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Easter",
+      "meaning": "复活节",
+      "audio": "8567accba4d549fb99d11a5214c9ca74",
+      "id": "0c4d4d61644b",
+      "priority": 1,
+      "group": "5b795e2b23ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thanksgiving",
+      "meaningInSourceLanguage": "感恩节",
+      "id": "8fc252c3fe23",
+      "priority": 0,
+      "group": "6de6357631ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thanksgiving",
+      "meaning": "感恩节",
+      "audio": "d7f7d5a5ddb04f1c8770192f06be5f1b",
+      "id": "7e36831e8ffb",
+      "priority": 1,
+      "group": "6de6357631ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Halloween",
+      "meaningInSourceLanguage": "万圣节",
+      "id": "83bc46e02d9c",
+      "priority": 0,
+      "group": "7a278804834e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Halloween",
+      "meaning": "万圣节",
+      "audio": "dc13aad7d18a4317838827b494c9743f",
+      "id": "77d2b2fc8013",
+      "priority": 1,
+      "group": "7a278804834e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Valentine's Day",
+      "meaningInSourceLanguage": "情人节",
+      "id": "3fbf93b9e38d",
+      "priority": 0,
+      "group": "aa24fe51cf0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Valentine's Day",
+      "meaning": "情人节",
+      "audio": "071b1c0dc28e48308dc773e70198e3a6",
+      "id": "26b9cb365e74",
+      "priority": 1,
+      "group": "aa24fe51cf0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mother's Day",
+      "meaningInSourceLanguage": "母亲节",
+      "id": "0844dac60ff1",
+      "priority": 0,
+      "group": "f13ceca40bd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mother's Day",
+      "meaning": "母亲节",
+      "audio": "025c5e273f6c4636a1acf165d20c2327",
+      "id": "3c2082f30063",
+      "priority": 1,
+      "group": "f13ceca40bd8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Father's Day",
+      "meaningInSourceLanguage": "父亲节",
+      "id": "c54c94fcede3",
+      "priority": 0,
+      "group": "81e4dd9d2b8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Father's Day",
+      "meaning": "父亲节",
+      "audio": "2c81da2fb73a464f99a2799d49002ae5",
+      "id": "e2bd9c48f8c6",
+      "priority": 1,
+      "group": "81e4dd9d2b8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Children's Day",
+      "meaningInSourceLanguage": "儿童节",
+      "id": "11cc902eb2fd",
+      "priority": 0,
+      "group": "f6b053e99814"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Children's Day",
+      "meaning": "儿童节",
+      "audio": "9e4108d9e19b4cac89e093325cbfc9a8",
+      "id": "a39a8b49fe49",
+      "priority": 1,
+      "group": "f6b053e99814"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "National Day",
+      "meaningInSourceLanguage": "国庆节",
+      "id": "53cee2b564ea",
+      "priority": 0,
+      "group": "2249848433c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "National Day",
+      "meaning": "国庆节",
+      "audio": "fc11f8bf70004969a10b8893abb53e18",
+      "id": "74854ea202bd",
+      "priority": 1,
+      "group": "2249848433c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mid-Autumn Festival",
+      "meaningInSourceLanguage": "中秋节",
+      "id": "0f0b049136a8",
+      "priority": 0,
+      "group": "72b9b9bf9cd1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mid-Autumn Festival",
+      "meaning": "中秋节",
+      "audio": "549e09b5d5b04a128f258d10e8f82089",
+      "id": "cc0301c51c39",
+      "priority": 1,
+      "group": "72b9b9bf9cd1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dragon Boat Festival",
+      "meaningInSourceLanguage": "端午节",
+      "id": "c1ca4f5f1c3e",
+      "priority": 0,
+      "group": "54547cf81f1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dragon Boat Festival",
+      "meaning": "端午节",
+      "audio": "f18288b2a99d4a90a2a3e49714e173e5",
+      "id": "8c9641adfd1d",
+      "priority": 1,
+      "group": "54547cf81f1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Lantern Festival",
+      "meaningInSourceLanguage": "元宵节",
+      "id": "bce3a45d7409",
+      "priority": 0,
+      "group": "2c2e86444303"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Lantern Festival",
+      "meaning": "元宵节",
+      "audio": "6e6cb29abd9c488b9ed7b97561ccc851",
+      "id": "bcbf0b67067a",
+      "priority": 1,
+      "group": "2c2e86444303"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "avatar",
+      "meaningInSourceLanguage": "头像",
+      "id": "dc7020377038",
+      "priority": 0,
+      "group": "3801a7c775ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "avatar",
+      "meaning": "头像",
+      "audio": "2752e385909142cc96abf27180d1ca71",
+      "id": "89a9bc0d35b4",
+      "priority": 1,
+      "group": "3801a7c775ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "emoticon",
+      "meaningInSourceLanguage": "表情符号",
+      "id": "977a8d0b6e2c",
+      "priority": 0,
+      "group": "76483e721250"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "emoticon",
+      "meaning": "表情符号",
+      "audio": "9daf5065982644b78dec612661c68b48",
+      "id": "28404f470b6c",
+      "priority": 1,
+      "group": "76483e721250"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "emoji",
+      "meaningInSourceLanguage": "表情",
+      "id": "200a8cdf7c42",
+      "priority": 0,
+      "group": "69b3d7d0bb49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "emoji",
+      "meaning": "表情",
+      "audio": "2d22a1d36fc2416a9a250a605c791900",
+      "id": "3795bf26e3db",
+      "priority": 1,
+      "group": "69b3d7d0bb49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meme",
+      "meaningInSourceLanguage": "梗",
+      "id": "24f0f79bf374",
+      "priority": 0,
+      "group": "7a48b175fa76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meme",
+      "meaning": "梗",
+      "audio": "76ba715e05564dcead93d89850cfb75a",
+      "id": "5d4dc38d9a84",
+      "priority": 1,
+      "group": "7a48b175fa76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fanfiction",
+      "meaningInSourceLanguage": "同人小说",
+      "id": "5bec9b33dc72",
+      "priority": 0,
+      "group": "7bab883842fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fanfiction",
+      "meaning": "同人小说",
+      "audio": "1cf2bd67c52f42448bc25a8c54f33b6b",
+      "id": "d4fa5c014daa",
+      "priority": 1,
+      "group": "7bab883842fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cosplay",
+      "meaningInSourceLanguage": "角色扮演",
+      "id": "de77463684ce",
+      "priority": 0,
+      "group": "b66baae3333e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cosplay",
+      "meaning": "角色扮演",
+      "audio": "f1a72ee9c74c4c76b60572a7ff211c47",
+      "id": "f103e3aab6f1",
+      "priority": 1,
+      "group": "b66baae3333e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anime",
+      "meaningInSourceLanguage": "动漫",
+      "id": "f33a78fb1f27",
+      "priority": 0,
+      "group": "b38f7c98fa8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anime",
+      "meaning": "动漫",
+      "audio": "80c86c7808fa4d9db799cb8b1fa39db4",
+      "id": "bcc226c34f79",
+      "priority": 1,
+      "group": "b38f7c98fa8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "manga",
+      "meaningInSourceLanguage": "漫画",
+      "id": "53dc5da41b56",
+      "priority": 0,
+      "group": "4d12bee79454"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "manga",
+      "meaning": "漫画",
+      "audio": "0428895505e947c89d06448d3ac067e9",
+      "id": "8fe95ef0c110",
+      "priority": 1,
+      "group": "4d12bee79454"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cartoon",
+      "meaningInSourceLanguage": "卡通",
+      "id": "4ccbb3ed9132",
+      "priority": 0,
+      "group": "24c1726f4f28"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cartoon",
+      "meaning": "卡通",
+      "audio": "5ba448db6c9448e096bd04a83fb8266a",
+      "id": "ff0e3c1af2ff",
+      "priority": 1,
+      "group": "24c1726f4f28"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blockbuster",
+      "meaningInSourceLanguage": "大片",
+      "id": "9b6b371470d3",
+      "priority": 0,
+      "group": "9aecabf3f477"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blockbuster",
+      "meaning": "大片",
+      "audio": "def736a3da704eb981ed94a0e21babf6",
+      "id": "017cf19f0a92",
+      "priority": 1,
+      "group": "9aecabf3f477"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "box office",
+      "meaningInSourceLanguage": "票房",
+      "id": "15c65bcbbe44",
+      "priority": 0,
+      "group": "8a99aaed63ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "box office",
+      "meaning": "票房",
+      "audio": "1fb4e231ad724bc98ff34f936d9046dd",
+      "id": "c80d2fd62441",
+      "priority": 1,
+      "group": "8a99aaed63ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soundtrack",
+      "meaningInSourceLanguage": "原声带",
+      "id": "013c80cddeed",
+      "priority": 0,
+      "group": "86fd382a54ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soundtrack",
+      "meaning": "原声带",
+      "audio": "9072f24bd00d4ddd9a68890499ba1d89",
+      "id": "5294a671edd3",
+      "priority": 1,
+      "group": "86fd382a54ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "score",
+      "meaningInSourceLanguage": "配乐",
+      "id": "37125d8cddac",
+      "priority": 0,
+      "group": "e59f50c1b144"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "score",
+      "meaning": "配乐",
+      "audio": "5096196858f4463682aadebe55f6a4de",
+      "id": "08cc851aaadb",
+      "priority": 1,
+      "group": "e59f50c1b144"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lyrics",
+      "meaningInSourceLanguage": "歌词",
+      "id": "2f50bd101b99",
+      "priority": 0,
+      "group": "9d81859da232"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lyrics",
+      "meaning": "歌词",
+      "audio": "e8556ad6db314aa68d7125da4d97c904",
+      "id": "f2d7d1f917fc",
+      "priority": 1,
+      "group": "9d81859da232"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "album",
+      "meaningInSourceLanguage": "专辑",
+      "id": "3f87fdc9b25f",
+      "priority": 0,
+      "group": "0650c65e9d8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "album",
+      "meaning": "专辑",
+      "audio": "2ffef08d50274559aa2a199e0a89809f",
+      "id": "668c91513fea",
+      "priority": 1,
+      "group": "0650c65e9d8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "single",
+      "meaningInSourceLanguage": "单曲",
+      "id": "66a18195c48e",
+      "priority": 0,
+      "group": "5bfde75dabed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "single",
+      "meaning": "单曲",
+      "audio": "e74adfca49b8455092a82d774cd8a57c",
+      "id": "946a4f4fa91d",
+      "priority": 1,
+      "group": "5bfde75dabed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "track",
+      "meaningInSourceLanguage": "曲目",
+      "id": "55f9754b51ce",
+      "priority": 0,
+      "group": "78379e4b3fad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "track",
+      "meaning": "曲目",
+      "audio": "5d976821bd904ee98b739f59d19a4999",
+      "id": "8180e04f8b8f",
+      "priority": 1,
+      "group": "78379e4b3fad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "streaming",
+      "meaningInSourceLanguage": "流媒体",
+      "id": "654729bcf962",
+      "priority": 0,
+      "group": "a607b6ca56d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "streaming",
+      "meaning": "流媒体",
+      "audio": "ad9169aa2a204ecdb8e18cca42dd05cc",
+      "id": "093091396194",
+      "priority": 1,
+      "group": "a607b6ca56d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "playlist",
+      "meaningInSourceLanguage": "播放列表",
+      "id": "045d3d6b3d35",
+      "priority": 0,
+      "group": "c30bc84474fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "playlist",
+      "meaning": "播放列表",
+      "audio": "365101504c6e492db87d72e08e4a4905",
+      "id": "f4d180e70d38",
+      "priority": 1,
+      "group": "c30bc84474fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vinyl",
+      "meaningInSourceLanguage": "黑胶唱片",
+      "id": "457fe4d9ee44",
+      "priority": 0,
+      "group": "123949681c91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vinyl",
+      "meaning": "黑胶唱片",
+      "audio": "bf17ba5e45594fad87e6e602a39f2000",
+      "id": "e9112bbbd527",
+      "priority": 1,
+      "group": "123949681c91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "CD",
+      "meaningInSourceLanguage": "CD",
+      "id": "943744a3ea11",
+      "priority": 0,
+      "group": "1d224331df72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "CD",
+      "meaning": "CD",
+      "audio": "5ccf84a6abb0433f9578dfb8de4e8769",
+      "id": "c87728d81ed2",
+      "priority": 1,
+      "group": "1d224331df72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spotify",
+      "meaningInSourceLanguage": "Spotify",
+      "id": "4fcae0cf47d5",
+      "priority": 0,
+      "group": "f321e60dab9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spotify",
+      "meaning": "Spotify",
+      "audio": "3f805038eecd4a56836564a3302fa63a",
+      "id": "8f9e00aa267a",
+      "priority": 1,
+      "group": "f321e60dab9a"
+    }
+  ]
+}

@@ -1,0 +1,1213 @@
+{
+  "id": "61c0fc02037a",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "art",
+      "meaningInSourceLanguage": "艺术",
+      "id": "f24e1a44d5f7",
+      "priority": 0,
+      "group": "89f1d5cedd45"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "art",
+      "meaning": "艺术",
+      "audio": "9f5991cb4d6e298adaa0448a586d52bed572cef0eb27c1dd5c3f20cc7c2a21d3",
+      "id": "6fe6173ba997",
+      "priority": 1,
+      "group": "89f1d5cedd45"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "painting",
+      "meaningInSourceLanguage": "绘画",
+      "id": "28c084dfdc8e",
+      "priority": 0,
+      "group": "684c4a64c30a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "painting",
+      "meaning": "绘画",
+      "audio": "0d52f8ae58c1cc22380df4afe6b21a4a8772cd05d2554fa04c630604d110ee9c",
+      "id": "b07ed7492fb4",
+      "priority": 1,
+      "group": "684c4a64c30a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drawing",
+      "meaningInSourceLanguage": "素描",
+      "id": "2216ad816757",
+      "priority": 0,
+      "group": "ff53b45f69fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drawing",
+      "meaning": "素描",
+      "audio": "fb1b6aa4e5544a2ed32d89b3864470a949620a8ef842aea3abd3910e681f95df",
+      "id": "c0c48d93c36e",
+      "priority": 1,
+      "group": "ff53b45f69fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sculpture",
+      "meaningInSourceLanguage": "雕塑",
+      "id": "d93bee90c38a",
+      "priority": 0,
+      "group": "dad249f1fa93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sculpture",
+      "meaning": "雕塑",
+      "audio": "147b75f5cfc49c759d866e3f1d3f098d8ba9db8d2688b43938789e8af9eb8dab",
+      "id": "628895bcd5ba",
+      "priority": 1,
+      "group": "dad249f1fa93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "photography",
+      "meaningInSourceLanguage": "摄影",
+      "id": "206f6c447030",
+      "priority": 0,
+      "group": "7cd1f4f2c1e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "photography",
+      "meaning": "摄影",
+      "audio": "bb70e029b5b3c39600f39d96ec8712a52b62a8e19f7be1b1301ace48c54a0ad8",
+      "id": "bb48ac23330c",
+      "priority": 1,
+      "group": "7cd1f4f2c1e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "printmaking",
+      "meaningInSourceLanguage": "版画",
+      "id": "e19e9293fc56",
+      "priority": 0,
+      "group": "cf507f081ccf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "printmaking",
+      "meaning": "版画",
+      "audio": "1e381095b3f8632fab2f9ddc53643139465865a71bad4390ae4bf4afbab6e198",
+      "id": "7e373ff165b8",
+      "priority": 1,
+      "group": "cf507f081ccf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ceramics",
+      "meaningInSourceLanguage": "陶瓷",
+      "id": "a87640943c09",
+      "priority": 0,
+      "group": "54b4815046dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ceramics",
+      "meaning": "陶瓷",
+      "audio": "6e6f80f81a939227a28b40639206deeb4f4079cf302baa9f95117a0e8c05d1a0",
+      "id": "02a5a0fcba7e",
+      "priority": 1,
+      "group": "54b4815046dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pottery",
+      "meaningInSourceLanguage": "陶器",
+      "id": "4d29fd191d93",
+      "priority": 0,
+      "group": "2a6d23704e70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pottery",
+      "meaning": "陶器",
+      "audio": "cde6ea83ebf8a9c8efff60b8e18c436339fe7cf607b9e48ccdc98d055ba263c7",
+      "id": "857a3d0b0ecc",
+      "priority": 1,
+      "group": "2a6d23704e70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weaving",
+      "meaningInSourceLanguage": "编织",
+      "id": "6d591b83e283",
+      "priority": 0,
+      "group": "ff38b37ae35a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weaving",
+      "meaning": "编织",
+      "audio": "e786f2c6f847b909c2e307642d3d201014b75a0e85c9669246a6754163397afa",
+      "id": "3d219a88fe38",
+      "priority": 1,
+      "group": "ff38b37ae35a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calligraphy",
+      "meaningInSourceLanguage": "书法",
+      "id": "c965088ce963",
+      "priority": 0,
+      "group": "e29c98114304"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calligraphy",
+      "meaning": "书法",
+      "audio": "c3a8de8f937775c7324438b16fe34826b2d7f06a7825ff2697ef70e6dac3a32a",
+      "id": "56a3818b75ce",
+      "priority": 1,
+      "group": "e29c98114304"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "architecture",
+      "meaningInSourceLanguage": "建筑",
+      "id": "a576b4267bd4",
+      "priority": 0,
+      "group": "22a295acc85f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "architecture",
+      "meaning": "建筑",
+      "audio": "4f4b36d2abf2647e34310e3082d6c5028c0130673265732a6f4721aef85abddc",
+      "id": "de679592d5a6",
+      "priority": 1,
+      "group": "22a295acc85f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "design",
+      "meaningInSourceLanguage": "设计",
+      "id": "ba09bd3b6b0a",
+      "priority": 0,
+      "group": "66e8732e9dd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "design",
+      "meaning": "设计",
+      "audio": "2cc46e4b397ed4916b0344b298d4d0801aefaa4d03fc03134888fec549f0372a",
+      "id": "c8baa098eac4",
+      "priority": 1,
+      "group": "66e8732e9dd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "artist",
+      "meaningInSourceLanguage": "艺术家",
+      "id": "c8495da61925",
+      "priority": 0,
+      "group": "93d460c1106c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "artist",
+      "meaning": "艺术家",
+      "audio": "7240a5f98887fa4e8f151a51bacf7b99a48de585e7c6ebad4f91c00f587c9a33",
+      "id": "357f6cd2be1f",
+      "priority": 1,
+      "group": "93d460c1106c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "painter",
+      "meaningInSourceLanguage": "画家",
+      "id": "b078a3037ee7",
+      "priority": 0,
+      "group": "1a882ea0dd9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "painter",
+      "meaning": "画家",
+      "audio": "274e9e99e4fd2797b61f2082021f3b49943eb40ab61ab0c9c582cbc98842c69a",
+      "id": "210328458f3b",
+      "priority": 1,
+      "group": "1a882ea0dd9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sculptor",
+      "meaningInSourceLanguage": "雕塑家",
+      "id": "2d383eb42dfb",
+      "priority": 0,
+      "group": "091c87ed142d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sculptor",
+      "meaning": "雕塑家",
+      "audio": "4135da48be9ad974e97356d1a6351c51dcd0d426b64d257e7e510b8298c9d2b3",
+      "id": "1c806881d554",
+      "priority": 1,
+      "group": "091c87ed142d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "photographer",
+      "meaningInSourceLanguage": "摄影师",
+      "id": "a25cffb7da3c",
+      "priority": 0,
+      "group": "51fcced45734"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "photographer",
+      "meaning": "摄影师",
+      "audio": "72c1ca4df8924c290a4cbb87e7c249f251f9567062fbef7c370e299d1e7accc5",
+      "id": "e51f90aed817",
+      "priority": 1,
+      "group": "51fcced45734"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "poet",
+      "meaningInSourceLanguage": "诗人",
+      "id": "ff8a964199d2",
+      "priority": 0,
+      "group": "2a6ef6cbba07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "poet",
+      "meaning": "诗人",
+      "audio": "25a140e2ee79f3c64fe4e224bc608f9350ce96b1a69330283bcaa95714027632",
+      "id": "8678da96abce",
+      "priority": 1,
+      "group": "2a6ef6cbba07"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "writer",
+      "meaningInSourceLanguage": "作家",
+      "id": "03af6cb54232",
+      "priority": 0,
+      "group": "73cafa365eab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "writer",
+      "meaning": "作家",
+      "audio": "0416873c76792200209240a9bf743c7ede04d93b605281928da4d8e1f51290e7",
+      "id": "6b1d8bf7456a",
+      "priority": 1,
+      "group": "73cafa365eab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "novelist",
+      "meaningInSourceLanguage": "小说家",
+      "id": "d2909c751b2f",
+      "priority": 0,
+      "group": "825ce6e9b000"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "novelist",
+      "meaning": "小说家",
+      "audio": "994970aac1251dfc7dab4ac369279669d0eab301ea0da3d323205d4cdd2fa0f8",
+      "id": "32c97242010d",
+      "priority": 1,
+      "group": "825ce6e9b000"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "playwright",
+      "meaningInSourceLanguage": "剧作家",
+      "id": "57fb61cdd31c",
+      "priority": 0,
+      "group": "840a18fdd2e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "playwright",
+      "meaning": "剧作家",
+      "audio": "e0bb57b8b8eea2d638606328373486ba0b3f44f511421cc8d9516ec5a98b7b5d",
+      "id": "92bdfd881b6a",
+      "priority": 1,
+      "group": "840a18fdd2e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "illustrator",
+      "meaningInSourceLanguage": "插画家",
+      "id": "7fb45429fe5a",
+      "priority": 0,
+      "group": "a82c1afb24dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "illustrator",
+      "meaning": "插画家",
+      "audio": "6cf93784edff2ed3972fb492167f7c188ce8979407936d6796f9717848a162a9",
+      "id": "69070b00c054",
+      "priority": 1,
+      "group": "a82c1afb24dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "canvas",
+      "meaningInSourceLanguage": "画布",
+      "id": "c697bfedf2a9",
+      "priority": 0,
+      "group": "c41b7b4cbfeb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "canvas",
+      "meaning": "画布",
+      "audio": "b961af8fa7dd417db2aa9b050a0ef2d91dc1aac789654131019256694c4cb4c1",
+      "id": "68663fab4212",
+      "priority": 1,
+      "group": "c41b7b4cbfeb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brush",
+      "meaningInSourceLanguage": "画笔",
+      "id": "9995be6b0280",
+      "priority": 0,
+      "group": "848a75502cfc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brush",
+      "meaning": "画笔",
+      "audio": "49db8e0e4fffba1da3cadb37a35eaf46c3320166ba563ef6d7e0c445c012f0fc",
+      "id": "d52392aaccfa",
+      "priority": 1,
+      "group": "848a75502cfc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "palette",
+      "meaningInSourceLanguage": "调色板",
+      "id": "6592bc3031b4",
+      "priority": 0,
+      "group": "896e23c1046f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "palette",
+      "meaning": "调色板",
+      "audio": "98ec6cda218a73ecbcfc5cf7187d5bed49074c84aa9fde0325ee22ac63b9f14c",
+      "id": "b14e384a0ed0",
+      "priority": 1,
+      "group": "896e23c1046f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paint",
+      "meaningInSourceLanguage": "颜料",
+      "id": "96399e89d53a",
+      "priority": 0,
+      "group": "ac018dae369c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paint",
+      "meaning": "颜料",
+      "audio": "6f86e3a70e4b4eb61d35fc5bc81a8a22024c3d31725fce6379942532ac15eab4",
+      "id": "0c683cbd58f1",
+      "priority": 1,
+      "group": "ac018dae369c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oil paint",
+      "meaningInSourceLanguage": "油画颜料",
+      "id": "99392988f321",
+      "priority": 0,
+      "group": "2f153cad2dae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oil paint",
+      "meaning": "油画颜料",
+      "audio": "9e5e32cdf526fa52e1fb2d5c34285534bf0192f7d9ad5626d902fe7303ad92c0",
+      "id": "eb7b39cfa218",
+      "priority": 1,
+      "group": "2f153cad2dae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "watercolor",
+      "meaningInSourceLanguage": "水彩",
+      "id": "77078f583763",
+      "priority": 0,
+      "group": "0c4aaf4cfb7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "watercolor",
+      "meaning": "水彩",
+      "audio": "0cd94d0eebe75e51e157ccb173e3722d9b055a755f39814c906aa64689020ffd",
+      "id": "9498543cdcdd",
+      "priority": 1,
+      "group": "0c4aaf4cfb7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acrylic",
+      "meaningInSourceLanguage": "丙烯",
+      "id": "ce1e77f8fbde",
+      "priority": 0,
+      "group": "04d19912bc50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acrylic",
+      "meaning": "丙烯",
+      "audio": "aa2ed0ce6e62aa5c3be1cacb4b752ebe8d568398e48d06bb2531850336b245e8",
+      "id": "89a049d6a2e5",
+      "priority": 1,
+      "group": "04d19912bc50"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pastel",
+      "meaningInSourceLanguage": "粉彩",
+      "id": "bac6b825987f",
+      "priority": 0,
+      "group": "2244e0624ce4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pastel",
+      "meaning": "粉彩",
+      "audio": "8956b4b54f6e281cea7c8d8d95b562b7fddeffd6ddccfb0e10194f57def1bdf5",
+      "id": "ca045d8afade",
+      "priority": 1,
+      "group": "2244e0624ce4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "charcoal",
+      "meaningInSourceLanguage": "木炭",
+      "id": "683c7d33eed8",
+      "priority": 0,
+      "group": "287c9e4a254f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "charcoal",
+      "meaning": "木炭",
+      "audio": "38b1058fa654d54707069d8b54550f406bff04f301f0e449bf17affc91a63c66",
+      "id": "f2e8b74ee5fc",
+      "priority": 1,
+      "group": "287c9e4a254f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "easel",
+      "meaningInSourceLanguage": "画架",
+      "id": "6486fc6a1efb",
+      "priority": 0,
+      "group": "4777acf878ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "easel",
+      "meaning": "画架",
+      "audio": "4d947d8dccc8a057f5860fe34052ecfa1a336dedf1657f4121858f903f645acb",
+      "id": "584536f00b4d",
+      "priority": 1,
+      "group": "4777acf878ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "frame",
+      "meaningInSourceLanguage": "画框",
+      "id": "68c56bdf596c",
+      "priority": 0,
+      "group": "9a2789ef6c73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frame",
+      "meaning": "画框",
+      "audio": "6a25e106936b804fcea392ed5942ec88ccaf56a6b866c537861278de3f598856",
+      "id": "d32e9dbeeba7",
+      "priority": 1,
+      "group": "9a2789ef6c73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gallery",
+      "meaningInSourceLanguage": "画廊",
+      "id": "435c43de3778",
+      "priority": 0,
+      "group": "16b45e498289"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gallery",
+      "meaning": "画廊",
+      "audio": "f04606898d5bf15fa1f5d0a98cc0fef21d23191faf711046fcfae2d53d147894",
+      "id": "c1247e59913b",
+      "priority": 1,
+      "group": "16b45e498289"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exhibition",
+      "meaningInSourceLanguage": "展览",
+      "id": "ad3047a27e1f",
+      "priority": 0,
+      "group": "7105b1fb7b3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exhibition",
+      "meaning": "展览",
+      "audio": "ea7ae380d5e0200b3e2730d67ba024275691d26a44399cad4e496d5b17585d03",
+      "id": "668a7a3f1781",
+      "priority": 1,
+      "group": "7105b1fb7b3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "museum",
+      "meaningInSourceLanguage": "博物馆",
+      "id": "68287d6842c9",
+      "priority": 0,
+      "group": "c0b21ea5fda5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "museum",
+      "meaning": "博物馆",
+      "audio": "4c7e86e3454e9731ef9b6fe5a67d0b1b3c439a51e22d11bbb659a49b1810f401",
+      "id": "632cc25c5fcd",
+      "priority": 1,
+      "group": "c0b21ea5fda5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "masterpiece",
+      "meaningInSourceLanguage": "杰作",
+      "id": "3c291fb4cf1e",
+      "priority": 0,
+      "group": "35dfe59f0df9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "masterpiece",
+      "meaning": "杰作",
+      "audio": "e574908c4e1390b638a190cf493b20e3ade1915d4080342fe039e5db84328a32",
+      "id": "039ca8d41445",
+      "priority": 1,
+      "group": "35dfe59f0df9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "abstract",
+      "meaningInSourceLanguage": "抽象",
+      "id": "a92e4344c9f1",
+      "priority": 0,
+      "group": "b6c6ff20e069"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "abstract",
+      "meaning": "抽象",
+      "audio": "32324f8f719e3a459dc07464ef9e46b5ffabce5a5827269a6943f2463eaaa7ca",
+      "id": "5dc594f7046a",
+      "priority": 1,
+      "group": "b6c6ff20e069"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "realism",
+      "meaningInSourceLanguage": "现实主义",
+      "id": "4757b0b1e15e",
+      "priority": 0,
+      "group": "9bacf711173d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "realism",
+      "meaning": "现实主义",
+      "audio": "08e7fc94737787749a6fa23325b4f00a7328d3e0041ee8c89b935a5177cded85",
+      "id": "d9970a1d04ac",
+      "priority": 1,
+      "group": "9bacf711173d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "impressionism",
+      "meaningInSourceLanguage": "印象派",
+      "id": "65cc15392983",
+      "priority": 0,
+      "group": "659927913b4f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "impressionism",
+      "meaning": "印象派",
+      "audio": "e132d99238e86d73456099590938a8232081ec2027df0099b03c42d5b231befa",
+      "id": "46927f725865",
+      "priority": 1,
+      "group": "659927913b4f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cubism",
+      "meaningInSourceLanguage": "立体主义",
+      "id": "5a98ddaa2b63",
+      "priority": 0,
+      "group": "b2dc632b46f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cubism",
+      "meaning": "立体主义",
+      "audio": "ce040f0039b4b7f754c38bb172bcfafbebd9e681ed614eeca781648eeb047f5b",
+      "id": "d0e84e1be78a",
+      "priority": 1,
+      "group": "b2dc632b46f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "surrealism",
+      "meaningInSourceLanguage": "超现实主义",
+      "id": "a1372320f271",
+      "priority": 0,
+      "group": "8fd0fbdd0f62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "surrealism",
+      "meaning": "超现实主义",
+      "audio": "44119e8bce19ac30df4eb65da419d29d8bc43f1c0a9600e653aac819d7565977",
+      "id": "ec290856b0a5",
+      "priority": 1,
+      "group": "8fd0fbdd0f62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "literature",
+      "meaningInSourceLanguage": "文学",
+      "id": "614cf1a25c0f",
+      "priority": 0,
+      "group": "cd2bba2bbe43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "literature",
+      "meaning": "文学",
+      "audio": "a712a88f22df4dc0f566bfef019bdba6bfb1f3db80a27ac89b244bc8eecef5df",
+      "id": "6ba0e5373e20",
+      "priority": 1,
+      "group": "cd2bba2bbe43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "novel",
+      "meaningInSourceLanguage": "小说",
+      "id": "a1cfe5551aa3",
+      "priority": 0,
+      "group": "9e403fb0f1af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "novel",
+      "meaning": "小说",
+      "audio": "c1467e8cc00c9e85066ed99b789d32a32ee6ff056937a9fb7a2b96c4446c07f4",
+      "id": "c014200c8eff",
+      "priority": 1,
+      "group": "9e403fb0f1af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "poem",
+      "meaningInSourceLanguage": "诗",
+      "id": "9df90c87e5e8",
+      "priority": 0,
+      "group": "7d6ecb82cf6a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "poem",
+      "meaning": "诗",
+      "audio": "943043f6ee843bfa04fcf010a5e95fe74dce16eee9d24478fca915d7ece2c62b",
+      "id": "ca760dc8e0a1",
+      "priority": 1,
+      "group": "7d6ecb82cf6a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "short story",
+      "meaningInSourceLanguage": "短篇小说",
+      "id": "755079bed3b7",
+      "priority": 0,
+      "group": "fd1c36884a93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "short story",
+      "meaning": "短篇小说",
+      "audio": "d5491ef8d1aa3221d7f5c3edbd300a26e75bd3a6954b5283bcc5900181893263",
+      "id": "b1ee0eade741",
+      "priority": 1,
+      "group": "fd1c36884a93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "essay",
+      "meaningInSourceLanguage": "散文",
+      "id": "a51a6ba5b7c6",
+      "priority": 0,
+      "group": "66525a3fb91a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "essay",
+      "meaning": "散文",
+      "audio": "82c09811c6db17c946fdf55345b3b49e899a89d7eb569cf350105100c07ed424",
+      "id": "ef4b6664bb5a",
+      "priority": 1,
+      "group": "66525a3fb91a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "biography",
+      "meaningInSourceLanguage": "传记",
+      "id": "2d6e1000414a",
+      "priority": 0,
+      "group": "2656dbacd58a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "biography",
+      "meaning": "传记",
+      "audio": "9d720ad52b31f0c4ed9e846584335cd733d4ebe3fab9a1f8de789c3b48b9612e",
+      "id": "d6634d531917",
+      "priority": 1,
+      "group": "2656dbacd58a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "autobiography",
+      "meaningInSourceLanguage": "自传",
+      "id": "a25fbef900d3",
+      "priority": 0,
+      "group": "c6f6a4da71d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "autobiography",
+      "meaning": "自传",
+      "audio": "51865840892c4f3b39f9b5edf28e4e7fe085938533308b83843742ffbe16110e",
+      "id": "82bb3230b0e6",
+      "priority": 1,
+      "group": "c6f6a4da71d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "memoir",
+      "meaningInSourceLanguage": "回忆录",
+      "id": "aa8ed9995c18",
+      "priority": 0,
+      "group": "75ee407cf24a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "memoir",
+      "meaning": "回忆录",
+      "audio": "320dcc4821c659384cc1cd183fde1a3bc64f2cee5b1c76dbb337111d233a9900",
+      "id": "1d6fc164e29c",
+      "priority": 1,
+      "group": "75ee407cf24a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiction",
+      "meaningInSourceLanguage": "小说",
+      "id": "b2f33b287f51",
+      "priority": 0,
+      "group": "57ec35f34685"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiction",
+      "meaning": "小说",
+      "audio": "6024d04e34e038b2ad146ec13d00b5688bbabcb6bc6e26e831a7fde248a6b2bc",
+      "id": "40b9823a1a5b",
+      "priority": 1,
+      "group": "57ec35f34685"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "non-fiction",
+      "meaningInSourceLanguage": "非小说",
+      "id": "bca2ce38c493",
+      "priority": 0,
+      "group": "a1adbc4065df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "non-fiction",
+      "meaning": "非小说",
+      "audio": "fc6997c2246b9bc160f614de390c883065968726ad42ae0f47ff12adcb8f399d",
+      "id": "68b028348f32",
+      "priority": 1,
+      "group": "a1adbc4065df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fantasy",
+      "meaningInSourceLanguage": "奇幻",
+      "id": "7d7590eb8d9a",
+      "priority": 0,
+      "group": "051a84d499d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fantasy",
+      "meaning": "奇幻",
+      "audio": "7530740d59ff23a75dddd24c6f9f583125ae4ab1910e6090b0486439af579103",
+      "id": "8bb9e0a06547",
+      "priority": 1,
+      "group": "051a84d499d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "science fiction",
+      "meaningInSourceLanguage": "科幻",
+      "id": "a3048d5aa60d",
+      "priority": 0,
+      "group": "1c8e7e2fb47d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "science fiction",
+      "meaning": "科幻",
+      "audio": "ee3407f9a503bcd16fded4c15c6fa8070c1ca48423255dcbd01ac6f504bc3334",
+      "id": "864989438b52",
+      "priority": 1,
+      "group": "1c8e7e2fb47d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mystery",
+      "meaningInSourceLanguage": "悬疑",
+      "id": "dca7c5af4a23",
+      "priority": 0,
+      "group": "5961161c9811"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mystery",
+      "meaning": "悬疑",
+      "audio": "bc10de3c9bc7d6f2fa2406f29ccb9f75c617cfc4bf3d667604bba649ba12edc8",
+      "id": "bb3820683b92",
+      "priority": 1,
+      "group": "5961161c9811"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "romance",
+      "meaningInSourceLanguage": "爱情",
+      "id": "ad2dac0e4d34",
+      "priority": 0,
+      "group": "ae93872bb700"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "romance",
+      "meaning": "爱情",
+      "audio": "f92609f325ed692d2bc0b10547108b8bdfcea9ced8d97dc7546af43e5fc89050",
+      "id": "f9a3f4bf8a76",
+      "priority": 1,
+      "group": "ae93872bb700"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thriller",
+      "meaningInSourceLanguage": "惊悚",
+      "id": "d3e5a8344cc0",
+      "priority": 0,
+      "group": "eae05d19abe8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thriller",
+      "meaning": "惊悚",
+      "audio": "ee323336cc900037b02251efc007023cfea055b0de3ef8ab1a7dcf09c1b6baf0",
+      "id": "553e64d1f5b5",
+      "priority": 1,
+      "group": "eae05d19abe8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "horror",
+      "meaningInSourceLanguage": "恐怖",
+      "id": "202cc9492a00",
+      "priority": 0,
+      "group": "c814e179aefd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "horror",
+      "meaning": "恐怖",
+      "audio": "69b9897c997af0ca74b6aef9c61d9ac0d2aef5094b5bc4b37569aafa9ea07f32",
+      "id": "d9ba804355dd",
+      "priority": 1,
+      "group": "c814e179aefd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comedy",
+      "meaningInSourceLanguage": "喜剧",
+      "id": "d98448bba8dd",
+      "priority": 0,
+      "group": "3a05d53a1a6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comedy",
+      "meaning": "喜剧",
+      "audio": "be09c2a8c87d5672b2640513a9cb9790788dd1bdcf9a36b693c5982aa47fb9ce",
+      "id": "53f5a4d0a5ad",
+      "priority": 1,
+      "group": "3a05d53a1a6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drama",
+      "meaningInSourceLanguage": "戏剧",
+      "id": "3c851768ff70",
+      "priority": 0,
+      "group": "ec8faeceaf88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drama",
+      "meaning": "戏剧",
+      "audio": "5b59c6f47e98f935475810639d757b2f16ee8a61982b3638e678a1f895ef6c05",
+      "id": "046abe10d6b1",
+      "priority": 1,
+      "group": "ec8faeceaf88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tragedy",
+      "meaningInSourceLanguage": "悲剧",
+      "id": "c651a1c2c86a",
+      "priority": 0,
+      "group": "17bd91e2e8a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tragedy",
+      "meaning": "悲剧",
+      "audio": "0f868361c606eb0709525e416b605e0340572a6355670bb829d3a294a88ab445",
+      "id": "68ecbbc9e3d0",
+      "priority": 1,
+      "group": "17bd91e2e8a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "satire",
+      "meaningInSourceLanguage": "讽刺",
+      "id": "4880a2793252",
+      "priority": 0,
+      "group": "0c02fd956406"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "satire",
+      "meaning": "讽刺",
+      "audio": "be94184afe9651fb7467fda905b2c3a7c906a06c7152faf63a8a1f4dbba2efd8",
+      "id": "771bef2cd7a7",
+      "priority": 1,
+      "group": "0c02fd956406"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "genre",
+      "meaningInSourceLanguage": "类型",
+      "id": "7509131371eb",
+      "priority": 0,
+      "group": "ea6a433a3e80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "genre",
+      "meaning": "类型",
+      "audio": "aed2b86fd83fedf5623e3980c9f381542720fd3fb965260a59c6f972d5dd915c",
+      "id": "6d73e4d1f67f",
+      "priority": 1,
+      "group": "ea6a433a3e80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chapter",
+      "meaningInSourceLanguage": "章节",
+      "id": "216a4274ff1e",
+      "priority": 0,
+      "group": "e2b1301c7f37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chapter",
+      "meaning": "章节",
+      "audio": "747f2b880bad16f36fdba9b046b2f4e8a93f4b6c4e9132431964342058d0e071",
+      "id": "897799ff1c35",
+      "priority": 1,
+      "group": "e2b1301c7f37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paragraph",
+      "meaningInSourceLanguage": "段落",
+      "id": "489a902b7f2e",
+      "priority": 0,
+      "group": "ceb063f2ce1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paragraph",
+      "meaning": "段落",
+      "audio": "89633b553d1b79ff4538c1d42bf206faf74b59d8d7732832b49e891465228e4e",
+      "id": "8104c7b090c8",
+      "priority": 1,
+      "group": "ceb063f2ce1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "page",
+      "meaningInSourceLanguage": "页",
+      "id": "d50d86faed37",
+      "priority": 0,
+      "group": "22910b6f33fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "page",
+      "meaning": "页",
+      "audio": "60d409699c58ab0c4e1ac36149465aac8e03adbf0a66766364557fa898d44bf7",
+      "id": "2b26577ff016",
+      "priority": 1,
+      "group": "22910b6f33fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "book",
+      "meaningInSourceLanguage": "书",
+      "id": "74e5fadb1ea7",
+      "priority": 0,
+      "group": "a4ba458b9c45"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "book",
+      "meaning": "书",
+      "audio": "fb98c183c2efa6600aa320d446f3591dee721a289d68206ea5a6b802c91da2ba",
+      "id": "9c1192b6fde9",
+      "priority": 1,
+      "group": "a4ba458b9c45"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ebook",
+      "meaningInSourceLanguage": "电子书",
+      "id": "fcc32adf0725",
+      "priority": 0,
+      "group": "f51533ecda8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ebook",
+      "meaning": "电子书",
+      "audio": "9cc7c573e7643466a12fcc124268a337064b70d8fe6a10c178406f81b7c4b9c4",
+      "id": "e82d45338721",
+      "priority": 1,
+      "group": "f51533ecda8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "publish",
+      "meaningInSourceLanguage": "出版",
+      "id": "b107a33c0a05",
+      "priority": 0,
+      "group": "f3007f03d0d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "publish",
+      "meaning": "出版",
+      "audio": "4fa89c5e17db155b0cedb4948af55d990adc82c2857389e97430b7301c58a985",
+      "id": "5b365dc068da",
+      "priority": 1,
+      "group": "f3007f03d0d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "editor",
+      "meaningInSourceLanguage": "编辑",
+      "id": "f9e2de536fe2",
+      "priority": 0,
+      "group": "87d18af5495c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "editor",
+      "meaning": "编辑",
+      "audio": "31ef6aa58713ce4069319cd4c2879462c3be672464c690d6b18c9c49bae6e660",
+      "id": "d1dad0f0933e",
+      "priority": 1,
+      "group": "87d18af5495c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "publisher",
+      "meaningInSourceLanguage": "出版社",
+      "id": "09eabdc7d0b7",
+      "priority": 0,
+      "group": "679278f0bb49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "publisher",
+      "meaning": "出版社",
+      "audio": "162a3c60673f58fe37a0bdc23e836214b23189aae99fde1b699db58610647842",
+      "id": "3962a262b878",
+      "priority": 1,
+      "group": "679278f0bb49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "manuscript",
+      "meaningInSourceLanguage": "手稿",
+      "id": "d777354cdf31",
+      "priority": 0,
+      "group": "689c59b8e03c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "manuscript",
+      "meaning": "手稿",
+      "audio": "5534a7ce58403dbbfecdd5b10e672393f11b8218aeda81f5cfcc0294d7bc4f67",
+      "id": "88e3c1a40749",
+      "priority": 1,
+      "group": "689c59b8e03c"
+    }
+  ]
+}

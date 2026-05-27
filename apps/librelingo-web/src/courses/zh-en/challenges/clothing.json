@@ -1,0 +1,2080 @@
+{
+  "id": "17c1faf196e6",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "shirt",
+      "meaningInSourceLanguage": "衬衫",
+      "id": "c7e2750197ce",
+      "priority": 0,
+      "group": "8b22452141f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shirt",
+      "meaning": "衬衫",
+      "audio": "3be2f1e7d8a2403ea5333e74c0c2c075",
+      "id": "5a773ceb4cd5",
+      "priority": 1,
+      "group": "8b22452141f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pants",
+      "meaningInSourceLanguage": "裤子",
+      "id": "40d437bef626",
+      "priority": 0,
+      "group": "05822f72c085"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pants",
+      "meaning": "裤子",
+      "audio": "b81ef8da1ba24a31b108481cbb063836",
+      "id": "99d82997611d",
+      "priority": 1,
+      "group": "05822f72c085"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dress",
+      "meaningInSourceLanguage": "连衣裙",
+      "id": "8862c057d027",
+      "priority": 0,
+      "group": "bc21a562ee4a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dress",
+      "meaning": "连衣裙",
+      "audio": "c6bda5538d9e4f518eeec48ec3fe01b7",
+      "id": "11973b5bb3ab",
+      "priority": 1,
+      "group": "bc21a562ee4a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skirt",
+      "meaningInSourceLanguage": "裙子",
+      "id": "6e79bcb80d86",
+      "priority": 0,
+      "group": "fb3d26c9a0dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skirt",
+      "meaning": "裙子",
+      "audio": "bad1cf2ec2c44f518d931dfd28c2b4f6",
+      "id": "44739b1037d3",
+      "priority": 1,
+      "group": "fb3d26c9a0dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jacket",
+      "meaningInSourceLanguage": "夹克",
+      "id": "1243d7bb9df0",
+      "priority": 0,
+      "group": "7bd181818999"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jacket",
+      "meaning": "夹克",
+      "audio": "a2398757293b42659ed4b89cc207e10b",
+      "id": "9161687e4348",
+      "priority": 1,
+      "group": "7bd181818999"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coat",
+      "meaningInSourceLanguage": "外套",
+      "id": "b17c99ea5594",
+      "priority": 0,
+      "group": "97ef50676aae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coat",
+      "meaning": "外套",
+      "audio": "abdcea60340f4687b40aeb6042eea8fc",
+      "id": "ea2044dedd09",
+      "priority": 1,
+      "group": "97ef50676aae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sweater",
+      "meaningInSourceLanguage": "毛衣",
+      "id": "ceeaabf5a771",
+      "priority": 0,
+      "group": "495da65f9044"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sweater",
+      "meaning": "毛衣",
+      "audio": "35e63d2ba0a843efb1057b36307bc278",
+      "id": "43b13f26ba84",
+      "priority": 1,
+      "group": "495da65f9044"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shorts",
+      "meaningInSourceLanguage": "短裤",
+      "id": "dba8f7cecffa",
+      "priority": 0,
+      "group": "3eed8445b9e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shorts",
+      "meaning": "短裤",
+      "audio": "63c4c18d134e49f98ace933e69c188fd",
+      "id": "3fbb7f4c2a2f",
+      "priority": 1,
+      "group": "3eed8445b9e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jeans",
+      "meaningInSourceLanguage": "牛仔裤",
+      "id": "59b2bf602ea6",
+      "priority": 0,
+      "group": "5bc388855429"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jeans",
+      "meaning": "牛仔裤",
+      "audio": "52190003ae8e4b25a9ac1b1d9c9dfe25",
+      "id": "3e71e795702d",
+      "priority": 1,
+      "group": "5bc388855429"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suit",
+      "meaningInSourceLanguage": "西装",
+      "id": "764612b7aa9b",
+      "priority": 0,
+      "group": "960ba2751350"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suit",
+      "meaning": "西装",
+      "audio": "976d07e6c59a4ce2850f22fa0b12eaf7",
+      "id": "c18f3b24d732",
+      "priority": 1,
+      "group": "960ba2751350"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tie",
+      "meaningInSourceLanguage": "领带",
+      "id": "86a23f9e4d22",
+      "priority": 0,
+      "group": "a47a65c07fca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tie",
+      "meaning": "领带",
+      "audio": "8dadab66f6574263870b834792d59b3e",
+      "id": "8eb3ba87e902",
+      "priority": 1,
+      "group": "a47a65c07fca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "belt",
+      "meaningInSourceLanguage": "腰带",
+      "id": "928a4f84c0d8",
+      "priority": 0,
+      "group": "839cab3ffcd6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "belt",
+      "meaning": "腰带",
+      "audio": "cf72c799e9b646f8a0e6954dcaeecfce",
+      "id": "7e65fd18368a",
+      "priority": 1,
+      "group": "839cab3ffcd6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shoes",
+      "meaningInSourceLanguage": "鞋子",
+      "id": "5ce0934b4a83",
+      "priority": 0,
+      "group": "15de65e4cbcf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shoes",
+      "meaning": "鞋子",
+      "audio": "1d6516f6bb874786b16f25d1502e10c5",
+      "id": "3c8270c4ea77",
+      "priority": 1,
+      "group": "15de65e4cbcf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "socks",
+      "meaningInSourceLanguage": "袜子",
+      "id": "ec243a8c98f1",
+      "priority": 0,
+      "group": "1681edc81736"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "socks",
+      "meaning": "袜子",
+      "audio": "ff388f991e0941fcb770a3a5fd4c5399",
+      "id": "5d0cc8e1d696",
+      "priority": 1,
+      "group": "1681edc81736"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hat",
+      "meaningInSourceLanguage": "帽子",
+      "id": "1f48ba3ed669",
+      "priority": 0,
+      "group": "edb6c34f7678"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hat",
+      "meaning": "帽子",
+      "audio": "70df87e7962949b8bda28dae95cac1a4",
+      "id": "e6a31a89869c",
+      "priority": 1,
+      "group": "edb6c34f7678"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gloves",
+      "meaningInSourceLanguage": "手套",
+      "id": "a7c21c181cd9",
+      "priority": 0,
+      "group": "9b98f2cdfd30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gloves",
+      "meaning": "手套",
+      "audio": "9cd042704d7f4aecbd7b6febf5b6e91e",
+      "id": "e126e8c65542",
+      "priority": 1,
+      "group": "9b98f2cdfd30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scarf",
+      "meaningInSourceLanguage": "围巾",
+      "id": "1454812aacd7",
+      "priority": 0,
+      "group": "4ee0fa41a37e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scarf",
+      "meaning": "围巾",
+      "audio": "e3c4e5f37e774128a2a1ee7adf623d4f",
+      "id": "253034ff5ea4",
+      "priority": 1,
+      "group": "4ee0fa41a37e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "underwear",
+      "meaningInSourceLanguage": "内衣",
+      "id": "a85177459bd2",
+      "priority": 0,
+      "group": "5d36bc6d5491"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "underwear",
+      "meaning": "内衣",
+      "audio": "0c19a3bbf8174cb6a4f58976325270bd",
+      "id": "0cfcfd9101e9",
+      "priority": 1,
+      "group": "5d36bc6d5491"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sneakers",
+      "meaningInSourceLanguage": "运动鞋",
+      "id": "bf44c6dbc5c9",
+      "priority": 0,
+      "group": "4ec86cb47970"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sneakers",
+      "meaning": "运动鞋",
+      "audio": "eadb8ad570cc4e4aa25fa53b2b4a7364",
+      "id": "d6a00efe604d",
+      "priority": 1,
+      "group": "4ec86cb47970"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boots",
+      "meaningInSourceLanguage": "靴子",
+      "id": "8b7125fceffa",
+      "priority": 0,
+      "group": "7cdd788f7f79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boots",
+      "meaning": "靴子",
+      "audio": "4199f97822c2411da5bc6eb7fa58a5a8",
+      "id": "193fc97bf5f2",
+      "priority": 1,
+      "group": "7cdd788f7f79"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sandals",
+      "meaningInSourceLanguage": "凉鞋",
+      "id": "295231f9f0b0",
+      "priority": 0,
+      "group": "9ccfbbe3c98d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sandals",
+      "meaning": "凉鞋",
+      "audio": "836166a234d647449fd8769f0b98f6ba",
+      "id": "ff7324106770",
+      "priority": 1,
+      "group": "9ccfbbe3c98d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "slippers",
+      "meaningInSourceLanguage": "拖鞋",
+      "id": "59fbda276dd3",
+      "priority": 0,
+      "group": "0717c050f6a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "slippers",
+      "meaning": "拖鞋",
+      "audio": "45a7c3b0782242db8a3dcd1ce18a9163",
+      "id": "39ebef9caa8b",
+      "priority": 1,
+      "group": "0717c050f6a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "uniform",
+      "meaningInSourceLanguage": "制服",
+      "id": "77d5fcecb92b",
+      "priority": 0,
+      "group": "61a3a3740db8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "uniform",
+      "meaning": "制服",
+      "audio": "7867a478dcf146d398271ca6cb293d70",
+      "id": "708143bef319",
+      "priority": 1,
+      "group": "61a3a3740db8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pajamas",
+      "meaningInSourceLanguage": "睡衣",
+      "id": "50f4ee087a2b",
+      "priority": 0,
+      "group": "8d381193fb83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pajamas",
+      "meaning": "睡衣",
+      "audio": "3646871e34074d04a9b504178a3a62a8",
+      "id": "374df121d540",
+      "priority": 1,
+      "group": "8d381193fb83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "swimsuit",
+      "meaningInSourceLanguage": "泳衣",
+      "id": "2ea42d2b4fbc",
+      "priority": 0,
+      "group": "a82f7b1fa810"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "swimsuit",
+      "meaning": "泳衣",
+      "audio": "8f3d3ada38af4e28b09e5f58ea1c6bad",
+      "id": "a5d47003e921",
+      "priority": 1,
+      "group": "a82f7b1fa810"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vest",
+      "meaningInSourceLanguage": "背心",
+      "id": "398f43b14fe4",
+      "priority": 0,
+      "group": "3bf085550d1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vest",
+      "meaning": "背心",
+      "audio": "8152847cdd644ac792493c5c29e6cfb7",
+      "id": "004d535d7bb1",
+      "priority": 1,
+      "group": "3bf085550d1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blazer",
+      "meaningInSourceLanguage": "西装外套",
+      "id": "1f1109df0d70",
+      "priority": 0,
+      "group": "4a525e4c72f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blazer",
+      "meaning": "西装外套",
+      "audio": "0ce3ca3e9a1c4e3b8ae982423d2ba46f",
+      "id": "0cdb5078247f",
+      "priority": 1,
+      "group": "4a525e4c72f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blouse",
+      "meaningInSourceLanguage": "女衬衫",
+      "id": "e61773377f03",
+      "priority": 0,
+      "group": "2ec2947cfdbe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blouse",
+      "meaning": "女衬衫",
+      "audio": "a765e932111648d8a830a4c1ebc84526",
+      "id": "ee8cacc90b47",
+      "priority": 1,
+      "group": "2ec2947cfdbe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cardigan",
+      "meaningInSourceLanguage": "开衫",
+      "id": "6c2193695637",
+      "priority": 0,
+      "group": "f379e9821408"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cardigan",
+      "meaning": "开衫",
+      "audio": "8edbd77ce3764e969992e41d0df68b63",
+      "id": "30342939f843",
+      "priority": 1,
+      "group": "f379e9821408"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "raincoat",
+      "meaningInSourceLanguage": "雨衣",
+      "id": "367657b36edf",
+      "priority": 0,
+      "group": "c8224bc9e3d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "raincoat",
+      "meaning": "雨衣",
+      "audio": "5503e78d963b45e48720ecdd64471307",
+      "id": "c21f6ce204bf",
+      "priority": 1,
+      "group": "c8224bc9e3d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trench coat",
+      "meaningInSourceLanguage": "风衣",
+      "id": "4c75da728cc2",
+      "priority": 0,
+      "group": "e5d8d87e8dfc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trench coat",
+      "meaning": "风衣",
+      "audio": "3f2b9666ebef479cbe6f3dc5373cd2a9",
+      "id": "8f0951cc8c77",
+      "priority": 1,
+      "group": "e5d8d87e8dfc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tuxedo",
+      "meaningInSourceLanguage": "晚礼服",
+      "id": "256a6c07cb42",
+      "priority": 0,
+      "group": "d44280c3c360"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tuxedo",
+      "meaning": "晚礼服",
+      "audio": "77173c8c4fd04bed93b4db0bb53dfa8e",
+      "id": "67547e205acb",
+      "priority": 1,
+      "group": "d44280c3c360"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gown",
+      "meaningInSourceLanguage": "长袍",
+      "id": "3008dcc51dd8",
+      "priority": 0,
+      "group": "70a45170c2cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gown",
+      "meaning": "长袍",
+      "audio": "81016cbda62b4fe483dde74fdc370890",
+      "id": "9e8608af7887",
+      "priority": 1,
+      "group": "70a45170c2cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "robe",
+      "meaningInSourceLanguage": "浴袍",
+      "id": "46a695546f17",
+      "priority": 0,
+      "group": "9c4229351851"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "robe",
+      "meaning": "浴袍",
+      "audio": "2f956899de5d44bea57c8518f36f4d0b",
+      "id": "82ec6cecabfa",
+      "priority": 1,
+      "group": "9c4229351851"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waistcoat",
+      "meaningInSourceLanguage": "马甲",
+      "id": "cb82ae591ff9",
+      "priority": 0,
+      "group": "aec753bc1c69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waistcoat",
+      "meaning": "马甲",
+      "audio": "358e9595f41d46a49853b606b39e9b60",
+      "id": "be99fa922e1f",
+      "priority": 1,
+      "group": "aec753bc1c69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cufflinks",
+      "meaningInSourceLanguage": "袖扣",
+      "id": "417d4b3bb814",
+      "priority": 0,
+      "group": "d19b8ee21799"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cufflinks",
+      "meaning": "袖扣",
+      "audio": "894dba33903a439096e56e4c3530eb74",
+      "id": "2ec9c2e1a8cc",
+      "priority": 1,
+      "group": "d19b8ee21799"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zipper",
+      "meaningInSourceLanguage": "拉链",
+      "id": "f7083906427d",
+      "priority": 0,
+      "group": "35c8b89970c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zipper",
+      "meaning": "拉链",
+      "audio": "70fde5ed7add4d238920424d6d731e0c",
+      "id": "23809bb56872",
+      "priority": 1,
+      "group": "35c8b89970c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "button",
+      "meaningInSourceLanguage": "纽扣",
+      "id": "0f823f04f1bf",
+      "priority": 0,
+      "group": "4c838770f47d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "button",
+      "meaning": "纽扣",
+      "audio": "435a87f5069e44c2bc726878c5df2a60",
+      "id": "4c1d0a301467",
+      "priority": 1,
+      "group": "4c838770f47d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pocket",
+      "meaningInSourceLanguage": "口袋",
+      "id": "3416ca18deff",
+      "priority": 0,
+      "group": "c25c94ed67cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pocket",
+      "meaning": "口袋",
+      "audio": "f153a54d2233423ca22e40dd0774fc73",
+      "id": "7ed4de0f190a",
+      "priority": 1,
+      "group": "c25c94ed67cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "collar",
+      "meaningInSourceLanguage": "领子",
+      "id": "1b7d9246d490",
+      "priority": 0,
+      "group": "6402ef91d98a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "collar",
+      "meaning": "领子",
+      "audio": "80a06ca4ed25415aa20f3505955ec98c",
+      "id": "3dc5c1b51fcf",
+      "priority": 1,
+      "group": "6402ef91d98a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sleeve",
+      "meaningInSourceLanguage": "袖子",
+      "id": "2b6730600e16",
+      "priority": 0,
+      "group": "d722f431efb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sleeve",
+      "meaning": "袖子",
+      "audio": "5953e95eded143df8543027549a0fdae",
+      "id": "db55f075b712",
+      "priority": 1,
+      "group": "d722f431efb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hem",
+      "meaningInSourceLanguage": "下摆",
+      "id": "1d51c2d51bd6",
+      "priority": 0,
+      "group": "9011e7440121"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hem",
+      "meaning": "下摆",
+      "audio": "ef16ef2f98414db589c2d9deb2d64c40",
+      "id": "32e5e977eedc",
+      "priority": 1,
+      "group": "9011e7440121"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lining",
+      "meaningInSourceLanguage": "衬里",
+      "id": "e3c0b224ce95",
+      "priority": 0,
+      "group": "499dd07139c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lining",
+      "meaning": "衬里",
+      "audio": "6db2c33d97074294bb770a6a9d892a93",
+      "id": "2603bd2a2763",
+      "priority": 1,
+      "group": "499dd07139c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fabric",
+      "meaningInSourceLanguage": "面料",
+      "id": "4a6172e76465",
+      "priority": 0,
+      "group": "134c1fb0fa7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fabric",
+      "meaning": "面料",
+      "audio": "306b8985b60b4a4b9c726be356e51df0",
+      "id": "e9531770983d",
+      "priority": 1,
+      "group": "134c1fb0fa7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cotton",
+      "meaningInSourceLanguage": "棉",
+      "id": "b32224106179",
+      "priority": 0,
+      "group": "ea1fcadb5034"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cotton",
+      "meaning": "棉",
+      "audio": "c62009a4dc82430792511c82609a177e",
+      "id": "e4f0179e1109",
+      "priority": 1,
+      "group": "ea1fcadb5034"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "silk",
+      "meaningInSourceLanguage": "丝绸",
+      "id": "cf16111587bf",
+      "priority": 0,
+      "group": "d9b176ce97c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "silk",
+      "meaning": "丝绸",
+      "audio": "7daf000abe1542de9cf30026125e9a93",
+      "id": "5861e488ccaf",
+      "priority": 1,
+      "group": "d9b176ce97c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wool",
+      "meaningInSourceLanguage": "羊毛",
+      "id": "594d0468d78e",
+      "priority": 0,
+      "group": "2ea48216ddd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wool",
+      "meaning": "羊毛",
+      "audio": "6fb1928e784e4d4e9b1c046e1459ebbe",
+      "id": "4246788fe829",
+      "priority": 1,
+      "group": "2ea48216ddd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leather",
+      "meaningInSourceLanguage": "皮革",
+      "id": "29acf1f1f89c",
+      "priority": 0,
+      "group": "f27968ab1cdd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leather",
+      "meaning": "皮革",
+      "audio": "4e7585468a2c4359aaf91106729732f6",
+      "id": "12111475b18d",
+      "priority": 1,
+      "group": "f27968ab1cdd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "linen",
+      "meaningInSourceLanguage": "亚麻",
+      "id": "db9301f9d281",
+      "priority": 0,
+      "group": "b395625c93af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "linen",
+      "meaning": "亚麻",
+      "audio": "95ec581c98b149149f6da59a5b22b320",
+      "id": "8750f6a14dac",
+      "priority": 1,
+      "group": "b395625c93af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "polyester",
+      "meaningInSourceLanguage": "聚酯纤维",
+      "id": "837bfa140422",
+      "priority": 0,
+      "group": "b0819a5eb70a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "polyester",
+      "meaning": "聚酯纤维",
+      "audio": "4b5830b258f046c9bddf7b9e5e6c281f",
+      "id": "d574455982aa",
+      "priority": 1,
+      "group": "b0819a5eb70a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "velvet",
+      "meaningInSourceLanguage": "天鹅绒",
+      "id": "6003e7948d38",
+      "priority": 0,
+      "group": "7e3b541d080d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "velvet",
+      "meaning": "天鹅绒",
+      "audio": "70e326e09d7442ff8ca9edfe6fc1c6f9",
+      "id": "3a9bf66f8703",
+      "priority": 1,
+      "group": "7e3b541d080d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lace",
+      "meaningInSourceLanguage": "蕾丝",
+      "id": "995231fa09aa",
+      "priority": 0,
+      "group": "f36a54fb548d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lace",
+      "meaning": "蕾丝",
+      "audio": "dad40dba5b314a8a921c2dd50b92163f",
+      "id": "5c804c8bcc06",
+      "priority": 1,
+      "group": "f36a54fb548d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "denim",
+      "meaningInSourceLanguage": "牛仔布",
+      "id": "2bd17311a9f6",
+      "priority": 0,
+      "group": "52b67335ff1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "denim",
+      "meaning": "牛仔布",
+      "audio": "460ce775de6c40e38606249f9d68cd9d",
+      "id": "3bd2aabe1aa8",
+      "priority": 1,
+      "group": "52b67335ff1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "necklace",
+      "meaningInSourceLanguage": "项链",
+      "id": "096d35d5bba4",
+      "priority": 0,
+      "group": "a74626e4f880"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "necklace",
+      "meaning": "项链",
+      "audio": "8a92a45c9da44e7885ff83cc99bc82c5",
+      "id": "2236857a29aa",
+      "priority": 1,
+      "group": "a74626e4f880"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bracelet",
+      "meaningInSourceLanguage": "手链",
+      "id": "c83c3f5995d5",
+      "priority": 0,
+      "group": "1305ffa58283"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bracelet",
+      "meaning": "手链",
+      "audio": "15c003cfa5644009aa510e1f1b7b45e7",
+      "id": "7e225625abd0",
+      "priority": 1,
+      "group": "1305ffa58283"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ring",
+      "meaningInSourceLanguage": "戒指",
+      "id": "f8503ea9b0bc",
+      "priority": 0,
+      "group": "3471379d460e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ring",
+      "meaning": "戒指",
+      "audio": "9a681f6f44574142a97f4a5ed991304c",
+      "id": "cd29aec354c9",
+      "priority": 1,
+      "group": "3471379d460e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "earrings",
+      "meaningInSourceLanguage": "耳环",
+      "id": "4bf234385801",
+      "priority": 0,
+      "group": "065691cbdfd1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "earrings",
+      "meaning": "耳环",
+      "audio": "86d2ed7614984a57aa0d3683f9489979",
+      "id": "00e37f760d50",
+      "priority": 1,
+      "group": "065691cbdfd1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "watch",
+      "meaningInSourceLanguage": "手表",
+      "id": "2091f8efe76d",
+      "priority": 0,
+      "group": "1ca24211f7c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "watch",
+      "meaning": "手表",
+      "audio": "7a0c97a790de43a5aea8fee362c2a36b",
+      "id": "60a19c342a54",
+      "priority": 1,
+      "group": "1ca24211f7c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "glasses",
+      "meaningInSourceLanguage": "眼镜",
+      "id": "7cea1151cad9",
+      "priority": 0,
+      "group": "271e119ef7ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "glasses",
+      "meaning": "眼镜",
+      "audio": "11ce4637634b4606abb93678404d1839",
+      "id": "8ef4975cb9e8",
+      "priority": 1,
+      "group": "271e119ef7ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sunglasses",
+      "meaningInSourceLanguage": "太阳镜",
+      "id": "6c1b5a627894",
+      "priority": 0,
+      "group": "0a93fb42ae77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sunglasses",
+      "meaning": "太阳镜",
+      "audio": "231cc4319c854fa8b1469375fbee273c",
+      "id": "efdd4429c0a0",
+      "priority": 1,
+      "group": "0a93fb42ae77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wallet",
+      "meaningInSourceLanguage": "钱包",
+      "id": "b50850432745",
+      "priority": 0,
+      "group": "02b722d5f7ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wallet",
+      "meaning": "钱包",
+      "audio": "f20fb5c2bd6a444c9cccf03c52fa0660",
+      "id": "1a89bc4c654b",
+      "priority": 1,
+      "group": "02b722d5f7ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "purse",
+      "meaningInSourceLanguage": "手提包",
+      "id": "59992f18fd64",
+      "priority": 0,
+      "group": "0f97e5b5dacc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "purse",
+      "meaning": "手提包",
+      "audio": "fac8b83d66b74494b39cb6bf9c1bac9f",
+      "id": "49c83e7592c7",
+      "priority": 1,
+      "group": "0f97e5b5dacc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "backpack",
+      "meaningInSourceLanguage": "背包",
+      "id": "58554e264913",
+      "priority": 0,
+      "group": "0c1dc2316419"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "backpack",
+      "meaning": "背包",
+      "audio": "d8a269248e4c4baf8f80a70744bc10e9",
+      "id": "d8d8108f1d6f",
+      "priority": 1,
+      "group": "0c1dc2316419"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "handbag",
+      "meaningInSourceLanguage": "手袋",
+      "id": "a60754ce6c99",
+      "priority": 0,
+      "group": "c71c3fed310f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "handbag",
+      "meaning": "手袋",
+      "audio": "277d29fbb4fd463fa248b34380930a22",
+      "id": "d0c914f436e3",
+      "priority": 1,
+      "group": "c71c3fed310f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "luggage",
+      "meaningInSourceLanguage": "行李",
+      "id": "a34fa020c01b",
+      "priority": 0,
+      "group": "a76679214820"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "luggage",
+      "meaning": "行李",
+      "audio": "4eff1b158eaf497496f2c1cc141b44a9",
+      "id": "7ee764ab86ed",
+      "priority": 1,
+      "group": "a76679214820"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "umbrella",
+      "meaningInSourceLanguage": "雨伞",
+      "id": "e7b83093aae1",
+      "priority": 0,
+      "group": "454818ee1d75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "umbrella",
+      "meaning": "雨伞",
+      "audio": "75a7cda46cb24160b67412534571b4a3",
+      "id": "a6470748c8f6",
+      "priority": 1,
+      "group": "454818ee1d75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "towel",
+      "meaningInSourceLanguage": "毛巾",
+      "id": "00ef1d4c92ea",
+      "priority": 0,
+      "group": "2cd3e5c9d321"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "towel",
+      "meaning": "毛巾",
+      "audio": "51fbf7797d374cf3b24d881201ed2eb6",
+      "id": "49a810b69842",
+      "priority": 1,
+      "group": "2cd3e5c9d321"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "handkerchief",
+      "meaningInSourceLanguage": "手帕",
+      "id": "a01918f2a52a",
+      "priority": 0,
+      "group": "54ecc69b534e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "handkerchief",
+      "meaning": "手帕",
+      "audio": "8c40b7d2eb4b4436acb622a464575b56",
+      "id": "ec6d2c55b877",
+      "priority": 1,
+      "group": "54ecc69b534e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mask",
+      "meaningInSourceLanguage": "口罩",
+      "id": "0dd4041e9a8e",
+      "priority": 0,
+      "group": "c7c19779a90f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mask",
+      "meaning": "口罩",
+      "audio": "8503b8a988d34196a6b7b9441ae29ce1",
+      "id": "caf2c7c9ab1d",
+      "priority": 1,
+      "group": "c7c19779a90f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "helmet",
+      "meaningInSourceLanguage": "头盔",
+      "id": "8ace885c4907",
+      "priority": 0,
+      "group": "ca9ec9faa84d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "helmet",
+      "meaning": "头盔",
+      "audio": "927efe75a1104e35b6e49b06a8cf1e18",
+      "id": "010c59ea9c1f",
+      "priority": 1,
+      "group": "ca9ec9faa84d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "apron",
+      "meaningInSourceLanguage": "围裙",
+      "id": "0ebdcacca386",
+      "priority": 0,
+      "group": "604aa193af98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "apron",
+      "meaning": "围裙",
+      "audio": "fae3b964e12047eca086b01ed7920975",
+      "id": "faecbe6ec772",
+      "priority": 1,
+      "group": "604aa193af98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shawl",
+      "meaningInSourceLanguage": "披肩",
+      "id": "9a3e11193a64",
+      "priority": 0,
+      "group": "44272ad55829"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shawl",
+      "meaning": "披肩",
+      "audio": "309b70bb9da3445bbfbe5dbc1ad4f798",
+      "id": "c81f3f601b3c",
+      "priority": 1,
+      "group": "44272ad55829"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "muffler",
+      "meaningInSourceLanguage": "围巾",
+      "id": "2f5be4b952cd",
+      "priority": 0,
+      "group": "41f85be10f9c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "muffler",
+      "meaning": "围巾",
+      "audio": "bdb2d1dd296142c4ad0ea7d3e51f054c",
+      "id": "6c58174c14ee",
+      "priority": 1,
+      "group": "41f85be10f9c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bow tie",
+      "meaningInSourceLanguage": "蝴蝶结领结",
+      "id": "1245d8ab509d",
+      "priority": 0,
+      "group": "d61d853d1a0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bow tie",
+      "meaning": "蝴蝶结领结",
+      "audio": "ed0de5b5cbd8404aa28eb8116215c186",
+      "id": "132a40aa816f",
+      "priority": 1,
+      "group": "d61d853d1a0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suspenders",
+      "meaningInSourceLanguage": "吊带裤",
+      "id": "c3d5b4f5a56b",
+      "priority": 0,
+      "group": "2f1de66dfe99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suspenders",
+      "meaning": "吊带裤",
+      "audio": "d9c0aff295bf48f5b2d80990f10b6eb5",
+      "id": "1d6c4a0b52c6",
+      "priority": 1,
+      "group": "2f1de66dfe99"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stockings",
+      "meaningInSourceLanguage": "长袜",
+      "id": "776d152592f9",
+      "priority": 0,
+      "group": "2e9db9c1eadf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stockings",
+      "meaning": "长袜",
+      "audio": "c24d0099e0b2404ab7a45f6b6de5ef72",
+      "id": "afc3b955d85f",
+      "priority": 1,
+      "group": "2e9db9c1eadf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tights",
+      "meaningInSourceLanguage": "紧身裤袜",
+      "id": "57df95688841",
+      "priority": 0,
+      "group": "4194533cc02f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tights",
+      "meaning": "紧身裤袜",
+      "audio": "dbbd4206a34d4fa99a58d06b4ae73ab8",
+      "id": "662f24bb38a6",
+      "priority": 1,
+      "group": "4194533cc02f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cap",
+      "meaningInSourceLanguage": "鸭舌帽",
+      "id": "64f9e31ad30f",
+      "priority": 0,
+      "group": "5791f1f5f6a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cap",
+      "meaning": "鸭舌帽",
+      "audio": "d87b40897e434c5aaf0012d2494f2103",
+      "id": "015062b1014c",
+      "priority": 1,
+      "group": "5791f1f5f6a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beret",
+      "meaningInSourceLanguage": "贝雷帽",
+      "id": "5f190b8a41db",
+      "priority": 0,
+      "group": "fe3a9d39e42d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beret",
+      "meaning": "贝雷帽",
+      "audio": "ff0fd147776743dd8764f3144cc9e388",
+      "id": "cf1945017c6d",
+      "priority": 1,
+      "group": "fe3a9d39e42d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beanie",
+      "meaningInSourceLanguage": "无檐帽",
+      "id": "ea28c2e7d578",
+      "priority": 0,
+      "group": "c8bb368bde29"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beanie",
+      "meaning": "无檐帽",
+      "audio": "3759adfc7f1c402c9e8e3b8e50bfce6a",
+      "id": "388382512902",
+      "priority": 1,
+      "group": "c8bb368bde29"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "visor",
+      "meaningInSourceLanguage": "遮阳帽",
+      "id": "51217951972d",
+      "priority": 0,
+      "group": "3d6a22f733e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "visor",
+      "meaning": "遮阳帽",
+      "audio": "d4b3419e0c014eebbc653eed62c40599",
+      "id": "5cde823f2b03",
+      "priority": 1,
+      "group": "3d6a22f733e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "headband",
+      "meaningInSourceLanguage": "发带",
+      "id": "0128830d6eda",
+      "priority": 0,
+      "group": "14ac641a0572"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "headband",
+      "meaning": "发带",
+      "audio": "2f58411cfa3540e2af11e8b7c203fa1a",
+      "id": "270d8fcc73cb",
+      "priority": 1,
+      "group": "14ac641a0572"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hairpin",
+      "meaningInSourceLanguage": "发夹",
+      "id": "067fa0c34bc2",
+      "priority": 0,
+      "group": "02e05e148f6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hairpin",
+      "meaning": "发夹",
+      "audio": "8e51aff0252943a8999184934e5ccd05",
+      "id": "93431885b992",
+      "priority": 1,
+      "group": "02e05e148f6f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brooch",
+      "meaningInSourceLanguage": "胸针",
+      "id": "ef97be8cf8d1",
+      "priority": 0,
+      "group": "d10298b59c53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brooch",
+      "meaning": "胸针",
+      "audio": "a874ad5f0e15479389f770ad76500d92",
+      "id": "d5b07b63bc5b",
+      "priority": 1,
+      "group": "d10298b59c53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pendant",
+      "meaningInSourceLanguage": "吊坠",
+      "id": "0acbb144d15c",
+      "priority": 0,
+      "group": "6cd6ace0e4fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pendant",
+      "meaning": "吊坠",
+      "audio": "7aa139947f5f41aa97c06a609996f6ba",
+      "id": "d0124ecacb8f",
+      "priority": 1,
+      "group": "6cd6ace0e4fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anklet",
+      "meaningInSourceLanguage": "脚链",
+      "id": "4590d24fcde0",
+      "priority": 0,
+      "group": "c05e0cfbceb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anklet",
+      "meaning": "脚链",
+      "audio": "8a9a7f2f783a4c00a4f9a13fbd791cd9",
+      "id": "6a24ec94dae8",
+      "priority": 1,
+      "group": "c05e0cfbceb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cuff",
+      "meaningInSourceLanguage": "袖口",
+      "id": "3266d8d51441",
+      "priority": 0,
+      "group": "abcb52fbcfc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cuff",
+      "meaning": "袖口",
+      "audio": "5b8ff0df991d4c7d8bf86cba3dc6d79c",
+      "id": "a6e24ad9d17a",
+      "priority": 1,
+      "group": "abcb52fbcfc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "placket",
+      "meaningInSourceLanguage": "门襟",
+      "id": "4ddf15b7509c",
+      "priority": 0,
+      "group": "c86c4f4f703d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "placket",
+      "meaning": "门襟",
+      "audio": "afb33bd5bc074f0ea50c3ef4d2dffcba",
+      "id": "bdb58fee2510",
+      "priority": 1,
+      "group": "c86c4f4f703d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seam",
+      "meaningInSourceLanguage": "接缝",
+      "id": "944e9bb2acc2",
+      "priority": 0,
+      "group": "62a52facccee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seam",
+      "meaning": "接缝",
+      "audio": "bf829ee3123e4a15ba3c81dc4afbb017",
+      "id": "59f658443001",
+      "priority": 1,
+      "group": "62a52facccee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dart",
+      "meaningInSourceLanguage": "省道",
+      "id": "fb54658556b4",
+      "priority": 0,
+      "group": "a969bfc151e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dart",
+      "meaning": "省道",
+      "audio": "b200f82ce8de40049ffa85124635a69a",
+      "id": "b4cded3d3fd8",
+      "priority": 1,
+      "group": "a969bfc151e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pleat",
+      "meaningInSourceLanguage": "褶裥",
+      "id": "e20ff0eac66d",
+      "priority": 0,
+      "group": "4aeb72ea78bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pleat",
+      "meaning": "褶裥",
+      "audio": "d3b5236c02424f2bbf32dbfa2f4937a3",
+      "id": "3880d704170d",
+      "priority": 1,
+      "group": "4aeb72ea78bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gusset",
+      "meaningInSourceLanguage": "插角",
+      "id": "a63f3d1cbf41",
+      "priority": 0,
+      "group": "3559ccb5b818"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gusset",
+      "meaning": "插角",
+      "audio": "5634459c89004106aa44e727d377b571",
+      "id": "a7d0f779be22",
+      "priority": 1,
+      "group": "3559ccb5b818"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "t-shirt",
+      "meaningInSourceLanguage": "T恤",
+      "id": "7f9fed3e66b7",
+      "priority": 0,
+      "group": "af9323c28783"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "t-shirt",
+      "meaning": "T恤",
+      "audio": "6435d627c96341f88d3698f24319b890",
+      "id": "a559f7902988",
+      "priority": 1,
+      "group": "af9323c28783"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hoodie",
+      "meaningInSourceLanguage": "连帽衫",
+      "id": "038428f2a735",
+      "priority": 0,
+      "group": "df4cc804a0bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hoodie",
+      "meaning": "连帽衫",
+      "audio": "87da03a13b4049e5a4e97a94e71c9fc0",
+      "id": "4f9fbb087715",
+      "priority": 1,
+      "group": "df4cc804a0bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tank top",
+      "meaningInSourceLanguage": "背心",
+      "id": "6ebf721f3fb0",
+      "priority": 0,
+      "group": "ba1d68c182f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tank top",
+      "meaning": "背心",
+      "audio": "de0dc8a00da5497d9259ac4e98d86e34",
+      "id": "2122c32fadc6",
+      "priority": 1,
+      "group": "ba1d68c182f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leggings",
+      "meaningInSourceLanguage": "紧身裤",
+      "id": "e5197de3518e",
+      "priority": 0,
+      "group": "868088a223e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leggings",
+      "meaning": "紧身裤",
+      "audio": "817c347e501b4d3486a73ef09ee43a56",
+      "id": "64aefc32fa30",
+      "priority": 1,
+      "group": "868088a223e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jumpsuit",
+      "meaningInSourceLanguage": "连体裤",
+      "id": "2ff250a0935d",
+      "priority": 0,
+      "group": "80c6801bd02a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jumpsuit",
+      "meaning": "连体裤",
+      "audio": "1b6e708264cd4e9287e675450be0a0c6",
+      "id": "d9238b5dfed6",
+      "priority": 1,
+      "group": "80c6801bd02a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "overalls",
+      "meaningInSourceLanguage": "工装裤",
+      "id": "14098aa09535",
+      "priority": 0,
+      "group": "4e5ca79d4a12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "overalls",
+      "meaning": "工装裤",
+      "audio": "8c09237e0ead4536a74c00d92eec526b",
+      "id": "69f6243a3ea7",
+      "priority": 1,
+      "group": "4e5ca79d4a12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parka",
+      "meaningInSourceLanguage": "派克大衣",
+      "id": "8cf5d7817c1c",
+      "priority": 0,
+      "group": "a87a44fc1eb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parka",
+      "meaning": "派克大衣",
+      "audio": "506219e851ee4629bc64524be843cde4",
+      "id": "fe8852f562d4",
+      "priority": 1,
+      "group": "a87a44fc1eb6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "windbreaker",
+      "meaningInSourceLanguage": "风衣",
+      "id": "70dccb2b2bf7",
+      "priority": 0,
+      "group": "36a0a58d9b4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "windbreaker",
+      "meaning": "风衣",
+      "audio": "18baa0cc21734aca81cb865ec1b5ca49",
+      "id": "6de85cfb25c4",
+      "priority": 1,
+      "group": "36a0a58d9b4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bomber jacket",
+      "meaningInSourceLanguage": "飞行员夹克",
+      "id": "ab0e936b1583",
+      "priority": 0,
+      "group": "19abc74e662a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bomber jacket",
+      "meaning": "飞行员夹克",
+      "audio": "e438d41dc8b54c83bc919eb5eb641a3d",
+      "id": "d641dc0e80cd",
+      "priority": 1,
+      "group": "19abc74e662a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kimono",
+      "meaningInSourceLanguage": "和服",
+      "id": "0f91def33635",
+      "priority": 0,
+      "group": "dcf7d33c474e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kimono",
+      "meaning": "和服",
+      "audio": "3312f1741fb44c268ecb9b420cdb8110",
+      "id": "ef1268618a3a",
+      "priority": 1,
+      "group": "dcf7d33c474e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sarong",
+      "meaningInSourceLanguage": "纱笼",
+      "id": "c36a8966972b",
+      "priority": 0,
+      "group": "5cd96ad92957"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sarong",
+      "meaning": "纱笼",
+      "audio": "456993caddd54d4192e4859611e21d52",
+      "id": "47a60424108b",
+      "priority": 1,
+      "group": "5cd96ad92957"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toga",
+      "meaningInSourceLanguage": "托加袍",
+      "id": "09c719cd9913",
+      "priority": 0,
+      "group": "d9971daf1a90"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toga",
+      "meaning": "托加袍",
+      "audio": "57f909f28d22432b8e7abbc486b01406",
+      "id": "7d7a93c7c9d7",
+      "priority": 1,
+      "group": "d9971daf1a90"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crown",
+      "meaningInSourceLanguage": "王冠",
+      "id": "586f1684906d",
+      "priority": 0,
+      "group": "fcc49fc80f9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crown",
+      "meaning": "王冠",
+      "audio": "d41d4cecb44a48a9829239bac6bc6cde",
+      "id": "1551ae36c749",
+      "priority": 1,
+      "group": "fcc49fc80f9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tiara",
+      "meaningInSourceLanguage": "头冠",
+      "id": "21e9c054138d",
+      "priority": 0,
+      "group": "8a6018a64cd9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tiara",
+      "meaning": "头冠",
+      "audio": "1bcce1b6f2d34391abe49bf5bb4b5fd0",
+      "id": "4d3d6e9a4ad4",
+      "priority": 1,
+      "group": "8a6018a64cd9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "veil",
+      "meaningInSourceLanguage": "面纱",
+      "id": "eef71c5e600d",
+      "priority": 0,
+      "group": "6804ff2c274e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "veil",
+      "meaning": "面纱",
+      "audio": "db3d186d7eda4cd19f1f466cd5c34f3c",
+      "id": "2ae25797299a",
+      "priority": 1,
+      "group": "6804ff2c274e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sash",
+      "meaningInSourceLanguage": "腰带",
+      "id": "332b31870ce1",
+      "priority": 0,
+      "group": "3d477969e26a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sash",
+      "meaning": "腰带",
+      "audio": "012a1b6c60d0499d8af3fb8c54d54af8",
+      "id": "6b2eb3510bba",
+      "priority": 1,
+      "group": "3d477969e26a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sari",
+      "meaningInSourceLanguage": "纱丽",
+      "id": "d2b72750664c",
+      "priority": 0,
+      "group": "d758d2145444"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sari",
+      "meaning": "纱丽",
+      "audio": "ed64d3a6891d43bfb47014d9643a971b",
+      "id": "4f4bb9051ef8",
+      "priority": 1,
+      "group": "d758d2145444"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turban",
+      "meaningInSourceLanguage": "头巾",
+      "id": "2b729eb32d64",
+      "priority": 0,
+      "group": "5de0ae3d73e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turban",
+      "meaning": "头巾",
+      "audio": "8667affae2c0412c8d23b8b23ba515ed",
+      "id": "f1989267fbed",
+      "priority": 1,
+      "group": "5de0ae3d73e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bikini",
+      "meaningInSourceLanguage": "比基尼",
+      "id": "5e42b24c3325",
+      "priority": 0,
+      "group": "4c33302e1185"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bikini",
+      "meaning": "比基尼",
+      "audio": "2527f356489e4214924aac49bbadafba",
+      "id": "242ce0d6caf9",
+      "priority": 1,
+      "group": "4c33302e1185"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trunks",
+      "meaningInSourceLanguage": "游泳裤",
+      "id": "a92f49aa399c",
+      "priority": 0,
+      "group": "6c7a7d9a5224"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trunks",
+      "meaning": "游泳裤",
+      "audio": "124092bcf6fb4b24a6af525f31b2c737",
+      "id": "9e90737f212e",
+      "priority": 1,
+      "group": "6c7a7d9a5224"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wetsuit",
+      "meaningInSourceLanguage": "潜水衣",
+      "id": "7d104f7dd277",
+      "priority": 0,
+      "group": "8b753b3f2db1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wetsuit",
+      "meaning": "潜水衣",
+      "audio": "5a8386a59b1d4cd6aea9c6c8b8e48fe3",
+      "id": "981e4c29d555",
+      "priority": 1,
+      "group": "8b753b3f2db1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mittens",
+      "meaningInSourceLanguage": "连指手套",
+      "id": "2a1b2dc356c5",
+      "priority": 0,
+      "group": "3928058fcf42"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mittens",
+      "meaning": "连指手套",
+      "audio": "2b496dcee409414389abc562caeb1b79",
+      "id": "f90c5d652487",
+      "priority": 1,
+      "group": "3928058fcf42"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cravat",
+      "meaningInSourceLanguage": "领巾",
+      "id": "7d58ca385b65",
+      "priority": 0,
+      "group": "940f4e114aa2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cravat",
+      "meaning": "领巾",
+      "audio": "08893be18d534273ad079a495b59b09c",
+      "id": "d92aa025f8a8",
+      "priority": 1,
+      "group": "940f4e114aa2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ascot",
+      "meaningInSourceLanguage": "领结",
+      "id": "2bb25e601f80",
+      "priority": 0,
+      "group": "8d3c3733fab8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ascot",
+      "meaning": "领结",
+      "audio": "079c10c7e8934617ac20e72cd81d3b3f",
+      "id": "980e7366a6bd",
+      "priority": 1,
+      "group": "8d3c3733fab8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "buckle",
+      "meaningInSourceLanguage": "搭扣",
+      "id": "405a78a9ce48",
+      "priority": 0,
+      "group": "7ff8c2ede7ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "buckle",
+      "meaning": "搭扣",
+      "audio": "7628d12bded6416f9648159df96f4e0f",
+      "id": "2291ef169289",
+      "priority": 1,
+      "group": "7ff8c2ede7ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "snap",
+      "meaningInSourceLanguage": "按扣",
+      "id": "74bdc812bb6c",
+      "priority": 0,
+      "group": "561ffa82473b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snap",
+      "meaning": "按扣",
+      "audio": "95131bbcd3d24a8197c572300c29360a",
+      "id": "c696e97c7581",
+      "priority": 1,
+      "group": "561ffa82473b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hook and eye",
+      "meaningInSourceLanguage": "钩眼扣",
+      "id": "75112ad77e42",
+      "priority": 0,
+      "group": "4daf038f917b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hook and eye",
+      "meaning": "钩眼扣",
+      "audio": "3fcf1759120343a395a9e4d306e575d4",
+      "id": "6e7cba0c7c32",
+      "priority": 1,
+      "group": "4daf038f917b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hemline",
+      "meaningInSourceLanguage": "下摆线",
+      "id": "068d661f91a3",
+      "priority": 0,
+      "group": "0f18e4544925"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hemline",
+      "meaning": "下摆线",
+      "audio": "4c7e974bdac4476ba92f18f9b84fd296",
+      "id": "eaacf329ccd5",
+      "priority": 1,
+      "group": "0f18e4544925"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seamstress",
+      "meaningInSourceLanguage": "女裁缝",
+      "id": "deb74102c356",
+      "priority": 0,
+      "group": "279295f2aa61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seamstress",
+      "meaning": "女裁缝",
+      "audio": "e07d9a3a64474f61b8389c6eaa195f35",
+      "id": "d0c92eeca2af",
+      "priority": 1,
+      "group": "279295f2aa61"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tailor",
+      "meaningInSourceLanguage": "裁缝",
+      "id": "6058e12f49ef",
+      "priority": 0,
+      "group": "0b64118a59d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tailor",
+      "meaning": "裁缝",
+      "audio": "4be10f7c979a4f59911bb3bab7158766",
+      "id": "17524bfad045",
+      "priority": 1,
+      "group": "0b64118a59d5"
+    }
+  ]
+}

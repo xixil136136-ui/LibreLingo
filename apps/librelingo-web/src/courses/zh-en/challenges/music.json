@@ -1,0 +1,856 @@
+{
+  "id": "0ba3c64de0b8",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "music",
+      "meaningInSourceLanguage": "音乐",
+      "id": "33df093ed45b",
+      "priority": 0,
+      "group": "d0dae6d1b77c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "music",
+      "meaning": "音乐",
+      "audio": "eb5cce8ffbe88c7ebc37ac735890fc82fad9930fe9e3d74de5b326193c1ca46f",
+      "id": "0d42154d19a3",
+      "priority": 1,
+      "group": "d0dae6d1b77c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "song",
+      "meaningInSourceLanguage": "歌曲",
+      "id": "c648e37a137e",
+      "priority": 0,
+      "group": "7d007d1ac4b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "song",
+      "meaning": "歌曲",
+      "audio": "3fafb28e96f57c4b0b89cc24ac2ff7277fed5ca27cd6596e363bb710ff522e05",
+      "id": "c97da1f72667",
+      "priority": 1,
+      "group": "7d007d1ac4b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "melody",
+      "meaningInSourceLanguage": "旋律",
+      "id": "bf00f27b085f",
+      "priority": 0,
+      "group": "35475bcffd16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "melody",
+      "meaning": "旋律",
+      "audio": "77bfebe28027bc48747c1da943cc94c04f3763c5405dadac3b6ddac191749f75",
+      "id": "7c4646e6f276",
+      "priority": 1,
+      "group": "35475bcffd16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rhythm",
+      "meaningInSourceLanguage": "节奏",
+      "id": "24ad7657a123",
+      "priority": 0,
+      "group": "b0806f747b0e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rhythm",
+      "meaning": "节奏",
+      "audio": "33ff538732aa653ab8fceae0c0269600e4602f06d4cebe871e460116db18ee3d",
+      "id": "7a4da2b4cda1",
+      "priority": 1,
+      "group": "b0806f747b0e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "harmony",
+      "meaningInSourceLanguage": "和声",
+      "id": "6609e4e79349",
+      "priority": 0,
+      "group": "90bc853cb57f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "harmony",
+      "meaning": "和声",
+      "audio": "a899cc07380591d17e12e5aa6f976ea2bf5f640cb8a015f7ee4a1889ce797a74",
+      "id": "683dc655bf20",
+      "priority": 1,
+      "group": "90bc853cb57f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "note",
+      "meaningInSourceLanguage": "音符",
+      "id": "843c8f0c7d01",
+      "priority": 0,
+      "group": "cff311116c28"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "note",
+      "meaning": "音符",
+      "audio": "dbd91d93f6213021879513111e3b9409d2fba97116732cd557a20c60102260a1",
+      "id": "e9f2f14879c6",
+      "priority": 1,
+      "group": "cff311116c28"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tune",
+      "meaningInSourceLanguage": "曲调",
+      "id": "5d155d49b80e",
+      "priority": 0,
+      "group": "02ae203e6cf5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tune",
+      "meaning": "曲调",
+      "audio": "f8e68e7905638603a682497ab6775aa31dfc14d9e669e208338ddd89130c6344",
+      "id": "5f51f5e9c44d",
+      "priority": 1,
+      "group": "02ae203e6cf5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lyrics",
+      "meaningInSourceLanguage": "歌词",
+      "id": "8b69048f0f6d",
+      "priority": 0,
+      "group": "ceeadd96bb16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lyrics",
+      "meaning": "歌词",
+      "audio": "eae1786407c19847e1c4b4993a5db21c3824dbdaaae65ace83793d62e4308ebc",
+      "id": "901aeda7c805",
+      "priority": 1,
+      "group": "ceeadd96bb16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "album",
+      "meaningInSourceLanguage": "专辑",
+      "id": "a7671d2a5093",
+      "priority": 0,
+      "group": "08aafe321587"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "album",
+      "meaning": "专辑",
+      "audio": "29be836704ae91c2692f9d664963ece982a252f3c011513413c018e029aecb78",
+      "id": "7504f92a6c89",
+      "priority": 1,
+      "group": "08aafe321587"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "concert",
+      "meaningInSourceLanguage": "音乐会",
+      "id": "4a192aa2e4b2",
+      "priority": 0,
+      "group": "bb2946410d0c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "concert",
+      "meaning": "音乐会",
+      "audio": "7835e74a64b0959366b73f509441522b6a5bfbd99b5d1b46973eee3f8c0f7d74",
+      "id": "e9e73b397fcc",
+      "priority": 1,
+      "group": "bb2946410d0c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "performance",
+      "meaningInSourceLanguage": "表演",
+      "id": "6a2f88a6796e",
+      "priority": 0,
+      "group": "4f6ab5da632c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "performance",
+      "meaning": "表演",
+      "audio": "2fb036481a7c61dcbf7c91ea5cfd5d6e171b03cda7818e2c714174e6f7b7de11",
+      "id": "26219eee628d",
+      "priority": 1,
+      "group": "4f6ab5da632c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "singer",
+      "meaningInSourceLanguage": "歌手",
+      "id": "5e72f336c814",
+      "priority": 0,
+      "group": "1246470f29fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "singer",
+      "meaning": "歌手",
+      "audio": "8b26bb429a9dff47c8864fa3ca0817850600a1caea87937a920c548e3502d094",
+      "id": "bcbbb3fb753d",
+      "priority": 1,
+      "group": "1246470f29fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "musician",
+      "meaningInSourceLanguage": "音乐家",
+      "id": "02e5b5743964",
+      "priority": 0,
+      "group": "802693149562"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "musician",
+      "meaning": "音乐家",
+      "audio": "a36ecd1e89db7f0c78050ff3a713e411dd74a94028ea13682b1d12c6d8cb7624",
+      "id": "541e0cefe201",
+      "priority": 1,
+      "group": "802693149562"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "band",
+      "meaningInSourceLanguage": "乐队",
+      "id": "393f4936e953",
+      "priority": 0,
+      "group": "b9103d745a76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "band",
+      "meaning": "乐队",
+      "audio": "4bf749af68b0343086945b4e3ebc7bbb524afa5a799d2562463db11104ff1695",
+      "id": "7cbe1c078b4d",
+      "priority": 1,
+      "group": "b9103d745a76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orchestra",
+      "meaningInSourceLanguage": "管弦乐队",
+      "id": "5f14e9508dfb",
+      "priority": 0,
+      "group": "c3d9c3dfbee1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orchestra",
+      "meaning": "管弦乐队",
+      "audio": "f552f7dfee2e814d5ec30da0e5f018240e482eb570fc1ddb33838370942101cb",
+      "id": "e7c4277f1168",
+      "priority": 1,
+      "group": "c3d9c3dfbee1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "choir",
+      "meaningInSourceLanguage": "合唱团",
+      "id": "de9013438004",
+      "priority": 0,
+      "group": "09a1d227dedc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "choir",
+      "meaning": "合唱团",
+      "audio": "5078d01ee70312743f716afc6f7a96221de4370e335976615fb9a2747606c559",
+      "id": "abb9fb92fba7",
+      "priority": 1,
+      "group": "09a1d227dedc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conductor",
+      "meaningInSourceLanguage": "指挥",
+      "id": "b223de3d9f20",
+      "priority": 0,
+      "group": "284558b3c45a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conductor",
+      "meaning": "指挥",
+      "audio": "11a54f491f4b04f84ef423f6b2a80ee16b4fb43154f1b8755c3930e96c9e8309",
+      "id": "0d8bb70afb60",
+      "priority": 1,
+      "group": "284558b3c45a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guitar",
+      "meaningInSourceLanguage": "吉他",
+      "id": "1878c6f99e14",
+      "priority": 0,
+      "group": "f74e309a7e25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guitar",
+      "meaning": "吉他",
+      "audio": "f0ef993f0acf5cbe3439059ec6ca9714435cd128bb75be8d93cc32c987464bb0",
+      "id": "86ca10c9cf71",
+      "priority": 1,
+      "group": "f74e309a7e25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "piano",
+      "meaningInSourceLanguage": "钢琴",
+      "id": "5ffce35bbf03",
+      "priority": 0,
+      "group": "14b1eabd881d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "piano",
+      "meaning": "钢琴",
+      "audio": "1c6a07922e1f7c0b193c38c4f910caf653bd783cfc774255df517121002db82c",
+      "id": "bc7dabc03448",
+      "priority": 1,
+      "group": "14b1eabd881d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "violin",
+      "meaningInSourceLanguage": "小提琴",
+      "id": "acae16d8017b",
+      "priority": 0,
+      "group": "181857af11a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "violin",
+      "meaning": "小提琴",
+      "audio": "8a4aa1a0d15b02d6e0398bddde79eca19acc05e16aaff90662dfcc43c9982eed",
+      "id": "648c15358fb6",
+      "priority": 1,
+      "group": "181857af11a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cello",
+      "meaningInSourceLanguage": "大提琴",
+      "id": "1fc37c956e78",
+      "priority": 0,
+      "group": "4ca97f2f97d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cello",
+      "meaning": "大提琴",
+      "audio": "f71d4c95b9368aee7fb206dad4f82cea4718590024dc13485ed1e8f49d488a84",
+      "id": "8e3c36cf720f",
+      "priority": 1,
+      "group": "4ca97f2f97d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flute",
+      "meaningInSourceLanguage": "长笛",
+      "id": "81ea694fd049",
+      "priority": 0,
+      "group": "4c557fd86188"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flute",
+      "meaning": "长笛",
+      "audio": "efde46f36bccfd464295c2570516243331b33ba2b01154c5c986af9c3dd91ff6",
+      "id": "7de94333ccbd",
+      "priority": 1,
+      "group": "4c557fd86188"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trumpet",
+      "meaningInSourceLanguage": "小号",
+      "id": "1294b2c515a2",
+      "priority": 0,
+      "group": "1edc52864279"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trumpet",
+      "meaning": "小号",
+      "audio": "09b198680275ee92ad60ed9c996003e1f1307410221a46e0854a2af947dc98e5",
+      "id": "151539215b04",
+      "priority": 1,
+      "group": "1edc52864279"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drums",
+      "meaningInSourceLanguage": "鼓",
+      "id": "b39d083e6fdf",
+      "priority": 0,
+      "group": "450eb2c6f5b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drums",
+      "meaning": "鼓",
+      "audio": "fa0817ba22612ef7fca0a8e3c43e0b96e735097239a528f5b296c75e9fa16d2d",
+      "id": "20aa5cdd3b7d",
+      "priority": 1,
+      "group": "450eb2c6f5b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bass",
+      "meaningInSourceLanguage": "贝斯",
+      "id": "5cc982c8ed7a",
+      "priority": 0,
+      "group": "438accbafae3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bass",
+      "meaning": "贝斯",
+      "audio": "77f7a1f923f61d70c685badbcf5900b4656c9d66a3c1735719b09cef8c127d5e",
+      "id": "eaf6d07a7e37",
+      "priority": 1,
+      "group": "438accbafae3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ukulele",
+      "meaningInSourceLanguage": "尤克里里",
+      "id": "8869f6894285",
+      "priority": 0,
+      "group": "d613c2b611f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ukulele",
+      "meaning": "尤克里里",
+      "audio": "cda4b4e677f6b85f9e4520b5a12694d92ee913967d3bc6e896951db0be109314",
+      "id": "c26868f7740f",
+      "priority": 1,
+      "group": "d613c2b611f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "saxophone",
+      "meaningInSourceLanguage": "萨克斯管",
+      "id": "6d7015747bdc",
+      "priority": 0,
+      "group": "0d31290879e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "saxophone",
+      "meaning": "萨克斯管",
+      "audio": "5122495db02aedef05d3b9235e9dade8fd84094708667db818951f0db42b1730",
+      "id": "b4b906c850ce",
+      "priority": 1,
+      "group": "0d31290879e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clarinet",
+      "meaningInSourceLanguage": "单簧管",
+      "id": "6094b8cbf917",
+      "priority": 0,
+      "group": "578a8246c8e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clarinet",
+      "meaning": "单簧管",
+      "audio": "905e8aafc43addbe47a4b44d717ec5154ee9f529e348c880546de4c784520a36",
+      "id": "fae7d8e8efb1",
+      "priority": 1,
+      "group": "578a8246c8e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "harp",
+      "meaningInSourceLanguage": "竖琴",
+      "id": "b8e23b003088",
+      "priority": 0,
+      "group": "a0bc73c9e6af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "harp",
+      "meaning": "竖琴",
+      "audio": "d604e9ff17a00251e3f5b7988bc5ec6860e2b50337b36c333aa6cedd4bea2cd2",
+      "id": "924bcf75baa6",
+      "priority": 1,
+      "group": "a0bc73c9e6af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accordion",
+      "meaningInSourceLanguage": "手风琴",
+      "id": "6aa9fa11c578",
+      "priority": 0,
+      "group": "69fc3a5897f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accordion",
+      "meaning": "手风琴",
+      "audio": "6e40941ec1104d32e32ef9b1c0deb19402d0ba4660f44107b8453f2e87605734",
+      "id": "b0c68dbf8d84",
+      "priority": 1,
+      "group": "69fc3a5897f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "organ",
+      "meaningInSourceLanguage": "风琴",
+      "id": "eb41aa833232",
+      "priority": 0,
+      "group": "b9ab5033a5e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "organ",
+      "meaning": "风琴",
+      "audio": "c6cf7693d6822bcc14ec39d4fe9f109e08399b5f3f3af16256c4d42f7caa3836",
+      "id": "ce17a82ff59f",
+      "priority": 1,
+      "group": "b9ab5033a5e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "synthesizer",
+      "meaningInSourceLanguage": "合成器",
+      "id": "8ea705a9b7db",
+      "priority": 0,
+      "group": "df1745051c86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "synthesizer",
+      "meaning": "合成器",
+      "audio": "d87789f6cfde5722421cac0bca6764b8a755e5f05965787283083addd19c3640",
+      "id": "38368821ce93",
+      "priority": 1,
+      "group": "df1745051c86"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jazz",
+      "meaningInSourceLanguage": "爵士",
+      "id": "c885ced47769",
+      "priority": 0,
+      "group": "aa17c0d7af5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jazz",
+      "meaning": "爵士",
+      "audio": "b7ba9bb6643ff2f1d504076a9e37892bc1fb0fd7e5382fae6ea6b364edd98df1",
+      "id": "1ad748fb013e",
+      "priority": 1,
+      "group": "aa17c0d7af5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rock",
+      "meaningInSourceLanguage": "摇滚",
+      "id": "6959a232c2a4",
+      "priority": 0,
+      "group": "7199a6ac0fc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rock",
+      "meaning": "摇滚",
+      "audio": "95e1f2dea4dfc2913e836b894bf86665a183d8b9282b34be1f01ca742716c28f",
+      "id": "a9742eab9a05",
+      "priority": 1,
+      "group": "7199a6ac0fc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "classical",
+      "meaningInSourceLanguage": "古典",
+      "id": "ff6a5dacad10",
+      "priority": 0,
+      "group": "dc3bb6ced90b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "classical",
+      "meaning": "古典",
+      "audio": "0222ba2eb095f7ac7ba2767af728bfaa19ead591bcefec145a1612f8e60f1056",
+      "id": "8b2bb9a52df4",
+      "priority": 1,
+      "group": "dc3bb6ced90b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pop",
+      "meaningInSourceLanguage": "流行",
+      "id": "10e05f3d5143",
+      "priority": 0,
+      "group": "1ec8845cc00d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pop",
+      "meaning": "流行",
+      "audio": "6d8c7be78de9c304d29b104a1a2f4467d266abad261f819604f2fb952d7a4fef",
+      "id": "44657d6c7c3f",
+      "priority": 1,
+      "group": "1ec8845cc00d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hip hop",
+      "meaningInSourceLanguage": "嘻哈",
+      "id": "5a74d5c29c48",
+      "priority": 0,
+      "group": "21cd9cd91e9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hip hop",
+      "meaning": "嘻哈",
+      "audio": "38e86bc715014ed6b05cc4813a988894c9b3553f7be7bba3c9f7f79315590df1",
+      "id": "e620551402c1",
+      "priority": 1,
+      "group": "21cd9cd91e9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blues",
+      "meaningInSourceLanguage": "蓝调",
+      "id": "21146fa47672",
+      "priority": 0,
+      "group": "7459cd2f69b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blues",
+      "meaning": "蓝调",
+      "audio": "6493dc4b8b1891d5354038c80954bd0f937905e538921a2b633883707baec081",
+      "id": "6be56fce601b",
+      "priority": 1,
+      "group": "7459cd2f69b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "country",
+      "meaningInSourceLanguage": "乡村音乐",
+      "id": "b5cf43fc4e90",
+      "priority": 0,
+      "group": "72c37349517e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "country",
+      "meaning": "乡村音乐",
+      "audio": "a81e1f3b310e899427c130a37955a59646de4149e1c7cae394de9f83ef2cad4c",
+      "id": "7735c833d4e2",
+      "priority": 1,
+      "group": "72c37349517e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "folk",
+      "meaningInSourceLanguage": "民谣",
+      "id": "4cd6db5b39d4",
+      "priority": 0,
+      "group": "51e1e734772d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "folk",
+      "meaning": "民谣",
+      "audio": "d464a8f427a78d0a4207643f89f432f161bf19954791fb2ce7b78b3488ab55f1",
+      "id": "bbb4bd06b5da",
+      "priority": 1,
+      "group": "51e1e734772d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "electronic",
+      "meaningInSourceLanguage": "电子",
+      "id": "c1b18d7b5559",
+      "priority": 0,
+      "group": "f7bcdd7f731d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "electronic",
+      "meaning": "电子",
+      "audio": "2f0118f1f74558f16629c2c1ad36e75c53dfb6dcc280c94e09dca484b4ddb187",
+      "id": "b0705322057a",
+      "priority": 1,
+      "group": "f7bcdd7f731d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "R&B",
+      "meaningInSourceLanguage": "节奏蓝调",
+      "id": "17b72f863f05",
+      "priority": 0,
+      "group": "65c8b1888e91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "R&B",
+      "meaning": "节奏蓝调",
+      "audio": "72de6ed276c695614f114712ccdcd1212d6d9d33e549a45100213774f05a89f2",
+      "id": "23a99f97c907",
+      "priority": 1,
+      "group": "65c8b1888e91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reggae",
+      "meaningInSourceLanguage": "雷鬼",
+      "id": "382fc088819e",
+      "priority": 0,
+      "group": "76774ff38bb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reggae",
+      "meaning": "雷鬼",
+      "audio": "9a5dee2c911a576c98bbf337dc4294af79fe177609455a5dbc1df47f44b91259",
+      "id": "868375978ad5",
+      "priority": 1,
+      "group": "76774ff38bb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "opera",
+      "meaningInSourceLanguage": "歌剧",
+      "id": "e9c5d2c04476",
+      "priority": 0,
+      "group": "374628ba6b33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "opera",
+      "meaning": "歌剧",
+      "audio": "b95ad75690e377a9b1ac892b9617b1734c20cf0235ae26a06d5c60354d1a309f",
+      "id": "ca8e6fce55bf",
+      "priority": 1,
+      "group": "374628ba6b33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "musical",
+      "meaningInSourceLanguage": "音乐剧",
+      "id": "32cef6eb4e70",
+      "priority": 0,
+      "group": "bef71adaeac7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "musical",
+      "meaning": "音乐剧",
+      "audio": "d5fadbbefe194a61ef9d01a4606f3672a8c12ee4b2d791233ea2d241117894f6",
+      "id": "95a8d9cc2443",
+      "priority": 1,
+      "group": "bef71adaeac7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "symphony",
+      "meaningInSourceLanguage": "交响乐",
+      "id": "7c5469c520e7",
+      "priority": 0,
+      "group": "aa00ddc0ebd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "symphony",
+      "meaning": "交响乐",
+      "audio": "b48dbf95ba092fb1dfa696b58dd94c65686d398e4c18f3731f35e5b2dfa1b7a9",
+      "id": "982fd1deda3c",
+      "priority": 1,
+      "group": "aa00ddc0ebd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "concerto",
+      "meaningInSourceLanguage": "协奏曲",
+      "id": "c25e9f34b934",
+      "priority": 0,
+      "group": "cf02078ba7b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "concerto",
+      "meaning": "协奏曲",
+      "audio": "b26b758f16b9652ec961a9fe3d12bd257eef8e40beb716de25b7e50c41fb8f2e",
+      "id": "e45f6bc5cf50",
+      "priority": 1,
+      "group": "cf02078ba7b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sonata",
+      "meaningInSourceLanguage": "奏鸣曲",
+      "id": "cdc2de8cec3b",
+      "priority": 0,
+      "group": "d6327aab0aea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sonata",
+      "meaning": "奏鸣曲",
+      "audio": "b0f41da4fe2d3124ea7d898427304dd71eac40894aa008a4f8ce34fba5b893d7",
+      "id": "c9025c79cdd3",
+      "priority": 1,
+      "group": "d6327aab0aea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "movement",
+      "meaningInSourceLanguage": "乐章",
+      "id": "6690d6e3d7e8",
+      "priority": 0,
+      "group": "c465eef80327"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "movement",
+      "meaning": "乐章",
+      "audio": "52f4e72f28433964dd960f065be129f21f626c5295fc70e6908ae326f12e1775",
+      "id": "80084c0c0ce6",
+      "priority": 1,
+      "group": "c465eef80327"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "composition",
+      "meaningInSourceLanguage": "作曲",
+      "id": "3379dbe5205a",
+      "priority": 0,
+      "group": "b27045cf4a4a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "composition",
+      "meaning": "作曲",
+      "audio": "a0d26f0208f4e1c6625863585cd07dded00fdd9e9310c10850b4760e852d6693",
+      "id": "7c32b8ee213b",
+      "priority": 1,
+      "group": "b27045cf4a4a"
+    }
+  ]
+}

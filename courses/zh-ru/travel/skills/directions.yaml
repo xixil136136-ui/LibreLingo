@@ -1,0 +1,68 @@
+Skill:
+  Name: Directions
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: налево
+    Translation: 左边
+  - Word: направо
+    Translation: 右边
+  - Word: прямо
+    Translation: 直走
+  - Word: здесь
+    Translation: 这里
+  - Word: там
+    Translation: 那里
+  - Word: близко
+    Translation: 附近
+  - Word: далеко
+    Translation: 远
+  - Word: карта
+    Translation: 地图
+  - Word: улица
+    Translation: 街道
+  - Word: дорога
+    Translation: 路
+
+Phrases:
+  - Phrase: Поверните налево здесь.
+    Translation: 在这里左转。
+  - Phrase: Идите прямо.
+    Translation: 一直往前走。
+  - Phrase: Где находится вокзал?
+    Translation: 车站在哪里？
+  - Phrase: Это далеко отсюда?
+    Translation: 离这里远吗？
+  - Phrase: Мне нужна карта.
+    Translation: 我需要一张地图。
+
+Mini-dictionary:
+  Russian:
+    - там: 那里
+    - дорога: 路
+    - близко: 附近
+    - направо: 右边
+    - улица: 街道
+    - прямо: 直走
+    - налево: 左边
+    - карта: 地图
+    - здесь: 这里
+    - далеко: 远
+  Chinese:
+    - 附近: близко
+    - 这里: здесь
+    - 路: дорога
+    - 左边: налево
+    - 远: далеко
+    - 直走: прямо
+    - 街道: улица
+    - 右边: направо
+    - 那里: там
+    - 地图: карта

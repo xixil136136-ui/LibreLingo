@@ -1,0 +1,312 @@
+{
+  "id": "10e34478e50a",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I go to school.",
+      "meaningInSourceLanguage": "我去上学。",
+      "id": "f8d74e4f9dbd",
+      "priority": 0,
+      "group": "749ad17edbab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I go to school.",
+      "meaning": "我去上学。",
+      "audio": "5926968174c16033a0f99178aa0faf1995ee5eb4f7bdf46cc52c2fff482ce036",
+      "id": "55bf4f220724",
+      "priority": 1,
+      "group": "749ad17edbab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What subject do you like?",
+      "meaningInSourceLanguage": "你喜欢什么科目？",
+      "id": "9ca60ed013ef",
+      "priority": 0,
+      "group": "dceeaa20e48a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What subject do you like?",
+      "meaning": "你喜欢什么科目？",
+      "audio": "9d09d45cd57478dfc54e8c723781ad1ebbdc55cd746349e7d1edc350458d0a1c",
+      "id": "ef1d91ded263",
+      "priority": 1,
+      "group": "dceeaa20e48a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like mathematics.",
+      "meaningInSourceLanguage": "我喜欢数学。",
+      "id": "d4e1035d9ab8",
+      "priority": 0,
+      "group": "1805f384fd56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like mathematics.",
+      "meaning": "我喜欢数学。",
+      "audio": "17cccb1c144dd20c93355785c7b7ce9e6bf32968279d55bfa413deb69f72db8c",
+      "id": "f48da4e4b332",
+      "priority": 1,
+      "group": "1805f384fd56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you understand?",
+      "meaningInSourceLanguage": "你明白吗？",
+      "id": "8507758c4539",
+      "priority": 0,
+      "group": "bd5285596349"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you understand?",
+      "meaning": "你明白吗？",
+      "audio": "2c4b1335e1d9c87e221771ad93cc3f1d0b4e5bfe808eb2c0930862b3a3f5234b",
+      "id": "349da2d97723",
+      "priority": 1,
+      "group": "bd5285596349"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I understand.",
+      "meaningInSourceLanguage": "我明白。",
+      "id": "3555303dcd72",
+      "priority": 0,
+      "group": "b8a87ca61a9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I understand.",
+      "meaning": "我明白。",
+      "audio": "d488965b1ec734c2ad764f900c7eee14b95f23cee921d3ac8b347fce43bdeb42",
+      "id": "d5422abaa9b1",
+      "priority": 1,
+      "group": "b8a87ca61a9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I don't understand.",
+      "meaningInSourceLanguage": "我不明白。",
+      "id": "839ff39296c2",
+      "priority": 0,
+      "group": "bb3b7c4749dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I don't understand.",
+      "meaning": "我不明白。",
+      "audio": "5b9e7d8e47051a936e2d15651727c8df06743ea6316ece9f0cfc5a83d155d19e",
+      "id": "ced8ea575916",
+      "priority": 1,
+      "group": "bb3b7c4749dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please repeat that.",
+      "meaningInSourceLanguage": "请重复一遍。",
+      "id": "e7a270afd4d7",
+      "priority": 0,
+      "group": "2c83ff4b3980"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please repeat that.",
+      "meaning": "请重复一遍。",
+      "audio": "2cdc6e0b7c86d7750891a98abc8b8466ae3792476d2ee68253e19434b93d35ef",
+      "id": "b4aa849ec077",
+      "priority": 1,
+      "group": "2c83ff4b3980"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What does this word mean?",
+      "meaningInSourceLanguage": "这个单词是什么意思？",
+      "id": "c25183039bed",
+      "priority": 0,
+      "group": "fa9319964e74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What does this word mean?",
+      "meaning": "这个单词是什么意思？",
+      "audio": "92ef31169c27788cb4c7ce07669b793b9d471ac9196ee0d4fdc275f366618e0d",
+      "id": "dd025c9bbcb9",
+      "priority": 1,
+      "group": "fa9319964e74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you help me with my homework?",
+      "meaningInSourceLanguage": "你能帮我做作业吗？",
+      "id": "f303bfe609df",
+      "priority": 0,
+      "group": "2f03064b1e17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you help me with my homework?",
+      "meaning": "你能帮我做作业吗？",
+      "audio": "50da0a4943e52f6db84034bca45b765ad6527c6967c9d93ad9cea2d29c348d1e",
+      "id": "a0ba2a9c0e0f",
+      "priority": 1,
+      "group": "2f03064b1e17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When is the exam?",
+      "meaningInSourceLanguage": "什么时候考试？",
+      "id": "3e4d46cfb3d6",
+      "priority": 0,
+      "group": "1ecc23089e75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When is the exam?",
+      "meaning": "什么时候考试？",
+      "audio": "8280ff025160cc11f3381f55d41f60ac5c9bd833fc3435ce9e8f34d5e6815150",
+      "id": "c56f715b796b",
+      "priority": 1,
+      "group": "1ecc23089e75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to study.",
+      "meaningInSourceLanguage": "我需要学习。",
+      "id": "3ff3160b1e21",
+      "priority": 0,
+      "group": "b3cbe78fc962"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to study.",
+      "meaning": "我需要学习。",
+      "audio": "c4817fc65b3dc7f53f352f322c5cb2daba45ea63868dcc3c5917efe047833295",
+      "id": "4c93d896a73d",
+      "priority": 1,
+      "group": "b3cbe78fc962"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's your major?",
+      "meaningInSourceLanguage": "你学什么专业？",
+      "id": "05297a129d47",
+      "priority": 0,
+      "group": "d3ebb9880613"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's your major?",
+      "meaning": "你学什么专业？",
+      "audio": "57d5ecd7b7dd1523bf8e1088b7ab9afd9be67fca21ce9e20769c301f718616c3",
+      "id": "c2e86783dbf2",
+      "priority": 1,
+      "group": "d3ebb9880613"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm studying engineering.",
+      "meaningInSourceLanguage": "我在学工程。",
+      "id": "37c0c9112190",
+      "priority": 0,
+      "group": "076fb90adcb5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm studying engineering.",
+      "meaning": "我在学工程。",
+      "audio": "14c7ce440b83faaa8c942746525a4be8c1f342880ac75982999236b1fea506b8",
+      "id": "623c6b9ec552",
+      "priority": 1,
+      "group": "076fb90adcb5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I graduated last year.",
+      "meaningInSourceLanguage": "我去年毕业了。",
+      "id": "c844e6cb69c5",
+      "priority": 0,
+      "group": "1a0fb6e692bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I graduated last year.",
+      "meaning": "我去年毕业了。",
+      "audio": "2cc3732162aeb549dce35fc2dc4fbedb2d499f1cd512a9aa058a615d2db44a65",
+      "id": "39b5af3b4228",
+      "priority": 1,
+      "group": "1a0fb6e692bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I got a scholarship.",
+      "meaningInSourceLanguage": "我获得了奖学金。",
+      "id": "352a40c448f5",
+      "priority": 0,
+      "group": "6f3d36166e55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I got a scholarship.",
+      "meaning": "我获得了奖学金。",
+      "audio": "b945a0e3e0dbb67a0dc493ddb65f3badf7367770453188723d0a6be686377dd2",
+      "id": "2d1b2a9730c9",
+      "priority": 1,
+      "group": "6f3d36166e55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The lecture was interesting.",
+      "meaningInSourceLanguage": "讲座很有趣。",
+      "id": "6037a66b8992",
+      "priority": 0,
+      "group": "769cb0c83426"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The lecture was interesting.",
+      "meaning": "讲座很有趣。",
+      "audio": "4bd75cad95736ef4de4db6f15766322c1f4a41e9685cbfe9042cdcb1ff0acdbd",
+      "id": "ce21bf45a1be",
+      "priority": 1,
+      "group": "769cb0c83426"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to write an essay.",
+      "meaningInSourceLanguage": "我需要写一篇论文。",
+      "id": "0d4e735f8e69",
+      "priority": 0,
+      "group": "1f72c5a2d8b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to write an essay.",
+      "meaning": "我需要写一篇论文。",
+      "audio": "f626b054c92cd3c5e563cdc4533f1552169ef0e6a9cb2d3961765f59ae4704e2",
+      "id": "5cfb42797a6b",
+      "priority": 1,
+      "group": "1f72c5a2d8b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The deadline is next week.",
+      "meaningInSourceLanguage": "截止日期是下周。",
+      "id": "85a2d538931e",
+      "priority": 0,
+      "group": "7b40ba3b22a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The deadline is next week.",
+      "meaning": "截止日期是下周。",
+      "audio": "500c79db75d038453c840d78d5d32741fe43a90044e631f372401444c27e9206",
+      "id": "603db93baf7d",
+      "priority": 1,
+      "group": "7b40ba3b22a6"
+    }
+  ]
+}

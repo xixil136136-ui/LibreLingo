@@ -1,0 +1,482 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "今日は晴れです。",
+      "meaningInSourceLanguage": "今天天气晴朗。",
+      "id": "4c0b63a82e4c",
+      "priority": 0,
+      "group": "79dcc17aa8be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "今日は晴れです。",
+      "meaning": "今天天气晴朗。",
+      "audio": "3606ac9a17cef8e6fbcbbaa444955f503c29f8d542e8c5f26212a6377429d79d",
+      "id": "879e4f6681e6",
+      "priority": 1,
+      "group": "79dcc17aa8be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "雨が降りそうです。",
+      "meaningInSourceLanguage": "要下雨了。",
+      "id": "933956c9a64b",
+      "priority": 0,
+      "group": "083584c10e18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "雨が降りそうです。",
+      "meaning": "要下雨了。",
+      "audio": "a7838eed461bcee2fd8b6b0b6b2d7eaa08f6f3e1439b66e241d203e4671088cd",
+      "id": "d7f9a96894c3",
+      "priority": 1,
+      "group": "083584c10e18"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "外はとても寒いです。",
+      "meaningInSourceLanguage": "外面很冷。",
+      "id": "decbf4b39438",
+      "priority": 0,
+      "group": "75ac859842ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "外はとても寒いです。",
+      "meaning": "外面很冷。",
+      "audio": "f6b86e1b3a4d5b5e92991226efa9fa03fa7da43865af1d7668bb9d97c41f2788",
+      "id": "618a9adc1b92",
+      "priority": 1,
+      "group": "75ac859842ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "傘を持って行ってください。",
+      "meaningInSourceLanguage": "带上雨伞。",
+      "id": "5ba277f1c1ab",
+      "priority": 0,
+      "group": "a68847ecee98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "傘を持って行ってください。",
+      "meaning": "带上雨伞。",
+      "audio": "f4587d4e84d004f1fb888bdd70889982f102516265edcbab67ac2f81a459da5a",
+      "id": "ddd8ca007be3",
+      "priority": 1,
+      "group": "a68847ecee98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "気温は何度ですか？",
+      "meaningInSourceLanguage": "多少度？",
+      "id": "d118ec3f9693",
+      "priority": 0,
+      "group": "97c1efae90e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "気温は何度ですか？",
+      "meaning": "多少度？",
+      "audio": "6abd445996995b35ba4a9c80d276de4752c74a2f7141bcec0822857d766de030",
+      "id": "b373147bb93b",
+      "priority": 1,
+      "group": "97c1efae90e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "雪が降っています。",
+      "meaningInSourceLanguage": "下雪了。",
+      "id": "001a0a48432b",
+      "priority": 0,
+      "group": "517a1651598c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "雪が降っています。",
+      "meaning": "下雪了。",
+      "audio": "c5b6ce9534f5e716ac8ed61884b66f082e1365d4a37d700a602f548d47bdd6f5",
+      "id": "4f6eda1f49d5",
+      "priority": 1,
+      "group": "517a1651598c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "今日は暖かいです。",
+      "meaningInSourceLanguage": "今天很暖和。",
+      "id": "b859b6ae76c0",
+      "priority": 0,
+      "group": "746701b06aaf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "今日は暖かいです。",
+      "meaning": "今天很暖和。",
+      "audio": "235ef4ca670bdbb961d05459d2e12eeb71e3a9fa55fb3f6b11305d8541da6bff",
+      "id": "8aca644cf1a8",
+      "priority": 1,
+      "group": "746701b06aaf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "風が強いです。",
+      "meaningInSourceLanguage": "刮风了。",
+      "id": "e51c73e68679",
+      "priority": 0,
+      "group": "73c0962f02e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "風が強いです。",
+      "meaning": "刮风了。",
+      "audio": "f2df9c456fb6ae6aa6e20230cbb1eaa69b1b396461ff2986c6eed5f48b45a738",
+      "id": "58abb3b54e4e",
+      "priority": 1,
+      "group": "73c0962f02e0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "晴れ",
+      "meaningInSourceLanguage": "晴天",
+      "id": "60cf42917759",
+      "priority": 0,
+      "group": "3d0503c3d3dd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "晴れ"
+      ],
+      "phrase": [
+        {
+          "word": "晴天",
+          "definition": "晴れ"
+        }
+      ],
+      "id": "86fd024a5f03",
+      "priority": 1,
+      "group": "3d0503c3d3dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "晴れ",
+      "meaning": "晴天",
+      "audio": "4c924034fb2e9e6ea0ff78a0f68c2df6084ebc2de1bfaaad6f7895387d2614c9",
+      "id": "6c9ba8b4f5c7",
+      "priority": 1,
+      "group": "3d0503c3d3dd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "雨",
+      "meaningInSourceLanguage": "雨",
+      "id": "6276df2b66d8",
+      "priority": 0,
+      "group": "aa24bba3b738"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "雨"
+      ],
+      "phrase": [
+        {
+          "word": "雨",
+          "definition": "雨"
+        }
+      ],
+      "id": "e337dfe2177e",
+      "priority": 1,
+      "group": "aa24bba3b738"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "雨",
+      "meaning": "雨",
+      "audio": "6593602cf438ba675fb9780d50681646d76e66ce0677a8f89e1a151d9334d16c",
+      "id": "46ecb5ad3d99",
+      "priority": 1,
+      "group": "aa24bba3b738"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "雪",
+      "meaningInSourceLanguage": "雪",
+      "id": "4e425411991e",
+      "priority": 0,
+      "group": "d788c041ed1e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "雪"
+      ],
+      "phrase": [
+        {
+          "word": "雪",
+          "definition": "雪"
+        }
+      ],
+      "id": "13d2db48ab0d",
+      "priority": 1,
+      "group": "d788c041ed1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "雪",
+      "meaning": "雪",
+      "audio": "e8543a83e7c936c2caa5356efe6b29f76f7b419a76e2c946e5a379d859cc2fc6",
+      "id": "a4c923d19ece",
+      "priority": 1,
+      "group": "d788c041ed1e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "風",
+      "meaningInSourceLanguage": "风",
+      "id": "79b8c1d0a6a3",
+      "priority": 0,
+      "group": "b89af88406ac"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "風"
+      ],
+      "phrase": [
+        {
+          "word": "风",
+          "definition": "風"
+        }
+      ],
+      "id": "458151b5f360",
+      "priority": 1,
+      "group": "b89af88406ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "風",
+      "meaning": "风",
+      "audio": "2dc07e1ec9949bf5472f0efca61cb849cbb3558f58fc130a0520681dcf320e14",
+      "id": "8fee25000285",
+      "priority": 1,
+      "group": "b89af88406ac"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "曇り",
+      "meaningInSourceLanguage": "云",
+      "id": "5f733b5f783e",
+      "priority": 0,
+      "group": "10bff9a7fa0c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "曇り"
+      ],
+      "phrase": [
+        {
+          "word": "云",
+          "definition": "曇り"
+        }
+      ],
+      "id": "92f3b510ab5f",
+      "priority": 1,
+      "group": "10bff9a7fa0c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "曇り",
+      "meaning": "云",
+      "audio": "f64a4d81274a96e89f5e9a45e5167a0f496e66fbbd1c43153f778d9f354e51d2",
+      "id": "cbe0c82d3654",
+      "priority": 1,
+      "group": "10bff9a7fa0c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "寒い",
+      "meaningInSourceLanguage": "冷",
+      "id": "682ae5b8059c",
+      "priority": 0,
+      "group": "344541b054ac"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "寒い"
+      ],
+      "phrase": [
+        {
+          "word": "冷",
+          "definition": "寒い"
+        }
+      ],
+      "id": "2e26336f79f2",
+      "priority": 1,
+      "group": "344541b054ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "寒い",
+      "meaning": "冷",
+      "audio": "31d42b2429207cf0091dd6af41ef3e408fe47c781fd8c466f4e9fe794ef93287",
+      "id": "44e8c906eaef",
+      "priority": 1,
+      "group": "344541b054ac"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "暑い",
+      "meaningInSourceLanguage": "热",
+      "id": "1b07f35b0696",
+      "priority": 0,
+      "group": "bf228851d73f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "暑い"
+      ],
+      "phrase": [
+        {
+          "word": "热",
+          "definition": "暑い"
+        }
+      ],
+      "id": "9d5df23b94ba",
+      "priority": 1,
+      "group": "bf228851d73f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "暑い",
+      "meaning": "热",
+      "audio": "cebd2eb430ed42cba551361f7d3f5b5ef9ff34c6b9c637fbfa82754df55c996f",
+      "id": "b7f99996e536",
+      "priority": 1,
+      "group": "bf228851d73f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "暖かい",
+      "meaningInSourceLanguage": "温暖",
+      "id": "f8d2d11eb620",
+      "priority": 0,
+      "group": "4ea629237b8a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "暖かい"
+      ],
+      "phrase": [
+        {
+          "word": "温暖",
+          "definition": "暖かい"
+        }
+      ],
+      "id": "6deee83f18d4",
+      "priority": 1,
+      "group": "4ea629237b8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "暖かい",
+      "meaning": "温暖",
+      "audio": "09fed6df5ca7d3b3ce85f6cbc05561efbcad12488af33320659c81c657a163e0",
+      "id": "768c0272ba50",
+      "priority": 1,
+      "group": "4ea629237b8a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "気温",
+      "meaningInSourceLanguage": "温度",
+      "id": "78aab190abb4",
+      "priority": 0,
+      "group": "67d8965cedfb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "気温"
+      ],
+      "phrase": [
+        {
+          "word": "温度",
+          "definition": "気温"
+        }
+      ],
+      "id": "33004565f177",
+      "priority": 1,
+      "group": "67d8965cedfb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "気温",
+      "meaning": "温度",
+      "audio": "0c75717b00172e2425902a5b83f7f22a32786ac8cdfbb0e58eac7d4e10a02199",
+      "id": "a9fa88f4a68e",
+      "priority": 1,
+      "group": "67d8965cedfb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "傘",
+      "meaningInSourceLanguage": "雨伞",
+      "id": "c42a3a3888f1",
+      "priority": 0,
+      "group": "d60aa3283a21"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "傘"
+      ],
+      "phrase": [
+        {
+          "word": "雨伞",
+          "definition": "傘"
+        }
+      ],
+      "id": "a6045275e2e2",
+      "priority": 1,
+      "group": "d60aa3283a21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "傘",
+      "meaning": "雨伞",
+      "audio": "b46c54b4d1ef7663ca92ae82cc4995be202581c8936e597d5656226483edfef6",
+      "id": "36f412e5a18b",
+      "priority": 1,
+      "group": "d60aa3283a21"
+    }
+  ]
+}

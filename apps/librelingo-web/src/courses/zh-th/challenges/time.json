@@ -1,0 +1,448 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ตอนเช้า",
+      "meaningInSourceLanguage": "在早上。",
+      "id": "890533ea59c3",
+      "priority": 0,
+      "group": "7a08029355e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ตอนเช้า",
+      "meaning": "在早上。",
+      "audio": "f22bef4a8c8be3ff6fef37942332fbcec6f65cfde9bfe4f6707a24c7792a1b93",
+      "id": "4a8615e635b6",
+      "priority": 1,
+      "group": "7a08029355e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เจอกันพรุ่งนี้",
+      "meaningInSourceLanguage": "明天见。",
+      "id": "20d579b8c1a6",
+      "priority": 0,
+      "group": "22e1cd3c7c98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เจอกันพรุ่งนี้",
+      "meaning": "明天见。",
+      "audio": "89b584e6c53e4f9790d5276907f2b297e17b03701d6feb5f29171bd28bfdf6e7",
+      "id": "e00b028f5c3f",
+      "priority": 1,
+      "group": "22e1cd3c7c98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ตอนเช้าตรู่",
+      "meaningInSourceLanguage": "现在是清晨。",
+      "id": "13c481ab3c59",
+      "priority": 0,
+      "group": "fa44e0e41dce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ตอนเช้าตรู่",
+      "meaning": "现在是清晨。",
+      "audio": "6005497841b05ec2c5e4016081273d6071056c8c0dd3a8e411e5f7dff9a477ad",
+      "id": "cf6e9d561186",
+      "priority": 1,
+      "group": "fa44e0e41dce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ตอนนี้ฉันว่าง",
+      "meaningInSourceLanguage": "我现在有空。",
+      "id": "6b6972726b2b",
+      "priority": 0,
+      "group": "d38294722861"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ตอนนี้ฉันว่าง",
+      "meaning": "我现在有空。",
+      "audio": "ce4d284e1c983690e35bf62ffe8eac066d9ed1d621edd6817deafa9949f18ab6",
+      "id": "159ec4cb187c",
+      "priority": 1,
+      "group": "d38294722861"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "แล้วเจอกัน",
+      "meaningInSourceLanguage": "回头见。",
+      "id": "034953bcbbcc",
+      "priority": 0,
+      "group": "1d835118a7b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แล้วเจอกัน",
+      "meaning": "回头见。",
+      "audio": "8e719fc615f9c04bbf54a7067225f86b966675f6de11de5e89c7dfa755dbf4e7",
+      "id": "cfc12d67ee08",
+      "priority": 1,
+      "group": "1d835118a7b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ตอนบ่าย",
+      "meaningInSourceLanguage": "在下午。",
+      "id": "cbce31783ed1",
+      "priority": 0,
+      "group": "75435f738a01"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ตอนบ่าย",
+      "meaning": "在下午。",
+      "audio": "d342e5963c68d65b7d14ebdda7f6d849d148c91fdd0997fb2696f514aafa5ef5",
+      "id": "931cd68f3ad6",
+      "priority": 1,
+      "group": "75435f738a01"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เช้า",
+      "meaningInSourceLanguage": "早上",
+      "id": "abeaee4d8c13",
+      "priority": 0,
+      "group": "71a9815be08c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เช้า"
+      ],
+      "phrase": [
+        {
+          "word": "早上",
+          "definition": "เช้า"
+        }
+      ],
+      "id": "4170ec345dd1",
+      "priority": 1,
+      "group": "71a9815be08c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เช้า",
+      "meaning": "早上",
+      "audio": "2e6fa6404ade698701324a9f74dfeaec7442f05f909737fd1ceda5f3587a805b",
+      "id": "ee45377b2892",
+      "priority": 1,
+      "group": "71a9815be08c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "บ่าย",
+      "meaningInSourceLanguage": "下午",
+      "id": "709d066d13be",
+      "priority": 0,
+      "group": "dab604d3e85b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "บ่าย"
+      ],
+      "phrase": [
+        {
+          "word": "下午",
+          "definition": "บ่าย"
+        }
+      ],
+      "id": "2bcb0dde5449",
+      "priority": 1,
+      "group": "dab604d3e85b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "บ่าย",
+      "meaning": "下午",
+      "audio": "0b2b96b8fe31e9a0b75d45eb9c77db3a3e0faa31d1ac47f41191e65cc843f30f",
+      "id": "3c7412b5114d",
+      "priority": 1,
+      "group": "dab604d3e85b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เย็น",
+      "meaningInSourceLanguage": "晚上",
+      "id": "e4e6b59a1d5f",
+      "priority": 0,
+      "group": "9771245793e5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เย็น"
+      ],
+      "phrase": [
+        {
+          "word": "晚上",
+          "definition": "เย็น"
+        }
+      ],
+      "id": "0af4490c2a56",
+      "priority": 1,
+      "group": "9771245793e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เย็น",
+      "meaning": "晚上",
+      "audio": "333303173b71914e6e78477d123e60d5a39c6b617e2cb70aa5bd6d1fdb0aabb7",
+      "id": "28e44ecdee21",
+      "priority": 1,
+      "group": "9771245793e5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "กลางคืน",
+      "meaningInSourceLanguage": "夜晚",
+      "id": "0060fe900a37",
+      "priority": 0,
+      "group": "3d86f4b02652"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "กลางคืน"
+      ],
+      "phrase": [
+        {
+          "word": "夜晚",
+          "definition": "กลางคืน"
+        }
+      ],
+      "id": "08aa136e3419",
+      "priority": 1,
+      "group": "3d86f4b02652"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "กลางคืน",
+      "meaning": "夜晚",
+      "audio": "c56c95e2ccb1a481ad62706fc7eef40959425248b4cdaf281f2e03c01033f0ae",
+      "id": "c7ab6672ae1d",
+      "priority": 1,
+      "group": "3d86f4b02652"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "วันนี้",
+      "meaningInSourceLanguage": "今天",
+      "id": "e7075a6e555c",
+      "priority": 0,
+      "group": "924c16850acc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "วันนี้"
+      ],
+      "phrase": [
+        {
+          "word": "今天",
+          "definition": "วันนี้"
+        }
+      ],
+      "id": "008c54c85bdb",
+      "priority": 1,
+      "group": "924c16850acc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "วันนี้",
+      "meaning": "今天",
+      "audio": "26120e2d4b3fad4a9a0b0d14b75091e1839749128a41f138efeba263515b9805",
+      "id": "21cae4b73bc7",
+      "priority": 1,
+      "group": "924c16850acc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "พรุ่งนี้",
+      "meaningInSourceLanguage": "明天",
+      "id": "8a2753f903a1",
+      "priority": 0,
+      "group": "b95d128726d6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "พรุ่งนี้"
+      ],
+      "phrase": [
+        {
+          "word": "明天",
+          "definition": "พรุ่งนี้"
+        }
+      ],
+      "id": "de0890c452d3",
+      "priority": 1,
+      "group": "b95d128726d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พรุ่งนี้",
+      "meaning": "明天",
+      "audio": "01808d3f2d1607aa8ec47ca59fddc5dc122db21143f1c66e366afef00b8ba68b",
+      "id": "28f978addbd2",
+      "priority": 1,
+      "group": "b95d128726d6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เมื่อวาน",
+      "meaningInSourceLanguage": "昨天",
+      "id": "c6519481480f",
+      "priority": 0,
+      "group": "206415dba6ee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เมื่อวาน"
+      ],
+      "phrase": [
+        {
+          "word": "昨天",
+          "definition": "เมื่อวาน"
+        }
+      ],
+      "id": "9a2eb774d4e1",
+      "priority": 1,
+      "group": "206415dba6ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เมื่อวาน",
+      "meaning": "昨天",
+      "audio": "6ab4a69e69d88305e4560cdac6c8b39db60a032544830ab870d6a91cb8def33e",
+      "id": "2cc0744085e6",
+      "priority": 1,
+      "group": "206415dba6ee"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ตอนนี้",
+      "meaningInSourceLanguage": "现在",
+      "id": "db16a92ea84f",
+      "priority": 0,
+      "group": "6bc2882f28f7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ตอนนี้"
+      ],
+      "phrase": [
+        {
+          "word": "现在",
+          "definition": "ตอนนี้"
+        }
+      ],
+      "id": "889d2c140d8e",
+      "priority": 1,
+      "group": "6bc2882f28f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ตอนนี้",
+      "meaning": "现在",
+      "audio": "7406c94d379c1ba14396c47feee008c855351319420b48879dfa5cb4441b4b7e",
+      "id": "52244b5c9e5a",
+      "priority": 1,
+      "group": "6bc2882f28f7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ทีหลัง",
+      "meaningInSourceLanguage": "稍后",
+      "id": "3d98fdc8cfec",
+      "priority": 0,
+      "group": "89f3c5507fff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ทีหลัง"
+      ],
+      "phrase": [
+        {
+          "word": "稍后",
+          "definition": "ทีหลัง"
+        }
+      ],
+      "id": "84bd2724e9d1",
+      "priority": 1,
+      "group": "89f3c5507fff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ทีหลัง",
+      "meaning": "稍后",
+      "audio": "a412e4771686e75d6a2238747be9ed0d0a260bf620243d7c0073b7ed8d04de13",
+      "id": "2cc3a2211e6f",
+      "priority": 1,
+      "group": "89f3c5507fff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เช้า",
+      "meaningInSourceLanguage": "早",
+      "id": "c131ec3a25c3",
+      "priority": 0,
+      "group": "50fab656d136"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เช้า"
+      ],
+      "phrase": [
+        {
+          "word": "早",
+          "definition": "เช้า"
+        }
+      ],
+      "id": "fbc8783b6c42",
+      "priority": 1,
+      "group": "50fab656d136"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เช้า",
+      "meaning": "早",
+      "audio": "2e6fa6404ade698701324a9f74dfeaec7442f05f909737fd1ceda5f3587a805b",
+      "id": "86fd44a51d24",
+      "priority": 1,
+      "group": "50fab656d136"
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "id": "ece2a1ba9897",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "wake up",
+      "meaningInSourceLanguage": "醒来",
+      "id": "5c2d8b855a27",
+      "priority": 0,
+      "group": "9b72b1e59932"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wake up",
+      "meaning": "醒来",
+      "audio": "6b0ce9240c4a79d98ff86405a4e84e6e686dbe5ec82f281759ae102a0988dfd8",
+      "id": "af75b513ce6d",
+      "priority": 1,
+      "group": "9b72b1e59932"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "get up",
+      "meaningInSourceLanguage": "起床",
+      "id": "9c593f71b216",
+      "priority": 0,
+      "group": "6c1770e5ddd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "get up",
+      "meaning": "起床",
+      "audio": "6e4a8f6e24b2c294248e2c03dea2fe3872bd1b8a05ccfe58cac67499637456a0",
+      "id": "3f10e5ebcd4f",
+      "priority": 1,
+      "group": "6c1770e5ddd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brush teeth",
+      "meaningInSourceLanguage": "刷牙",
+      "id": "e650f1fe4897",
+      "priority": 0,
+      "group": "6f1e8c2f2549"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brush teeth",
+      "meaning": "刷牙",
+      "audio": "99edea3797ec76c15d6ac47f9578fe88d89d0140c5bc4f7c21bc0775faa71350",
+      "id": "6101f2e87c7d",
+      "priority": 1,
+      "group": "6f1e8c2f2549"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wash face",
+      "meaningInSourceLanguage": "洗脸",
+      "id": "3d1c330779c7",
+      "priority": 0,
+      "group": "d77efd5da943"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wash face",
+      "meaning": "洗脸",
+      "audio": "11cd1345fde5a8092d2279697269cbc4f206f447ac39c3efaca880e2e13404cc",
+      "id": "702b53190258",
+      "priority": 1,
+      "group": "d77efd5da943"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take a shower",
+      "meaningInSourceLanguage": "洗澡",
+      "id": "72c14bf59a94",
+      "priority": 0,
+      "group": "65d77f6b44ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take a shower",
+      "meaning": "洗澡",
+      "audio": "9cf8b16d5da1ff5dd9e02b1497f999d3565faea8d553ce94aa2b0484d183d638",
+      "id": "0d0a320af569",
+      "priority": 1,
+      "group": "65d77f6b44ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "get dressed",
+      "meaningInSourceLanguage": "穿衣",
+      "id": "27ff108b9d20",
+      "priority": 0,
+      "group": "c0543f1b23c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "get dressed",
+      "meaning": "穿衣",
+      "audio": "b186d91b00d9662a5761ecd8b74fe41a4b5b18260e64ebe997de7c4d56396ac8",
+      "id": "2a21d5e06a1c",
+      "priority": 1,
+      "group": "c0543f1b23c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "have breakfast",
+      "meaningInSourceLanguage": "吃早餐",
+      "id": "d6c1944bcb66",
+      "priority": 0,
+      "group": "64230f021ccb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "have breakfast",
+      "meaning": "吃早餐",
+      "audio": "27ac03a7a6bda0aba9d1e0b5648d61f7dd183fe93805cc49840d4ddffc5d9e4c",
+      "id": "51be48027faf",
+      "priority": 1,
+      "group": "64230f021ccb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "go to work",
+      "meaningInSourceLanguage": "去上班",
+      "id": "1996b0739aea",
+      "priority": 0,
+      "group": "06bc4d1c0393"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "go to work",
+      "meaning": "去上班",
+      "audio": "2f6bdc853a64295027e988fa1428e409994e5ec037a1de3ab2653706a333b580",
+      "id": "7d1d4317478c",
+      "priority": 1,
+      "group": "06bc4d1c0393"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "go to school",
+      "meaningInSourceLanguage": "去上学",
+      "id": "7b90af27828f",
+      "priority": 0,
+      "group": "e6e4575c7338"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "go to school",
+      "meaning": "去上学",
+      "audio": "5854ec3a84d1d541a990dbcaad9332c33ee2523963e83503ec47350d550a447c",
+      "id": "dabf45736c95",
+      "priority": 1,
+      "group": "e6e4575c7338"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "come home",
+      "meaningInSourceLanguage": "回家",
+      "id": "90da292af9ac",
+      "priority": 0,
+      "group": "4e146f5b4e26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "come home",
+      "meaning": "回家",
+      "audio": "6bcab9e91eb75f9f5dee77d49107be9549e083c1456fac51224060b0e8063ae2",
+      "id": "b00642a42716",
+      "priority": 1,
+      "group": "4e146f5b4e26"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "have lunch",
+      "meaningInSourceLanguage": "吃午餐",
+      "id": "5e628120cd15",
+      "priority": 0,
+      "group": "bb9f88fa1e4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "have lunch",
+      "meaning": "吃午餐",
+      "audio": "39be1c68c32cb38159b2aa36f2ab6b909e5b730e441957868d9d68962899607e",
+      "id": "1ffd92499995",
+      "priority": 1,
+      "group": "bb9f88fa1e4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "have dinner",
+      "meaningInSourceLanguage": "吃晚餐",
+      "id": "6ee0321e6ab2",
+      "priority": 0,
+      "group": "725b8b8e6975"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "have dinner",
+      "meaning": "吃晚餐",
+      "audio": "7b72bd82751d499ac5cda0e17558cafa564dd6b834b1df7dd918fda8f2afed77",
+      "id": "d1be5b7590c1",
+      "priority": 1,
+      "group": "725b8b8e6975"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "watch TV",
+      "meaningInSourceLanguage": "看电视",
+      "id": "9c600f69cabe",
+      "priority": 0,
+      "group": "07eba56a7571"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "watch TV",
+      "meaning": "看电视",
+      "audio": "021e89040e05afdc25bf637cc701e161e47b52eb2595a5f629473806912da223",
+      "id": "bba7775d1a51",
+      "priority": 1,
+      "group": "07eba56a7571"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "read a book",
+      "meaningInSourceLanguage": "读书",
+      "id": "c8e675a8212c",
+      "priority": 0,
+      "group": "4972aa93d833"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "read a book",
+      "meaning": "读书",
+      "audio": "a195764a3ba683f83a28de2294219981cac61f9ad5dda780bc38b8f6fb991245",
+      "id": "a472062616e8",
+      "priority": 1,
+      "group": "4972aa93d833"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "go to bed",
+      "meaningInSourceLanguage": "上床睡觉",
+      "id": "b414c330e306",
+      "priority": 0,
+      "group": "b86400d24840"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "go to bed",
+      "meaning": "上床睡觉",
+      "audio": "ea1547a465309182062f57a4f1708a407566da035a1522b7e18516104763a6cf",
+      "id": "2e973029ac0f",
+      "priority": 1,
+      "group": "b86400d24840"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fall asleep",
+      "meaningInSourceLanguage": "入睡",
+      "id": "7293d185d38f",
+      "priority": 0,
+      "group": "3b0300e49dd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fall asleep",
+      "meaning": "入睡",
+      "audio": "0cdf3f216cdf20b0abda5e03ab33ece4a276f121cebf81709aefd861eb0c4e12",
+      "id": "4050a7cd6efb",
+      "priority": 1,
+      "group": "3b0300e49dd3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turn off",
+      "meaningInSourceLanguage": "关掉",
+      "id": "a83abc9230c3",
+      "priority": 0,
+      "group": "4226d60b08a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turn off",
+      "meaning": "关掉",
+      "audio": "9d4eb377a667a46d6dab0bb6faf03df9ca395c53729ca31997cd63ffac24191c",
+      "id": "51756effbbd8",
+      "priority": 1,
+      "group": "4226d60b08a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turn on",
+      "meaningInSourceLanguage": "打开",
+      "id": "70972a95bc9a",
+      "priority": 0,
+      "group": "cf97ae7e8538"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turn on",
+      "meaning": "打开",
+      "audio": "de31b884a7dc4f27ae7197316d7c61b7d6b2e43cbbd31a7c26d56084ebd286fa",
+      "id": "dafbbcba41fe",
+      "priority": 1,
+      "group": "cf97ae7e8538"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "make breakfast",
+      "meaningInSourceLanguage": "做早餐",
+      "id": "c78c846221b5",
+      "priority": 0,
+      "group": "8258fdee2774"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "make breakfast",
+      "meaning": "做早餐",
+      "audio": "963fbf36826965e863c859a122728d99fed1471be4bf5e9d4cb412ecf46797d0",
+      "id": "d631fcdd323e",
+      "priority": 1,
+      "group": "8258fdee2774"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pack lunch",
+      "meaningInSourceLanguage": "打包午餐",
+      "id": "5ac38fd7134f",
+      "priority": 0,
+      "group": "cff783f2d8b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pack lunch",
+      "meaning": "打包午餐",
+      "audio": "b4cf4e991d62b1647739a62e1bdd9e8c278abd22625c1778b59b462895cc1d00",
+      "id": "429fc369ef7e",
+      "priority": 1,
+      "group": "cff783f2d8b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take a break",
+      "meaningInSourceLanguage": "休息一下",
+      "id": "49bb79ffd57d",
+      "priority": 0,
+      "group": "ca3eef25ff71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take a break",
+      "meaning": "休息一下",
+      "audio": "95a7929fdc815c3a986ab46aa7302d1166e66178585b902919f171db4e9ec972",
+      "id": "f777a777fabe",
+      "priority": 1,
+      "group": "ca3eef25ff71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take a nap",
+      "meaningInSourceLanguage": "小睡",
+      "id": "6a82179e3472",
+      "priority": 0,
+      "group": "55e39cecd9c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take a nap",
+      "meaning": "小睡",
+      "audio": "e99d63c5bffde00fbd6a373393f02480a1fbc05515900981acad00e29e07d6c8",
+      "id": "3acd7f012d6e",
+      "priority": 1,
+      "group": "55e39cecd9c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "do homework",
+      "meaningInSourceLanguage": "做作业",
+      "id": "8c01608a34c7",
+      "priority": 0,
+      "group": "26937bc33b8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "do homework",
+      "meaning": "做作业",
+      "audio": "2c9cd87503118f48ef997865a174abfdd06956b17d42ed99ea6c2a6e45f3d7d7",
+      "id": "4daae0014518",
+      "priority": 1,
+      "group": "26937bc33b8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cook dinner",
+      "meaningInSourceLanguage": "做晚饭",
+      "id": "63494297efda",
+      "priority": 0,
+      "group": "9bcbc2976e5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cook dinner",
+      "meaning": "做晚饭",
+      "audio": "63ede83c3ff6c4f66b2bb93751df39117f880567eb20a44ff501b063cdff750a",
+      "id": "9ceb03e54af3",
+      "priority": 1,
+      "group": "9bcbc2976e5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wash dishes",
+      "meaningInSourceLanguage": "洗碗",
+      "id": "086e828bd0f6",
+      "priority": 0,
+      "group": "22e748f36b57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wash dishes",
+      "meaning": "洗碗",
+      "audio": "a52d95e795cb5a92ec3f619aa9ecb92017dd32c46d02f22186064059615aea88",
+      "id": "b7fbb60a8ec0",
+      "priority": 1,
+      "group": "22e748f36b57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clean the room",
+      "meaningInSourceLanguage": "打扫房间",
+      "id": "a903986178e5",
+      "priority": 0,
+      "group": "a6247e5a3223"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clean the room",
+      "meaning": "打扫房间",
+      "audio": "5e29a95d863a7c5d585b5377c32566a5c528d2a18414a91aad599a93d3a88a7f",
+      "id": "6798a5ae41c4",
+      "priority": 1,
+      "group": "a6247e5a3223"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "do laundry",
+      "meaningInSourceLanguage": "洗衣服",
+      "id": "b5e86b479a9b",
+      "priority": 0,
+      "group": "9cd03d414990"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "do laundry",
+      "meaning": "洗衣服",
+      "audio": "0b651b71f27a556f7d129ae07054e3b6ad685d60404c3a54d6c0fbc1cf1439da",
+      "id": "c4e4bcd22068",
+      "priority": 1,
+      "group": "9cd03d414990"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fold clothes",
+      "meaningInSourceLanguage": "叠衣服",
+      "id": "eccc32a61a74",
+      "priority": 0,
+      "group": "f639d9b42c4c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fold clothes",
+      "meaning": "叠衣服",
+      "audio": "c8ba58159e89b2635b50cd679adc36384f170b5b247669325efacd4115fc8255",
+      "id": "ecafcb2709f6",
+      "priority": 1,
+      "group": "f639d9b42c4c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "water plants",
+      "meaningInSourceLanguage": "浇花",
+      "id": "23719cf1af6c",
+      "priority": 0,
+      "group": "786e90c9a81a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "water plants",
+      "meaning": "浇花",
+      "audio": "f29ec3669b5496510a59397e0a441f1c0263a070027b410c9e24164cd922cdb8",
+      "id": "eb75010a77d3",
+      "priority": 1,
+      "group": "786e90c9a81a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take out trash",
+      "meaningInSourceLanguage": "倒垃圾",
+      "id": "9dd10a31c8bd",
+      "priority": 0,
+      "group": "22a5196abcf0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take out trash",
+      "meaning": "倒垃圾",
+      "audio": "9c6baf7fc26ca29324d12158cda7ba5f04daadda1bc45f29b0339d6b91408b78",
+      "id": "c2eaa921a1d8",
+      "priority": 1,
+      "group": "22a5196abcf0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "feed the pet",
+      "meaningInSourceLanguage": "喂宠物",
+      "id": "fe95908f4cb9",
+      "priority": 0,
+      "group": "d18be8200d71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "feed the pet",
+      "meaning": "喂宠物",
+      "audio": "937d995fe80517d4607cd7cde9177d4ba8e644893ec77bc3b0305d4394d0216e",
+      "id": "7a5f6e3c55ef",
+      "priority": 1,
+      "group": "d18be8200d71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "walk the dog",
+      "meaningInSourceLanguage": "遛狗",
+      "id": "346bce661768",
+      "priority": 0,
+      "group": "828cf48cd97c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "walk the dog",
+      "meaning": "遛狗",
+      "audio": "fc2871de9a308e28ba5d0aee22c5865102a2d088ef7c63e9f9e2f1a8a41ecdf7",
+      "id": "878478073f4d",
+      "priority": 1,
+      "group": "828cf48cd97c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "check email",
+      "meaningInSourceLanguage": "查邮件",
+      "id": "d96f05be0215",
+      "priority": 0,
+      "group": "6975c1fd292e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check email",
+      "meaning": "查邮件",
+      "audio": "803693c1c43742e74c2a3abdc668e988d8c2b554ccd785903112cc7390d931b0",
+      "id": "6e4b46c16c7e",
+      "priority": 1,
+      "group": "6975c1fd292e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "surf the internet",
+      "meaningInSourceLanguage": "上网",
+      "id": "0b050d91a70f",
+      "priority": 0,
+      "group": "f00a84209362"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "surf the internet",
+      "meaning": "上网",
+      "audio": "0445279369efebd29964d94b2c61a1174b3910d3a5864041d0844c8c3da41646",
+      "id": "bcf3c6baa110",
+      "priority": 1,
+      "group": "f00a84209362"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "listen to music",
+      "meaningInSourceLanguage": "听音乐",
+      "id": "0f1705423b27",
+      "priority": 0,
+      "group": "ca84a7177299"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "listen to music",
+      "meaning": "听音乐",
+      "audio": "68298002476c0bf12df5ca14998d94106db6717b3c1cc6fc63ce460590f3b69f",
+      "id": "bff1abfba9bc",
+      "priority": 1,
+      "group": "ca84a7177299"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exercise",
+      "meaningInSourceLanguage": "锻炼",
+      "id": "a2e911ed821f",
+      "priority": 0,
+      "group": "c276ee631446"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exercise",
+      "meaning": "锻炼",
+      "audio": "f3456c1a6dc3e4637b9e952428e857cab74b00324cc40009268edf8c4d1463cc",
+      "id": "09ff149e1bad",
+      "priority": 1,
+      "group": "c276ee631446"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meditate",
+      "meaningInSourceLanguage": "冥想",
+      "id": "d8b38765faa5",
+      "priority": 0,
+      "group": "5016db0e6ede"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meditate",
+      "meaning": "冥想",
+      "audio": "8a212ada9bcb0ccdb01391fd65bb782384bda340e1df1e5b0d85e8e778dd61e6",
+      "id": "536e96491f46",
+      "priority": 1,
+      "group": "5016db0e6ede"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stretch",
+      "meaningInSourceLanguage": "拉伸",
+      "id": "a276d9ef03cc",
+      "priority": 0,
+      "group": "836957c50063"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stretch",
+      "meaning": "拉伸",
+      "audio": "4fcf6e98f7ca3e6988016bbd4d51f68c1fc137f04d8455a913a0f5a6d22df0b7",
+      "id": "b8ef0e1dc5ab",
+      "priority": 1,
+      "group": "836957c50063"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "journal",
+      "meaningInSourceLanguage": "写日记",
+      "id": "1d56501bb2d8",
+      "priority": 0,
+      "group": "a062a0627a16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "journal",
+      "meaning": "写日记",
+      "audio": "2306db31468ac1cf75be32b68cba240944a6b12dee12af4b63e0fe72f59704f7",
+      "id": "1eda478c2fe7",
+      "priority": 1,
+      "group": "a062a0627a16"
+    }
+  ]
+}

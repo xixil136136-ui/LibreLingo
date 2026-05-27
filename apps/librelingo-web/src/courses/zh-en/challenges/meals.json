@@ -1,0 +1,431 @@
+{
+  "id": "83ad5b95e00f",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "breakfast",
+      "meaningInSourceLanguage": "早餐",
+      "id": "1e07866e6755",
+      "priority": 0,
+      "group": "af9611e1a42d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "breakfast",
+      "meaning": "早餐",
+      "audio": "6d62b4b430a60482643344f7df2d3b81be080c3b284c1b2baa99e8df84482845",
+      "id": "1ceeb4baa33b",
+      "priority": 1,
+      "group": "af9611e1a42d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lunch",
+      "meaningInSourceLanguage": "午餐",
+      "id": "7418dcd94b3f",
+      "priority": 0,
+      "group": "be8ab39cf33a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lunch",
+      "meaning": "午餐",
+      "audio": "a4dd0c4ce1e8381e7d01dff0d18c5ad1c3887c88484d17384b4782bfffe0d108",
+      "id": "f625448158ca",
+      "priority": 1,
+      "group": "be8ab39cf33a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dinner",
+      "meaningInSourceLanguage": "晚餐",
+      "id": "ddbb85752026",
+      "priority": 0,
+      "group": "28975ff45235"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dinner",
+      "meaning": "晚餐",
+      "audio": "d8d08526ef57fc101cdf4a419a0efdc2675003836a5f292c5a5cd8341d85395e",
+      "id": "80a7d68dfa88",
+      "priority": 1,
+      "group": "28975ff45235"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brunch",
+      "meaningInSourceLanguage": "早午餐",
+      "id": "1a390d966cff",
+      "priority": 0,
+      "group": "ae5bbfcff711"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brunch",
+      "meaning": "早午餐",
+      "audio": "31b969baf9c10f004b9e8dd378071cf9f0274b6fe57241f05c06132e75b138c5",
+      "id": "514e59a52bdf",
+      "priority": 1,
+      "group": "ae5bbfcff711"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "snack",
+      "meaningInSourceLanguage": "零食",
+      "id": "aaebd3bb9767",
+      "priority": 0,
+      "group": "9851363837b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snack",
+      "meaning": "零食",
+      "audio": "9f406c877af0861f5faf50173aa41341d214c0906111021417f68ce029874e1e",
+      "id": "707b45783605",
+      "priority": 1,
+      "group": "9851363837b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meal",
+      "meaningInSourceLanguage": "餐",
+      "id": "28ab101926f6",
+      "priority": 0,
+      "group": "a789ec780b19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meal",
+      "meaning": "餐",
+      "audio": "0424c6f2eafc81883ed9e719090654fd46d2e15ed6809fd57ca623bec1da3193",
+      "id": "b5b1801cb6c1",
+      "priority": 1,
+      "group": "a789ec780b19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "feast",
+      "meaningInSourceLanguage": "盛宴",
+      "id": "170c2057a227",
+      "priority": 0,
+      "group": "1afe911ebde8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "feast",
+      "meaning": "盛宴",
+      "audio": "67a56f3deca9ef2b63db2cb00abc81b2b1dcb190a7e9d0e54aa28c6f59e6d9ec",
+      "id": "fc123b38c993",
+      "priority": 1,
+      "group": "1afe911ebde8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "banquet",
+      "meaningInSourceLanguage": "宴会",
+      "id": "35b955fdc03a",
+      "priority": 0,
+      "group": "ba278a0de674"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "banquet",
+      "meaning": "宴会",
+      "audio": "8d188b401b65ff881e889dab6056cc4c8b45258b62258c17200d8a5865c3fcea",
+      "id": "cf60098a6465",
+      "priority": 1,
+      "group": "ba278a0de674"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "course",
+      "meaningInSourceLanguage": "一道菜",
+      "id": "af6279907057",
+      "priority": 0,
+      "group": "9cb6cf04dfb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "course",
+      "meaning": "一道菜",
+      "audio": "85ecf0f894994667e6177aaf249bca4e35d03982e74539cdeaefb0e4be60c305",
+      "id": "d81ecf6edcc5",
+      "priority": 1,
+      "group": "9cb6cf04dfb2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "serving",
+      "meaningInSourceLanguage": "一份",
+      "id": "b61663fcec44",
+      "priority": 0,
+      "group": "9774b0124c55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "serving",
+      "meaning": "一份",
+      "audio": "dd56fe4bd95e9c7878961705eae44dea2013479779187924bad68d6fd0ab81bf",
+      "id": "ef6c0ee703c7",
+      "priority": 1,
+      "group": "9774b0124c55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seconds",
+      "meaningInSourceLanguage": "第二份",
+      "id": "b9adca494d2c",
+      "priority": 0,
+      "group": "e717cc9a9383"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seconds",
+      "meaning": "第二份",
+      "audio": "ff62707c023638e101df0b3859ffe70f0722984ae2e0f2e5b5b1dfb42ec52103",
+      "id": "7c96c13f49f4",
+      "priority": 1,
+      "group": "e717cc9a9383"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leftovers",
+      "meaningInSourceLanguage": "剩菜",
+      "id": "31b31628e4ff",
+      "priority": 0,
+      "group": "863427cc767e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leftovers",
+      "meaning": "剩菜",
+      "audio": "7d9933fe357cecdeb7c9d7f266958fbffcf95d4bd9931a244bb151435a058a5a",
+      "id": "b1d58d456a53",
+      "priority": 1,
+      "group": "863427cc767e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "doggy bag",
+      "meaningInSourceLanguage": "打包袋",
+      "id": "3780cd734809",
+      "priority": 0,
+      "group": "08b8d95fabc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doggy bag",
+      "meaning": "打包袋",
+      "audio": "17d312a8892b48d88f8105a67160b04eb1e55afe5b2c28eeadf7ab471d7e543c",
+      "id": "ba5c06a94d27",
+      "priority": 1,
+      "group": "08b8d95fabc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "appetite",
+      "meaningInSourceLanguage": "食欲",
+      "id": "46be86f36293",
+      "priority": 0,
+      "group": "3cd0a5d4a710"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "appetite",
+      "meaning": "食欲",
+      "audio": "d461546d21933ed03b91d97b141a207bf00394b78f71a512d6b9d6ed54486241",
+      "id": "6687d0212baf",
+      "priority": 1,
+      "group": "3cd0a5d4a710"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hunger",
+      "meaningInSourceLanguage": "饥饿",
+      "id": "defa872ab919",
+      "priority": 0,
+      "group": "e548bb729397"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hunger",
+      "meaning": "饥饿",
+      "audio": "29ec69ea8d891294142ffa23087920b1973742c93a48bf58520ecd97f67b8bd0",
+      "id": "86d6f0764ae0",
+      "priority": 1,
+      "group": "e548bb729397"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thirst",
+      "meaningInSourceLanguage": "渴",
+      "id": "fcb8166ddde3",
+      "priority": 0,
+      "group": "75e1367a80bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thirst",
+      "meaning": "渴",
+      "audio": "0f001e52a2dda12cac5269696094dcd96ac87b632ad6a632f1e9459c4bb8774f",
+      "id": "733260fbe900",
+      "priority": 1,
+      "group": "75e1367a80bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "full",
+      "meaningInSourceLanguage": "饱",
+      "id": "27a5ecd93498",
+      "priority": 0,
+      "group": "3913a4195e01"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "full",
+      "meaning": "饱",
+      "audio": "b2f76dfa87804b1e326c97df38a6536a05af8bfbb83caed0534818f5fd73705f",
+      "id": "03f65e1705ff",
+      "priority": 1,
+      "group": "3913a4195e01"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "starving",
+      "meaningInSourceLanguage": "饿极了",
+      "id": "fcfcbb7c989c",
+      "priority": 0,
+      "group": "40aa538ac3e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "starving",
+      "meaning": "饿极了",
+      "audio": "8b9f7f49d19998833f02f9f003a72712b34a443ed7f7d154eb29facb0501ef2b",
+      "id": "a322ea9959fd",
+      "priority": 1,
+      "group": "40aa538ac3e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diet",
+      "meaningInSourceLanguage": "节食",
+      "id": "5c597e7cbda3",
+      "priority": 0,
+      "group": "19c6c973a989"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diet",
+      "meaning": "节食",
+      "audio": "a5be4c2d2de37c3a38f68bbde01b741337cbc51abbc34099bffd2b911c17dfcc",
+      "id": "3a7306ab3363",
+      "priority": 1,
+      "group": "19c6c973a989"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fast food",
+      "meaningInSourceLanguage": "快餐",
+      "id": "c9316e9616ea",
+      "priority": 0,
+      "group": "44196c4c16da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fast food",
+      "meaning": "快餐",
+      "audio": "6ed9c31648abf046e1a57596125f34debdd40dfeed50875080dffe5050844942",
+      "id": "70fd8f3d7f11",
+      "priority": 1,
+      "group": "44196c4c16da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "organic",
+      "meaningInSourceLanguage": "有机",
+      "id": "6c89a18daa91",
+      "priority": 0,
+      "group": "3892e51509d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "organic",
+      "meaning": "有机",
+      "audio": "619af2a614f692940b54331f25e4ec71500a06b2bed581ae1adc733cfcccc1fc",
+      "id": "67ccda79f6c2",
+      "priority": 1,
+      "group": "3892e51509d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vegetarian",
+      "meaningInSourceLanguage": "素食",
+      "id": "965c96ef24ae",
+      "priority": 0,
+      "group": "4d825252cd8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vegetarian",
+      "meaning": "素食",
+      "audio": "f9e7bbd3e95a91aa5b2e1782f2c41ef4a9b1910d7377af218f248d8481f1c30a",
+      "id": "f339833495f8",
+      "priority": 1,
+      "group": "4d825252cd8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vegan",
+      "meaningInSourceLanguage": "纯素食",
+      "id": "09ed5580ad7d",
+      "priority": 0,
+      "group": "955a290ef2be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vegan",
+      "meaning": "纯素食",
+      "audio": "67258540286b3b0af8bf2cb66714a88d6d9c0db7887bc8fdaa6fc91f50633dc7",
+      "id": "493068fb83cb",
+      "priority": 1,
+      "group": "955a290ef2be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gluten-free",
+      "meaningInSourceLanguage": "无麸质",
+      "id": "a5350d8cb9a5",
+      "priority": 0,
+      "group": "7f1187e996a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gluten-free",
+      "meaning": "无麸质",
+      "audio": "560765a0c3953391d62c0c7d4990ab989d605a2de3f3a24f4d870e09f001fd88",
+      "id": "8132759afea3",
+      "priority": 1,
+      "group": "7f1187e996a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "allergy",
+      "meaningInSourceLanguage": "过敏",
+      "id": "c29765e7c378",
+      "priority": 0,
+      "group": "53ff370925b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "allergy",
+      "meaning": "过敏",
+      "audio": "4643c019d50e9b53bf21be476613f931194206e56954b52e79fd54fd9aef0d01",
+      "id": "57a0a1b0c0f7",
+      "priority": 1,
+      "group": "53ff370925b2"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+Skill:
+  Name: Directions
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: gauche
+    Translation: 左边
+  - Word: droite
+    Translation: 右边
+  - Word: tout droit
+    Translation: 直走
+  - Word: ici
+    Translation: 这里
+  - Word: là
+    Translation: 那里
+  - Word: près
+    Translation: 附近
+  - Word: loin
+    Translation: 远
+  - Word: carte
+    Translation: 地图
+  - Word: rue
+    Translation: 街道
+  - Word: route
+    Translation: 路
+
+Phrases:
+  - Phrase: Tournez à gauche ici.
+    Translation: 在这里左转。
+  - Phrase: Allez tout droit.
+    Translation: 一直往前走。
+  - Phrase: Où est la gare ?
+    Translation: 车站在哪里？
+  - Phrase: Est-ce loin d'ici ?
+    Translation: 离这里远吗？
+  - Phrase: J'ai besoin d'une carte.
+    Translation: 我需要一张地图。
+
+Mini-dictionary:
+  French:
+    - carte: 地图
+    - rue: 街道
+    - loin: 远
+    - ici: 这里
+    - tout droit: 直走
+    - route: 路
+    - droite: 右边
+    - près: 附近
+    - gauche: 左边
+    - là: 那里
+  Chinese:
+    - 那里: là
+    - 附近: près
+    - 远: loin
+    - 路: route
+    - 地图: carte
+    - 直走: tout droit
+    - 街道: rue
+    - 右边: droite
+    - 这里: ici
+    - 左边: gauche

@@ -1,0 +1,958 @@
+{
+  "id": "eb9b7f492f6f",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "sports",
+      "meaningInSourceLanguage": "运动",
+      "id": "9578575d064c",
+      "priority": 0,
+      "group": "d3653762fd74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sports",
+      "meaning": "运动",
+      "audio": "5d3b77cd6f614b2fb7924b1f494c7ce3",
+      "id": "27768f2ce397",
+      "priority": 1,
+      "group": "d3653762fd74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exercise",
+      "meaningInSourceLanguage": "锻炼",
+      "id": "72595dafe170",
+      "priority": 0,
+      "group": "6299bfc3bd72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exercise",
+      "meaning": "锻炼",
+      "audio": "898c8b35d59c49b69de5576382a4be27",
+      "id": "2a6e11e5556d",
+      "priority": 1,
+      "group": "6299bfc3bd72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "game",
+      "meaningInSourceLanguage": "比赛",
+      "id": "a4ec85905996",
+      "priority": 0,
+      "group": "8a10a6fe4d31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "game",
+      "meaning": "比赛",
+      "audio": "f02cadb57d7c47b5b4a82e85f5134669",
+      "id": "3b3e47f014da",
+      "priority": 1,
+      "group": "8a10a6fe4d31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "match",
+      "meaningInSourceLanguage": "比赛",
+      "id": "dcd7379fd6c1",
+      "priority": 0,
+      "group": "ad0455781241"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "match",
+      "meaning": "比赛",
+      "audio": "ab8df88422244e3fba77dc6dda3ac7f2",
+      "id": "2f2007a75799",
+      "priority": 1,
+      "group": "ad0455781241"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "team",
+      "meaningInSourceLanguage": "队伍",
+      "id": "517edd4b9942",
+      "priority": 0,
+      "group": "a986dbc6fd19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "team",
+      "meaning": "队伍",
+      "audio": "c2bcf0dfbfc8447e98a80dfa897b5047",
+      "id": "0baf305812ac",
+      "priority": 1,
+      "group": "a986dbc6fd19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "player",
+      "meaningInSourceLanguage": "运动员",
+      "id": "0dfaf6310af4",
+      "priority": 0,
+      "group": "a7540af48619"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "player",
+      "meaning": "运动员",
+      "audio": "a6c7c54c844b4ab58f62099594aeabf3",
+      "id": "687ba3b64731",
+      "priority": 1,
+      "group": "a7540af48619"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coach",
+      "meaningInSourceLanguage": "教练",
+      "id": "0e8693c47560",
+      "priority": 0,
+      "group": "5fe9ba909419"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coach",
+      "meaning": "教练",
+      "audio": "44e56b7272bc479b894ee8756f77aeec",
+      "id": "4ba5b1ef5b13",
+      "priority": 1,
+      "group": "5fe9ba909419"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "referee",
+      "meaningInSourceLanguage": "裁判",
+      "id": "1c4f4c64157b",
+      "priority": 0,
+      "group": "912a42478649"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "referee",
+      "meaning": "裁判",
+      "audio": "4568b341b9044a578f915a110b853c7b",
+      "id": "0692855fb9bb",
+      "priority": 1,
+      "group": "912a42478649"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "competition",
+      "meaningInSourceLanguage": "竞赛",
+      "id": "96f550cab633",
+      "priority": 0,
+      "group": "69a8291e682b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "competition",
+      "meaning": "竞赛",
+      "audio": "43b2ac7ebddf4458a746b6522276665e",
+      "id": "718bdbbac6cc",
+      "priority": 1,
+      "group": "69a8291e682b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "championship",
+      "meaningInSourceLanguage": "锦标赛",
+      "id": "245e153f325d",
+      "priority": 0,
+      "group": "bfdeee06bb0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "championship",
+      "meaning": "锦标赛",
+      "audio": "b7de01cf79824445a016b8b022d2f071",
+      "id": "a5d6bc6fdb38",
+      "priority": 1,
+      "group": "bfdeee06bb0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Olympics",
+      "meaningInSourceLanguage": "奥运会",
+      "id": "4ddaa5b434a3",
+      "priority": 0,
+      "group": "8202ec63d263"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Olympics",
+      "meaning": "奥运会",
+      "audio": "41260391d4764c16a9e53b5b66baef19",
+      "id": "4b31015c8ea7",
+      "priority": 1,
+      "group": "8202ec63d263"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "World Cup",
+      "meaningInSourceLanguage": "世界杯",
+      "id": "33cf6b80e488",
+      "priority": 0,
+      "group": "fb82ca37daed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "World Cup",
+      "meaning": "世界杯",
+      "audio": "403085e36ceb4659baad78c1654b7e72",
+      "id": "9ce08214755b",
+      "priority": 1,
+      "group": "fb82ca37daed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "football",
+      "meaningInSourceLanguage": "足球",
+      "id": "b77539078260",
+      "priority": 0,
+      "group": "245e9571a617"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "football",
+      "meaning": "足球",
+      "audio": "cb893f33e84a46a8a590c88e63ede57b",
+      "id": "c62bf49fb29d",
+      "priority": 1,
+      "group": "245e9571a617"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soccer",
+      "meaningInSourceLanguage": "英式足球",
+      "id": "36977dc3b679",
+      "priority": 0,
+      "group": "2a89cb0a5e6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soccer",
+      "meaning": "英式足球",
+      "audio": "c95b2d86258e42f89a85b6d68b97c0d8",
+      "id": "b170bcc80450",
+      "priority": 1,
+      "group": "2a89cb0a5e6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "basketball",
+      "meaningInSourceLanguage": "篮球",
+      "id": "0d65a008f110",
+      "priority": 0,
+      "group": "8845a36d655b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "basketball",
+      "meaning": "篮球",
+      "audio": "6cf908601f574e81a409f67d3a55d0b2",
+      "id": "26fb7e958bc0",
+      "priority": 1,
+      "group": "8845a36d655b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "volleyball",
+      "meaningInSourceLanguage": "排球",
+      "id": "aeb2d702b4d2",
+      "priority": 0,
+      "group": "640cb59392e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "volleyball",
+      "meaning": "排球",
+      "audio": "b03b9a495e3a4cb2b669fd74eee942af",
+      "id": "56d9c56dbb78",
+      "priority": 1,
+      "group": "640cb59392e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tennis",
+      "meaningInSourceLanguage": "网球",
+      "id": "a8263fe7e481",
+      "priority": 0,
+      "group": "b22b0f63c83f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tennis",
+      "meaning": "网球",
+      "audio": "70d3771c8f5649968d8e66cde7671d12",
+      "id": "354c3a731005",
+      "priority": 1,
+      "group": "b22b0f63c83f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "badminton",
+      "meaningInSourceLanguage": "羽毛球",
+      "id": "e601eabd3d9a",
+      "priority": 0,
+      "group": "cd9e39bf97fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "badminton",
+      "meaning": "羽毛球",
+      "audio": "082c53fffe0341808cad41d83ca8ec8e",
+      "id": "e56f400107a6",
+      "priority": 1,
+      "group": "cd9e39bf97fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "table tennis",
+      "meaningInSourceLanguage": "乒乓球",
+      "id": "77ff04d20d20",
+      "priority": 0,
+      "group": "ecc87110c8cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "table tennis",
+      "meaning": "乒乓球",
+      "audio": "29a6f30ea27f44bab01fbd8b1b450334",
+      "id": "d83e9d904494",
+      "priority": 1,
+      "group": "ecc87110c8cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baseball",
+      "meaningInSourceLanguage": "棒球",
+      "id": "761d7438a4aa",
+      "priority": 0,
+      "group": "d8c0c6b61187"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baseball",
+      "meaning": "棒球",
+      "audio": "42875858a9954d98889404e8989cddac",
+      "id": "ef58f100181b",
+      "priority": 1,
+      "group": "d8c0c6b61187"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "golf",
+      "meaningInSourceLanguage": "高尔夫",
+      "id": "1ab7c1652c92",
+      "priority": 0,
+      "group": "6eb84a0928ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "golf",
+      "meaning": "高尔夫",
+      "audio": "76625fdaa2814f99abaebcda7806225d",
+      "id": "2abadc6b6ecf",
+      "priority": 1,
+      "group": "6eb84a0928ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "swimming",
+      "meaningInSourceLanguage": "游泳",
+      "id": "87192ceb7df9",
+      "priority": 0,
+      "group": "836e0c430de1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "swimming",
+      "meaning": "游泳",
+      "audio": "d876e5b39dfb4583929f2e171b128c10",
+      "id": "be3dfe0b18a9",
+      "priority": 1,
+      "group": "836e0c430de1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "running",
+      "meaningInSourceLanguage": "跑步",
+      "id": "607e35b59fc0",
+      "priority": 0,
+      "group": "e954d0e48dcb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "running",
+      "meaning": "跑步",
+      "audio": "56674aef9aa648008121383af5201a2f",
+      "id": "35527ecf2fc1",
+      "priority": 1,
+      "group": "e954d0e48dcb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jogging",
+      "meaningInSourceLanguage": "慢跑",
+      "id": "f031ebc49d1b",
+      "priority": 0,
+      "group": "9322859b37c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jogging",
+      "meaning": "慢跑",
+      "audio": "a81bfef58ebd4c10b67774de1285a9ad",
+      "id": "6ff69f72c844",
+      "priority": 1,
+      "group": "9322859b37c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cycling",
+      "meaningInSourceLanguage": "骑自行车",
+      "id": "b12dbf21b191",
+      "priority": 0,
+      "group": "3c656080ee33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cycling",
+      "meaning": "骑自行车",
+      "audio": "654732dd7e6e4bf7b4c9aa693a0cb6f5",
+      "id": "60778930b098",
+      "priority": 1,
+      "group": "3c656080ee33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hiking",
+      "meaningInSourceLanguage": "徒步",
+      "id": "1714f4631709",
+      "priority": 0,
+      "group": "e794970acbe7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hiking",
+      "meaning": "徒步",
+      "audio": "499f20b16a7f42f0b64c49f1574f3e68",
+      "id": "49a7b636d0de",
+      "priority": 1,
+      "group": "e794970acbe7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "climbing",
+      "meaningInSourceLanguage": "攀岩",
+      "id": "2f3f5b050828",
+      "priority": 0,
+      "group": "83459e7fcc00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "climbing",
+      "meaning": "攀岩",
+      "audio": "bcc9cd990875403183c9c67add889940",
+      "id": "caab0b1a14e2",
+      "priority": 1,
+      "group": "83459e7fcc00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skiing",
+      "meaningInSourceLanguage": "滑雪",
+      "id": "b78d07372cc2",
+      "priority": 0,
+      "group": "06bc7dc552a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skiing",
+      "meaning": "滑雪",
+      "audio": "0900176b2c1b4f2d9a6ae04a473c063b",
+      "id": "9bdc422eba4d",
+      "priority": 1,
+      "group": "06bc7dc552a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skating",
+      "meaningInSourceLanguage": "滑冰",
+      "id": "13f581f3824b",
+      "priority": 0,
+      "group": "ed70e24ed352"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skating",
+      "meaning": "滑冰",
+      "audio": "9e2d534fa7fe4fb1b80ff189b64f731b",
+      "id": "2333f4593305",
+      "priority": 1,
+      "group": "ed70e24ed352"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "surfing",
+      "meaningInSourceLanguage": "冲浪",
+      "id": "892f5282ff61",
+      "priority": 0,
+      "group": "6cb1a405569a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "surfing",
+      "meaning": "冲浪",
+      "audio": "5c502514ae6d4067947c22d4f4add6b5",
+      "id": "512e42fa7f99",
+      "priority": 1,
+      "group": "6cb1a405569a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diving",
+      "meaningInSourceLanguage": "潜水",
+      "id": "1f6e71acbcd2",
+      "priority": 0,
+      "group": "266ae261ae67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diving",
+      "meaning": "潜水",
+      "audio": "9732c7896d7b46e3a750f9ce2e1f9ad2",
+      "id": "958f563df5a6",
+      "priority": 1,
+      "group": "266ae261ae67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boxing",
+      "meaningInSourceLanguage": "拳击",
+      "id": "1342f1aeb806",
+      "priority": 0,
+      "group": "6630cb7d587d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boxing",
+      "meaning": "拳击",
+      "audio": "47b0b5780aab4325808f9461b1dfb2dd",
+      "id": "c35d38c77c6d",
+      "priority": 1,
+      "group": "6630cb7d587d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wrestling",
+      "meaningInSourceLanguage": "摔跤",
+      "id": "8baca956c3ca",
+      "priority": 0,
+      "group": "44ba2f003bb5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wrestling",
+      "meaning": "摔跤",
+      "audio": "bcca92063b5b40488d366fb1065487da",
+      "id": "76cccff8d9b7",
+      "priority": 1,
+      "group": "44ba2f003bb5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "martial arts",
+      "meaningInSourceLanguage": "武术",
+      "id": "2c00560a80a2",
+      "priority": 0,
+      "group": "ad3bcc4f185c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "martial arts",
+      "meaning": "武术",
+      "audio": "2bc802b1daac43f095ece40f4679e731",
+      "id": "782b765a92c3",
+      "priority": 1,
+      "group": "ad3bcc4f185c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "karate",
+      "meaningInSourceLanguage": "空手道",
+      "id": "67ec8b8aa97f",
+      "priority": 0,
+      "group": "fbe620874dcb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "karate",
+      "meaning": "空手道",
+      "audio": "d96f736893bd4dd0813e2a8cc6a56bed",
+      "id": "f6c28df00100",
+      "priority": 1,
+      "group": "fbe620874dcb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "judo",
+      "meaningInSourceLanguage": "柔道",
+      "id": "fef35b603684",
+      "priority": 0,
+      "group": "4047564db054"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "judo",
+      "meaning": "柔道",
+      "audio": "5adf04fa9e7842ff81af45b97a7d45a3",
+      "id": "ddaa4d0f5d4d",
+      "priority": 1,
+      "group": "4047564db054"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "taekwondo",
+      "meaningInSourceLanguage": "跆拳道",
+      "id": "395ef3bac9cc",
+      "priority": 0,
+      "group": "118b44371588"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "taekwondo",
+      "meaning": "跆拳道",
+      "audio": "8b14d37c63214d90ace6633b22fb5d0c",
+      "id": "f389011cebc6",
+      "priority": 1,
+      "group": "118b44371588"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kung fu",
+      "meaningInSourceLanguage": "功夫",
+      "id": "cde8424878af",
+      "priority": 0,
+      "group": "5000d5b07578"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kung fu",
+      "meaning": "功夫",
+      "audio": "8df58dd3fe894c19bc1ead187f09342e",
+      "id": "fbe00b28a37c",
+      "priority": 1,
+      "group": "5000d5b07578"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yoga",
+      "meaningInSourceLanguage": "瑜伽",
+      "id": "3901a08884cf",
+      "priority": 0,
+      "group": "39958eecc556"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yoga",
+      "meaning": "瑜伽",
+      "audio": "bbb2f5d2dbcc4437a8610f888dc8548c",
+      "id": "16759898f90a",
+      "priority": 1,
+      "group": "39958eecc556"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pilates",
+      "meaningInSourceLanguage": "普拉提",
+      "id": "d4668475b834",
+      "priority": 0,
+      "group": "076a1974919b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pilates",
+      "meaning": "普拉提",
+      "audio": "a099cf43fd8843a5a8de1ab5f38aa5c9",
+      "id": "04f56e9d0a83",
+      "priority": 1,
+      "group": "076a1974919b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dancing",
+      "meaningInSourceLanguage": "舞蹈",
+      "id": "d9417bc65d45",
+      "priority": 0,
+      "group": "a97006fc2e64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dancing",
+      "meaning": "舞蹈",
+      "audio": "dabf756159e6413b9c2f17fd75fa4511",
+      "id": "89a49d3d75a9",
+      "priority": 1,
+      "group": "a97006fc2e64"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gym",
+      "meaningInSourceLanguage": "健身房",
+      "id": "1682a9510f47",
+      "priority": 0,
+      "group": "015505576cba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gym",
+      "meaning": "健身房",
+      "audio": "4fa2aede7cd94732879f0b3f8c40c082",
+      "id": "45027e867fdb",
+      "priority": 1,
+      "group": "015505576cba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weightlifting",
+      "meaningInSourceLanguage": "举重",
+      "id": "b0aa2eaf2ef1",
+      "priority": 0,
+      "group": "2558dbe6dcde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weightlifting",
+      "meaning": "举重",
+      "audio": "a7607c80d4b647a1ac7cf1fe97758912",
+      "id": "62eaf66d7863",
+      "priority": 1,
+      "group": "2558dbe6dcde"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aerobics",
+      "meaningInSourceLanguage": "有氧运动",
+      "id": "d46398a5ad3b",
+      "priority": 0,
+      "group": "ad8b55256f34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aerobics",
+      "meaning": "有氧运动",
+      "audio": "e3d6885452ca4291ad9fedfaeea96dd9",
+      "id": "e076dbe337d8",
+      "priority": 1,
+      "group": "ad8b55256f34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stretching",
+      "meaningInSourceLanguage": "拉伸",
+      "id": "79aa90fd4964",
+      "priority": 0,
+      "group": "b30eccdadef6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stretching",
+      "meaning": "拉伸",
+      "audio": "fe048bc19f1a4687a9e24a332f2515c6",
+      "id": "26f87de1f6d4",
+      "priority": 1,
+      "group": "b30eccdadef6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "training",
+      "meaningInSourceLanguage": "训练",
+      "id": "619d16639666",
+      "priority": 0,
+      "group": "a251d878aa10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "training",
+      "meaning": "训练",
+      "audio": "58af2a2c42ba416ea874849338e27666",
+      "id": "979e552ceff5",
+      "priority": 1,
+      "group": "a251d878aa10"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "warm-up",
+      "meaningInSourceLanguage": "热身",
+      "id": "26e1fa9db79c",
+      "priority": 0,
+      "group": "48582d32ba5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "warm-up",
+      "meaning": "热身",
+      "audio": "e80b7d5b7fd94ca39375a9163a216c50",
+      "id": "8d4fafa31d9b",
+      "priority": 1,
+      "group": "48582d32ba5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cool-down",
+      "meaningInSourceLanguage": "放松",
+      "id": "61d357e67e9f",
+      "priority": 0,
+      "group": "2cc4e4b28ec5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cool-down",
+      "meaning": "放松",
+      "audio": "c114aea6dfc644d2ad89ebc6d22a6538",
+      "id": "3cf3207c461c",
+      "priority": 1,
+      "group": "2cc4e4b28ec5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stamina",
+      "meaningInSourceLanguage": "耐力",
+      "id": "fae9612fe7ba",
+      "priority": 0,
+      "group": "ca3fec991852"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stamina",
+      "meaning": "耐力",
+      "audio": "a002e057d5e74d77989ad4a2dc2f7b0b",
+      "id": "f2f9614a9363",
+      "priority": 1,
+      "group": "ca3fec991852"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strength",
+      "meaningInSourceLanguage": "力量",
+      "id": "07d48a906e20",
+      "priority": 0,
+      "group": "b4c04c0b84e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strength",
+      "meaning": "力量",
+      "audio": "5b39ab180b924b12a449220c70e4bb4e",
+      "id": "60356f20f431",
+      "priority": 1,
+      "group": "b4c04c0b84e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flexibility",
+      "meaningInSourceLanguage": "柔韧性",
+      "id": "fa98dd6f9e17",
+      "priority": 0,
+      "group": "507c8ed1698e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flexibility",
+      "meaning": "柔韧性",
+      "audio": "eeb81577518c4f60a8810922ca02b189",
+      "id": "2007bcf7cb94",
+      "priority": 1,
+      "group": "507c8ed1698e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speed",
+      "meaningInSourceLanguage": "速度",
+      "id": "691e519e5de9",
+      "priority": 0,
+      "group": "151b50b2485e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speed",
+      "meaning": "速度",
+      "audio": "e9588d11f7964bd1a04c47356f21f9f9",
+      "id": "c6bba749376c",
+      "priority": 1,
+      "group": "151b50b2485e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "agility",
+      "meaningInSourceLanguage": "敏捷性",
+      "id": "da8f1821781a",
+      "priority": 0,
+      "group": "c4fc278291e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "agility",
+      "meaning": "敏捷性",
+      "audio": "f2492ddf2c804338a9d0cb991a036889",
+      "id": "facf818b0d17",
+      "priority": 1,
+      "group": "c4fc278291e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "balance",
+      "meaningInSourceLanguage": "平衡",
+      "id": "e9d44f311552",
+      "priority": 0,
+      "group": "edfe42021103"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "balance",
+      "meaning": "平衡",
+      "audio": "a473b10baee448be8428dbbeed10ab33",
+      "id": "2a7a04775bf3",
+      "priority": 1,
+      "group": "edfe42021103"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "score",
+      "meaningInSourceLanguage": "得分",
+      "id": "4ec53afaab9d",
+      "priority": 0,
+      "group": "dbcafda65d0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "score",
+      "meaning": "得分",
+      "audio": "686110b6429c4b3f9441ee039dc637e9",
+      "id": "9a02c3711574",
+      "priority": 1,
+      "group": "dbcafda65d0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "goal",
+      "meaningInSourceLanguage": "进球",
+      "id": "fc2abad6f26c",
+      "priority": 0,
+      "group": "fb125c89b987"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "goal",
+      "meaning": "进球",
+      "audio": "d0b4927ce9c948d99b08e83a7c01fa46",
+      "id": "d1d48d74af7f",
+      "priority": 1,
+      "group": "fb125c89b987"
+    }
+  ]
+}

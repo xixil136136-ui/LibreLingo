@@ -1,0 +1,448 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "아침에.",
+      "meaningInSourceLanguage": "在早上。",
+      "id": "05f2821602ed",
+      "priority": 0,
+      "group": "46414b7b9235"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아침에.",
+      "meaning": "在早上。",
+      "audio": "3df54c59fe8036119defd0d4803fde056eb75e77eb0acecb63b398603fd678b7",
+      "id": "ab77de98c7d0",
+      "priority": 1,
+      "group": "46414b7b9235"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "내일 봐요.",
+      "meaningInSourceLanguage": "明天见。",
+      "id": "846f0c760875",
+      "priority": 0,
+      "group": "4e613c979490"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "내일 봐요.",
+      "meaning": "明天见。",
+      "audio": "8821b53fb0dd4d93867dc464ee74c36598038fad40bf19922553dbe93f839b0e",
+      "id": "6cf5a4354fc9",
+      "priority": 1,
+      "group": "4e613c979490"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "이른 아침이에요.",
+      "meaningInSourceLanguage": "现在是清晨。",
+      "id": "2ac5f4fd9501",
+      "priority": 0,
+      "group": "91fe9e2ed233"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "이른 아침이에요.",
+      "meaning": "现在是清晨。",
+      "audio": "0f20b9abc88baa0e8032c8aa231ee0e659ac8a539c593496193d0b88d1f2a16f",
+      "id": "32fe4b195846",
+      "priority": 1,
+      "group": "91fe9e2ed233"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "지금 한가해요.",
+      "meaningInSourceLanguage": "我现在有空。",
+      "id": "dc5495ba353c",
+      "priority": 0,
+      "group": "f040ca6efff6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "지금 한가해요.",
+      "meaning": "我现在有空。",
+      "audio": "d644c83d3bc40e20e5cff19af442c27f104f863b2ec31663e03c890449a4c6a0",
+      "id": "0bfa28a8d97d",
+      "priority": 1,
+      "group": "f040ca6efff6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "나중에 봐요.",
+      "meaningInSourceLanguage": "回头见。",
+      "id": "3ae2fa3942bc",
+      "priority": 0,
+      "group": "c9da9f70bc0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "나중에 봐요.",
+      "meaning": "回头见。",
+      "audio": "78f3f1f9b19f9eb39ef6cd8b1041e6d95fb99c7d996cef23860d4f27f94b79e6",
+      "id": "1e045650b703",
+      "priority": 1,
+      "group": "c9da9f70bc0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "오후에.",
+      "meaningInSourceLanguage": "在下午。",
+      "id": "2d584ea9382f",
+      "priority": 0,
+      "group": "b2c88fd5726e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "오후에.",
+      "meaning": "在下午。",
+      "audio": "1cd760e231a32fe150629f2f46a1097d33078a1c1872fe3acb3108c18656bff5",
+      "id": "afe5d8d709c7",
+      "priority": 1,
+      "group": "b2c88fd5726e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "아침",
+      "meaningInSourceLanguage": "早上",
+      "id": "28e689608eab",
+      "priority": 0,
+      "group": "cb0924467e15"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "아침"
+      ],
+      "phrase": [
+        {
+          "word": "早上",
+          "definition": "아침"
+        }
+      ],
+      "id": "b16249b76ff1",
+      "priority": 1,
+      "group": "cb0924467e15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아침",
+      "meaning": "早上",
+      "audio": "01a3b39de7ff45feaceea06784a6867ec186a20272832555c38442304aecde89",
+      "id": "967dea7c00c3",
+      "priority": 1,
+      "group": "cb0924467e15"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "오후",
+      "meaningInSourceLanguage": "下午",
+      "id": "2e78b5097bc3",
+      "priority": 0,
+      "group": "35d8edea0c79"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "오후"
+      ],
+      "phrase": [
+        {
+          "word": "下午",
+          "definition": "오후"
+        }
+      ],
+      "id": "cb3b65e1f997",
+      "priority": 1,
+      "group": "35d8edea0c79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "오후",
+      "meaning": "下午",
+      "audio": "1f730258afa732a7f9e2c3097281e2b88d899de349bea038ea21bdfc862f6562",
+      "id": "9be5cbf8ea6c",
+      "priority": 1,
+      "group": "35d8edea0c79"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "저녁",
+      "meaningInSourceLanguage": "晚上",
+      "id": "bd025f6b80a3",
+      "priority": 0,
+      "group": "237affa5c9bd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "저녁"
+      ],
+      "phrase": [
+        {
+          "word": "晚上",
+          "definition": "저녁"
+        }
+      ],
+      "id": "f1fdd01e563c",
+      "priority": 1,
+      "group": "237affa5c9bd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "저녁",
+      "meaning": "晚上",
+      "audio": "98d268f118c5fdb0a048617a3db771e82797ffc584f67e7521a0945be4900c52",
+      "id": "5c3f83616b1d",
+      "priority": 1,
+      "group": "237affa5c9bd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "밤",
+      "meaningInSourceLanguage": "夜晚",
+      "id": "4e32c03e7d41",
+      "priority": 0,
+      "group": "747c318d253a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "밤"
+      ],
+      "phrase": [
+        {
+          "word": "夜晚",
+          "definition": "밤"
+        }
+      ],
+      "id": "1b6dead52049",
+      "priority": 1,
+      "group": "747c318d253a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "밤",
+      "meaning": "夜晚",
+      "audio": "54e654159d50e875f2c1221b06b6b1c640790a556d4803a66886f3b06deb28ab",
+      "id": "d7ecb63a37b3",
+      "priority": 1,
+      "group": "747c318d253a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "오늘",
+      "meaningInSourceLanguage": "今天",
+      "id": "22a18740bb46",
+      "priority": 0,
+      "group": "04734b689748"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "오늘"
+      ],
+      "phrase": [
+        {
+          "word": "今天",
+          "definition": "오늘"
+        }
+      ],
+      "id": "46a7a8c0392c",
+      "priority": 1,
+      "group": "04734b689748"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "오늘",
+      "meaning": "今天",
+      "audio": "4705ead3dd410bffae1972c7122368f8320d363ce0400987d9b689e0a36eb82a",
+      "id": "f74e82ae1c2e",
+      "priority": 1,
+      "group": "04734b689748"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "내일",
+      "meaningInSourceLanguage": "明天",
+      "id": "79a9dc99150d",
+      "priority": 0,
+      "group": "b6eee4320f95"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "내일"
+      ],
+      "phrase": [
+        {
+          "word": "明天",
+          "definition": "내일"
+        }
+      ],
+      "id": "beb1662c3871",
+      "priority": 1,
+      "group": "b6eee4320f95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "내일",
+      "meaning": "明天",
+      "audio": "a2562e7a67e8e59f8e3f0d1c5635ab280c3a06d173dc56c460c44963b121788a",
+      "id": "e5bdc358cf4c",
+      "priority": 1,
+      "group": "b6eee4320f95"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "어제",
+      "meaningInSourceLanguage": "昨天",
+      "id": "f0c22add91e1",
+      "priority": 0,
+      "group": "ca14e30e5fef"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "어제"
+      ],
+      "phrase": [
+        {
+          "word": "昨天",
+          "definition": "어제"
+        }
+      ],
+      "id": "69e41a6a22f4",
+      "priority": 1,
+      "group": "ca14e30e5fef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "어제",
+      "meaning": "昨天",
+      "audio": "105874fb3dfa3c7689c5bd16089ce53a96afcf57ce156f9e2950594e9a05f746",
+      "id": "dd056c363212",
+      "priority": 1,
+      "group": "ca14e30e5fef"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "지금",
+      "meaningInSourceLanguage": "现在",
+      "id": "9188d24deb87",
+      "priority": 0,
+      "group": "627572f7a77e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "지금"
+      ],
+      "phrase": [
+        {
+          "word": "现在",
+          "definition": "지금"
+        }
+      ],
+      "id": "6f7836e09516",
+      "priority": 1,
+      "group": "627572f7a77e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "지금",
+      "meaning": "现在",
+      "audio": "6f0a6610a5f3733c6733b7f8545a0dc9d7807c938292939e5b2be95da0f277bf",
+      "id": "27c2089e99a5",
+      "priority": 1,
+      "group": "627572f7a77e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "나중에",
+      "meaningInSourceLanguage": "稍后",
+      "id": "c5887a1aa761",
+      "priority": 0,
+      "group": "4311be84cc2f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "나중에"
+      ],
+      "phrase": [
+        {
+          "word": "稍后",
+          "definition": "나중에"
+        }
+      ],
+      "id": "1d3334a18164",
+      "priority": 1,
+      "group": "4311be84cc2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "나중에",
+      "meaning": "稍后",
+      "audio": "10cc50e6729c583eb7fe195090543f61435ad0be22aeddd5a9240d58d319a6ac",
+      "id": "f189ee208e0d",
+      "priority": 1,
+      "group": "4311be84cc2f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "일찍",
+      "meaningInSourceLanguage": "早",
+      "id": "7b1daf6e37f1",
+      "priority": 0,
+      "group": "f1226f9fb33d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "일찍"
+      ],
+      "phrase": [
+        {
+          "word": "早",
+          "definition": "일찍"
+        }
+      ],
+      "id": "bc41e470a0f1",
+      "priority": 1,
+      "group": "f1226f9fb33d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "일찍",
+      "meaning": "早",
+      "audio": "9dbda34ed2be93d7e65277df3846c19de856ef024f906e214dc0fc6f34c5e6ac",
+      "id": "0e547d1a80c4",
+      "priority": 1,
+      "group": "f1226f9fb33d"
+    }
+  ]
+}

@@ -1,0 +1,1043 @@
+{
+  "id": "94ffa5f0cf6f",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "court",
+      "meaningInSourceLanguage": "法庭",
+      "id": "6e7ae7791559",
+      "priority": 0,
+      "group": "1c1ae88358f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "court",
+      "meaning": "法庭",
+      "audio": "55201114a2affe658aa345d547f0572fde305b011496fad87c0f269ab4fe4ae3",
+      "id": "9cfc5683b406",
+      "priority": 1,
+      "group": "1c1ae88358f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "judge",
+      "meaningInSourceLanguage": "法官",
+      "id": "6493a04cb757",
+      "priority": 0,
+      "group": "6bebeeb76e66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "judge",
+      "meaning": "法官",
+      "audio": "e5a2985d3c7be0591fb2b8ab990f646841983e38c6d0c44a955ae091ba2abdd8",
+      "id": "a5bb0fadc192",
+      "priority": 1,
+      "group": "6bebeeb76e66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jury",
+      "meaningInSourceLanguage": "陪审团",
+      "id": "9089adb20eac",
+      "priority": 0,
+      "group": "cdd5751adb35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jury",
+      "meaning": "陪审团",
+      "audio": "949a615ca9de2279dbf01c071dec71c635de9dbb790883706ae2a76756233526",
+      "id": "43e593e0502e",
+      "priority": 1,
+      "group": "cdd5751adb35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prosecutor",
+      "meaningInSourceLanguage": "检察官",
+      "id": "46ff4307bf08",
+      "priority": 0,
+      "group": "2def0120cc27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prosecutor",
+      "meaning": "检察官",
+      "audio": "3924f888dfd3c8f8ea6d7e5d9954203c3022b9da1db8b19752521659173f60f7",
+      "id": "9c2e9d695c12",
+      "priority": 1,
+      "group": "2def0120cc27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "defense attorney",
+      "meaningInSourceLanguage": "辩护律师",
+      "id": "c7d630e8aafa",
+      "priority": 0,
+      "group": "03116ec53cd9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "defense attorney",
+      "meaning": "辩护律师",
+      "audio": "5ceb26e47405ac8d77fc11489e0401b7378294bf5f8691559b8d9a13804fa9f8",
+      "id": "44c5a452be15",
+      "priority": 1,
+      "group": "03116ec53cd9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "defendant",
+      "meaningInSourceLanguage": "被告",
+      "id": "fd6f2155c1e5",
+      "priority": 0,
+      "group": "9ec61e981ff2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "defendant",
+      "meaning": "被告",
+      "audio": "02ab26ab15e3e09bd3eed8f4437ca453b32bae2cff359a24ab90eaccf98c02d0",
+      "id": "19c30585e1f5",
+      "priority": 1,
+      "group": "9ec61e981ff2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plaintiff",
+      "meaningInSourceLanguage": "原告",
+      "id": "ab205229a17d",
+      "priority": 0,
+      "group": "cd720b8b0f68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plaintiff",
+      "meaning": "原告",
+      "audio": "bb3f925df8d4338c0800a173d0a34d4c4ef445c27a9bd06dcd49144f4533627c",
+      "id": "908383d2ff57",
+      "priority": 1,
+      "group": "cd720b8b0f68"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "witness",
+      "meaningInSourceLanguage": "证人",
+      "id": "e8be533e500c",
+      "priority": 0,
+      "group": "8b99485bf294"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "witness",
+      "meaning": "证人",
+      "audio": "e15a9141fdb0545961a983a4c27b38936df94db75ae3ffc09358763ff51415ea",
+      "id": "c12d75e30d1f",
+      "priority": 1,
+      "group": "8b99485bf294"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "victim",
+      "meaningInSourceLanguage": "受害者",
+      "id": "d29da9c245ed",
+      "priority": 0,
+      "group": "70284fa59125"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "victim",
+      "meaning": "受害者",
+      "audio": "40b2b520942e11839ed32caebdb4f6c01e490bbc3d9201ece42ef30654a2aac0",
+      "id": "1a51459324c2",
+      "priority": 1,
+      "group": "70284fa59125"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accused",
+      "meaningInSourceLanguage": "被告",
+      "id": "29047164f07f",
+      "priority": 0,
+      "group": "e92d795e766a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accused",
+      "meaning": "被告",
+      "audio": "bf9047da5ae45766e485a38be8538de37e02bc5633af03a96d8012feb94328d0",
+      "id": "9a15ecfd785e",
+      "priority": 1,
+      "group": "e92d795e766a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suspect",
+      "meaningInSourceLanguage": "嫌疑人",
+      "id": "7f89fe6dbc24",
+      "priority": 0,
+      "group": "8a1360152090"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suspect",
+      "meaning": "嫌疑人",
+      "audio": "5b16d745a5d930eb480b18d43c63164581159d3c26f6e01239f59c485dbc82a1",
+      "id": "d4108b52acf8",
+      "priority": 1,
+      "group": "8a1360152090"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "criminal",
+      "meaningInSourceLanguage": "罪犯",
+      "id": "6423659deb93",
+      "priority": 0,
+      "group": "f6010239e2be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "criminal",
+      "meaning": "罪犯",
+      "audio": "c1bcb291f29cda106a5d4653dff8a12f5b08d0abaf7cbafef16e0181eb6d33b6",
+      "id": "2b2da41031ec",
+      "priority": 1,
+      "group": "f6010239e2be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "offender",
+      "meaningInSourceLanguage": "违法者",
+      "id": "a0a813754ef3",
+      "priority": 0,
+      "group": "255eeb61e678"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "offender",
+      "meaning": "违法者",
+      "audio": "927f90a1a3a5fed35ca9063d4c97d161758793001c5d8fa91a1ef63eaffb9384",
+      "id": "154eccedb80a",
+      "priority": 1,
+      "group": "255eeb61e678"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lawyer",
+      "meaningInSourceLanguage": "律师",
+      "id": "6a673b96ee3f",
+      "priority": 0,
+      "group": "bc60d72ca92c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lawyer",
+      "meaning": "律师",
+      "audio": "a2b25522e47b7ff523b3d25aca1a00e02f1db1afeb06458ad89fee7ed977a52c",
+      "id": "d8725da83e95",
+      "priority": 1,
+      "group": "bc60d72ca92c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "attorney",
+      "meaningInSourceLanguage": "律师",
+      "id": "78f599953b12",
+      "priority": 0,
+      "group": "948a7e606f8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "attorney",
+      "meaning": "律师",
+      "audio": "4b5360adf1e4c90d1f2674af96c83429a24233f1ec55857c02a0a3ebb7dcca81",
+      "id": "6afaaad70ff2",
+      "priority": 1,
+      "group": "948a7e606f8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "counsel",
+      "meaningInSourceLanguage": "法律顾问",
+      "id": "00d0ff05193b",
+      "priority": 0,
+      "group": "72abcbdc1c18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "counsel",
+      "meaning": "法律顾问",
+      "audio": "5339a4bfe0fb2e25a97d8aa9f594903c3d6aef9718c074ebd68e5028377a3785",
+      "id": "9eb9ccb3319c",
+      "priority": 1,
+      "group": "72abcbdc1c18"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solicitor",
+      "meaningInSourceLanguage": "事务律师",
+      "id": "7e40a3f7e8eb",
+      "priority": 0,
+      "group": "f73571c3f14f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solicitor",
+      "meaning": "事务律师",
+      "audio": "a253da7033ee18094a815fb8a395210c18302d9822e3ed5c0fe3a06cb91c92d9",
+      "id": "1a1e2488d82b",
+      "priority": 1,
+      "group": "f73571c3f14f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "barrister",
+      "meaningInSourceLanguage": "出庭律师",
+      "id": "776a42c18498",
+      "priority": 0,
+      "group": "d54ac389042b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "barrister",
+      "meaning": "出庭律师",
+      "audio": "e6d6aa54f9e68f55674c80899e99e3670de6d6582ae81c74080aec185826678f",
+      "id": "05842bdbbb9b",
+      "priority": 1,
+      "group": "d54ac389042b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "notary",
+      "meaningInSourceLanguage": "公证人",
+      "id": "86bc6b6dbb08",
+      "priority": 0,
+      "group": "3a517e57d9cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "notary",
+      "meaning": "公证人",
+      "audio": "2a96bd48c282d526a169a761b1144805b4d7635ba70295fade8019a82db51219",
+      "id": "b24977e7d547",
+      "priority": 1,
+      "group": "3a517e57d9cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bailiff",
+      "meaningInSourceLanguage": "法警",
+      "id": "6fd55517b7ae",
+      "priority": 0,
+      "group": "bef60a41b7dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bailiff",
+      "meaning": "法警",
+      "audio": "b17193069663621b7a17fb2544f251b4fca0497fda2bbf933a751b9742dc9813",
+      "id": "ccc4a6438ace",
+      "priority": 1,
+      "group": "bef60a41b7dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "court clerk",
+      "meaningInSourceLanguage": "法庭书记员",
+      "id": "0a69c2ab4bd2",
+      "priority": 0,
+      "group": "b5830b978657"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "court clerk",
+      "meaning": "法庭书记员",
+      "audio": "e632d65259254724f87f19d2f40c34a1831d370c957da25608d0984ba9c43c9d",
+      "id": "f1f7b248d1f2",
+      "priority": 1,
+      "group": "b5830b978657"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "court reporter",
+      "meaningInSourceLanguage": "法庭记录员",
+      "id": "a39a12a18f35",
+      "priority": 0,
+      "group": "21b7686a893a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "court reporter",
+      "meaning": "法庭记录员",
+      "audio": "08a35332f985469cd7d7066c9c7bab59fa2ff1fe0c0fdcd81ddc9835e8d4fbde",
+      "id": "22054074eac5",
+      "priority": 1,
+      "group": "21b7686a893a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trial",
+      "meaningInSourceLanguage": "审判",
+      "id": "265962e35fd8",
+      "priority": 0,
+      "group": "f41b2dc5adcb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trial",
+      "meaning": "审判",
+      "audio": "d25fc0a59f1f87ef7628d3b8716e6af5f60e349c6492f7eaed800815e7b8d095",
+      "id": "959f225d14b8",
+      "priority": 1,
+      "group": "f41b2dc5adcb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hearing",
+      "meaningInSourceLanguage": "听证会",
+      "id": "2f6dd3edad22",
+      "priority": 0,
+      "group": "1e918bdb4af1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hearing",
+      "meaning": "听证会",
+      "audio": "a6ab5d4b853fc2cc22af81f1253274c7166956461deea458b2a78f260df0a47d",
+      "id": "1b6e4ab683fa",
+      "priority": 1,
+      "group": "1e918bdb4af1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arraignment",
+      "meaningInSourceLanguage": "传讯",
+      "id": "0037e7d5e708",
+      "priority": 0,
+      "group": "c5fc1255438f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arraignment",
+      "meaning": "传讯",
+      "audio": "4688f1f0a3239773b90cde247ca5f5b0597c2c256c9229f4627a95245e9ec827",
+      "id": "57ba14cd5466",
+      "priority": 1,
+      "group": "c5fc1255438f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "indictment",
+      "meaningInSourceLanguage": "起诉书",
+      "id": "44ad576c6ade",
+      "priority": 0,
+      "group": "d0499014aec9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "indictment",
+      "meaning": "起诉书",
+      "audio": "bb330938bd64d1bbb3e38fe3be674e22a2439863695eeca0c495e9f13fbe48ef",
+      "id": "80c92fcc410b",
+      "priority": 1,
+      "group": "d0499014aec9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "verdict",
+      "meaningInSourceLanguage": "裁决",
+      "id": "b08ce585d9df",
+      "priority": 0,
+      "group": "2156763e1601"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "verdict",
+      "meaning": "裁决",
+      "audio": "fb2a539ca7926904e285c5e3d92b799b10934352862e223e8c0d0056e145e7c8",
+      "id": "8ebbc46a03bf",
+      "priority": 1,
+      "group": "2156763e1601"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sentence",
+      "meaningInSourceLanguage": "判刑",
+      "id": "d681ef81051d",
+      "priority": 0,
+      "group": "0284ddbecdf8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sentence",
+      "meaning": "判刑",
+      "audio": "0c3f1f661af48a4f2df2e0c4b74c9eaa5020e34df87706703d232b726ff342f2",
+      "id": "b7524cd39729",
+      "priority": 1,
+      "group": "0284ddbecdf8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conviction",
+      "meaningInSourceLanguage": "定罪",
+      "id": "01a81636ebd7",
+      "priority": 0,
+      "group": "d01643924c4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conviction",
+      "meaning": "定罪",
+      "audio": "560459ab336b046a350d3d999e821e25eec0520cf5a673bd3f56a982e1886028",
+      "id": "88a95fb374c1",
+      "priority": 1,
+      "group": "d01643924c4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acquittal",
+      "meaningInSourceLanguage": "无罪释放",
+      "id": "892c783d26f0",
+      "priority": 0,
+      "group": "3c2dae7fead6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acquittal",
+      "meaning": "无罪释放",
+      "audio": "865a1d9545d1afb655e709bc7196050b011a31cfc7bfad007e16f7d7f56e664d",
+      "id": "db38d7b78d14",
+      "priority": 1,
+      "group": "3c2dae7fead6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "appeal",
+      "meaningInSourceLanguage": "上诉",
+      "id": "55882d7dc687",
+      "priority": 0,
+      "group": "c14ce4b5f6fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "appeal",
+      "meaning": "上诉",
+      "audio": "0073b6fdfea116f002a04169079089fc5dd77dde2f830fec552453502b43862b",
+      "id": "0daac9d8b406",
+      "priority": 1,
+      "group": "c14ce4b5f6fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "motion",
+      "meaningInSourceLanguage": "动议",
+      "id": "f407f9fa832e",
+      "priority": 0,
+      "group": "5558102d93a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "motion",
+      "meaning": "动议",
+      "audio": "e670fad39921ecb6cb6bc3dc03a93a1575d2b8e292944e27452830e16c1c1a9d",
+      "id": "195825e15634",
+      "priority": 1,
+      "group": "5558102d93a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "objection",
+      "meaningInSourceLanguage": "反对",
+      "id": "17b1df4322df",
+      "priority": 0,
+      "group": "d591e42aa3cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "objection",
+      "meaning": "反对",
+      "audio": "226edf8e4a6e134305f7a893541abaf417e3b1865a46af7bac6e9dd237cbb000",
+      "id": "bc8077af04bb",
+      "priority": 1,
+      "group": "d591e42aa3cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "overruled",
+      "meaningInSourceLanguage": "驳回",
+      "id": "dbe182858907",
+      "priority": 0,
+      "group": "ec2ea8cd3bc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "overruled",
+      "meaning": "驳回",
+      "audio": "dc47f95233213bcab104585ff1279ee0a396ab5188292097d87f1990b1a3d44b",
+      "id": "bd0de1e04d13",
+      "priority": 1,
+      "group": "ec2ea8cd3bc1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sustained",
+      "meaningInSourceLanguage": "维持",
+      "id": "7eb01788e247",
+      "priority": 0,
+      "group": "5580cfdf593c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sustained",
+      "meaning": "维持",
+      "audio": "ebf8448582d60f45beb836a39c432f862e04c1fcfb7b574aff5a40899ba248e4",
+      "id": "9a643e8fd67d",
+      "priority": 1,
+      "group": "5580cfdf593c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "testimony",
+      "meaningInSourceLanguage": "证词",
+      "id": "7f30db6d5db2",
+      "priority": 0,
+      "group": "89b778bfbd58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "testimony",
+      "meaning": "证词",
+      "audio": "00d77d9137df83b38a523b3b856608da762cdd8c1abe0bc5c2664b8fd4b8bf6a",
+      "id": "055b8bc81684",
+      "priority": 1,
+      "group": "89b778bfbd58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cross-examination",
+      "meaningInSourceLanguage": "交叉询问",
+      "id": "329b8e371836",
+      "priority": 0,
+      "group": "489d46ba9f6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cross-examination",
+      "meaning": "交叉询问",
+      "audio": "466f5e0dbb837507682c309e9e8f22ae6f4f88efdbe53ff14de7e862afa27689",
+      "id": "ed3a7297efd5",
+      "priority": 1,
+      "group": "489d46ba9f6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "direct examination",
+      "meaningInSourceLanguage": "直接询问",
+      "id": "5702b4158e98",
+      "priority": 0,
+      "group": "a8ec95c309af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "direct examination",
+      "meaning": "直接询问",
+      "audio": "f328bab3fb847450b071d033ececde05565ac8510dbaaa6e83ebb3b65aadb6b7",
+      "id": "238edc9ca4c9",
+      "priority": 1,
+      "group": "a8ec95c309af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "opening statement",
+      "meaningInSourceLanguage": "开庭陈述",
+      "id": "c6505479b729",
+      "priority": 0,
+      "group": "4fda9672694b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "opening statement",
+      "meaning": "开庭陈述",
+      "audio": "c3f8bf4bb9949a349e5c59f0b903766ef2f60575d6c7f1700716c9a723b59866",
+      "id": "2cbb88d6d455",
+      "priority": 1,
+      "group": "4fda9672694b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "closing argument",
+      "meaningInSourceLanguage": "结案陈词",
+      "id": "f8dc6b9c2f9e",
+      "priority": 0,
+      "group": "70137a13467e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "closing argument",
+      "meaning": "结案陈词",
+      "audio": "96ed95f4570b1bfd8a171f4e025aeda6854150d03221674b014f61622153ed38",
+      "id": "433aa9ee4642",
+      "priority": 1,
+      "group": "70137a13467e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "evidence",
+      "meaningInSourceLanguage": "证据",
+      "id": "690455e75e74",
+      "priority": 0,
+      "group": "cf582f91b478"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "evidence",
+      "meaning": "证据",
+      "audio": "cd404d6b5da66d58bf1a42e8c91e0d85111555700c5a83ce588a3cef7154c2c8",
+      "id": "8cc1d09b540f",
+      "priority": 1,
+      "group": "cf582f91b478"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exhibit",
+      "meaningInSourceLanguage": "物证",
+      "id": "bf90bcfc9b4e",
+      "priority": 0,
+      "group": "35476639ea07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exhibit",
+      "meaning": "物证",
+      "audio": "7e1473ff8f4aadb2697e249259786fe8f7278f7bd6f83999440c0f7862bab6f4",
+      "id": "e1ea7c39e32d",
+      "priority": 1,
+      "group": "35476639ea07"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deposition",
+      "meaningInSourceLanguage": "证词笔录",
+      "id": "1eecbd5643af",
+      "priority": 0,
+      "group": "e07bbacdcd94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deposition",
+      "meaning": "证词笔录",
+      "audio": "32664c8c9ba5b758b2483f55fd4bbb1bb4298ac192324b501d5d8b01903770e7",
+      "id": "f50b00de5ca2",
+      "priority": 1,
+      "group": "e07bbacdcd94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "affidavit",
+      "meaningInSourceLanguage": "宣誓书",
+      "id": "9f47df049423",
+      "priority": 0,
+      "group": "c883a83bbbc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "affidavit",
+      "meaning": "宣誓书",
+      "audio": "0584522853119fe481a4c96ca9471adb9abbaa5782f2cfa260b9f1b21ab7918d",
+      "id": "a5520ab4b895",
+      "priority": 1,
+      "group": "c883a83bbbc1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "subpoena",
+      "meaningInSourceLanguage": "传票",
+      "id": "fd0a94aa6c30",
+      "priority": 0,
+      "group": "25008ea40298"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "subpoena",
+      "meaning": "传票",
+      "audio": "9f0e87c99b5e2dcf7868ff96587e9c6037e19ae8115309ea91f6a1fdbc71de41",
+      "id": "a18ba54ef149",
+      "priority": 1,
+      "group": "25008ea40298"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "summons",
+      "meaningInSourceLanguage": "传唤",
+      "id": "2d487e2b7ac7",
+      "priority": 0,
+      "group": "d10e975f7419"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "summons",
+      "meaning": "传唤",
+      "audio": "c84aebcbcb1478014d0d853007e89fc9c7b402aed913303209e68865a0c9cfe7",
+      "id": "a2942fb8f058",
+      "priority": 1,
+      "group": "d10e975f7419"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "warrant",
+      "meaningInSourceLanguage": "逮捕令",
+      "id": "2f7dac86b730",
+      "priority": 0,
+      "group": "a444fad1933f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "warrant",
+      "meaning": "逮捕令",
+      "audio": "2b681a21cd9469cd60fe64e1c159edd61641625bacc5f474908f1ad48fea79f3",
+      "id": "0d63281f49ca",
+      "priority": 1,
+      "group": "a444fad1933f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "search warrant",
+      "meaningInSourceLanguage": "搜查令",
+      "id": "3f16fa63157c",
+      "priority": 0,
+      "group": "e0328567d0cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "search warrant",
+      "meaning": "搜查令",
+      "audio": "75a0a406b8c86962437e4869d8977ce071b1cc3b66d0138bc37c9dd47ac055e9",
+      "id": "ba29af523f05",
+      "priority": 1,
+      "group": "e0328567d0cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bail",
+      "meaningInSourceLanguage": "保释",
+      "id": "3550fbe9670b",
+      "priority": 0,
+      "group": "fe77fc630dd1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bail",
+      "meaning": "保释",
+      "audio": "db3d2ea389437c1ce5ffc746c5d15fa930c266d90f55c301af368cef729ffb39",
+      "id": "130add29af0c",
+      "priority": 1,
+      "group": "fe77fc630dd1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bond",
+      "meaningInSourceLanguage": "保释金",
+      "id": "d526e1e76c44",
+      "priority": 0,
+      "group": "0a7df4f5d66d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bond",
+      "meaning": "保释金",
+      "audio": "13dd2702fbd166075a6ca6f017740f062fd3e6f82bfd908d017a5c5c2e44d064",
+      "id": "559d66ec35a2",
+      "priority": 1,
+      "group": "0a7df4f5d66d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plea",
+      "meaningInSourceLanguage": "抗辩",
+      "id": "31c243673881",
+      "priority": 0,
+      "group": "41093e89affa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plea",
+      "meaning": "抗辩",
+      "audio": "69b8dc251834200083dab756b8ebb0e5bca88a1a56200cce7aa0d07abf8e331f",
+      "id": "1333b949fcb1",
+      "priority": 1,
+      "group": "41093e89affa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plea bargain",
+      "meaningInSourceLanguage": "认罪协商",
+      "id": "417cddc3a53f",
+      "priority": 0,
+      "group": "945655ca6026"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plea bargain",
+      "meaning": "认罪协商",
+      "audio": "58d2439dfa3ab4fc689e2c23456e6e75e379df2c5b6aba56748e41f02143b3e6",
+      "id": "2da0795800d8",
+      "priority": 1,
+      "group": "945655ca6026"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guilty plea",
+      "meaningInSourceLanguage": "认罪",
+      "id": "3110fbd33328",
+      "priority": 0,
+      "group": "f75d07d40a43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guilty plea",
+      "meaning": "认罪",
+      "audio": "8559ef149e01554b457886011ef0078919208968290c7c0b3007e9e19a00a225",
+      "id": "b6ee9f73b5f5",
+      "priority": 1,
+      "group": "f75d07d40a43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "not guilty",
+      "meaningInSourceLanguage": "无罪",
+      "id": "067b0a90973b",
+      "priority": 0,
+      "group": "34daf343ce9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "not guilty",
+      "meaning": "无罪",
+      "audio": "b2d4731ab45c799c96499993a2390307e8db3737f38a2c4672d9d09b928dcc3a",
+      "id": "fc55bf7b03d7",
+      "priority": 1,
+      "group": "34daf343ce9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "no contest",
+      "meaningInSourceLanguage": "不抗辩",
+      "id": "3b713036d012",
+      "priority": 0,
+      "group": "6574b1acf818"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "no contest",
+      "meaning": "不抗辩",
+      "audio": "b3cab20863da680dcce77c95a2d218d80bcdd8ee152df52c6fa81e66009be1bc",
+      "id": "770affe79196",
+      "priority": 1,
+      "group": "6574b1acf818"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mistrial",
+      "meaningInSourceLanguage": "无效审判",
+      "id": "69d4699def2a",
+      "priority": 0,
+      "group": "f176ad10d397"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mistrial",
+      "meaning": "无效审判",
+      "audio": "a7a23f10d31bfbfc83dd44dd7d8f4941c1202b1983b489f458df13376dfcd10e",
+      "id": "ac4aa240eae1",
+      "priority": 1,
+      "group": "f176ad10d397"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hung jury",
+      "meaningInSourceLanguage": "悬而未决的陪审团",
+      "id": "4f0a33dc4e0f",
+      "priority": 0,
+      "group": "7c4d5a9c8466"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hung jury",
+      "meaning": "悬而未决的陪审团",
+      "audio": "bb53fece5561b8cb708e48c88e222f2d82e033311160a4e42642e4f9d791d6e1",
+      "id": "745b4767e2ef",
+      "priority": 1,
+      "group": "7c4d5a9c8466"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jury duty",
+      "meaningInSourceLanguage": "陪审义务",
+      "id": "3488fe18d8f0",
+      "priority": 0,
+      "group": "e65a17f21afe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jury duty",
+      "meaning": "陪审义务",
+      "audio": "53f05c722ce43a06f07a092199f7e6bc21575628ad75aaddea1022ec2ffba855",
+      "id": "e09585073d62",
+      "priority": 1,
+      "group": "e65a17f21afe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contempt of court",
+      "meaningInSourceLanguage": "藐视法庭",
+      "id": "b78fb4e32974",
+      "priority": 0,
+      "group": "fb40215b3652"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contempt of court",
+      "meaning": "藐视法庭",
+      "audio": "0b46a3a6af415ce173c68f21d5a2dea0b896a9b770b8ee41cec5b2d3f0cea2a4",
+      "id": "347ff2810c4a",
+      "priority": 1,
+      "group": "fb40215b3652"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "perjury",
+      "meaningInSourceLanguage": "伪证罪",
+      "id": "6a3a18f43a58",
+      "priority": 0,
+      "group": "f91dc5132abb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "perjury",
+      "meaning": "伪证罪",
+      "audio": "2a30c9f3f9ba60bcc575e574b0aabc687dc8d821fd41c48d779d8daf0e223135",
+      "id": "5de7031470ff",
+      "priority": 1,
+      "group": "f91dc5132abb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "obstruction of justice",
+      "meaningInSourceLanguage": "妨碍司法",
+      "id": "a79c1877be76",
+      "priority": 0,
+      "group": "a5735ec3f91c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "obstruction of justice",
+      "meaning": "妨碍司法",
+      "audio": "8dd604e7a7f200aebda421bad7cdfc52565734a4052089e140ac12fb534a0af7",
+      "id": "3c4bd204a940",
+      "priority": 1,
+      "group": "a5735ec3f91c"
+    }
+  ]
+}

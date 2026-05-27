@@ -1,0 +1,431 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "버스 정류장이 어디예요?",
+      "meaningInSourceLanguage": "公共汽车站在哪里？",
+      "id": "d792e5aad427",
+      "priority": 0,
+      "group": "2ce465f19935"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "버스 정류장이 어디예요?",
+      "meaning": "公共汽车站在哪里？",
+      "audio": "a19ae8a6a23bdb659b361be05a84c19e29a5a348b5d1b09925d5666a72318432",
+      "id": "eee557cc4d40",
+      "priority": 1,
+      "group": "2ce465f19935"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "기차가 지연되었어요.",
+      "meaningInSourceLanguage": "火车晚点了。",
+      "id": "3ed0725f359f",
+      "priority": 0,
+      "group": "4884b71230a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "기차가 지연되었어요.",
+      "meaning": "火车晚点了。",
+      "audio": "874ec35e321b3f839a332582cb667daa865e02b9d178c671d57a51fa62f833d1",
+      "id": "05c6fb2a710c",
+      "priority": 1,
+      "group": "4884b71230a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "짐이 있어요.",
+      "meaningInSourceLanguage": "我有行李。",
+      "id": "bf8408a28a1d",
+      "priority": 0,
+      "group": "3c470e56ec0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "짐이 있어요.",
+      "meaning": "我有行李。",
+      "audio": "6c6a1ce59c10d2344261abadb99fb80a7c576f8cf8eebc068feaf554b8fc9ffa",
+      "id": "329e27d0714b",
+      "priority": 1,
+      "group": "3c470e56ec0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "기차는 얼마예요?",
+      "meaningInSourceLanguage": "火车票多少钱？",
+      "id": "ffe015022c7c",
+      "priority": 0,
+      "group": "2debd2994032"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "기차는 얼마예요?",
+      "meaning": "火车票多少钱？",
+      "audio": "68f1a1517f60ef10f4263fd658cd98e4a4dac09e5e3e5e41ffb63e8f62137e05",
+      "id": "778d9f80e6e8",
+      "priority": 1,
+      "group": "2debd2994032"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "택시 승강장이 어디예요?",
+      "meaningInSourceLanguage": "出租车站在哪里？",
+      "id": "1891b7fd2ff3",
+      "priority": 0,
+      "group": "c123f69b42bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "택시 승강장이 어디예요?",
+      "meaning": "出租车站在哪里？",
+      "audio": "021e133175b6f34b3e928002d095ee0c0e954c66ac95eac3301ed77df64be479",
+      "id": "7e24edc9f823",
+      "priority": 1,
+      "group": "c123f69b42bf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "기차",
+      "meaningInSourceLanguage": "火车",
+      "id": "9b64ccbf9bc8",
+      "priority": 0,
+      "group": "686b1758cf62"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "기차"
+      ],
+      "phrase": [
+        {
+          "word": "火车",
+          "definition": "기차"
+        }
+      ],
+      "id": "8a0c0f2943b3",
+      "priority": 1,
+      "group": "686b1758cf62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "기차",
+      "meaning": "火车",
+      "audio": "7689ab88f577647ba8967911550435e416e5f9b0432ead835f31b100539cee20",
+      "id": "e10d3dcc89a8",
+      "priority": 1,
+      "group": "686b1758cf62"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "버스",
+      "meaningInSourceLanguage": "公共汽车",
+      "id": "ba958735599b",
+      "priority": 0,
+      "group": "781873eef252"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "버스"
+      ],
+      "phrase": [
+        {
+          "word": "公共汽车",
+          "definition": "버스"
+        }
+      ],
+      "id": "472fb2cb6683",
+      "priority": 1,
+      "group": "781873eef252"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "버스",
+      "meaning": "公共汽车",
+      "audio": "c0dd2233806e806647a1455e5762f3f7687d0d21c76382aaafcc3b9063b6ba01",
+      "id": "14ead5cec69c",
+      "priority": 1,
+      "group": "781873eef252"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "택시",
+      "meaningInSourceLanguage": "出租车",
+      "id": "f1ac68448237",
+      "priority": 0,
+      "group": "5169dd79381f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "택시"
+      ],
+      "phrase": [
+        {
+          "word": "出租车",
+          "definition": "택시"
+        }
+      ],
+      "id": "3b5c3c678420",
+      "priority": 1,
+      "group": "5169dd79381f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "택시",
+      "meaning": "出租车",
+      "audio": "94d1f76b9816f03ca14a8f7ffbe9d48b68669dd710c138d64bc94dc434fd257c",
+      "id": "053ba893d149",
+      "priority": 1,
+      "group": "5169dd79381f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "지하철",
+      "meaningInSourceLanguage": "地铁",
+      "id": "363a6fb68341",
+      "priority": 0,
+      "group": "bf4f8fa22a7b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "지하철"
+      ],
+      "phrase": [
+        {
+          "word": "地铁",
+          "definition": "지하철"
+        }
+      ],
+      "id": "6089ecf65dfe",
+      "priority": 1,
+      "group": "bf4f8fa22a7b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "지하철",
+      "meaning": "地铁",
+      "audio": "1c0dc63f43636599b14dbdfd5b1b11a5ac927ecea427397f8bc2992a2bf248b0",
+      "id": "92771b42178c",
+      "priority": 1,
+      "group": "bf4f8fa22a7b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "호텔",
+      "meaningInSourceLanguage": "酒店",
+      "id": "16f3d197a77c",
+      "priority": 0,
+      "group": "d97f08680409"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "호텔"
+      ],
+      "phrase": [
+        {
+          "word": "酒店",
+          "definition": "호텔"
+        }
+      ],
+      "id": "840de7d6cda6",
+      "priority": 1,
+      "group": "d97f08680409"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "호텔",
+      "meaning": "酒店",
+      "audio": "7991473b658e7115ff80a6453fb6a58e4d431510dfa3e2b4c38cbc350e4d7ed2",
+      "id": "74135e3665bb",
+      "priority": 1,
+      "group": "d97f08680409"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "짐",
+      "meaningInSourceLanguage": "行李",
+      "id": "92163a06b452",
+      "priority": 0,
+      "group": "799f5b3798c0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "짐"
+      ],
+      "phrase": [
+        {
+          "word": "行李",
+          "definition": "짐"
+        }
+      ],
+      "id": "1ea51a8e3e7e",
+      "priority": 1,
+      "group": "799f5b3798c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "짐",
+      "meaning": "行李",
+      "audio": "a9964578092bd0ef90ca2dd0fddfcc174f2edb161247891e743090f7a05d2848",
+      "id": "b7f63dff4a3e",
+      "priority": 1,
+      "group": "799f5b3798c0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "역",
+      "meaningInSourceLanguage": "车站",
+      "id": "f0f320335742",
+      "priority": 0,
+      "group": "f2661d077f76"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "역"
+      ],
+      "phrase": [
+        {
+          "word": "车站",
+          "definition": "역"
+        }
+      ],
+      "id": "a93dad977eb1",
+      "priority": 1,
+      "group": "f2661d077f76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "역",
+      "meaning": "车站",
+      "audio": "6a48c54080f0f53d5884f2c11a1ec234bdea1ff9e0e5c31524854caa0c393202",
+      "id": "963871ea09df",
+      "priority": 1,
+      "group": "f2661d077f76"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "비행기",
+      "meaningInSourceLanguage": "航班",
+      "id": "70614dd9fab6",
+      "priority": 0,
+      "group": "8b665c13922a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "비행기"
+      ],
+      "phrase": [
+        {
+          "word": "航班",
+          "definition": "비행기"
+        }
+      ],
+      "id": "ef5febac3bdf",
+      "priority": 1,
+      "group": "8b665c13922a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "비행기",
+      "meaning": "航班",
+      "audio": "f749b94a414f67a5fb36ce40040468ddbbbbaeb70bb890b0c360ccf52271e5d2",
+      "id": "ce861bd9a7d1",
+      "priority": 1,
+      "group": "8b665c13922a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "지연",
+      "meaningInSourceLanguage": "延误",
+      "id": "5d220e28e228",
+      "priority": 0,
+      "group": "4ee3c194897c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "지연"
+      ],
+      "phrase": [
+        {
+          "word": "延误",
+          "definition": "지연"
+        }
+      ],
+      "id": "71a146588789",
+      "priority": 1,
+      "group": "4ee3c194897c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "지연",
+      "meaning": "延误",
+      "audio": "cc1925891d07b0bafd162d2da0b6c276ec1625261701df87045c0b92b9870d7f",
+      "id": "c32f42d50899",
+      "priority": 1,
+      "group": "4ee3c194897c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "탑승",
+      "meaningInSourceLanguage": "登机",
+      "id": "b6563c73d278",
+      "priority": 0,
+      "group": "ee9052c50cc3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "탑승"
+      ],
+      "phrase": [
+        {
+          "word": "登机",
+          "definition": "탑승"
+        }
+      ],
+      "id": "9a6f2c097c0e",
+      "priority": 1,
+      "group": "ee9052c50cc3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "탑승",
+      "meaning": "登机",
+      "audio": "6bb9dab1d7e6645682a807b13222b84fb3b2c5d40c183eee655798e2219d761d",
+      "id": "4f71f03831de",
+      "priority": 1,
+      "group": "ee9052c50cc3"
+    }
+  ]
+}

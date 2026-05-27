@@ -1,0 +1,74 @@
+Skill:
+  Name: Shopping
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: negozio
+    Translation: 商店
+  - Word: prezzo
+    Translation: 价格
+  - Word: caro
+    Translation: 贵的
+  - Word: economico
+    Translation: 便宜的
+  - Word: soldi
+    Translation: 钱
+  - Word: qualità
+    Translation: 质量
+  - Word: marca
+    Translation: 品牌
+  - Word: reso
+    Translation: 退货
+  - Word: aperto
+    Translation: 营业
+  - Word: chiuso
+    Translation: 关门
+
+Phrases:
+  - Phrase: Quanto costa questo?
+    Translation: 这个多少钱？
+  - Phrase: È troppo caro.
+    Translation: 太贵了。
+  - Phrase: Questa è buona qualità.
+    Translation: 这个质量很好。
+  - Phrase: Il negozio è aperto?
+    Translation: 商店开门吗？
+  - Phrase: Oggi è chiuso.
+    Translation: 今天关门了。
+  - Phrase: Posso rendere questo?
+    Translation: 能退货吗？
+  - Phrase: Il negozio è laggiù.
+    Translation: 商店在那里。
+  - Phrase: Non ho soldi.
+    Translation: 我没钱。
+
+Mini-dictionary:
+  Italian:
+    - economico: 便宜的
+    - reso: 退货
+    - prezzo: 价格
+    - qualità: 质量
+    - aperto: 营业
+    - marca: 品牌
+    - soldi: 钱
+    - negozio: 商店
+    - caro: 贵的
+    - chiuso: 关门
+  Chinese:
+    - 便宜的: economico
+    - 关门: chiuso
+    - 退货: reso
+    - 价格: prezzo
+    - 商店: negozio
+    - 营业: aperto
+    - 贵的: caro
+    - 质量: qualità
+    - 品牌: marca
+    - 钱: soldi

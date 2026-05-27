@@ -116,6 +116,311 @@
       ]
     },
     {
+      "title": "Travel",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "왼쪽",
+            "오른쪽",
+            "직진",
+            "여기",
+            "거기",
+            "가까이",
+            "멀다",
+            "지도",
+            "거리",
+            "길",
+            "여기서 왼쪽으로 도세요.",
+            "직진하세요.",
+            "역이 어디예요?",
+            "여기서 멀어요?",
+            "지도가 필요해요."
+          ],
+          "practiceHref": "directions",
+          "id": "569673478a3d",
+          "title": "Directions",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "기차",
+            "버스",
+            "택시",
+            "지하철",
+            "호텔",
+            "짐",
+            "역",
+            "비행기",
+            "지연",
+            "탑승",
+            "버스 정류장이 어디예요?",
+            "기차가 지연되었어요.",
+            "짐이 있어요.",
+            "기차는 얼마예요?",
+            "택시 승강장이 어디예요?"
+          ],
+          "practiceHref": "transportation",
+          "id": "38c2ea1c36d2",
+          "title": "Transportation",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "방",
+            "침대",
+            "샤워",
+            "화장실",
+            "수건",
+            "베개",
+            "담요",
+            "층",
+            "리셉션",
+            "손님",
+            "방이 필요해요.",
+            "하루에 얼마예요?",
+            "화장실이 어디예요?",
+            "수건 좀 주세요.",
+            "침대가 편해요.",
+            "저는 여기 손님이에요.",
+            "리셉션이 이 층에 있어요?"
+          ],
+          "practiceHref": "hotel",
+          "id": "d7279e4777cd",
+          "title": "Hotel",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "식당",
+            "음료",
+            "음식",
+            "냅킨",
+            "소금",
+            "후추",
+            "컵",
+            "병",
+            "디저트",
+            "메인 요리",
+            "음료를 원해요.",
+            "음식이 맛있어요.",
+            "물 한 잔 주세요.",
+            "와인 한 병이 필요해요.",
+            "디저트를 원해요.",
+            "소금 좀 주세요."
+          ],
+          "practiceHref": "restaurant",
+          "id": "379dca1c8ae9",
+          "title": "Restaurant",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "가게",
+            "가격",
+            "비싸다",
+            "싸다",
+            "돈",
+            "품질",
+            "브랜드",
+            "반품",
+            "영업 중",
+            "문 닫음",
+            "이거 얼마예요?",
+            "너무 비싸요.",
+            "이건 품질이 좋아요.",
+            "가게 영업 중이에요?",
+            "오늘 문 닫았어요.",
+            "이거 반품할 수 있어요?",
+            "가게는 저기 있어요.",
+            "돈이 없어요."
+          ],
+          "practiceHref": "shopping",
+          "id": "e859eeaa5871",
+          "title": "Shopping",
+          "levels": 4
+        }
+      ]
+    },
+    {
+      "title": "Daily Life",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "맑음",
+            "비",
+            "눈",
+            "바람",
+            "구름",
+            "춥다",
+            "덥다",
+            "따뜻하다",
+            "기온",
+            "우산",
+            "오늘 날씨가 맑아요.",
+            "비가 올 거예요.",
+            "밖이 아주 추워요.",
+            "우산 가져가세요.",
+            "기온이 몇 도예요?",
+            "눈이 와요.",
+            "오늘 따뜻해요.",
+            "바람이 불어요."
+          ],
+          "practiceHref": "weather",
+          "id": "569673478a3d",
+          "title": "Weather",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "아침",
+            "오후",
+            "저녁",
+            "밤",
+            "오늘",
+            "내일",
+            "어제",
+            "지금",
+            "나중에",
+            "일찍",
+            "아침에.",
+            "내일 봐요.",
+            "이른 아침이에요.",
+            "지금 한가해요.",
+            "나중에 봐요.",
+            "오후에."
+          ],
+          "practiceHref": "time",
+          "id": "38c2ea1c36d2",
+          "title": "Time",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "어머니",
+            "아버지",
+            "자매",
+            "형제",
+            "딸",
+            "아들",
+            "아내",
+            "남편",
+            "친구",
+            "아이",
+            "제 어머니예요.",
+            "아버지가 키가 크세요.",
+            "여자 형제가 있어요.",
+            "남자 형제가 젊어요.",
+            "그녀는 제 친구예요.",
+            "아이가 행복해요.",
+            "제 아내는 친절해요."
+          ],
+          "practiceHref": "family",
+          "id": "d7279e4777cd",
+          "title": "Family",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "집",
+            "문",
+            "창문",
+            "부엌",
+            "침실",
+            "정원",
+            "차고",
+            "계단",
+            "마당",
+            "지붕",
+            "이게 제 집이에요.",
+            "문을 여세요.",
+            "부엌이 커요.",
+            "침실이 깨끗해요.",
+            "정원이 있어요.",
+            "창문을 닫으세요."
+          ],
+          "practiceHref": "home",
+          "id": "379dca1c8ae9",
+          "title": "Home",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "의사",
+            "병원",
+            "약",
+            "두통",
+            "열",
+            "기침",
+            "통증",
+            "약국",
+            "휴식",
+            "복통",
+            "의사가 필요해요.",
+            "병원이 어디예요?",
+            "두통이 있어요.",
+            "열이 있어요.",
+            "이 약을 드세요.",
+            "휴식이 필요해요.",
+            "복통이 있어요."
+          ],
+          "practiceHref": "health",
+          "id": "e859eeaa5871",
+          "title": "Health",
+          "levels": 4
+        }
+      ]
+    },
+    {
       "title": "Conversations",
       "skills": [
         {

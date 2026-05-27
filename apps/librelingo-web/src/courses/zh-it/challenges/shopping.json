@@ -1,0 +1,482 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Quanto costa questo?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "104fe5f12d70",
+      "priority": 0,
+      "group": "ed710f2406b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Quanto costa questo?",
+      "meaning": "这个多少钱？",
+      "audio": "f6498c0cbe876fdeb3219cc5177173f0ee49ae6b7e8859d795837894db3651df",
+      "id": "a808ebc3abd6",
+      "priority": 1,
+      "group": "ed710f2406b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "È troppo caro.",
+      "meaningInSourceLanguage": "太贵了。",
+      "id": "4e33eeb20f22",
+      "priority": 0,
+      "group": "3616cca8bd14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "È troppo caro.",
+      "meaning": "太贵了。",
+      "audio": "5a510950665405bafe9e4681a19b1d901c331c17b5a7c2229366ce5d7ddbac28",
+      "id": "beb6faf63a50",
+      "priority": 1,
+      "group": "3616cca8bd14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Questa è buona qualità.",
+      "meaningInSourceLanguage": "这个质量很好。",
+      "id": "e249bd9183b8",
+      "priority": 0,
+      "group": "0f264e42813b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Questa è buona qualità.",
+      "meaning": "这个质量很好。",
+      "audio": "623b181e36c097e29d02a92d492f93f989cba1bd8fe6fefa31371c5647c313d7",
+      "id": "cd7ec5abdcdf",
+      "priority": 1,
+      "group": "0f264e42813b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il negozio è aperto?",
+      "meaningInSourceLanguage": "商店开门吗？",
+      "id": "42724d201b05",
+      "priority": 0,
+      "group": "80b8933ae8b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il negozio è aperto?",
+      "meaning": "商店开门吗？",
+      "audio": "a71261970ad5bf626a6865b4be8cf2614309bf63dc524085bcbddd2aa5b4a969",
+      "id": "38f0a40a0ee0",
+      "priority": 1,
+      "group": "80b8933ae8b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Oggi è chiuso.",
+      "meaningInSourceLanguage": "今天关门了。",
+      "id": "efaee7f1bbfe",
+      "priority": 0,
+      "group": "dbe8d2eabcc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Oggi è chiuso.",
+      "meaning": "今天关门了。",
+      "audio": "2306c7a3fa704e2ab7877e31d288502252da1645734b50c692406bb18435a254",
+      "id": "6eb045d31ed2",
+      "priority": 1,
+      "group": "dbe8d2eabcc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso rendere questo?",
+      "meaningInSourceLanguage": "能退货吗？",
+      "id": "070100d417ae",
+      "priority": 0,
+      "group": "30f0964d11af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso rendere questo?",
+      "meaning": "能退货吗？",
+      "audio": "51d80f6170be72372f1a8a2b941fad287447626da51e1e203978cfbfa2c0cebe",
+      "id": "e3976092fec1",
+      "priority": 1,
+      "group": "30f0964d11af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il negozio è laggiù.",
+      "meaningInSourceLanguage": "商店在那里。",
+      "id": "aa8fb371d68e",
+      "priority": 0,
+      "group": "f830d6e364ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il negozio è laggiù.",
+      "meaning": "商店在那里。",
+      "audio": "6c3df49a907a56b35bc967658f58dcd543278623535c28a37478d51557b3f70e",
+      "id": "9e2d9a23d2b2",
+      "priority": 1,
+      "group": "f830d6e364ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Non ho soldi.",
+      "meaningInSourceLanguage": "我没钱。",
+      "id": "a1d85c8696cd",
+      "priority": 0,
+      "group": "d225305f1cd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Non ho soldi.",
+      "meaning": "我没钱。",
+      "audio": "59312dabb23689aaac6f0fa7e97fd1141f8cbf7793e601402e2b201f5fc6b495",
+      "id": "c14f550ec9b9",
+      "priority": 1,
+      "group": "d225305f1cd3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "negozio",
+      "meaningInSourceLanguage": "商店",
+      "id": "806b9febdcfa",
+      "priority": 0,
+      "group": "ef33338adbfd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "negozio"
+      ],
+      "phrase": [
+        {
+          "word": "商店",
+          "definition": "negozio"
+        }
+      ],
+      "id": "ae38d5b03a89",
+      "priority": 1,
+      "group": "ef33338adbfd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "negozio",
+      "meaning": "商店",
+      "audio": "f971df2ae8ed61d0bc999346085bfe1587b10d4b58a342b42cfddd4e5f287b92",
+      "id": "1d70e1756d68",
+      "priority": 1,
+      "group": "ef33338adbfd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "prezzo",
+      "meaningInSourceLanguage": "价格",
+      "id": "c5d96eb2135f",
+      "priority": 0,
+      "group": "b50c2b20b8dc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "prezzo"
+      ],
+      "phrase": [
+        {
+          "word": "价格",
+          "definition": "prezzo"
+        }
+      ],
+      "id": "03e5a4cebb57",
+      "priority": 1,
+      "group": "b50c2b20b8dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prezzo",
+      "meaning": "价格",
+      "audio": "e032918539b23484b5e2b6fb0561f1df4a87fecdcd42eee6bd81d318945168f0",
+      "id": "fe3e0bc9c30a",
+      "priority": 1,
+      "group": "b50c2b20b8dc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "caro",
+      "meaningInSourceLanguage": "贵的",
+      "id": "9629ded10724",
+      "priority": 0,
+      "group": "42f43d61e040"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "caro"
+      ],
+      "phrase": [
+        {
+          "word": "贵的",
+          "definition": "caro"
+        }
+      ],
+      "id": "d267d7d18abd",
+      "priority": 1,
+      "group": "42f43d61e040"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "caro",
+      "meaning": "贵的",
+      "audio": "7d5e5b92d7c7f03b69f3ff37bc03a469183987754ee3057b10ab1ca6486c1a48",
+      "id": "42f9c0ee629e",
+      "priority": 1,
+      "group": "42f43d61e040"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "economico",
+      "meaningInSourceLanguage": "便宜的",
+      "id": "99679a5db2ce",
+      "priority": 0,
+      "group": "86cb4ee4c3be"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "economico"
+      ],
+      "phrase": [
+        {
+          "word": "便宜的",
+          "definition": "economico"
+        }
+      ],
+      "id": "26215fe38180",
+      "priority": 1,
+      "group": "86cb4ee4c3be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "economico",
+      "meaning": "便宜的",
+      "audio": "785224ce3699633e8b614e0868ca221c94300d2d7908615d02dbb1ab95b377b8",
+      "id": "58a9ad77044b",
+      "priority": 1,
+      "group": "86cb4ee4c3be"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "soldi",
+      "meaningInSourceLanguage": "钱",
+      "id": "b0b22fc92e06",
+      "priority": 0,
+      "group": "06dc04460979"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "soldi"
+      ],
+      "phrase": [
+        {
+          "word": "钱",
+          "definition": "soldi"
+        }
+      ],
+      "id": "f81e6de2806f",
+      "priority": 1,
+      "group": "06dc04460979"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soldi",
+      "meaning": "钱",
+      "audio": "4081b8036f0d71383d48310c296b281c24fa3ddcb83cfcad4ed3c47dcdbaf915",
+      "id": "46d87a695483",
+      "priority": 1,
+      "group": "06dc04460979"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "qualità",
+      "meaningInSourceLanguage": "质量",
+      "id": "2ec48c505122",
+      "priority": 0,
+      "group": "5062dc1e90e9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "qualità"
+      ],
+      "phrase": [
+        {
+          "word": "质量",
+          "definition": "qualità"
+        }
+      ],
+      "id": "e685f675878e",
+      "priority": 1,
+      "group": "5062dc1e90e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "qualità",
+      "meaning": "质量",
+      "audio": "25d33c5a345b86f624b3afe67b2439dec6c27b3569302bbfc3232a7c812e556e",
+      "id": "2e7e048573ac",
+      "priority": 1,
+      "group": "5062dc1e90e9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "marca",
+      "meaningInSourceLanguage": "品牌",
+      "id": "a1f81f6005c0",
+      "priority": 0,
+      "group": "2223165dcbf2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "marca"
+      ],
+      "phrase": [
+        {
+          "word": "品牌",
+          "definition": "marca"
+        }
+      ],
+      "id": "6326a308de07",
+      "priority": 1,
+      "group": "2223165dcbf2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marca",
+      "meaning": "品牌",
+      "audio": "8064a94019f5f422357bd14cfef660cae3d27a45a11fcd80deacd5e44de9e856",
+      "id": "90af6c2af078",
+      "priority": 1,
+      "group": "2223165dcbf2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "reso",
+      "meaningInSourceLanguage": "退货",
+      "id": "3bc4c38fba38",
+      "priority": 0,
+      "group": "8c10de0833ce"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "reso"
+      ],
+      "phrase": [
+        {
+          "word": "退货",
+          "definition": "reso"
+        }
+      ],
+      "id": "b959a1989e5a",
+      "priority": 1,
+      "group": "8c10de0833ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reso",
+      "meaning": "退货",
+      "audio": "b52ab2364e0c06760b4a1c0ca87615e8483f89624743c2415243f0ba3421052a",
+      "id": "1d11711879f3",
+      "priority": 1,
+      "group": "8c10de0833ce"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "aperto",
+      "meaningInSourceLanguage": "营业",
+      "id": "0ca2114b3a33",
+      "priority": 0,
+      "group": "80430dc1e648"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "aperto"
+      ],
+      "phrase": [
+        {
+          "word": "营业",
+          "definition": "aperto"
+        }
+      ],
+      "id": "b4d1a82058a8",
+      "priority": 1,
+      "group": "80430dc1e648"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aperto",
+      "meaning": "营业",
+      "audio": "6ec106d4cd3d8c851179bcd9348700f582573c8a3b7952bc29281a6a28896a14",
+      "id": "9aae4dea0a30",
+      "priority": 1,
+      "group": "80430dc1e648"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "chiuso",
+      "meaningInSourceLanguage": "关门",
+      "id": "e72ddab100ce",
+      "priority": 0,
+      "group": "1e4ba2cb6611"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "chiuso"
+      ],
+      "phrase": [
+        {
+          "word": "关门",
+          "definition": "chiuso"
+        }
+      ],
+      "id": "e3fece89d6b3",
+      "priority": 1,
+      "group": "1e4ba2cb6611"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chiuso",
+      "meaning": "关门",
+      "audio": "6d85c2817dbf5cd39ad33a58734057c0c31a06a0fec29e929a4d8a0b699c135e",
+      "id": "fcc6cbfd99a7",
+      "priority": 1,
+      "group": "1e4ba2cb6611"
+    }
+  ]
+}

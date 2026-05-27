@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - discount: 折扣
     - receipt: 收据
-    - color: 颜色
     - cash: 现金
     - credit card: 信用卡
-    - How much: 多少钱
+    - discount: 折扣
+    - color: 颜色
     - too expensive: 太贵
     - exchange: 换货
-    - size: 尺寸
+    - How much: 多少钱
     - try on: 试穿
+    - size: 尺寸
   Chinese:
-    - 多少钱: How much
     - 太贵: too expensive
-    - 收据: receipt
     - 尺寸: size
     - 信用卡: credit card
-    - 现金: cash
-    - 颜色: color
-    - 换货: exchange
-    - 试穿: try on
+    - 多少钱: How much
+    - 收据: receipt
     - 折扣: discount
+    - 换货: exchange
+    - 颜色: color
+    - 现金: cash
+    - 试穿: try on

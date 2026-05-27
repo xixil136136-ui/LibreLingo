@@ -1,0 +1,70 @@
+Skill:
+  Name: Restaurant
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: ресторан
+    Translation: 餐厅
+  - Word: напиток
+    Translation: 饮料
+  - Word: еда
+    Translation: 食物
+  - Word: салфетка
+    Translation: 餐巾
+  - Word: соль
+    Translation: 盐
+  - Word: перец
+    Translation: 胡椒
+  - Word: стакан
+    Translation: 玻璃杯
+  - Word: бутылка
+    Translation: 瓶子
+  - Word: десерт
+    Translation: 甜点
+  - Word: главное блюдо
+    Translation: 主菜
+
+Phrases:
+  - Phrase: Я хочу напиток.
+    Translation: 我想要一杯饮料。
+  - Phrase: Еда вкусная.
+    Translation: 食物很好。
+  - Phrase: Можно стакан воды?
+    Translation: 能给我一杯水吗？
+  - Phrase: Нам нужна бутылка вина.
+    Translation: 我们需要一瓶酒。
+  - Phrase: Я бы хотел десерт.
+    Translation: 我想要甜点。
+  - Phrase: Передайте соль, пожалуйста.
+    Translation: 请把盐递给我。
+
+Mini-dictionary:
+  Russian:
+    - главное блюдо: 主菜
+    - салфетка: 餐巾
+    - напиток: 饮料
+    - еда: 食物
+    - бутылка: 瓶子
+    - перец: 胡椒
+    - десерт: 甜点
+    - ресторан: 餐厅
+    - соль: 盐
+    - стакан: 玻璃杯
+  Chinese:
+    - 餐巾: салфетка
+    - 甜点: десерт
+    - 玻璃杯: стакан
+    - 瓶子: бутылка
+    - 主菜: главное блюдо
+    - 胡椒: перец
+    - 饮料: напиток
+    - 食物: еда
+    - 盐: соль
+    - 餐厅: ресторан

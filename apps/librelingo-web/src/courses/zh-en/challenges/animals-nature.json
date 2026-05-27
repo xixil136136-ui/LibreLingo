@@ -1,0 +1,4596 @@
+{
+  "id": "b3b7951d652f",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "blizzard",
+      "meaningInSourceLanguage": "暴风雪",
+      "id": "9323bba60e7b",
+      "priority": 0,
+      "group": "03f0908ee0ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blizzard",
+      "meaning": "暴风雪",
+      "audio": "a88326ff046a4cfebd289edeb5c5f57f",
+      "id": "688224a5a69b",
+      "priority": 1,
+      "group": "03f0908ee0ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "frost",
+      "meaningInSourceLanguage": "霜",
+      "id": "4650240f2495",
+      "priority": 0,
+      "group": "7b59377b6451"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frost",
+      "meaning": "霜",
+      "audio": "4f997c2d35db49b99f590003a449ee89",
+      "id": "b59fbd9936fa",
+      "priority": 1,
+      "group": "7b59377b6451"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dew",
+      "meaningInSourceLanguage": "露水",
+      "id": "353ca66b42cb",
+      "priority": 0,
+      "group": "3b8d7419649f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dew",
+      "meaning": "露水",
+      "audio": "7c7b7f29d95c4e8fb94b7879ce83725d",
+      "id": "f98588a82af3",
+      "priority": 1,
+      "group": "3b8d7419649f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mist",
+      "meaningInSourceLanguage": "薄雾",
+      "id": "1a00429477d4",
+      "priority": 0,
+      "group": "a9b67011836e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mist",
+      "meaning": "薄雾",
+      "audio": "c54008945eb543fc9c84fb340decf26b",
+      "id": "54889b04dc47",
+      "priority": 1,
+      "group": "a9b67011836e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smog",
+      "meaningInSourceLanguage": "烟雾",
+      "id": "666ae4cd8109",
+      "priority": 0,
+      "group": "1b351f6f7f41"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smog",
+      "meaning": "烟雾",
+      "audio": "2ba5cf449a7649b6af07d573513b9a85",
+      "id": "3e66188dc350",
+      "priority": 1,
+      "group": "1b351f6f7f41"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "haze",
+      "meaningInSourceLanguage": "霾",
+      "id": "db07c32c5ddc",
+      "priority": 0,
+      "group": "9a025942ae5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "haze",
+      "meaning": "霾",
+      "audio": "e8dd44ef92b647f6a397d887c7a0cb8a",
+      "id": "438e7de76ada",
+      "priority": 1,
+      "group": "9a025942ae5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pressure",
+      "meaningInSourceLanguage": "气压",
+      "id": "a663aa3e9d2f",
+      "priority": 0,
+      "group": "adcc793657c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pressure",
+      "meaning": "气压",
+      "audio": "15dbbc16add245e487125bfece3b712c",
+      "id": "58d49d0a6dc0",
+      "priority": 1,
+      "group": "adcc793657c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "barometer",
+      "meaningInSourceLanguage": "气压计",
+      "id": "69dfc59e6eda",
+      "priority": 0,
+      "group": "96aece139fe6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "barometer",
+      "meaning": "气压计",
+      "audio": "75bf162784c04673931ca18b27f8fd81",
+      "id": "9557dba5dff5",
+      "priority": 1,
+      "group": "96aece139fe6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thermometer",
+      "meaningInSourceLanguage": "温度计",
+      "id": "b8b8faa58da2",
+      "priority": 0,
+      "group": "1de0db890b07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thermometer",
+      "meaning": "温度计",
+      "audio": "bdb205c80cb4472d97f305927e8580a8",
+      "id": "ad18512ad17c",
+      "priority": 1,
+      "group": "1de0db890b07"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anemometer",
+      "meaningInSourceLanguage": "风速计",
+      "id": "d0fbb8f18151",
+      "priority": 0,
+      "group": "64c4fb254756"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anemometer",
+      "meaning": "风速计",
+      "audio": "b46871d582aa45db945ea787f827e363",
+      "id": "45285f328473",
+      "priority": 1,
+      "group": "64c4fb254756"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "northern lights",
+      "meaningInSourceLanguage": "北极光",
+      "id": "685f0c0f37cd",
+      "priority": 0,
+      "group": "d088ad11b17b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "northern lights",
+      "meaning": "北极光",
+      "audio": "493cad37b74641b9a75768bbc153853b",
+      "id": "8cd4ea9e044c",
+      "priority": 1,
+      "group": "d088ad11b17b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "southern lights",
+      "meaningInSourceLanguage": "南极光",
+      "id": "462345f7c29c",
+      "priority": 0,
+      "group": "60444dfb9d97"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "southern lights",
+      "meaning": "南极光",
+      "audio": "4519eca60a1d420d8cef5ee146e3809f",
+      "id": "3b9ed3ee45ca",
+      "priority": 1,
+      "group": "60444dfb9d97"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eclipse",
+      "meaningInSourceLanguage": "日食",
+      "id": "8e9cd6459b69",
+      "priority": 0,
+      "group": "eb0612febc16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eclipse",
+      "meaning": "日食",
+      "audio": "36f9bfcee17b47ab92d8e45b8e3d3218",
+      "id": "71067b1cbbf2",
+      "priority": 1,
+      "group": "eb0612febc16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solar eclipse",
+      "meaningInSourceLanguage": "日食",
+      "id": "ed268984f7cf",
+      "priority": 0,
+      "group": "57de1398d59d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solar eclipse",
+      "meaning": "日食",
+      "audio": "f7d8fcfa983e46faa674c92a30e5089c",
+      "id": "ae35aeae3494",
+      "priority": 1,
+      "group": "57de1398d59d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lunar eclipse",
+      "meaningInSourceLanguage": "月食",
+      "id": "ea49819ffb1a",
+      "priority": 0,
+      "group": "809bbf676a2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lunar eclipse",
+      "meaning": "月食",
+      "audio": "0b8edf032e834e4a925630dcaafcebab",
+      "id": "073070024fd9",
+      "priority": 1,
+      "group": "809bbf676a2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "constellation",
+      "meaningInSourceLanguage": "星座",
+      "id": "086f28996376",
+      "priority": 0,
+      "group": "aabe1307ac7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "constellation",
+      "meaning": "星座",
+      "audio": "17d2871df69d4a05a17b28582fb24fa8",
+      "id": "0d70758bb1ae",
+      "priority": 1,
+      "group": "aabe1307ac7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "galaxy",
+      "meaningInSourceLanguage": "星系",
+      "id": "fe493d7a3ce3",
+      "priority": 0,
+      "group": "1538774f2377"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "galaxy",
+      "meaning": "星系",
+      "audio": "26460c31e7ed4f4d8ade86b16551ec0b",
+      "id": "f21cfaf20b12",
+      "priority": 1,
+      "group": "1538774f2377"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "universe",
+      "meaningInSourceLanguage": "宇宙",
+      "id": "277ad2181d79",
+      "priority": 0,
+      "group": "fa2d285df95f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "universe",
+      "meaning": "宇宙",
+      "audio": "e12fd6fc55fd4ce489ea4c4a90d7d9a4",
+      "id": "c09956da2219",
+      "priority": 1,
+      "group": "fa2d285df95f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comet",
+      "meaningInSourceLanguage": "彗星",
+      "id": "659f67b9472f",
+      "priority": 0,
+      "group": "5450925f9eb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comet",
+      "meaning": "彗星",
+      "audio": "84312445c5c6431ab9085a463be2e643",
+      "id": "cf0b4d21d820",
+      "priority": 1,
+      "group": "5450925f9eb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "asteroid",
+      "meaningInSourceLanguage": "小行星",
+      "id": "60e3d2c62cd7",
+      "priority": 0,
+      "group": "d1a3fc96c937"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "asteroid",
+      "meaning": "小行星",
+      "audio": "7dd9e1af05994d4fa967a581071db8bf",
+      "id": "1e351390616f",
+      "priority": 1,
+      "group": "d1a3fc96c937"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meteor",
+      "meaningInSourceLanguage": "流星",
+      "id": "8bdb3459a0a8",
+      "priority": 0,
+      "group": "8cc26dd9ce1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meteor",
+      "meaning": "流星",
+      "audio": "78433e2c564042b5a81df5c0e66883e8",
+      "id": "a7c233ae4969",
+      "priority": 1,
+      "group": "8cc26dd9ce1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orbit",
+      "meaningInSourceLanguage": "轨道",
+      "id": "65d141ca9bc4",
+      "priority": 0,
+      "group": "b8ee521c1814"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orbit",
+      "meaning": "轨道",
+      "audio": "8f7def4ad4d4444bb2c0f941fa451f78",
+      "id": "ba7cae1e8f88",
+      "priority": 1,
+      "group": "b8ee521c1814"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gravity",
+      "meaningInSourceLanguage": "重力",
+      "id": "78d37057496b",
+      "priority": 0,
+      "group": "cdd80ace7abe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gravity",
+      "meaning": "重力",
+      "audio": "bd7c5a0fd3b241f99fd7859f4928dbb8",
+      "id": "f603c25f5bb0",
+      "priority": 1,
+      "group": "cdd80ace7abe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "magnetism",
+      "meaningInSourceLanguage": "磁力",
+      "id": "7ec59091c701",
+      "priority": 0,
+      "group": "c991cf7dc393"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "magnetism",
+      "meaning": "磁力",
+      "audio": "66889de0c4fd450ca8b61c68ab04faff",
+      "id": "16fa6eed23a4",
+      "priority": 1,
+      "group": "c991cf7dc393"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bay",
+      "meaningInSourceLanguage": "海湾",
+      "id": "eaa0251a2987",
+      "priority": 0,
+      "group": "ecb18e73f07c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bay",
+      "meaning": "海湾",
+      "audio": "6b22eaf7c2b8440999661b37301d8a00",
+      "id": "8459da04c954",
+      "priority": 1,
+      "group": "ecb18e73f07c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peninsula",
+      "meaningInSourceLanguage": "半岛",
+      "id": "15f86316a3a4",
+      "priority": 0,
+      "group": "2a8bfd215a25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peninsula",
+      "meaning": "半岛",
+      "audio": "53ef149b12ef47aab61b65fc5edca90c",
+      "id": "f5cefdc57232",
+      "priority": 1,
+      "group": "2a8bfd215a25"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cape",
+      "meaningInSourceLanguage": "海角",
+      "id": "18afcb7ccd3c",
+      "priority": 0,
+      "group": "1f3eb8a320b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cape",
+      "meaning": "海角",
+      "audio": "87c0004be8b14d10bc0955216c66b461",
+      "id": "63f45b0238f0",
+      "priority": 1,
+      "group": "1f3eb8a320b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cliff",
+      "meaningInSourceLanguage": "悬崖",
+      "id": "d4cea871acc1",
+      "priority": 0,
+      "group": "ac9fe803f19e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cliff",
+      "meaning": "悬崖",
+      "audio": "30f11f9012fc446cb44a658b0286d963",
+      "id": "68d94b006cbf",
+      "priority": 1,
+      "group": "ac9fe803f19e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peak",
+      "meaningInSourceLanguage": "山峰",
+      "id": "76bcb885b81d",
+      "priority": 0,
+      "group": "6eae3e8d3b18"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peak",
+      "meaning": "山峰",
+      "audio": "31fb0b590d394e31a40167ba76852981",
+      "id": "430c36406de2",
+      "priority": 1,
+      "group": "6eae3e8d3b18"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "summit",
+      "meaningInSourceLanguage": "山顶",
+      "id": "22a9cfecb21a",
+      "priority": 0,
+      "group": "4c411beaf74d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "summit",
+      "meaning": "山顶",
+      "audio": "2438bf56fe0a4e858a615e9b5c1203c1",
+      "id": "6e0c4a678c17",
+      "priority": 1,
+      "group": "4c411beaf74d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ridge",
+      "meaningInSourceLanguage": "山脊",
+      "id": "7cd1a2e1bae8",
+      "priority": 0,
+      "group": "17cc4525c127"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ridge",
+      "meaning": "山脊",
+      "audio": "a267cc748a714e39bc827b8b213d1b57",
+      "id": "4f54bb8685f6",
+      "priority": 1,
+      "group": "17cc4525c127"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "slope",
+      "meaningInSourceLanguage": "斜坡",
+      "id": "301e79a532ab",
+      "priority": 0,
+      "group": "7c58ecbb9d72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "slope",
+      "meaning": "斜坡",
+      "audio": "b08f70a013884788bcc94c0fc3cfdb6c",
+      "id": "30b335cbef6e",
+      "priority": 1,
+      "group": "7c58ecbb9d72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plain",
+      "meaningInSourceLanguage": "平原",
+      "id": "eebe440a16ad",
+      "priority": 0,
+      "group": "b6fa05ac16eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plain",
+      "meaning": "平原",
+      "audio": "97ba4d6a33984645afebf57594b16562",
+      "id": "fe6aa4adfe1d",
+      "priority": 1,
+      "group": "b6fa05ac16eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plateau",
+      "meaningInSourceLanguage": "高原",
+      "id": "525c4fd3a558",
+      "priority": 0,
+      "group": "2e3e98ba9271"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plateau",
+      "meaning": "高原",
+      "audio": "336c94f6cd5644f3b77ce411607e3d4b",
+      "id": "a7e40be2b7db",
+      "priority": 1,
+      "group": "2e3e98ba9271"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "canyon",
+      "meaningInSourceLanguage": "峡谷",
+      "id": "222f3f913826",
+      "priority": 0,
+      "group": "d89b27afdbb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "canyon",
+      "meaning": "峡谷",
+      "audio": "93815bfe3f074e9f9640697e57825346",
+      "id": "2750972c1c9b",
+      "priority": 1,
+      "group": "d89b27afdbb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gorge",
+      "meaningInSourceLanguage": "峡谷",
+      "id": "934d840a7268",
+      "priority": 0,
+      "group": "7cad5f228ab9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gorge",
+      "meaning": "峡谷",
+      "audio": "3adfdb2cbc6c426eb8b867d9c1337c1e",
+      "id": "12be3017e16d",
+      "priority": 1,
+      "group": "7cad5f228ab9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oasis",
+      "meaningInSourceLanguage": "绿洲",
+      "id": "fb165163d2ba",
+      "priority": 0,
+      "group": "7466abceb3e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oasis",
+      "meaning": "绿洲",
+      "audio": "0f61f3cab47242579cc83f38cf19b70c",
+      "id": "4f3e554ff421",
+      "priority": 1,
+      "group": "7466abceb3e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "swamp",
+      "meaningInSourceLanguage": "沼泽",
+      "id": "8aeb456eb66a",
+      "priority": 0,
+      "group": "4e2c89816f15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "swamp",
+      "meaning": "沼泽",
+      "audio": "266b51ccf68f43c2b364ff16ca9b7c34",
+      "id": "85135e9228c8",
+      "priority": 1,
+      "group": "4e2c89816f15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marsh",
+      "meaningInSourceLanguage": "湿地",
+      "id": "db2b2816bbee",
+      "priority": 0,
+      "group": "45fcb2b0ff74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marsh",
+      "meaning": "湿地",
+      "audio": "83552b53212a4055a3b125101146e461",
+      "id": "817a90962b10",
+      "priority": 1,
+      "group": "45fcb2b0ff74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pond",
+      "meaningInSourceLanguage": "池塘",
+      "id": "c4323750a787",
+      "priority": 0,
+      "group": "b39e34d3ed4d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pond",
+      "meaning": "池塘",
+      "audio": "63a80924fa684521ac16941c8c9f168d",
+      "id": "d151b0da0418",
+      "priority": 1,
+      "group": "b39e34d3ed4d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stream",
+      "meaningInSourceLanguage": "小溪",
+      "id": "41c7384c3d25",
+      "priority": 0,
+      "group": "dbeb1325f21e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stream",
+      "meaning": "小溪",
+      "audio": "485e21f5897f4a6f8bf7768a03702f63",
+      "id": "6850cbf1d831",
+      "priority": 1,
+      "group": "dbeb1325f21e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brook",
+      "meaningInSourceLanguage": "溪流",
+      "id": "bda6ba8462cf",
+      "priority": 0,
+      "group": "b261c4750083"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brook",
+      "meaning": "溪流",
+      "audio": "60e48ccebed04f5793c30ba829c01919",
+      "id": "2a5b330570c3",
+      "priority": 1,
+      "group": "b261c4750083"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "glacier",
+      "meaningInSourceLanguage": "冰川",
+      "id": "5e05b27f67bf",
+      "priority": 0,
+      "group": "9c0691758970"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "glacier",
+      "meaning": "冰川",
+      "audio": "4098d121bc4542cc99e3040b9458d260",
+      "id": "ce499617a38b",
+      "priority": 1,
+      "group": "9c0691758970"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "iceberg",
+      "meaningInSourceLanguage": "冰山",
+      "id": "e7bbe59c92e8",
+      "priority": 0,
+      "group": "f98b64183709"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "iceberg",
+      "meaning": "冰山",
+      "audio": "c2a84e24f0f64d25a070d282bee16c65",
+      "id": "0e3d19bbac45",
+      "priority": 1,
+      "group": "f98b64183709"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "polar ice cap",
+      "meaningInSourceLanguage": "极地冰盖",
+      "id": "a8962f5c2aa5",
+      "priority": 0,
+      "group": "c7e06667a583"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "polar ice cap",
+      "meaning": "极地冰盖",
+      "audio": "d3d5272748014c2aa91b36da2031fb94",
+      "id": "85a39441b75c",
+      "priority": 1,
+      "group": "c7e06667a583"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "equator",
+      "meaningInSourceLanguage": "赤道",
+      "id": "01cd960f0d94",
+      "priority": 0,
+      "group": "6c4090649a94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "equator",
+      "meaning": "赤道",
+      "audio": "8340c25b5938401f8d584fee07083b89",
+      "id": "4357897acc4a",
+      "priority": 1,
+      "group": "6c4090649a94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tropic",
+      "meaningInSourceLanguage": "热带",
+      "id": "918e4cfe4f88",
+      "priority": 0,
+      "group": "45ab71584d21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tropic",
+      "meaning": "热带",
+      "audio": "a73a33944a604690b2ef6a586d5d4012",
+      "id": "a2cded47c3a5",
+      "priority": 1,
+      "group": "45ab71584d21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arctic",
+      "meaningInSourceLanguage": "北极",
+      "id": "8ce3c6134261",
+      "priority": 0,
+      "group": "f43a06eac8d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arctic",
+      "meaning": "北极",
+      "audio": "bb6d6a570fa34b03aeb715f01d283acf",
+      "id": "e75f32858bac",
+      "priority": 1,
+      "group": "f43a06eac8d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antarctic",
+      "meaningInSourceLanguage": "南极",
+      "id": "54aa1698aaee",
+      "priority": 0,
+      "group": "bb38a3dbb4ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antarctic",
+      "meaning": "南极",
+      "audio": "9537363bbb5640a6992c79cc706d2b45",
+      "id": "e19e84b4183a",
+      "priority": 1,
+      "group": "bb38a3dbb4ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "temperate",
+      "meaningInSourceLanguage": "温带的",
+      "id": "a269f4905b1b",
+      "priority": 0,
+      "group": "ab4f6cc25a05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temperate",
+      "meaning": "温带的",
+      "audio": "41d6a6d24dee48048db4c06495dd7660",
+      "id": "498a67f348bf",
+      "priority": 1,
+      "group": "ab4f6cc25a05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "continental",
+      "meaningInSourceLanguage": "大陆的",
+      "id": "7658e76291a0",
+      "priority": 0,
+      "group": "7035829ade5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "continental",
+      "meaning": "大陆的",
+      "audio": "663c4150b1fb493793c1b2b0e3b7ee63",
+      "id": "cba838658cc8",
+      "priority": 1,
+      "group": "7035829ade5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coastal",
+      "meaningInSourceLanguage": "沿海的",
+      "id": "ddbb9c20bb70",
+      "priority": 0,
+      "group": "f8ebd0f54255"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coastal",
+      "meaning": "沿海的",
+      "audio": "2f250ba921c4406fb375288859811fb9",
+      "id": "dca480c38da6",
+      "priority": 1,
+      "group": "f8ebd0f54255"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rural",
+      "meaningInSourceLanguage": "乡村的",
+      "id": "8d139f83fbee",
+      "priority": 0,
+      "group": "e9cb44fddd32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rural",
+      "meaning": "乡村的",
+      "audio": "ec62e550209c4be5a62aaa6874860b2c",
+      "id": "8d354de7bd32",
+      "priority": 1,
+      "group": "e9cb44fddd32"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "urban",
+      "meaningInSourceLanguage": "城市的",
+      "id": "a98435c47d88",
+      "priority": 0,
+      "group": "ae9a64dc2a43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "urban",
+      "meaning": "城市的",
+      "audio": "cf7a553efb564d64861fe3f251c7afee",
+      "id": "7b4870c6eb79",
+      "priority": 1,
+      "group": "ae9a64dc2a43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suburban",
+      "meaningInSourceLanguage": "郊区的",
+      "id": "490221b8aa39",
+      "priority": 0,
+      "group": "da6e1ff60055"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suburban",
+      "meaning": "郊区的",
+      "audio": "a405118e30724417a5e1f1dbe75379a3",
+      "id": "94cd7a7c93a6",
+      "priority": 1,
+      "group": "da6e1ff60055"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "landscape",
+      "meaningInSourceLanguage": "风景",
+      "id": "aa24cd60196f",
+      "priority": 0,
+      "group": "3b61a2669325"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "landscape",
+      "meaning": "风景",
+      "audio": "dc4c95fbfb7f4aa990dc282b857a51ff",
+      "id": "5448920f7944",
+      "priority": 1,
+      "group": "3b61a2669325"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scenery",
+      "meaningInSourceLanguage": "景色",
+      "id": "5598c9b0a5da",
+      "priority": 0,
+      "group": "0f65de276ad4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scenery",
+      "meaning": "景色",
+      "audio": "6850955b4e974837af62d0522cc621c2",
+      "id": "560cef042b6d",
+      "priority": 1,
+      "group": "0f65de276ad4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vista",
+      "meaningInSourceLanguage": "远景",
+      "id": "c47c62664d81",
+      "priority": 0,
+      "group": "f0bca0430d9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vista",
+      "meaning": "远景",
+      "audio": "4914b276fc5c4b0f9918230af165da33",
+      "id": "0b90dc2b9fa5",
+      "priority": 1,
+      "group": "f0bca0430d9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "panorama",
+      "meaningInSourceLanguage": "全景",
+      "id": "975a27930ea4",
+      "priority": 0,
+      "group": "765f086dd915"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "panorama",
+      "meaning": "全景",
+      "audio": "a7cdb28211ab4118918c1ad2433e41e2",
+      "id": "825d63dfcb86",
+      "priority": 1,
+      "group": "765f086dd915"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "horizon",
+      "meaningInSourceLanguage": "地平线",
+      "id": "828937fbf631",
+      "priority": 0,
+      "group": "e7f341b36dd1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "horizon",
+      "meaning": "地平线",
+      "audio": "778b12bf0d734686a5f84b34d0288fa7",
+      "id": "95f70914ee30",
+      "priority": 1,
+      "group": "e7f341b36dd1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zenith",
+      "meaningInSourceLanguage": "天顶",
+      "id": "6c5729dd1675",
+      "priority": 0,
+      "group": "55abfc48fddd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zenith",
+      "meaning": "天顶",
+      "audio": "4e06fe045c564166a58ac8bff97e11f2",
+      "id": "5bd3f0c86379",
+      "priority": 1,
+      "group": "55abfc48fddd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shade",
+      "meaningInSourceLanguage": "树荫",
+      "id": "038f39d33243",
+      "priority": 0,
+      "group": "2fe64e88106f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shade",
+      "meaning": "树荫",
+      "audio": "012d6a8b06fd4eea9de9da76f1119ecb",
+      "id": "962646e11e3d",
+      "priority": 1,
+      "group": "2fe64e88106f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shadow",
+      "meaningInSourceLanguage": "影子",
+      "id": "ee87d46e0133",
+      "priority": 0,
+      "group": "434dfcd39c17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shadow",
+      "meaning": "影子",
+      "audio": "9269ff89cc334f479adf3d8eb2a91eaf",
+      "id": "9ad89146823d",
+      "priority": 1,
+      "group": "434dfcd39c17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reflection",
+      "meaningInSourceLanguage": "倒影",
+      "id": "b8747c78ecf7",
+      "priority": 0,
+      "group": "646835b6a6d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reflection",
+      "meaning": "倒影",
+      "audio": "64a69858290841a88ca98a8bbe71ac21",
+      "id": "21ef95ca7d37",
+      "priority": 1,
+      "group": "646835b6a6d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bloom",
+      "meaningInSourceLanguage": "开花",
+      "id": "f908d31d0dbb",
+      "priority": 0,
+      "group": "ab5788869ed6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bloom",
+      "meaning": "开花",
+      "audio": "fbccd7d6b1aa4a2682ab102d8f9610a7",
+      "id": "6f2197114d96",
+      "priority": 1,
+      "group": "ab5788869ed6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blossom",
+      "meaningInSourceLanguage": "花开",
+      "id": "e587512f43de",
+      "priority": 0,
+      "group": "c78157501974"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blossom",
+      "meaning": "花开",
+      "audio": "0f8a3ff74dc84852b5fd4ae7a82001b6",
+      "id": "e7964a09925a",
+      "priority": 1,
+      "group": "c78157501974"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "petal",
+      "meaningInSourceLanguage": "花瓣",
+      "id": "8f79580aea61",
+      "priority": 0,
+      "group": "57653729e1a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "petal",
+      "meaning": "花瓣",
+      "audio": "c95109074b464b6792de7df1214897d4",
+      "id": "54807e372345",
+      "priority": 1,
+      "group": "57653729e1a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "root",
+      "meaningInSourceLanguage": "根",
+      "id": "4816fa8aee3d",
+      "priority": 0,
+      "group": "daaf05f8008c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "root",
+      "meaning": "根",
+      "audio": "0291cd3d59ac4eb88c4c10d1bdede770",
+      "id": "e50da4a4d7c9",
+      "priority": 1,
+      "group": "daaf05f8008c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trunk",
+      "meaningInSourceLanguage": "树干",
+      "id": "5fe93dff5fb6",
+      "priority": 0,
+      "group": "2c44db12ecac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trunk",
+      "meaning": "树干",
+      "audio": "260819f1f1ce4313bfadc9cb81d09295",
+      "id": "bea2b57739e4",
+      "priority": 1,
+      "group": "2c44db12ecac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "branch",
+      "meaningInSourceLanguage": "树枝",
+      "id": "ad103182cab5",
+      "priority": 0,
+      "group": "525c15140fb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "branch",
+      "meaning": "树枝",
+      "audio": "ff550d48a4c64ef28dac4e6968185920",
+      "id": "acfe037d036f",
+      "priority": 1,
+      "group": "525c15140fb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "twig",
+      "meaningInSourceLanguage": "细枝",
+      "id": "fedfa7171ae2",
+      "priority": 0,
+      "group": "0dc4385f17f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "twig",
+      "meaning": "细枝",
+      "audio": "1ae6af97b42742a3af85232e0aab2c9f",
+      "id": "adb0a4de2a53",
+      "priority": 1,
+      "group": "0dc4385f17f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bark",
+      "meaningInSourceLanguage": "树皮",
+      "id": "9f0a23c4a455",
+      "priority": 0,
+      "group": "264417f92910"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bark",
+      "meaning": "树皮",
+      "audio": "aff7649b93ee4a6f971f1cf8a9bcaaa7",
+      "id": "2245651d16d5",
+      "priority": 1,
+      "group": "264417f92910"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seed",
+      "meaningInSourceLanguage": "种子",
+      "id": "4652e41c7dc7",
+      "priority": 0,
+      "group": "f3774cb6f0b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seed",
+      "meaning": "种子",
+      "audio": "63a6853d26104e158c6b576e6f2c3b8d",
+      "id": "edb1ba49bc0a",
+      "priority": 1,
+      "group": "f3774cb6f0b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fruit",
+      "meaningInSourceLanguage": "果实",
+      "id": "5d4be2d57c96",
+      "priority": 0,
+      "group": "5e8fb9589ec8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fruit",
+      "meaning": "果实",
+      "audio": "e37faa7b8a7c42bd8f98ad214b3637da",
+      "id": "2a56a9c77119",
+      "priority": 1,
+      "group": "5e8fb9589ec8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nut",
+      "meaningInSourceLanguage": "坚果",
+      "id": "9b109683f44e",
+      "priority": 0,
+      "group": "9a6329673e04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nut",
+      "meaning": "坚果",
+      "audio": "0275eced15994c0aa943a59467bb1766",
+      "id": "856e355bd8a4",
+      "priority": 1,
+      "group": "9a6329673e04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pine",
+      "meaningInSourceLanguage": "松树",
+      "id": "ce2f03be08d6",
+      "priority": 0,
+      "group": "6484452476d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pine",
+      "meaning": "松树",
+      "audio": "fe340c3570cf4d328fa4890a2ce0541f",
+      "id": "90aef282db8f",
+      "priority": 1,
+      "group": "6484452476d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oak",
+      "meaningInSourceLanguage": "橡树",
+      "id": "8fa79a8104a6",
+      "priority": 0,
+      "group": "75a9feb2af0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oak",
+      "meaning": "橡树",
+      "audio": "955ef74a3d0040328f2ba68f3be4b728",
+      "id": "0be94daeced8",
+      "priority": 1,
+      "group": "75a9feb2af0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "maple",
+      "meaningInSourceLanguage": "枫树",
+      "id": "f1781125f15a",
+      "priority": 0,
+      "group": "8bae38e0a888"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maple",
+      "meaning": "枫树",
+      "audio": "685528d843014a369bd5e94871536a18",
+      "id": "0db094170bf8",
+      "priority": 1,
+      "group": "8bae38e0a888"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "willow",
+      "meaningInSourceLanguage": "柳树",
+      "id": "165062475dce",
+      "priority": 0,
+      "group": "4ad44cd3580c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "willow",
+      "meaning": "柳树",
+      "audio": "43d8fdb6996d42c4835944ede5e7ce8e",
+      "id": "70a00fbda5e7",
+      "priority": 1,
+      "group": "4ad44cd3580c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "palm",
+      "meaningInSourceLanguage": "棕榈树",
+      "id": "faaa905f918d",
+      "priority": 0,
+      "group": "f3ca1dfea2b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "palm",
+      "meaning": "棕榈树",
+      "audio": "b3f3144962f141ef996e6e7fe4a12249",
+      "id": "1d1e93f9efe7",
+      "priority": 1,
+      "group": "f3ca1dfea2b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bamboo",
+      "meaningInSourceLanguage": "竹子",
+      "id": "2fa986d9c2a0",
+      "priority": 0,
+      "group": "60bf3b8d87ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bamboo",
+      "meaning": "竹子",
+      "audio": "f0fc75ef03734513bcac2f503be1280d",
+      "id": "a6297f68e186",
+      "priority": 1,
+      "group": "60bf3b8d87ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cactus",
+      "meaningInSourceLanguage": "仙人掌",
+      "id": "66b06ef391e5",
+      "priority": 0,
+      "group": "d229afd75bac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cactus",
+      "meaning": "仙人掌",
+      "audio": "3e8b19e901c0449d90edc10abcded86a",
+      "id": "c9f06484bfc6",
+      "priority": 1,
+      "group": "d229afd75bac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fern",
+      "meaningInSourceLanguage": "蕨类植物",
+      "id": "506b5e61659f",
+      "priority": 0,
+      "group": "bd25beec13c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fern",
+      "meaning": "蕨类植物",
+      "audio": "b50eb77af91a4cdc9522341556dcd5a6",
+      "id": "a5cc28982ae5",
+      "priority": 1,
+      "group": "bd25beec13c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "moss",
+      "meaningInSourceLanguage": "苔藓",
+      "id": "7fdd413154fd",
+      "priority": 0,
+      "group": "8280b1804dc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "moss",
+      "meaning": "苔藓",
+      "audio": "fed65fd08e0048cc950b618f625aecc5",
+      "id": "06073ebe88e7",
+      "priority": 1,
+      "group": "8280b1804dc1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "algae",
+      "meaningInSourceLanguage": "藻类",
+      "id": "3150be19e265",
+      "priority": 0,
+      "group": "bdb567da3aa0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "algae",
+      "meaning": "藻类",
+      "audio": "b16120faba694885baa2eaacbeedf978",
+      "id": "da3cc7d7c2a9",
+      "priority": 1,
+      "group": "bdb567da3aa0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fungus",
+      "meaningInSourceLanguage": "真菌",
+      "id": "6a286b5a1f50",
+      "priority": 0,
+      "group": "90ef471e71c8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fungus",
+      "meaning": "真菌",
+      "audio": "0fc5b4c4aab44196a6dd960e15a1480c",
+      "id": "03af7d6f07eb",
+      "priority": 1,
+      "group": "90ef471e71c8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mushroom",
+      "meaningInSourceLanguage": "蘑菇",
+      "id": "5e8972923f87",
+      "priority": 0,
+      "group": "f447c23a71a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mushroom",
+      "meaning": "蘑菇",
+      "audio": "44ca57f31e1d4f86a09dc818a06e8e2f",
+      "id": "e209174198d6",
+      "priority": 1,
+      "group": "f447c23a71a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "national park",
+      "meaningInSourceLanguage": "国家公园",
+      "id": "d50575c0d929",
+      "priority": 0,
+      "group": "9279866ea3d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "national park",
+      "meaning": "国家公园",
+      "audio": "d657ebf35b66402193bb44785a05729c",
+      "id": "f93bc1a6c6c0",
+      "priority": 1,
+      "group": "9279866ea3d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nature reserve",
+      "meaningInSourceLanguage": "自然保护区",
+      "id": "d7195486e20f",
+      "priority": 0,
+      "group": "ed7558723ac8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nature reserve",
+      "meaning": "自然保护区",
+      "audio": "0cc1d75a099f4006bf9f449d791ceb43",
+      "id": "c2abcf66cf1c",
+      "priority": 1,
+      "group": "ed7558723ac8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "green energy",
+      "meaningInSourceLanguage": "绿色能源",
+      "id": "b86735c83d61",
+      "priority": 0,
+      "group": "4171e425ae17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "green energy",
+      "meaning": "绿色能源",
+      "audio": "4f8dd50a410c437590949d994373d31e",
+      "id": "c90cd8c6af1e",
+      "priority": 1,
+      "group": "4171e425ae17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "carbon footprint",
+      "meaningInSourceLanguage": "碳足迹",
+      "id": "1d3de90fae29",
+      "priority": 0,
+      "group": "17047db96531"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carbon footprint",
+      "meaning": "碳足迹",
+      "audio": "a428cd2267a14faab90a87d053843790",
+      "id": "d026ded481ec",
+      "priority": 1,
+      "group": "17047db96531"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "climate change",
+      "meaningInSourceLanguage": "气候变化",
+      "id": "9d9021f527e0",
+      "priority": 0,
+      "group": "04e902b5a7c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "climate change",
+      "meaning": "气候变化",
+      "audio": "442a69785cb34da986b4b7837e79744f",
+      "id": "31c4759db7ff",
+      "priority": 1,
+      "group": "04e902b5a7c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ozone layer",
+      "meaningInSourceLanguage": "臭氧层",
+      "id": "6c6c74dca0f4",
+      "priority": 0,
+      "group": "f792131eda12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ozone layer",
+      "meaning": "臭氧层",
+      "audio": "05e34f4614ee49f897259c2b937b4f7c",
+      "id": "3fc5c1401af3",
+      "priority": 1,
+      "group": "f792131eda12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acid rain",
+      "meaningInSourceLanguage": "酸雨",
+      "id": "2eacc3babaa2",
+      "priority": 0,
+      "group": "d792be8afcd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acid rain",
+      "meaning": "酸雨",
+      "audio": "b476028ad8674f05b21282ab438d6dcd",
+      "id": "430864857b01",
+      "priority": 1,
+      "group": "d792be8afcd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deforestation",
+      "meaningInSourceLanguage": "森林砍伐",
+      "id": "5f262fefd75c",
+      "priority": 0,
+      "group": "ea3c35e43136"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deforestation",
+      "meaning": "森林砍伐",
+      "audio": "7be4aa5e2d8e487b98240df0abcdf604",
+      "id": "30687751c2e6",
+      "priority": 1,
+      "group": "ea3c35e43136"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reforestation",
+      "meaningInSourceLanguage": "重新造林",
+      "id": "b535be491e4d",
+      "priority": 0,
+      "group": "0854dd633738"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reforestation",
+      "meaning": "重新造林",
+      "audio": "fd735e0672be4473a087e013109511b4",
+      "id": "cc53de8dc1d9",
+      "priority": 1,
+      "group": "0854dd633738"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "biodiversity",
+      "meaningInSourceLanguage": "生物多样性",
+      "id": "9aa1bcccfb5c",
+      "priority": 0,
+      "group": "2e415ec16788"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "biodiversity",
+      "meaning": "生物多样性",
+      "audio": "295943b41af842cab429ffed05b3ad72",
+      "id": "d356703aa4e0",
+      "priority": 1,
+      "group": "2e415ec16788"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dog",
+      "meaningInSourceLanguage": "狗",
+      "id": "ebacf56564fd",
+      "priority": 0,
+      "group": "fc1eff3f2c96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dog",
+      "meaning": "狗",
+      "audio": "31e51d717c864fa5870d69b89a6ece6c",
+      "id": "16451085cc11",
+      "priority": 1,
+      "group": "fc1eff3f2c96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cat",
+      "meaningInSourceLanguage": "猫",
+      "id": "baa05b949196",
+      "priority": 0,
+      "group": "a49e166303c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cat",
+      "meaning": "猫",
+      "audio": "cd2fc754af8147fba17443d9a6757eab",
+      "id": "4687cda57b00",
+      "priority": 1,
+      "group": "a49e166303c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bird",
+      "meaningInSourceLanguage": "鸟",
+      "id": "cf67970fb358",
+      "priority": 0,
+      "group": "e09b00276d47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bird",
+      "meaning": "鸟",
+      "audio": "b697cc7af18f49c7b277e5576f2d88b7",
+      "id": "60a0cc3fddeb",
+      "priority": 1,
+      "group": "e09b00276d47"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fish",
+      "meaningInSourceLanguage": "鱼",
+      "id": "d3781d128a1c",
+      "priority": 0,
+      "group": "b4e582b58c40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fish",
+      "meaning": "鱼",
+      "audio": "4ea65c2c8687462aaba4c7b154f83579",
+      "id": "bf2baabd54d2",
+      "priority": 1,
+      "group": "b4e582b58c40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "horse",
+      "meaningInSourceLanguage": "马",
+      "id": "e974cb17faf8",
+      "priority": 0,
+      "group": "9eeecc8e89b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "horse",
+      "meaning": "马",
+      "audio": "34464148c93545919419794b2d1e4f69",
+      "id": "9216d1e8e154",
+      "priority": 1,
+      "group": "9eeecc8e89b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cow",
+      "meaningInSourceLanguage": "牛",
+      "id": "b70682a2df87",
+      "priority": 0,
+      "group": "985c8a71a5f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cow",
+      "meaning": "牛",
+      "audio": "2edacebabb8c444c8c6abfaa43804bee",
+      "id": "8589b3c2b84c",
+      "priority": 1,
+      "group": "985c8a71a5f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sheep",
+      "meaningInSourceLanguage": "羊",
+      "id": "434e8acfc387",
+      "priority": 0,
+      "group": "326045cc5e5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sheep",
+      "meaning": "羊",
+      "audio": "8c71d5d4f8ce463db6f39a8a6629c5bd",
+      "id": "d3d4754a8c75",
+      "priority": 1,
+      "group": "326045cc5e5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pig",
+      "meaningInSourceLanguage": "猪",
+      "id": "86a313bc0f69",
+      "priority": 0,
+      "group": "dcda74679e15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pig",
+      "meaning": "猪",
+      "audio": "afbe979e57b940a284ab0d61a6a8dcca",
+      "id": "6e8465225404",
+      "priority": 1,
+      "group": "dcda74679e15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chicken",
+      "meaningInSourceLanguage": "鸡",
+      "id": "63fc697f26ef",
+      "priority": 0,
+      "group": "5083b30c5c3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chicken",
+      "meaning": "鸡",
+      "audio": "381a4f54eca849fb9faec583025ec470",
+      "id": "270f33d958a8",
+      "priority": 1,
+      "group": "5083b30c5c3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "duck",
+      "meaningInSourceLanguage": "鸭子",
+      "id": "59cd1818eef7",
+      "priority": 0,
+      "group": "5217117cfd42"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "duck",
+      "meaning": "鸭子",
+      "audio": "4a38d17b7bf543eb83ba74867e9e0b36",
+      "id": "10921dfca32d",
+      "priority": 1,
+      "group": "5217117cfd42"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "goose",
+      "meaningInSourceLanguage": "鹅",
+      "id": "8cb2382da36a",
+      "priority": 0,
+      "group": "46ed395be24c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "goose",
+      "meaning": "鹅",
+      "audio": "4290fc88aeef48818203d9746711e59c",
+      "id": "2d943621aed3",
+      "priority": 1,
+      "group": "46ed395be24c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turkey",
+      "meaningInSourceLanguage": "火鸡",
+      "id": "048d4e26b5e4",
+      "priority": 0,
+      "group": "53ead61099f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turkey",
+      "meaning": "火鸡",
+      "audio": "f09fa5a182834b47b23e8c31097abbc7",
+      "id": "4e0d4d2d0d61",
+      "priority": 1,
+      "group": "53ead61099f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rabbit",
+      "meaningInSourceLanguage": "兔子",
+      "id": "06e416f7764d",
+      "priority": 0,
+      "group": "a8fb84d6cfde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rabbit",
+      "meaning": "兔子",
+      "audio": "515d7e5038ce4924a3fbaa49fdfd3733",
+      "id": "bdddadf062fe",
+      "priority": 1,
+      "group": "a8fb84d6cfde"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mouse",
+      "meaningInSourceLanguage": "老鼠",
+      "id": "cb5c2bb02c28",
+      "priority": 0,
+      "group": "3ad2a743997f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mouse",
+      "meaning": "老鼠",
+      "audio": "397a90a1c05140a6ac979d0adfce4273",
+      "id": "34caaeafc9ba",
+      "priority": 1,
+      "group": "3ad2a743997f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rat",
+      "meaningInSourceLanguage": "大老鼠",
+      "id": "0ceced128980",
+      "priority": 0,
+      "group": "c789bd120439"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rat",
+      "meaning": "大老鼠",
+      "audio": "981c8cecd0184950ad63d3b3f8114063",
+      "id": "fa5d11b0eb88",
+      "priority": 1,
+      "group": "c789bd120439"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hamster",
+      "meaningInSourceLanguage": "仓鼠",
+      "id": "49a3be8b2084",
+      "priority": 0,
+      "group": "7a38fd21d37f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hamster",
+      "meaning": "仓鼠",
+      "audio": "49cbe788cae9492fb3a12adc2e9aa1ce",
+      "id": "7e86a7b88fe7",
+      "priority": 1,
+      "group": "7a38fd21d37f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guinea pig",
+      "meaningInSourceLanguage": "豚鼠",
+      "id": "6be695a5e869",
+      "priority": 0,
+      "group": "9bf2ebc73e71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guinea pig",
+      "meaning": "豚鼠",
+      "audio": "46911e3d90d1466fb349224c9285fe76",
+      "id": "a6503f3b392d",
+      "priority": 1,
+      "group": "9bf2ebc73e71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ferret",
+      "meaningInSourceLanguage": "雪貂",
+      "id": "b3fe336963df",
+      "priority": 0,
+      "group": "1d3e952a5761"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ferret",
+      "meaning": "雪貂",
+      "audio": "7f016c244892429eb96a4800e9bd0ea5",
+      "id": "1c864604257f",
+      "priority": 1,
+      "group": "1d3e952a5761"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parrot",
+      "meaningInSourceLanguage": "鹦鹉",
+      "id": "df923b523483",
+      "priority": 0,
+      "group": "14c7ac3bace5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parrot",
+      "meaning": "鹦鹉",
+      "audio": "2219687aa8f04c4eb7ab228427da0bdb",
+      "id": "1fc1761a3736",
+      "priority": 1,
+      "group": "14c7ac3bace5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "canary",
+      "meaningInSourceLanguage": "金丝雀",
+      "id": "17473f690f5d",
+      "priority": 0,
+      "group": "9884a2e675b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "canary",
+      "meaning": "金丝雀",
+      "audio": "96e85bcbd5634897b504cd944db3f407",
+      "id": "9cd6d85bb8f1",
+      "priority": 1,
+      "group": "9884a2e675b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "finch",
+      "meaningInSourceLanguage": "雀",
+      "id": "bf884fa121c5",
+      "priority": 0,
+      "group": "8aba770d5939"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "finch",
+      "meaning": "雀",
+      "audio": "12acf46de1244c9297481308298fb697",
+      "id": "0834c03a0fb2",
+      "priority": 1,
+      "group": "8aba770d5939"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "swan",
+      "meaningInSourceLanguage": "天鹅",
+      "id": "60c7334042f2",
+      "priority": 0,
+      "group": "5e9a5b293f8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "swan",
+      "meaning": "天鹅",
+      "audio": "a565459e479e462284a7d2cc25fa26ea",
+      "id": "03683f9215cd",
+      "priority": 1,
+      "group": "5e9a5b293f8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pigeon",
+      "meaningInSourceLanguage": "鸽子",
+      "id": "2723806dfdf1",
+      "priority": 0,
+      "group": "57fff53d4d17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pigeon",
+      "meaning": "鸽子",
+      "audio": "b8ebbf069532424a90e43e4da04539a9",
+      "id": "3f3516fd0c55",
+      "priority": 1,
+      "group": "57fff53d4d17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dove",
+      "meaningInSourceLanguage": "鸽",
+      "id": "cc47f5ab5733",
+      "priority": 0,
+      "group": "0d21aa80e6ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dove",
+      "meaning": "鸽",
+      "audio": "2ccc5fb30a2e4ccd88cb33d38b49bb82",
+      "id": "6e2f9f831ed3",
+      "priority": 1,
+      "group": "0d21aa80e6ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crow",
+      "meaningInSourceLanguage": "乌鸦",
+      "id": "9503de2592e2",
+      "priority": 0,
+      "group": "2cc4dbd693bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crow",
+      "meaning": "乌鸦",
+      "audio": "5877b5b9041c48f096573b7bcc3350dc",
+      "id": "edb6f5823356",
+      "priority": 1,
+      "group": "2cc4dbd693bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "raven",
+      "meaningInSourceLanguage": "渡鸦",
+      "id": "5ca4015abb7a",
+      "priority": 0,
+      "group": "2c9d3f97c6ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "raven",
+      "meaning": "渡鸦",
+      "audio": "8c84d02316d147b88986f4913a6bfa8e",
+      "id": "667f552ae272",
+      "priority": 1,
+      "group": "2c9d3f97c6ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "magpie",
+      "meaningInSourceLanguage": "喜鹊",
+      "id": "ce3e16e852ec",
+      "priority": 0,
+      "group": "ebab488289a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "magpie",
+      "meaning": "喜鹊",
+      "audio": "4859cd36a1c845cc874fd3ab44cc392f",
+      "id": "6193ca8a187d",
+      "priority": 1,
+      "group": "ebab488289a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sparrow",
+      "meaningInSourceLanguage": "麻雀",
+      "id": "869efb27400e",
+      "priority": 0,
+      "group": "3f505245a19e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sparrow",
+      "meaning": "麻雀",
+      "audio": "97d8b500dd5b4bbb89b96fbf81edca51",
+      "id": "099d2502aee9",
+      "priority": 1,
+      "group": "3f505245a19e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "robin",
+      "meaningInSourceLanguage": "知更鸟",
+      "id": "2b73989134f5",
+      "priority": 0,
+      "group": "6046ef2e02ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "robin",
+      "meaning": "知更鸟",
+      "audio": "a3a27312b11b479f8ee770c087e4321e",
+      "id": "3b8335e45489",
+      "priority": 1,
+      "group": "6046ef2e02ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eagle",
+      "meaningInSourceLanguage": "鹰",
+      "id": "a88d5d11af26",
+      "priority": 0,
+      "group": "bc99c1c7c02a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eagle",
+      "meaning": "鹰",
+      "audio": "ae2db44225264c74a23bf734330048a0",
+      "id": "ca068bf769b8",
+      "priority": 1,
+      "group": "bc99c1c7c02a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hawk",
+      "meaningInSourceLanguage": "隼",
+      "id": "61d0e8e7e1ce",
+      "priority": 0,
+      "group": "5126a9989233"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hawk",
+      "meaning": "隼",
+      "audio": "3d01923f921840ba8106e6657e8b7992",
+      "id": "c04bf3113072",
+      "priority": 1,
+      "group": "5126a9989233"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "falcon",
+      "meaningInSourceLanguage": "猎鹰",
+      "id": "11c39c0abd07",
+      "priority": 0,
+      "group": "50f9c017c004"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "falcon",
+      "meaning": "猎鹰",
+      "audio": "8ccb3931aeab45bcba4dc390367e8ff7",
+      "id": "d361a17f3200",
+      "priority": 1,
+      "group": "50f9c017c004"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "owl",
+      "meaningInSourceLanguage": "猫头鹰",
+      "id": "bc62a1218a8f",
+      "priority": 0,
+      "group": "c04f52d9962e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "owl",
+      "meaning": "猫头鹰",
+      "audio": "f9f5b9db1c8f4754a204dec14533d313",
+      "id": "b6d05a599dd7",
+      "priority": 1,
+      "group": "c04f52d9962e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vulture",
+      "meaningInSourceLanguage": "秃鹫",
+      "id": "6e3a73bd8b50",
+      "priority": 0,
+      "group": "c3bf67f0c4c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vulture",
+      "meaning": "秃鹫",
+      "audio": "fccda826f94941d99e53bf48bcefe18f",
+      "id": "4b68f78c91e8",
+      "priority": 1,
+      "group": "c3bf67f0c4c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "elephant",
+      "meaningInSourceLanguage": "大象",
+      "id": "701a284b3648",
+      "priority": 0,
+      "group": "18a6f13def49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "elephant",
+      "meaning": "大象",
+      "audio": "7eda9d04b05a4784a3b3cba75e45f087",
+      "id": "5203fc24f570",
+      "priority": 1,
+      "group": "18a6f13def49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lion",
+      "meaningInSourceLanguage": "狮子",
+      "id": "8a9828828149",
+      "priority": 0,
+      "group": "e6153815f842"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lion",
+      "meaning": "狮子",
+      "audio": "c702dc2919c841b99194bc3c52bb37ed",
+      "id": "3d1738ce98aa",
+      "priority": 1,
+      "group": "e6153815f842"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tiger",
+      "meaningInSourceLanguage": "老虎",
+      "id": "286767afdd81",
+      "priority": 0,
+      "group": "0b1bf5fa3034"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tiger",
+      "meaning": "老虎",
+      "audio": "e1b8daf04ba641fa8bdfbebf54d887ae",
+      "id": "1071ac934769",
+      "priority": 1,
+      "group": "0b1bf5fa3034"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bear",
+      "meaningInSourceLanguage": "熊",
+      "id": "4d402b564f15",
+      "priority": 0,
+      "group": "b4c2f24d63f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bear",
+      "meaning": "熊",
+      "audio": "f464c21b1e05489b946ed4b3cda7b17b",
+      "id": "eabfaf9b88b2",
+      "priority": 1,
+      "group": "b4c2f24d63f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wolf",
+      "meaningInSourceLanguage": "狼",
+      "id": "9b3b1d447c3a",
+      "priority": 0,
+      "group": "433812b08c29"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wolf",
+      "meaning": "狼",
+      "audio": "982f5047c95f4220af07fe51e7fe9ae5",
+      "id": "07c584e9f3aa",
+      "priority": 1,
+      "group": "433812b08c29"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deer",
+      "meaningInSourceLanguage": "鹿",
+      "id": "6c12727e28ee",
+      "priority": 0,
+      "group": "254ba53b469a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deer",
+      "meaning": "鹿",
+      "audio": "7442b91a06324d7ea850114742ffb340",
+      "id": "8f3168587a95",
+      "priority": 1,
+      "group": "254ba53b469a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fox",
+      "meaningInSourceLanguage": "狐狸",
+      "id": "14f68a8d28bc",
+      "priority": 0,
+      "group": "bd5df432b658"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fox",
+      "meaning": "狐狸",
+      "audio": "749d26eee5c4484a92e74332ec25e0a3",
+      "id": "5379550072b3",
+      "priority": 1,
+      "group": "bd5df432b658"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monkey",
+      "meaningInSourceLanguage": "猴子",
+      "id": "e633bca6ba68",
+      "priority": 0,
+      "group": "abc41836a5fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monkey",
+      "meaning": "猴子",
+      "audio": "a4561ee05bc6440d92b367e8dc8c68cc",
+      "id": "421773f78785",
+      "priority": 1,
+      "group": "abc41836a5fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "panda",
+      "meaningInSourceLanguage": "熊猫",
+      "id": "3dfcc65bc4c4",
+      "priority": 0,
+      "group": "8031e189de57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "panda",
+      "meaning": "熊猫",
+      "audio": "50f60ceeb21c4c8284f0316204926fb5",
+      "id": "67acb1206117",
+      "priority": 1,
+      "group": "8031e189de57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kangaroo",
+      "meaningInSourceLanguage": "袋鼠",
+      "id": "8aa65947dea4",
+      "priority": 0,
+      "group": "715a7e8de700"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kangaroo",
+      "meaning": "袋鼠",
+      "audio": "592ae7de4799450db27b1bcf2d417f9b",
+      "id": "eb06a13dffb8",
+      "priority": 1,
+      "group": "715a7e8de700"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "koala",
+      "meaningInSourceLanguage": "考拉",
+      "id": "3ed3896f426e",
+      "priority": 0,
+      "group": "21f2b5cafeff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "koala",
+      "meaning": "考拉",
+      "audio": "6d7d2390fe36483bbd7c220edf2a542e",
+      "id": "95da85f09dee",
+      "priority": 1,
+      "group": "21f2b5cafeff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "raccoon",
+      "meaningInSourceLanguage": "浣熊",
+      "id": "2af8f114f328",
+      "priority": 0,
+      "group": "4cffe3615850"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "raccoon",
+      "meaning": "浣熊",
+      "audio": "5fe221342e8646428ba99454e06a2cee",
+      "id": "a68684fc863e",
+      "priority": 1,
+      "group": "4cffe3615850"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "squirrel",
+      "meaningInSourceLanguage": "松鼠",
+      "id": "b829ab7b5f99",
+      "priority": 0,
+      "group": "c3c593e6f732"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "squirrel",
+      "meaning": "松鼠",
+      "audio": "6f3b0dcb66b84f6e8ff37c92b40a6996",
+      "id": "e398f89c8de6",
+      "priority": 1,
+      "group": "c3c593e6f732"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beaver",
+      "meaningInSourceLanguage": "海狸",
+      "id": "8049f72af28c",
+      "priority": 0,
+      "group": "2578a4affcf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beaver",
+      "meaning": "海狸",
+      "audio": "62d3f60ceb74484f8e83bd428674e631",
+      "id": "34918322de1e",
+      "priority": 1,
+      "group": "2578a4affcf7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "otter",
+      "meaningInSourceLanguage": "水獭",
+      "id": "784b8b17b3a4",
+      "priority": 0,
+      "group": "acaf7ef251b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "otter",
+      "meaning": "水獭",
+      "audio": "df4656e4127845d29c4b73b194bb7640",
+      "id": "c9093810b569",
+      "priority": 1,
+      "group": "acaf7ef251b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hedgehog",
+      "meaningInSourceLanguage": "刺猬",
+      "id": "257097b83cd7",
+      "priority": 0,
+      "group": "2ae9e6a24771"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hedgehog",
+      "meaning": "刺猬",
+      "audio": "d59bf3c0600844b3ace550068ab55184",
+      "id": "7b5933b0dd6d",
+      "priority": 1,
+      "group": "2ae9e6a24771"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bat",
+      "meaningInSourceLanguage": "蝙蝠",
+      "id": "13c64c8085c5",
+      "priority": 0,
+      "group": "b4d5925b21df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bat",
+      "meaning": "蝙蝠",
+      "audio": "6dbe9c835d3a481a96e3bce65ff7d4fd",
+      "id": "7af862715af9",
+      "priority": 1,
+      "group": "b4d5925b21df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mole",
+      "meaningInSourceLanguage": "鼹鼠",
+      "id": "8990648f963c",
+      "priority": 0,
+      "group": "d9a4aa5b2a78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mole",
+      "meaning": "鼹鼠",
+      "audio": "0a1c0f63d76a444a9da479a0da22199c",
+      "id": "477490059338",
+      "priority": 1,
+      "group": "d9a4aa5b2a78"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shrew",
+      "meaningInSourceLanguage": "鼩鼱",
+      "id": "6f8ce48bb450",
+      "priority": 0,
+      "group": "5ed7108723b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shrew",
+      "meaning": "鼩鼱",
+      "audio": "cf235176b3774978863b20b3f2168bec",
+      "id": "d9157f981241",
+      "priority": 1,
+      "group": "5ed7108723b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "whale",
+      "meaningInSourceLanguage": "鲸鱼",
+      "id": "b5f3b9ecf96a",
+      "priority": 0,
+      "group": "60040fb417eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "whale",
+      "meaning": "鲸鱼",
+      "audio": "e60fd4bcb28641dfb252dbd088985598",
+      "id": "f30eeb97228b",
+      "priority": 1,
+      "group": "60040fb417eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dolphin",
+      "meaningInSourceLanguage": "海豚",
+      "id": "3c3a34504c83",
+      "priority": 0,
+      "group": "e9470d7a07a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dolphin",
+      "meaning": "海豚",
+      "audio": "afdedcb593f34615a420a57bc170e54b",
+      "id": "991eb23b57b9",
+      "priority": 1,
+      "group": "e9470d7a07a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shark",
+      "meaningInSourceLanguage": "鲨鱼",
+      "id": "8873c1d786c7",
+      "priority": 0,
+      "group": "c0b18755b478"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shark",
+      "meaning": "鲨鱼",
+      "audio": "24c6c6f9c5034f879c38c8b4dc01621d",
+      "id": "9fd181ee2326",
+      "priority": 1,
+      "group": "c0b18755b478"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seal",
+      "meaningInSourceLanguage": "海豹",
+      "id": "f6cede0318c5",
+      "priority": 0,
+      "group": "4bebc3965cf5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seal",
+      "meaning": "海豹",
+      "audio": "361cecb1e4304066a9db4fff4e687c1b",
+      "id": "ae153572cadc",
+      "priority": 1,
+      "group": "4bebc3965cf5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sea lion",
+      "meaningInSourceLanguage": "海狮",
+      "id": "6d6b8c70ad7f",
+      "priority": 0,
+      "group": "4687d7fa4c88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sea lion",
+      "meaning": "海狮",
+      "audio": "172bb448d7ce45288e3c44164f583e82",
+      "id": "ff700bab60fc",
+      "priority": 1,
+      "group": "4687d7fa4c88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "walrus",
+      "meaningInSourceLanguage": "海象",
+      "id": "2b942a694d10",
+      "priority": 0,
+      "group": "9f12adbc640a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "walrus",
+      "meaning": "海象",
+      "audio": "d7c226b38cae40948638dd1898ce1d27",
+      "id": "cd72773808f7",
+      "priority": 1,
+      "group": "9f12adbc640a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "octopus",
+      "meaningInSourceLanguage": "章鱼",
+      "id": "977e99c88b96",
+      "priority": 0,
+      "group": "e816c2658abf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "octopus",
+      "meaning": "章鱼",
+      "audio": "3d9e9521b2e7470f82e295272255a098",
+      "id": "cb43d0dd3015",
+      "priority": 1,
+      "group": "e816c2658abf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "squid",
+      "meaningInSourceLanguage": "乌贼",
+      "id": "edd7f7b941da",
+      "priority": 0,
+      "group": "f338a635c319"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "squid",
+      "meaning": "乌贼",
+      "audio": "5077c720cca94877b949c9437e972ca4",
+      "id": "32a3cfde7387",
+      "priority": 1,
+      "group": "f338a635c319"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jellyfish",
+      "meaningInSourceLanguage": "水母",
+      "id": "8ba413e0bc6c",
+      "priority": 0,
+      "group": "b4880a52f3dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jellyfish",
+      "meaning": "水母",
+      "audio": "d83dcce75e824096a9f036e5135b83b4",
+      "id": "b77661f43847",
+      "priority": 1,
+      "group": "b4880a52f3dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crab",
+      "meaningInSourceLanguage": "螃蟹",
+      "id": "4c0219d7e60a",
+      "priority": 0,
+      "group": "51904a6dc4af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crab",
+      "meaning": "螃蟹",
+      "audio": "b051266827da43a0a7af04dd98cfe67f",
+      "id": "be8e48b24ab5",
+      "priority": 1,
+      "group": "51904a6dc4af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lobster",
+      "meaningInSourceLanguage": "龙虾",
+      "id": "326640c4359d",
+      "priority": 0,
+      "group": "3b8c4b67a2b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lobster",
+      "meaning": "龙虾",
+      "audio": "6b1e5cb572674ac8b5b7572854a69239",
+      "id": "6729b882c582",
+      "priority": 1,
+      "group": "3b8c4b67a2b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shrimp",
+      "meaningInSourceLanguage": "虾",
+      "id": "cfe6db024b8d",
+      "priority": 0,
+      "group": "6417b3c74701"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shrimp",
+      "meaning": "虾",
+      "audio": "1def715bc54f452b92cc46ac20d6e80e",
+      "id": "a9d63c21a4a0",
+      "priority": 1,
+      "group": "6417b3c74701"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "clam",
+      "meaningInSourceLanguage": "蛤蜊",
+      "id": "d812ffa49230",
+      "priority": 0,
+      "group": "d2362472b66d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "clam",
+      "meaning": "蛤蜊",
+      "audio": "fc409f576d2c4b22ae60e215b7d1f959",
+      "id": "4b3d9460392c",
+      "priority": 1,
+      "group": "d2362472b66d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oyster",
+      "meaningInSourceLanguage": "牡蛎",
+      "id": "b8a4bd19b671",
+      "priority": 0,
+      "group": "3035e3aa4b8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oyster",
+      "meaning": "牡蛎",
+      "audio": "c91ad861912a4d58ada97c042e7688d2",
+      "id": "3bcfa4211ad3",
+      "priority": 1,
+      "group": "3035e3aa4b8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mussel",
+      "meaningInSourceLanguage": "贻贝",
+      "id": "88d95c5461f7",
+      "priority": 0,
+      "group": "c7b47a771cd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mussel",
+      "meaning": "贻贝",
+      "audio": "e80bebfee57e41a392941eb758070866",
+      "id": "ea8c21f70fff",
+      "priority": 1,
+      "group": "c7b47a771cd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "snake",
+      "meaningInSourceLanguage": "蛇",
+      "id": "eb69306a3b42",
+      "priority": 0,
+      "group": "21b83824a3b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snake",
+      "meaning": "蛇",
+      "audio": "73431dd3179b424fb8e01c87439c9015",
+      "id": "bfff9bf8a3ff",
+      "priority": 1,
+      "group": "21b83824a3b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lizard",
+      "meaningInSourceLanguage": "蜥蜴",
+      "id": "02b721ba3ef8",
+      "priority": 0,
+      "group": "74716a38453e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lizard",
+      "meaning": "蜥蜴",
+      "audio": "1059fd532e194a649f2ed6f0de15f7e4",
+      "id": "34655501fb20",
+      "priority": 1,
+      "group": "74716a38453e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "turtle",
+      "meaningInSourceLanguage": "乌龟",
+      "id": "719616ece12e",
+      "priority": 0,
+      "group": "facac97ed94d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "turtle",
+      "meaning": "乌龟",
+      "audio": "0c42183b94014e66a09cf0b6a65938dc",
+      "id": "367f6917084c",
+      "priority": 1,
+      "group": "facac97ed94d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "frog",
+      "meaningInSourceLanguage": "青蛙",
+      "id": "e9e2e5ab87d3",
+      "priority": 0,
+      "group": "c0d7d2df2f8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frog",
+      "meaning": "青蛙",
+      "audio": "e5e021f438114af28882526fcb1ef680",
+      "id": "a780eb93f201",
+      "priority": 1,
+      "group": "c0d7d2df2f8a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toad",
+      "meaningInSourceLanguage": "蟾蜍",
+      "id": "aee51d8b7d84",
+      "priority": 0,
+      "group": "78d6b6e56b7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toad",
+      "meaning": "蟾蜍",
+      "audio": "d3557510260e421da8d065df455b8a03",
+      "id": "e74eebaa80cb",
+      "priority": 1,
+      "group": "78d6b6e56b7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salamander",
+      "meaningInSourceLanguage": "蝾螈",
+      "id": "87bf3549bdf5",
+      "priority": 0,
+      "group": "9bec87e0547a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salamander",
+      "meaning": "蝾螈",
+      "audio": "52ac04efeced4f95ac39140d0ded97a1",
+      "id": "21570cf1d4f1",
+      "priority": 1,
+      "group": "9bec87e0547a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crocodile",
+      "meaningInSourceLanguage": "鳄鱼",
+      "id": "4d7eb921f7da",
+      "priority": 0,
+      "group": "0746088b53aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crocodile",
+      "meaning": "鳄鱼",
+      "audio": "1ca2c596268840fe9b19673af3effc8a",
+      "id": "8dbd70db0e11",
+      "priority": 1,
+      "group": "0746088b53aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "alligator",
+      "meaningInSourceLanguage": "短吻鳄",
+      "id": "e8d62e259d08",
+      "priority": 0,
+      "group": "fa9e6155a064"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "alligator",
+      "meaning": "短吻鳄",
+      "audio": "c18ee598767242a69cc6f51724ad43f9",
+      "id": "26c93365808b",
+      "priority": 1,
+      "group": "fa9e6155a064"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chameleon",
+      "meaningInSourceLanguage": "变色龙",
+      "id": "16a91d8ee3cd",
+      "priority": 0,
+      "group": "49cd82731de7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chameleon",
+      "meaning": "变色龙",
+      "audio": "d70edff7888647eaa6195d8a868c03ce",
+      "id": "d453738c32c4",
+      "priority": 1,
+      "group": "49cd82731de7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gecko",
+      "meaningInSourceLanguage": "壁虎",
+      "id": "79b204fd2296",
+      "priority": 0,
+      "group": "d61785de4e86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gecko",
+      "meaning": "壁虎",
+      "audio": "63b62d3e02f94954978c3fd7aed3058f",
+      "id": "dab773b69f95",
+      "priority": 1,
+      "group": "d61785de4e86"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "iguana",
+      "meaningInSourceLanguage": "鬣蜥",
+      "id": "6cc45da72df8",
+      "priority": 0,
+      "group": "e87046751cfc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "iguana",
+      "meaning": "鬣蜥",
+      "audio": "92d04dd222a941bfa33748b03ee4a57c",
+      "id": "fa93c13b3628",
+      "priority": 1,
+      "group": "e87046751cfc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tortoise",
+      "meaningInSourceLanguage": "陆龟",
+      "id": "5e9eef6c5db2",
+      "priority": 0,
+      "group": "cd27b4dbd8be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tortoise",
+      "meaning": "陆龟",
+      "audio": "28d14a800c3b416395a596cdf6787e49",
+      "id": "52dec87a40b8",
+      "priority": 1,
+      "group": "cd27b4dbd8be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "butterfly",
+      "meaningInSourceLanguage": "蝴蝶",
+      "id": "e6b95a4df6c0",
+      "priority": 0,
+      "group": "d841a80f2c8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "butterfly",
+      "meaning": "蝴蝶",
+      "audio": "908da2420b1e499387e3c5da2eefa2f5",
+      "id": "ab9e02148588",
+      "priority": 1,
+      "group": "d841a80f2c8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bee",
+      "meaningInSourceLanguage": "蜜蜂",
+      "id": "80a186bf1498",
+      "priority": 0,
+      "group": "ad9f696adcbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bee",
+      "meaning": "蜜蜂",
+      "audio": "f9cd64a5d81e4a9f81dc97b29051ff59",
+      "id": "6126adc56fb5",
+      "priority": 1,
+      "group": "ad9f696adcbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ant",
+      "meaningInSourceLanguage": "蚂蚁",
+      "id": "ef3f4c33d5e6",
+      "priority": 0,
+      "group": "fe86b6d02a9c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ant",
+      "meaning": "蚂蚁",
+      "audio": "5610a873b61a49cea5224ac0ea203176",
+      "id": "6db45c1c630c",
+      "priority": 1,
+      "group": "fe86b6d02a9c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spider",
+      "meaningInSourceLanguage": "蜘蛛",
+      "id": "2ac563ac8929",
+      "priority": 0,
+      "group": "2a960bd57ef8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spider",
+      "meaning": "蜘蛛",
+      "audio": "e9ebdc217a554ba6b6419d714ac20ac9",
+      "id": "e786fc6ee10d",
+      "priority": 1,
+      "group": "2a960bd57ef8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mosquito",
+      "meaningInSourceLanguage": "蚊子",
+      "id": "1d47f75f5544",
+      "priority": 0,
+      "group": "c59efae48aa4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mosquito",
+      "meaning": "蚊子",
+      "audio": "622e4166e39f4a00a4bff84d647cf5a4",
+      "id": "034e93e5d14d",
+      "priority": 1,
+      "group": "c59efae48aa4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fly",
+      "meaningInSourceLanguage": "苍蝇",
+      "id": "5c51bc1bd6da",
+      "priority": 0,
+      "group": "3cdb4104c02a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fly",
+      "meaning": "苍蝇",
+      "audio": "49507a7967154481a8c174d9ddc0294e",
+      "id": "ad027eb0c7dd",
+      "priority": 1,
+      "group": "3cdb4104c02a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beetle",
+      "meaningInSourceLanguage": "甲虫",
+      "id": "3dbf2d06318f",
+      "priority": 0,
+      "group": "d9d7d6d60524"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beetle",
+      "meaning": "甲虫",
+      "audio": "4237f8a80e1a43bdbc58644d62096caf",
+      "id": "4d0578d2a17b",
+      "priority": 1,
+      "group": "d9d7d6d60524"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dragonfly",
+      "meaningInSourceLanguage": "蜻蜓",
+      "id": "d2bf6f69b107",
+      "priority": 0,
+      "group": "26afa5e4058c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dragonfly",
+      "meaning": "蜻蜓",
+      "audio": "cefa27b83fe144518b2f8be1aaeb102c",
+      "id": "ad8cd8afd808",
+      "priority": 1,
+      "group": "26afa5e4058c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ladybug",
+      "meaningInSourceLanguage": "瓢虫",
+      "id": "5e14374599dd",
+      "priority": 0,
+      "group": "f077cf9b0da2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ladybug",
+      "meaning": "瓢虫",
+      "audio": "626fefdeb88e4f9bb5a10ec63e5ecb3f",
+      "id": "254ef4bfd3b3",
+      "priority": 1,
+      "group": "f077cf9b0da2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grasshopper",
+      "meaningInSourceLanguage": "蚱蜢",
+      "id": "7b2a47c29b82",
+      "priority": 0,
+      "group": "c9531dd2cdcc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grasshopper",
+      "meaning": "蚱蜢",
+      "audio": "062a99f45c1e451db4852885f2b61845",
+      "id": "ac312808ec83",
+      "priority": 1,
+      "group": "c9531dd2cdcc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cricket",
+      "meaningInSourceLanguage": "蟋蟀",
+      "id": "253e626a18c7",
+      "priority": 0,
+      "group": "5cac55527105"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cricket",
+      "meaning": "蟋蟀",
+      "audio": "992e480a29f543aaae794acd3518cab0",
+      "id": "1ab802218220",
+      "priority": 1,
+      "group": "5cac55527105"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "moth",
+      "meaningInSourceLanguage": "蛾",
+      "id": "f1946db8f61a",
+      "priority": 0,
+      "group": "f2309ad3800d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "moth",
+      "meaning": "蛾",
+      "audio": "5a948b656632416c9655def31ce68fc0",
+      "id": "4a7294733788",
+      "priority": 1,
+      "group": "f2309ad3800d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "worm",
+      "meaningInSourceLanguage": "虫子",
+      "id": "7545726ad135",
+      "priority": 0,
+      "group": "9610fc631044"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "worm",
+      "meaning": "虫子",
+      "audio": "eb3e564698184f02ab4fbee8b6d97197",
+      "id": "86201e4ddc83",
+      "priority": 1,
+      "group": "9610fc631044"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "snail",
+      "meaningInSourceLanguage": "蜗牛",
+      "id": "be84c40dad3d",
+      "priority": 0,
+      "group": "9f20d2fad4a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "snail",
+      "meaning": "蜗牛",
+      "audio": "8066794756e34991ad583040f0c55c5c",
+      "id": "3aec7ecb1b0c",
+      "priority": 1,
+      "group": "9f20d2fad4a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "slug",
+      "meaningInSourceLanguage": "蛞蝓",
+      "id": "b13f99a7464f",
+      "priority": 0,
+      "group": "52f473c3263d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "slug",
+      "meaning": "蛞蝓",
+      "audio": "8668f16568514422b2c49f911157376a",
+      "id": "d9eb1989d41c",
+      "priority": 1,
+      "group": "52f473c3263d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scorpion",
+      "meaningInSourceLanguage": "蝎子",
+      "id": "575ad41b4940",
+      "priority": 0,
+      "group": "a7a4d3be828a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scorpion",
+      "meaning": "蝎子",
+      "audio": "9ee1451fbc4549f390afbf985ffe6015",
+      "id": "662bde9a87bc",
+      "priority": 1,
+      "group": "a7a4d3be828a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "centipede",
+      "meaningInSourceLanguage": "蜈蚣",
+      "id": "f2d5b4f1ba4c",
+      "priority": 0,
+      "group": "2861d7fa5bf1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "centipede",
+      "meaning": "蜈蚣",
+      "audio": "d9a4ef45f38f4f4283416645bb6794c8",
+      "id": "1b7b651b3a4d",
+      "priority": 1,
+      "group": "2861d7fa5bf1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "millipede",
+      "meaningInSourceLanguage": "千足虫",
+      "id": "6669f2400954",
+      "priority": 0,
+      "group": "428b3195d0b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "millipede",
+      "meaning": "千足虫",
+      "audio": "e438975f493f49738af43f4b729fce7f",
+      "id": "03bf2d271423",
+      "priority": 1,
+      "group": "428b3195d0b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "penguin",
+      "meaningInSourceLanguage": "企鹅",
+      "id": "be9077ea8203",
+      "priority": 0,
+      "group": "073ad54ea5ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "penguin",
+      "meaning": "企鹅",
+      "audio": "c3fc3d166267405a806a28ceedda82df",
+      "id": "a75d4395d9a4",
+      "priority": 1,
+      "group": "073ad54ea5ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ostrich",
+      "meaningInSourceLanguage": "鸵鸟",
+      "id": "eecd1f038fe2",
+      "priority": 0,
+      "group": "60d20ecf7ee8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ostrich",
+      "meaning": "鸵鸟",
+      "audio": "26ccc84ffcb947f8b5359c5d62c72cc2",
+      "id": "86794eebb8f2",
+      "priority": 1,
+      "group": "60d20ecf7ee8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peacock",
+      "meaningInSourceLanguage": "孔雀",
+      "id": "c123215dc0db",
+      "priority": 0,
+      "group": "d773b3b2264a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peacock",
+      "meaning": "孔雀",
+      "audio": "e458cd0d8734404f88621b9d6a9a2c78",
+      "id": "4c97d13b7d95",
+      "priority": 1,
+      "group": "d773b3b2264a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flamingo",
+      "meaningInSourceLanguage": "火烈鸟",
+      "id": "598e8b6411f3",
+      "priority": 0,
+      "group": "2a8988ced502"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flamingo",
+      "meaning": "火烈鸟",
+      "audio": "1724c45ee86b470c9b5b78035fb61248",
+      "id": "3bd17921f95d",
+      "priority": 1,
+      "group": "2a8988ced502"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crane",
+      "meaningInSourceLanguage": "鹤",
+      "id": "c96a08e295ea",
+      "priority": 0,
+      "group": "b45999ec3e83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crane",
+      "meaning": "鹤",
+      "audio": "fa657140e2dd4fe38ff8d948c6a494f1",
+      "id": "e97a8eff13c6",
+      "priority": 1,
+      "group": "b45999ec3e83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stork",
+      "meaningInSourceLanguage": "鹳",
+      "id": "5f01bbf76436",
+      "priority": 0,
+      "group": "9325fe61f7fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stork",
+      "meaning": "鹳",
+      "audio": "bbdbd8f4d851495b8dfa5a97ddfcd9cd",
+      "id": "36a8dedeb612",
+      "priority": 1,
+      "group": "9325fe61f7fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heron",
+      "meaningInSourceLanguage": "苍鹭",
+      "id": "af55b048f2ea",
+      "priority": 0,
+      "group": "e8502db962a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heron",
+      "meaning": "苍鹭",
+      "audio": "44db9d0d6b7144bda1b697486698e94c",
+      "id": "5eae4e9517fa",
+      "priority": 1,
+      "group": "e8502db962a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pelican",
+      "meaningInSourceLanguage": "鹈鹕",
+      "id": "127ac5ba70f8",
+      "priority": 0,
+      "group": "a8c9f8e024a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pelican",
+      "meaning": "鹈鹕",
+      "audio": "18e68f8a7bcb43798e0f86b53e7a6a7e",
+      "id": "31636e6b1273",
+      "priority": 1,
+      "group": "a8c9f8e024a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seagull",
+      "meaningInSourceLanguage": "海鸥",
+      "id": "76a93b2b115d",
+      "priority": 0,
+      "group": "898918c99280"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seagull",
+      "meaning": "海鸥",
+      "audio": "17aa54c75a3845e29cbd4b61194b1fb1",
+      "id": "2a7cd1b74b98",
+      "priority": 1,
+      "group": "898918c99280"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "woodpecker",
+      "meaningInSourceLanguage": "啄木鸟",
+      "id": "7cc5c33236e2",
+      "priority": 0,
+      "group": "ccffb61221bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "woodpecker",
+      "meaning": "啄木鸟",
+      "audio": "9406858ba3eb4be7ad4e07d5d8d2e0ad",
+      "id": "6af338601ba1",
+      "priority": 1,
+      "group": "ccffb61221bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hummingbird",
+      "meaningInSourceLanguage": "蜂鸟",
+      "id": "7d13c729cd3b",
+      "priority": 0,
+      "group": "0e18c64db79a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hummingbird",
+      "meaning": "蜂鸟",
+      "audio": "154ffb9e27b246ea945569b0a513b159",
+      "id": "dbc0b419d03f",
+      "priority": 1,
+      "group": "0e18c64db79a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kingfisher",
+      "meaningInSourceLanguage": "翠鸟",
+      "id": "06933b635556",
+      "priority": 0,
+      "group": "673479ece1da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kingfisher",
+      "meaning": "翠鸟",
+      "audio": "97d668f6334f49ebba024ddee369902d",
+      "id": "1bb84d618e74",
+      "priority": 1,
+      "group": "673479ece1da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "giraffe",
+      "meaningInSourceLanguage": "长颈鹿",
+      "id": "11e4b51131d2",
+      "priority": 0,
+      "group": "06d844b57b74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "giraffe",
+      "meaning": "长颈鹿",
+      "audio": "0e055267c22f4cad8df403cc3136ab8f",
+      "id": "2158e424ba5d",
+      "priority": 1,
+      "group": "06d844b57b74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zebra",
+      "meaningInSourceLanguage": "斑马",
+      "id": "dbb328478ddd",
+      "priority": 0,
+      "group": "b3d2bd8205ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zebra",
+      "meaning": "斑马",
+      "audio": "7bcf88903bea4e44bae5c4bbb895971b",
+      "id": "483ed55e095c",
+      "priority": 1,
+      "group": "b3d2bd8205ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rhinoceros",
+      "meaningInSourceLanguage": "犀牛",
+      "id": "88466f114dec",
+      "priority": 0,
+      "group": "892a3715a4c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rhinoceros",
+      "meaning": "犀牛",
+      "audio": "67d87fdefc9d4acfbbd13df1a89463ea",
+      "id": "3e83554c6920",
+      "priority": 1,
+      "group": "892a3715a4c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hippopotamus",
+      "meaningInSourceLanguage": "河马",
+      "id": "a20a1b5fd37d",
+      "priority": 0,
+      "group": "0cd893836742"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hippopotamus",
+      "meaning": "河马",
+      "audio": "5aa62103575742e0a0237c4934849c5b",
+      "id": "10191c44b2d9",
+      "priority": 1,
+      "group": "0cd893836742"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "buffalo",
+      "meaningInSourceLanguage": "水牛",
+      "id": "9b9604848ee7",
+      "priority": 0,
+      "group": "d8d19e159955"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "buffalo",
+      "meaning": "水牛",
+      "audio": "b74c37c4f50e4f99a794c463ed7fb013",
+      "id": "8c63f923c9ae",
+      "priority": 1,
+      "group": "d8d19e159955"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bison",
+      "meaningInSourceLanguage": "野牛",
+      "id": "a4984aa90e23",
+      "priority": 0,
+      "group": "aeeb9d027d96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bison",
+      "meaning": "野牛",
+      "audio": "445d360ecddd4f39ba4e22a31ff6f828",
+      "id": "1929dc636a8c",
+      "priority": 1,
+      "group": "aeeb9d027d96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "antelope",
+      "meaningInSourceLanguage": "羚羊",
+      "id": "a4f3077f0695",
+      "priority": 0,
+      "group": "71b8125aa419"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "antelope",
+      "meaning": "羚羊",
+      "audio": "26d39ad3db414465beb5ceb9f4194c5b",
+      "id": "aea1165d085b",
+      "priority": 1,
+      "group": "71b8125aa419"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gazelle",
+      "meaningInSourceLanguage": "瞪羚",
+      "id": "84d6cefd0bcf",
+      "priority": 0,
+      "group": "ff12ba45ba55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gazelle",
+      "meaning": "瞪羚",
+      "audio": "882273b3d7cf4b6193d920f0d33e0750",
+      "id": "e3c2c2eb16c8",
+      "priority": 1,
+      "group": "ff12ba45ba55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cheetah",
+      "meaningInSourceLanguage": "猎豹",
+      "id": "dfa22c756873",
+      "priority": 0,
+      "group": "92d4fa2ebb27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cheetah",
+      "meaning": "猎豹",
+      "audio": "3e28789f665648c88bf8f492f5acf820",
+      "id": "2872d049b8e8",
+      "priority": 1,
+      "group": "92d4fa2ebb27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leopard",
+      "meaningInSourceLanguage": "豹",
+      "id": "3303b5d15640",
+      "priority": 0,
+      "group": "f70ebfcf98a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leopard",
+      "meaning": "豹",
+      "audio": "a4f379f52d0e43f8b7db9d8b1947c29c",
+      "id": "d02858c3ce0f",
+      "priority": 1,
+      "group": "f70ebfcf98a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jaguar",
+      "meaningInSourceLanguage": "美洲豹",
+      "id": "fc9c11561ad4",
+      "priority": 0,
+      "group": "dac6f26e2c12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jaguar",
+      "meaning": "美洲豹",
+      "audio": "0b64196de2e54720861f4f240b3d602a",
+      "id": "8d057aac6c7b",
+      "priority": 1,
+      "group": "dac6f26e2c12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "panther",
+      "meaningInSourceLanguage": "黑豹",
+      "id": "405808c82018",
+      "priority": 0,
+      "group": "d8d7548445a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "panther",
+      "meaning": "黑豹",
+      "audio": "61ba20725fa84985bf9906b78d79b6df",
+      "id": "a7a8eb522f88",
+      "priority": 1,
+      "group": "d8d7548445a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "camel",
+      "meaningInSourceLanguage": "骆驼",
+      "id": "ddf47f717a1b",
+      "priority": 0,
+      "group": "4c891b46ab55"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "camel",
+      "meaning": "骆驼",
+      "audio": "7035db8811224cd4bea7553d842e54f1",
+      "id": "57171ec36bca",
+      "priority": 1,
+      "group": "4c891b46ab55"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "llama",
+      "meaningInSourceLanguage": "羊驼",
+      "id": "5aedc4caa08b",
+      "priority": 0,
+      "group": "f88bdb7df906"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "llama",
+      "meaning": "羊驼",
+      "audio": "09d42a2abe4440d0b178fbd17cbe6e75",
+      "id": "1ea38e163146",
+      "priority": 1,
+      "group": "f88bdb7df906"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "alpaca",
+      "meaningInSourceLanguage": "羊驼",
+      "id": "4488b71e3367",
+      "priority": 0,
+      "group": "6cf2fce3e798"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "alpaca",
+      "meaning": "羊驼",
+      "audio": "af4ea68347a34abab54e6687ea7a0302",
+      "id": "129841ec6a0a",
+      "priority": 1,
+      "group": "6cf2fce3e798"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "donkey",
+      "meaningInSourceLanguage": "驴",
+      "id": "06a0e53d0abc",
+      "priority": 0,
+      "group": "e3146c882b38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "donkey",
+      "meaning": "驴",
+      "audio": "13ee873ff8fd483c8c3934c4d7535d68",
+      "id": "32bfeb1d8684",
+      "priority": 1,
+      "group": "e3146c882b38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mule",
+      "meaningInSourceLanguage": "骡",
+      "id": "cd7fcab8a8e8",
+      "priority": 0,
+      "group": "de1d4d6585b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mule",
+      "meaning": "骡",
+      "audio": "85bb0ed7bc1f4ef9ba3d38d94a64502e",
+      "id": "73868182bc4c",
+      "priority": 1,
+      "group": "de1d4d6585b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pony",
+      "meaningInSourceLanguage": "小马",
+      "id": "1062b3972d91",
+      "priority": 0,
+      "group": "ed57a4647dae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pony",
+      "meaning": "小马",
+      "audio": "3c906b859b4747f6a20966f4b241d668",
+      "id": "a4d13dfbfb90",
+      "priority": 1,
+      "group": "ed57a4647dae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "goat",
+      "meaningInSourceLanguage": "山羊",
+      "id": "5d5912f9a688",
+      "priority": 0,
+      "group": "aa1a8fe92ebd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "goat",
+      "meaning": "山羊",
+      "audio": "11c9fb2cd270470ab481d28a8697f87d",
+      "id": "71ea52affbab",
+      "priority": 1,
+      "group": "aa1a8fe92ebd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lamb",
+      "meaningInSourceLanguage": "小羊",
+      "id": "c0bed92469da",
+      "priority": 0,
+      "group": "5ee137041ddc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lamb",
+      "meaning": "小羊",
+      "audio": "8df6b24534944b52ac3a8b88120809e5",
+      "id": "95f0d0671e34",
+      "priority": 1,
+      "group": "5ee137041ddc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ram",
+      "meaningInSourceLanguage": "公羊",
+      "id": "2f837208dbd7",
+      "priority": 0,
+      "group": "5943af9b30e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ram",
+      "meaning": "公羊",
+      "audio": "b55c7298088f49d4bd484550ab9fd602",
+      "id": "d493d4889ed4",
+      "priority": 1,
+      "group": "5943af9b30e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calf",
+      "meaningInSourceLanguage": "小牛",
+      "id": "a72b0cabf3ab",
+      "priority": 0,
+      "group": "1f51ed9c4bf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calf",
+      "meaning": "小牛",
+      "audio": "289ac70bd5fc4aa2969f35ec38a0c2b6",
+      "id": "d299bfc7e23b",
+      "priority": 1,
+      "group": "1f51ed9c4bf7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bull",
+      "meaningInSourceLanguage": "公牛",
+      "id": "088a30d7b934",
+      "priority": 0,
+      "group": "53576a858e7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bull",
+      "meaning": "公牛",
+      "audio": "11234a75bcb142c981ae42faaaf3bdbd",
+      "id": "79ec6e593310",
+      "priority": 1,
+      "group": "53576a858e7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ox",
+      "meaningInSourceLanguage": "犍牛",
+      "id": "0ba533f4886a",
+      "priority": 0,
+      "group": "ee0d6321eb09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ox",
+      "meaning": "犍牛",
+      "audio": "c7db29d7216e45418a09de9752368e59",
+      "id": "30ba47f4e2dd",
+      "priority": 1,
+      "group": "ee0d6321eb09"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chick",
+      "meaningInSourceLanguage": "小鸡",
+      "id": "59ca86fb6266",
+      "priority": 0,
+      "group": "b63b02cdf665"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chick",
+      "meaning": "小鸡",
+      "audio": "4e6ba7ee045f451f95098d82c9729e79",
+      "id": "b422d2b8f5af",
+      "priority": 1,
+      "group": "b63b02cdf665"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rooster",
+      "meaningInSourceLanguage": "公鸡",
+      "id": "496adcca981c",
+      "priority": 0,
+      "group": "6fec7a10f6e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rooster",
+      "meaning": "公鸡",
+      "audio": "06b0ea3e44b846c69c4d41601b32d31a",
+      "id": "fbc808aec54e",
+      "priority": 1,
+      "group": "6fec7a10f6e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hen",
+      "meaningInSourceLanguage": "母鸡",
+      "id": "15b659cb3506",
+      "priority": 0,
+      "group": "39f9ba378ee2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hen",
+      "meaning": "母鸡",
+      "audio": "142417f42b12403a9189e922ad337442",
+      "id": "ba99c2b455e3",
+      "priority": 1,
+      "group": "39f9ba378ee2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "puppy",
+      "meaningInSourceLanguage": "小狗",
+      "id": "98ffd2a303db",
+      "priority": 0,
+      "group": "f267e8d147b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "puppy",
+      "meaning": "小狗",
+      "audio": "0073aa45d1d54d7ab76c0d09151298ae",
+      "id": "2fc273a7b7b0",
+      "priority": 1,
+      "group": "f267e8d147b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kitten",
+      "meaningInSourceLanguage": "小猫",
+      "id": "c13a6f49ae37",
+      "priority": 0,
+      "group": "19ba622268db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kitten",
+      "meaning": "小猫",
+      "audio": "95c46bb009c545ba979b82aa14916ed1",
+      "id": "6337487d9a84",
+      "priority": 1,
+      "group": "19ba622268db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cub",
+      "meaningInSourceLanguage": "幼崽",
+      "id": "e2d1e1627e4a",
+      "priority": 0,
+      "group": "576dedf0c04d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cub",
+      "meaning": "幼崽",
+      "audio": "331c8abc086444f6939eb3e3f886fa1b",
+      "id": "4deb698dc2a8",
+      "priority": 1,
+      "group": "576dedf0c04d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fawn",
+      "meaningInSourceLanguage": "幼鹿",
+      "id": "f76b56bb4786",
+      "priority": 0,
+      "group": "03668b4e8c54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fawn",
+      "meaning": "幼鹿",
+      "audio": "91b604bec8d64531b37d26a36215fee5",
+      "id": "ff0eee558e3d",
+      "priority": 1,
+      "group": "03668b4e8c54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "joey",
+      "meaningInSourceLanguage": "小袋鼠",
+      "id": "5073f09e440c",
+      "priority": 0,
+      "group": "12de0fd959b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "joey",
+      "meaning": "小袋鼠",
+      "audio": "1af051ac6cbe4577bcf1f7cea3f584e3",
+      "id": "c41a2d2dd212",
+      "priority": 1,
+      "group": "12de0fd959b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tadpole",
+      "meaningInSourceLanguage": "蝌蚪",
+      "id": "7145cb3ed9b1",
+      "priority": 0,
+      "group": "53f525e31626"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tadpole",
+      "meaning": "蝌蚪",
+      "audio": "7cd027f6667345a288983393bdd1dc4e",
+      "id": "c930743fdcdf",
+      "priority": 1,
+      "group": "53f525e31626"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "caterpillar",
+      "meaningInSourceLanguage": "毛毛虫",
+      "id": "db1522830499",
+      "priority": 0,
+      "group": "3566a1be2852"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "caterpillar",
+      "meaning": "毛毛虫",
+      "audio": "1609869f2cf44bf793153acceb40c892",
+      "id": "28322f1160a8",
+      "priority": 1,
+      "group": "3566a1be2852"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chrysalis",
+      "meaningInSourceLanguage": "蛹",
+      "id": "7302f7d5ec87",
+      "priority": 0,
+      "group": "92bd4aef55e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chrysalis",
+      "meaning": "蛹",
+      "audio": "c51120d7f824402ab992ab28d92805a2",
+      "id": "1704e4f3eb1b",
+      "priority": 1,
+      "group": "92bd4aef55e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "larva",
+      "meaningInSourceLanguage": "幼虫",
+      "id": "4bb3808f50c8",
+      "priority": 0,
+      "group": "93b772f51653"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "larva",
+      "meaning": "幼虫",
+      "audio": "c7336d27e9d4420494308b40fb5b0321",
+      "id": "265a815b0bf9",
+      "priority": 1,
+      "group": "93b772f51653"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ape",
+      "meaningInSourceLanguage": "猿",
+      "id": "61302b070e5b",
+      "priority": 0,
+      "group": "9c610f769043"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ape",
+      "meaning": "猿",
+      "audio": "7a48113ca4074efd933ff7bccf660484",
+      "id": "efd466301514",
+      "priority": 1,
+      "group": "9c610f769043"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gorilla",
+      "meaningInSourceLanguage": "大猩猩",
+      "id": "fa9d5890596d",
+      "priority": 0,
+      "group": "62c65614a8ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gorilla",
+      "meaning": "大猩猩",
+      "audio": "5dcd8320793b469f894a5cc7a79ff6b2",
+      "id": "5d953382ac81",
+      "priority": 1,
+      "group": "62c65614a8ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orangutan",
+      "meaningInSourceLanguage": "猩猩",
+      "id": "3fab66e173d2",
+      "priority": 0,
+      "group": "9ed229e611e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orangutan",
+      "meaning": "猩猩",
+      "audio": "c6b7fa7dd03f4015bf416348c222b3bf",
+      "id": "cf15142d4226",
+      "priority": 1,
+      "group": "9ed229e611e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chimpanzee",
+      "meaningInSourceLanguage": "黑猩猩",
+      "id": "03aaced186fa",
+      "priority": 0,
+      "group": "07cae4eacbb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chimpanzee",
+      "meaning": "黑猩猩",
+      "audio": "0df4a7a1c5d840df8d3ee338113345ae",
+      "id": "5ed01ff6b964",
+      "priority": 1,
+      "group": "07cae4eacbb7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baboon",
+      "meaningInSourceLanguage": "狒狒",
+      "id": "882aabacefbb",
+      "priority": 0,
+      "group": "a66538ab138e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baboon",
+      "meaning": "狒狒",
+      "audio": "c5ec3b2761e244008dcb591a4c565067",
+      "id": "8475fc0de9ba",
+      "priority": 1,
+      "group": "a66538ab138e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lemur",
+      "meaningInSourceLanguage": "狐猴",
+      "id": "40c0a93109c5",
+      "priority": 0,
+      "group": "4e90a483aa41"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lemur",
+      "meaning": "狐猴",
+      "audio": "5a3ff488ab2148dababee82630974191",
+      "id": "ab8e72bcd6d8",
+      "priority": 1,
+      "group": "4e90a483aa41"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sloth",
+      "meaningInSourceLanguage": "树懒",
+      "id": "4872f84661e9",
+      "priority": 0,
+      "group": "28f6887551cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sloth",
+      "meaning": "树懒",
+      "audio": "c85c77d2c420488a88f40b7e73d40c65",
+      "id": "0f9554358f7c",
+      "priority": 1,
+      "group": "28f6887551cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "armadillo",
+      "meaningInSourceLanguage": "犰狳",
+      "id": "55d6fcecf15b",
+      "priority": 0,
+      "group": "4bb5bdaa4f90"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "armadillo",
+      "meaning": "犰狳",
+      "audio": "bcc594df7f064552bb5c6ee41578d4f5",
+      "id": "ffdf7029f84a",
+      "priority": 1,
+      "group": "4bb5bdaa4f90"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "porcupine",
+      "meaningInSourceLanguage": "豪猪",
+      "id": "4253aae2a77d",
+      "priority": 0,
+      "group": "d73c718812be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "porcupine",
+      "meaning": "豪猪",
+      "audio": "55368444749d46c28fc3b1fd3fc646b8",
+      "id": "103a2fe8bfb1",
+      "priority": 1,
+      "group": "d73c718812be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skunk",
+      "meaningInSourceLanguage": "臭鼬",
+      "id": "c8583af29a5c",
+      "priority": 0,
+      "group": "4894ea1f4b1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skunk",
+      "meaning": "臭鼬",
+      "audio": "1fa1fc7df2d64d159a2fc0ff14827a62",
+      "id": "a0be84069d8c",
+      "priority": 1,
+      "group": "4894ea1f4b1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "badger",
+      "meaningInSourceLanguage": "獾",
+      "id": "9299f3d0b57c",
+      "priority": 0,
+      "group": "a62b21e316ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "badger",
+      "meaning": "獾",
+      "audio": "c285db7169934c9bb37acdf81b59b97a",
+      "id": "4e15e1d4d1e8",
+      "priority": 1,
+      "group": "a62b21e316ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mongoose",
+      "meaningInSourceLanguage": "猫鼬",
+      "id": "3732bffef7e1",
+      "priority": 0,
+      "group": "bd2a434fc354"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mongoose",
+      "meaning": "猫鼬",
+      "audio": "938369a5c76741168bdc998cf491d2ee",
+      "id": "b1a823d1c949",
+      "priority": 1,
+      "group": "bd2a434fc354"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eel",
+      "meaningInSourceLanguage": "鳗鱼",
+      "id": "5f58db6c7494",
+      "priority": 0,
+      "group": "f56cb2e2a2e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eel",
+      "meaning": "鳗鱼",
+      "audio": "82d5a65ab3d64e3ca1610ac943a66459",
+      "id": "b5c1f4acae38",
+      "priority": 1,
+      "group": "f56cb2e2a2e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "salmon",
+      "meaningInSourceLanguage": "三文鱼",
+      "id": "42af2b0b3b51",
+      "priority": 0,
+      "group": "aaec5094c2de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "salmon",
+      "meaning": "三文鱼",
+      "audio": "06e93a9d7a7a4103aac1e73b6f9fa3da",
+      "id": "ba02af417272",
+      "priority": 1,
+      "group": "aaec5094c2de"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trout",
+      "meaningInSourceLanguage": "鳟鱼",
+      "id": "0ddb40846f5b",
+      "priority": 0,
+      "group": "637ad8193fa2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trout",
+      "meaning": "鳟鱼",
+      "audio": "c0b24bed71ff4acbaae8444603bbdf77",
+      "id": "f75bd8a6d97c",
+      "priority": 1,
+      "group": "637ad8193fa2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tuna",
+      "meaningInSourceLanguage": "金枪鱼",
+      "id": "61ba6ce4a3e9",
+      "priority": 0,
+      "group": "18804b957644"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tuna",
+      "meaning": "金枪鱼",
+      "audio": "2459d92f0b8f442e990e20979cdaf93f",
+      "id": "83c57051cb2f",
+      "priority": 1,
+      "group": "18804b957644"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cod",
+      "meaningInSourceLanguage": "鳕鱼",
+      "id": "9eada58f155a",
+      "priority": 0,
+      "group": "0fc1e410d9bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cod",
+      "meaning": "鳕鱼",
+      "audio": "cf979a01e0444074a19ad0a4780dde41",
+      "id": "75bae2f2282d",
+      "priority": 1,
+      "group": "0fc1e410d9bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "catfish",
+      "meaningInSourceLanguage": "鲶鱼",
+      "id": "35033f098be7",
+      "priority": 0,
+      "group": "ddbcc04eddf4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "catfish",
+      "meaning": "鲶鱼",
+      "audio": "6260b699ae8f40f7874e43cbff005375",
+      "id": "352717a70131",
+      "priority": 1,
+      "group": "ddbcc04eddf4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "goldfish",
+      "meaningInSourceLanguage": "金鱼",
+      "id": "e4665ed62871",
+      "priority": 0,
+      "group": "d7bacd18ddba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "goldfish",
+      "meaning": "金鱼",
+      "audio": "621b921483d248f7a1a7bb634ded4dae",
+      "id": "697b832c6158",
+      "priority": 1,
+      "group": "d7bacd18ddba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guppy",
+      "meaningInSourceLanguage": "孔雀鱼",
+      "id": "c3b50ccfa7a1",
+      "priority": 0,
+      "group": "bc8ddf7f8831"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guppy",
+      "meaning": "孔雀鱼",
+      "audio": "66b49f797db84c9aa550631e98214bca",
+      "id": "b244889a4265",
+      "priority": 1,
+      "group": "bc8ddf7f8831"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "angelfish",
+      "meaningInSourceLanguage": "神仙鱼",
+      "id": "f1e3ea714727",
+      "priority": 0,
+      "group": "34a60de6f4bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "angelfish",
+      "meaning": "神仙鱼",
+      "audio": "99513910f64c437f895649f50d7f004f",
+      "id": "24f28724fe37",
+      "priority": 1,
+      "group": "34a60de6f4bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parakeet",
+      "meaningInSourceLanguage": "长尾小鹦鹉",
+      "id": "7bd1e4717335",
+      "priority": 0,
+      "group": "2eb91d7f8312"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parakeet",
+      "meaning": "长尾小鹦鹉",
+      "audio": "f5afc41727574674aca8a52a3e2e6c49",
+      "id": "d26c6c8c7146",
+      "priority": 1,
+      "group": "2eb91d7f8312"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "macaw",
+      "meaningInSourceLanguage": "金刚鹦鹉",
+      "id": "303d8241b68c",
+      "priority": 0,
+      "group": "cfab522ea67d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "macaw",
+      "meaning": "金刚鹦鹉",
+      "audio": "6e1e0b4c1cdd40999d4ed7300ac95ad9",
+      "id": "54865ab021fb",
+      "priority": 1,
+      "group": "cfab522ea67d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cockatoo",
+      "meaningInSourceLanguage": "凤头鹦鹉",
+      "id": "9debcbe99d13",
+      "priority": 0,
+      "group": "d3dc734aba39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cockatoo",
+      "meaning": "凤头鹦鹉",
+      "audio": "efbdfd36d6cd4dc888d14a29de491641",
+      "id": "3597e40b8e39",
+      "priority": 1,
+      "group": "d3dc734aba39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "starfish",
+      "meaningInSourceLanguage": "海星",
+      "id": "81b794918cd6",
+      "priority": 0,
+      "group": "e50b4d763742"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "starfish",
+      "meaning": "海星",
+      "audio": "0bdb7e1cc6a24648898e30649b76a25f",
+      "id": "4090e52242af",
+      "priority": 1,
+      "group": "e50b4d763742"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sea urchin",
+      "meaningInSourceLanguage": "海胆",
+      "id": "fca9d18a5e6d",
+      "priority": 0,
+      "group": "10f0a9f1f57d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sea urchin",
+      "meaning": "海胆",
+      "audio": "56f8e462b92643b28b40e0638930b368",
+      "id": "dfdf72653f2c",
+      "priority": 1,
+      "group": "10f0a9f1f57d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coral",
+      "meaningInSourceLanguage": "珊瑚",
+      "id": "a4d020a27640",
+      "priority": 0,
+      "group": "62299f2b14e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coral",
+      "meaning": "珊瑚",
+      "audio": "458376820ab04dd5af22018dd06f6531",
+      "id": "fe42d0eeb96f",
+      "priority": 1,
+      "group": "62299f2b14e4"
+    }
+  ]
+}

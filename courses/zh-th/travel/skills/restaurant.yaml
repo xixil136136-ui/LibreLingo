@@ -1,0 +1,70 @@
+Skill:
+  Name: Restaurant
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: ร้านอาหาร
+    Translation: 餐厅
+  - Word: เครื่องดื่ม
+    Translation: 饮料
+  - Word: อาหาร
+    Translation: 食物
+  - Word: ผ้าเช็ดปาก
+    Translation: 餐巾
+  - Word: เกลือ
+    Translation: 盐
+  - Word: พริกไทย
+    Translation: 胡椒
+  - Word: แก้ว
+    Translation: 玻璃杯
+  - Word: ขวด
+    Translation: 瓶子
+  - Word: ของหวาน
+    Translation: 甜点
+  - Word: อาหารจานหลัก
+    Translation: 主菜
+
+Phrases:
+  - Phrase: ฉันต้องการเครื่องดื่ม
+    Translation: 我想要一杯饮料。
+  - Phrase: อาหารอร่อย
+    Translation: 食物很好。
+  - Phrase: ขอน้ำแก้วนึง
+    Translation: 能给我一杯水吗？
+  - Phrase: เราต้องการไวน์หนึ่งขวด
+    Translation: 我们需要一瓶酒。
+  - Phrase: ฉันอยากได้ของหวาน
+    Translation: 我想要甜点。
+  - Phrase: ส่งเกลือให้หน่อย
+    Translation: 请把盐递给我。
+
+Mini-dictionary:
+  Thai:
+    - อาหารจานหลัก: 主菜
+    - แก้ว: 玻璃杯
+    - เครื่องดื่ม: 饮料
+    - ขวด: 瓶子
+    - ของหวาน: 甜点
+    - เกลือ: 盐
+    - พริกไทย: 胡椒
+    - ผ้าเช็ดปาก: 餐巾
+    - ร้านอาหาร: 餐厅
+    - อาหาร: 食物
+  Chinese:
+    - 瓶子: ขวด
+    - 主菜: อาหารจานหลัก
+    - 饮料: เครื่องดื่ม
+    - 餐厅: ร้านอาหาร
+    - 甜点: ของหวาน
+    - 玻璃杯: แก้ว
+    - 盐: เกลือ
+    - 食物: อาหาร
+    - 餐巾: ผ้าเช็ดปาก
+    - 胡椒: พริกไทย

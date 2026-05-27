@@ -1,0 +1,788 @@
+{
+  "id": "37369be61272",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "office",
+      "meaningInSourceLanguage": "办公室",
+      "id": "5259038bdc84",
+      "priority": 0,
+      "group": "755946349182"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "office",
+      "meaning": "办公室",
+      "audio": "19dc61667d7b778595524a3eac7ff34b4cb924e3d114bb9dc7201129ab517136",
+      "id": "ad0b09d04869",
+      "priority": 1,
+      "group": "755946349182"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "desk",
+      "meaningInSourceLanguage": "办公桌",
+      "id": "db0cf5f8fd13",
+      "priority": 0,
+      "group": "2924265ac577"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "desk",
+      "meaning": "办公桌",
+      "audio": "3392df698da32bb356f1cb7ea30f2c9e442589873f33a0eed135d3af2d636abe",
+      "id": "845eaecf7349",
+      "priority": 1,
+      "group": "2924265ac577"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "computer",
+      "meaningInSourceLanguage": "电脑",
+      "id": "5b418af73d2b",
+      "priority": 0,
+      "group": "050564da4d3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "computer",
+      "meaning": "电脑",
+      "audio": "0eeb658415447cb02ac73c5c43584c90e8c293593dd3a529c0dd37a93621258a",
+      "id": "8f1ec3fb8ae2",
+      "priority": 1,
+      "group": "050564da4d3c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "printer",
+      "meaningInSourceLanguage": "打印机",
+      "id": "e32b9634d2e9",
+      "priority": 0,
+      "group": "263e8aa8afbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "printer",
+      "meaning": "打印机",
+      "audio": "e95616f7d72992b2c57619df4e313d49240ba2a2c2e4005d3463e65d355d8826",
+      "id": "2c98ca54a48d",
+      "priority": 1,
+      "group": "263e8aa8afbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scanner",
+      "meaningInSourceLanguage": "扫描仪",
+      "id": "3ffc4885a1eb",
+      "priority": 0,
+      "group": "e3850baf7539"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scanner",
+      "meaning": "扫描仪",
+      "audio": "542152a02003c578b4d7557559fa617665ccd523b9202a9fe586589697900de0",
+      "id": "34e002425c14",
+      "priority": 1,
+      "group": "e3850baf7539"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "phone",
+      "meaningInSourceLanguage": "电话",
+      "id": "6337dee8163a",
+      "priority": 0,
+      "group": "587f23b5b793"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "phone",
+      "meaning": "电话",
+      "audio": "e91d12f1723a7e16a71a7ba45ec054a963f38274080ab99772b456c66d22922b",
+      "id": "428e1133eb28",
+      "priority": 1,
+      "group": "587f23b5b793"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meeting room",
+      "meaningInSourceLanguage": "会议室",
+      "id": "9f359815992d",
+      "priority": 0,
+      "group": "f1aea160a93a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meeting room",
+      "meaning": "会议室",
+      "audio": "0554af827b5d16dd51102abaecd2eff6c739b4d533943bc72ade3f8ccce9a003",
+      "id": "8448d4354e1e",
+      "priority": 1,
+      "group": "f1aea160a93a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conference call",
+      "meaningInSourceLanguage": "电话会议",
+      "id": "75405c9f56a2",
+      "priority": 0,
+      "group": "14d29ffc232b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conference call",
+      "meaning": "电话会议",
+      "audio": "98fb3d0d99d96464524c43f3a8ca99d8e95da224b54d6377051b1f7e1b7049de",
+      "id": "63ca7d1d580b",
+      "priority": 1,
+      "group": "14d29ffc232b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "email",
+      "meaningInSourceLanguage": "电子邮件",
+      "id": "d5e39a30706d",
+      "priority": 0,
+      "group": "593319c99041"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "email",
+      "meaning": "电子邮件",
+      "audio": "0f1183d5007877610c4831b1db769bdb71a634c93e95a27dd4be46a7a074180c",
+      "id": "cfefea0d4f93",
+      "priority": 1,
+      "group": "593319c99041"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calendar",
+      "meaningInSourceLanguage": "日历",
+      "id": "ba91f057429b",
+      "priority": 0,
+      "group": "4471d21ef1cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calendar",
+      "meaning": "日历",
+      "audio": "757416e47c7b4615010ef6095368ca82c6c35ea2fe4397a03965695b252a47c3",
+      "id": "6228d837cfcb",
+      "priority": 1,
+      "group": "4471d21ef1cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "schedule",
+      "meaningInSourceLanguage": "日程",
+      "id": "5a2cc10bffd8",
+      "priority": 0,
+      "group": "30d5d33bbfda"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "schedule",
+      "meaning": "日程",
+      "audio": "f19c3e4495c408b2184d2b3cfd6ec9a06879bf12b560bf14fa495fa4e6861855",
+      "id": "4402cc447931",
+      "priority": 1,
+      "group": "30d5d33bbfda"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deadline",
+      "meaningInSourceLanguage": "截止日期",
+      "id": "3768168ca224",
+      "priority": 0,
+      "group": "2ba38533a173"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deadline",
+      "meaning": "截止日期",
+      "audio": "a5eaee08a9c2448668e449b5785e94620af8bfddfffacaf9fae5d3fd913306f4",
+      "id": "66b898ad1ee1",
+      "priority": 1,
+      "group": "2ba38533a173"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "appointment",
+      "meaningInSourceLanguage": "预约",
+      "id": "d8e6d7f60a53",
+      "priority": 0,
+      "group": "72aa241f0b60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "appointment",
+      "meaning": "预约",
+      "audio": "0a221815799fabfbd440c8ceea785f03362ef2473a937a73f9b311150f67c759",
+      "id": "00b243eacac2",
+      "priority": 1,
+      "group": "72aa241f0b60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meeting",
+      "meaningInSourceLanguage": "会议",
+      "id": "1a48dbed3e7a",
+      "priority": 0,
+      "group": "a5e4a70169ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meeting",
+      "meaning": "会议",
+      "audio": "3645dd307397e408d22dc9f1ee2dd71512d14221769a3aedf19b6a8ae59dc575",
+      "id": "30743d8752ab",
+      "priority": 1,
+      "group": "a5e4a70169ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "presentation",
+      "meaningInSourceLanguage": "演示",
+      "id": "aa7eb3b92dcd",
+      "priority": 0,
+      "group": "a783630da854"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "presentation",
+      "meaning": "演示",
+      "audio": "c43acf02b7b40b3af8d32fb2dfce7ed6536698d8657a941dcce68e5be424774f",
+      "id": "6bac6e6afd12",
+      "priority": 1,
+      "group": "a783630da854"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "report",
+      "meaningInSourceLanguage": "报告",
+      "id": "7d2a261f1211",
+      "priority": 0,
+      "group": "629fa89614b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "report",
+      "meaning": "报告",
+      "audio": "b5db77021dc3d025895c932c976155aea25c2ea0424eef1e6a2756b0333cd587",
+      "id": "4edd7a761eaa",
+      "priority": 1,
+      "group": "629fa89614b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "document",
+      "meaningInSourceLanguage": "文件",
+      "id": "29cefad0d354",
+      "priority": 0,
+      "group": "0b8609dd98a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "document",
+      "meaning": "文件",
+      "audio": "e61c4da422dab93c2281fda806c0d43b3000e4180d4a7380640c3ab0aea55e12",
+      "id": "02af8017e73d",
+      "priority": 1,
+      "group": "0b8609dd98a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spreadsheet",
+      "meaningInSourceLanguage": "电子表格",
+      "id": "337ae429a97c",
+      "priority": 0,
+      "group": "4ffe87a4b762"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spreadsheet",
+      "meaning": "电子表格",
+      "audio": "dc7ca7212a5acabb3fb63e59f6b7cfd3345d147b1fa6ced5277aac777b66a62b",
+      "id": "b8cf0cc54c44",
+      "priority": 1,
+      "group": "4ffe87a4b762"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "database",
+      "meaningInSourceLanguage": "数据库",
+      "id": "a993fb0c673a",
+      "priority": 0,
+      "group": "289d3219b50b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "database",
+      "meaning": "数据库",
+      "audio": "b105355f139bf6119b6c407282aa9acea5bc37010e5b49f8529c230da9e02522",
+      "id": "6eead4f5cc82",
+      "priority": 1,
+      "group": "289d3219b50b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "filing cabinet",
+      "meaningInSourceLanguage": "文件柜",
+      "id": "102e662b0efa",
+      "priority": 0,
+      "group": "bc1f4b6b7e61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "filing cabinet",
+      "meaning": "文件柜",
+      "audio": "42dd5e82bab4394bfb36620a892a6d46362412fb07c8bc90edf5a67973e1fb95",
+      "id": "f61023f0b4c5",
+      "priority": 1,
+      "group": "bc1f4b6b7e61"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "colleague",
+      "meaningInSourceLanguage": "同事",
+      "id": "63349c5f2011",
+      "priority": 0,
+      "group": "e280d453ad6b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "colleague",
+      "meaning": "同事",
+      "audio": "da9ff3333c5346325d68f85f2bd43063c5327052cd95a4152f35d0c7273c57f1",
+      "id": "f38698ed3218",
+      "priority": 1,
+      "group": "e280d453ad6b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boss",
+      "meaningInSourceLanguage": "老板",
+      "id": "35a82b2e5a35",
+      "priority": 0,
+      "group": "50674a6a268b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boss",
+      "meaning": "老板",
+      "audio": "5cba2f0f2c916070bf52a89c6a6de2c0ebfc2d5a6d7d17c40c57940feaa036cb",
+      "id": "c4e09d68f0e0",
+      "priority": 1,
+      "group": "50674a6a268b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "supervisor",
+      "meaningInSourceLanguage": "主管",
+      "id": "75d100f37d24",
+      "priority": 0,
+      "group": "cfa0bf33c713"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "supervisor",
+      "meaning": "主管",
+      "audio": "aa67bf2f7cc8b7e89a19e618e515b151d79ccf3dc23697a887d7cdd74e713b17",
+      "id": "820792838a87",
+      "priority": 1,
+      "group": "cfa0bf33c713"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "subordinate",
+      "meaningInSourceLanguage": "下属",
+      "id": "14a260066926",
+      "priority": 0,
+      "group": "b12332d686bd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "subordinate",
+      "meaning": "下属",
+      "audio": "e6bc5464bd59674191fa6c5a300dd81394e94259adf82a923a1feee84d785470",
+      "id": "50393e42e8e2",
+      "priority": 1,
+      "group": "b12332d686bd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "intern",
+      "meaningInSourceLanguage": "实习生",
+      "id": "ab50fde3f9fe",
+      "priority": 0,
+      "group": "d6be672ae80d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "intern",
+      "meaning": "实习生",
+      "audio": "1fd8b1ed5e8d6601a9e446ec2ec60a262b81c1ed8db519d220e21ea788a8fbc8",
+      "id": "51c8d55e9427",
+      "priority": 1,
+      "group": "d6be672ae80d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "employee",
+      "meaningInSourceLanguage": "员工",
+      "id": "5bb962d6e2de",
+      "priority": 0,
+      "group": "f51127872654"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "employee",
+      "meaning": "员工",
+      "audio": "7301cfe728b98f1e2a8485f7599ebe8cb6b744f425ec968fea847cfc85e5ce0b",
+      "id": "cb4c5a20700d",
+      "priority": 1,
+      "group": "f51127872654"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "employer",
+      "meaningInSourceLanguage": "雇主",
+      "id": "344aee6c504c",
+      "priority": 0,
+      "group": "22b5869b2c62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "employer",
+      "meaning": "雇主",
+      "audio": "d3e2680356914c66be6d880c58ab97c0ad911740197f95eb25b3fbf1658ecd71",
+      "id": "c6ec8c3974b7",
+      "priority": 1,
+      "group": "22b5869b2c62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "team",
+      "meaningInSourceLanguage": "团队",
+      "id": "3d8bdc46b177",
+      "priority": 0,
+      "group": "f968679bb2b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "team",
+      "meaning": "团队",
+      "audio": "bfd70544eb0c7490ee266bc7a774674592e74752743097ff5d771f3fdabb01ec",
+      "id": "269c877e461c",
+      "priority": 1,
+      "group": "f968679bb2b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "department",
+      "meaningInSourceLanguage": "部门",
+      "id": "34fa3174c334",
+      "priority": 0,
+      "group": "7051b7a28af0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "department",
+      "meaning": "部门",
+      "audio": "b2f588dc43700cfd33ceb4e05385f17cd85d1177aef5f7cb4ccb6a06cfa4880f",
+      "id": "8d2a8926c0b7",
+      "priority": 1,
+      "group": "7051b7a28af0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "division",
+      "meaningInSourceLanguage": "部门",
+      "id": "b83a1c24668b",
+      "priority": 0,
+      "group": "b8a17a1bbcd0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "division",
+      "meaning": "部门",
+      "audio": "f2c4a6dd1676a4fc54f1892687950c5d264ca728d83d0bb04c5730beafd1d277",
+      "id": "08cc3e22e768",
+      "priority": 1,
+      "group": "b8a17a1bbcd0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "company",
+      "meaningInSourceLanguage": "公司",
+      "id": "421b41787d75",
+      "priority": 0,
+      "group": "ed24d8b1c8fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "company",
+      "meaning": "公司",
+      "audio": "067054358ca92f5adfd4c70fc157eb8779f764dae38c496a9f57b5982bca4c3e",
+      "id": "70b0dc4853c3",
+      "priority": 1,
+      "group": "ed24d8b1c8fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "corporation",
+      "meaningInSourceLanguage": "公司",
+      "id": "9a4b20736649",
+      "priority": 0,
+      "group": "5af5c7463b34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "corporation",
+      "meaning": "公司",
+      "audio": "814855fd7e1f85ab9cd9b321cc5fc899414349a264da50d9a18379c0eb91c9d9",
+      "id": "8a29e196f661",
+      "priority": 1,
+      "group": "5af5c7463b34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "enterprise",
+      "meaningInSourceLanguage": "企业",
+      "id": "a8881a2a8c49",
+      "priority": 0,
+      "group": "e2f9a6e07d36"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "enterprise",
+      "meaning": "企业",
+      "audio": "16217ad679808d30261f145c4d0d3ba16193f60fd12d7721479b566eb569f383",
+      "id": "f9e9e21dff65",
+      "priority": 1,
+      "group": "e2f9a6e07d36"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "startup",
+      "meaningInSourceLanguage": "创业公司",
+      "id": "b1a8e74f0893",
+      "priority": 0,
+      "group": "7811e51fab5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "startup",
+      "meaning": "创业公司",
+      "audio": "5d7c84097fb2224c63ad9c9617d58d8bb1c6cd57b3a35270eff6a8ea2a17eff5",
+      "id": "c06efd78fdc0",
+      "priority": 1,
+      "group": "7811e51fab5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "subsidiary",
+      "meaningInSourceLanguage": "子公司",
+      "id": "6a69844e9786",
+      "priority": 0,
+      "group": "8dd5fa38c5f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "subsidiary",
+      "meaning": "子公司",
+      "audio": "e7b70c2a3143e39c1a8c2a18346521fe7e41fadbb0849d43215e3fb837e701c9",
+      "id": "5c09ab70b880",
+      "priority": 1,
+      "group": "8dd5fa38c5f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "headquarters",
+      "meaningInSourceLanguage": "总部",
+      "id": "122c1f0ee66e",
+      "priority": 0,
+      "group": "48efb7a47bb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "headquarters",
+      "meaning": "总部",
+      "audio": "e7d4e25f5b9784d02d9bca69892d4103be0102811c5c7d77493c4835146ea314",
+      "id": "df579fea9057",
+      "priority": 1,
+      "group": "48efb7a47bb6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "branch",
+      "meaningInSourceLanguage": "分公司",
+      "id": "43ca6852cdc1",
+      "priority": 0,
+      "group": "a321f6f43798"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "branch",
+      "meaning": "分公司",
+      "audio": "b362f2c1dfc0a60b5c42fbffdc53dd5936fbbf199f52d3e984db609f199cef19",
+      "id": "86633065a987",
+      "priority": 1,
+      "group": "a321f6f43798"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "board",
+      "meaningInSourceLanguage": "董事会",
+      "id": "a635973b1145",
+      "priority": 0,
+      "group": "5e41bea83927"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "board",
+      "meaning": "董事会",
+      "audio": "9d717212b7aa9a8cf82445ea30fef041b2ec5a86fa4193da77192191eaab8f14",
+      "id": "10493492677c",
+      "priority": 1,
+      "group": "5e41bea83927"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shareholder",
+      "meaningInSourceLanguage": "股东",
+      "id": "82b1d277e8fb",
+      "priority": 0,
+      "group": "646d1980eb94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shareholder",
+      "meaning": "股东",
+      "audio": "e3d00fcb9dbee09789ce9a8d864f45f9cc195d9cff4b93b65821d1155435eca9",
+      "id": "27e0f01ce754",
+      "priority": 1,
+      "group": "646d1980eb94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stakeholder",
+      "meaningInSourceLanguage": "利益相关者",
+      "id": "93f864cc5238",
+      "priority": 0,
+      "group": "c45d0f0a6b6b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stakeholder",
+      "meaning": "利益相关者",
+      "audio": "d12bf5113686cdb13b09a4006cc4198ffecaef24ff009a782e0694fdf80984a3",
+      "id": "1ecb330e4355",
+      "priority": 1,
+      "group": "c45d0f0a6b6b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "memo",
+      "meaningInSourceLanguage": "备忘录",
+      "id": "854ad97c183b",
+      "priority": 0,
+      "group": "e869ac20156e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "memo",
+      "meaning": "备忘录",
+      "audio": "83b4a2b54169d12e486f47f21512c24dfd0e10fc535f5e4cc4c703b67945b763",
+      "id": "85d7e122b9f3",
+      "priority": 1,
+      "group": "e869ac20156e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "agenda",
+      "meaningInSourceLanguage": "议程",
+      "id": "1cbbd8f30d1d",
+      "priority": 0,
+      "group": "101553fc38a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "agenda",
+      "meaning": "议程",
+      "audio": "58798505ee37a89ec9e834262bcef50f156ed938cd3493b3c0d3dda308ed03e0",
+      "id": "c58fd3c6562c",
+      "priority": 1,
+      "group": "101553fc38a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "minutes",
+      "meaningInSourceLanguage": "会议记录",
+      "id": "0020875d65fc",
+      "priority": 0,
+      "group": "e540130ecfd1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "minutes",
+      "meaning": "会议记录",
+      "audio": "0aa63f432dc83e8a186853a9e1d338fd3b54499b51ea6455079306c404c5299a",
+      "id": "3401dce3d660",
+      "priority": 1,
+      "group": "e540130ecfd1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "policy",
+      "meaningInSourceLanguage": "政策",
+      "id": "43f85741ceed",
+      "priority": 0,
+      "group": "44641459ae5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "policy",
+      "meaning": "政策",
+      "audio": "1a6a59636246cad55cb269882280a948e709a0670e3e69f70459c73c680b420d",
+      "id": "e225b830b917",
+      "priority": 1,
+      "group": "44641459ae5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "procedure",
+      "meaningInSourceLanguage": "程序",
+      "id": "cbfa2654837c",
+      "priority": 0,
+      "group": "fc421b129008"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "procedure",
+      "meaning": "程序",
+      "audio": "91f6ee9fbf8d7684ccb5f70b3b3976157087541b9bcacb33f88244695c4111aa",
+      "id": "c4f933e9fd08",
+      "priority": 1,
+      "group": "fc421b129008"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strategy",
+      "meaningInSourceLanguage": "策略",
+      "id": "44fa6e846b44",
+      "priority": 0,
+      "group": "c9e42a32157a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strategy",
+      "meaning": "策略",
+      "audio": "885b277b9bd185552322f08135bb12ac5a8f4677b9824cf9642bb8a816090a56",
+      "id": "a4e6adf01c90",
+      "priority": 1,
+      "group": "c9e42a32157a"
+    }
+  ]
+}

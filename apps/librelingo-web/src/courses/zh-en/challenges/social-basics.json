@@ -1,0 +1,414 @@
+{
+  "id": "28364324d62d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "friend",
+      "meaningInSourceLanguage": "朋友",
+      "id": "453ee0393b27",
+      "priority": 0,
+      "group": "995e5505d4cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "friend",
+      "meaning": "朋友",
+      "audio": "586f9ba54a6ca9edbc6e675b6bad86b62c6260124800a0b9fa319acd245c8933",
+      "id": "2b03790c8cff",
+      "priority": 1,
+      "group": "995e5505d4cf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "neighbor",
+      "meaningInSourceLanguage": "邻居",
+      "id": "ce9f1db64031",
+      "priority": 0,
+      "group": "0cbc44b52da4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "neighbor",
+      "meaning": "邻居",
+      "audio": "2abb1606ee7f91687e5b1dedaf7164a00e2566e92459db7d91556fe9c387f5a1",
+      "id": "fb086c7f2647",
+      "priority": 1,
+      "group": "0cbc44b52da4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "colleague",
+      "meaningInSourceLanguage": "同事",
+      "id": "b488c4502fda",
+      "priority": 0,
+      "group": "0326131a5fe6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "colleague",
+      "meaning": "同事",
+      "audio": "97958dadb49d812c7f0044b7efe62652bc17550583d2bd56cdc34fdbaf8b1e35",
+      "id": "e371fb7a3341",
+      "priority": 1,
+      "group": "0326131a5fe6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "classmate",
+      "meaningInSourceLanguage": "同学",
+      "id": "510055f0c698",
+      "priority": 0,
+      "group": "593cf3330bb8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "classmate",
+      "meaning": "同学",
+      "audio": "59f013557a31066655fbfcac2de67c6271198150df4ef1d806b4b298f98493cf",
+      "id": "7d14d6dfa28d",
+      "priority": 1,
+      "group": "593cf3330bb8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "roommate",
+      "meaningInSourceLanguage": "室友",
+      "id": "6a0a9118135e",
+      "priority": 0,
+      "group": "c53babbe0afa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "roommate",
+      "meaning": "室友",
+      "audio": "eca0bbcd8832bb49ddf2b549c987d957adb747094eee32cfdf4b9d2fb0b104b7",
+      "id": "0a6c1f63161e",
+      "priority": 1,
+      "group": "c53babbe0afa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "partner",
+      "meaningInSourceLanguage": "伴侣",
+      "id": "031135419757",
+      "priority": 0,
+      "group": "897abfb57cbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "partner",
+      "meaning": "伴侣",
+      "audio": "e78403a22433ed5d06243e41923f1907bd4db604073e91b4d55432405333b70a",
+      "id": "417b7d3e32b5",
+      "priority": 1,
+      "group": "897abfb57cbb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "boyfriend",
+      "meaningInSourceLanguage": "男朋友",
+      "id": "34644e790e54",
+      "priority": 0,
+      "group": "bcba4c725b13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boyfriend",
+      "meaning": "男朋友",
+      "audio": "6fb26c8a2a958d0b251531febfed7a2bb595cb682188d0c107d03ef03b46a6c4",
+      "id": "44f2790312af",
+      "priority": 1,
+      "group": "bcba4c725b13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "girlfriend",
+      "meaningInSourceLanguage": "女朋友",
+      "id": "d5677c1bcd8e",
+      "priority": 0,
+      "group": "b20db4a96281"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "girlfriend",
+      "meaning": "女朋友",
+      "audio": "8f4fa382368a6c2e4d9be53782e0bff5340e61717b730952824949345c0b3dbd",
+      "id": "497d61ccdbec",
+      "priority": 1,
+      "group": "b20db4a96281"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiancé",
+      "meaningInSourceLanguage": "未婚夫",
+      "id": "c09655462464",
+      "priority": 0,
+      "group": "dc9a218e066f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiancé",
+      "meaning": "未婚夫",
+      "audio": "6c6d678c8dce6901fe6d705f1e5e814f6b3a54e8481ca4b73862d370613c56cb",
+      "id": "b0e6020aa8f6",
+      "priority": 1,
+      "group": "dc9a218e066f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fiancée",
+      "meaningInSourceLanguage": "未婚妻",
+      "id": "bb4e7d72896d",
+      "priority": 0,
+      "group": "c9c90e8f0861"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fiancée",
+      "meaning": "未婚妻",
+      "audio": "1590e7b52d59c925b631aea9d29e9edab522e0ba17d188a710bbfa40923e7431",
+      "id": "ddd07c047169",
+      "priority": 1,
+      "group": "c9c90e8f0861"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "date",
+      "meaningInSourceLanguage": "约会",
+      "id": "8dbdef1829cc",
+      "priority": 0,
+      "group": "bf8169b0a165"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "date",
+      "meaning": "约会",
+      "audio": "f3f783263bee415e978f0299739ec507bc73dcd7bbf256bd68c3c89b007b0e97",
+      "id": "6ea7e0c734d3",
+      "priority": 1,
+      "group": "bf8169b0a165"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marriage",
+      "meaningInSourceLanguage": "婚姻",
+      "id": "068740655868",
+      "priority": 0,
+      "group": "d0aaa6c1fd9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marriage",
+      "meaning": "婚姻",
+      "audio": "a2b50169ae0cf9c362846d940d334377c196263802776a9a5447d01ad9206ba0",
+      "id": "82b84a4ad4f7",
+      "priority": 1,
+      "group": "d0aaa6c1fd9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wedding",
+      "meaningInSourceLanguage": "婚礼",
+      "id": "02bc494a80ce",
+      "priority": 0,
+      "group": "5061c5786798"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wedding",
+      "meaning": "婚礼",
+      "audio": "7375b0219a7cf30feb8b6ba587677c93314501818303409497ce8eedeed771e4",
+      "id": "91a1bca942e1",
+      "priority": 1,
+      "group": "5061c5786798"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "divorce",
+      "meaningInSourceLanguage": "离婚",
+      "id": "a2656a7770fd",
+      "priority": 0,
+      "group": "b73215f2143e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "divorce",
+      "meaning": "离婚",
+      "audio": "283d31ef4b3fe126bb3a26887a68616bf6d9424dd29a77b7f8f52ae2e9c544e9",
+      "id": "592c432bad65",
+      "priority": 1,
+      "group": "b73215f2143e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anniversary",
+      "meaningInSourceLanguage": "周年纪念",
+      "id": "8492cd0d2004",
+      "priority": 0,
+      "group": "8a54c8919723"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anniversary",
+      "meaning": "周年纪念",
+      "audio": "70ebd046182ebad5c34440d9869b1281f8412b0dedab288d7f9067648bfcb1b4",
+      "id": "75fade127bac",
+      "priority": 1,
+      "group": "8a54c8919723"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acquaintance",
+      "meaningInSourceLanguage": "熟人",
+      "id": "afd764e24ead",
+      "priority": 0,
+      "group": "8bf524cd5c01"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acquaintance",
+      "meaning": "熟人",
+      "audio": "4f8bcf834ac547944d5ea86feab5ccb258650c45d19a60d7834d5b2024c17351",
+      "id": "51ec73882199",
+      "priority": 1,
+      "group": "8bf524cd5c01"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stranger",
+      "meaningInSourceLanguage": "陌生人",
+      "id": "a15ba961d57c",
+      "priority": 0,
+      "group": "79f41118ca75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stranger",
+      "meaning": "陌生人",
+      "audio": "f8300d8e0704aa846c4aa1ac46320b55133039401d5cdf7c809959be9a6bfdc9",
+      "id": "0993f26965aa",
+      "priority": 1,
+      "group": "79f41118ca75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guest",
+      "meaningInSourceLanguage": "客人",
+      "id": "17be2069f84f",
+      "priority": 0,
+      "group": "80996089ed11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guest",
+      "meaning": "客人",
+      "audio": "4ab30bd0a1889a07347fa3d1c7aa880d7a0101996e69881aa0e5f8d2b21256e4",
+      "id": "40625850084c",
+      "priority": 1,
+      "group": "80996089ed11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "host",
+      "meaningInSourceLanguage": "主人",
+      "id": "629500eee5e1",
+      "priority": 0,
+      "group": "a6d56f5d1ce8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "host",
+      "meaning": "主人",
+      "audio": "747abc5bae5a86062f66359de0eb02159fbf283d09e84d043fbce931d8677295",
+      "id": "e1931a506cbc",
+      "priority": 1,
+      "group": "a6d56f5d1ce8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hostess",
+      "meaningInSourceLanguage": "女主人",
+      "id": "ed0eaef3bdc3",
+      "priority": 0,
+      "group": "822e99329640"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hostess",
+      "meaning": "女主人",
+      "audio": "fcc9b5a86cb0bb47c247d7a67e8b65144c92bda5e1f0088d428f74af49febc52",
+      "id": "dc8d2ee2f9c3",
+      "priority": 1,
+      "group": "822e99329640"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "companion",
+      "meaningInSourceLanguage": "同伴",
+      "id": "247241054ca7",
+      "priority": 0,
+      "group": "caa4997a56f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "companion",
+      "meaning": "同伴",
+      "audio": "4bd52b6dcde0cc960c02a2b1da3a04a942d4785a0c38816b2b7dcfdb5584e750",
+      "id": "520978ef27e2",
+      "priority": 1,
+      "group": "caa4997a56f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ally",
+      "meaningInSourceLanguage": "盟友",
+      "id": "2badb2fb75a8",
+      "priority": 0,
+      "group": "f60f97b6913a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ally",
+      "meaning": "盟友",
+      "audio": "ae5c65471fb33e470a3870dd81c50b73cd8ddbb9692f61c7e024ddd109d79848",
+      "id": "7f1dba459f8a",
+      "priority": 1,
+      "group": "f60f97b6913a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "enemy",
+      "meaningInSourceLanguage": "敌人",
+      "id": "3dbafc7dd67a",
+      "priority": 0,
+      "group": "be9ce0108925"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "enemy",
+      "meaning": "敌人",
+      "audio": "f80cc783c7ebeb2db052ad243a561f9a065dd49bb320ecd3767a77512d0307d8",
+      "id": "929c4e758045",
+      "priority": 1,
+      "group": "be9ce0108925"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rival",
+      "meaningInSourceLanguage": "对手",
+      "id": "982cdf9db6c3",
+      "priority": 0,
+      "group": "6fe1cbeea0da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rival",
+      "meaning": "对手",
+      "audio": "3da451d1ed0a7e6a53ea24ee6b8ebc3ca1a2e5cf5c995da18a57adacdb30e569",
+      "id": "6e4ed1061d19",
+      "priority": 1,
+      "group": "6fe1cbeea0da"
+    }
+  ]
+}

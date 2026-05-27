@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "部屋が必要です。",
+      "meaningInSourceLanguage": "我需要一个房间。",
+      "id": "5163cfe4526f",
+      "priority": 0,
+      "group": "0d410f34e7aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "部屋が必要です。",
+      "meaning": "我需要一个房间。",
+      "audio": "5873ba7d3861656f0ee82665a486f0ad83eece8b82056200ee44ad8cdbb0bb71",
+      "id": "c17c759dcdf8",
+      "priority": 1,
+      "group": "0d410f34e7aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "一泊いくらですか？",
+      "meaningInSourceLanguage": "每晚多少钱？",
+      "id": "58a567dc65ad",
+      "priority": 0,
+      "group": "ffe1f2622786"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "一泊いくらですか？",
+      "meaning": "每晚多少钱？",
+      "audio": "8a3c153e467d4c491029a29a442585c2ec11ddb0eede789d3ee66e688a8ae563",
+      "id": "d5673bbe06be",
+      "priority": 1,
+      "group": "ffe1f2622786"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "浴室はどこですか？",
+      "meaningInSourceLanguage": "浴室在哪里？",
+      "id": "e416f564c0d2",
+      "priority": 0,
+      "group": "8e01d76a85e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "浴室はどこですか？",
+      "meaning": "浴室在哪里？",
+      "audio": "62d3be05206e9f72ae57c2f6fbf353cd485dde812c49121f8fc92d8e32420005",
+      "id": "3bd4cde95206",
+      "priority": 1,
+      "group": "8e01d76a85e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "タオルをお願いします。",
+      "meaningInSourceLanguage": "能给我一条毛巾吗？",
+      "id": "60c41d8fff5c",
+      "priority": 0,
+      "group": "2a1ab21623d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "タオルをお願いします。",
+      "meaning": "能给我一条毛巾吗？",
+      "audio": "4f703570fd7a8a9c3b254729ded630659036baeb3448e710a152075a7abe7981",
+      "id": "fab45acd014f",
+      "priority": 1,
+      "group": "2a1ab21623d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ベッドが快適です。",
+      "meaningInSourceLanguage": "床很舒服。",
+      "id": "c576b2bda4d3",
+      "priority": 0,
+      "group": "b2548709ad0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ベッドが快適です。",
+      "meaning": "床很舒服。",
+      "audio": "02e613ef2acf7bed03d0a0371d2bef559257eb9da4fa4410c5d45b2580e72e0e",
+      "id": "94067bd7d09e",
+      "priority": 1,
+      "group": "b2548709ad0b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "私はここのゲストです。",
+      "meaningInSourceLanguage": "我是这里的客人。",
+      "id": "8ce26d4cee9a",
+      "priority": 0,
+      "group": "2ef2efd6dae5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "私はここのゲストです。",
+      "meaning": "我是这里的客人。",
+      "audio": "dda06918abc0190ef86ddf9d98e1644ee39e21ee795b63ecea9e449743b405be",
+      "id": "08d4df22700b",
+      "priority": 1,
+      "group": "2ef2efd6dae5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "フロントはこの階ですか？",
+      "meaningInSourceLanguage": "前台在这一层吗？",
+      "id": "274757548094",
+      "priority": 0,
+      "group": "93c4f8f58443"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "フロントはこの階ですか？",
+      "meaning": "前台在这一层吗？",
+      "audio": "5fb64762cb95b78b2cfa0999b93d20008a46e2b85317043a42d1b81a61a040dc",
+      "id": "a85e0a23f016",
+      "priority": 1,
+      "group": "93c4f8f58443"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "部屋",
+      "meaningInSourceLanguage": "房间",
+      "id": "d0fbf1d9bfbc",
+      "priority": 0,
+      "group": "2671a0205a8d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "部屋"
+      ],
+      "phrase": [
+        {
+          "word": "房间",
+          "definition": "部屋"
+        }
+      ],
+      "id": "57a9a5acf38f",
+      "priority": 1,
+      "group": "2671a0205a8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "部屋",
+      "meaning": "房间",
+      "audio": "74f527724733b8ec61473ac2925ea144b52a990b914dc0eb79798ce9696fe7b3",
+      "id": "c0380aed540a",
+      "priority": 1,
+      "group": "2671a0205a8d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ベッド",
+      "meaningInSourceLanguage": "床",
+      "id": "5fd7dd0c9f2c",
+      "priority": 0,
+      "group": "7cc2b426fc69"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ベッド"
+      ],
+      "phrase": [
+        {
+          "word": "床",
+          "definition": "ベッド"
+        }
+      ],
+      "id": "e2cabad1bc10",
+      "priority": 1,
+      "group": "7cc2b426fc69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ベッド",
+      "meaning": "床",
+      "audio": "1a9a09ec34180f2d00809796eef4c97d23beaa2a3dd9fe3ea82c2b669a36cbc8",
+      "id": "ef7cc7365c2b",
+      "priority": 1,
+      "group": "7cc2b426fc69"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "シャワー",
+      "meaningInSourceLanguage": "淋浴",
+      "id": "7d06924d1812",
+      "priority": 0,
+      "group": "d3c6f572dda1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "シャワー"
+      ],
+      "phrase": [
+        {
+          "word": "淋浴",
+          "definition": "シャワー"
+        }
+      ],
+      "id": "d5a68d4a8561",
+      "priority": 1,
+      "group": "d3c6f572dda1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "シャワー",
+      "meaning": "淋浴",
+      "audio": "0082269e710bcce0b358b6a7c684a7431c821613e20fd0647e27ea11b4a42b7f",
+      "id": "c5d2e4b96178",
+      "priority": 1,
+      "group": "d3c6f572dda1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "浴室",
+      "meaningInSourceLanguage": "浴室",
+      "id": "ce9ff4c5d553",
+      "priority": 0,
+      "group": "022695478fff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "浴室"
+      ],
+      "phrase": [
+        {
+          "word": "浴室",
+          "definition": "浴室"
+        }
+      ],
+      "id": "531108f9c20c",
+      "priority": 1,
+      "group": "022695478fff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "浴室",
+      "meaning": "浴室",
+      "audio": "a4212a8bdda5f5b88bc3707c93de86d34d427246a9643001eea2cf28e2b1ca15",
+      "id": "5fada601309d",
+      "priority": 1,
+      "group": "022695478fff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "タオル",
+      "meaningInSourceLanguage": "毛巾",
+      "id": "4b60fd6ae558",
+      "priority": 0,
+      "group": "aed3eec92dad"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "タオル"
+      ],
+      "phrase": [
+        {
+          "word": "毛巾",
+          "definition": "タオル"
+        }
+      ],
+      "id": "13e2ac606c4c",
+      "priority": 1,
+      "group": "aed3eec92dad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "タオル",
+      "meaning": "毛巾",
+      "audio": "ee2db1b01c5484771e777d068d8d1648fe09db8a3b470f87b1b6807279380797",
+      "id": "fbfe8fd6df6a",
+      "priority": 1,
+      "group": "aed3eec92dad"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "枕",
+      "meaningInSourceLanguage": "枕头",
+      "id": "a12e0563d52b",
+      "priority": 0,
+      "group": "a82b2af88921"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "枕"
+      ],
+      "phrase": [
+        {
+          "word": "枕头",
+          "definition": "枕"
+        }
+      ],
+      "id": "66990b580709",
+      "priority": 1,
+      "group": "a82b2af88921"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "枕",
+      "meaning": "枕头",
+      "audio": "5be802d0e7a621cb54e79ecbca99ffb0e9ad125a4bf5d97ec3d45594949e7bc3",
+      "id": "d57f0f5e5e93",
+      "priority": 1,
+      "group": "a82b2af88921"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "毛布",
+      "meaningInSourceLanguage": "毯子",
+      "id": "21a3ce757965",
+      "priority": 0,
+      "group": "e0e116d5bb90"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "毛布"
+      ],
+      "phrase": [
+        {
+          "word": "毯子",
+          "definition": "毛布"
+        }
+      ],
+      "id": "7206d60c93a6",
+      "priority": 1,
+      "group": "e0e116d5bb90"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "毛布",
+      "meaning": "毯子",
+      "audio": "f31d445c07714258c393f4de9c3bb3ba4527822870ea0d1c4c5dea533d0bbbb0",
+      "id": "e8c8d27a58c5",
+      "priority": 1,
+      "group": "e0e116d5bb90"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "階",
+      "meaningInSourceLanguage": "楼层",
+      "id": "5fa41b221f11",
+      "priority": 0,
+      "group": "bd365c066d30"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "階"
+      ],
+      "phrase": [
+        {
+          "word": "楼层",
+          "definition": "階"
+        }
+      ],
+      "id": "ff4eccd15474",
+      "priority": 1,
+      "group": "bd365c066d30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "階",
+      "meaning": "楼层",
+      "audio": "90518df3b0e9e49f2ddeab73318772cf2e053463cb1f3e765f8000ad02c26af7",
+      "id": "3e815dd1e642",
+      "priority": 1,
+      "group": "bd365c066d30"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "フロント",
+      "meaningInSourceLanguage": "前台",
+      "id": "b550dc4cf338",
+      "priority": 0,
+      "group": "e246c41ad2af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "フロント"
+      ],
+      "phrase": [
+        {
+          "word": "前台",
+          "definition": "フロント"
+        }
+      ],
+      "id": "16334094f410",
+      "priority": 1,
+      "group": "e246c41ad2af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "フロント",
+      "meaning": "前台",
+      "audio": "578ede708ae0e45a21be87657473e8375c0aec573055c070fd092c3537a07207",
+      "id": "816cff42f363",
+      "priority": 1,
+      "group": "e246c41ad2af"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ゲスト",
+      "meaningInSourceLanguage": "客人",
+      "id": "c0ce72bd4ff4",
+      "priority": 0,
+      "group": "6050de8e7bee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ゲスト"
+      ],
+      "phrase": [
+        {
+          "word": "客人",
+          "definition": "ゲスト"
+        }
+      ],
+      "id": "c2f823e899f5",
+      "priority": 1,
+      "group": "6050de8e7bee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ゲスト",
+      "meaning": "客人",
+      "audio": "d540a07d422423449936bebd48623439c36fcc80b0c2a6214650ec0f3c0d60f4",
+      "id": "854bff7d0cab",
+      "priority": 1,
+      "group": "6050de8e7bee"
+    }
+  ]
+}

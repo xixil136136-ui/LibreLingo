@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - il menu: 菜单
-    - la raccomandazione: 推荐
-    - il conto: 账单
-    - il piatto del giorno: 今日特价
-    - ordinare: 点餐
-    - la prenotazione: 预约
-    - Vorrei: 我想要
     - un tavolo per due: 两人桌
+    - il piatto del giorno: 今日特价
     - il cameriere: 服务员
+    - il conto: 账单
+    - la raccomandazione: 推荐
+    - la prenotazione: 预约
+    - il menu: 菜单
     - delizioso: 美味
+    - Vorrei: 我想要
+    - ordinare: 点餐
   Chinese:
-    - 美味: delizioso
-    - 服务员: il cameriere
-    - 今日特价: il piatto del giorno
-    - 推荐: la raccomandazione
-    - 账单: il conto
-    - 预约: la prenotazione
-    - 我想要: Vorrei
     - 菜单: il menu
     - 点餐: ordinare
     - 两人桌: un tavolo per due
+    - 预约: la prenotazione
+    - 今日特价: il piatto del giorno
+    - 美味: delizioso
+    - 账单: il conto
+    - 服务员: il cameriere
+    - 我想要: Vorrei
+    - 推荐: la raccomandazione

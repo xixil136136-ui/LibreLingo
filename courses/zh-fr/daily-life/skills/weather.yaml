@@ -1,0 +1,74 @@
+Skill:
+  Name: Weather
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: ensoleillé
+    Translation: 晴天
+  - Word: pluie
+    Translation: 雨
+  - Word: neige
+    Translation: 雪
+  - Word: vent
+    Translation: 风
+  - Word: nuage
+    Translation: 云
+  - Word: froid
+    Translation: 冷
+  - Word: chaud
+    Translation: 热
+  - Word: doux
+    Translation: 温暖
+  - Word: température
+    Translation: 温度
+  - Word: parapluie
+    Translation: 雨伞
+
+Phrases:
+  - Phrase: Il fait beau aujourd'hui.
+    Translation: 今天天气晴朗。
+  - Phrase: Il va pleuvoir.
+    Translation: 要下雨了。
+  - Phrase: Il fait très froid dehors.
+    Translation: 外面很冷。
+  - Phrase: Prends un parapluie.
+    Translation: 带上雨伞。
+  - Phrase: Quelle est la température ?
+    Translation: 多少度？
+  - Phrase: Il neige.
+    Translation: 下雪了。
+  - Phrase: Il fait doux aujourd'hui.
+    Translation: 今天很暖和。
+  - Phrase: Il y a du vent.
+    Translation: 刮风了。
+
+Mini-dictionary:
+  French:
+    - chaud: 热
+    - vent: 风
+    - pluie: 雨
+    - ensoleillé: 晴天
+    - froid: 冷
+    - parapluie: 雨伞
+    - température: 温度
+    - neige: 雪
+    - nuage: 云
+    - doux: 温暖
+  Chinese:
+    - 风: vent
+    - 温度: température
+    - 雨: pluie
+    - 温暖: doux
+    - 雨伞: parapluie
+    - 云: nuage
+    - 雪: neige
+    - 晴天: ensoleillé
+    - 热: chaud
+    - 冷: froid

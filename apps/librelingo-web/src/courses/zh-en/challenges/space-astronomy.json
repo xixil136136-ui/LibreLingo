@@ -1,0 +1,652 @@
+{
+  "id": "69cf885ed766",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "sun",
+      "meaningInSourceLanguage": "太阳",
+      "id": "accdd735cedc",
+      "priority": 0,
+      "group": "07a17db3235a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sun",
+      "meaning": "太阳",
+      "audio": "5bde59becd81ec0eae18f120563614b4d1ba34e7c2aef2d0696bca1bb00f2f48",
+      "id": "4fceeab30448",
+      "priority": 1,
+      "group": "07a17db3235a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "moon",
+      "meaningInSourceLanguage": "月亮",
+      "id": "32393618a31c",
+      "priority": 0,
+      "group": "37210e8f841a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "moon",
+      "meaning": "月亮",
+      "audio": "2597f1f1c9656541330124da48243b1bbb01df79574ff51b963449cf6bb857c7",
+      "id": "dfaf56bbeec7",
+      "priority": 1,
+      "group": "37210e8f841a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "star",
+      "meaningInSourceLanguage": "星星",
+      "id": "6532c28e8c2e",
+      "priority": 0,
+      "group": "e8c0a972a558"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "star",
+      "meaning": "星星",
+      "audio": "31a1800a1b50cba6357f902fc4c9488daed4279a93d14a74ca3dc13a8d8efd7e",
+      "id": "6aa535840bbd",
+      "priority": 1,
+      "group": "e8c0a972a558"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "planet",
+      "meaningInSourceLanguage": "行星",
+      "id": "370ac620382f",
+      "priority": 0,
+      "group": "33e7258950d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "planet",
+      "meaning": "行星",
+      "audio": "a68d4e73b23b4d93866c3174b9a9d9f673a8c334ce6c55066e71118e3ab23b5e",
+      "id": "ee04fafbf09a",
+      "priority": 1,
+      "group": "33e7258950d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mercury",
+      "meaningInSourceLanguage": "水星",
+      "id": "1ef63ecb4583",
+      "priority": 0,
+      "group": "457d1b1a4124"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mercury",
+      "meaning": "水星",
+      "audio": "c5e00c4018183ec97364141dcd5345d27da4bedbba26337e79fe7a571a5cb5f8",
+      "id": "759598d270c0",
+      "priority": 1,
+      "group": "457d1b1a4124"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Venus",
+      "meaningInSourceLanguage": "金星",
+      "id": "45419ab6ac32",
+      "priority": 0,
+      "group": "8125ae1a8a5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Venus",
+      "meaning": "金星",
+      "audio": "1f11511797574082a7418af1540220f500c0c5d86b1a436fa01a3a2d4252d6b6",
+      "id": "836d80ab5175",
+      "priority": 1,
+      "group": "8125ae1a8a5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Earth",
+      "meaningInSourceLanguage": "地球",
+      "id": "568d399ec585",
+      "priority": 0,
+      "group": "50881669a029"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Earth",
+      "meaning": "地球",
+      "audio": "a5a47e8fbaec6c32bde2a03c3a5c30d2cd4130a4168be7badd381b0d08b88af8",
+      "id": "c93b28926844",
+      "priority": 1,
+      "group": "50881669a029"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mars",
+      "meaningInSourceLanguage": "火星",
+      "id": "08f01ad02e55",
+      "priority": 0,
+      "group": "1971603fea3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mars",
+      "meaning": "火星",
+      "audio": "de870609ccec8b26897ac5a5c227f44e3ed28b20888ee4778cfffda35349645e",
+      "id": "b8104fe81a6f",
+      "priority": 1,
+      "group": "1971603fea3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Jupiter",
+      "meaningInSourceLanguage": "木星",
+      "id": "1cb8871e6dac",
+      "priority": 0,
+      "group": "5d7d7857e2e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Jupiter",
+      "meaning": "木星",
+      "audio": "94e7d1f69ec18e690ab6bc82333d9f16ba8d3a2adeb6a03a16b5c7fa38fd8c60",
+      "id": "77a2668a3459",
+      "priority": 1,
+      "group": "5d7d7857e2e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Saturn",
+      "meaningInSourceLanguage": "土星",
+      "id": "8fe8611be55d",
+      "priority": 0,
+      "group": "faf573250224"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Saturn",
+      "meaning": "土星",
+      "audio": "9af4a3dc6f4831847b14759763f950d14d0d10f05254caa4f42ccbdb789ca247",
+      "id": "b5c90485afdd",
+      "priority": 1,
+      "group": "faf573250224"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Uranus",
+      "meaningInSourceLanguage": "天王星",
+      "id": "0719a5e050ce",
+      "priority": 0,
+      "group": "e8bcdb69a1b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Uranus",
+      "meaning": "天王星",
+      "audio": "e7af72b84383870f5c31bb24ecf22a3affae2e2694f9fbc6c67c9636ffdddf33",
+      "id": "f711d9fb3917",
+      "priority": 1,
+      "group": "e8bcdb69a1b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Neptune",
+      "meaningInSourceLanguage": "海王星",
+      "id": "346b9839c87f",
+      "priority": 0,
+      "group": "8892ef4b6c9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Neptune",
+      "meaning": "海王星",
+      "audio": "09ebbf87c63e43ad586981e0bfe01484a705f57defdb5309a7b7cf67ea2f5946",
+      "id": "b8696b3fa04a",
+      "priority": 1,
+      "group": "8892ef4b6c9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pluto",
+      "meaningInSourceLanguage": "冥王星",
+      "id": "bc688db7970a",
+      "priority": 0,
+      "group": "32a954beac59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pluto",
+      "meaning": "冥王星",
+      "audio": "861e95ea3465b41c4d24d8104e0b8d7149c8cd455228ab52a64a4b9c2b605907",
+      "id": "2ca17dbc0358",
+      "priority": 1,
+      "group": "32a954beac59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "asteroid",
+      "meaningInSourceLanguage": "小行星",
+      "id": "77d5faa3b405",
+      "priority": 0,
+      "group": "6175948678c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "asteroid",
+      "meaning": "小行星",
+      "audio": "4fcaa0b8c3295831d016ace3ffca9d0c491ee36a08f47927612e731cf9bd1a29",
+      "id": "4a68627cbb1d",
+      "priority": 1,
+      "group": "6175948678c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comet",
+      "meaningInSourceLanguage": "彗星",
+      "id": "4172f523dd6b",
+      "priority": 0,
+      "group": "1138a30a3097"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comet",
+      "meaning": "彗星",
+      "audio": "00effe0fc6db691c23b4a966b6236dcd63880e4e71072bc784e6147a65366ff7",
+      "id": "99b879b2643d",
+      "priority": 1,
+      "group": "1138a30a3097"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meteor",
+      "meaningInSourceLanguage": "流星",
+      "id": "bbdd9a7993e9",
+      "priority": 0,
+      "group": "ae1cc66edf7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meteor",
+      "meaning": "流星",
+      "audio": "4a5971a9987f3d0aa9a9f32fbec4cc8944a51e9a7d117a48d110a74d572c6245",
+      "id": "83c8a3e315e2",
+      "priority": 1,
+      "group": "ae1cc66edf7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "galaxy",
+      "meaningInSourceLanguage": "星系",
+      "id": "bf367af5b02c",
+      "priority": 0,
+      "group": "a38dd8f25186"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "galaxy",
+      "meaning": "星系",
+      "audio": "40e3c0387181c3e7a4347795501d7937241943edf93671b2c9de3b5ed53ca89c",
+      "id": "503942f1586b",
+      "priority": 1,
+      "group": "a38dd8f25186"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Milky Way",
+      "meaningInSourceLanguage": "银河",
+      "id": "5cd06f2edf3a",
+      "priority": 0,
+      "group": "978d9a84171d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Milky Way",
+      "meaning": "银河",
+      "audio": "3c9c77033d4ac6c95b62aa88641fce5a2cffdf5aa091e970b32632e1ea6c5484",
+      "id": "aa8d1b9be9ad",
+      "priority": 1,
+      "group": "978d9a84171d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solar system",
+      "meaningInSourceLanguage": "太阳系",
+      "id": "d74425315a70",
+      "priority": 0,
+      "group": "52b99ad61118"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solar system",
+      "meaning": "太阳系",
+      "audio": "a09841b7ffa3f229daf2342656d6e6f5b27b0d9eaa455bf336008bfa15dd31d8",
+      "id": "510feeb6792e",
+      "priority": 1,
+      "group": "52b99ad61118"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orbit",
+      "meaningInSourceLanguage": "轨道",
+      "id": "1e75a02f11b0",
+      "priority": 0,
+      "group": "3566c1f081bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orbit",
+      "meaning": "轨道",
+      "audio": "0cddf58c560492df5cbd2f65945d4ee3cf2e9cef27fe31a332902447358b0fa4",
+      "id": "eb6d31d380b6",
+      "priority": 1,
+      "group": "3566c1f081bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "satellite",
+      "meaningInSourceLanguage": "卫星",
+      "id": "2cd8642d2c89",
+      "priority": 0,
+      "group": "b0b409104ba2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "satellite",
+      "meaning": "卫星",
+      "audio": "69b399a89dffc5d723aa959427d2b52d5db43b0cea3ee0807c4f57fbeb8ed243",
+      "id": "4da9ebab141d",
+      "priority": 1,
+      "group": "b0b409104ba2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "telescope",
+      "meaningInSourceLanguage": "望远镜",
+      "id": "dc045d5ed017",
+      "priority": 0,
+      "group": "e4c8b43420a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "telescope",
+      "meaning": "望远镜",
+      "audio": "6608369304f3d7145afc1b4b582337ed211f6f13ba4674382a44e9c0922aa192",
+      "id": "d36c17bf9bb6",
+      "priority": 1,
+      "group": "e4c8b43420a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "observatory",
+      "meaningInSourceLanguage": "天文台",
+      "id": "a582d06561d6",
+      "priority": 0,
+      "group": "5c67cf8db170"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "observatory",
+      "meaning": "天文台",
+      "audio": "44e1afbdec461cb9172798f8d85a7be31b433fcfc8627faf7260a898a8a44311",
+      "id": "3e2362b92959",
+      "priority": 1,
+      "group": "5c67cf8db170"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "astronaut",
+      "meaningInSourceLanguage": "宇航员",
+      "id": "5b28ada15a6c",
+      "priority": 0,
+      "group": "d4998c898ff5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "astronaut",
+      "meaning": "宇航员",
+      "audio": "e02de755e014e98fca8da62e3ab71c1c4e42ce6e903a5c7df261d9b695acf96b",
+      "id": "c7990b2f7b02",
+      "priority": 1,
+      "group": "d4998c898ff5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spacecraft",
+      "meaningInSourceLanguage": "宇宙飞船",
+      "id": "07e9a3ba177c",
+      "priority": 0,
+      "group": "521d167ebece"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spacecraft",
+      "meaning": "宇宙飞船",
+      "audio": "e0fbdb714f8b44caf67fae372ff936abdfac4f8843bbda17faeefbeb9c52d7ef",
+      "id": "922625b1a735",
+      "priority": 1,
+      "group": "521d167ebece"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "space station",
+      "meaningInSourceLanguage": "空间站",
+      "id": "e38e3f49fff1",
+      "priority": 0,
+      "group": "53b7c91e2d6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "space station",
+      "meaning": "空间站",
+      "audio": "9908bee4ad24c92fefa436723ff3311c32f2902dc1d52dc2baf35196547a5a91",
+      "id": "f50883469e2e",
+      "priority": 1,
+      "group": "53b7c91e2d6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rocket",
+      "meaningInSourceLanguage": "火箭",
+      "id": "58a3dc4544be",
+      "priority": 0,
+      "group": "f2d9f94dff36"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rocket",
+      "meaning": "火箭",
+      "audio": "fabd30f66849abdc3956c1980aea31fe89bf1c6b695036be26678e8d5093d4de",
+      "id": "f38ba3a66aed",
+      "priority": 1,
+      "group": "f2d9f94dff36"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "launch",
+      "meaningInSourceLanguage": "发射",
+      "id": "a78ce052d5df",
+      "priority": 0,
+      "group": "defe86f4b25e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "launch",
+      "meaning": "发射",
+      "audio": "f0cc401bec64b47b5514e292f1820d3f4827e89585519093973bde8c62553b82",
+      "id": "0e69928cf1bc",
+      "priority": 1,
+      "group": "defe86f4b25e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gravity",
+      "meaningInSourceLanguage": "重力",
+      "id": "f3d1a49eadd0",
+      "priority": 0,
+      "group": "1218fb6a4140"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gravity",
+      "meaning": "重力",
+      "audio": "ab3b771fe9f7fbf658e87f13b7c8f49fd9f86ecd4d3a6fb05938ea461ee9183a",
+      "id": "0badfd18732a",
+      "priority": 1,
+      "group": "1218fb6a4140"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "black hole",
+      "meaningInSourceLanguage": "黑洞",
+      "id": "38d7df6c1c66",
+      "priority": 0,
+      "group": "487d743f9ecb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "black hole",
+      "meaning": "黑洞",
+      "audio": "9e9386711a9d7ed50f5e9bf7b972d19cbafcbd32cd3b6c91641e722d76d4b352",
+      "id": "7bdf26650865",
+      "priority": 1,
+      "group": "487d743f9ecb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nebula",
+      "meaningInSourceLanguage": "星云",
+      "id": "aa9e678b3b2c",
+      "priority": 0,
+      "group": "a93d4aba2c20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nebula",
+      "meaning": "星云",
+      "audio": "f85215a6216c6072e3ccd1c615223504913af7b4147d602284bc4e16bcb8aa51",
+      "id": "4b3f7524ba46",
+      "priority": 1,
+      "group": "a93d4aba2c20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "constellation",
+      "meaningInSourceLanguage": "星座",
+      "id": "8fbff2ede021",
+      "priority": 0,
+      "group": "3b186d1f6ff2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "constellation",
+      "meaning": "星座",
+      "audio": "d3c39ddc8a1fd82928454a898a601a18d180615194c5bd0b6dda6596708dab99",
+      "id": "4af91e3f78f8",
+      "priority": 1,
+      "group": "3b186d1f6ff2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Big Bang",
+      "meaningInSourceLanguage": "大爆炸",
+      "id": "74d21b2ab971",
+      "priority": 0,
+      "group": "abdebc83896e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Big Bang",
+      "meaning": "大爆炸",
+      "audio": "2e65fe18222c396c571c840a24084b322307d3f2d8aeaf47504289e4d0c3e6d7",
+      "id": "a749a626c4ce",
+      "priority": 1,
+      "group": "abdebc83896e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "universe",
+      "meaningInSourceLanguage": "宇宙",
+      "id": "b8f48e67c7a3",
+      "priority": 0,
+      "group": "63af46f83283"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "universe",
+      "meaning": "宇宙",
+      "audio": "82e5a51972432681a80c08522aa91cf710744c35a82fa0e21c2330804dc3cd13",
+      "id": "d36bd0f944e8",
+      "priority": 1,
+      "group": "63af46f83283"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "light year",
+      "meaningInSourceLanguage": "光年",
+      "id": "bf35a2db0476",
+      "priority": 0,
+      "group": "bacf9171650d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "light year",
+      "meaning": "光年",
+      "audio": "69955cdbf388100ac5b1ebae3e4dec824650a106b4e5c5c4756b2b74feb07664",
+      "id": "747640c5dead",
+      "priority": 1,
+      "group": "bacf9171650d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eclipse",
+      "meaningInSourceLanguage": "日食",
+      "id": "b58911c314e6",
+      "priority": 0,
+      "group": "c93e3b267b7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eclipse",
+      "meaning": "日食",
+      "audio": "bdf7c09c6f7043efbd5fc60e08ed35dcdf839b6dd4bb8f5de6899a536520eee7",
+      "id": "4ae5431c40c9",
+      "priority": 1,
+      "group": "c93e3b267b7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solar flare",
+      "meaningInSourceLanguage": "太阳耀斑",
+      "id": "4d80d4979561",
+      "priority": 0,
+      "group": "978f163b1aa9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solar flare",
+      "meaning": "太阳耀斑",
+      "audio": "7ed597e2883bad8c3c2f8a5b6294d3eee4293a9d10ffa64cbbed7bdac7219fd8",
+      "id": "d92cba8aeee3",
+      "priority": 1,
+      "group": "978f163b1aa9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aurora",
+      "meaningInSourceLanguage": "极光",
+      "id": "8ce3304f519d",
+      "priority": 0,
+      "group": "a3b1744c4d1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aurora",
+      "meaning": "极光",
+      "audio": "924bbcf5c9ff3f838ba647be77c90d718adfc6fdcdd49f8afcaabc1ec86461ac",
+      "id": "be0f035411bd",
+      "priority": 1,
+      "group": "a3b1744c4d1d"
+    }
+  ]
+}

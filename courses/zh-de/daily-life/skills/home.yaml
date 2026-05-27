@@ -1,0 +1,70 @@
+Skill:
+  Name: Home
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Haus
+    Translation: 房子
+  - Word: Tür
+    Translation: 门
+  - Word: Fenster
+    Translation: 窗户
+  - Word: Küche
+    Translation: 厨房
+  - Word: Schlafzimmer
+    Translation: 卧室
+  - Word: Garten
+    Translation: 花园
+  - Word: Garage
+    Translation: 车库
+  - Word: Treppe
+    Translation: 楼梯
+  - Word: Hof
+    Translation: 院子
+  - Word: Dach
+    Translation: 屋顶
+
+Phrases:
+  - Phrase: Das ist mein Haus.
+    Translation: 这是我的房子。
+  - Phrase: Öffne die Tür.
+    Translation: 开门。
+  - Phrase: Die Küche ist groß.
+    Translation: 厨房很大。
+  - Phrase: Das Schlafzimmer ist sauber.
+    Translation: 卧室很干净。
+  - Phrase: Es gibt einen Garten.
+    Translation: 有一个花园。
+  - Phrase: Schließe das Fenster.
+    Translation: 关窗。
+
+Mini-dictionary:
+  German:
+    - Garage: 车库
+    - Küche: 厨房
+    - Treppe: 楼梯
+    - Haus: 房子
+    - Garten: 花园
+    - Fenster: 窗户
+    - Hof: 院子
+    - Schlafzimmer: 卧室
+    - Dach: 屋顶
+    - Tür: 门
+  Chinese:
+    - 车库: Garage
+    - 院子: Hof
+    - 窗户: Fenster
+    - 房子: Haus
+    - 楼梯: Treppe
+    - 花园: Garten
+    - 门: Tür
+    - 卧室: Schlafzimmer
+    - 屋顶: Dach
+    - 厨房: Küche

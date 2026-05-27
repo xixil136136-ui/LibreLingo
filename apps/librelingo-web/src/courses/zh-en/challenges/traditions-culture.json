@@ -1,0 +1,856 @@
+{
+  "id": "8cb16f2a41de",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "culture",
+      "meaningInSourceLanguage": "文化",
+      "id": "61bb95a92073",
+      "priority": 0,
+      "group": "43a5b4035aa1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "culture",
+      "meaning": "文化",
+      "audio": "cbe46c39fd1563f54901a547d11c755c82b802bbac84ba6f0657b8b7da938a7f",
+      "id": "5b25d5ed5d9d",
+      "priority": 1,
+      "group": "43a5b4035aa1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tradition",
+      "meaningInSourceLanguage": "传统",
+      "id": "0d1fa37bdf59",
+      "priority": 0,
+      "group": "141bfc878421"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tradition",
+      "meaning": "传统",
+      "audio": "989884766f0b314398fddab490fc9e4a1de6e0054f47b6128e1ae8541f0b3a11",
+      "id": "9736351d9423",
+      "priority": 1,
+      "group": "141bfc878421"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "custom",
+      "meaningInSourceLanguage": "习俗",
+      "id": "6f0891a22795",
+      "priority": 0,
+      "group": "06d0bc95b461"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "custom",
+      "meaning": "习俗",
+      "audio": "265015150f93a12edf9ef547b7dc89a0324a538e5cf5f6e880c652d5ade303a6",
+      "id": "6f3927a2e9ee",
+      "priority": 1,
+      "group": "06d0bc95b461"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "festival",
+      "meaningInSourceLanguage": "节日",
+      "id": "e1cbdb588c60",
+      "priority": 0,
+      "group": "47eec1aeeb69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "festival",
+      "meaning": "节日",
+      "audio": "f9da3fc22cb14acf0e9b25d807b5c51b2260a375a24fab0c2ec705218732436d",
+      "id": "bd9132d78b44",
+      "priority": 1,
+      "group": "47eec1aeeb69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "holiday",
+      "meaningInSourceLanguage": "假日",
+      "id": "6b1e6942d173",
+      "priority": 0,
+      "group": "1d0f98257730"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "holiday",
+      "meaning": "假日",
+      "audio": "81b24a1b91682d727b644ea8984af6a6953bc10b7bd355a3e8ad765718bc8587",
+      "id": "1182babe3f77",
+      "priority": 1,
+      "group": "1d0f98257730"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "celebration",
+      "meaningInSourceLanguage": "庆祝",
+      "id": "ec9336c1c889",
+      "priority": 0,
+      "group": "5e3b9a507eb0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "celebration",
+      "meaning": "庆祝",
+      "audio": "b34ced2436ae5c04f36a1382ec6fbfad1ec764c876d5f08677407da24ddc5ad3",
+      "id": "4cb77b941915",
+      "priority": 1,
+      "group": "5e3b9a507eb0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ritual",
+      "meaningInSourceLanguage": "仪式",
+      "id": "156570c672fe",
+      "priority": 0,
+      "group": "5fa8157b45eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ritual",
+      "meaning": "仪式",
+      "audio": "e84c88d82248ab05ce1d2fed6d81e3ba8fa2134e7d6fc6d8cda2c69ea7f04919",
+      "id": "9bf1ea7ddfa4",
+      "priority": 1,
+      "group": "5fa8157b45eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ceremony",
+      "meaningInSourceLanguage": "典礼",
+      "id": "1d30f221fcfb",
+      "priority": 0,
+      "group": "eb0a80d8b522"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ceremony",
+      "meaning": "典礼",
+      "audio": "f458bf0c598fced9fd2e1e1da95b1de8ebfb5dd76656d2ec9adf9e142009fbc8",
+      "id": "c78477cbc948",
+      "priority": 1,
+      "group": "eb0a80d8b522"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "superstition",
+      "meaningInSourceLanguage": "迷信",
+      "id": "22953af59ad5",
+      "priority": 0,
+      "group": "a98b1412cce1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "superstition",
+      "meaning": "迷信",
+      "audio": "e0d02e7463c3da4771e8d4fc6a43ae46ed30baca2f44476af523a3c3c74ec962",
+      "id": "0943278181ca",
+      "priority": 1,
+      "group": "a98b1412cce1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mythology",
+      "meaningInSourceLanguage": "神话",
+      "id": "a50597a39f43",
+      "priority": 0,
+      "group": "89526c594cd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mythology",
+      "meaning": "神话",
+      "audio": "0f23a32e26ab46ff1bb86cefc96f01023222619cd0a2b69591f8a99f4b8047e2",
+      "id": "57cee75954c8",
+      "priority": 1,
+      "group": "89526c594cd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "legend",
+      "meaningInSourceLanguage": "传说",
+      "id": "d77d074b2064",
+      "priority": 0,
+      "group": "b5dcfac76c7e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "legend",
+      "meaning": "传说",
+      "audio": "07662d76d0a9018d328a1cb7cd8e246971c849e4668c1b08f2fa4876b07f6c38",
+      "id": "88a9af982ad9",
+      "priority": 1,
+      "group": "b5dcfac76c7e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "folklore",
+      "meaningInSourceLanguage": "民间传说",
+      "id": "eebfddc42054",
+      "priority": 0,
+      "group": "fde1fb2eb599"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "folklore",
+      "meaning": "民间传说",
+      "audio": "7b9bafa85b8c2fb5b63714b7684e6d919dd557e04dba25ebc7b77e3cb97a5319",
+      "id": "e94c8743e2db",
+      "priority": 1,
+      "group": "fde1fb2eb599"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ancestor",
+      "meaningInSourceLanguage": "祖先",
+      "id": "abc1a7714bee",
+      "priority": 0,
+      "group": "10df2a358abd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ancestor",
+      "meaning": "祖先",
+      "audio": "0425f0962e0270180c12edce2fd521838dd0910b46a9a1f38f0d5db1c4780b0f",
+      "id": "1bcfb574f505",
+      "priority": 1,
+      "group": "10df2a358abd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heritage",
+      "meaningInSourceLanguage": "遗产",
+      "id": "8e77a048dc75",
+      "priority": 0,
+      "group": "5785a039d421"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heritage",
+      "meaning": "遗产",
+      "audio": "b5906196859dbbe6f8d7366e02bb687ca8c4f7e55fbac02c692b554c5219d11a",
+      "id": "55a5b6f3cdfa",
+      "priority": 1,
+      "group": "5785a039d421"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "identity",
+      "meaningInSourceLanguage": "身份",
+      "id": "284212e3ccdf",
+      "priority": 0,
+      "group": "c64d4c65d478"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "identity",
+      "meaning": "身份",
+      "audio": "462f49421ddaeb4937bcf85bf634029c209aa65c061d313bb5f0cdebdb67ab3e",
+      "id": "032a3eb2ccd7",
+      "priority": 1,
+      "group": "c64d4c65d478"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "value",
+      "meaningInSourceLanguage": "价值观",
+      "id": "37fb6285f10e",
+      "priority": 0,
+      "group": "3e042447c326"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "value",
+      "meaning": "价值观",
+      "audio": "a25040bd0c7e9d9f8ac4ed50ea112aee13d259b491d434f1c2622c9dc3b9116c",
+      "id": "88536c99bfba",
+      "priority": 1,
+      "group": "3e042447c326"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "norm",
+      "meaningInSourceLanguage": "规范",
+      "id": "4e235ecab3af",
+      "priority": 0,
+      "group": "b1f721a55202"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "norm",
+      "meaning": "规范",
+      "audio": "b4c72788fcfbd4b0dcbacab8b38bfd584b7eccb73d25cfebbf37b5fd214a225d",
+      "id": "f982775d9395",
+      "priority": 1,
+      "group": "b1f721a55202"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "belief",
+      "meaningInSourceLanguage": "信仰",
+      "id": "2edbbd4e0eee",
+      "priority": 0,
+      "group": "857f64c45c9c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "belief",
+      "meaning": "信仰",
+      "audio": "1f36313a6163879cc1847422af4f4bf8561409541b1b8f53725bb519dc8d1c00",
+      "id": "eea8c39ef0a9",
+      "priority": 1,
+      "group": "857f64c45c9c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "religion",
+      "meaningInSourceLanguage": "宗教",
+      "id": "6a11f053badd",
+      "priority": 0,
+      "group": "24c2e4fea1b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "religion",
+      "meaning": "宗教",
+      "audio": "734c70047a5ce88f089b42d8d7ede456c9381aa05b68d54baff9c044d2b559f3",
+      "id": "fc3c8d63b92b",
+      "priority": 1,
+      "group": "24c2e4fea1b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "philosophy",
+      "meaningInSourceLanguage": "哲学",
+      "id": "5e2a566caa99",
+      "priority": 0,
+      "group": "2df0f4fe0b7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "philosophy",
+      "meaning": "哲学",
+      "audio": "c3ba0983bd295aaba660116df2495c09e573deb2911c2d666505138c9e6b750b",
+      "id": "26621404f7d9",
+      "priority": 1,
+      "group": "2df0f4fe0b7f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ideology",
+      "meaningInSourceLanguage": "意识形态",
+      "id": "9925bb336308",
+      "priority": 0,
+      "group": "136cb5c5f9f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ideology",
+      "meaning": "意识形态",
+      "audio": "1ef3f84672833dcef609cae7938c299b7b58f5ef2439ab66d5b38afacf704118",
+      "id": "86d5021c470c",
+      "priority": 1,
+      "group": "136cb5c5f9f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "New Year",
+      "meaningInSourceLanguage": "新年",
+      "id": "2282f43cec97",
+      "priority": 0,
+      "group": "dfdfe6118399"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "New Year",
+      "meaning": "新年",
+      "audio": "5377206091b3b480be520efcbb3e0763f9407966eae92bd2b349b2df28739961",
+      "id": "4038c0c74ac7",
+      "priority": 1,
+      "group": "dfdfe6118399"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Christmas",
+      "meaningInSourceLanguage": "圣诞节",
+      "id": "09643113c9d0",
+      "priority": 0,
+      "group": "65f529b1d9ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Christmas",
+      "meaning": "圣诞节",
+      "audio": "6ca649f212c618784dcbb72d33f9940dd811bff93b8b16d11b08138ece62514a",
+      "id": "c70d243f4be0",
+      "priority": 1,
+      "group": "65f529b1d9ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Easter",
+      "meaningInSourceLanguage": "复活节",
+      "id": "c36434373b41",
+      "priority": 0,
+      "group": "845e5362a795"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Easter",
+      "meaning": "复活节",
+      "audio": "807bd33f459706cfe329f81d5ce4e3d0c8d3c5dd30ad140637ca5201de661cd9",
+      "id": "3c986f31ccd3",
+      "priority": 1,
+      "group": "845e5362a795"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thanksgiving",
+      "meaningInSourceLanguage": "感恩节",
+      "id": "babc85e62d57",
+      "priority": 0,
+      "group": "91f455a76e88"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thanksgiving",
+      "meaning": "感恩节",
+      "audio": "e8cd2ea848d1b0c4892a1d4047ae6f146641b94a0d3e5bfa845c6d475263f607",
+      "id": "136f1eba0229",
+      "priority": 1,
+      "group": "91f455a76e88"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Halloween",
+      "meaningInSourceLanguage": "万圣节",
+      "id": "25dfcfd5156b",
+      "priority": 0,
+      "group": "a565d8666eba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Halloween",
+      "meaning": "万圣节",
+      "audio": "939109631fecd5b9eb3563fe231761be82e30ddd24b9a3620b4d7e6e7f0b2537",
+      "id": "c79c2e4528ae",
+      "priority": 1,
+      "group": "a565d8666eba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Valentine's Day",
+      "meaningInSourceLanguage": "情人节",
+      "id": "ea75e2d714cd",
+      "priority": 0,
+      "group": "d45e7ee6a9e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Valentine's Day",
+      "meaning": "情人节",
+      "audio": "d4def08325c298437900599c88e0dcd920d2c07c7e6c2cc98ca4bc264b0ab311",
+      "id": "420cc89d49ab",
+      "priority": 1,
+      "group": "d45e7ee6a9e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Independence Day",
+      "meaningInSourceLanguage": "独立日",
+      "id": "3630a957dbba",
+      "priority": 0,
+      "group": "c77152c54803"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Independence Day",
+      "meaning": "独立日",
+      "audio": "3262e3f7e59c2006b06aeb4c6cdcfa6b27f57e7cd8e545249402bd7eca980e03",
+      "id": "d807e7be8687",
+      "priority": 1,
+      "group": "c77152c54803"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "St. Patrick's Day",
+      "meaningInSourceLanguage": "圣帕特里克节",
+      "id": "449b183dec82",
+      "priority": 0,
+      "group": "d2c0f22693f9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "St. Patrick's Day",
+      "meaning": "圣帕特里克节",
+      "audio": "abd2f4360f1894b73029a61c35b52379f959487bf4603a621f40ed4e2eda9829",
+      "id": "6140bd778b2f",
+      "priority": 1,
+      "group": "d2c0f22693f9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Chinese New Year",
+      "meaningInSourceLanguage": "春节",
+      "id": "07535f5cae0d",
+      "priority": 0,
+      "group": "cb09241b7b0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Chinese New Year",
+      "meaning": "春节",
+      "audio": "1294fd3da744b715267ed45d2a71970fb2e41c8564bbea739d8e72c73c6552df",
+      "id": "40a3e99b4967",
+      "priority": 1,
+      "group": "cb09241b7b0d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mid-Autumn Festival",
+      "meaningInSourceLanguage": "中秋节",
+      "id": "394ae775b6bf",
+      "priority": 0,
+      "group": "9d12977b1776"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mid-Autumn Festival",
+      "meaning": "中秋节",
+      "audio": "a172e8013afa731ea7b3f0d276b233b6f6b442689d32ca8919962b11b98f7cd7",
+      "id": "9039dca3bf2c",
+      "priority": 1,
+      "group": "9d12977b1776"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dragon Boat Festival",
+      "meaningInSourceLanguage": "端午节",
+      "id": "1e1441e31a0d",
+      "priority": 0,
+      "group": "0826c647c7a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dragon Boat Festival",
+      "meaning": "端午节",
+      "audio": "283ef99edc2626683ebc1522424f7b3198344fd09f19452326fc9b79f06a65e4",
+      "id": "36a516dd7cac",
+      "priority": 1,
+      "group": "0826c647c7a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Lantern Festival",
+      "meaningInSourceLanguage": "元宵节",
+      "id": "fcc6a371a69a",
+      "priority": 0,
+      "group": "69f13eb319af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Lantern Festival",
+      "meaning": "元宵节",
+      "audio": "5b3728d045f9f33e987232aa87eae43c8ed20212dbf373d51ac3f431cb837124",
+      "id": "ad8b6c62a6df",
+      "priority": 1,
+      "group": "69f13eb319af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cultural exchange",
+      "meaningInSourceLanguage": "文化交流",
+      "id": "d40122ad48b9",
+      "priority": 0,
+      "group": "32a2715534fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cultural exchange",
+      "meaning": "文化交流",
+      "audio": "e0dd872402352a843ce5ad062330dfce8896344c8136e6327765fd4cc0246576",
+      "id": "3853c0d257d4",
+      "priority": 1,
+      "group": "32a2715534fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "multicultural",
+      "meaningInSourceLanguage": "多元文化的",
+      "id": "6a924441b9db",
+      "priority": 0,
+      "group": "d94f7ed7fe00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "multicultural",
+      "meaning": "多元文化的",
+      "audio": "0de619bd2bba95a984be0102051e0b8fb777736a8eb6ef9b73b580ac0eaecf71",
+      "id": "08b41b20c619",
+      "priority": 1,
+      "group": "d94f7ed7fe00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diversity",
+      "meaningInSourceLanguage": "多样性",
+      "id": "5bf370f12cfb",
+      "priority": 0,
+      "group": "6e39f54f3c1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diversity",
+      "meaning": "多样性",
+      "audio": "e9c6f87f549a0c412d947198d7b89048af5203d4a8893e092e22343f30679d5e",
+      "id": "17913d6d0810",
+      "priority": 1,
+      "group": "6e39f54f3c1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "inclusion",
+      "meaningInSourceLanguage": "包容",
+      "id": "82ea61c56dab",
+      "priority": 0,
+      "group": "c099faec7cc6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "inclusion",
+      "meaning": "包容",
+      "audio": "f33c4c67e86d714b146781d5f543182a60094c6aeae7e22645fcc11df612f5da",
+      "id": "aeb4cce2cc54",
+      "priority": 1,
+      "group": "c099faec7cc6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tolerance",
+      "meaningInSourceLanguage": "宽容",
+      "id": "6fbc9e32f89f",
+      "priority": 0,
+      "group": "9751cac8eab0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tolerance",
+      "meaning": "宽容",
+      "audio": "b672780026e27697d84d52108b2234e1abba8986e8c9d06ee7be1fd4ae79f015",
+      "id": "ea6799d77a44",
+      "priority": 1,
+      "group": "9751cac8eab0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "art",
+      "meaningInSourceLanguage": "艺术",
+      "id": "3b25fae38d65",
+      "priority": 0,
+      "group": "ac1ad86647f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "art",
+      "meaning": "艺术",
+      "audio": "5626e631cbd926a1483b4dc32745a4aa8815e9e09482e7140bab0e35b8079680",
+      "id": "188269eed745",
+      "priority": 1,
+      "group": "ac1ad86647f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cuisine",
+      "meaningInSourceLanguage": "美食",
+      "id": "09b60f608e8e",
+      "priority": 0,
+      "group": "0c4ad9bd09d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cuisine",
+      "meaning": "美食",
+      "audio": "9c06acf9c3803ba3d11ae138212cf981334fd4bc49b03bb5a4bf76d80f8086f0",
+      "id": "77f754ef6118",
+      "priority": 1,
+      "group": "0c4ad9bd09d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fashion",
+      "meaningInSourceLanguage": "时尚",
+      "id": "7c9245b20996",
+      "priority": 0,
+      "group": "7eb9a17190b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fashion",
+      "meaning": "时尚",
+      "audio": "32b95b20ce2698f29a7c72101dfc1a203647e39e78f2acac9c07bcd1467dcf6b",
+      "id": "d48b6e3ebf02",
+      "priority": 1,
+      "group": "7eb9a17190b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "architecture",
+      "meaningInSourceLanguage": "建筑",
+      "id": "d5871602c56d",
+      "priority": 0,
+      "group": "16420b15e1cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "architecture",
+      "meaning": "建筑",
+      "audio": "ed7476eaeb4dec30c2328cc2c7293716bb09414b560acfdadd5e229413b5f930",
+      "id": "545bf938a5d2",
+      "priority": 1,
+      "group": "16420b15e1cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "music",
+      "meaningInSourceLanguage": "音乐",
+      "id": "9a1fb5dd6a34",
+      "priority": 0,
+      "group": "098998e10680"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "music",
+      "meaning": "音乐",
+      "audio": "945991e5af48f39ca82fa691645279b2d921254bfe0db2d7ad4fb9b52314f58d",
+      "id": "6eebce94f6e8",
+      "priority": 1,
+      "group": "098998e10680"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dance",
+      "meaningInSourceLanguage": "舞蹈",
+      "id": "eefbe779a936",
+      "priority": 0,
+      "group": "29a038eda362"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dance",
+      "meaning": "舞蹈",
+      "audio": "9966a316a42cb45edada6b14fdc25b0c449e48bd35781bcf74c19797cf0750a2",
+      "id": "b50a0dab93b0",
+      "priority": 1,
+      "group": "29a038eda362"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "costume",
+      "meaningInSourceLanguage": "服装",
+      "id": "ef2ddb075368",
+      "priority": 0,
+      "group": "fe3465c05482"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "costume",
+      "meaning": "服装",
+      "audio": "99dbcc46b85ef6843140a068523e2eebba509344ecf3fe1397376d1baec0347a",
+      "id": "8cf6c423c4e9",
+      "priority": 1,
+      "group": "fe3465c05482"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cuisine",
+      "meaningInSourceLanguage": "烹饪",
+      "id": "014d58e78423",
+      "priority": 0,
+      "group": "fae7a56584fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cuisine",
+      "meaning": "烹饪",
+      "audio": "6d2634c1651f25533b5a8a236b4de95120c85314330a950d00b6b2e0ccff9a31",
+      "id": "3281ec7d9539",
+      "priority": 1,
+      "group": "fae7a56584fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "language",
+      "meaningInSourceLanguage": "语言",
+      "id": "ab05f8f75da3",
+      "priority": 0,
+      "group": "a2871a76a201"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "language",
+      "meaning": "语言",
+      "audio": "306b880cc2887aecda9aa607a69b5ffc0d5b62a673dfebd334340222133ba295",
+      "id": "128c4e9e884a",
+      "priority": 1,
+      "group": "a2871a76a201"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dialect",
+      "meaningInSourceLanguage": "方言",
+      "id": "b1fef173a492",
+      "priority": 0,
+      "group": "9b8133264ab0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dialect",
+      "meaning": "方言",
+      "audio": "fff7592bd1a5535b51cd3eabf9d5baaa57719ae07dfe234dbed28458b70f219e",
+      "id": "c9ed9ef93089",
+      "priority": 1,
+      "group": "9b8133264ab0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accent",
+      "meaningInSourceLanguage": "口音",
+      "id": "d222fa048c78",
+      "priority": 0,
+      "group": "ae50d7cf7a94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accent",
+      "meaning": "口音",
+      "audio": "001c9d8a44ab4eb7119f17aa94cd06285be4b2ef456e82d1fc7af5c7a63d193f",
+      "id": "4d30c5c6928c",
+      "priority": 1,
+      "group": "ae50d7cf7a94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "greeting",
+      "meaningInSourceLanguage": "问候",
+      "id": "9f3f41e4fcc0",
+      "priority": 0,
+      "group": "52b7dc30bd0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "greeting",
+      "meaning": "问候",
+      "audio": "38041876d6533e7a355c9817e498d9c32bf55691916fac7479e8da556568859f",
+      "id": "5c0c94b62cff",
+      "priority": 1,
+      "group": "52b7dc30bd0d"
+    }
+  ]
+}

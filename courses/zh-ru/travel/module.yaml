@@ -1,0 +1,9 @@
+Module:
+  Name: "Travel"
+
+Skills:
+  - directions.yaml
+  - transportation.yaml
+  - hotel.yaml
+  - restaurant.yaml
+  - shopping.yaml

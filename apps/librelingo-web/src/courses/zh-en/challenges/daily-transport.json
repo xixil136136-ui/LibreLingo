@@ -1,0 +1,482 @@
+{
+  "id": "3d43521af1c9",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "walk",
+      "meaningInSourceLanguage": "步行",
+      "id": "3541161acd53",
+      "priority": 0,
+      "group": "334717cdae40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "walk",
+      "meaning": "步行",
+      "audio": "b71a1810120db61ccdd611e0e90668b9f7d5454e71e6682a11095f6efd795a01",
+      "id": "8d72d62a0968",
+      "priority": 1,
+      "group": "334717cdae40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drive",
+      "meaningInSourceLanguage": "开车",
+      "id": "7fdb6c765fe2",
+      "priority": 0,
+      "group": "e6f8382f915f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drive",
+      "meaning": "开车",
+      "audio": "64eca26c0394adb75e35a4d3a521be9b4988183fd05d1161e414971a0d094ae9",
+      "id": "1c1ba4b8b53d",
+      "priority": 1,
+      "group": "e6f8382f915f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ride",
+      "meaningInSourceLanguage": "骑",
+      "id": "8e3b3ec088d8",
+      "priority": 0,
+      "group": "0b17afa70265"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ride",
+      "meaning": "骑",
+      "audio": "244e47b90daf170ce01baa529dff9ee40433a9a5c1f5952ce8b8b2c63a518a52",
+      "id": "327c62431201",
+      "priority": 1,
+      "group": "0b17afa70265"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take the bus",
+      "meaningInSourceLanguage": "乘巴士",
+      "id": "cc33cea03799",
+      "priority": 0,
+      "group": "8f594ecfb3a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take the bus",
+      "meaning": "乘巴士",
+      "audio": "fab490cc609c72f6b50cde41f7996b90ef6c54d47c186d539b21d6fe4a1b3fc3",
+      "id": "09be14150270",
+      "priority": 1,
+      "group": "8f594ecfb3a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take the subway",
+      "meaningInSourceLanguage": "乘地铁",
+      "id": "fc2c6457e464",
+      "priority": 0,
+      "group": "5b6fe2fcf435"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take the subway",
+      "meaning": "乘地铁",
+      "audio": "c793bf289997e59c3a522ab5399949e9dad0d5b080bc9beaf74b0be8f7b56ef3",
+      "id": "f754c6079faa",
+      "priority": 1,
+      "group": "5b6fe2fcf435"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "take a taxi",
+      "meaningInSourceLanguage": "打车",
+      "id": "ccb47ce09515",
+      "priority": 0,
+      "group": "8158301fddeb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "take a taxi",
+      "meaning": "打车",
+      "audio": "bbd733060cc7e368ab692d407d40477f3a1c6ce7033a99c64b6821becfbe7ba9",
+      "id": "de168e75c700",
+      "priority": 1,
+      "group": "8158301fddeb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "carpool",
+      "meaningInSourceLanguage": "拼车",
+      "id": "069c9bef4901",
+      "priority": 0,
+      "group": "a9a43e92fdec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carpool",
+      "meaning": "拼车",
+      "audio": "8609bcc6bc3adb497ab338a3df70ca61d2ed26716bcb12ec5bb22111ea26d6b1",
+      "id": "a8f02fda4dfb",
+      "priority": 1,
+      "group": "a9a43e92fdec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bicycle",
+      "meaningInSourceLanguage": "自行车",
+      "id": "21a21dadf765",
+      "priority": 0,
+      "group": "c477200e627f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bicycle",
+      "meaning": "自行车",
+      "audio": "4ca7874504a9c7fc14a0df27bfafb676685e619fa0ec035552e4c4b44be5a0e8",
+      "id": "3ffba4c974a3",
+      "priority": 1,
+      "group": "c477200e627f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scooter",
+      "meaningInSourceLanguage": "滑板车",
+      "id": "93570831e0a0",
+      "priority": 0,
+      "group": "f8e7c42833fd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scooter",
+      "meaning": "滑板车",
+      "audio": "054736f6c3d3eb77976fc68fbb785d0ebdb84e385939c57060760052d9b2be75",
+      "id": "32e3a2cd83ed",
+      "priority": 1,
+      "group": "f8e7c42833fd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "motorcycle",
+      "meaningInSourceLanguage": "摩托车",
+      "id": "00089d305345",
+      "priority": 0,
+      "group": "84270d96a985"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "motorcycle",
+      "meaning": "摩托车",
+      "audio": "4861cd086a565c0a63c2fda72d443c18fdf5cc6977b9c5a8b378a8f2ef934817",
+      "id": "9f11071e665a",
+      "priority": 1,
+      "group": "84270d96a985"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parking lot",
+      "meaningInSourceLanguage": "停车场",
+      "id": "183fa6f6e2ff",
+      "priority": 0,
+      "group": "a583ba094973"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parking lot",
+      "meaning": "停车场",
+      "audio": "625c21dd7bc75f5adfcef9eeb5d8eabef7d2d58d74a9b28113e52bbfdff36552",
+      "id": "a2bf690af09e",
+      "priority": 1,
+      "group": "a583ba094973"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "traffic light",
+      "meaningInSourceLanguage": "红绿灯",
+      "id": "90005690370f",
+      "priority": 0,
+      "group": "2fe861c528b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "traffic light",
+      "meaning": "红绿灯",
+      "audio": "1183a15da35a9b62f8552b84a0119fdf486397541dac93ab4e4d09fff2087271",
+      "id": "74613b2d7497",
+      "priority": 1,
+      "group": "2fe861c528b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crosswalk",
+      "meaningInSourceLanguage": "人行横道",
+      "id": "56a83f8b849e",
+      "priority": 0,
+      "group": "eaccecabfdbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crosswalk",
+      "meaning": "人行横道",
+      "audio": "7a7bfe2fab010794a2571ca70aec5199fef510487fc7cb0897f1a9a76934bdc3",
+      "id": "7f1330457d73",
+      "priority": 1,
+      "group": "eaccecabfdbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sidewalk",
+      "meaningInSourceLanguage": "人行道",
+      "id": "f11ccb050805",
+      "priority": 0,
+      "group": "47518e860e52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sidewalk",
+      "meaning": "人行道",
+      "audio": "809093b97b1ddfc49247c76273997f0a86dc4c84bf6d8a48737b3c00b794546c",
+      "id": "9dcc0f976a23",
+      "priority": 1,
+      "group": "47518e860e52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "highway",
+      "meaningInSourceLanguage": "高速公路",
+      "id": "cb672e072cc9",
+      "priority": 0,
+      "group": "9535d9e8f30a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "highway",
+      "meaning": "高速公路",
+      "audio": "c1c5805edc8df69ea090f57b0170c661bb067d3c318ed3d0e0a2a70b93d8bcbc",
+      "id": "205b4270127a",
+      "priority": 1,
+      "group": "9535d9e8f30a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toll",
+      "meaningInSourceLanguage": "通行费",
+      "id": "4c4a22dc794b",
+      "priority": 0,
+      "group": "5671663d4690"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toll",
+      "meaning": "通行费",
+      "audio": "2a94b2399b2b08028292c3ab81b7312973f9c7ff923195a8de209e65738a85b7",
+      "id": "da3b340774df",
+      "priority": 1,
+      "group": "5671663d4690"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "commute",
+      "meaningInSourceLanguage": "通勤",
+      "id": "891c3f3c83de",
+      "priority": 0,
+      "group": "0542125c7dc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "commute",
+      "meaning": "通勤",
+      "audio": "625916a5ad399b50511aff9036b6f27494e7134aa164ce3d3f167e95c7959c71",
+      "id": "320716fdf5a7",
+      "priority": 1,
+      "group": "0542125c7dc1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rush hour",
+      "meaningInSourceLanguage": "高峰时间",
+      "id": "949b08fd1dc5",
+      "priority": 0,
+      "group": "55de0e6b4a8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rush hour",
+      "meaning": "高峰时间",
+      "audio": "3015402bf1e003421868acbbc59da1a7bd291dc6c3a09057ecc71d710fd35ff4",
+      "id": "c007a2266e7c",
+      "priority": 1,
+      "group": "55de0e6b4a8c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "traffic jam",
+      "meaningInSourceLanguage": "交通堵塞",
+      "id": "3c2567dab19a",
+      "priority": 0,
+      "group": "1413d077120e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "traffic jam",
+      "meaning": "交通堵塞",
+      "audio": "542fdfd866c8f1ebaa7a813134ef9c03cbb467449ff5ea7f60f21e63fe26253a",
+      "id": "f17d98a9fcf9",
+      "priority": 1,
+      "group": "1413d077120e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "detour",
+      "meaningInSourceLanguage": "绕行",
+      "id": "11439f3755bf",
+      "priority": 0,
+      "group": "d4ce88e552e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "detour",
+      "meaning": "绕行",
+      "audio": "0e937212985ed36f228ee659d2d08c949920db3cbc991e3f87d3341dfc1d99f0",
+      "id": "3d05d2242230",
+      "priority": 1,
+      "group": "d4ce88e552e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "license plate",
+      "meaningInSourceLanguage": "车牌",
+      "id": "3849ac387611",
+      "priority": 0,
+      "group": "0189b2843b05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "license plate",
+      "meaning": "车牌",
+      "audio": "2f7711d2c310f66ac55c9db74a574fb29565b19a5910835d66458f69c5603ae7",
+      "id": "175abaacb47c",
+      "priority": 1,
+      "group": "0189b2843b05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "driver's license",
+      "meaningInSourceLanguage": "驾照",
+      "id": "b724d61f8b26",
+      "priority": 0,
+      "group": "c82db746d1a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "driver's license",
+      "meaning": "驾照",
+      "audio": "cf993a581cace21dbeea6fa9b1b0983eb4113294beaf53ba64b2f8bba5e7791b",
+      "id": "e2ebc7081e3e",
+      "priority": 1,
+      "group": "c82db746d1a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gas station",
+      "meaningInSourceLanguage": "加油站",
+      "id": "9c859c26416e",
+      "priority": 0,
+      "group": "e6a936a125ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gas station",
+      "meaning": "加油站",
+      "audio": "07ab0ff5cb52b57a291d2ef52187bcc8b7314d5821e8c7c8ba77956918c1d0e5",
+      "id": "6b9b6ae83ba5",
+      "priority": 1,
+      "group": "e6a936a125ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "charging station",
+      "meaningInSourceLanguage": "充电站",
+      "id": "b923f08b2183",
+      "priority": 0,
+      "group": "6e0a3a05871e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "charging station",
+      "meaning": "充电站",
+      "audio": "b9482657abb0ec4d1c8e8bb879a8b9ef7f6988800bd138208d3d7241a28c4fd8",
+      "id": "6609c7d0fc49",
+      "priority": 1,
+      "group": "6e0a3a05871e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "electric car",
+      "meaningInSourceLanguage": "电动车",
+      "id": "a53616e8e50e",
+      "priority": 0,
+      "group": "5b7ba3d77b96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "electric car",
+      "meaning": "电动车",
+      "audio": "8ee353cf3141b03b528ca07d2b14c04ed582cc79e883f5f27ed7a3bcaa42a87f",
+      "id": "69d6f9ef0326",
+      "priority": 1,
+      "group": "5b7ba3d77b96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parking ticket",
+      "meaningInSourceLanguage": "停车罚单",
+      "id": "f198fd1254ce",
+      "priority": 0,
+      "group": "b5a428912e12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parking ticket",
+      "meaning": "停车罚单",
+      "audio": "e9a8fb091623812790d72851e2b12e5972418fdf6cc91d9d9c2a93f3e2ad1cae",
+      "id": "afbbf48434b7",
+      "priority": 1,
+      "group": "b5a428912e12"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speeding",
+      "meaningInSourceLanguage": "超速",
+      "id": "cd9684448355",
+      "priority": 0,
+      "group": "271aaf7ee54c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speeding",
+      "meaning": "超速",
+      "audio": "449dfac445bdbb3e0c5e7de1369a7591b9c8bacc32b928505062ca936d28037e",
+      "id": "c12c2d559fa2",
+      "priority": 1,
+      "group": "271aaf7ee54c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accident",
+      "meaningInSourceLanguage": "事故",
+      "id": "c4f9d41deecf",
+      "priority": 0,
+      "group": "c3c75837c8f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accident",
+      "meaning": "事故",
+      "audio": "67afc9d19d2c7fc30072e59f34255b2c073221436ee0ff19ad7b1bfce31f2317",
+      "id": "e1135bd0f987",
+      "priority": 1,
+      "group": "c3c75837c8f3"
+    }
+  ]
+}

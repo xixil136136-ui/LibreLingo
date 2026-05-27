@@ -1,0 +1,635 @@
+{
+  "id": "b7a13af374c0",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "tour",
+      "meaningInSourceLanguage": "旅游",
+      "id": "65b7b29b5299",
+      "priority": 0,
+      "group": "4b64ea5b8171"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tour",
+      "meaning": "旅游",
+      "audio": "16d5f7a60da7e8cef8320c4f5479ec3303cab055ea7fe5f139db2cffeada18df",
+      "id": "8aca48178a0c",
+      "priority": 1,
+      "group": "4b64ea5b8171"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tourist",
+      "meaningInSourceLanguage": "游客",
+      "id": "7c49d11e6e7e",
+      "priority": 0,
+      "group": "b4773323d805"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tourist",
+      "meaning": "游客",
+      "audio": "af637695d03761f06714374c0c9b813be0dce3e43249790d273654b6b6a51845",
+      "id": "2c03b37dc0d5",
+      "priority": 1,
+      "group": "b4773323d805"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guide",
+      "meaningInSourceLanguage": "导游",
+      "id": "0b7410111665",
+      "priority": 0,
+      "group": "88761d6a59aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guide",
+      "meaning": "导游",
+      "audio": "ab919fb5ff0baf6a570f2613b75db9bb1f8594b8be9d4d34e15093754049875e",
+      "id": "78e659a651cb",
+      "priority": 1,
+      "group": "88761d6a59aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sightseeing",
+      "meaningInSourceLanguage": "观光",
+      "id": "1036d5ce1ecf",
+      "priority": 0,
+      "group": "627c19cba3e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sightseeing",
+      "meaning": "观光",
+      "audio": "72db642e6434c19f284c13e1c42fc887e3f6e0d6dfc254c6679b4177b8e4584c",
+      "id": "40388ba59ba1",
+      "priority": 1,
+      "group": "627c19cba3e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "attraction",
+      "meaningInSourceLanguage": "景点",
+      "id": "061144127a6f",
+      "priority": 0,
+      "group": "b82cef7e0e89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "attraction",
+      "meaning": "景点",
+      "audio": "b0e064040b42f5d00a41f6c07ce071735e3434ea58e52873a18d3287fa5e0b63",
+      "id": "28996661c665",
+      "priority": 1,
+      "group": "b82cef7e0e89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "museum",
+      "meaningInSourceLanguage": "博物馆",
+      "id": "e95d0b457020",
+      "priority": 0,
+      "group": "177344351047"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "museum",
+      "meaning": "博物馆",
+      "audio": "e22cf1918edce1ad1a42c3920cf6d2bc4d420368a8a172a8a1da1c8a80f850a8",
+      "id": "9b29593364f9",
+      "priority": 1,
+      "group": "177344351047"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gallery",
+      "meaningInSourceLanguage": "画廊",
+      "id": "07037be7d96f",
+      "priority": 0,
+      "group": "116f694d73aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gallery",
+      "meaning": "画廊",
+      "audio": "3e55c407db1a87bb3268f2a4848cda77d63062f9501e3de3b05be881015f12ac",
+      "id": "d70cd04e307c",
+      "priority": 1,
+      "group": "116f694d73aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cathedral",
+      "meaningInSourceLanguage": "大教堂",
+      "id": "66fa6cd4a952",
+      "priority": 0,
+      "group": "e1b4899d562a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cathedral",
+      "meaning": "大教堂",
+      "audio": "901f2602a1b3b5f04c1ea66dff40b77c129f7420876a2e081e5fbf49e72441cf",
+      "id": "a5d5bd0b8559",
+      "priority": 1,
+      "group": "e1b4899d562a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "palace",
+      "meaningInSourceLanguage": "宫殿",
+      "id": "25997bbbae2f",
+      "priority": 0,
+      "group": "c30b737ef3ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "palace",
+      "meaning": "宫殿",
+      "audio": "43023883dc2eaf919bbab513044affe9bd53a9eac9b6d238be60e5a0be862612",
+      "id": "1ddb76119be9",
+      "priority": 1,
+      "group": "c30b737ef3ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "castle",
+      "meaningInSourceLanguage": "城堡",
+      "id": "1d7d99c11405",
+      "priority": 0,
+      "group": "903314ac4cf1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "castle",
+      "meaning": "城堡",
+      "audio": "f7c1826c114fbfc0a6ebf7f59d82c3ed8b6d47a777e9952066ce50dc085f8382",
+      "id": "f952038dabfa",
+      "priority": 1,
+      "group": "903314ac4cf1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ruins",
+      "meaningInSourceLanguage": "遗址",
+      "id": "eb8b7ff4966c",
+      "priority": 0,
+      "group": "ea9f7251d845"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ruins",
+      "meaning": "遗址",
+      "audio": "3b1bfc7b0f92ed3a6d9321b30e60eafba6c16572d68d9a2ebb2d2d97a501409a",
+      "id": "61f7193b297c",
+      "priority": 1,
+      "group": "ea9f7251d845"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "monument",
+      "meaningInSourceLanguage": "纪念碑",
+      "id": "2eaf256df6d4",
+      "priority": 0,
+      "group": "9e287c0c0bd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "monument",
+      "meaning": "纪念碑",
+      "audio": "8b13cceccd792d4c7164fdad0ee8cf9c79ec3d14f22f5204a7e96bc83d3c0be7",
+      "id": "a487c4045406",
+      "priority": 1,
+      "group": "9e287c0c0bd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "park",
+      "meaningInSourceLanguage": "公园",
+      "id": "32a6be7dfdcf",
+      "priority": 0,
+      "group": "a82dd751528e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "park",
+      "meaning": "公园",
+      "audio": "73bccaab61d14a25c180b9ed991484cc0447f7b80a9e724f6994a0d2048174c4",
+      "id": "f0d9ebfd0444",
+      "priority": 1,
+      "group": "a82dd751528e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "garden",
+      "meaningInSourceLanguage": "花园",
+      "id": "7f5ef684e5b3",
+      "priority": 0,
+      "group": "e1c0aba10829"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garden",
+      "meaning": "花园",
+      "audio": "8216cbb602dafbf20219c9b02fe48d7855e0af981722da318edab8793524db02",
+      "id": "399de5e71506",
+      "priority": 1,
+      "group": "e1c0aba10829"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beach",
+      "meaningInSourceLanguage": "海滩",
+      "id": "88fd622e4e98",
+      "priority": 0,
+      "group": "8222064d3697"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beach",
+      "meaning": "海滩",
+      "audio": "a312a589f0a74ef075bd27ec1d43cb213959e0bd52e9862b3fb17ffd876e71de",
+      "id": "b5ac7a906983",
+      "priority": 1,
+      "group": "8222064d3697"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "island",
+      "meaningInSourceLanguage": "岛屿",
+      "id": "d146f07a21e3",
+      "priority": 0,
+      "group": "fc4a839bf76b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "island",
+      "meaning": "岛屿",
+      "audio": "8c2453efa9e473a61c707500550f0bf512f062cc0052babb48e49b034ab4738b",
+      "id": "338bd561ed7a",
+      "priority": 1,
+      "group": "fc4a839bf76b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mountain",
+      "meaningInSourceLanguage": "山",
+      "id": "0897a84360f7",
+      "priority": 0,
+      "group": "2f69e157fc27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mountain",
+      "meaning": "山",
+      "audio": "083a16050de4eeb1400ab3832b659584c338e8f076562a3a013b41eacc4e6b8d",
+      "id": "739184079003",
+      "priority": 1,
+      "group": "2f69e157fc27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lake",
+      "meaningInSourceLanguage": "湖",
+      "id": "d9a666615e0c",
+      "priority": 0,
+      "group": "fa2bcccaaf03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lake",
+      "meaning": "湖",
+      "audio": "cc6476de98471f4f94913d98c8c0e5081545702e42857ca7c27b6979cbbe2682",
+      "id": "8c3443af9a3e",
+      "priority": 1,
+      "group": "fa2bcccaaf03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "river",
+      "meaningInSourceLanguage": "河",
+      "id": "615bb5cc1baf",
+      "priority": 0,
+      "group": "c12fd62f0cea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "river",
+      "meaning": "河",
+      "audio": "5f31788603aea881e37946f5808bbb7afaebdbee47301efbc54a9998fa9d2fe8",
+      "id": "d63a4376549d",
+      "priority": 1,
+      "group": "c12fd62f0cea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waterfall",
+      "meaningInSourceLanguage": "瀑布",
+      "id": "79b3a336c469",
+      "priority": 0,
+      "group": "7c720bb8c05d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waterfall",
+      "meaning": "瀑布",
+      "audio": "2bf649ae608759c9e2c38af48e62443f6cd566108418ecd70c23ace1745a0005",
+      "id": "8291dd1c9836",
+      "priority": 1,
+      "group": "7c720bb8c05d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "national park",
+      "meaningInSourceLanguage": "国家公园",
+      "id": "233a764b24d2",
+      "priority": 0,
+      "group": "b2f7c909fecf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "national park",
+      "meaning": "国家公园",
+      "audio": "d8a31ba6fe9174596585202df47b1529cb638301653f852d8b6f2584a67cbb44",
+      "id": "dbf5cfb86b24",
+      "priority": 1,
+      "group": "b2f7c909fecf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zoo",
+      "meaningInSourceLanguage": "动物园",
+      "id": "a9ebe67e1fc0",
+      "priority": 0,
+      "group": "ce07b295af8f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zoo",
+      "meaning": "动物园",
+      "audio": "1bd2da5a4b751aaaccb19cbbb884bd858a0af990edb84904845c6f6fd73d43da",
+      "id": "eb083b5b8b23",
+      "priority": 1,
+      "group": "ce07b295af8f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aquarium",
+      "meaningInSourceLanguage": "水族馆",
+      "id": "6f90d5007716",
+      "priority": 0,
+      "group": "a2949fded77b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aquarium",
+      "meaning": "水族馆",
+      "audio": "f172295c1af652c505d6059dd7a358d527a41a044355bed538990b43cc84c235",
+      "id": "48ac28d7a29f",
+      "priority": 1,
+      "group": "a2949fded77b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "amusement park",
+      "meaningInSourceLanguage": "游乐园",
+      "id": "cf1e694046a9",
+      "priority": 0,
+      "group": "c5e2bf5b823e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "amusement park",
+      "meaning": "游乐园",
+      "audio": "66f9141c14d2f5ee64acbaa88d3bd6dffa61af947ebfdd0f3aafdb7f88ffa8dd",
+      "id": "1e2ab5b53099",
+      "priority": 1,
+      "group": "c5e2bf5b823e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "theme park",
+      "meaningInSourceLanguage": "主题公园",
+      "id": "b1cdc99863f6",
+      "priority": 0,
+      "group": "d8af042e1798"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "theme park",
+      "meaning": "主题公园",
+      "audio": "3f5088282a8b16b098108cec4cf50cf73812f3083d7e5ad4fe6bbff15d5c79f6",
+      "id": "b58a62959a06",
+      "priority": 1,
+      "group": "d8af042e1798"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "souvenir",
+      "meaningInSourceLanguage": "纪念品",
+      "id": "27b0e76912f2",
+      "priority": 0,
+      "group": "400ea66d44af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "souvenir",
+      "meaning": "纪念品",
+      "audio": "423e7c7823006a0f88ccc067edc78b9a98a427a0fac645aa78cd25d10c1b43a8",
+      "id": "728b1abf798f",
+      "priority": 1,
+      "group": "400ea66d44af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gift shop",
+      "meaningInSourceLanguage": "礼品店",
+      "id": "7ca603b95a1d",
+      "priority": 0,
+      "group": "e8d2ca727f62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gift shop",
+      "meaning": "礼品店",
+      "audio": "2811c89ace454e6e7004b0b76d04bd18e864105fe4d02c8170da07632a532a27",
+      "id": "4b3202838191",
+      "priority": 1,
+      "group": "e8d2ca727f62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "postcard",
+      "meaningInSourceLanguage": "明信片",
+      "id": "d7ae001fb314",
+      "priority": 0,
+      "group": "62fae3104780"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "postcard",
+      "meaning": "明信片",
+      "audio": "4c60c3bf33a495de1576fb9370a4b2bd45091e686bbe37bbc2927df5897c6ace",
+      "id": "eaed19c278e3",
+      "priority": 1,
+      "group": "62fae3104780"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "camera",
+      "meaningInSourceLanguage": "相机",
+      "id": "21bcddd6c62b",
+      "priority": 0,
+      "group": "f73146c95efb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "camera",
+      "meaning": "相机",
+      "audio": "658208d7f7f50363c2e6505957aed423db2d7ad191082b8d29fe7c50d1e247a5",
+      "id": "64aac5383ede",
+      "priority": 1,
+      "group": "f73146c95efb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "photo",
+      "meaningInSourceLanguage": "照片",
+      "id": "2d8d69ec1e85",
+      "priority": 0,
+      "group": "5d08c0b44666"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "photo",
+      "meaning": "照片",
+      "audio": "16abe1cde4645e8317819a2a1ff13a302b7216b1924d78b560536b2346bd465e",
+      "id": "b76d8b9303cd",
+      "priority": 1,
+      "group": "5d08c0b44666"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "selfie",
+      "meaningInSourceLanguage": "自拍",
+      "id": "9d60de5c1f3c",
+      "priority": 0,
+      "group": "6c51e1bac071"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "selfie",
+      "meaning": "自拍",
+      "audio": "7bcb157fb087b14a466802e29b096a8b8ca4960e9b8af12203d589ace3202c42",
+      "id": "9afdfa9c21cd",
+      "priority": 1,
+      "group": "6c51e1bac071"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "excursion",
+      "meaningInSourceLanguage": "短途旅行",
+      "id": "f1acfe817d20",
+      "priority": 0,
+      "group": "f11dc0fca71b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "excursion",
+      "meaning": "短途旅行",
+      "audio": "43a2b8fd0c87a587e9f6b3aa6492a86bf4da93198a9fb966a11a80ed9ac49e64",
+      "id": "9c459d643903",
+      "priority": 1,
+      "group": "f11dc0fca71b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cruise",
+      "meaningInSourceLanguage": "邮轮",
+      "id": "fd0df8d41445",
+      "priority": 0,
+      "group": "fd0c8034cce6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cruise",
+      "meaning": "邮轮",
+      "audio": "3917c8909a51cb53b1bfbad92db164899b3c4016c72a20ddbbfa3a0a53e3451b",
+      "id": "2778ffda85a9",
+      "priority": 1,
+      "group": "fd0c8034cce6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "road trip",
+      "meaningInSourceLanguage": "自驾游",
+      "id": "1197a3383d82",
+      "priority": 0,
+      "group": "9e4c9ba5fb7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "road trip",
+      "meaning": "自驾游",
+      "audio": "3439e78ba64ea30ded309af533163a8b08aaa34185c3c9fa2af079c062d13bc5",
+      "id": "e2854460779b",
+      "priority": 1,
+      "group": "9e4c9ba5fb7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "backpacking",
+      "meaningInSourceLanguage": "背包旅行",
+      "id": "812fff7b5af6",
+      "priority": 0,
+      "group": "9e0071b28567"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "backpacking",
+      "meaning": "背包旅行",
+      "audio": "7656e5d224c5bc7d6cb7e264ae5b81845aa702e95547480e98a0f57828f03851",
+      "id": "8dbff28fb4dc",
+      "priority": 1,
+      "group": "9e0071b28567"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "package tour",
+      "meaningInSourceLanguage": "跟团游",
+      "id": "f9e24ab261fb",
+      "priority": 0,
+      "group": "63981d824acf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "package tour",
+      "meaning": "跟团游",
+      "audio": "2f7f6168e0b343979833b36498c8a89699306acbad19c5658b30bd159fc531db",
+      "id": "86124882b7bc",
+      "priority": 1,
+      "group": "63981d824acf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hiking",
+      "meaningInSourceLanguage": "徒步",
+      "id": "72a2e991b084",
+      "priority": 0,
+      "group": "fd117b99071d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hiking",
+      "meaning": "徒步",
+      "audio": "b6b867904292037c79de2050a8073e0d7721a25c82a462c9effb01df42eddb2b",
+      "id": "394f0f124d2b",
+      "priority": 1,
+      "group": "fd117b99071d"
+    }
+  ]
+}

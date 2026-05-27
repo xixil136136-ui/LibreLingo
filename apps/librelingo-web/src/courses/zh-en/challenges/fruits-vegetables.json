@@ -1,0 +1,788 @@
+{
+  "id": "83d38dde7ec5",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "apple",
+      "meaningInSourceLanguage": "苹果",
+      "id": "d2008d1349e2",
+      "priority": 0,
+      "group": "8399283bf5f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "apple",
+      "meaning": "苹果",
+      "audio": "ddf6d3ea9fd10b4da9ab2bcf793c705cfaad46ce56f371ffb3d25fa195b0dbc0",
+      "id": "9fcf38da6fcf",
+      "priority": 1,
+      "group": "8399283bf5f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "banana",
+      "meaningInSourceLanguage": "香蕉",
+      "id": "8d1285d31a6d",
+      "priority": 0,
+      "group": "20de52a5556c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "banana",
+      "meaning": "香蕉",
+      "audio": "65a8fc640b2b7d3a86ac503cbb2ed4ff9b7c304b31a35be25ed15623121ddd16",
+      "id": "75c8499b6e3d",
+      "priority": 1,
+      "group": "20de52a5556c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orange",
+      "meaningInSourceLanguage": "橙子",
+      "id": "929a903d8465",
+      "priority": 0,
+      "group": "c60431d8ed7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orange",
+      "meaning": "橙子",
+      "audio": "32528bd3544f05ee500552daf4733a787b5aaeb2f64732448b59151334674751",
+      "id": "b3af7d6772da",
+      "priority": 1,
+      "group": "c60431d8ed7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grapes",
+      "meaningInSourceLanguage": "葡萄",
+      "id": "ba7466ca6bfc",
+      "priority": 0,
+      "group": "4973771bcbed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grapes",
+      "meaning": "葡萄",
+      "audio": "ce5cc113e3cf55a15a97a6a7e28f6d7b435239081136a5e7e4c08e86005dd0f9",
+      "id": "9a233515329a",
+      "priority": 1,
+      "group": "4973771bcbed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strawberry",
+      "meaningInSourceLanguage": "草莓",
+      "id": "edaf7dc61875",
+      "priority": 0,
+      "group": "f2180585f309"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strawberry",
+      "meaning": "草莓",
+      "audio": "02725d78bc56f49bcd8e4f7535b087028872b23fa91e68291e5ad17c6ef2cdba",
+      "id": "4f1f57f10c0c",
+      "priority": 1,
+      "group": "f2180585f309"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blueberry",
+      "meaningInSourceLanguage": "蓝莓",
+      "id": "6a3e842ae3b6",
+      "priority": 0,
+      "group": "628b9f35139a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blueberry",
+      "meaning": "蓝莓",
+      "audio": "35e76e03013f25b880cf39c75f5ba6387dfb3b63dc6149c54310af345ff862d3",
+      "id": "f25198e2125f",
+      "priority": 1,
+      "group": "628b9f35139a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "raspberry",
+      "meaningInSourceLanguage": "覆盆子",
+      "id": "ebd995d86729",
+      "priority": 0,
+      "group": "d6a4d4fef938"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "raspberry",
+      "meaning": "覆盆子",
+      "audio": "b44faee3cc3e16e8f04ba78cc17b7442a2ef1c4850f23836622cfd58df3a3ad3",
+      "id": "e05c3610692f",
+      "priority": 1,
+      "group": "d6a4d4fef938"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "watermelon",
+      "meaningInSourceLanguage": "西瓜",
+      "id": "2b80f9e8c70c",
+      "priority": 0,
+      "group": "3e3021b5ceaf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "watermelon",
+      "meaning": "西瓜",
+      "audio": "aa53769186aaed83324f294bf0fe3ad9e89d12fb060f56ca9929c5a275f99c4c",
+      "id": "76cdc57576c0",
+      "priority": 1,
+      "group": "3e3021b5ceaf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pineapple",
+      "meaningInSourceLanguage": "菠萝",
+      "id": "4a11654ccee4",
+      "priority": 0,
+      "group": "8e8a9d9d67f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pineapple",
+      "meaning": "菠萝",
+      "audio": "393283a500fc338b5d9e6cdd33ad85ff6e8b8cb82871fc41853a6917e93f09dd",
+      "id": "ac289b73ed93",
+      "priority": 1,
+      "group": "8e8a9d9d67f1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mango",
+      "meaningInSourceLanguage": "芒果",
+      "id": "744b9251a4c8",
+      "priority": 0,
+      "group": "25f925065afd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mango",
+      "meaning": "芒果",
+      "audio": "2ccb8759694c5f3457d7c5390a4d60a28cda5b905ae0700da53cebfd4fe80718",
+      "id": "7671e350d9d0",
+      "priority": 1,
+      "group": "25f925065afd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kiwi",
+      "meaningInSourceLanguage": "猕猴桃",
+      "id": "ce200340e3f5",
+      "priority": 0,
+      "group": "1efc2ffa444f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kiwi",
+      "meaning": "猕猴桃",
+      "audio": "38a27e25e465c0650938f1c9f0c8cc0d5a8338bfb27700f54fa3e3d4127c50c2",
+      "id": "6df9949a696f",
+      "priority": 1,
+      "group": "1efc2ffa444f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peach",
+      "meaningInSourceLanguage": "桃子",
+      "id": "9f7dbef2ded3",
+      "priority": 0,
+      "group": "788eceab69a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peach",
+      "meaning": "桃子",
+      "audio": "7a435b9128ffe288d22650e6c19992a11b97ea9ef9bf7367577f05e9b0124be0",
+      "id": "c1c8d1b007c5",
+      "priority": 1,
+      "group": "788eceab69a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pear",
+      "meaningInSourceLanguage": "梨",
+      "id": "3e704f71bd66",
+      "priority": 0,
+      "group": "4167327caeed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pear",
+      "meaning": "梨",
+      "audio": "c95c3b3d56d61c95ade69cf7b71a74bdef0eaa593bf8ef9ab8ac7edaa3901b21",
+      "id": "173811ef9cc9",
+      "priority": 1,
+      "group": "4167327caeed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plum",
+      "meaningInSourceLanguage": "李子",
+      "id": "29ee7c9fa4ae",
+      "priority": 0,
+      "group": "0e7d268e4910"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plum",
+      "meaning": "李子",
+      "audio": "eec2c43b0715bb695fe576de4c4b535b8c610f4d8f8889f43532c0dd3f560d68",
+      "id": "9d4a1f941394",
+      "priority": 1,
+      "group": "0e7d268e4910"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cherry",
+      "meaningInSourceLanguage": "樱桃",
+      "id": "07e5466a9d59",
+      "priority": 0,
+      "group": "fd031969c713"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cherry",
+      "meaning": "樱桃",
+      "audio": "2866c6156ff1f177d93bedba22cd3ed673a8052d8d45d207376339d09a9ace4a",
+      "id": "e382c0d5c32e",
+      "priority": 1,
+      "group": "fd031969c713"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lemon",
+      "meaningInSourceLanguage": "柠檬",
+      "id": "e56bd5b8753a",
+      "priority": 0,
+      "group": "6b6aa1f9082a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lemon",
+      "meaning": "柠檬",
+      "audio": "0c694936b92db09a524c97603a6f7cb8c8d0a3a137fcb10e9f094bea37e1800f",
+      "id": "9bc1d18b43b1",
+      "priority": 1,
+      "group": "6b6aa1f9082a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lime",
+      "meaningInSourceLanguage": "青柠",
+      "id": "83501567ceaa",
+      "priority": 0,
+      "group": "f2f7b48d1201"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lime",
+      "meaning": "青柠",
+      "audio": "1f5487ddb66086651638dc8b67ce8fc0d7463c3efe3ddf128756314767000bf4",
+      "id": "51bc13d4ee31",
+      "priority": 1,
+      "group": "f2f7b48d1201"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coconut",
+      "meaningInSourceLanguage": "椰子",
+      "id": "2b6f6253ff6e",
+      "priority": 0,
+      "group": "94bdda1c7d5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coconut",
+      "meaning": "椰子",
+      "audio": "402cf12a87f14ed887de430280a08a87465d0cb2eb92b65864f7d2b14e43f6b8",
+      "id": "6da103f13f89",
+      "priority": 1,
+      "group": "94bdda1c7d5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "avocado",
+      "meaningInSourceLanguage": "牛油果",
+      "id": "3c4cbbd433f1",
+      "priority": 0,
+      "group": "cc5646744dea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "avocado",
+      "meaning": "牛油果",
+      "audio": "4b917e07de5c342b592ab4127f0021cce09fa9b8a9234c7ee9251809fadfafb6",
+      "id": "56b9c98fec51",
+      "priority": 1,
+      "group": "cc5646744dea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "papaya",
+      "meaningInSourceLanguage": "木瓜",
+      "id": "bfc5a2e6dac2",
+      "priority": 0,
+      "group": "af9018b763b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "papaya",
+      "meaning": "木瓜",
+      "audio": "204dceaab4629d8924ac99ed31f63c9214964bb6be1fa6705e282460587c828b",
+      "id": "725662cfc982",
+      "priority": 1,
+      "group": "af9018b763b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fig",
+      "meaningInSourceLanguage": "无花果",
+      "id": "f70d1820d3dc",
+      "priority": 0,
+      "group": "9eac8f23a255"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fig",
+      "meaning": "无花果",
+      "audio": "770ff2ed7c851cfa27f705d1a8efe8579da526a6eaa7d342091f2c7fb44cca5c",
+      "id": "273d7bdea489",
+      "priority": 1,
+      "group": "9eac8f23a255"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "date",
+      "meaningInSourceLanguage": "枣",
+      "id": "1e572c375b74",
+      "priority": 0,
+      "group": "68285252e839"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "date",
+      "meaning": "枣",
+      "audio": "99e18bc71b6a9d0a518da4a123abba6e6fc20718cffd5b137f87a7c4a4d6c353",
+      "id": "694648f56c72",
+      "priority": 1,
+      "group": "68285252e839"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tomato",
+      "meaningInSourceLanguage": "番茄",
+      "id": "725e0e650e0c",
+      "priority": 0,
+      "group": "99fe5d5cb1db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tomato",
+      "meaning": "番茄",
+      "audio": "da4e221cd01f76d9dfb394a2703981164c8fc4a26c2c8cf5d6b86a38395de0a5",
+      "id": "dd3ad02440b2",
+      "priority": 1,
+      "group": "99fe5d5cb1db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cucumber",
+      "meaningInSourceLanguage": "黄瓜",
+      "id": "2d0f8ed9cfa1",
+      "priority": 0,
+      "group": "b5657390f155"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cucumber",
+      "meaning": "黄瓜",
+      "audio": "8aa2185fcbd5a1d695e558b401ffd594b5c7376254e62b1b6708b7dd7bc5acae",
+      "id": "f7056e71a148",
+      "priority": 1,
+      "group": "b5657390f155"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "carrot",
+      "meaningInSourceLanguage": "胡萝卜",
+      "id": "5db8b48d2085",
+      "priority": 0,
+      "group": "618e4ec742b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "carrot",
+      "meaning": "胡萝卜",
+      "audio": "234aebf7c67e80abab76143375b3ff80518537694e5052c5869de1fcdb9acd3e",
+      "id": "5a602c120d0d",
+      "priority": 1,
+      "group": "618e4ec742b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "broccoli",
+      "meaningInSourceLanguage": "西兰花",
+      "id": "3b9407859da3",
+      "priority": 0,
+      "group": "6cbb1322ab9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "broccoli",
+      "meaning": "西兰花",
+      "audio": "3fa34fba1b3cd59943f28accd06c435546ce1f39ae083b7d302ef4fd48a4fd0b",
+      "id": "ba5280a7f856",
+      "priority": 1,
+      "group": "6cbb1322ab9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spinach",
+      "meaningInSourceLanguage": "菠菜",
+      "id": "a719fd6f8e56",
+      "priority": 0,
+      "group": "31235f5a77ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spinach",
+      "meaning": "菠菜",
+      "audio": "7815ddcaa0ecdc243b8caf42d7c51071c9388a7b60ef454d8e7636b08a7ca2d7",
+      "id": "991cb7f699f1",
+      "priority": 1,
+      "group": "31235f5a77ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lettuce",
+      "meaningInSourceLanguage": "生菜",
+      "id": "96fe4297ec49",
+      "priority": 0,
+      "group": "560d727ffb73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lettuce",
+      "meaning": "生菜",
+      "audio": "446751e69f07145500c5bfc7d7f3722551e4b2e4c0d6e6c7a88806a56cec58bb",
+      "id": "b31fd1fd2524",
+      "priority": 1,
+      "group": "560d727ffb73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cabbage",
+      "meaningInSourceLanguage": "卷心菜",
+      "id": "b2054c732cc8",
+      "priority": 0,
+      "group": "e595582f013e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cabbage",
+      "meaning": "卷心菜",
+      "audio": "2e34882d37e54e4c6764cb6d2a191174bf255ce6839e8484ae803a77408e7939",
+      "id": "c814af7717ef",
+      "priority": 1,
+      "group": "e595582f013e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "celery",
+      "meaningInSourceLanguage": "芹菜",
+      "id": "201b5ebcf332",
+      "priority": 0,
+      "group": "3735c2454e5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "celery",
+      "meaning": "芹菜",
+      "audio": "6fb9cfcfdb2cd9c33179de81bf0b5e97bd5b18f1d72f4c2ded6e761e42db81f4",
+      "id": "3ef6953eabce",
+      "priority": 1,
+      "group": "3735c2454e5f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "corn",
+      "meaningInSourceLanguage": "玉米",
+      "id": "523759396bd1",
+      "priority": 0,
+      "group": "5ddc075d2e23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "corn",
+      "meaning": "玉米",
+      "audio": "cbef7ef7e27fe80c005fcf63a6b5594bd0cbaa6c0bef69f680a0458887b61c00",
+      "id": "900bc56158ee",
+      "priority": 1,
+      "group": "5ddc075d2e23"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "peas",
+      "meaningInSourceLanguage": "豌豆",
+      "id": "54dee0e2f6d9",
+      "priority": 0,
+      "group": "4d45e1d1b0ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "peas",
+      "meaning": "豌豆",
+      "audio": "099d36bea63bb64fdb28cd3510a9cb0a757d30f0ba1b4272fca818ec3c39554b",
+      "id": "0454b5144e0c",
+      "priority": 1,
+      "group": "4d45e1d1b0ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beans",
+      "meaningInSourceLanguage": "豆类",
+      "id": "93f11c650800",
+      "priority": 0,
+      "group": "6d9d9feab5ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beans",
+      "meaning": "豆类",
+      "audio": "3d7a910b1e71cdc9d5ce9cd7e1662ebfdc8195fc26dbcac44d473e100713a09d",
+      "id": "da8081058aad",
+      "priority": 1,
+      "group": "6d9d9feab5ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "potato",
+      "meaningInSourceLanguage": "土豆",
+      "id": "4a6642e7e10e",
+      "priority": 0,
+      "group": "4d135545662c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "potato",
+      "meaning": "土豆",
+      "audio": "5f2aa98a1eb920491ee6537970efa9e9ed70d018f02d991cc08eb4c345954412",
+      "id": "06ab14a0130d",
+      "priority": 1,
+      "group": "4d135545662c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sweet potato",
+      "meaningInSourceLanguage": "红薯",
+      "id": "7ec3fe00a1d5",
+      "priority": 0,
+      "group": "513891f10e93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sweet potato",
+      "meaning": "红薯",
+      "audio": "551a3d251abfc38cfbb3f18499723174391bd53963d2a44486f3d90dad13a70b",
+      "id": "73fa470a3be8",
+      "priority": 1,
+      "group": "513891f10e93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mushroom",
+      "meaningInSourceLanguage": "蘑菇",
+      "id": "5bb273f8cc37",
+      "priority": 0,
+      "group": "674d2a38247d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mushroom",
+      "meaning": "蘑菇",
+      "audio": "752723e0fc42ce4642cc016e04a03b03de74fa14d33d08081e8eb6c450d88646",
+      "id": "899b76e43a24",
+      "priority": 1,
+      "group": "674d2a38247d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eggplant",
+      "meaningInSourceLanguage": "茄子",
+      "id": "a85233a94896",
+      "priority": 0,
+      "group": "a2211f6aa67a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eggplant",
+      "meaning": "茄子",
+      "audio": "0b8be278937e98d0741594dfc19aee3e18cd3baddafa3f256eb3fda1d66d8a21",
+      "id": "f872fbd5e9a4",
+      "priority": 1,
+      "group": "a2211f6aa67a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pepper",
+      "meaningInSourceLanguage": "青椒",
+      "id": "ea84b469dbb6",
+      "priority": 0,
+      "group": "ddf08361b414"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pepper",
+      "meaning": "青椒",
+      "audio": "5860e9fff6ac614e3dfb8d06d8221af93ac74cb9a8b00383ff8e863d6f42fdea",
+      "id": "06fc4b99f767",
+      "priority": 1,
+      "group": "ddf08361b414"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pumpkin",
+      "meaningInSourceLanguage": "南瓜",
+      "id": "1792a495ea53",
+      "priority": 0,
+      "group": "ba0a1838268c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pumpkin",
+      "meaning": "南瓜",
+      "audio": "de6e470ca14387f7f88d132619bf20c41bc943e50aaa691ca7926f7441fca90e",
+      "id": "26de3a7b67ff",
+      "priority": 1,
+      "group": "ba0a1838268c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "zucchini",
+      "meaningInSourceLanguage": "西葫芦",
+      "id": "4ad1157affa4",
+      "priority": 0,
+      "group": "a98f8a944db6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "zucchini",
+      "meaning": "西葫芦",
+      "audio": "d6c1b9b62dfd7299914963b473df0d6e0d7385353e5e3ab119cb7985f06bf2d6",
+      "id": "86b86719c5cc",
+      "priority": 1,
+      "group": "a98f8a944db6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "asparagus",
+      "meaningInSourceLanguage": "芦笋",
+      "id": "33e21179401c",
+      "priority": 0,
+      "group": "872bb0848221"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "asparagus",
+      "meaning": "芦笋",
+      "audio": "c97f401df5dd7d065817a0e5c1461ce2aaa7e0901c6d33ad35db1d03fdfe76fc",
+      "id": "a5cef47a5e45",
+      "priority": 1,
+      "group": "872bb0848221"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cauliflower",
+      "meaningInSourceLanguage": "花椰菜",
+      "id": "ab2102695897",
+      "priority": 0,
+      "group": "a459aaaf3090"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cauliflower",
+      "meaning": "花椰菜",
+      "audio": "186a45dbf3f06e0f82523b4620712204dd57ad76a5e793dc47a8ebc0b0f53dec",
+      "id": "5f64b986bc95",
+      "priority": 1,
+      "group": "a459aaaf3090"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kale",
+      "meaningInSourceLanguage": "羽衣甘蓝",
+      "id": "233fcc17ccda",
+      "priority": 0,
+      "group": "a6170a2c21f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kale",
+      "meaning": "羽衣甘蓝",
+      "audio": "140ac613a491f3574fb3a5f36868f9e172dd052874bc6ccef67be187887fbb2c",
+      "id": "e4ac22c113bf",
+      "priority": 1,
+      "group": "a6170a2c21f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "radish",
+      "meaningInSourceLanguage": "萝卜",
+      "id": "5cd7592055e0",
+      "priority": 0,
+      "group": "25e375ec1bef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "radish",
+      "meaning": "萝卜",
+      "audio": "2382c5d16005243903d1235bc488906b7497a920de2b04d5df30c12c7e39cda5",
+      "id": "cdfb98114340",
+      "priority": 1,
+      "group": "25e375ec1bef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beet",
+      "meaningInSourceLanguage": "甜菜",
+      "id": "0ee39be570a6",
+      "priority": 0,
+      "group": "3b1f5f673249"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beet",
+      "meaning": "甜菜",
+      "audio": "b192f835a1f629d830316673841d7785d50e9868b5caef0f87257013e8876717",
+      "id": "30f96a18cd06",
+      "priority": 1,
+      "group": "3b1f5f673249"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "garlic",
+      "meaningInSourceLanguage": "大蒜",
+      "id": "2cbe60d4086f",
+      "priority": 0,
+      "group": "f1b3668c63a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garlic",
+      "meaning": "大蒜",
+      "audio": "0edf6fbf8e494160b59b3fdef7dd73c361d55e5b3f0f7a9a0fe4c7f463a54e89",
+      "id": "1dc6eb7eb81c",
+      "priority": 1,
+      "group": "f1b3668c63a6"
+    }
+  ]
+}

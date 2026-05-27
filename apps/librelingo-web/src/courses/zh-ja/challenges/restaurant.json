@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "飲み物が欲しいです。",
+      "meaningInSourceLanguage": "我想要一杯饮料。",
+      "id": "8c19aee044d6",
+      "priority": 0,
+      "group": "cb9d3d06258f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "飲み物が欲しいです。",
+      "meaning": "我想要一杯饮料。",
+      "audio": "0e65e040c230ea3d8c7bb7ede84da99492af9cd4430370dea97093850f827670",
+      "id": "91c144084524",
+      "priority": 1,
+      "group": "cb9d3d06258f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "食べ物は美味しいです。",
+      "meaningInSourceLanguage": "食物很好。",
+      "id": "82af6f79cb4f",
+      "priority": 0,
+      "group": "b52d2f43dd97"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "食べ物は美味しいです。",
+      "meaning": "食物很好。",
+      "audio": "cd6c38904994165931d1e37f4d90338802d665327abbdf6361403dbbfc74c69c",
+      "id": "1cc4e2117469",
+      "priority": 1,
+      "group": "b52d2f43dd97"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "水をグラスでください。",
+      "meaningInSourceLanguage": "能给我一杯水吗？",
+      "id": "cba88a984a1c",
+      "priority": 0,
+      "group": "13ba57c2183f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "水をグラスでください。",
+      "meaning": "能给我一杯水吗？",
+      "audio": "02fe08795ce3df9fc6d47af3fe7861197465e126b1395e593cb7c1799bc4a848",
+      "id": "8b30a43e8666",
+      "priority": 1,
+      "group": "13ba57c2183f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ワインのボトルが必要です。",
+      "meaningInSourceLanguage": "我们需要一瓶酒。",
+      "id": "9efe58086bb3",
+      "priority": 0,
+      "group": "2d4fe0b50af8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ワインのボトルが必要です。",
+      "meaning": "我们需要一瓶酒。",
+      "audio": "2e94587856121e1f2e95a5f8298239fe9022ba40c11ab7610a11071b6e010712",
+      "id": "338e7f2acf54",
+      "priority": 1,
+      "group": "2d4fe0b50af8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "デザートをお願いします。",
+      "meaningInSourceLanguage": "我想要甜点。",
+      "id": "3b214434300d",
+      "priority": 0,
+      "group": "2737a0e3a407"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "デザートをお願いします。",
+      "meaning": "我想要甜点。",
+      "audio": "3ec87424a1aad645c897a8328eaf58dc583f6b437c5cfb92936607064f3069cd",
+      "id": "a2b5c615138d",
+      "priority": 1,
+      "group": "2737a0e3a407"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "塩を取ってください。",
+      "meaningInSourceLanguage": "请把盐递给我。",
+      "id": "575e2020ba56",
+      "priority": 0,
+      "group": "f56c805e65aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "塩を取ってください。",
+      "meaning": "请把盐递给我。",
+      "audio": "50ea00a8bfeb41298dfdf8dc1f9f85d1b1efcdddaef24ed7c2f27b637211add6",
+      "id": "387e258899cc",
+      "priority": 1,
+      "group": "f56c805e65aa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "レストラン",
+      "meaningInSourceLanguage": "餐厅",
+      "id": "79e5c865cde3",
+      "priority": 0,
+      "group": "d0bc0d0b6c21"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "レストラン"
+      ],
+      "phrase": [
+        {
+          "word": "餐厅",
+          "definition": "レストラン"
+        }
+      ],
+      "id": "81177d6cd809",
+      "priority": 1,
+      "group": "d0bc0d0b6c21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "レストラン",
+      "meaning": "餐厅",
+      "audio": "aa2957c22edf5ab58f0bb5e1459dc0917a8b5bcf48ca3f317de4bf9fb14b7c2f",
+      "id": "7bcc62eb8227",
+      "priority": 1,
+      "group": "d0bc0d0b6c21"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "飲み物",
+      "meaningInSourceLanguage": "饮料",
+      "id": "ee07f231f396",
+      "priority": 0,
+      "group": "e01de77df2cb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "飲み物"
+      ],
+      "phrase": [
+        {
+          "word": "饮料",
+          "definition": "飲み物"
+        }
+      ],
+      "id": "f99f12d6bc72",
+      "priority": 1,
+      "group": "e01de77df2cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "飲み物",
+      "meaning": "饮料",
+      "audio": "fe2b48cb5aef20081ef05b524e187ab344f51ff578be43fc87a9b46dd433ca9b",
+      "id": "7278faf63aff",
+      "priority": 1,
+      "group": "e01de77df2cb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "食べ物",
+      "meaningInSourceLanguage": "食物",
+      "id": "e000bba8e447",
+      "priority": 0,
+      "group": "f24bdf5aec7a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "食べ物"
+      ],
+      "phrase": [
+        {
+          "word": "食物",
+          "definition": "食べ物"
+        }
+      ],
+      "id": "f0835b37d56b",
+      "priority": 1,
+      "group": "f24bdf5aec7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "食べ物",
+      "meaning": "食物",
+      "audio": "8c793a7da7cbb65ee96ee1ee138dafbe5be5ec39756521cabf6f09d30cde05dd",
+      "id": "8b74089070dd",
+      "priority": 1,
+      "group": "f24bdf5aec7a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ナプキン",
+      "meaningInSourceLanguage": "餐巾",
+      "id": "a03b995cb665",
+      "priority": 0,
+      "group": "fc340606bf74"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ナプキン"
+      ],
+      "phrase": [
+        {
+          "word": "餐巾",
+          "definition": "ナプキン"
+        }
+      ],
+      "id": "f65e64f66cbb",
+      "priority": 1,
+      "group": "fc340606bf74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ナプキン",
+      "meaning": "餐巾",
+      "audio": "e02afdad502c97ec28644ee3f6010e94047258f6d1a5c720f512233d4c32440b",
+      "id": "83304245521f",
+      "priority": 1,
+      "group": "fc340606bf74"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "塩",
+      "meaningInSourceLanguage": "盐",
+      "id": "d436f0bcd262",
+      "priority": 0,
+      "group": "4b93bc77826a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "塩"
+      ],
+      "phrase": [
+        {
+          "word": "盐",
+          "definition": "塩"
+        }
+      ],
+      "id": "4517e05c3475",
+      "priority": 1,
+      "group": "4b93bc77826a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "塩",
+      "meaning": "盐",
+      "audio": "7843084cca23bba53527996f3b7502fa9fa132d616264726fde4630b35fe7a8a",
+      "id": "4bd14b861013",
+      "priority": 1,
+      "group": "4b93bc77826a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "胡椒",
+      "meaningInSourceLanguage": "胡椒",
+      "id": "467eb5544110",
+      "priority": 0,
+      "group": "032b6240885a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "胡椒"
+      ],
+      "phrase": [
+        {
+          "word": "胡椒",
+          "definition": "胡椒"
+        }
+      ],
+      "id": "b748d20927fc",
+      "priority": 1,
+      "group": "032b6240885a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "胡椒",
+      "meaning": "胡椒",
+      "audio": "60e02fe3677f13147b9023259313df172040630328c4458cc8cd89cd9046d99a",
+      "id": "574a99b4f8c6",
+      "priority": 1,
+      "group": "032b6240885a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "グラス",
+      "meaningInSourceLanguage": "玻璃杯",
+      "id": "db4727dc1f21",
+      "priority": 0,
+      "group": "a7d84c0f072f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "グラス"
+      ],
+      "phrase": [
+        {
+          "word": "玻璃杯",
+          "definition": "グラス"
+        }
+      ],
+      "id": "8c05022d4bae",
+      "priority": 1,
+      "group": "a7d84c0f072f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "グラス",
+      "meaning": "玻璃杯",
+      "audio": "d1866cd7e0dc3af706a860a72a0470116115c4596bd2da65c6d9805e4caaeebf",
+      "id": "e48c10db37ce",
+      "priority": 1,
+      "group": "a7d84c0f072f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ボトル",
+      "meaningInSourceLanguage": "瓶子",
+      "id": "27a4f3fa7a1d",
+      "priority": 0,
+      "group": "c80c1b05b4fb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ボトル"
+      ],
+      "phrase": [
+        {
+          "word": "瓶子",
+          "definition": "ボトル"
+        }
+      ],
+      "id": "f0e4787b8733",
+      "priority": 1,
+      "group": "c80c1b05b4fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ボトル",
+      "meaning": "瓶子",
+      "audio": "0444a28a4c6281cca45eabf5b57ce3e3752667435e5160f57b52d7a619b4d44e",
+      "id": "7756db92c693",
+      "priority": 1,
+      "group": "c80c1b05b4fb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "デザート",
+      "meaningInSourceLanguage": "甜点",
+      "id": "367deadce9a6",
+      "priority": 0,
+      "group": "26c762606d30"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "デザート"
+      ],
+      "phrase": [
+        {
+          "word": "甜点",
+          "definition": "デザート"
+        }
+      ],
+      "id": "add1a0f2f101",
+      "priority": 1,
+      "group": "26c762606d30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "デザート",
+      "meaning": "甜点",
+      "audio": "9660f134ea38e151169cfa9d6526bbf27ca96ca47cb3d68995b17036725f8a69",
+      "id": "9e5d664bca40",
+      "priority": 1,
+      "group": "26c762606d30"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "メイン料理",
+      "meaningInSourceLanguage": "主菜",
+      "id": "dac754878433",
+      "priority": 0,
+      "group": "57dafb7094fe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "メイン料理"
+      ],
+      "phrase": [
+        {
+          "word": "主菜",
+          "definition": "メイン料理"
+        }
+      ],
+      "id": "0b7aa4a75c8c",
+      "priority": 1,
+      "group": "57dafb7094fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "メイン料理",
+      "meaning": "主菜",
+      "audio": "2af60009111c912608d7dc3a2bae16d7f75e9e4b1f55ac73c96a6a0d07c9e4b2",
+      "id": "3e9061ac8bc3",
+      "priority": 1,
+      "group": "57dafb7094fe"
+    }
+  ]
+}

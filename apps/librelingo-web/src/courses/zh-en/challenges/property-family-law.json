@@ -1,0 +1,975 @@
+{
+  "id": "1f3a491d3aa2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "unemployment benefits",
+      "meaningInSourceLanguage": "失业救济",
+      "id": "7f0a778a46fe",
+      "priority": 0,
+      "group": "9e0e6ec45642"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "unemployment benefits",
+      "meaning": "失业救济",
+      "audio": "fbd4086840954279aa77d89f8f917356",
+      "id": "577b05fe6bf6",
+      "priority": 1,
+      "group": "9e0e6ec45642"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "labor union",
+      "meaningInSourceLanguage": "工会",
+      "id": "534581567eed",
+      "priority": 0,
+      "group": "4771dcea0b10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "labor union",
+      "meaning": "工会",
+      "audio": "2c341de96ba0448fbfd92815c746b939",
+      "id": "bd9015809de3",
+      "priority": 1,
+      "group": "4771dcea0b10"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "collective bargaining",
+      "meaningInSourceLanguage": "集体谈判",
+      "id": "a5dfbc28edff",
+      "priority": 0,
+      "group": "cff3d80f9c94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "collective bargaining",
+      "meaning": "集体谈判",
+      "audio": "1c6420e17ee549699ae5cd3d03a8fff4",
+      "id": "7eaa563909ed",
+      "priority": 1,
+      "group": "cff3d80f9c94"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strike",
+      "meaningInSourceLanguage": "罢工",
+      "id": "77edcfee7812",
+      "priority": 0,
+      "group": "b081309506e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strike",
+      "meaning": "罢工",
+      "audio": "4d32d35e156d447a956c567f0b989957",
+      "id": "d6ec3298159e",
+      "priority": 1,
+      "group": "b081309506e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "non-compete agreement",
+      "meaningInSourceLanguage": "竞业禁止协议",
+      "id": "5555a14e1641",
+      "priority": 0,
+      "group": "7e4601e8effc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "non-compete agreement",
+      "meaning": "竞业禁止协议",
+      "audio": "6de4dd8cd4a84ca380d75e3da11d346b",
+      "id": "433a4098a4da",
+      "priority": 1,
+      "group": "7e4601e8effc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "non-disclosure agreement",
+      "meaningInSourceLanguage": "保密协议",
+      "id": "00be27076fce",
+      "priority": 0,
+      "group": "5b160d402c49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "non-disclosure agreement",
+      "meaning": "保密协议",
+      "audio": "3e8d5a2c070440ab830cf51bba2ee8a1",
+      "id": "4a7acc2ac5ac",
+      "priority": 1,
+      "group": "5b160d402c49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "severance",
+      "meaningInSourceLanguage": "遣散费",
+      "id": "cf36b0e41130",
+      "priority": 0,
+      "group": "bf7ce67576b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "severance",
+      "meaning": "遣散费",
+      "audio": "98a10a113420484bb74f85cc44ceb431",
+      "id": "72d30b3b15c3",
+      "priority": 1,
+      "group": "bf7ce67576b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "employment contract",
+      "meaningInSourceLanguage": "雇佣合同",
+      "id": "344245029682",
+      "priority": 0,
+      "group": "f70a1168983c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "employment contract",
+      "meaning": "雇佣合同",
+      "audio": "71436b888d814cac9cde1741eaddb473",
+      "id": "e560182e9938",
+      "priority": 1,
+      "group": "f70a1168983c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "independent contractor",
+      "meaningInSourceLanguage": "独立承包人",
+      "id": "ebbe83ad62b9",
+      "priority": 0,
+      "group": "24e780840cc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "independent contractor",
+      "meaning": "独立承包人",
+      "audio": "422941462df04a04954edeb92561b8c8",
+      "id": "d9ca0a7a72b1",
+      "priority": 1,
+      "group": "24e780840cc4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "consumer law",
+      "meaningInSourceLanguage": "消费者法",
+      "id": "d09d8f8ddffa",
+      "priority": 0,
+      "group": "2efc4f5c1bbf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "consumer law",
+      "meaning": "消费者法",
+      "audio": "a92cc5b80c5f4b37858a0de323e4f47b",
+      "id": "6a746997f68b",
+      "priority": 1,
+      "group": "2efc4f5c1bbf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "warranty",
+      "meaningInSourceLanguage": "保修",
+      "id": "236c45fadee1",
+      "priority": 0,
+      "group": "562925686146"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "warranty",
+      "meaning": "保修",
+      "audio": "e6d1068b0af44fb2aef15512b6fe7481",
+      "id": "b7e26612fb2c",
+      "priority": 1,
+      "group": "562925686146"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lemon law",
+      "meaningInSourceLanguage": "柠檬法",
+      "id": "d4d2ee53139e",
+      "priority": 0,
+      "group": "4f177f32c13f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lemon law",
+      "meaning": "柠檬法",
+      "audio": "eeb6b523d2eb41faafa820815b9c23d4",
+      "id": "7c0f5e8b14c7",
+      "priority": 1,
+      "group": "4f177f32c13f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "product recall",
+      "meaningInSourceLanguage": "产品召回",
+      "id": "546a0cc65cdd",
+      "priority": 0,
+      "group": "af7d8403927e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "product recall",
+      "meaning": "产品召回",
+      "audio": "fe796dd393ed4bd0b2aaaf15340a9774",
+      "id": "7eda060b742a",
+      "priority": 1,
+      "group": "af7d8403927e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "false advertising",
+      "meaningInSourceLanguage": "虚假广告",
+      "id": "12e1aa37b6f0",
+      "priority": 0,
+      "group": "01cbabb4db1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "false advertising",
+      "meaning": "虚假广告",
+      "audio": "a3cb4af0086b4679b9559cd3be6949fb",
+      "id": "7c41df22c62f",
+      "priority": 1,
+      "group": "01cbabb4db1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "consumer protection",
+      "meaningInSourceLanguage": "消费者保护",
+      "id": "4091b045ad22",
+      "priority": 0,
+      "group": "cec576593e9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "consumer protection",
+      "meaning": "消费者保护",
+      "audio": "2159564a443c4028a861255ca85daf4a",
+      "id": "f580f2cd4620",
+      "priority": 1,
+      "group": "cec576593e9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "insurance law",
+      "meaningInSourceLanguage": "保险法",
+      "id": "75fd44b619ef",
+      "priority": 0,
+      "group": "d0428e25a490"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "insurance law",
+      "meaning": "保险法",
+      "audio": "d37dcf9d728740bf8440010b354481d4",
+      "id": "5310fd97e0bb",
+      "priority": 1,
+      "group": "d0428e25a490"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "policy",
+      "meaningInSourceLanguage": "保单",
+      "id": "cd7c07cc49c9",
+      "priority": 0,
+      "group": "6d762cd9f23c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "policy",
+      "meaning": "保单",
+      "audio": "ea0126b9dfc940dda6978ebb9133ef7f",
+      "id": "f1ace151b7f0",
+      "priority": 1,
+      "group": "6d762cd9f23c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "claim",
+      "meaningInSourceLanguage": "索赔",
+      "id": "4efdae348df8",
+      "priority": 0,
+      "group": "f89c7e15c45f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "claim",
+      "meaning": "索赔",
+      "audio": "9ce69ff4197d43a58dbf3dd66f493d35",
+      "id": "d3fb3abeeaf9",
+      "priority": 1,
+      "group": "f89c7e15c45f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coverage",
+      "meaningInSourceLanguage": "承保范围",
+      "id": "cdb43cab54d9",
+      "priority": 0,
+      "group": "6c7f7e025f7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coverage",
+      "meaning": "承保范围",
+      "audio": "4931565413394dc89dab49d02da1df4b",
+      "id": "e1fb24a92549",
+      "priority": 1,
+      "group": "6c7f7e025f7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "deductible",
+      "meaningInSourceLanguage": "免赔额",
+      "id": "d4d3c473ec41",
+      "priority": 0,
+      "group": "fc420ab68521"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "deductible",
+      "meaning": "免赔额",
+      "audio": "2625e7ddb9f84e16bbaa34efe71c2c0d",
+      "id": "c52b0f32eb43",
+      "priority": 1,
+      "group": "fc420ab68521"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "premium",
+      "meaningInSourceLanguage": "保费",
+      "id": "b679468095df",
+      "priority": 0,
+      "group": "5f94be062c79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "premium",
+      "meaning": "保费",
+      "audio": "c729275543a14ca28018a21baa7a1ced",
+      "id": "b86cc8ed20f3",
+      "priority": 1,
+      "group": "5f94be062c79"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bad faith",
+      "meaningInSourceLanguage": "恶意",
+      "id": "d3fd477fd947",
+      "priority": 0,
+      "group": "3045d5a5f6e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bad faith",
+      "meaning": "恶意",
+      "audio": "43b74408f3ec415d94237fab500931e2",
+      "id": "4fb0b91a2453",
+      "priority": 1,
+      "group": "3045d5a5f6e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "underwriting",
+      "meaningInSourceLanguage": "承保",
+      "id": "d7b506960f2b",
+      "priority": 0,
+      "group": "4157c0e208d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "underwriting",
+      "meaning": "承保",
+      "audio": "441f994935d04463932c6dddba7dad8c",
+      "id": "fe73f4c4dcb8",
+      "priority": 1,
+      "group": "4157c0e208d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "constitution",
+      "meaningInSourceLanguage": "宪法",
+      "id": "c1dfdc8286be",
+      "priority": 0,
+      "group": "9b5885846721"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "constitution",
+      "meaning": "宪法",
+      "audio": "9c32a67524bc4c099d7a24716ecd2d95",
+      "id": "31535ab39086",
+      "priority": 1,
+      "group": "9b5885846721"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "amendment",
+      "meaningInSourceLanguage": "修正案",
+      "id": "68bfc048bd1f",
+      "priority": 0,
+      "group": "1f61c2dab197"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "amendment",
+      "meaning": "修正案",
+      "audio": "33123f70a9ff42a89fda69acbde59e54",
+      "id": "74eada12b2ef",
+      "priority": 1,
+      "group": "1f61c2dab197"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "constitutional law",
+      "meaningInSourceLanguage": "宪法学",
+      "id": "704dbd83a9a2",
+      "priority": 0,
+      "group": "cce873e3314b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "constitutional law",
+      "meaning": "宪法学",
+      "audio": "9c56faf4a9e74542877efac1ded5d176",
+      "id": "01b2293caf3b",
+      "priority": 1,
+      "group": "cce873e3314b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "separation of powers",
+      "meaningInSourceLanguage": "三权分立",
+      "id": "7d032f5be4c3",
+      "priority": 0,
+      "group": "6471358332ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "separation of powers",
+      "meaning": "三权分立",
+      "audio": "fec45cbd1c0a40039209d8d49c3cb353",
+      "id": "4a43ae5af778",
+      "priority": 1,
+      "group": "6471358332ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "checks and balances",
+      "meaningInSourceLanguage": "制衡",
+      "id": "e68f773a3b6e",
+      "priority": 0,
+      "group": "ada8f72a936a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "checks and balances",
+      "meaning": "制衡",
+      "audio": "7864d19eaa534f2ab8792947a648ecf7",
+      "id": "b586030a22f8",
+      "priority": 1,
+      "group": "ada8f72a936a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "federalism",
+      "meaningInSourceLanguage": "联邦制",
+      "id": "c2755cf7248f",
+      "priority": 0,
+      "group": "73dd83b48fd0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "federalism",
+      "meaning": "联邦制",
+      "audio": "db28c61f621140f09984a7639e9758c1",
+      "id": "4b766ef418e3",
+      "priority": 1,
+      "group": "73dd83b48fd0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "states rights",
+      "meaningInSourceLanguage": "州权",
+      "id": "3f83cf0369f1",
+      "priority": 0,
+      "group": "9e27e3c2c3ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "states rights",
+      "meaning": "州权",
+      "audio": "ce31c71eed2947dfade14061e12ffb61",
+      "id": "1f78d138ef85",
+      "priority": 1,
+      "group": "9e27e3c2c3ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "supremacy clause",
+      "meaningInSourceLanguage": "最高条款",
+      "id": "d6b15e749fa3",
+      "priority": 0,
+      "group": "1ef586503b22"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "supremacy clause",
+      "meaning": "最高条款",
+      "audio": "bee4be2ea17b43879cfecdd5045ec99f",
+      "id": "2ac59dd8c871",
+      "priority": 1,
+      "group": "1ef586503b22"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "commerce clause",
+      "meaningInSourceLanguage": "商业条款",
+      "id": "706dd16489a2",
+      "priority": 0,
+      "group": "f31d4be5d00e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "commerce clause",
+      "meaning": "商业条款",
+      "audio": "5fa791204cd840999f56a1849bf7573b",
+      "id": "6f40dd3077ed",
+      "priority": 1,
+      "group": "f31d4be5d00e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "due process clause",
+      "meaningInSourceLanguage": "正当程序条款",
+      "id": "ea850351e92c",
+      "priority": 0,
+      "group": "5f6ed4f9993a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "due process clause",
+      "meaning": "正当程序条款",
+      "audio": "1443f43b409e469986852c845c918eeb",
+      "id": "414f6ead9e8c",
+      "priority": 1,
+      "group": "5f6ed4f9993a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "equal protection clause",
+      "meaningInSourceLanguage": "平等保护条款",
+      "id": "12793c3fd632",
+      "priority": 0,
+      "group": "f8794c4a484a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "equal protection clause",
+      "meaning": "平等保护条款",
+      "audio": "a4a8c9c78a2343b287b8a1904f2c1a53",
+      "id": "a591a1f11842",
+      "priority": 1,
+      "group": "f8794c4a484a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "freedom of speech",
+      "meaningInSourceLanguage": "言论自由",
+      "id": "5dc23fcbd418",
+      "priority": 0,
+      "group": "9fa623deb295"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "freedom of speech",
+      "meaning": "言论自由",
+      "audio": "0a19e616da844d8e9dc852c541dc476b",
+      "id": "1f1c5a28ff18",
+      "priority": 1,
+      "group": "9fa623deb295"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "freedom of religion",
+      "meaningInSourceLanguage": "宗教自由",
+      "id": "2b96cf919d00",
+      "priority": 0,
+      "group": "1a4a7bf5ab5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "freedom of religion",
+      "meaning": "宗教自由",
+      "audio": "ad63b468566c4b2d8ef87fe422f1a013",
+      "id": "0e79dd43fa4c",
+      "priority": 1,
+      "group": "1a4a7bf5ab5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "freedom of press",
+      "meaningInSourceLanguage": "新闻自由",
+      "id": "dc480ab8ae0d",
+      "priority": 0,
+      "group": "d0a1824f264b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "freedom of press",
+      "meaning": "新闻自由",
+      "audio": "2b653c3b93844152a8c64b1ecaeeed72",
+      "id": "533dc27b105f",
+      "priority": 1,
+      "group": "d0a1824f264b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "freedom of assembly",
+      "meaningInSourceLanguage": "集会自由",
+      "id": "c6bea2c4d3dc",
+      "priority": 0,
+      "group": "913fd1ca7985"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "freedom of assembly",
+      "meaning": "集会自由",
+      "audio": "6f3dc425f72a472081d5ca4e2c87e9cb",
+      "id": "9e1a94b676d5",
+      "priority": 1,
+      "group": "913fd1ca7985"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to bear arms",
+      "meaningInSourceLanguage": "持枪权",
+      "id": "d6b31b916e1d",
+      "priority": 0,
+      "group": "f0826a078e71"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to bear arms",
+      "meaning": "持枪权",
+      "audio": "d104063309c843e1a82d733d2de2eaba",
+      "id": "dbb5048790e9",
+      "priority": 1,
+      "group": "f0826a078e71"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "right to vote",
+      "meaningInSourceLanguage": "投票权",
+      "id": "e50e2f2769dd",
+      "priority": 0,
+      "group": "de21f405a228"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "right to vote",
+      "meaning": "投票权",
+      "audio": "f1b7c8ab5d89432a9cd939e6ad2db89b",
+      "id": "4252181b9185",
+      "priority": 1,
+      "group": "de21f405a228"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "search and seizure",
+      "meaningInSourceLanguage": "搜查和扣押",
+      "id": "92a80942c67e",
+      "priority": 0,
+      "group": "639209a860d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "search and seizure",
+      "meaning": "搜查和扣押",
+      "audio": "0ba9e9ec9e9c4856a76374c84a714589",
+      "id": "ed20e7567fd2",
+      "priority": 1,
+      "group": "639209a860d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "probable cause",
+      "meaningInSourceLanguage": "合理根据",
+      "id": "ce3dde6b9ad1",
+      "priority": 0,
+      "group": "e229b097c01d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "probable cause",
+      "meaning": "合理根据",
+      "audio": "4aea09d933b34712834782ea8563e886",
+      "id": "4b63136ec57d",
+      "priority": 1,
+      "group": "e229b097c01d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exclusionary rule",
+      "meaningInSourceLanguage": "排除规则",
+      "id": "25c32af5ff6c",
+      "priority": 0,
+      "group": "ac744026a058"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exclusionary rule",
+      "meaning": "排除规则",
+      "audio": "448adc67372a4353b5f9119957d522e9",
+      "id": "5bf014f20bd9",
+      "priority": 1,
+      "group": "ac744026a058"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "self-incrimination",
+      "meaningInSourceLanguage": "自证其罪",
+      "id": "12a3d4d70936",
+      "priority": 0,
+      "group": "4b868464ef6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "self-incrimination",
+      "meaning": "自证其罪",
+      "audio": "429e47cd95824dfd986286436553de7b",
+      "id": "28265d8a5bdf",
+      "priority": 1,
+      "group": "4b868464ef6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "speedy trial",
+      "meaningInSourceLanguage": "迅速审判",
+      "id": "0cc49ec51451",
+      "priority": 0,
+      "group": "911364410a15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "speedy trial",
+      "meaning": "迅速审判",
+      "audio": "5b5bc65711d2472ea852db8aa3683cc0",
+      "id": "79a56f586bad",
+      "priority": 1,
+      "group": "911364410a15"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "public trial",
+      "meaningInSourceLanguage": "公开审判",
+      "id": "67f212b6f3fa",
+      "priority": 0,
+      "group": "2a54fc32d4b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "public trial",
+      "meaning": "公开审判",
+      "audio": "eb03d942133e48c4af3da0f26c5d4817",
+      "id": "4a526ae33c50",
+      "priority": 1,
+      "group": "2a54fc32d4b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "impartial jury",
+      "meaningInSourceLanguage": "公正陪审团",
+      "id": "f3a0f8817e67",
+      "priority": 0,
+      "group": "682d673087eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "impartial jury",
+      "meaning": "公正陪审团",
+      "audio": "86514914cf034f74bc9cab4523871a2a",
+      "id": "371b6c8dd4d4",
+      "priority": 1,
+      "group": "682d673087eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "administrative law",
+      "meaningInSourceLanguage": "行政法",
+      "id": "589c4a9ef3e1",
+      "priority": 0,
+      "group": "bc0debd5de76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "administrative law",
+      "meaning": "行政法",
+      "audio": "a4c3e24d0c694c6dadae226aefb7dd48",
+      "id": "1f31ab5fe2fa",
+      "priority": 1,
+      "group": "bc0debd5de76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "regulation",
+      "meaningInSourceLanguage": "规章",
+      "id": "8c72e8980e28",
+      "priority": 0,
+      "group": "7a315abed360"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "regulation",
+      "meaning": "规章",
+      "audio": "53a7681f7d934280b3e3adb0ae503721",
+      "id": "9b3ce3b48604",
+      "priority": 1,
+      "group": "7a315abed360"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "agency",
+      "meaningInSourceLanguage": "行政机关",
+      "id": "80380a9dd06d",
+      "priority": 0,
+      "group": "3097c629dc82"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "agency",
+      "meaning": "行政机关",
+      "audio": "9c6c0663d0634bd88a6d2a77f033925a",
+      "id": "10a8364bd7fa",
+      "priority": 1,
+      "group": "3097c629dc82"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rulemaking",
+      "meaningInSourceLanguage": "制定规则",
+      "id": "7587a31ce78c",
+      "priority": 0,
+      "group": "eabcc2487770"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rulemaking",
+      "meaning": "制定规则",
+      "audio": "6cf0d28a66d346deba3932c9daf687d1",
+      "id": "3c56303cdff3",
+      "priority": 1,
+      "group": "eabcc2487770"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "adjudication",
+      "meaningInSourceLanguage": "裁决",
+      "id": "229411ba2cd0",
+      "priority": 0,
+      "group": "2da5badaa3b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "adjudication",
+      "meaning": "裁决",
+      "audio": "02bcbd8c36e9435f9542de7c2c3e6027",
+      "id": "c1a781ea2940",
+      "priority": 1,
+      "group": "2da5badaa3b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "judicial review",
+      "meaningInSourceLanguage": "司法审查",
+      "id": "7e35803c9b18",
+      "priority": 0,
+      "group": "15a06cf7846b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "judicial review",
+      "meaning": "司法审查",
+      "audio": "911a8082846e459dbdb7c42a0d74f210",
+      "id": "015e33b57608",
+      "priority": 1,
+      "group": "15a06cf7846b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "freedom of information",
+      "meaningInSourceLanguage": "信息自由",
+      "id": "ccc172931f5c",
+      "priority": 0,
+      "group": "03ed1e2ec287"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "freedom of information",
+      "meaning": "信息自由",
+      "audio": "7956bea763624af39e5b274809ba40ac",
+      "id": "0856ed7f0072",
+      "priority": 1,
+      "group": "03ed1e2ec287"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sunshine law",
+      "meaningInSourceLanguage": "阳光法",
+      "id": "03d9a3e30405",
+      "priority": 0,
+      "group": "20c26a65a425"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sunshine law",
+      "meaning": "阳光法",
+      "audio": "b62cfb33f46143e6ab33c6a1b09f3940",
+      "id": "fcf9a362131c",
+      "priority": 1,
+      "group": "20c26a65a425"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "delegation",
+      "meaningInSourceLanguage": "授权",
+      "id": "0ea5f0e3e7ea",
+      "priority": 0,
+      "group": "7e44a17b8cad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "delegation",
+      "meaning": "授权",
+      "audio": "f772867b182b471b99f8a9916719bd27",
+      "id": "68cbb5dd7e6c",
+      "priority": 1,
+      "group": "7e44a17b8cad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discretion",
+      "meaningInSourceLanguage": "自由裁量权",
+      "id": "f108c51ab0bb",
+      "priority": 0,
+      "group": "8bc07349eaea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discretion",
+      "meaning": "自由裁量权",
+      "audio": "8dfc34cc65664574a4bcfea09e30daa1",
+      "id": "d2b06d5fc04b",
+      "priority": 1,
+      "group": "8bc07349eaea"
+    }
+  ]
+}

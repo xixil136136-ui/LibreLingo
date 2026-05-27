@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - Eu gostaria de: 我想要
-    - o cardápio: 菜单
-    - a conta: 账单
-    - a recomendação: 推荐
-    - a reserva: 预约
-    - o garçom: 服务员
-    - o prato do dia: 今日特价
     - pedir: 点餐
+    - a recomendação: 推荐
+    - a conta: 账单
+    - a reserva: 预约
     - delicioso: 美味
     - uma mesa para dois: 两人桌
+    - o prato do dia: 今日特价
+    - o garçom: 服务员
+    - o cardápio: 菜单
+    - Eu gostaria de: 我想要
   Chinese:
-    - 两人桌: uma mesa para dois
     - 我想要: Eu gostaria de
-    - 今日特价: o prato do dia
+    - 推荐: a recomendação
     - 服务员: o garçom
     - 点餐: pedir
-    - 美味: delicioso
-    - 推荐: a recomendação
     - 账单: a conta
-    - 预约: a reserva
+    - 美味: delicioso
+    - 两人桌: uma mesa para dois
     - 菜单: o cardápio
+    - 预约: a reserva
+    - 今日特价: o prato do dia

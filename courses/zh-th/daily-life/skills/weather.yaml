@@ -1,0 +1,74 @@
+Skill:
+  Name: Weather
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: แดดออก
+    Translation: 晴天
+  - Word: ฝน
+    Translation: 雨
+  - Word: หิมะ
+    Translation: 雪
+  - Word: ลม
+    Translation: 风
+  - Word: เมฆ
+    Translation: 云
+  - Word: หนาว
+    Translation: 冷
+  - Word: ร้อน
+    Translation: 热
+  - Word: อุ่น
+    Translation: 温暖
+  - Word: อุณหภูมิ
+    Translation: 温度
+  - Word: ร่ม
+    Translation: 雨伞
+
+Phrases:
+  - Phrase: วันนี้แดดออก
+    Translation: 今天天气晴朗。
+  - Phrase: ฝนจะตก
+    Translation: 要下雨了。
+  - Phrase: ข้างนอกหนาวมาก
+    Translation: 外面很冷。
+  - Phrase: เอาร่มไปด้วย
+    Translation: 带上雨伞。
+  - Phrase: อุณหภูมิเท่าไหร่
+    Translation: 多少度？
+  - Phrase: หิมะตก
+    Translation: 下雪了。
+  - Phrase: วันนี้อุ่น
+    Translation: 今天很暖和。
+  - Phrase: ลมแรง
+    Translation: 刮风了。
+
+Mini-dictionary:
+  Thai:
+    - หิมะ: 雪
+    - อุณหภูมิ: 温度
+    - ฝน: 雨
+    - หนาว: 冷
+    - ร้อน: 热
+    - อุ่น: 温暖
+    - แดดออก: 晴天
+    - เมฆ: 云
+    - ร่ม: 雨伞
+    - ลม: 风
+  Chinese:
+    - 云: เมฆ
+    - 晴天: แดดออก
+    - 温度: อุณหภูมิ
+    - 雨: ฝน
+    - 雪: หิมะ
+    - 冷: หนาว
+    - 热: ร้อน
+    - 风: ลม
+    - 温暖: อุ่น
+    - 雨伞: ร่ม

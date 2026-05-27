@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   English:
+    - road: 路
     - far: 远
-    - map: 地图
+    - here: 这里
     - there: 那里
-    - right: 右边
+    - map: 地图
+    - street: 街道
     - left: 左边
     - straight: 直走
-    - road: 路
     - near: 附近
-    - here: 这里
-    - street: 街道
+    - right: 右边
   Chinese:
     - 地图: map
-    - 这里: here
     - 那里: there
-    - 直走: straight
-    - 远: far
     - 附近: near
+    - 直走: straight
+    - 右边: right
+    - 远: far
+    - 街道: street
+    - 这里: here
     - 左边: left
     - 路: road
-    - 街道: street
-    - 右边: right

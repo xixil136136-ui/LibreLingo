@@ -1,0 +1,567 @@
+{
+  "id": "299db1f2a43f",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "drawing",
+      "meaningInSourceLanguage": "素描",
+      "id": "4fd6ddfe67ce",
+      "priority": 0,
+      "group": "1bc8b0ce31a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drawing",
+      "meaning": "素描",
+      "audio": "c105ee5ffa9544d0b1f0f846cefb2fe2",
+      "id": "1f4700e17ec8",
+      "priority": 1,
+      "group": "1bc8b0ce31a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "knitting",
+      "meaningInSourceLanguage": "编织",
+      "id": "a3dfab2436eb",
+      "priority": 0,
+      "group": "2006fe6f7aa9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "knitting",
+      "meaning": "编织",
+      "audio": "bf23b5d0ae004cedb0baa0c4406945c7",
+      "id": "8434b959caab",
+      "priority": 1,
+      "group": "2006fe6f7aa9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sewing",
+      "meaningInSourceLanguage": "缝纫",
+      "id": "feaae0476fe7",
+      "priority": 0,
+      "group": "73c1ff1a97d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sewing",
+      "meaning": "缝纫",
+      "audio": "1a75ffb8b7664ebc90f41aa287950d3c",
+      "id": "d07102cd3e34",
+      "priority": 1,
+      "group": "73c1ff1a97d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calligraphy",
+      "meaningInSourceLanguage": "书法",
+      "id": "d5deb65af3f5",
+      "priority": 0,
+      "group": "35a5e784de9e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calligraphy",
+      "meaning": "书法",
+      "audio": "5ed2d4c55878453cbae5523bef9f5851",
+      "id": "ca0c8ebafcd7",
+      "priority": 1,
+      "group": "35a5e784de9e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pottery",
+      "meaningInSourceLanguage": "陶艺",
+      "id": "a21a89b249da",
+      "priority": 0,
+      "group": "b567b9a0af92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pottery",
+      "meaning": "陶艺",
+      "audio": "1ec2a544eee1431a8924fa6e1ea40a47",
+      "id": "ddc80423c5eb",
+      "priority": 1,
+      "group": "b567b9a0af92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "woodworking",
+      "meaningInSourceLanguage": "木工",
+      "id": "8199dd8db59d",
+      "priority": 0,
+      "group": "d88fece5c8fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "woodworking",
+      "meaning": "木工",
+      "audio": "6a763a373b2648c28596154e8b7bbcee",
+      "id": "7f8e5073223c",
+      "priority": 1,
+      "group": "d88fece5c8fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "astrology",
+      "meaningInSourceLanguage": "占星术",
+      "id": "f11bbd81f944",
+      "priority": 0,
+      "group": "160c52a23db0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "astrology",
+      "meaning": "占星术",
+      "audio": "917e8b709598413288e3b01514e0fc89",
+      "id": "84be46e53769",
+      "priority": 1,
+      "group": "160c52a23db0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tarot",
+      "meaningInSourceLanguage": "塔罗牌",
+      "id": "da234853acd3",
+      "priority": 0,
+      "group": "fff3c3854df8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tarot",
+      "meaning": "塔罗牌",
+      "audio": "a0a868848bbd425e8f3b8472f783538a",
+      "id": "bb41b9924425",
+      "priority": 1,
+      "group": "fff3c3854df8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "meditation",
+      "meaningInSourceLanguage": "冥想",
+      "id": "273332397e66",
+      "priority": 0,
+      "group": "bed7e4e91c5d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "meditation",
+      "meaning": "冥想",
+      "audio": "427598a196cc4646b93b4d894fe165b5",
+      "id": "d02d1f44a368",
+      "priority": 1,
+      "group": "bed7e4e91c5d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mindfulness",
+      "meaningInSourceLanguage": "正念",
+      "id": "18b658145239",
+      "priority": 0,
+      "group": "f818ec918c27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mindfulness",
+      "meaning": "正念",
+      "audio": "0e99588c562b481bb2914334eeeec742",
+      "id": "8c4420b6e2ed",
+      "priority": 1,
+      "group": "f818ec918c27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "volunteering",
+      "meaningInSourceLanguage": "志愿服务",
+      "id": "1322d7850715",
+      "priority": 0,
+      "group": "d43653ea3e74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "volunteering",
+      "meaning": "志愿服务",
+      "audio": "534013ddf6b145b892da0136c0a29600",
+      "id": "f7adce317c18",
+      "priority": 1,
+      "group": "d43653ea3e74"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "charity",
+      "meaningInSourceLanguage": "慈善",
+      "id": "f381a8921ae7",
+      "priority": 0,
+      "group": "e4d775f48deb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "charity",
+      "meaning": "慈善",
+      "audio": "73b1ac17a9ad41a4b7f16f3c83420104",
+      "id": "faf4135d8acb",
+      "priority": 1,
+      "group": "e4d775f48deb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "philanthropy",
+      "meaningInSourceLanguage": "慈善事业",
+      "id": "14d5f3e4134b",
+      "priority": 0,
+      "group": "ff48ffe4138a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "philanthropy",
+      "meaning": "慈善事业",
+      "audio": "4248fa224e924b458e491b9124d466bb",
+      "id": "2a47a847751a",
+      "priority": 1,
+      "group": "ff48ffe4138a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "donation",
+      "meaningInSourceLanguage": "捐赠",
+      "id": "fd758810373d",
+      "priority": 0,
+      "group": "833af4808e03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "donation",
+      "meaning": "捐赠",
+      "audio": "b05190adaf454d7486d937aeb2477525",
+      "id": "fa6ee700d5ec",
+      "priority": 1,
+      "group": "833af4808e03"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "celebration",
+      "meaningInSourceLanguage": "庆祝",
+      "id": "e80c8a0a1886",
+      "priority": 0,
+      "group": "0d4a8134806f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "celebration",
+      "meaning": "庆祝",
+      "audio": "e483d7ad0ec74d3d967af0c2e1da7488",
+      "id": "b1d019caa571",
+      "priority": 1,
+      "group": "0d4a8134806f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parade",
+      "meaningInSourceLanguage": "游行",
+      "id": "ca76ce1fea63",
+      "priority": 0,
+      "group": "03a4e474ab33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parade",
+      "meaning": "游行",
+      "audio": "5d5a0ec7f0ac4a129f4acc5840becf8a",
+      "id": "604488f9a430",
+      "priority": 1,
+      "group": "03a4e474ab33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fireworks",
+      "meaningInSourceLanguage": "烟花",
+      "id": "ec533020c821",
+      "priority": 0,
+      "group": "66cae223d848"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fireworks",
+      "meaning": "烟花",
+      "audio": "f86e80d7a68548bc835caf85f90b18dc",
+      "id": "724f164bdc3e",
+      "priority": 1,
+      "group": "66cae223d848"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tradition",
+      "meaningInSourceLanguage": "传统",
+      "id": "6a6def05c697",
+      "priority": 0,
+      "group": "0ad873166602"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tradition",
+      "meaning": "传统",
+      "audio": "3131556a997548719bb93ead8cb8623b",
+      "id": "c1fd8e4908d2",
+      "priority": 1,
+      "group": "0ad873166602"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "custom",
+      "meaningInSourceLanguage": "风俗",
+      "id": "f2241f2c7681",
+      "priority": 0,
+      "group": "568dc799c9c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "custom",
+      "meaning": "风俗",
+      "audio": "159f3469334b4e4497708b7c0e47b7c0",
+      "id": "b31fe6fb5c71",
+      "priority": 1,
+      "group": "568dc799c9c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "religion",
+      "meaningInSourceLanguage": "宗教",
+      "id": "51714029f676",
+      "priority": 0,
+      "group": "da258a1aeedc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "religion",
+      "meaning": "宗教",
+      "audio": "67f5b33c297545fbae52e978390cd3b2",
+      "id": "4dd7cd99c361",
+      "priority": 1,
+      "group": "da258a1aeedc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Buddhism",
+      "meaningInSourceLanguage": "佛教",
+      "id": "f08a6032f3b4",
+      "priority": 0,
+      "group": "c591c48dd0ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Buddhism",
+      "meaning": "佛教",
+      "audio": "5458ebe262b84202a0aaeb7d1271fa38",
+      "id": "238e353cd5ca",
+      "priority": 1,
+      "group": "c591c48dd0ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Christianity",
+      "meaningInSourceLanguage": "基督教",
+      "id": "668e6eb03b81",
+      "priority": 0,
+      "group": "b01665502c85"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Christianity",
+      "meaning": "基督教",
+      "audio": "cd80841e94784330882eddb8e2a2cec9",
+      "id": "996de34bc33c",
+      "priority": 1,
+      "group": "b01665502c85"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Islam",
+      "meaningInSourceLanguage": "伊斯兰教",
+      "id": "b4657c4e5da1",
+      "priority": 0,
+      "group": "f64a626c8bd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Islam",
+      "meaning": "伊斯兰教",
+      "audio": "24e2ed35577448a1bb58a20507017ccc",
+      "id": "2606650e01ab",
+      "priority": 1,
+      "group": "f64a626c8bd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Taoism",
+      "meaningInSourceLanguage": "道教",
+      "id": "44518e559785",
+      "priority": 0,
+      "group": "00576d07df04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Taoism",
+      "meaning": "道教",
+      "audio": "d21f0d62c0ae44529f7bd56f9e5c3a51",
+      "id": "4d13ead08064",
+      "priority": 1,
+      "group": "00576d07df04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hinduism",
+      "meaningInSourceLanguage": "印度教",
+      "id": "98852b2d2e10",
+      "priority": 0,
+      "group": "378d7e3c04b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hinduism",
+      "meaning": "印度教",
+      "audio": "883b73047c7640b0bbe6b975a7072d92",
+      "id": "294261c54612",
+      "priority": 1,
+      "group": "378d7e3c04b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "church",
+      "meaningInSourceLanguage": "教堂",
+      "id": "935fe3bd6b91",
+      "priority": 0,
+      "group": "7f60f1a47f21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "church",
+      "meaning": "教堂",
+      "audio": "0ccff98913494e12bc8e225b731676cc",
+      "id": "bf24cacd4677",
+      "priority": 1,
+      "group": "7f60f1a47f21"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "temple",
+      "meaningInSourceLanguage": "寺庙",
+      "id": "1699a6182a03",
+      "priority": 0,
+      "group": "dcf6e1fe29b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temple",
+      "meaning": "寺庙",
+      "audio": "9072093b9e884260bb6cbfd91922d782",
+      "id": "3a10284ccbfe",
+      "priority": 1,
+      "group": "dcf6e1fe29b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mosque",
+      "meaningInSourceLanguage": "清真寺",
+      "id": "3b05fdc73ef4",
+      "priority": 0,
+      "group": "cd0f6f70a289"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mosque",
+      "meaning": "清真寺",
+      "audio": "60d7483ce53941b9a6fd7449e80d3289",
+      "id": "df413c423328",
+      "priority": 1,
+      "group": "cd0f6f70a289"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "holiday",
+      "meaningInSourceLanguage": "节日",
+      "id": "e5ff6e4892e9",
+      "priority": 0,
+      "group": "785766d7482f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "holiday",
+      "meaning": "节日",
+      "audio": "fb651d52c3e34338af33b96b7e81c166",
+      "id": "b816ac9bb06b",
+      "priority": 1,
+      "group": "785766d7482f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vacation",
+      "meaningInSourceLanguage": "假期",
+      "id": "a8e41893e4dd",
+      "priority": 0,
+      "group": "2f0ab30cd52e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vacation",
+      "meaning": "假期",
+      "audio": "780e22c896cc4925a03d2b38372239d6",
+      "id": "1b491c0f6d56",
+      "priority": 1,
+      "group": "2f0ab30cd52e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "New Year",
+      "meaningInSourceLanguage": "新年",
+      "id": "048901c709e8",
+      "priority": 0,
+      "group": "52215e9587f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "New Year",
+      "meaning": "新年",
+      "audio": "66cfef8d56664083a3d6a5773560cb7f",
+      "id": "14f2edc17714",
+      "priority": 1,
+      "group": "52215e9587f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Spring Festival",
+      "meaningInSourceLanguage": "春节",
+      "id": "fd031fd29f2e",
+      "priority": 0,
+      "group": "eb2e4f2dbbc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Spring Festival",
+      "meaning": "春节",
+      "audio": "8acc757d79ec4fb69bc72c6bd8fc2591",
+      "id": "d6316aa36a97",
+      "priority": 1,
+      "group": "eb2e4f2dbbc7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Christmas",
+      "meaningInSourceLanguage": "圣诞节",
+      "id": "e49a0d2c0595",
+      "priority": 0,
+      "group": "7e0a7a039b93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Christmas",
+      "meaning": "圣诞节",
+      "audio": "25b17de396a54b0c9b358bde560a2924",
+      "id": "f4b5dbf04fc6",
+      "priority": 1,
+      "group": "7e0a7a039b93"
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "id": "06217991526f",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "abuse of discretion",
+      "meaningInSourceLanguage": "滥用自由裁量权",
+      "id": "747220eb1501",
+      "priority": 0,
+      "group": "a2c5b14ea3c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "abuse of discretion",
+      "meaning": "滥用自由裁量权",
+      "audio": "e95e0139deea4a4e8c9411845aaa94c4",
+      "id": "eb13a827d3b3",
+      "priority": 1,
+      "group": "a2c5b14ea3c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "arbitrary and capricious",
+      "meaningInSourceLanguage": "任意和反复无常的",
+      "id": "15fa0abe852d",
+      "priority": 0,
+      "group": "67ec26018eab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arbitrary and capricious",
+      "meaning": "任意和反复无常的",
+      "audio": "41c338f823fb4990a86bb0fd9a65af4b",
+      "id": "b83f5e50c7b0",
+      "priority": 1,
+      "group": "67ec26018eab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "standing",
+      "meaningInSourceLanguage": "诉讼资格",
+      "id": "ddec88b51594",
+      "priority": 0,
+      "group": "371ceade3a98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "standing",
+      "meaning": "诉讼资格",
+      "audio": "696c7fb73f5b41aeb1d613f64adccdd3",
+      "id": "2cae553a3e9e",
+      "priority": 1,
+      "group": "371ceade3a98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ripeness",
+      "meaningInSourceLanguage": "成熟性",
+      "id": "332c7a67bc8c",
+      "priority": 0,
+      "group": "13e1a251346b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ripeness",
+      "meaning": "成熟性",
+      "audio": "62be1df40a6d4888966e9df74c68fa45",
+      "id": "2d8d00f70445",
+      "priority": 1,
+      "group": "13e1a251346b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mootness",
+      "meaningInSourceLanguage": "诉讼无意义",
+      "id": "af6a5102f520",
+      "priority": 0,
+      "group": "5ac62942170c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mootness",
+      "meaning": "诉讼无意义",
+      "audio": "8760d4662f9b49b28aea51dee63e40c3",
+      "id": "a2bc259791e6",
+      "priority": 1,
+      "group": "5ac62942170c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exhaustion of remedies",
+      "meaningInSourceLanguage": "用尽救济手段",
+      "id": "edc1ae0cbfbb",
+      "priority": 0,
+      "group": "f4a4f8021f79"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exhaustion of remedies",
+      "meaning": "用尽救济手段",
+      "audio": "6ecbefad4a7d4f8e974840f63533285b",
+      "id": "c0ee9535b35d",
+      "priority": 1,
+      "group": "f4a4f8021f79"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "international law",
+      "meaningInSourceLanguage": "国际法",
+      "id": "a5c4dfb9807e",
+      "priority": 0,
+      "group": "df07a0130296"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "international law",
+      "meaning": "国际法",
+      "audio": "53d1536a57a7484c8bc9666212c22e0a",
+      "id": "1dc5ae3d2301",
+      "priority": 1,
+      "group": "df07a0130296"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "treaty",
+      "meaningInSourceLanguage": "条约",
+      "id": "e871d33e542d",
+      "priority": 0,
+      "group": "3c360a878387"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "treaty",
+      "meaning": "条约",
+      "audio": "fa059acbdc8645a7a9fce0ea88b9e321",
+      "id": "fa628c07b654",
+      "priority": 1,
+      "group": "3c360a878387"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "convention",
+      "meaningInSourceLanguage": "公约",
+      "id": "61f45b04723e",
+      "priority": 0,
+      "group": "c2ce5bde2b65"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "convention",
+      "meaning": "公约",
+      "audio": "d29ccac29451483682b02de9caf24ee1",
+      "id": "04cd173fd364",
+      "priority": 1,
+      "group": "c2ce5bde2b65"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "protocol",
+      "meaningInSourceLanguage": "议定书",
+      "id": "7146a859235a",
+      "priority": 0,
+      "group": "e326441397b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "protocol",
+      "meaning": "议定书",
+      "audio": "e09e8e741fec43d3820a7a008a695fbd",
+      "id": "289153e690b4",
+      "priority": 1,
+      "group": "e326441397b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "declaration",
+      "meaningInSourceLanguage": "宣言",
+      "id": "7b1ce7656a4a",
+      "priority": 0,
+      "group": "36abb3173596"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "declaration",
+      "meaning": "宣言",
+      "audio": "d67a7a48ecf2470a9f99a31c46908447",
+      "id": "6fba304dc6b2",
+      "priority": 1,
+      "group": "36abb3173596"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "customary international law",
+      "meaningInSourceLanguage": "国际习惯法",
+      "id": "3a76f5cbd077",
+      "priority": 0,
+      "group": "64515cef5325"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customary international law",
+      "meaning": "国际习惯法",
+      "audio": "62d432455913405f8282fe40b4eed4c2",
+      "id": "6d358fb97444",
+      "priority": 1,
+      "group": "64515cef5325"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jus cogens",
+      "meaningInSourceLanguage": "强制法",
+      "id": "7ee68772b13b",
+      "priority": 0,
+      "group": "2c348e236f62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jus cogens",
+      "meaning": "强制法",
+      "audio": "7b492075577d4f7b8680085a3ff46263",
+      "id": "6ee5c614fda0",
+      "priority": 1,
+      "group": "2c348e236f62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "erga omnes",
+      "meaningInSourceLanguage": "对一切义务",
+      "id": "bc668a25c7f1",
+      "priority": 0,
+      "group": "3a27a3be3f40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "erga omnes",
+      "meaning": "对一切义务",
+      "audio": "a06933620e0c4ff791238fdcc956ac2f",
+      "id": "7307e154d3b0",
+      "priority": 1,
+      "group": "3a27a3be3f40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sovereignty",
+      "meaningInSourceLanguage": "主权",
+      "id": "d14f23ccee0d",
+      "priority": 0,
+      "group": "c71c41810914"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sovereignty",
+      "meaning": "主权",
+      "audio": "67c9a3f25c3d47cbbb0988d8d9166233",
+      "id": "3abb9c1a28f1",
+      "priority": 1,
+      "group": "c71c41810914"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jurisdiction",
+      "meaningInSourceLanguage": "管辖",
+      "id": "1013d4087707",
+      "priority": 0,
+      "group": "7f3fd22a432b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jurisdiction",
+      "meaning": "管辖",
+      "audio": "002b3273159049caa062b071e577c0fc",
+      "id": "0f3810f425ad",
+      "priority": 1,
+      "group": "7f3fd22a432b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "territory",
+      "meaningInSourceLanguage": "领土",
+      "id": "51431037a583",
+      "priority": 0,
+      "group": "69e3fedec6c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "territory",
+      "meaning": "领土",
+      "audio": "a14d1828514f443c80cc6ef9f52d7110",
+      "id": "7d72b3660568",
+      "priority": 1,
+      "group": "69e3fedec6c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "extraterritoriality",
+      "meaningInSourceLanguage": "域外效力",
+      "id": "3fa74f15b9ab",
+      "priority": 0,
+      "group": "c70dd6f60ea2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "extraterritoriality",
+      "meaning": "域外效力",
+      "audio": "6c68866bfd3e414a917ef8c3687a2c7b",
+      "id": "433d779f175d",
+      "priority": 1,
+      "group": "c70dd6f60ea2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diplomatic immunity",
+      "meaningInSourceLanguage": "外交豁免权",
+      "id": "a2cbc3410e32",
+      "priority": 0,
+      "group": "2006d6e4775e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diplomatic immunity",
+      "meaning": "外交豁免权",
+      "audio": "3f344934c50f4247b2484e502abf1ee9",
+      "id": "db7bb6989102",
+      "priority": 1,
+      "group": "2006d6e4775e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "state immunity",
+      "meaningInSourceLanguage": "国家豁免",
+      "id": "57033687aa3b",
+      "priority": 0,
+      "group": "f28cbadd51a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "state immunity",
+      "meaning": "国家豁免",
+      "audio": "8520b3b2ee464befb90bb57b934072fe",
+      "id": "e9b3405bd26c",
+      "priority": 1,
+      "group": "f28cbadd51a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "United Nations",
+      "meaningInSourceLanguage": "联合国",
+      "id": "63a79f07b896",
+      "priority": 0,
+      "group": "0fb419412f04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "United Nations",
+      "meaning": "联合国",
+      "audio": "b89ebd3fadd645d79781dd481f62b3a8",
+      "id": "ca6abfc2fb20",
+      "priority": 1,
+      "group": "0fb419412f04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Security Council",
+      "meaningInSourceLanguage": "安全理事会",
+      "id": "eea347e3caeb",
+      "priority": 0,
+      "group": "ce92b8f762b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Security Council",
+      "meaning": "安全理事会",
+      "audio": "c517e9b260b84bddb71917a9394700eb",
+      "id": "9f2d57aef815",
+      "priority": 1,
+      "group": "ce92b8f762b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "General Assembly",
+      "meaningInSourceLanguage": "联合国大会",
+      "id": "ba89bdc1545b",
+      "priority": 0,
+      "group": "174e73dc9ef8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "General Assembly",
+      "meaning": "联合国大会",
+      "audio": "bdc0fcc1fb2e4acea31861caa6029bd2",
+      "id": "8eb5627f6af5",
+      "priority": 1,
+      "group": "174e73dc9ef8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "International Court of Justice",
+      "meaningInSourceLanguage": "国际法院",
+      "id": "c3aca91615d7",
+      "priority": 0,
+      "group": "e84450b5142c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "International Court of Justice",
+      "meaning": "国际法院",
+      "audio": "298c6041d00e4590ab1cca159c454470",
+      "id": "3d89b2739dca",
+      "priority": 1,
+      "group": "e84450b5142c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "International Criminal Court",
+      "meaningInSourceLanguage": "国际刑事法院",
+      "id": "93f964aeaca6",
+      "priority": 0,
+      "group": "d69144f90dec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "International Criminal Court",
+      "meaning": "国际刑事法院",
+      "audio": "c90695b16448489cbd4988aeb90e7ff4",
+      "id": "0219a80ba92e",
+      "priority": 1,
+      "group": "d69144f90dec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "World Trade Organization",
+      "meaningInSourceLanguage": "世界贸易组织",
+      "id": "e723302c93b4",
+      "priority": 0,
+      "group": "2f496054c794"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "World Trade Organization",
+      "meaning": "世界贸易组织",
+      "audio": "a6602a5ea23045c6bfeb30c9939c63db",
+      "id": "ce8933cc3151",
+      "priority": 1,
+      "group": "2f496054c794"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "human rights",
+      "meaningInSourceLanguage": "人权",
+      "id": "c9e783f987ae",
+      "priority": 0,
+      "group": "7d8bc91d5f07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "human rights",
+      "meaning": "人权",
+      "audio": "fe8663ad1f5a441282748dc6cd6bb186",
+      "id": "a4bb8a045d19",
+      "priority": 1,
+      "group": "7d8bc91d5f07"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "genocide",
+      "meaningInSourceLanguage": "种族灭绝",
+      "id": "0bbe0ea6e90d",
+      "priority": 0,
+      "group": "0f8c47ec2ce7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "genocide",
+      "meaning": "种族灭绝",
+      "audio": "a079cc04f9864fe8bf81ba5d996205b4",
+      "id": "f7d87e589565",
+      "priority": 1,
+      "group": "0f8c47ec2ce7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "war crimes",
+      "meaningInSourceLanguage": "战争罪",
+      "id": "26a0b1498747",
+      "priority": 0,
+      "group": "d99f13c1bc76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "war crimes",
+      "meaning": "战争罪",
+      "audio": "afe775a8216c4be7b8bf00b94a6443e5",
+      "id": "cf12ac4e82da",
+      "priority": 1,
+      "group": "d99f13c1bc76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crimes against humanity",
+      "meaningInSourceLanguage": "反人类罪",
+      "id": "9129fc1f68e2",
+      "priority": 0,
+      "group": "9bc84afa3eda"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crimes against humanity",
+      "meaning": "反人类罪",
+      "audio": "851b764ef0f7485581c0541f3ead0efd",
+      "id": "dcd23004175d",
+      "priority": 1,
+      "group": "9bc84afa3eda"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "torture",
+      "meaningInSourceLanguage": "酷刑",
+      "id": "279214fc68d8",
+      "priority": 0,
+      "group": "2982c81f3a26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "torture",
+      "meaning": "酷刑",
+      "audio": "7ae3f0f8fbca4c88adb65fd3ec0d0ed8",
+      "id": "8c104fff70e3",
+      "priority": 1,
+      "group": "2982c81f3a26"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "asylum",
+      "meaningInSourceLanguage": "庇护",
+      "id": "87db88da95d6",
+      "priority": 0,
+      "group": "d02a780278db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "asylum",
+      "meaning": "庇护",
+      "audio": "aa4fadb48474413cb5dfc7963b96279a",
+      "id": "e491460f3d81",
+      "priority": 1,
+      "group": "d02a780278db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "refugee",
+      "meaningInSourceLanguage": "难民",
+      "id": "1191e3595b68",
+      "priority": 0,
+      "group": "a62f9ea74ed0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "refugee",
+      "meaning": "难民",
+      "audio": "87eb638ee5db434aaad32d843c3632ea",
+      "id": "e525face8892",
+      "priority": 1,
+      "group": "a62f9ea74ed0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "extradition",
+      "meaningInSourceLanguage": "引渡",
+      "id": "008eab7554a3",
+      "priority": 0,
+      "group": "8253f7bc5302"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "extradition",
+      "meaning": "引渡",
+      "audio": "52c1626a2e2c4889b6a07bf8f612cbfd",
+      "id": "efb616080780",
+      "priority": 1,
+      "group": "8253f7bc5302"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mutual legal assistance",
+      "meaningInSourceLanguage": "司法协助",
+      "id": "62402078818a",
+      "priority": 0,
+      "group": "c6c96e7f2c52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mutual legal assistance",
+      "meaning": "司法协助",
+      "audio": "0275b0652b3b4efca6a757d959e72acb",
+      "id": "c2a6d042c66c",
+      "priority": 1,
+      "group": "c6c96e7f2c52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "international arbitration",
+      "meaningInSourceLanguage": "国际仲裁",
+      "id": "58ebcc71950c",
+      "priority": 0,
+      "group": "5ce4e6b6a9ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "international arbitration",
+      "meaning": "国际仲裁",
+      "audio": "2040983ff3ef4bc6a189f524366bfa90",
+      "id": "8b47a3b60729",
+      "priority": 1,
+      "group": "5ce4e6b6a9ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "investment treaty",
+      "meaningInSourceLanguage": "投资条约",
+      "id": "cd141d5aa3b0",
+      "priority": 0,
+      "group": "93c2fa82c35d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "investment treaty",
+      "meaning": "投资条约",
+      "audio": "c60589330e9b49d8bf0d131b321b8c7e",
+      "id": "894b18167573",
+      "priority": 1,
+      "group": "93c2fa82c35d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "BIT",
+      "meaningInSourceLanguage": "双边投资协定",
+      "id": "19969625df36",
+      "priority": 0,
+      "group": "15b4b2dab80f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "BIT",
+      "meaning": "双边投资协定",
+      "audio": "1a49cef3a0f1470f956c91281781a24e",
+      "id": "2112fea42861",
+      "priority": 1,
+      "group": "15b4b2dab80f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "most favored nation",
+      "meaningInSourceLanguage": "最惠国",
+      "id": "dcbed102247f",
+      "priority": 0,
+      "group": "6af350930193"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "most favored nation",
+      "meaning": "最惠国",
+      "audio": "600e6595dbd0426981319803b852f5ac",
+      "id": "e2d2c88937e3",
+      "priority": 1,
+      "group": "6af350930193"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "national treatment",
+      "meaningInSourceLanguage": "国民待遇",
+      "id": "9e4daf030fe0",
+      "priority": 0,
+      "group": "1d18b21b7fe7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "national treatment",
+      "meaning": "国民待遇",
+      "audio": "6e45a545e9fb4ae5a7dbf9d8e2caf256",
+      "id": "d9bcebd8c6af",
+      "priority": 1,
+      "group": "1d18b21b7fe7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sanctions",
+      "meaningInSourceLanguage": "制裁",
+      "id": "1504634e7a06",
+      "priority": 0,
+      "group": "877219b02c1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sanctions",
+      "meaning": "制裁",
+      "audio": "b26841ec13d14be8b8a00903ac2411df",
+      "id": "c297ed19d605",
+      "priority": 1,
+      "group": "877219b02c1d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "embargo",
+      "meaningInSourceLanguage": "禁运",
+      "id": "b32707b6d515",
+      "priority": 0,
+      "group": "cea1b3efb12e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "embargo",
+      "meaning": "禁运",
+      "audio": "a13aa7f91f2946efb268786b9ff2ac5d",
+      "id": "9e816376f753",
+      "priority": 1,
+      "group": "cea1b3efb12e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "law of the sea",
+      "meaningInSourceLanguage": "海洋法",
+      "id": "2643e76577f3",
+      "priority": 0,
+      "group": "0272e9984c86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "law of the sea",
+      "meaning": "海洋法",
+      "audio": "90585e4ad371490c87dbe3020e4ce3b5",
+      "id": "0a3878a463c5",
+      "priority": 1,
+      "group": "0272e9984c86"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "UNCLOS",
+      "meaningInSourceLanguage": "联合国海洋法公约",
+      "id": "d81fd5e894b5",
+      "priority": 0,
+      "group": "70567a98fb4a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "UNCLOS",
+      "meaning": "联合国海洋法公约",
+      "audio": "3f0cb571ea954b08b48f7272c94fac61",
+      "id": "cee80ff4e1cf",
+      "priority": 1,
+      "group": "70567a98fb4a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "territorial waters",
+      "meaningInSourceLanguage": "领海",
+      "id": "73f4e501aa57",
+      "priority": 0,
+      "group": "9ef20356a253"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "territorial waters",
+      "meaning": "领海",
+      "audio": "d07220a0b5c7426f8375de080a47c72b",
+      "id": "5b5ea480e6af",
+      "priority": 1,
+      "group": "9ef20356a253"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exclusive economic zone",
+      "meaningInSourceLanguage": "专属经济区",
+      "id": "a2dab9c7162b",
+      "priority": 0,
+      "group": "5bec9b11a810"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exclusive economic zone",
+      "meaning": "专属经济区",
+      "audio": "362a2f8b6bdd4e5590e4c6ac96500fda",
+      "id": "5b9af14ce16d",
+      "priority": 1,
+      "group": "5bec9b11a810"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "air law",
+      "meaningInSourceLanguage": "航空法",
+      "id": "d117ab652855",
+      "priority": 0,
+      "group": "38c971f32d54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "air law",
+      "meaning": "航空法",
+      "audio": "0162a9bad3ea44e99312f94c3b554bd5",
+      "id": "f423f96058b9",
+      "priority": 1,
+      "group": "38c971f32d54"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "space law",
+      "meaningInSourceLanguage": "太空法",
+      "id": "c4b75a17040c",
+      "priority": 0,
+      "group": "4584ade5ee96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "space law",
+      "meaning": "太空法",
+      "audio": "c41427adfc8b453f815e6309b6a9a101",
+      "id": "6151fbd581ee",
+      "priority": 1,
+      "group": "4584ade5ee96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "international humanitarian law",
+      "meaningInSourceLanguage": "国际人道法",
+      "id": "a118afee7de2",
+      "priority": 0,
+      "group": "86ad2e5c578a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "international humanitarian law",
+      "meaning": "国际人道法",
+      "audio": "8082829e30be4d0497ae26b013deea08",
+      "id": "43221b698a63",
+      "priority": 1,
+      "group": "86ad2e5c578a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Geneva Convention",
+      "meaningInSourceLanguage": "日内瓦公约",
+      "id": "55bbafc30d2c",
+      "priority": 0,
+      "group": "0a90ff515281"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Geneva Convention",
+      "meaning": "日内瓦公约",
+      "audio": "46921cc69f4e473397d590fc926a1069",
+      "id": "3bb8bc09acff",
+      "priority": 1,
+      "group": "0a90ff515281"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hague Convention",
+      "meaningInSourceLanguage": "海牙公约",
+      "id": "51bad64c7af1",
+      "priority": 0,
+      "group": "6e7ed8fa5dda"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hague Convention",
+      "meaning": "海牙公约",
+      "audio": "11dd436c6fb04fd39b89acb792fc9979",
+      "id": "c65d577a9931",
+      "priority": 1,
+      "group": "6e7ed8fa5dda"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rules of engagement",
+      "meaningInSourceLanguage": "交战规则",
+      "id": "83babcd2b334",
+      "priority": 0,
+      "group": "99c7e8baa295"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rules of engagement",
+      "meaning": "交战规则",
+      "audio": "40d339b1c48b464fa0bc00f6633f1d01",
+      "id": "3326a27d7ddd",
+      "priority": 1,
+      "group": "99c7e8baa295"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "combatant",
+      "meaningInSourceLanguage": "战斗人员",
+      "id": "9796d6c97d03",
+      "priority": 0,
+      "group": "21caa5313c72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "combatant",
+      "meaning": "战斗人员",
+      "audio": "9d7c2ecea4674ec0b4fd7e1084babf34",
+      "id": "a3523d029cca",
+      "priority": 1,
+      "group": "21caa5313c72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "civilian",
+      "meaningInSourceLanguage": "平民",
+      "id": "f39aad7b64ef",
+      "priority": 0,
+      "group": "c640fbbe342d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "civilian",
+      "meaning": "平民",
+      "audio": "c97961cceca64a1b9e5d2885e4abab2d",
+      "id": "4bee06082449",
+      "priority": 1,
+      "group": "c640fbbe342d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "protected person",
+      "meaningInSourceLanguage": "受保护人员",
+      "id": "917b2d081211",
+      "priority": 0,
+      "group": "bfc76bbf3af1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "protected person",
+      "meaning": "受保护人员",
+      "audio": "4c51df7c18964bda89baa2cc7422aff3",
+      "id": "9ec8c66504d7",
+      "priority": 1,
+      "group": "bfc76bbf3af1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prisoner of war",
+      "meaningInSourceLanguage": "战俘",
+      "id": "83047f614cc9",
+      "priority": 0,
+      "group": "59a9c33502a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prisoner of war",
+      "meaning": "战俘",
+      "audio": "14fc4ba39f2644478b7f54ad0b08a973",
+      "id": "065203002b1d",
+      "priority": 1,
+      "group": "59a9c33502a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "red cross",
+      "meaningInSourceLanguage": "红十字",
+      "id": "e6f9cbfe81a8",
+      "priority": 0,
+      "group": "a587785f1133"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "red cross",
+      "meaning": "红十字",
+      "audio": "d87213833fe149eca5070e20bc67c451",
+      "id": "5643b12085d1",
+      "priority": 1,
+      "group": "a587785f1133"
+    }
+  ]
+}

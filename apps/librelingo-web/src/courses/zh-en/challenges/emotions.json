@@ -1,0 +1,958 @@
+{
+  "id": "152bc0881919",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "happy",
+      "meaningInSourceLanguage": "快乐",
+      "id": "3383dff48358",
+      "priority": 0,
+      "group": "c88942ad694e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "happy",
+      "meaning": "快乐",
+      "audio": "dad83da6cc44af483dc4ce776bfe918ae3cc7a6e116e11191079e08909486827",
+      "id": "e7e5223a08b5",
+      "priority": 1,
+      "group": "c88942ad694e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sad",
+      "meaningInSourceLanguage": "悲伤",
+      "id": "74677245f881",
+      "priority": 0,
+      "group": "93fc30136824"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sad",
+      "meaning": "悲伤",
+      "audio": "6c68db2757e6e69435dd332d6ccf7d31031784d5267d37af59b1292bd0b904df",
+      "id": "592439554a85",
+      "priority": 1,
+      "group": "93fc30136824"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "angry",
+      "meaningInSourceLanguage": "生气",
+      "id": "8b22ad8c697c",
+      "priority": 0,
+      "group": "4cc4824b4bba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "angry",
+      "meaning": "生气",
+      "audio": "6cbaf71da9e622f9d82978dfcc21d2ef23346b600e5c8568bd9adc9cea447946",
+      "id": "2ece4968b29c",
+      "priority": 1,
+      "group": "4cc4824b4bba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "afraid",
+      "meaningInSourceLanguage": "害怕",
+      "id": "4c71b57e2833",
+      "priority": 0,
+      "group": "d55f3ca1c29e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "afraid",
+      "meaning": "害怕",
+      "audio": "824ffbaffd4e3f175070b315c8756b815296107a0beeed3881375619d47b3650",
+      "id": "51a12606ab58",
+      "priority": 1,
+      "group": "d55f3ca1c29e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "surprised",
+      "meaningInSourceLanguage": "惊讶",
+      "id": "8cfa81f3bc0b",
+      "priority": 0,
+      "group": "1b3110353c73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "surprised",
+      "meaning": "惊讶",
+      "audio": "26c3468f58a701542c8bec4b232ef0d71c7eb5626f87d6c4f25110c831e13b41",
+      "id": "25e669445353",
+      "priority": 1,
+      "group": "1b3110353c73"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "disgusted",
+      "meaningInSourceLanguage": "厌恶",
+      "id": "47d6d4e2125d",
+      "priority": 0,
+      "group": "b5adf3309115"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "disgusted",
+      "meaning": "厌恶",
+      "audio": "798f00df7aa8baeb54d3db7494839568a4d7e7afe93d748f523b457511451342",
+      "id": "6de2f91a29be",
+      "priority": 1,
+      "group": "b5adf3309115"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "excited",
+      "meaningInSourceLanguage": "兴奋",
+      "id": "898cb75477d5",
+      "priority": 0,
+      "group": "0f1f19e55879"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "excited",
+      "meaning": "兴奋",
+      "audio": "5f393788862def0fe0f4f920b9afcc0cc79df3e61ddee4019c052204600636e4",
+      "id": "57548e5a03c3",
+      "priority": 1,
+      "group": "0f1f19e55879"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nervous",
+      "meaningInSourceLanguage": "紧张",
+      "id": "7295adeccfa0",
+      "priority": 0,
+      "group": "20307ffafbf7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nervous",
+      "meaning": "紧张",
+      "audio": "32ea6d78ccb26c89f6d51060210ac87abb9e94bfa33e6bac2cf6dd227d34e8ee",
+      "id": "7a5bd21ad7f4",
+      "priority": 1,
+      "group": "20307ffafbf7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calm",
+      "meaningInSourceLanguage": "平静",
+      "id": "7815e3354bf1",
+      "priority": 0,
+      "group": "bd1bbd8f8ad0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calm",
+      "meaning": "平静",
+      "audio": "7240034200e88ee40d6823dea76a382d1f6d770b0e1fe92c7f56d8e7c2ca98e4",
+      "id": "858659f5df4b",
+      "priority": 1,
+      "group": "bd1bbd8f8ad0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "proud",
+      "meaningInSourceLanguage": "自豪",
+      "id": "497a48132b13",
+      "priority": 0,
+      "group": "6b86ed095f93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "proud",
+      "meaning": "自豪",
+      "audio": "e3163cd8d83e18b28e64686fff90fb95085e5ff0992c48003f5340b1d649cfcd",
+      "id": "25c728df94e5",
+      "priority": 1,
+      "group": "6b86ed095f93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shy",
+      "meaningInSourceLanguage": "害羞",
+      "id": "7466a2264353",
+      "priority": 0,
+      "group": "d4022996d099"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shy",
+      "meaning": "害羞",
+      "audio": "2b5d0c729a4dca0a8526208db1974eb48ff23883b8b9281a5cd2d6f942fb8ecb",
+      "id": "fc344ec04a17",
+      "priority": 1,
+      "group": "d4022996d099"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "confident",
+      "meaningInSourceLanguage": "自信",
+      "id": "dd1884551666",
+      "priority": 0,
+      "group": "f1606eb0127a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "confident",
+      "meaning": "自信",
+      "audio": "0f446db369e446baa798e4b19687de825ab75480d56b2a48ef12e6fe81e03a83",
+      "id": "acdc46c7e48b",
+      "priority": 1,
+      "group": "f1606eb0127a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jealous",
+      "meaningInSourceLanguage": "嫉妒",
+      "id": "c70f09cc6d85",
+      "priority": 0,
+      "group": "b16d15bee054"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jealous",
+      "meaning": "嫉妒",
+      "audio": "6f01475a39f28cfc3c8f50bf2c43fc5a94fc00c875fd12d9f1ee087d3adafcb3",
+      "id": "a384d09ad0b9",
+      "priority": 1,
+      "group": "b16d15bee054"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lonely",
+      "meaningInSourceLanguage": "孤独",
+      "id": "fd81924908d8",
+      "priority": 0,
+      "group": "3d54b7be268e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lonely",
+      "meaning": "孤独",
+      "audio": "f69e34f483d2fa93fd6fb5e98fedd7060b86d3b603f7a9a4e86fc1e6d540b209",
+      "id": "94219cf3a134",
+      "priority": 1,
+      "group": "3d54b7be268e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "love",
+      "meaningInSourceLanguage": "爱",
+      "id": "a319127baa95",
+      "priority": 0,
+      "group": "817bcba8cf00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "love",
+      "meaning": "爱",
+      "audio": "c90efb8eb07d1e07baa822d883c5b39ce2bebf227ff4f8c0396def2026394722",
+      "id": "1de3e520f61e",
+      "priority": 1,
+      "group": "817bcba8cf00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hate",
+      "meaningInSourceLanguage": "恨",
+      "id": "f5e29a6b27bb",
+      "priority": 0,
+      "group": "969bb8afe013"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hate",
+      "meaning": "恨",
+      "audio": "94aa22c41e9f732f56dd4c0de75c810df56b2cc3ad6f56a1244c0c18cb663a46",
+      "id": "cf248346e766",
+      "priority": 1,
+      "group": "969bb8afe013"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hope",
+      "meaningInSourceLanguage": "希望",
+      "id": "40bca2c9034e",
+      "priority": 0,
+      "group": "9342108809e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hope",
+      "meaning": "希望",
+      "audio": "fed580500dae220224c8ef5738ff6b6efd22fddc8994f9e5b9cc5b55615be181",
+      "id": "489b1ed4df2f",
+      "priority": 1,
+      "group": "9342108809e9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fear",
+      "meaningInSourceLanguage": "恐惧",
+      "id": "c71b923dec60",
+      "priority": 0,
+      "group": "36cee8ad734b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fear",
+      "meaning": "恐惧",
+      "audio": "ebec42785aa44032a05e9015e6a5352a6b7a566293819411d071b93630b328f0",
+      "id": "b332849661ab",
+      "priority": 1,
+      "group": "36cee8ad734b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anxiety",
+      "meaningInSourceLanguage": "焦虑",
+      "id": "d34733fcd28c",
+      "priority": 0,
+      "group": "15f40c1d4794"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anxiety",
+      "meaning": "焦虑",
+      "audio": "03cbbe36668aba85ea31025eba26659ab947dbd874ff924cc4dd977f83006d06",
+      "id": "3855be721f1f",
+      "priority": 1,
+      "group": "15f40c1d4794"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stress",
+      "meaningInSourceLanguage": "压力",
+      "id": "a9fe4e2a7a18",
+      "priority": 0,
+      "group": "a03057194f4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stress",
+      "meaning": "压力",
+      "audio": "fed720ac4d0850637290fc4667bf2f5d7745c0fe53416eff64ed04358a5a9fa0",
+      "id": "530e4bc0259a",
+      "priority": 1,
+      "group": "a03057194f4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "relaxed",
+      "meaningInSourceLanguage": "放松",
+      "id": "30eb1848f226",
+      "priority": 0,
+      "group": "85e6f5b495a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "relaxed",
+      "meaning": "放松",
+      "audio": "f673eee75b7ce5bdc37b09c1fad89cf1f595621fa00d4fd518a71d1671d95c94",
+      "id": "743e41be0d4d",
+      "priority": 1,
+      "group": "85e6f5b495a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tired",
+      "meaningInSourceLanguage": "疲倦",
+      "id": "c0c6e39812ee",
+      "priority": 0,
+      "group": "9871538f932a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tired",
+      "meaning": "疲倦",
+      "audio": "4f8867f6e21c00e6870436058179f6eaa24de7e84641ddb53b07e20c037e5ccc",
+      "id": "f289cc9ea75e",
+      "priority": 1,
+      "group": "9871538f932a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "energetic",
+      "meaningInSourceLanguage": "精力充沛",
+      "id": "9ce5ff372006",
+      "priority": 0,
+      "group": "cc26106aba2f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "energetic",
+      "meaning": "精力充沛",
+      "audio": "669d74dc4098bf467554355cc4f2bfe672fa7fbf7eb2f7a0df20b8480a335d25",
+      "id": "7f975bc8c575",
+      "priority": 1,
+      "group": "cc26106aba2f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bored",
+      "meaningInSourceLanguage": "无聊",
+      "id": "755e77fc8e57",
+      "priority": 0,
+      "group": "cf363f88fb14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bored",
+      "meaning": "无聊",
+      "audio": "e236e285f665db2f237f14b575df379906978329bc4bc9b6f312fcb7356a4278",
+      "id": "549f3c6917ab",
+      "priority": 1,
+      "group": "cf363f88fb14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "curious",
+      "meaningInSourceLanguage": "好奇",
+      "id": "08da58bc4e86",
+      "priority": 0,
+      "group": "fcd18a8338cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "curious",
+      "meaning": "好奇",
+      "audio": "0d39e5a44a63fee43c1e37749bed548b63eadc3a7b2469ec96a70eaa738dcc0c",
+      "id": "b31d7857c39e",
+      "priority": 1,
+      "group": "fcd18a8338cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "confused",
+      "meaningInSourceLanguage": "困惑",
+      "id": "27735430037f",
+      "priority": 0,
+      "group": "6ace0eb5078d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "confused",
+      "meaning": "困惑",
+      "audio": "1685071d01da55311a6a130bb9168a3f5350f9fae3790c6be018f3dfc8b06c87",
+      "id": "d35adc6e3528",
+      "priority": 1,
+      "group": "6ace0eb5078d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "embarrassed",
+      "meaningInSourceLanguage": "尴尬",
+      "id": "1517f4f99126",
+      "priority": 0,
+      "group": "d50a2127305d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "embarrassed",
+      "meaning": "尴尬",
+      "audio": "c2f287069744fb42799a2cc7a474d2b0fda92cd131b59bf558fa30695ab44f97",
+      "id": "4a2ae563e257",
+      "priority": 1,
+      "group": "d50a2127305d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "guilty",
+      "meaningInSourceLanguage": "内疚",
+      "id": "6b7aac252cbd",
+      "priority": 0,
+      "group": "82c51c469a41"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "guilty",
+      "meaning": "内疚",
+      "audio": "04871e7b964b00bd6e5ccb67b3bec3a65dbda66ac96989b00f1dd8f9b5daab24",
+      "id": "d9a2217a636f",
+      "priority": 1,
+      "group": "82c51c469a41"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grateful",
+      "meaningInSourceLanguage": "感激",
+      "id": "9baf3c1eeee2",
+      "priority": 0,
+      "group": "ffa9f27e1e1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grateful",
+      "meaning": "感激",
+      "audio": "056378a885a5f92fd344e3346a9e5d388ce42d04ebb41d8803b442460763ebff",
+      "id": "89e97e4deeb7",
+      "priority": 1,
+      "group": "ffa9f27e1e1d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sympathy",
+      "meaningInSourceLanguage": "同情",
+      "id": "c32b673921a3",
+      "priority": 0,
+      "group": "70a12dcc152c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sympathy",
+      "meaning": "同情",
+      "audio": "f827bd83add70b3fcd878d81ed5b915cfce6e150716619e2b4b944616ed9c807",
+      "id": "3483132db681",
+      "priority": 1,
+      "group": "70a12dcc152c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compassion",
+      "meaningInSourceLanguage": "同情心",
+      "id": "eff15f4a5c2a",
+      "priority": 0,
+      "group": "f1bcf79ff13c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compassion",
+      "meaning": "同情心",
+      "audio": "e19b84ad30d2aafa8288194c1c2ed724a4038e42fa74e8575705935a547dce72",
+      "id": "0a61f33e829e",
+      "priority": 1,
+      "group": "f1bcf79ff13c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kindness",
+      "meaningInSourceLanguage": "善良",
+      "id": "b9429bd9019c",
+      "priority": 0,
+      "group": "08c6047bc470"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kindness",
+      "meaning": "善良",
+      "audio": "3008267f91bda447a00a0af86d6d8b0de02680965eda04a03d62fbb3282a3a41",
+      "id": "48bebaaf165f",
+      "priority": 1,
+      "group": "08c6047bc470"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "patience",
+      "meaningInSourceLanguage": "耐心",
+      "id": "a85426c5cd58",
+      "priority": 0,
+      "group": "69e0b63585b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "patience",
+      "meaning": "耐心",
+      "audio": "b713322772e794d347b3d9662e0a12601a33b8e093fed9f1d6c8d461a42af0c4",
+      "id": "b16fcd667f73",
+      "priority": 1,
+      "group": "69e0b63585b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "generous",
+      "meaningInSourceLanguage": "慷慨",
+      "id": "ce8f9f6a29ba",
+      "priority": 0,
+      "group": "0505b61336b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "generous",
+      "meaning": "慷慨",
+      "audio": "286946f377f143eb1147518430f0849bea845eea207de53d9b9dbe4e88e186a4",
+      "id": "9240acad2a32",
+      "priority": 1,
+      "group": "0505b61336b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "honest",
+      "meaningInSourceLanguage": "诚实",
+      "id": "7b95d4a33513",
+      "priority": 0,
+      "group": "1afc899f7f62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "honest",
+      "meaning": "诚实",
+      "audio": "5c85265a3c4c1540a3db13691c37e42e3fd31377ec57fecb771c8fdfb1e46805",
+      "id": "927d0991e25f",
+      "priority": 1,
+      "group": "1afc899f7f62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "loyal",
+      "meaningInSourceLanguage": "忠诚",
+      "id": "989f534a5733",
+      "priority": 0,
+      "group": "fc0dcc81483e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "loyal",
+      "meaning": "忠诚",
+      "audio": "1ebc1cd11e264af7a311890ab09e466099e21cb1dc0cfaf1ca3c66855336a4d0",
+      "id": "975671297dba",
+      "priority": 1,
+      "group": "fc0dcc81483e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brave",
+      "meaningInSourceLanguage": "勇敢",
+      "id": "dd93adca30b2",
+      "priority": 0,
+      "group": "997dbf8453a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brave",
+      "meaning": "勇敢",
+      "audio": "7c9d61737c7b8342b25441db0a93bdbfb605b1475a974d54eb45fa52d2450b4a",
+      "id": "92e17b4f395c",
+      "priority": 1,
+      "group": "997dbf8453a7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gentle",
+      "meaningInSourceLanguage": "温柔",
+      "id": "d66e4b23bffc",
+      "priority": 0,
+      "group": "eea9b51f955a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gentle",
+      "meaning": "温柔",
+      "audio": "27558a7ac45381018f0283449f763af980a0386739c9b171babf6cdfe7900854",
+      "id": "c422b1cd52d4",
+      "priority": 1,
+      "group": "eea9b51f955a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wise",
+      "meaningInSourceLanguage": "明智",
+      "id": "bac7c83a29db",
+      "priority": 0,
+      "group": "b0fc6c2f6dfb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wise",
+      "meaning": "明智",
+      "audio": "002f6082b92b02515bebe6d03e071b48cd3c06e7f842b2ddc1e5d65e948d9bed",
+      "id": "7d88c37fa44d",
+      "priority": 1,
+      "group": "b0fc6c2f6dfb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "friendly",
+      "meaningInSourceLanguage": "友好",
+      "id": "49e6237e05c3",
+      "priority": 0,
+      "group": "9f22b9f71d91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "friendly",
+      "meaning": "友好",
+      "audio": "407ef0ba5e621cb705906a648fb75cde0e05597b369acd2b206d562adb090fc8",
+      "id": "f3b254a3ee81",
+      "priority": 1,
+      "group": "9f22b9f71d91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "humorous",
+      "meaningInSourceLanguage": "幽默",
+      "id": "49afbe4e5336",
+      "priority": 0,
+      "group": "27dbc46cc074"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "humorous",
+      "meaning": "幽默",
+      "audio": "235547785ace4ffc99f6886cfbd36bc739dcb18807e5c7d3a7113cf331e84a2d",
+      "id": "4e451b258a83",
+      "priority": 1,
+      "group": "27dbc46cc074"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "serious",
+      "meaningInSourceLanguage": "严肃",
+      "id": "388340d939d7",
+      "priority": 0,
+      "group": "5cfde6401d16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "serious",
+      "meaning": "严肃",
+      "audio": "ed892e0c8621d75f0f4ae8abd109a04cedc31b602e06390ab1b307e132bed853",
+      "id": "0814fb60ccd3",
+      "priority": 1,
+      "group": "5cfde6401d16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "optimistic",
+      "meaningInSourceLanguage": "乐观",
+      "id": "ad12719ae96b",
+      "priority": 0,
+      "group": "eada58c92fd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "optimistic",
+      "meaning": "乐观",
+      "audio": "c5ed4f213dcd1d636b3b60214da42d7b79b5c18529179a61a06bbff0a2d14ba0",
+      "id": "559b5c6f0c8c",
+      "priority": 1,
+      "group": "eada58c92fd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pessimistic",
+      "meaningInSourceLanguage": "悲观",
+      "id": "53534325e0fb",
+      "priority": 0,
+      "group": "bf0c2d389ef5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pessimistic",
+      "meaning": "悲观",
+      "audio": "ebf92f3bebc3756eca1c6501c70a5f012ced8475b65ec264916324689b111285",
+      "id": "84b35ede698e",
+      "priority": 1,
+      "group": "bf0c2d389ef5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "emotional",
+      "meaningInSourceLanguage": "情绪化",
+      "id": "dff51e1b4f10",
+      "priority": 0,
+      "group": "5a324cf36482"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "emotional",
+      "meaning": "情绪化",
+      "audio": "554baab8d923c6669f85b832eb8219df24db00bc58ac12ec879af6fefd7f1eaa",
+      "id": "171f625fbf2b",
+      "priority": 1,
+      "group": "5a324cf36482"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sensitive",
+      "meaningInSourceLanguage": "敏感",
+      "id": "97c250902968",
+      "priority": 0,
+      "group": "56cfe1952bd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sensitive",
+      "meaning": "敏感",
+      "audio": "9dc99c8f35a795bc91444ad64ec6f96aef7b5224a9bff99b33ab64fd12e4e7e2",
+      "id": "39ba10774b4f",
+      "priority": 1,
+      "group": "56cfe1952bd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mood",
+      "meaningInSourceLanguage": "心情",
+      "id": "c9adf1115076",
+      "priority": 0,
+      "group": "1cfb0b91cd19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mood",
+      "meaning": "心情",
+      "audio": "4959384bc66a2bb3b900830c55ad93457115f8ad887e730d329969d8d816c738",
+      "id": "7102c1a604df",
+      "priority": 1,
+      "group": "1cfb0b91cd19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "temper",
+      "meaningInSourceLanguage": "脾气",
+      "id": "ce59270b63e4",
+      "priority": 0,
+      "group": "4926fe8712ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temper",
+      "meaning": "脾气",
+      "audio": "d07d95b28b52d961d635f9f8e66bcdf5ac0e2a5a0487b31b299d35285f48989f",
+      "id": "a954400dae97",
+      "priority": 1,
+      "group": "4926fe8712ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smile",
+      "meaningInSourceLanguage": "微笑",
+      "id": "253bbb8d3b20",
+      "priority": 0,
+      "group": "800baec97311"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smile",
+      "meaning": "微笑",
+      "audio": "8220870c47d1bb5dab901ca2c3350366789cef6484a49fadeceaa090227b1a33",
+      "id": "b8e52a3b6b80",
+      "priority": 1,
+      "group": "800baec97311"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "laugh",
+      "meaningInSourceLanguage": "笑",
+      "id": "8db62edf5178",
+      "priority": 0,
+      "group": "483acc447770"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "laugh",
+      "meaning": "笑",
+      "audio": "bca92e3dba26a8f5ecd4d8c890dac344fafc38b0dd52129983880baa2023c948",
+      "id": "1880b3f42706",
+      "priority": 1,
+      "group": "483acc447770"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cry",
+      "meaningInSourceLanguage": "哭",
+      "id": "8ee42e1adaae",
+      "priority": 0,
+      "group": "07680f50b5c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cry",
+      "meaning": "哭",
+      "audio": "c5b1ce34279db1867911d70d35a2d583964990760a44d60f06e405a87b08d20b",
+      "id": "a73dc3d08880",
+      "priority": 1,
+      "group": "07680f50b5c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "frown",
+      "meaningInSourceLanguage": "皱眉",
+      "id": "41becf2a43ee",
+      "priority": 0,
+      "group": "4e07e6738a04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frown",
+      "meaning": "皱眉",
+      "audio": "91a2949c8f3b280ecfb7cf29388e2f2415e0e565b29a06c5030d14283c230710",
+      "id": "7fa889ec9769",
+      "priority": 1,
+      "group": "4e07e6738a04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sigh",
+      "meaningInSourceLanguage": "叹气",
+      "id": "cb5343961e6f",
+      "priority": 0,
+      "group": "54f2fc5dc27b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sigh",
+      "meaning": "叹气",
+      "audio": "e96c8c1cd4d379f4ba71ed684a410a91435a0e5754c1a09dcd59824fd5d3a085",
+      "id": "74bcd8211ca2",
+      "priority": 1,
+      "group": "54f2fc5dc27b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yawn",
+      "meaningInSourceLanguage": "打哈欠",
+      "id": "ecab521f8dce",
+      "priority": 0,
+      "group": "f62d0983aa70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yawn",
+      "meaning": "打哈欠",
+      "audio": "05646042a32cdb01621a2cb102ac91e827dfd096ad83cb9e9ad8e4825333467c",
+      "id": "304c8d52742b",
+      "priority": 1,
+      "group": "f62d0983aa70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blush",
+      "meaningInSourceLanguage": "脸红",
+      "id": "3bc816fbbf51",
+      "priority": 0,
+      "group": "e53236013c69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blush",
+      "meaning": "脸红",
+      "audio": "db2aec3d7c0d084e19e0480f4ce4183851d9de87d65aa77a573093db504a16c5",
+      "id": "c6a63e4a2267",
+      "priority": 1,
+      "group": "e53236013c69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tremble",
+      "meaningInSourceLanguage": "颤抖",
+      "id": "2505df43cf54",
+      "priority": 0,
+      "group": "30eafd46aa6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tremble",
+      "meaning": "颤抖",
+      "audio": "58b1ea907610e04022304478cc205ab54f1edd0cfd5c05bbea0656c02882a4cd",
+      "id": "03751563d933",
+      "priority": 1,
+      "group": "30eafd46aa6c"
+    }
+  ]
+}

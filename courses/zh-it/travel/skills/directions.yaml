@@ -1,0 +1,68 @@
+Skill:
+  Name: Directions
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: sinistra
+    Translation: 左边
+  - Word: destra
+    Translation: 右边
+  - Word: dritto
+    Translation: 直走
+  - Word: qui
+    Translation: 这里
+  - Word: lì
+    Translation: 那里
+  - Word: vicino
+    Translation: 附近
+  - Word: lontano
+    Translation: 远
+  - Word: mappa
+    Translation: 地图
+  - Word: strada
+    Translation: 街道
+  - Word: via
+    Translation: 路
+
+Phrases:
+  - Phrase: Gira a sinistra qui.
+    Translation: 在这里左转。
+  - Phrase: Vai dritto.
+    Translation: 一直往前走。
+  - Phrase: Dov'è la stazione?
+    Translation: 车站在哪里？
+  - Phrase: È lontano da qui?
+    Translation: 离这里远吗？
+  - Phrase: Ho bisogno di una mappa.
+    Translation: 我需要一张地图。
+
+Mini-dictionary:
+  Italian:
+    - mappa: 地图
+    - destra: 右边
+    - lì: 那里
+    - via: 路
+    - qui: 这里
+    - vicino: 附近
+    - dritto: 直走
+    - strada: 街道
+    - sinistra: 左边
+    - lontano: 远
+  Chinese:
+    - 远: lontano
+    - 街道: strada
+    - 那里: lì
+    - 路: via
+    - 地图: mappa
+    - 附近: vicino
+    - 直走: dritto
+    - 右边: destra
+    - 左边: sinistra
+    - 这里: qui

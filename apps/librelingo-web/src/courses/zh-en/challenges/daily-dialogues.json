@@ -1,0 +1,1485 @@
+{
+  "id": "61ec4a929aec",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "How was your day?",
+      "meaningInSourceLanguage": "你今天过得怎么样？",
+      "id": "d89061b87d86",
+      "priority": 0,
+      "group": "f2bf563bdd02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How was your day?",
+      "meaning": "你今天过得怎么样？",
+      "audio": "7bf1949cadce44eeaeb485f0fc316c54",
+      "id": "3e098ed397fe",
+      "priority": 1,
+      "group": "f2bf563bdd02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It was great, thanks!",
+      "meaningInSourceLanguage": "很好，谢谢！",
+      "id": "4a1f932658da",
+      "priority": 0,
+      "group": "52d1d153ff7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It was great, thanks!",
+      "meaning": "很好，谢谢！",
+      "audio": "f71546e8fb624b678972bb0a4578f610",
+      "id": "d625c1ee6f6c",
+      "priority": 1,
+      "group": "52d1d153ff7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What did you do today?",
+      "meaningInSourceLanguage": "你今天做了什么？",
+      "id": "a5ce6be7b55e",
+      "priority": 0,
+      "group": "02b2f50ee267"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What did you do today?",
+      "meaning": "你今天做了什么？",
+      "audio": "0d5c70feccc74eca8cdab1d2274f9d12",
+      "id": "132c340cc290",
+      "priority": 1,
+      "group": "02b2f50ee267"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I went shopping.",
+      "meaningInSourceLanguage": "我去购物了。",
+      "id": "35993d3b7a14",
+      "priority": 0,
+      "group": "93032240dc43"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I went shopping.",
+      "meaning": "我去购物了。",
+      "audio": "e94dea8526d84068bee19d87fb6ebd08",
+      "id": "fd64e0b2afc0",
+      "priority": 1,
+      "group": "93032240dc43"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Did you have fun?",
+      "meaningInSourceLanguage": "你玩得开心吗？",
+      "id": "08119284db71",
+      "priority": 0,
+      "group": "14823833a6ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Did you have fun?",
+      "meaning": "你玩得开心吗？",
+      "audio": "b47942d3b06c4a5d9aa3d9208c184df7",
+      "id": "093eb4f52645",
+      "priority": 1,
+      "group": "14823833a6ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, I had a wonderful time.",
+      "meaningInSourceLanguage": "是的，我很开心。",
+      "id": "b9e65c078bdf",
+      "priority": 0,
+      "group": "ff7fd0bec68d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, I had a wonderful time.",
+      "meaning": "是的，我很开心。",
+      "audio": "e0770184e662448c87eed8af58836410",
+      "id": "2c7bee1693bb",
+      "priority": 1,
+      "group": "ff7fd0bec68d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Are you free this weekend?",
+      "meaningInSourceLanguage": "你这周末有空吗？",
+      "id": "0d654d17ecce",
+      "priority": 0,
+      "group": "6c1f44b4b128"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Are you free this weekend?",
+      "meaning": "你这周末有空吗？",
+      "audio": "b57485fd98bf4f16846d344f112032c7",
+      "id": "3021ffb14f30",
+      "priority": 1,
+      "group": "6c1f44b4b128"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, I'm free on Saturday.",
+      "meaningInSourceLanguage": "是的，我周六有空。",
+      "id": "cdd805b14eb9",
+      "priority": 0,
+      "group": "c3c7e66ac312"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, I'm free on Saturday.",
+      "meaning": "是的，我周六有空。",
+      "audio": "ef506058b7dd4d33a1195eae0a8829ca",
+      "id": "88d302edf7c3",
+      "priority": 1,
+      "group": "c3c7e66ac312"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Would you like to go out?",
+      "meaningInSourceLanguage": "你想出去吗？",
+      "id": "a860f27582aa",
+      "priority": 0,
+      "group": "3f902752de83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Would you like to go out?",
+      "meaning": "你想出去吗？",
+      "audio": "42122871388c477a98198e5bda2fa773",
+      "id": "5c9e52482099",
+      "priority": 1,
+      "group": "3f902752de83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, where would you like to go?",
+      "meaningInSourceLanguage": "当然，你想去哪里？",
+      "id": "c64af9ff9f83",
+      "priority": 0,
+      "group": "69c8a5af039b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, where would you like to go?",
+      "meaning": "当然，你想去哪里？",
+      "audio": "9590b6f73a694af3a079d02abd69ea97",
+      "id": "ccf4b9b366c3",
+      "priority": 1,
+      "group": "69c8a5af039b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's go to the cinema.",
+      "meaningInSourceLanguage": "我们去看电影吧。",
+      "id": "b803aa148c39",
+      "priority": 0,
+      "group": "8cc9bde3ba1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's go to the cinema.",
+      "meaning": "我们去看电影吧。",
+      "audio": "6ac0fd25c52b4843b975e20f94fa6b35",
+      "id": "d1ecece28c3e",
+      "priority": 1,
+      "group": "8cc9bde3ba1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That sounds good.",
+      "meaningInSourceLanguage": "听起来不错。",
+      "id": "6942b0b99db7",
+      "priority": 0,
+      "group": "1bb55e373ed1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That sounds good.",
+      "meaning": "听起来不错。",
+      "audio": "aca6a38194214134a0163af8181145cf",
+      "id": "f9d2533e87ec",
+      "priority": 1,
+      "group": "1bb55e373ed1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What movie do you want to see?",
+      "meaningInSourceLanguage": "你想看什么电影？",
+      "id": "2521775b22f6",
+      "priority": 0,
+      "group": "e2b2f3391d93"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What movie do you want to see?",
+      "meaning": "你想看什么电影？",
+      "audio": "94fdca2a8b664d4488d18c6e4c9e73d2",
+      "id": "b45632c7f99a",
+      "priority": 1,
+      "group": "e2b2f3391d93"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I want to see a comedy.",
+      "meaningInSourceLanguage": "我想看喜剧片。",
+      "id": "a8a05395b325",
+      "priority": 0,
+      "group": "075618fb00c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I want to see a comedy.",
+      "meaning": "我想看喜剧片。",
+      "audio": "8a9dae8d6331409c9122f48f7ca592ef",
+      "id": "247ae0d4a13b",
+      "priority": 1,
+      "group": "075618fb00c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What time does the movie start?",
+      "meaningInSourceLanguage": "电影几点开始？",
+      "id": "5821972c4daa",
+      "priority": 0,
+      "group": "953ca7730f92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What time does the movie start?",
+      "meaning": "电影几点开始？",
+      "audio": "47171b45a11a431cbb7e9d3b9073fef4",
+      "id": "9e9a2b57566e",
+      "priority": 1,
+      "group": "953ca7730f92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It starts at 7 pm.",
+      "meaningInSourceLanguage": "晚上7点开始。",
+      "id": "5f6ed6cdd37f",
+      "priority": 0,
+      "group": "1846a1b25d23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It starts at 7 pm.",
+      "meaning": "晚上7点开始。",
+      "audio": "f758c4db82224adaab89d9c482197a70",
+      "id": "954167a122d0",
+      "priority": 1,
+      "group": "1846a1b25d23"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I will buy the tickets.",
+      "meaningInSourceLanguage": "我来买票。",
+      "id": "22e1858434b0",
+      "priority": 0,
+      "group": "ac41376454dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I will buy the tickets.",
+      "meaning": "我来买票。",
+      "audio": "a65f9d2b4f0642aa931e164977079d8c",
+      "id": "d500a9d9a2ea",
+      "priority": 1,
+      "group": "ac41376454dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thank you, that's very kind.",
+      "meaningInSourceLanguage": "谢谢，你太好了。",
+      "id": "564302f0f537",
+      "priority": 0,
+      "group": "f0d9ff688830"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thank you, that's very kind.",
+      "meaning": "谢谢，你太好了。",
+      "audio": "e6946e61d9a64a9393a5a4369f86846f",
+      "id": "227cac6c89dd",
+      "priority": 1,
+      "group": "f0d9ff688830"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's your favorite food?",
+      "meaningInSourceLanguage": "你最喜欢的食物是什么？",
+      "id": "48f24b77e2d0",
+      "priority": 0,
+      "group": "388d40e1df38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's your favorite food?",
+      "meaning": "你最喜欢的食物是什么？",
+      "audio": "fc309e868948486b997e4cd3e9d1960d",
+      "id": "ebfa40e7dd49",
+      "priority": 1,
+      "group": "388d40e1df38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I love pizza!",
+      "meaningInSourceLanguage": "我喜欢披萨！",
+      "id": "3585188bde79",
+      "priority": 0,
+      "group": "158c0fb498e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I love pizza!",
+      "meaning": "我喜欢披萨！",
+      "audio": "1b8ea892df474c1bb484b4cb586d7288",
+      "id": "bfd11f346b0c",
+      "priority": 1,
+      "group": "158c0fb498e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like cooking?",
+      "meaningInSourceLanguage": "你喜欢做饭吗？",
+      "id": "cc2aa309b12b",
+      "priority": 0,
+      "group": "7efe3a33f982"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like cooking?",
+      "meaning": "你喜欢做饭吗？",
+      "audio": "696ef590596d44c9a53edab8dd2ad147",
+      "id": "c075deb60e08",
+      "priority": 1,
+      "group": "7efe3a33f982"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, I enjoy cooking very much.",
+      "meaningInSourceLanguage": "是的，我很喜欢做饭。",
+      "id": "a826cd7affbd",
+      "priority": 0,
+      "group": "58c6a5a27c81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, I enjoy cooking very much.",
+      "meaning": "是的，我很喜欢做饭。",
+      "audio": "e307c1559c6348bb9e7c7e700763f92a",
+      "id": "c8b2e8f266d7",
+      "priority": 1,
+      "group": "58c6a5a27c81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you teach me?",
+      "meaningInSourceLanguage": "你能教我吗？",
+      "id": "5161dfd726bc",
+      "priority": 0,
+      "group": "769c12de482e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you teach me?",
+      "meaning": "你能教我吗？",
+      "audio": "f70403a050814ed4956b231533d563ae",
+      "id": "fc0ab4bb597d",
+      "priority": 1,
+      "group": "769c12de482e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Of course, it's my pleasure.",
+      "meaningInSourceLanguage": "当然，我很乐意。",
+      "id": "fe3bbbfbac27",
+      "priority": 0,
+      "group": "d68d1675c9d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Of course, it's my pleasure.",
+      "meaning": "当然，我很乐意。",
+      "audio": "d94a9cede3ce4a369b37593a6ee883fb",
+      "id": "7dc5948292af",
+      "priority": 1,
+      "group": "d68d1675c9d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How do you make this dish?",
+      "meaningInSourceLanguage": "这道菜怎么做？",
+      "id": "851ce745f2ab",
+      "priority": 0,
+      "group": "989a98856015"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How do you make this dish?",
+      "meaning": "这道菜怎么做？",
+      "audio": "613802f329de4bf79db66479967ff5d4",
+      "id": "e79698fd2628",
+      "priority": 1,
+      "group": "989a98856015"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "First, chop the vegetables.",
+      "meaningInSourceLanguage": "首先，切蔬菜。",
+      "id": "bde1f304f227",
+      "priority": 0,
+      "group": "991bbf1311a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "First, chop the vegetables.",
+      "meaning": "首先，切蔬菜。",
+      "audio": "6dc84976c3144ca0b23d63a5e6542c9d",
+      "id": "3179b8a4c952",
+      "priority": 1,
+      "group": "991bbf1311a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Then, stir-fry them.",
+      "meaningInSourceLanguage": "然后炒一下。",
+      "id": "7d9f0ac70d12",
+      "priority": 0,
+      "group": "69afd33e87af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Then, stir-fry them.",
+      "meaning": "然后炒一下。",
+      "audio": "6ee450bd8e254bdab7eed868e3a5a71c",
+      "id": "57aa6fb7426e",
+      "priority": 1,
+      "group": "69afd33e87af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Add some salt and pepper.",
+      "meaningInSourceLanguage": "加一些盐和胡椒粉。",
+      "id": "b3fdec79ef9b",
+      "priority": 0,
+      "group": "ae96083521cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Add some salt and pepper.",
+      "meaning": "加一些盐和胡椒粉。",
+      "audio": "77b7db27f3e949b8ace9628542c40b88",
+      "id": "b5e8e497ed18",
+      "priority": 1,
+      "group": "ae96083521cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It looks delicious!",
+      "meaningInSourceLanguage": "看起来很好吃！",
+      "id": "b19b2492886a",
+      "priority": 0,
+      "group": "28490af31b89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It looks delicious!",
+      "meaning": "看起来很好吃！",
+      "audio": "92cb095b34a249d4abe9d4841cd7dbe0",
+      "id": "c6d3e245d8ac",
+      "priority": 1,
+      "group": "28490af31b89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let me taste it.",
+      "meaningInSourceLanguage": "让我尝尝。",
+      "id": "83da415687cc",
+      "priority": 0,
+      "group": "61124d083f40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let me taste it.",
+      "meaning": "让我尝尝。",
+      "audio": "f6e1ba2798fc4bd787b540066b5cdb5f",
+      "id": "16bcf22e7a21",
+      "priority": 1,
+      "group": "61124d083f40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mmm, it's very good!",
+      "meaningInSourceLanguage": "嗯，很好吃！",
+      "id": "dcbf949c233b",
+      "priority": 0,
+      "group": "eae417366a58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mmm, it's very good!",
+      "meaning": "嗯，很好吃！",
+      "audio": "cdca55a9b29d4496bc7f1da7aeacc523",
+      "id": "cec398023a21",
+      "priority": 1,
+      "group": "eae417366a58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm glad you like it.",
+      "meaningInSourceLanguage": "很高兴你喜欢。",
+      "id": "bf79268c5c6d",
+      "priority": 0,
+      "group": "1411630b45df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm glad you like it.",
+      "meaning": "很高兴你喜欢。",
+      "audio": "0a150c2371c746aba6f0af9feecfc106",
+      "id": "3517ae2c957d",
+      "priority": 1,
+      "group": "1411630b45df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where do you work?",
+      "meaningInSourceLanguage": "你在哪里工作？",
+      "id": "a820dcf9f60c",
+      "priority": 0,
+      "group": "b129597d25be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where do you work?",
+      "meaning": "你在哪里工作？",
+      "audio": "535c00c6cff240fcaf5d6cd20714f460",
+      "id": "9a6c1a071fb2",
+      "priority": 1,
+      "group": "b129597d25be"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I work at a technology company.",
+      "meaningInSourceLanguage": "我在一家科技公司工作。",
+      "id": "19469e636f34",
+      "priority": 0,
+      "group": "2026910a2b3e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I work at a technology company.",
+      "meaning": "我在一家科技公司工作。",
+      "audio": "b732804d268840099db43df6ffdf0b52",
+      "id": "d016d41fce37",
+      "priority": 1,
+      "group": "2026910a2b3e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is your job title?",
+      "meaningInSourceLanguage": "你的职位是什么？",
+      "id": "7854c65c17bf",
+      "priority": 0,
+      "group": "d01aa53c1e6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is your job title?",
+      "meaning": "你的职位是什么？",
+      "audio": "fab3e7fe856c4fd08a8e684fcd8d7e7d",
+      "id": "b148eada7eca",
+      "priority": 1,
+      "group": "d01aa53c1e6f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I am a software engineer.",
+      "meaningInSourceLanguage": "我是一名软件工程师。",
+      "id": "a2eab8148953",
+      "priority": 0,
+      "group": "ed3da928d190"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I am a software engineer.",
+      "meaning": "我是一名软件工程师。",
+      "audio": "e853ae5cdeff4c4d92b43b41f334f0a4",
+      "id": "6ee14f7686cb",
+      "priority": 1,
+      "group": "ed3da928d190"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you like your job?",
+      "meaningInSourceLanguage": "你喜欢你的工作吗？",
+      "id": "c9c92d0e3b42",
+      "priority": 0,
+      "group": "777800f339e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you like your job?",
+      "meaning": "你喜欢你的工作吗？",
+      "audio": "9b2cf380e8e146209961c6cd87a82b2a",
+      "id": "e09905677c98",
+      "priority": 1,
+      "group": "777800f339e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, I find it very interesting.",
+      "meaningInSourceLanguage": "是的，我觉得很有意思。",
+      "id": "e927d2e596b6",
+      "priority": 0,
+      "group": "99db5b1df59b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, I find it very interesting.",
+      "meaning": "是的，我觉得很有意思。",
+      "audio": "6a44e394da254db49a4c295c50a554bf",
+      "id": "11137448f326",
+      "priority": 1,
+      "group": "99db5b1df59b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How long have you worked there?",
+      "meaningInSourceLanguage": "你在那里工作多久了？",
+      "id": "bd58892f8499",
+      "priority": 0,
+      "group": "1862877eba6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How long have you worked there?",
+      "meaning": "你在那里工作多久了？",
+      "audio": "90a294114f964e31aa5a5056459a5af9",
+      "id": "caaff1936392",
+      "priority": 1,
+      "group": "1862877eba6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have worked there for three years.",
+      "meaningInSourceLanguage": "我在那里工作了三年。",
+      "id": "7c01cc45a484",
+      "priority": 0,
+      "group": "d5c93cbbb275"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have worked there for three years.",
+      "meaning": "我在那里工作了三年。",
+      "audio": "eab21928bfb74371bf5d042170c720d2",
+      "id": "a7a11046ebcf",
+      "priority": 1,
+      "group": "d5c93cbbb275"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What do you do in your free time?",
+      "meaningInSourceLanguage": "你空闲时间做什么？",
+      "id": "c248505813c4",
+      "priority": 0,
+      "group": "1251589e45e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What do you do in your free time?",
+      "meaning": "你空闲时间做什么？",
+      "audio": "60458189fe96470196b627663d7de743",
+      "id": "c6453cc8db52",
+      "priority": 1,
+      "group": "1251589e45e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I like to play basketball.",
+      "meaningInSourceLanguage": "我喜欢打篮球。",
+      "id": "e29eb5253107",
+      "priority": 0,
+      "group": "755e7931f487"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I like to play basketball.",
+      "meaning": "我喜欢打篮球。",
+      "audio": "e6edc8fa76c54aaaba151e70e08683b5",
+      "id": "ae9cfacdcf6c",
+      "priority": 1,
+      "group": "755e7931f487"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you play any instruments?",
+      "meaningInSourceLanguage": "你会演奏乐器吗？",
+      "id": "c400d9501485",
+      "priority": 0,
+      "group": "0cb98e426dea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you play any instruments?",
+      "meaning": "你会演奏乐器吗？",
+      "audio": "6096f01f03fc488398f509c44b9465bc",
+      "id": "7e9c6b6f90b0",
+      "priority": 1,
+      "group": "0cb98e426dea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I play the guitar.",
+      "meaningInSourceLanguage": "我会弹吉他。",
+      "id": "51077086caed",
+      "priority": 0,
+      "group": "0b75d740c842"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I play the guitar.",
+      "meaning": "我会弹吉他。",
+      "audio": "27183ddde2ef401a82e7435939089605",
+      "id": "3ceb538dfe4e",
+      "priority": 1,
+      "group": "0b75d740c842"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That's cool!",
+      "meaningInSourceLanguage": "真酷！",
+      "id": "7a27e978d097",
+      "priority": 0,
+      "group": "a40c14a6169e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That's cool!",
+      "meaning": "真酷！",
+      "audio": "66a41f75a9f54823b4ca879b89e872b3",
+      "id": "475f8720747c",
+      "priority": 1,
+      "group": "a40c14a6169e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you play a song for me?",
+      "meaningInSourceLanguage": "你能给我弹一首歌吗？",
+      "id": "d43fe0497601",
+      "priority": 0,
+      "group": "29bb32dcf064"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you play a song for me?",
+      "meaning": "你能给我弹一首歌吗？",
+      "audio": "4d84fda128a44ec6a7db9a7ab2a46166",
+      "id": "21f264d709fb",
+      "priority": 1,
+      "group": "29bb32dcf064"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sure, I'll play my favorite song.",
+      "meaningInSourceLanguage": "当然，我弹我最喜欢的歌。",
+      "id": "56cac0998b51",
+      "priority": 0,
+      "group": "4facbe288524"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sure, I'll play my favorite song.",
+      "meaning": "当然，我弹我最喜欢的歌。",
+      "audio": "e0075b531cce494d8c497b543172a89c",
+      "id": "1a58fcc62583",
+      "priority": 1,
+      "group": "4facbe288524"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We need to discuss the project.",
+      "meaningInSourceLanguage": "我们需要讨论这个项目。",
+      "id": "60131bde2e30",
+      "priority": 0,
+      "group": "def2e301c782"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We need to discuss the project.",
+      "meaning": "我们需要讨论这个项目。",
+      "audio": "4effe1f4e2d0462283d8caee2c8492ec",
+      "id": "43ee78a14ff4",
+      "priority": 1,
+      "group": "def2e301c782"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What is the deadline?",
+      "meaningInSourceLanguage": "截止日期是什么时候？",
+      "id": "acf637550fe0",
+      "priority": 0,
+      "group": "c0bbeb4cfc5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What is the deadline?",
+      "meaning": "截止日期是什么时候？",
+      "audio": "e83050a8ec5342a290d6723a19044313",
+      "id": "0c5d334acb30",
+      "priority": 1,
+      "group": "c0bbeb4cfc5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The deadline is next Friday.",
+      "meaningInSourceLanguage": "截止日期是下周五。",
+      "id": "c27e5c18be7f",
+      "priority": 0,
+      "group": "849ebb856d59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The deadline is next Friday.",
+      "meaning": "截止日期是下周五。",
+      "audio": "d60254ff53034926a129173678ad1e57",
+      "id": "fc622eaa7e8e",
+      "priority": 1,
+      "group": "849ebb856d59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I will finish the report by Wednesday.",
+      "meaningInSourceLanguage": "我会在周三之前完成报告。",
+      "id": "3822ebb35bcf",
+      "priority": 0,
+      "group": "e878c2653256"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I will finish the report by Wednesday.",
+      "meaning": "我会在周三之前完成报告。",
+      "audio": "3f4ea3bb19a54472b0f1c0ac3aab219e",
+      "id": "2aaf9e59e667",
+      "priority": 1,
+      "group": "e878c2653256"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please send me the document.",
+      "meaningInSourceLanguage": "请把文件发给我。",
+      "id": "bef46e106e6d",
+      "priority": 0,
+      "group": "cb8e5cf14387"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please send me the document.",
+      "meaning": "请把文件发给我。",
+      "audio": "f48a80f3181148b6803d078e6b585434",
+      "id": "e11dbbacae4d",
+      "priority": 1,
+      "group": "cb8e5cf14387"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I will email it to you right away.",
+      "meaningInSourceLanguage": "我马上发邮件给你。",
+      "id": "fdfc9200eef7",
+      "priority": 0,
+      "group": "06024d2560f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I will email it to you right away.",
+      "meaning": "我马上发邮件给你。",
+      "audio": "1e73960d650e4cb484853f2b5927cf4b",
+      "id": "ddd7bba68e98",
+      "priority": 1,
+      "group": "06024d2560f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's schedule a meeting for Monday.",
+      "meaningInSourceLanguage": "我们安排周一的会议。",
+      "id": "23d330a0fe4a",
+      "priority": 0,
+      "group": "aec2aedc378f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's schedule a meeting for Monday.",
+      "meaning": "我们安排周一的会议。",
+      "audio": "5f5304437e0b4dee9b63f058d812bda7",
+      "id": "c9a4ffa0e48e",
+      "priority": 1,
+      "group": "aec2aedc378f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Does 10 am work for you?",
+      "meaningInSourceLanguage": "上午10点可以吗？",
+      "id": "49449bf9bc31",
+      "priority": 0,
+      "group": "172949b5e40d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Does 10 am work for you?",
+      "meaning": "上午10点可以吗？",
+      "audio": "4651a73381b248f087ad5e35bdc90590",
+      "id": "a5bb6c440c9c",
+      "priority": 1,
+      "group": "172949b5e40d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That works for me.",
+      "meaningInSourceLanguage": "我没问题。",
+      "id": "59ea369ab5c9",
+      "priority": 0,
+      "group": "57ede770d17f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That works for me.",
+      "meaning": "我没问题。",
+      "audio": "8c835efcec1d484d95dbcc77371af8be",
+      "id": "1681244fb10b",
+      "priority": 1,
+      "group": "57ede770d17f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I will send the meeting invitation.",
+      "meaningInSourceLanguage": "我会发送会议邀请。",
+      "id": "721821e48018",
+      "priority": 0,
+      "group": "859f492398ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I will send the meeting invitation.",
+      "meaning": "我会发送会议邀请。",
+      "audio": "f522df89bb95499e9a52843317244448",
+      "id": "80c934e3729a",
+      "priority": 1,
+      "group": "859f492398ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please prepare the presentation.",
+      "meaningInSourceLanguage": "请准备演示文稿。",
+      "id": "3ad9bc8690cf",
+      "priority": 0,
+      "group": "50144d332c7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please prepare the presentation.",
+      "meaning": "请准备演示文稿。",
+      "audio": "75f7296bd24f4c79bafc77c5e3fb45c5",
+      "id": "3822ebd78432",
+      "priority": 1,
+      "group": "50144d332c7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What topics should I cover?",
+      "meaningInSourceLanguage": "我应该涵盖哪些主题？",
+      "id": "20956e9aae3d",
+      "priority": 0,
+      "group": "ab2a87c9885a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What topics should I cover?",
+      "meaning": "我应该涵盖哪些主题？",
+      "audio": "59ab7098349a4525b14cb7c216d0dbe4",
+      "id": "3bb8d50567cd",
+      "priority": 1,
+      "group": "ab2a87c9885a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Focus on the key results.",
+      "meaningInSourceLanguage": "重点关注关键成果。",
+      "id": "8849dbbac27e",
+      "priority": 0,
+      "group": "72dfed5b81df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Focus on the key results.",
+      "meaning": "重点关注关键成果。",
+      "audio": "0c38b30c475649f2bd42ba098eb70ff0",
+      "id": "8d80548eb506",
+      "priority": 1,
+      "group": "72dfed5b81df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have some questions about the budget.",
+      "meaningInSourceLanguage": "我对预算有一些问题。",
+      "id": "3bd3dd71a2de",
+      "priority": 0,
+      "group": "41d3f2bac5a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have some questions about the budget.",
+      "meaning": "我对预算有一些问题。",
+      "audio": "46c86426f2ee40d1b64b4b6ca782bf25",
+      "id": "0fadcce7abf9",
+      "priority": 1,
+      "group": "41d3f2bac5a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let me explain the details.",
+      "meaningInSourceLanguage": "我来解释一下细节。",
+      "id": "3e0cc7df7aa4",
+      "priority": 0,
+      "group": "85b5a1556d69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let me explain the details.",
+      "meaning": "我来解释一下细节。",
+      "audio": "dd441c1f91f547dabbefacd9b89811ab",
+      "id": "c3d6b442e0a3",
+      "priority": 1,
+      "group": "85b5a1556d69"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The budget has been approved.",
+      "meaningInSourceLanguage": "预算已经批准了。",
+      "id": "fccebdcb7de6",
+      "priority": 0,
+      "group": "79d2c947007f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The budget has been approved.",
+      "meaning": "预算已经批准了。",
+      "audio": "38f443b1611845729181dcbc21efe7a5",
+      "id": "ed4ba881bfdc",
+      "priority": 1,
+      "group": "79d2c947007f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We need to reduce costs.",
+      "meaningInSourceLanguage": "我们需要降低成本。",
+      "id": "d70e153e3371",
+      "priority": 0,
+      "group": "beb45d31de3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We need to reduce costs.",
+      "meaning": "我们需要降低成本。",
+      "audio": "e8901f05dd734f39b1dd356f4444f197",
+      "id": "7cbabf6ddad7",
+      "priority": 1,
+      "group": "beb45d31de3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I suggest we review the expenses.",
+      "meaningInSourceLanguage": "我建议我们审查支出。",
+      "id": "6b642b8efadc",
+      "priority": 0,
+      "group": "79ee610b3c52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I suggest we review the expenses.",
+      "meaning": "我建议我们审查支出。",
+      "audio": "5dbe00245ee54bee8c681ac904f5a387",
+      "id": "ee3d7cae9974",
+      "priority": 1,
+      "group": "79ee610b3c52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "That's a good suggestion.",
+      "meaningInSourceLanguage": "这是个好建议。",
+      "id": "6e563dc04715",
+      "priority": 0,
+      "group": "19262b9621d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "That's a good suggestion.",
+      "meaning": "这是个好建议。",
+      "audio": "1aafef9de1a1488a882c02beb885ebc2",
+      "id": "60ad31395d8e",
+      "priority": 1,
+      "group": "19262b9621d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's implement this plan.",
+      "meaningInSourceLanguage": "我们来实施这个计划。",
+      "id": "5c791149d20c",
+      "priority": 0,
+      "group": "8e26b02c98f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's implement this plan.",
+      "meaning": "我们来实施这个计划。",
+      "audio": "c130d27ecc1f450288c9dbac784acd58",
+      "id": "b9eb8f4997b2",
+      "priority": 1,
+      "group": "8e26b02c98f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The client is very satisfied.",
+      "meaningInSourceLanguage": "客户非常满意。",
+      "id": "d42392d75384",
+      "priority": 0,
+      "group": "a55be78c6911"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The client is very satisfied.",
+      "meaning": "客户非常满意。",
+      "audio": "5b4b944d7d5541fda75d1b2ed3ae1983",
+      "id": "f35ccbd74a4e",
+      "priority": 1,
+      "group": "a55be78c6911"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We need to follow up with them.",
+      "meaningInSourceLanguage": "我们需要跟进他们。",
+      "id": "0b5d2e34e546",
+      "priority": 0,
+      "group": "03f58737bc56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We need to follow up with them.",
+      "meaning": "我们需要跟进他们。",
+      "audio": "0e376633fec74e4f8b31fa24a97422c6",
+      "id": "b74b0846113f",
+      "priority": 1,
+      "group": "03f58737bc56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I will contact them tomorrow.",
+      "meaningInSourceLanguage": "我明天会联系他们。",
+      "id": "f009fe83ace2",
+      "priority": 0,
+      "group": "bad7d0067c60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I will contact them tomorrow.",
+      "meaning": "我明天会联系他们。",
+      "audio": "4add65d5fa5545b9b9001a404c21e86e",
+      "id": "670959ce44aa",
+      "priority": 1,
+      "group": "bad7d0067c60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please keep me updated.",
+      "meaningInSourceLanguage": "请随时告诉我最新情况。",
+      "id": "3709913946d0",
+      "priority": 0,
+      "group": "cbec47e009dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please keep me updated.",
+      "meaning": "请随时告诉我最新情况。",
+      "audio": "fdf94b93331a4aebb209da5ae04070f2",
+      "id": "5fbd7d76e07b",
+      "priority": 1,
+      "group": "cbec47e009dc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Great work on the project!",
+      "meaningInSourceLanguage": "项目做得很好！",
+      "id": "ab5594a12328",
+      "priority": 0,
+      "group": "ec6dd4640ead"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Great work on the project!",
+      "meaning": "项目做得很好！",
+      "audio": "2960a76aafc54f8ca1f515096342f775",
+      "id": "d1822458c412",
+      "priority": 1,
+      "group": "ec6dd4640ead"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to book a flight to London.",
+      "meaningInSourceLanguage": "我想订一张去伦敦的机票。",
+      "id": "5047fad7620d",
+      "priority": 0,
+      "group": "4baca1e14030"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to book a flight to London.",
+      "meaning": "我想订一张去伦敦的机票。",
+      "audio": "78a2118dad0549748e37955e145a9964",
+      "id": "0e2238ae3a5b",
+      "priority": 1,
+      "group": "4baca1e14030"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "When would you like to travel?",
+      "meaningInSourceLanguage": "你想什么时候出发？",
+      "id": "34712b0fdeb1",
+      "priority": 0,
+      "group": "95a92fe65681"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "When would you like to travel?",
+      "meaning": "你想什么时候出发？",
+      "audio": "1fff01612e8e4be08850b0827ff13b6a",
+      "id": "56e508b0eecf",
+      "priority": 1,
+      "group": "95a92fe65681"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Next Monday, please.",
+      "meaningInSourceLanguage": "下周一，谢谢。",
+      "id": "a9f2a815621a",
+      "priority": 0,
+      "group": "d0de6cd4ead5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Next Monday, please.",
+      "meaning": "下周一，谢谢。",
+      "audio": "9490fbcb9e024d3ea176d34b12ae8a98",
+      "id": "932a52464db0",
+      "priority": 1,
+      "group": "d0de6cd4ead5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One-way or round trip?",
+      "meaningInSourceLanguage": "单程还是往返？",
+      "id": "4d23d3a9cc5d",
+      "priority": 0,
+      "group": "871a6300ffcc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "One-way or round trip?",
+      "meaning": "单程还是往返？",
+      "audio": "c56681a7a1c34f628adc322ceec456fc",
+      "id": "ca11730b607d",
+      "priority": 1,
+      "group": "871a6300ffcc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Round trip, please.",
+      "meaningInSourceLanguage": "往返，谢谢。",
+      "id": "80110fbdb543",
+      "priority": 0,
+      "group": "6f83f3d5d5f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Round trip, please.",
+      "meaning": "往返，谢谢。",
+      "audio": "7d3087e64f62465b83cb40b84e8ed51b",
+      "id": "bb8b06aa4418",
+      "priority": 1,
+      "group": "6f83f3d5d5f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much does it cost?",
+      "meaningInSourceLanguage": "多少钱？",
+      "id": "0478c1aa8487",
+      "priority": 0,
+      "group": "6e52204a51da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much does it cost?",
+      "meaning": "多少钱？",
+      "audio": "a86e823c4cc64c2ebdd9bac53f184ffa",
+      "id": "9e19c8d17beb",
+      "priority": 1,
+      "group": "6e52204a51da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The total is 500 dollars.",
+      "meaningInSourceLanguage": "总共500美元。",
+      "id": "8f32577786b5",
+      "priority": 0,
+      "group": "658b36a3ece8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The total is 500 dollars.",
+      "meaning": "总共500美元。",
+      "audio": "7814c9525020450587311e033d4b3064",
+      "id": "162087b93389",
+      "priority": 1,
+      "group": "658b36a3ece8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have any luggage?",
+      "meaningInSourceLanguage": "你有行李吗？",
+      "id": "b2a793f968da",
+      "priority": 0,
+      "group": "70eb7a5eb080"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have any luggage?",
+      "meaning": "你有行李吗？",
+      "audio": "24359452f32c42c29df22164c80394c4",
+      "id": "1c075b1cc268",
+      "priority": 1,
+      "group": "70eb7a5eb080"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have one suitcase.",
+      "meaningInSourceLanguage": "我有一个行李箱。",
+      "id": "7234beface10",
+      "priority": 0,
+      "group": "a75f61f3e45d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have one suitcase.",
+      "meaning": "我有一个行李箱。",
+      "audio": "d6e3e6ed7fe2414cbe943f6fd05e391a",
+      "id": "2fc170fa55f3",
+      "priority": 1,
+      "group": "a75f61f3e45d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Here is your boarding pass.",
+      "meaningInSourceLanguage": "这是你的登机牌。",
+      "id": "2f3b9b36efc5",
+      "priority": 0,
+      "group": "6b5f7c91be11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Here is your boarding pass.",
+      "meaning": "这是你的登机牌。",
+      "audio": "7e15a131e16446f6a7c3e9df536df410",
+      "id": "57e1d5036e08",
+      "priority": 1,
+      "group": "6b5f7c91be11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What gate do I need to go to?",
+      "meaningInSourceLanguage": "我需要去哪个登机口？",
+      "id": "a1beaedd011d",
+      "priority": 0,
+      "group": "32eec6872777"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What gate do I need to go to?",
+      "meaning": "我需要去哪个登机口？",
+      "audio": "666ff5c3c37e41f38f4a826811c290a4",
+      "id": "73119eb5a392",
+      "priority": 1,
+      "group": "32eec6872777"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gate 12, please proceed to boarding.",
+      "meaningInSourceLanguage": "12号登机口，请前往登机。",
+      "id": "83791574b160",
+      "priority": 0,
+      "group": "8f546eac9541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gate 12, please proceed to boarding.",
+      "meaning": "12号登机口，请前往登机。",
+      "audio": "93fb94e7c4e949e29d888ca15de95f45",
+      "id": "426e4ca79d68",
+      "priority": 1,
+      "group": "8f546eac9541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is the flight on time?",
+      "meaningInSourceLanguage": "航班准时吗？",
+      "id": "6376079be434",
+      "priority": 0,
+      "group": "7c0a713b9bb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is the flight on time?",
+      "meaning": "航班准时吗？",
+      "audio": "7fc0fa6fa4554b8d8843145e6d711f2c",
+      "id": "a132cd7fa0bf",
+      "priority": 1,
+      "group": "7c0a713b9bb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Yes, it's on schedule.",
+      "meaningInSourceLanguage": "是的，准时起飞。",
+      "id": "2b551d908599",
+      "priority": 0,
+      "group": "8dfcad4c5cec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Yes, it's on schedule.",
+      "meaning": "是的，准时起飞。",
+      "audio": "b8ec6c5de1ea4a6dbfd2b0b8f1a3fa1e",
+      "id": "06aabb690ad6",
+      "priority": 1,
+      "group": "8dfcad4c5cec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like a window seat, please.",
+      "meaningInSourceLanguage": "我想要靠窗的位置。",
+      "id": "6c3480652dd1",
+      "priority": 0,
+      "group": "b8f892cdb65b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like a window seat, please.",
+      "meaning": "我想要靠窗的位置。",
+      "audio": "f3573056377c4736a9a4fd533279ac80",
+      "id": "f5a898024bb8",
+      "priority": 1,
+      "group": "b8f892cdb65b"
+    }
+  ]
+}

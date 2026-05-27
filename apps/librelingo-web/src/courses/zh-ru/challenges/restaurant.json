@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я хочу напиток.",
+      "meaningInSourceLanguage": "我想要一杯饮料。",
+      "id": "544440350a6d",
+      "priority": 0,
+      "group": "f70a6c87ea46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я хочу напиток.",
+      "meaning": "我想要一杯饮料。",
+      "audio": "0320e88f942bb2ce63387974c1deac2dc82a7a7dd9c0b8f31114b091773bbf1c",
+      "id": "51e87db5d9cf",
+      "priority": 1,
+      "group": "f70a6c87ea46"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Еда вкусная.",
+      "meaningInSourceLanguage": "食物很好。",
+      "id": "2ed9dea0ee98",
+      "priority": 0,
+      "group": "78dca1e777a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Еда вкусная.",
+      "meaning": "食物很好。",
+      "audio": "64bb0aced2c5ab527b6b976a66263d97260f6b6eb8bffa48fbaec222ca6a4e31",
+      "id": "dac00ed69d2d",
+      "priority": 1,
+      "group": "78dca1e777a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можно стакан воды?",
+      "meaningInSourceLanguage": "能给我一杯水吗？",
+      "id": "af1de21bfb49",
+      "priority": 0,
+      "group": "2a74cde16056"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можно стакан воды?",
+      "meaning": "能给我一杯水吗？",
+      "audio": "02a5ca6250ddf0ba1041e18d24f3193da5617dd5fe6a8331c7717aa02b979440",
+      "id": "73d7ab223d5d",
+      "priority": 1,
+      "group": "2a74cde16056"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Нам нужна бутылка вина.",
+      "meaningInSourceLanguage": "我们需要一瓶酒。",
+      "id": "eed50eea799d",
+      "priority": 0,
+      "group": "9e71c8a84d3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Нам нужна бутылка вина.",
+      "meaning": "我们需要一瓶酒。",
+      "audio": "e48fcadb6de3ca75a960b14e203070c75d6bd0eabc23dde1a3fc995ee8ec0698",
+      "id": "e9265d213f31",
+      "priority": 1,
+      "group": "9e71c8a84d3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я бы хотел десерт.",
+      "meaningInSourceLanguage": "我想要甜点。",
+      "id": "bdb76acf33fe",
+      "priority": 0,
+      "group": "c278cc9e1320"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я бы хотел десерт.",
+      "meaning": "我想要甜点。",
+      "audio": "f5d9c82f4efcb01096f28a178afd3fbc2de53414ad4e7f5b4b08085d5236d485",
+      "id": "00de7d7f0e8e",
+      "priority": 1,
+      "group": "c278cc9e1320"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Передайте соль, пожалуйста.",
+      "meaningInSourceLanguage": "请把盐递给我。",
+      "id": "7bef66afc41c",
+      "priority": 0,
+      "group": "eadf586ee586"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Передайте соль, пожалуйста.",
+      "meaning": "请把盐递给我。",
+      "audio": "f32065202bc264c675aa4ce63754bced90d03a475ebbb4829e23a7482d80313a",
+      "id": "f5234c9863c4",
+      "priority": 1,
+      "group": "eadf586ee586"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ресторан",
+      "meaningInSourceLanguage": "餐厅",
+      "id": "4faea5801cd1",
+      "priority": 0,
+      "group": "bedd45937eec"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ресторан"
+      ],
+      "phrase": [
+        {
+          "word": "餐厅",
+          "definition": "ресторан"
+        }
+      ],
+      "id": "256714f227d3",
+      "priority": 1,
+      "group": "bedd45937eec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ресторан",
+      "meaning": "餐厅",
+      "audio": "5ec265b971536ba8bb5c50b17157455a5f55197726c2f10a63118017405bcc59",
+      "id": "fbd21b5005a4",
+      "priority": 1,
+      "group": "bedd45937eec"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "напиток",
+      "meaningInSourceLanguage": "饮料",
+      "id": "7a49d092ecb8",
+      "priority": 0,
+      "group": "3e983e515acd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "напиток"
+      ],
+      "phrase": [
+        {
+          "word": "饮料",
+          "definition": "напиток"
+        }
+      ],
+      "id": "aec6a97f96a4",
+      "priority": 1,
+      "group": "3e983e515acd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "напиток",
+      "meaning": "饮料",
+      "audio": "5b92389b1af2f54d7fffacf30580a9cdba948891244bbe25eb0646322c311071",
+      "id": "a49b80d9bc26",
+      "priority": 1,
+      "group": "3e983e515acd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "еда",
+      "meaningInSourceLanguage": "食物",
+      "id": "dac35ddec814",
+      "priority": 0,
+      "group": "f1a287e10ead"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "еда"
+      ],
+      "phrase": [
+        {
+          "word": "食物",
+          "definition": "еда"
+        }
+      ],
+      "id": "f317bf7e4f72",
+      "priority": 1,
+      "group": "f1a287e10ead"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "еда",
+      "meaning": "食物",
+      "audio": "3812c052b8df42cfbf6f92e0485e42dee2698906a65dc514fe8fe1fa85544ee1",
+      "id": "ce2f2de1176b",
+      "priority": 1,
+      "group": "f1a287e10ead"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "салфетка",
+      "meaningInSourceLanguage": "餐巾",
+      "id": "161732eb365d",
+      "priority": 0,
+      "group": "7a56af5a4309"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "салфетка"
+      ],
+      "phrase": [
+        {
+          "word": "餐巾",
+          "definition": "салфетка"
+        }
+      ],
+      "id": "8dfd12e9313c",
+      "priority": 1,
+      "group": "7a56af5a4309"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "салфетка",
+      "meaning": "餐巾",
+      "audio": "b8d1c6a74318ed64ba2ac07bba1dcc7092778592cf9f4f0b7677b3e7797c1187",
+      "id": "be9dac761336",
+      "priority": 1,
+      "group": "7a56af5a4309"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "соль",
+      "meaningInSourceLanguage": "盐",
+      "id": "eed49f13b6de",
+      "priority": 0,
+      "group": "923ab8ba4cd5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "соль"
+      ],
+      "phrase": [
+        {
+          "word": "盐",
+          "definition": "соль"
+        }
+      ],
+      "id": "16564fd1db70",
+      "priority": 1,
+      "group": "923ab8ba4cd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "соль",
+      "meaning": "盐",
+      "audio": "d9a500e50a86bea3c9bf8aad15224e8fb39234b7c810367016600be212126efa",
+      "id": "7ef30c364bb2",
+      "priority": 1,
+      "group": "923ab8ba4cd5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "перец",
+      "meaningInSourceLanguage": "胡椒",
+      "id": "40560298d5f5",
+      "priority": 0,
+      "group": "a50b2483f816"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "перец"
+      ],
+      "phrase": [
+        {
+          "word": "胡椒",
+          "definition": "перец"
+        }
+      ],
+      "id": "7decb5cdca3e",
+      "priority": 1,
+      "group": "a50b2483f816"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "перец",
+      "meaning": "胡椒",
+      "audio": "0e44aaa40e8184535b97db755f80dd5a715ae82362441a784b5d89abff2ce683",
+      "id": "0052b16b610b",
+      "priority": 1,
+      "group": "a50b2483f816"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "стакан",
+      "meaningInSourceLanguage": "玻璃杯",
+      "id": "af535bdb76cc",
+      "priority": 0,
+      "group": "e956641914eb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "стакан"
+      ],
+      "phrase": [
+        {
+          "word": "玻璃杯",
+          "definition": "стакан"
+        }
+      ],
+      "id": "26cb8358d1bf",
+      "priority": 1,
+      "group": "e956641914eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "стакан",
+      "meaning": "玻璃杯",
+      "audio": "609d1394558aba2f6028bdf38356c33e03d80620d900dcf51b8915732ba6dc78",
+      "id": "908984b78048",
+      "priority": 1,
+      "group": "e956641914eb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бутылка",
+      "meaningInSourceLanguage": "瓶子",
+      "id": "88b37f7b2296",
+      "priority": 0,
+      "group": "bbc5b67b35b8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бутылка"
+      ],
+      "phrase": [
+        {
+          "word": "瓶子",
+          "definition": "бутылка"
+        }
+      ],
+      "id": "d15d72d4995c",
+      "priority": 1,
+      "group": "bbc5b67b35b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бутылка",
+      "meaning": "瓶子",
+      "audio": "40fc68910d43a6a258556a76f58c72c567004644c74831c354e5e5ad94c83f5a",
+      "id": "b1f8b503b29b",
+      "priority": 1,
+      "group": "bbc5b67b35b8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "десерт",
+      "meaningInSourceLanguage": "甜点",
+      "id": "183882ea0544",
+      "priority": 0,
+      "group": "a87379aaac66"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "десерт"
+      ],
+      "phrase": [
+        {
+          "word": "甜点",
+          "definition": "десерт"
+        }
+      ],
+      "id": "6922461177e6",
+      "priority": 1,
+      "group": "a87379aaac66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "десерт",
+      "meaning": "甜点",
+      "audio": "7fdd350aa8068eb4d93f88929d498e37341780d46172383468cde1ba94d19d17",
+      "id": "aa6f612cc782",
+      "priority": 1,
+      "group": "a87379aaac66"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "главное блюдо",
+      "meaningInSourceLanguage": "主菜",
+      "id": "81bf01aff234",
+      "priority": 0,
+      "group": "84e884cc30b5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "главное блюдо"
+      ],
+      "phrase": [
+        {
+          "word": "主菜",
+          "definition": "главное блюдо"
+        }
+      ],
+      "id": "589657ccbea3",
+      "priority": 1,
+      "group": "84e884cc30b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "главное блюдо",
+      "meaning": "主菜",
+      "audio": "5c4593c64fba22b38f83bc6cd0f8805ca3ad9b40cffdcf4f8969108eac018761",
+      "id": "46b09cc62137",
+      "priority": 1,
+      "group": "84e884cc30b5"
+    }
+  ]
+}

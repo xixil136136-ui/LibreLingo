@@ -1,0 +1,890 @@
+{
+  "id": "2f37a0f4b1a5",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "red",
+      "meaningInSourceLanguage": "红色",
+      "id": "a2e736e8d003",
+      "priority": 0,
+      "group": "7fcdfe4972fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "red",
+      "meaning": "红色",
+      "audio": "f123d6c13d66ed3deaa214236b4a32d01ca7efe946df19f5542f22d494016521",
+      "id": "f0dd700fb931",
+      "priority": 1,
+      "group": "7fcdfe4972fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blue",
+      "meaningInSourceLanguage": "蓝色",
+      "id": "ef9ba4f31a3b",
+      "priority": 0,
+      "group": "2c7c8c21fddc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blue",
+      "meaning": "蓝色",
+      "audio": "b6a3c3f1497d6f8f5e15e9664da16daeaf25aea1afb216905be745cf0a16a66d",
+      "id": "3a0f3c8fe389",
+      "priority": 1,
+      "group": "2c7c8c21fddc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "green",
+      "meaningInSourceLanguage": "绿色",
+      "id": "47f837d0ebba",
+      "priority": 0,
+      "group": "eb0724399142"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "green",
+      "meaning": "绿色",
+      "audio": "11b6176e0905cb662eafcc1a928a90788ec2f15b0d9541ef224b9dd61ea7573f",
+      "id": "dbf2c899614d",
+      "priority": 1,
+      "group": "eb0724399142"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yellow",
+      "meaningInSourceLanguage": "黄色",
+      "id": "894f56e26a96",
+      "priority": 0,
+      "group": "7de3b731380f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yellow",
+      "meaning": "黄色",
+      "audio": "b4e73797ec97dad106fdccb5c96ecb3a81f37907db206ea56ea8120a35646920",
+      "id": "92fd1830bb94",
+      "priority": 1,
+      "group": "7de3b731380f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "black",
+      "meaningInSourceLanguage": "黑色",
+      "id": "c62e7efab2ab",
+      "priority": 0,
+      "group": "87b86df8dd1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "black",
+      "meaning": "黑色",
+      "audio": "0003f3a30efb48c4c334e713b1b1eeb022fb5f9183d91b6595007626f417e008",
+      "id": "62ccd38f8a50",
+      "priority": 1,
+      "group": "87b86df8dd1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "white",
+      "meaningInSourceLanguage": "白色",
+      "id": "67c8fee32036",
+      "priority": 0,
+      "group": "611b02831003"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "white",
+      "meaning": "白色",
+      "audio": "041385d10f912b572bb8b78d9b07b5207496162146567941653498ad90036142",
+      "id": "b723ac80206c",
+      "priority": 1,
+      "group": "611b02831003"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "purple",
+      "meaningInSourceLanguage": "紫色",
+      "id": "a00ff5824594",
+      "priority": 0,
+      "group": "c1b53b385478"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "purple",
+      "meaning": "紫色",
+      "audio": "ca327df652873bdc0b3eb65d1113e31c803393898d67b6b3c330c2fcf9134d0d",
+      "id": "0795029f104f",
+      "priority": 1,
+      "group": "c1b53b385478"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orange",
+      "meaningInSourceLanguage": "橙色",
+      "id": "5245283ad3a5",
+      "priority": 0,
+      "group": "f0e6ce2e8488"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orange",
+      "meaning": "橙色",
+      "audio": "499ffbededd41746ef42b49660895a11837b59e928ef7f35a763fbabb5f05b1c",
+      "id": "96095105d3e8",
+      "priority": 1,
+      "group": "f0e6ce2e8488"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pink",
+      "meaningInSourceLanguage": "粉色",
+      "id": "2d36ba9f1c89",
+      "priority": 0,
+      "group": "0d52c40fb9aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pink",
+      "meaning": "粉色",
+      "audio": "2f80a99fa4ac60881a4ec798f6135839d043d4fe4ba58ac2c64b7d4ff2eca58e",
+      "id": "efbc987405d1",
+      "priority": 1,
+      "group": "0d52c40fb9aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brown",
+      "meaningInSourceLanguage": "棕色",
+      "id": "2e43df099b1c",
+      "priority": 0,
+      "group": "d33dd813170b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brown",
+      "meaning": "棕色",
+      "audio": "b6a66b77fb525c5b4e055b38b71ac312b3123f4a018a53a612bfb371b0df41b5",
+      "id": "b8998dc470d9",
+      "priority": 1,
+      "group": "d33dd813170b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gray",
+      "meaningInSourceLanguage": "灰色",
+      "id": "66cf9b456fbe",
+      "priority": 0,
+      "group": "378649bc04ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gray",
+      "meaning": "灰色",
+      "audio": "d71d521cf53ce369845dbde2a8e4bfc480cd15d864fcbb7740dda710363e27bc",
+      "id": "5358b4ec1746",
+      "priority": 1,
+      "group": "378649bc04ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gold",
+      "meaningInSourceLanguage": "金色",
+      "id": "453a3254b226",
+      "priority": 0,
+      "group": "3db19959d6f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gold",
+      "meaning": "金色",
+      "audio": "5ab8c1638c611eb84b98f9fa023a38c1d3a458850f975b694ff76034579540c4",
+      "id": "b5a98f38a96d",
+      "priority": 1,
+      "group": "3db19959d6f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "silver",
+      "meaningInSourceLanguage": "银色",
+      "id": "749ca5bd9cb9",
+      "priority": 0,
+      "group": "ae628c2864db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "silver",
+      "meaning": "银色",
+      "audio": "413697cea2925ddae49d7437f724ff74e2d2f017b29d20c9f0963616ab423c56",
+      "id": "600f47c5c649",
+      "priority": 1,
+      "group": "ae628c2864db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "navy",
+      "meaningInSourceLanguage": "深蓝色",
+      "id": "ad8692310ae5",
+      "priority": 0,
+      "group": "7df6cd8db324"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "navy",
+      "meaning": "深蓝色",
+      "audio": "0ce2440fbfb1a52cbf2f6241130f30e6e3ed9770511ed0f729c40d02477b7db0",
+      "id": "7c4f80500344",
+      "priority": 1,
+      "group": "7df6cd8db324"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beige",
+      "meaningInSourceLanguage": "米色",
+      "id": "b0827de6779d",
+      "priority": 0,
+      "group": "e42428789239"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beige",
+      "meaning": "米色",
+      "audio": "31f85c162012b742950ddb6b1cb1b7416ffaca1f85527d638fd4aa4e81aff072",
+      "id": "836e99bf3fc2",
+      "priority": 1,
+      "group": "e42428789239"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coral",
+      "meaningInSourceLanguage": "珊瑚色",
+      "id": "7b2d37eb55d2",
+      "priority": 0,
+      "group": "2ff734572cc2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coral",
+      "meaning": "珊瑚色",
+      "audio": "f1ca0f98f5a6cbe10310ce6ea62fc0322341fb8df57484d94e30904344739a79",
+      "id": "f2adfeb7ee9a",
+      "priority": 1,
+      "group": "2ff734572cc2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cream",
+      "meaningInSourceLanguage": "奶油色",
+      "id": "f272866c9346",
+      "priority": 0,
+      "group": "a285b3531af3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cream",
+      "meaning": "奶油色",
+      "audio": "fb63df393cb1ebc040ac682af5eb934edea716d86c8e3c3ca712956479ae2a4f",
+      "id": "9e2e91cfe720",
+      "priority": 1,
+      "group": "a285b3531af3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cyan",
+      "meaningInSourceLanguage": "青色",
+      "id": "15b8bf272d1f",
+      "priority": 0,
+      "group": "d06245c736ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cyan",
+      "meaning": "青色",
+      "audio": "a16612bf1366cbfd214a86f1357f3a2c6a8fce92819e710af90019e2513b50af",
+      "id": "04fa17e0d1a3",
+      "priority": 1,
+      "group": "d06245c736ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "indigo",
+      "meaningInSourceLanguage": "靛蓝色",
+      "id": "dbfb3a814deb",
+      "priority": 0,
+      "group": "21320b12fbf8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "indigo",
+      "meaning": "靛蓝色",
+      "audio": "60da5fe260abaf15dbad97a2b3394f5355f0e030d9cd690352419e1428b4f8f6",
+      "id": "71466436e6b7",
+      "priority": 1,
+      "group": "21320b12fbf8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lime",
+      "meaningInSourceLanguage": "酸橙色",
+      "id": "cf035939760c",
+      "priority": 0,
+      "group": "c38a5f1d8087"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lime",
+      "meaning": "酸橙色",
+      "audio": "8c6c96e5bc52d4f8e8d3ec65b82224b42f0c31a737e93e2efa03481450425db0",
+      "id": "4c3d9cd8f761",
+      "priority": 1,
+      "group": "c38a5f1d8087"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "maroon",
+      "meaningInSourceLanguage": "栗色",
+      "id": "053718fb6b30",
+      "priority": 0,
+      "group": "f582aa9208dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maroon",
+      "meaning": "栗色",
+      "audio": "0cd5d6a475ade694ac2977d43de1e431ea4b75126a7ea2dab316e7b5740c5e49",
+      "id": "f165cd2cbc28",
+      "priority": 1,
+      "group": "f582aa9208dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "olive",
+      "meaningInSourceLanguage": "橄榄色",
+      "id": "3f1281d6ff32",
+      "priority": 0,
+      "group": "74f25fa2943f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "olive",
+      "meaning": "橄榄色",
+      "audio": "1803885ed99ff437edee6ee0db5e46297a8d2438bab0ff681a6e0f4845c521b2",
+      "id": "dee29a4d60ed",
+      "priority": 1,
+      "group": "74f25fa2943f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "teal",
+      "meaningInSourceLanguage": "蓝绿色",
+      "id": "ea524f1e9801",
+      "priority": 0,
+      "group": "4b241706fc8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teal",
+      "meaning": "蓝绿色",
+      "audio": "b5b52bfe3faf4ee715d912170dbbce0166bc3ab498fe15abb4972113e718d245",
+      "id": "bf2967443de5",
+      "priority": 1,
+      "group": "4b241706fc8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "violet",
+      "meaningInSourceLanguage": "紫罗兰色",
+      "id": "cc5bc2809ded",
+      "priority": 0,
+      "group": "3a58f5e6dce5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "violet",
+      "meaning": "紫罗兰色",
+      "audio": "4d414b8a6c856d93c8d22239f364a26d5e27e3965b9bd3da82224fadd24a2490",
+      "id": "b66168630081",
+      "priority": 1,
+      "group": "3a58f5e6dce5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "light",
+      "meaningInSourceLanguage": "浅色",
+      "id": "8583be8dc2ca",
+      "priority": 0,
+      "group": "2272feab1da6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "light",
+      "meaning": "浅色",
+      "audio": "f1ce4339035798661be971a1ffcf258e2f16a34420936431192afb1e8eaee5ab",
+      "id": "85496fe3500e",
+      "priority": 1,
+      "group": "2272feab1da6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dark",
+      "meaningInSourceLanguage": "深色",
+      "id": "07197f76974e",
+      "priority": 0,
+      "group": "de794324692a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dark",
+      "meaning": "深色",
+      "audio": "817f8c6671b1e4ccf7f3a3a362aee41d45478e12d75f28b272afd7d652afe8d5",
+      "id": "c46175560557",
+      "priority": 1,
+      "group": "de794324692a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bright",
+      "meaningInSourceLanguage": "明亮",
+      "id": "6833829a4735",
+      "priority": 0,
+      "group": "ea6ced3001d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bright",
+      "meaning": "明亮",
+      "audio": "90fa9dd7c9066913d2842ce13816998048576d4c53f6c7274bd6dfa88a83a903",
+      "id": "b421c7e9c35b",
+      "priority": 1,
+      "group": "ea6ced3001d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "colorful",
+      "meaningInSourceLanguage": "多彩的",
+      "id": "8c910b1f9d92",
+      "priority": 0,
+      "group": "87d648cafe90"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "colorful",
+      "meaning": "多彩的",
+      "audio": "906f27d92acdbd752d55a162b65a98bf9fa62453a9ffe3b51598c4da1f552c50",
+      "id": "0521406890f5",
+      "priority": 1,
+      "group": "87d648cafe90"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mother",
+      "meaningInSourceLanguage": "母亲",
+      "id": "6e30e10c1948",
+      "priority": 0,
+      "group": "60cd23f56763"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mother",
+      "meaning": "母亲",
+      "audio": "b3faf1f64ce00b0fc4a7d33194f10108ba47522d86447b2ed2e3c1c14fab193d",
+      "id": "393840923f8b",
+      "priority": 1,
+      "group": "60cd23f56763"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "father",
+      "meaningInSourceLanguage": "父亲",
+      "id": "5eb59b9b4150",
+      "priority": 0,
+      "group": "95dcb70e4bbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "father",
+      "meaning": "父亲",
+      "audio": "4d399a854718f129281794cde8ba54a414796aab60d08144ea74c40bca7a85b0",
+      "id": "0c7591954d88",
+      "priority": 1,
+      "group": "95dcb70e4bbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sister",
+      "meaningInSourceLanguage": "姐妹",
+      "id": "0e0758a70db6",
+      "priority": 0,
+      "group": "6bec86d8382a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sister",
+      "meaning": "姐妹",
+      "audio": "28f2394185214abd7d51e135afc8cb0b7ea789ba5631e857d024d5d8974dc292",
+      "id": "8fd8df3bb099",
+      "priority": 1,
+      "group": "6bec86d8382a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brother",
+      "meaningInSourceLanguage": "兄弟",
+      "id": "74d31513101a",
+      "priority": 0,
+      "group": "4cf8f6107152"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brother",
+      "meaning": "兄弟",
+      "audio": "bfb5943cdb6a7ddb82b832bdd74ad15cb5adfbc3035cb8b4ddaa17f395a2ad0e",
+      "id": "2e7401fac777",
+      "priority": 1,
+      "group": "4cf8f6107152"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "daughter",
+      "meaningInSourceLanguage": "女儿",
+      "id": "f94d6c73b647",
+      "priority": 0,
+      "group": "d9475cf8a212"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "daughter",
+      "meaning": "女儿",
+      "audio": "8e9a94d351eec92a6520cbb54bba7d11da2be2136a466cf6c4a6c53ed63cd695",
+      "id": "082f3e3ece3d",
+      "priority": 1,
+      "group": "d9475cf8a212"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "son",
+      "meaningInSourceLanguage": "儿子",
+      "id": "17677ebb1925",
+      "priority": 0,
+      "group": "60a7d1512717"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "son",
+      "meaning": "儿子",
+      "audio": "830011a78e7a6d45b6204b74a97a388fc181d334922c33c1527ff99cecaca250",
+      "id": "78115f85a308",
+      "priority": 1,
+      "group": "60a7d1512717"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wife",
+      "meaningInSourceLanguage": "妻子",
+      "id": "69206d38eb12",
+      "priority": 0,
+      "group": "a9c29372afde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wife",
+      "meaning": "妻子",
+      "audio": "494fa57e3dc65674f0af9348e5b5a917c80be43efcb40e35832cb0c4e55ef730",
+      "id": "0852b7ecf390",
+      "priority": 1,
+      "group": "a9c29372afde"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "husband",
+      "meaningInSourceLanguage": "丈夫",
+      "id": "d741bf2e31a3",
+      "priority": 0,
+      "group": "9e316e6680c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "husband",
+      "meaning": "丈夫",
+      "audio": "b3b57c8b1377a8465fedd7453688aeb6147c963ac31acc6d3b82ca89050d2de7",
+      "id": "900845a6caec",
+      "priority": 1,
+      "group": "9e316e6680c7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parent",
+      "meaningInSourceLanguage": "父母",
+      "id": "c6da22843014",
+      "priority": 0,
+      "group": "8daff8a6b7eb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parent",
+      "meaning": "父母",
+      "audio": "a236d7f4f99aba211ba792a1a704477510af2967b60d18b6ce55ab82e7b3ec54",
+      "id": "694f2fdc2c67",
+      "priority": 1,
+      "group": "8daff8a6b7eb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "child",
+      "meaningInSourceLanguage": "孩子",
+      "id": "a7b0b79173ae",
+      "priority": 0,
+      "group": "747911b1137e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "child",
+      "meaning": "孩子",
+      "audio": "c87b35a140916d08a7d073c6dc50fc6cab467c3b30a3355301c394762c890c38",
+      "id": "8c5344e8f68c",
+      "priority": 1,
+      "group": "747911b1137e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baby",
+      "meaningInSourceLanguage": "婴儿",
+      "id": "6ae4b8813b1e",
+      "priority": 0,
+      "group": "017c3f52ff9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baby",
+      "meaning": "婴儿",
+      "audio": "c309120a8218c7b7788d6549e0772b26231532c04e36c87a9e8b4f81bfa9aa57",
+      "id": "baafa631667d",
+      "priority": 1,
+      "group": "017c3f52ff9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grandmother",
+      "meaningInSourceLanguage": "祖母",
+      "id": "004a07f6b623",
+      "priority": 0,
+      "group": "80c3d2a9a630"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grandmother",
+      "meaning": "祖母",
+      "audio": "a98b6172b8d6c572d1822bb1f65399038496ef4c9f73a9ecac66b2033e54d50a",
+      "id": "754e6de997da",
+      "priority": 1,
+      "group": "80c3d2a9a630"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grandfather",
+      "meaningInSourceLanguage": "祖父",
+      "id": "0202921239bf",
+      "priority": 0,
+      "group": "d11bc41723ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grandfather",
+      "meaning": "祖父",
+      "audio": "02d90c0a1c1f380379d9eb0ca01864271a48d291e1e6af008d500a4c35188f18",
+      "id": "d0949bfbaeac",
+      "priority": 1,
+      "group": "d11bc41723ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "granddaughter",
+      "meaningInSourceLanguage": "孙女",
+      "id": "6ac1dd3ae341",
+      "priority": 0,
+      "group": "1b5193d86933"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "granddaughter",
+      "meaning": "孙女",
+      "audio": "e6feb8ce7db5f47de5648843c6f93a8a3ff6ef247a0c19ef5ddd1820c81cdf92",
+      "id": "a5ec2c056714",
+      "priority": 1,
+      "group": "1b5193d86933"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grandson",
+      "meaningInSourceLanguage": "孙子",
+      "id": "4a83774cf801",
+      "priority": 0,
+      "group": "af57e782575f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grandson",
+      "meaning": "孙子",
+      "audio": "4bd500b7381a79f593948f86096dc98a60ff15e7fa83ea737c262e4afec9f195",
+      "id": "1d7b43188a30",
+      "priority": 1,
+      "group": "af57e782575f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aunt",
+      "meaningInSourceLanguage": "阿姨",
+      "id": "f9442966f674",
+      "priority": 0,
+      "group": "3c0b0032b00c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aunt",
+      "meaning": "阿姨",
+      "audio": "7e5428495d2abe82b8ea578dbd3eb2614d0b4200561ebab453a10bc8b4648944",
+      "id": "b82d22b27d33",
+      "priority": 1,
+      "group": "3c0b0032b00c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "uncle",
+      "meaningInSourceLanguage": "叔叔",
+      "id": "a7f930fb2228",
+      "priority": 0,
+      "group": "4b7ef366269f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "uncle",
+      "meaning": "叔叔",
+      "audio": "c621ee540c7647afdb2d01f3944e94f4c3068e65295bcc56d77b4f2aa6c2179c",
+      "id": "413187f0b46e",
+      "priority": 1,
+      "group": "4b7ef366269f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cousin",
+      "meaningInSourceLanguage": "表亲",
+      "id": "66450fd566e7",
+      "priority": 0,
+      "group": "07f3feb666fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cousin",
+      "meaning": "表亲",
+      "audio": "c5076857ffab23f0f4446c9e1e016ca405e0a71107824e971f72a4160bad4d14",
+      "id": "90511e7d19c1",
+      "priority": 1,
+      "group": "07f3feb666fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "niece",
+      "meaningInSourceLanguage": "侄女",
+      "id": "a0de2480e94f",
+      "priority": 0,
+      "group": "c5fcfce55ac9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "niece",
+      "meaning": "侄女",
+      "audio": "d94d4ecfcdc9f34b0aa44ffb9b9ded82ca3cab7231b375aa35d483f65d25336c",
+      "id": "355f08bda92e",
+      "priority": 1,
+      "group": "c5fcfce55ac9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nephew",
+      "meaningInSourceLanguage": "侄子",
+      "id": "8020487227db",
+      "priority": 0,
+      "group": "f3707db8cae6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nephew",
+      "meaning": "侄子",
+      "audio": "2d7b7eac2f9dfa0d958eefc71b7caedca15b585dab9ff2143dbd75eefcaf4e86",
+      "id": "e99cbbc6dc8a",
+      "priority": 1,
+      "group": "f3707db8cae6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "family",
+      "meaningInSourceLanguage": "家庭",
+      "id": "f3402e34d28e",
+      "priority": 0,
+      "group": "23c942fb346d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "family",
+      "meaning": "家庭",
+      "audio": "d93c616e17116a845869feb30db5a8470f2f8ecc3c75c8d0590557b3736798d2",
+      "id": "d8969cbb7a3f",
+      "priority": 1,
+      "group": "23c942fb346d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "relative",
+      "meaningInSourceLanguage": "亲戚",
+      "id": "8f3846d208da",
+      "priority": 0,
+      "group": "dccc42cbe197"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "relative",
+      "meaning": "亲戚",
+      "audio": "ad116a8b738575ae8ae42de36b1ed67bf7371c9d9b40565cdd418ef1db672a85",
+      "id": "6db3264089ce",
+      "priority": 1,
+      "group": "dccc42cbe197"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "twin",
+      "meaningInSourceLanguage": "双胞胎",
+      "id": "f0c171decada",
+      "priority": 0,
+      "group": "1779a364afab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "twin",
+      "meaning": "双胞胎",
+      "audio": "2435b5f437ffcf8a6061e399383dbd1d5c4bd7ec24375aeef876d94da6785297",
+      "id": "d0ff1c7446eb",
+      "priority": 1,
+      "group": "1779a364afab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sibling",
+      "meaningInSourceLanguage": "兄弟姐妹",
+      "id": "9e78f5c2b485",
+      "priority": 0,
+      "group": "6879e8c0c8b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sibling",
+      "meaning": "兄弟姐妹",
+      "audio": "f1f6353e025d21191f596fe294a01fac2e01027a5dc70fd526e564d9b818f908",
+      "id": "34ce1e478477",
+      "priority": 1,
+      "group": "6879e8c0c8b1"
+    }
+  ]
+}

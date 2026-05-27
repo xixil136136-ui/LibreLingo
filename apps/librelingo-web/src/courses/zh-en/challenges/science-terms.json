@@ -1,0 +1,1247 @@
+{
+  "id": "99493efd6283",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "science",
+      "meaningInSourceLanguage": "科学",
+      "id": "17cc25f753c0",
+      "priority": 0,
+      "group": "328c60dd86ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "science",
+      "meaning": "科学",
+      "audio": "5379a38a6ace9fdc5391562859ba446ae97513a029b0513f2031acf1fd59c13d",
+      "id": "8213e3078954",
+      "priority": 1,
+      "group": "328c60dd86ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scientist",
+      "meaningInSourceLanguage": "科学家",
+      "id": "1886a709f478",
+      "priority": 0,
+      "group": "a652cca2907f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scientist",
+      "meaning": "科学家",
+      "audio": "89a9650153521ee23818fec37d8f502f151d5a21e55bd9478629585f92f81cc7",
+      "id": "b8090a1b5074",
+      "priority": 1,
+      "group": "a652cca2907f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "experiment",
+      "meaningInSourceLanguage": "实验",
+      "id": "ee691edce8fc",
+      "priority": 0,
+      "group": "2c381058ae51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "experiment",
+      "meaning": "实验",
+      "audio": "4cf43a22760068205aa09dee46fca17d118b7e3801675fb56931a347e5a48fe3",
+      "id": "115602b46768",
+      "priority": 1,
+      "group": "2c381058ae51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "laboratory",
+      "meaningInSourceLanguage": "实验室",
+      "id": "145110d1086b",
+      "priority": 0,
+      "group": "0b897792bf16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "laboratory",
+      "meaning": "实验室",
+      "audio": "77fa37eb3443954d550a6b74ac8c60f9670e1206a1fb582c8305559ad327e823",
+      "id": "4d889abd0cfa",
+      "priority": 1,
+      "group": "0b897792bf16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hypothesis",
+      "meaningInSourceLanguage": "假设",
+      "id": "3b4639e5f033",
+      "priority": 0,
+      "group": "5df6348b6c05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hypothesis",
+      "meaning": "假设",
+      "audio": "2ae2aa6918513876e30a943d805ca08e5c359e9373f03a77663b5c5c03230d53",
+      "id": "81f3623ea410",
+      "priority": 1,
+      "group": "5df6348b6c05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "theory",
+      "meaningInSourceLanguage": "理论",
+      "id": "ad689ba9f23c",
+      "priority": 0,
+      "group": "748cec40d5df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "theory",
+      "meaning": "理论",
+      "audio": "30a93469d622d395555667977e12e4ba15ae19b219e44e83852489391414b597",
+      "id": "3d0fbf3d74ba",
+      "priority": 1,
+      "group": "748cec40d5df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "law",
+      "meaningInSourceLanguage": "定律",
+      "id": "5ec38544601c",
+      "priority": 0,
+      "group": "5cf3e15b4a81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "law",
+      "meaning": "定律",
+      "audio": "d856d01900be37a15285a678350313611bb20a93efdbd753f347a6656da393f9",
+      "id": "2d96f1cc2f5d",
+      "priority": 1,
+      "group": "5cf3e15b4a81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "principle",
+      "meaningInSourceLanguage": "原理",
+      "id": "2f0d33239da7",
+      "priority": 0,
+      "group": "926457fe8882"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "principle",
+      "meaning": "原理",
+      "audio": "e67945d60aeb10b3a31e72bbb616eec7df6500f0f3435daf45ecf82b862abd74",
+      "id": "87a1ea88923a",
+      "priority": 1,
+      "group": "926457fe8882"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discovery",
+      "meaningInSourceLanguage": "发现",
+      "id": "910051d1471b",
+      "priority": 0,
+      "group": "e2f75558dc9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discovery",
+      "meaning": "发现",
+      "audio": "b7b4254ccf6576eb6853281485a4b1d278604efc54f199cbf2174b81a07ff839",
+      "id": "adf6958b3d5f",
+      "priority": 1,
+      "group": "e2f75558dc9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "invention",
+      "meaningInSourceLanguage": "发明",
+      "id": "69c3d0f1f924",
+      "priority": 0,
+      "group": "68efa30b3d11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "invention",
+      "meaning": "发明",
+      "audio": "d3387bc6aa6496e57874905dd5e5797999377df481f190c706bf595d3ada65e1",
+      "id": "61f636853e70",
+      "priority": 1,
+      "group": "68efa30b3d11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "research",
+      "meaningInSourceLanguage": "研究",
+      "id": "f4103354faa2",
+      "priority": 0,
+      "group": "f244cdc08553"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "research",
+      "meaning": "研究",
+      "audio": "20acd8104a65856e0ee75dbbdd9344c85ed153e90bd172a1bbaf3630aa0de749",
+      "id": "9467d8bbcf5f",
+      "priority": 1,
+      "group": "f244cdc08553"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "observation",
+      "meaningInSourceLanguage": "观察",
+      "id": "d3d61197245c",
+      "priority": 0,
+      "group": "97bd6cd5c9ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "observation",
+      "meaning": "观察",
+      "audio": "8c22370a67c3ff2bf3007fad2938d96b8e2518d5c2da68fc4483884b3ab7eba9",
+      "id": "be7c639244d7",
+      "priority": 1,
+      "group": "97bd6cd5c9ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "measurement",
+      "meaningInSourceLanguage": "测量",
+      "id": "2c84a6eb8640",
+      "priority": 0,
+      "group": "da4c07c81219"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "measurement",
+      "meaning": "测量",
+      "audio": "0e6bca53824621109e6d9d8cad9067578ad391d65710b0f1b042925198880b2e",
+      "id": "eca3b03a1fee",
+      "priority": 1,
+      "group": "da4c07c81219"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "data",
+      "meaningInSourceLanguage": "数据",
+      "id": "20bda41ac331",
+      "priority": 0,
+      "group": "cf7e523ad549"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "data",
+      "meaning": "数据",
+      "audio": "c1676bb72b574f7b09d08a5e3a9d5f9811f48fb4b45fbf156ef1de4a22a2c1b0",
+      "id": "724e30644e41",
+      "priority": 1,
+      "group": "cf7e523ad549"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "result",
+      "meaningInSourceLanguage": "结果",
+      "id": "566035c65a92",
+      "priority": 0,
+      "group": "90e4c86ed5c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "result",
+      "meaning": "结果",
+      "audio": "b5120054d2cd2b8b496672f564adbd36e19e03de9e007b7d50172e7b9d9561e5",
+      "id": "48a04d6fab73",
+      "priority": 1,
+      "group": "90e4c86ed5c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "analysis",
+      "meaningInSourceLanguage": "分析",
+      "id": "73a0fe3fe9d1",
+      "priority": 0,
+      "group": "e7ebe8c296fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "analysis",
+      "meaning": "分析",
+      "audio": "afe9b129020a9d34835206f93e7e12a70581d8eb6a31924c8deb8208fd376969",
+      "id": "6c83cf0b5dbd",
+      "priority": 1,
+      "group": "e7ebe8c296fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conclusion",
+      "meaningInSourceLanguage": "结论",
+      "id": "95a2ea38de7d",
+      "priority": 0,
+      "group": "d09c288fc361"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conclusion",
+      "meaning": "结论",
+      "audio": "4431c834febe6f1c4876e41db285ed657a047801727c2133c60cb75e0a4fc16d",
+      "id": "db2c2a87f6da",
+      "priority": 1,
+      "group": "d09c288fc361"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "evidence",
+      "meaningInSourceLanguage": "证据",
+      "id": "96ee04dacb70",
+      "priority": 0,
+      "group": "63d502f4479f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "evidence",
+      "meaning": "证据",
+      "audio": "14f8bf08cec4f3fa9d9b6dcea89b522910c03d9a593de54df7cd4ec3622e1b45",
+      "id": "c46fc8eafbe6",
+      "priority": 1,
+      "group": "63d502f4479f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "atom",
+      "meaningInSourceLanguage": "原子",
+      "id": "fddda5fe35d5",
+      "priority": 0,
+      "group": "98a2ffd41050"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "atom",
+      "meaning": "原子",
+      "audio": "b9580488b1495d5d80c94954fb09b2374b4b9da407b9214b5f04b2b5f36e1493",
+      "id": "788ce6984954",
+      "priority": 1,
+      "group": "98a2ffd41050"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "molecule",
+      "meaningInSourceLanguage": "分子",
+      "id": "e8891246cee6",
+      "priority": 0,
+      "group": "6de17323e00d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "molecule",
+      "meaning": "分子",
+      "audio": "c6b314fa628a682a6d9fdc6647ad1ec803eb6376842bd88a8b10a42ecd31cdf2",
+      "id": "abec0d2caa80",
+      "priority": 1,
+      "group": "6de17323e00d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "element",
+      "meaningInSourceLanguage": "元素",
+      "id": "9c4193724e8a",
+      "priority": 0,
+      "group": "53cbf674042f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "element",
+      "meaning": "元素",
+      "audio": "4022bcf7be25aad2e2699ec8bd22e2b51574cb5077f4b2f6bc641dd0a5866e46",
+      "id": "c9b0ffe61ff8",
+      "priority": 1,
+      "group": "53cbf674042f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compound",
+      "meaningInSourceLanguage": "化合物",
+      "id": "ff4f79604e35",
+      "priority": 0,
+      "group": "f959d12919da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compound",
+      "meaning": "化合物",
+      "audio": "ea44b20865f803235c47d7b5080a74e03efc0cbe34c5d6363fc8c3b11532027c",
+      "id": "42467f27abff",
+      "priority": 1,
+      "group": "f959d12919da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chemical",
+      "meaningInSourceLanguage": "化学物质",
+      "id": "084524f33317",
+      "priority": 0,
+      "group": "145344898bc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chemical",
+      "meaning": "化学物质",
+      "audio": "cc484c5f5727970adf25210da425e19687a5229acf30155d1a5f29a5c3de09d5",
+      "id": "bd3a3e42713b",
+      "priority": 1,
+      "group": "145344898bc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reaction",
+      "meaningInSourceLanguage": "反应",
+      "id": "3b0fc1c02205",
+      "priority": 0,
+      "group": "921529bc1535"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reaction",
+      "meaning": "反应",
+      "audio": "8acdff231d3c2ebf2e7f2a6aa54404299a4d34356a39ea9001db9b64c7cfe36b",
+      "id": "d45a69901050",
+      "priority": 1,
+      "group": "921529bc1535"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "energy",
+      "meaningInSourceLanguage": "能量",
+      "id": "d7323911ffe1",
+      "priority": 0,
+      "group": "6e52139333ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "energy",
+      "meaning": "能量",
+      "audio": "8c7bfcc43e86d21ea54ad034af4a61de5f6fe4abbbb844e1fee9f2bbe739b4f9",
+      "id": "0f9df043178e",
+      "priority": 1,
+      "group": "6e52139333ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "force",
+      "meaningInSourceLanguage": "力",
+      "id": "d5e70fdfdd31",
+      "priority": 0,
+      "group": "84576fe11afc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "force",
+      "meaning": "力",
+      "audio": "935b473b97d3a46ee9dfe482bd57c356277a98a550e050883436f88db84be671",
+      "id": "8b02092b578b",
+      "priority": 1,
+      "group": "84576fe11afc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "motion",
+      "meaningInSourceLanguage": "运动",
+      "id": "f112f5878e1f",
+      "priority": 0,
+      "group": "cc8047ca8633"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "motion",
+      "meaning": "运动",
+      "audio": "c9ae8321cd21c036d7c2cdd27065f972a48da099bb5564b2a3b0dccc64e3d728",
+      "id": "73272acec6ed",
+      "priority": 1,
+      "group": "cc8047ca8633"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "velocity",
+      "meaningInSourceLanguage": "速度",
+      "id": "fe78eaea8e61",
+      "priority": 0,
+      "group": "f87963101e2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "velocity",
+      "meaning": "速度",
+      "audio": "64bd166ee08896798c9f07a87bbf8034773e80e6b7c3c8b771eb3161d605545c",
+      "id": "df41437b6a6a",
+      "priority": 1,
+      "group": "f87963101e2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "acceleration",
+      "meaningInSourceLanguage": "加速度",
+      "id": "18021a087577",
+      "priority": 0,
+      "group": "a419effa79ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acceleration",
+      "meaning": "加速度",
+      "audio": "123f546c753d07b305dc7a2e5bcb51484030d441e5b9926f797fad9ae01036ee",
+      "id": "565af412104d",
+      "priority": 1,
+      "group": "a419effa79ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "momentum",
+      "meaningInSourceLanguage": "动量",
+      "id": "abfae164ff77",
+      "priority": 0,
+      "group": "01cdc94461ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "momentum",
+      "meaning": "动量",
+      "audio": "d794dba2d8609d415f713d1a0d66f5a5939934182fd807940cfa518b35ba6e85",
+      "id": "6d38a34ef2e4",
+      "priority": 1,
+      "group": "01cdc94461ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gravity",
+      "meaningInSourceLanguage": "重力",
+      "id": "2599236acda3",
+      "priority": 0,
+      "group": "af489b3931d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gravity",
+      "meaning": "重力",
+      "audio": "cc8b28d0faaba20d27381929ad1567dfb407bad04b04c3c80910e5f1c05d06c3",
+      "id": "a28265594642",
+      "priority": 1,
+      "group": "af489b3931d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "magnetism",
+      "meaningInSourceLanguage": "磁力",
+      "id": "43513896e6f7",
+      "priority": 0,
+      "group": "0963e4cf15b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "magnetism",
+      "meaning": "磁力",
+      "audio": "878bb88030c3009f5779f7e80971fcde90ade02473b157f15c2fa88099fe4f73",
+      "id": "97265fa74397",
+      "priority": 1,
+      "group": "0963e4cf15b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "electricity",
+      "meaningInSourceLanguage": "电",
+      "id": "7c0da56c2349",
+      "priority": 0,
+      "group": "5c1b2b409704"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "electricity",
+      "meaning": "电",
+      "audio": "1c4a168cc732bade3416e85794198e02047d4b736835f5daf8a89b745b97a301",
+      "id": "d2822534278c",
+      "priority": 1,
+      "group": "5c1b2b409704"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "light",
+      "meaningInSourceLanguage": "光",
+      "id": "0336cb5094a3",
+      "priority": 0,
+      "group": "082ec194320c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "light",
+      "meaning": "光",
+      "audio": "c091052703bab8b999220f9a9c92431ead94303029382bb4908c464b8f1a86f4",
+      "id": "31aa5a1dee0a",
+      "priority": 1,
+      "group": "082ec194320c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sound",
+      "meaningInSourceLanguage": "声音",
+      "id": "0a5187e7c83e",
+      "priority": 0,
+      "group": "d485ab37a06d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sound",
+      "meaning": "声音",
+      "audio": "de4e30a60a0037207cb6c0f7be47def23609d70978f88dbc9a6cd70247145529",
+      "id": "da019acdd5b6",
+      "priority": 1,
+      "group": "d485ab37a06d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heat",
+      "meaningInSourceLanguage": "热",
+      "id": "c5e5abedf104",
+      "priority": 0,
+      "group": "4ba361ab21e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heat",
+      "meaning": "热",
+      "audio": "debbae91297ab235aa4772cf1b7aa1a05948fe190e5f9e26ac0af23368a5f6ee",
+      "id": "a2a3c41ef155",
+      "priority": 1,
+      "group": "4ba361ab21e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "temperature",
+      "meaningInSourceLanguage": "温度",
+      "id": "e097201762d9",
+      "priority": 0,
+      "group": "d03dabd42347"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "temperature",
+      "meaning": "温度",
+      "audio": "b811c03ed974913ce70eb3ff38a160577ba041274b2280ff45aa4fbbe75264be",
+      "id": "f6bf5568ee8b",
+      "priority": 1,
+      "group": "d03dabd42347"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pressure",
+      "meaningInSourceLanguage": "压力",
+      "id": "c0660b05d197",
+      "priority": 0,
+      "group": "c47d87e79d1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pressure",
+      "meaning": "压力",
+      "audio": "39ee1324cac795e5268306f32b9bb2fdde9848029300f1910de6d464a56af282",
+      "id": "308292877ba7",
+      "priority": 1,
+      "group": "c47d87e79d1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "volume",
+      "meaningInSourceLanguage": "体积",
+      "id": "a98f645d64dc",
+      "priority": 0,
+      "group": "7ed33e84f85c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "volume",
+      "meaning": "体积",
+      "audio": "c1c0ee4084ad2648688fd76a481689467517d860b59bc5c1ddf9dd3fee85748a",
+      "id": "df11e598c675",
+      "priority": 1,
+      "group": "7ed33e84f85c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "density",
+      "meaningInSourceLanguage": "密度",
+      "id": "ce2087261b01",
+      "priority": 0,
+      "group": "1755bcf456b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "density",
+      "meaning": "密度",
+      "audio": "ab3633d3a95c06c1b910d4a40f4b4e23cc22d699810e213609f4210f3a19cdd3",
+      "id": "9b035e41d135",
+      "priority": 1,
+      "group": "1755bcf456b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mass",
+      "meaningInSourceLanguage": "质量",
+      "id": "b7ee6250f82e",
+      "priority": 0,
+      "group": "0d8cedfdd61b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mass",
+      "meaning": "质量",
+      "audio": "88ba5f5420edd72cd20186294574a095cf793bb785b28263310bd58a483aec7b",
+      "id": "4675a3837feb",
+      "priority": 1,
+      "group": "0d8cedfdd61b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weight",
+      "meaningInSourceLanguage": "重量",
+      "id": "8e69481bc574",
+      "priority": 0,
+      "group": "bd3d5f45dcbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weight",
+      "meaning": "重量",
+      "audio": "6edf30e2863bd0f1a76fc6bc4b273f228937e407b306a307e49b45c8809a9526",
+      "id": "f57d9ed397c4",
+      "priority": 1,
+      "group": "bd3d5f45dcbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "evolution",
+      "meaningInSourceLanguage": "进化",
+      "id": "363a986261fc",
+      "priority": 0,
+      "group": "0f49dae9bdaf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "evolution",
+      "meaning": "进化",
+      "audio": "8bbcc19b7ac397c5cd479f6334cb34e021ac5feaa00c1f8ef3eb96df431797b6",
+      "id": "b84bdb911443",
+      "priority": 1,
+      "group": "0f49dae9bdaf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "species",
+      "meaningInSourceLanguage": "物种",
+      "id": "dcc7a48fac75",
+      "priority": 0,
+      "group": "eb85553de189"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "species",
+      "meaning": "物种",
+      "audio": "fc1930a29445d192e212d5d62a1bb3789cae49954d966dd3ddb8b0f38c54afa9",
+      "id": "8b6eb6898e8a",
+      "priority": 1,
+      "group": "eb85553de189"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cell",
+      "meaningInSourceLanguage": "细胞",
+      "id": "29662d9496ba",
+      "priority": 0,
+      "group": "c5cd52399767"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cell",
+      "meaning": "细胞",
+      "audio": "15603b3e4dd800d94ff5e736fbbb7eb50a302f417c54f35deccd5e9950c85db1",
+      "id": "33febf47bdb1",
+      "priority": 1,
+      "group": "c5cd52399767"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "DNA",
+      "meaningInSourceLanguage": "DNA",
+      "id": "5a468c736566",
+      "priority": 0,
+      "group": "96b17a3571f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "DNA",
+      "meaning": "DNA",
+      "audio": "162e6a8e89c9c7983d4d27d41f2b66ec1ae0cb1d926f7837b3955e918ae49a01",
+      "id": "adc381495138",
+      "priority": 1,
+      "group": "96b17a3571f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gene",
+      "meaningInSourceLanguage": "基因",
+      "id": "3ce705aedc5e",
+      "priority": 0,
+      "group": "6664a3388c83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gene",
+      "meaning": "基因",
+      "audio": "eee8243bbad916d24ef58e3ea56b554f26d7d6a4689ad08fee440dd74176d926",
+      "id": "ed87bb5b11df",
+      "priority": 1,
+      "group": "6664a3388c83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chromosome",
+      "meaningInSourceLanguage": "染色体",
+      "id": "fd9df672d9cd",
+      "priority": 0,
+      "group": "6b6d7594494b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chromosome",
+      "meaning": "染色体",
+      "audio": "16c951ceefd7c9d03ae35c779972faf3a7d3d5d0cfd004d9c7d2db3267b9772c",
+      "id": "5dc3609631e0",
+      "priority": 1,
+      "group": "6b6d7594494b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bacteria",
+      "meaningInSourceLanguage": "细菌",
+      "id": "38d9fb318d3b",
+      "priority": 0,
+      "group": "4b800019e7ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bacteria",
+      "meaning": "细菌",
+      "audio": "7b76314614cb535a527680c61294960c6156ee073da5a7373922d635bb9aeb06",
+      "id": "7fe8a6e0702f",
+      "priority": 1,
+      "group": "4b800019e7ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "virus",
+      "meaningInSourceLanguage": "病毒",
+      "id": "b7f7720e311f",
+      "priority": 0,
+      "group": "47bc0584eb3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "virus",
+      "meaning": "病毒",
+      "audio": "455dcb062f76b4a025de55e6469404c045de212baa8563f6499d1124d6412afb",
+      "id": "07b29019fc99",
+      "priority": 1,
+      "group": "47bc0584eb3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "protein",
+      "meaningInSourceLanguage": "蛋白质",
+      "id": "d42ec095fad5",
+      "priority": 0,
+      "group": "e5865f0aeff3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "protein",
+      "meaning": "蛋白质",
+      "audio": "8dc048ea1598b56ba9f1e8eeecb2da4429008a0554be99896dc70e227076d7fc",
+      "id": "8c16da3ef3db",
+      "priority": 1,
+      "group": "e5865f0aeff3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "enzyme",
+      "meaningInSourceLanguage": "酶",
+      "id": "abfb9a23a6a8",
+      "priority": 0,
+      "group": "dd25b8a8f9e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "enzyme",
+      "meaning": "酶",
+      "audio": "44e149b0141c587a20475ca641bb6ce41173937c6503291542d9cb5fadb97819",
+      "id": "4e1a690a6ef4",
+      "priority": 1,
+      "group": "dd25b8a8f9e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hormone",
+      "meaningInSourceLanguage": "激素",
+      "id": "831fb606317d",
+      "priority": 0,
+      "group": "58989ad3ad3d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hormone",
+      "meaning": "激素",
+      "audio": "c746a7ea53968f6f49036831a3bff6c9f958026e44723f5cc3e1f21fdc0a5d82",
+      "id": "7f5940adaaee",
+      "priority": 1,
+      "group": "58989ad3ad3d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nerve",
+      "meaningInSourceLanguage": "神经",
+      "id": "74fe0aa20edd",
+      "priority": 0,
+      "group": "c32ed46cf750"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nerve",
+      "meaning": "神经",
+      "audio": "1c1ecffe67fd3af857d641887c6e66ccf71a2c333c8e1d628d57ec893e26632c",
+      "id": "453e73013bfa",
+      "priority": 1,
+      "group": "c32ed46cf750"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "brain",
+      "meaningInSourceLanguage": "大脑",
+      "id": "80f6ce0da55d",
+      "priority": 0,
+      "group": "1824906b054d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "brain",
+      "meaning": "大脑",
+      "audio": "ad1a23e7491efe5ac37622225f3d95507106d486a194e7cd443eed52bcc87500",
+      "id": "5736253543f9",
+      "priority": 1,
+      "group": "1824906b054d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heart",
+      "meaningInSourceLanguage": "心脏",
+      "id": "4996a94cc84e",
+      "priority": 0,
+      "group": "17369bbfe420"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heart",
+      "meaning": "心脏",
+      "audio": "724d14aeda148871990e3ee9bffaf7d64240c6d8f3da8f1cc97aa4143c50a316",
+      "id": "f2d96f16cb22",
+      "priority": 1,
+      "group": "17369bbfe420"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lung",
+      "meaningInSourceLanguage": "肺",
+      "id": "11812b263a8c",
+      "priority": 0,
+      "group": "37e4deab2bf6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lung",
+      "meaning": "肺",
+      "audio": "1600042f5600cea32d04fffcd679021817f9bee3f4188b07af4ba30a567b713a",
+      "id": "b16c02010f61",
+      "priority": 1,
+      "group": "37e4deab2bf6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ecosystem",
+      "meaningInSourceLanguage": "生态系统",
+      "id": "d26e5513cde6",
+      "priority": 0,
+      "group": "6f4ee8a1ba3f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ecosystem",
+      "meaning": "生态系统",
+      "audio": "f155c2229ba2e5c9e6c115a26a7a12fafc03420633ffcaee236e8438e8791007",
+      "id": "1caa05f39c14",
+      "priority": 1,
+      "group": "6f4ee8a1ba3f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "environment",
+      "meaningInSourceLanguage": "环境",
+      "id": "bd6b54a2bf43",
+      "priority": 0,
+      "group": "2110f6fdbf56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "environment",
+      "meaning": "环境",
+      "audio": "efa7b85fbd6725cca10c729903bc58ab2febafb212d102c1b7895a9a659d365d",
+      "id": "3fee14ec2e57",
+      "priority": 1,
+      "group": "2110f6fdbf56"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conservation",
+      "meaningInSourceLanguage": "保护",
+      "id": "dec276883c4d",
+      "priority": 0,
+      "group": "ab5e4860b765"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conservation",
+      "meaning": "保护",
+      "audio": "b537f0035e861e2d83e643a237a22978e2cc7120ff89c1b89ab62d4d04f33c1e",
+      "id": "6a1879f5ba17",
+      "priority": 1,
+      "group": "ab5e4860b765"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pollution",
+      "meaningInSourceLanguage": "污染",
+      "id": "42ac103a61f8",
+      "priority": 0,
+      "group": "dd4371bc0f5c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pollution",
+      "meaning": "污染",
+      "audio": "bd8b8fcd1dc5ec47a405a27095bb4ae41cd31057eb93df348905c7ce3578198e",
+      "id": "d981ed3d93e8",
+      "priority": 1,
+      "group": "dd4371bc0f5c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "recycling",
+      "meaningInSourceLanguage": "回收",
+      "id": "87753331e61f",
+      "priority": 0,
+      "group": "681c5acec3a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recycling",
+      "meaning": "回收",
+      "audio": "fce80f57aab6900962e5a4638a4e0aa82d166badcc51f057558555e11945658d",
+      "id": "5972e08a994d",
+      "priority": 1,
+      "group": "681c5acec3a5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "renewable",
+      "meaningInSourceLanguage": "可再生",
+      "id": "62253db59de9",
+      "priority": 0,
+      "group": "36a05ac4eba5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "renewable",
+      "meaning": "可再生",
+      "audio": "33901d0a7f3c2a5823e4fc5eb600f527697327e3f54674b865b2602d82732a51",
+      "id": "618ca49d6a4e",
+      "priority": 1,
+      "group": "36a05ac4eba5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fossil fuel",
+      "meaningInSourceLanguage": "化石燃料",
+      "id": "36fd774e8aa2",
+      "priority": 0,
+      "group": "379d311f542e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fossil fuel",
+      "meaning": "化石燃料",
+      "audio": "3cece9801f2b68dfda13894109e32588bc40f40b423c6682a930cb443d2685f8",
+      "id": "5f5134728550",
+      "priority": 1,
+      "group": "379d311f542e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solar power",
+      "meaningInSourceLanguage": "太阳能",
+      "id": "72916dfc7b6d",
+      "priority": 0,
+      "group": "235af3a8b7d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solar power",
+      "meaning": "太阳能",
+      "audio": "1e03b136197628f969e517303029380c90485b6c184b67e4377ed620cc59a5b1",
+      "id": "87e8dacfed2b",
+      "priority": 1,
+      "group": "235af3a8b7d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wind power",
+      "meaningInSourceLanguage": "风能",
+      "id": "edb271f7546c",
+      "priority": 0,
+      "group": "61e56511b0f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wind power",
+      "meaning": "风能",
+      "audio": "9ed2052c8461fca5041bb04094b88557e8ac77379486afc0fc660d4e3c8305e1",
+      "id": "10c022534548",
+      "priority": 1,
+      "group": "61e56511b0f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nuclear power",
+      "meaningInSourceLanguage": "核能",
+      "id": "7ba558bc51da",
+      "priority": 0,
+      "group": "97a3b2da96f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nuclear power",
+      "meaning": "核能",
+      "audio": "cec8195e141b7599c168fa6e70868566677c9728496b74e68a8b45f7948b3ce3",
+      "id": "26a63707e4d2",
+      "priority": 1,
+      "group": "97a3b2da96f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "climate change",
+      "meaningInSourceLanguage": "气候变化",
+      "id": "e49d684d9e66",
+      "priority": 0,
+      "group": "0fdbdffbbb44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "climate change",
+      "meaning": "气候变化",
+      "audio": "c879db360cc38bfa6d5a5dfd26bb3ac76d282c566e331b614e71f7dc26de0375",
+      "id": "0d2c93372e39",
+      "priority": 1,
+      "group": "0fdbdffbbb44"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "global warming",
+      "meaningInSourceLanguage": "全球变暖",
+      "id": "406dc8c25c36",
+      "priority": 0,
+      "group": "f58226c720dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "global warming",
+      "meaning": "全球变暖",
+      "audio": "b155a2686401377c20777ae2f19a8ba3aff7c2ab3f91c06f9f6de14c581c50ae",
+      "id": "02a93033bee7",
+      "priority": 1,
+      "group": "f58226c720dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "greenhouse effect",
+      "meaningInSourceLanguage": "温室效应",
+      "id": "a89ffd0d90a8",
+      "priority": 0,
+      "group": "78bdb3f6f559"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "greenhouse effect",
+      "meaning": "温室效应",
+      "audio": "5ce2adcc40dcbcf624188b6d227aa97761715fdc9c19fafda822986096ae9ac4",
+      "id": "f79f47d205d8",
+      "priority": 1,
+      "group": "78bdb3f6f559"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "extinction",
+      "meaningInSourceLanguage": "灭绝",
+      "id": "facd34a81270",
+      "priority": 0,
+      "group": "0eb150aec47f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "extinction",
+      "meaning": "灭绝",
+      "audio": "566c5c661fde7783b5e8d8af9ef285381a9cabc056a17a1bc088513e2e5a454e",
+      "id": "f1803846aec5",
+      "priority": 1,
+      "group": "0eb150aec47f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "endangered",
+      "meaningInSourceLanguage": "濒危的",
+      "id": "8255bb9e26cd",
+      "priority": 0,
+      "group": "fc1aa9176b98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "endangered",
+      "meaning": "濒危的",
+      "audio": "029351c0881dd3482c264bd94851dc3f2e3338389ff41cce86cead593107c493",
+      "id": "b4026d639b7d",
+      "priority": 1,
+      "group": "fc1aa9176b98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "biodiversity",
+      "meaningInSourceLanguage": "生物多样性",
+      "id": "43e98093fc55",
+      "priority": 0,
+      "group": "249f0be84623"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "biodiversity",
+      "meaning": "生物多样性",
+      "audio": "94cfced3611432ffb2068511206022c09acc3075294ef07303780668465818cd",
+      "id": "1807bb85214d",
+      "priority": 1,
+      "group": "249f0be84623"
+    }
+  ]
+}

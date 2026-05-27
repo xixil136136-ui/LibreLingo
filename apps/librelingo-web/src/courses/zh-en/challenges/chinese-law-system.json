@@ -1,0 +1,975 @@
+{
+  "id": "8c59cc624681",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "administrative law",
+      "meaningInSourceLanguage": "行政法",
+      "id": "9506b7569c97",
+      "priority": 0,
+      "group": "711f019386c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "administrative law",
+      "meaning": "行政法",
+      "audio": "ba4880ec0f9944409323c8e9f47208ee",
+      "id": "17b42d5a4a29",
+      "priority": 1,
+      "group": "711f019386c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "maritime law",
+      "meaningInSourceLanguage": "海事法",
+      "id": "7cb744428e7e",
+      "priority": 0,
+      "group": "d59230e268e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maritime law",
+      "meaning": "海事法",
+      "audio": "d93d177188604eb18d51fb4564fc473a",
+      "id": "a9c8535ad18a",
+      "priority": 1,
+      "group": "d59230e268e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aviation law",
+      "meaningInSourceLanguage": "航空法",
+      "id": "3909df30cb96",
+      "priority": 0,
+      "group": "6ec729b2be2e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aviation law",
+      "meaning": "航空法",
+      "audio": "bc477f17d72246ada3de2363d61176ba",
+      "id": "6c4eb38d5b92",
+      "priority": 1,
+      "group": "6ec729b2be2e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "banking law",
+      "meaningInSourceLanguage": "银行法",
+      "id": "7d8a5d4cb4c5",
+      "priority": 0,
+      "group": "ff99e44ae025"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "banking law",
+      "meaning": "银行法",
+      "audio": "29f4f66930f148628ad193bdec805dfd",
+      "id": "bb3f423a8a0b",
+      "priority": 1,
+      "group": "ff99e44ae025"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bioethics law",
+      "meaningInSourceLanguage": "生物伦理法",
+      "id": "b05bca56fc28",
+      "priority": 0,
+      "group": "70a108783713"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bioethics law",
+      "meaning": "生物伦理法",
+      "audio": "ed362b04880749db86e82d209031a9e6",
+      "id": "428040f408de",
+      "priority": 1,
+      "group": "70a108783713"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "communications law",
+      "meaningInSourceLanguage": "通信法",
+      "id": "726108e01c90",
+      "priority": 0,
+      "group": "9f669249ce13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "communications law",
+      "meaning": "通信法",
+      "audio": "4fee79b13ede459ab37c8dcb59b3743b",
+      "id": "0abb7d2eec92",
+      "priority": 1,
+      "group": "9f669249ce13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comparative law",
+      "meaningInSourceLanguage": "比较法",
+      "id": "185a885078ad",
+      "priority": 0,
+      "group": "b42c7d8994b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comparative law",
+      "meaning": "比较法",
+      "audio": "1d4c56f55e58446d922105c6b85011e7",
+      "id": "ee3ba3904ae3",
+      "priority": 1,
+      "group": "b42c7d8994b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "construction law",
+      "meaningInSourceLanguage": "建筑法",
+      "id": "7c781d86223f",
+      "priority": 0,
+      "group": "dc5bf77e42a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "construction law",
+      "meaning": "建筑法",
+      "audio": "a3e00ad59edb40e3ad98eb523f7484b4",
+      "id": "bfa5f9dc2b97",
+      "priority": 1,
+      "group": "dc5bf77e42a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "corporate law",
+      "meaningInSourceLanguage": "公司法",
+      "id": "37811013c016",
+      "priority": 0,
+      "group": "717524f29c11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "corporate law",
+      "meaning": "公司法",
+      "audio": "e7684d0295ba4269bdce7c568adda837",
+      "id": "55e7183502cd",
+      "priority": 1,
+      "group": "717524f29c11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "education law",
+      "meaningInSourceLanguage": "教育法",
+      "id": "ab847c592aa5",
+      "priority": 0,
+      "group": "3ceafa52b4a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "education law",
+      "meaning": "教育法",
+      "audio": "8b5d3757de204c3bba750d1b8a2c75cc",
+      "id": "39b8937a3784",
+      "priority": 1,
+      "group": "3ceafa52b4a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "energy law",
+      "meaningInSourceLanguage": "能源法",
+      "id": "ce5dee706d8d",
+      "priority": 0,
+      "group": "3734bca40603"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "energy law",
+      "meaning": "能源法",
+      "audio": "816b1be143c04f9b8fbd6d93aa7a18ef",
+      "id": "c6ba4a54a351",
+      "priority": 1,
+      "group": "3734bca40603"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "environmental law",
+      "meaningInSourceLanguage": "环境法",
+      "id": "6bb57312beb8",
+      "priority": 0,
+      "group": "6885989a66fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "environmental law",
+      "meaning": "环境法",
+      "audio": "7076354f278b40d48d3f0cb9de238cd8",
+      "id": "be327b51a4d7",
+      "priority": 1,
+      "group": "6885989a66fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "health law",
+      "meaningInSourceLanguage": "卫生法",
+      "id": "19390126b298",
+      "priority": 0,
+      "group": "05fdc80d4268"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "health law",
+      "meaning": "卫生法",
+      "audio": "dd0627c2d7854f4ba929c0ca355fefd9",
+      "id": "cdc49f5e5f2b",
+      "priority": 1,
+      "group": "05fdc80d4268"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "immigration law",
+      "meaningInSourceLanguage": "移民法",
+      "id": "0d597c2592c3",
+      "priority": 0,
+      "group": "aed1de9cbebe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "immigration law",
+      "meaning": "移民法",
+      "audio": "d17c8d35c01040e794e3de4130a7fbed",
+      "id": "5fefd782a2d3",
+      "priority": 1,
+      "group": "aed1de9cbebe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "information law",
+      "meaningInSourceLanguage": "信息法",
+      "id": "051ed0e80e1c",
+      "priority": 0,
+      "group": "99638193de5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "information law",
+      "meaning": "信息法",
+      "audio": "048c3a914a764807bfb1228da7e99ea0",
+      "id": "2b5d0f215959",
+      "priority": 1,
+      "group": "99638193de5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "internet law",
+      "meaningInSourceLanguage": "互联网法",
+      "id": "8a68bea65a43",
+      "priority": 0,
+      "group": "3687cd4932f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "internet law",
+      "meaning": "互联网法",
+      "audio": "c5694391807f448ea6d62bd81ecbd251",
+      "id": "8d43a6dd7cec",
+      "priority": 1,
+      "group": "3687cd4932f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "labor law",
+      "meaningInSourceLanguage": "劳动法",
+      "id": "242ebddeca22",
+      "priority": 0,
+      "group": "37cb556befbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "labor law",
+      "meaning": "劳动法",
+      "audio": "aba7994d842940668c3766820ff83284",
+      "id": "4ce7dfdc53b0",
+      "priority": 1,
+      "group": "37cb556befbb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "media law",
+      "meaningInSourceLanguage": "媒体法",
+      "id": "3ae8ebc6b0e8",
+      "priority": 0,
+      "group": "f0e87c639b29"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "media law",
+      "meaning": "媒体法",
+      "audio": "46f237809bae4b3fa0d959438a07bb29",
+      "id": "18ad89c3d4fd",
+      "priority": 1,
+      "group": "f0e87c639b29"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "military law",
+      "meaningInSourceLanguage": "军事法",
+      "id": "804b340e7b05",
+      "priority": 0,
+      "group": "f7ec8f0203f2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "military law",
+      "meaning": "军事法",
+      "audio": "a6def4eedb274c6eab9f10f8d9182de5",
+      "id": "a51383c8660a",
+      "priority": 1,
+      "group": "f7ec8f0203f2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "natural resources law",
+      "meaningInSourceLanguage": "自然资源法",
+      "id": "8d4e5656a84e",
+      "priority": 0,
+      "group": "302a223f5d00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "natural resources law",
+      "meaning": "自然资源法",
+      "audio": "c8ee30ef18714c3190b7613b5edcad25",
+      "id": "029c168bf36c",
+      "priority": 1,
+      "group": "302a223f5d00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "parliamentary law",
+      "meaningInSourceLanguage": "议会法",
+      "id": "5b1a82d05b93",
+      "priority": 0,
+      "group": "fa81493286db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "parliamentary law",
+      "meaning": "议会法",
+      "audio": "eeb8a1a04669443b9c73b27467a2f9d8",
+      "id": "6dd6c46fb159",
+      "priority": 1,
+      "group": "fa81493286db"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "privacy law",
+      "meaningInSourceLanguage": "隐私法",
+      "id": "610140f6cf2c",
+      "priority": 0,
+      "group": "d6d2049e8ddb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "privacy law",
+      "meaning": "隐私法",
+      "audio": "e7c92569ca6146c598bd6e39b399d1a8",
+      "id": "ae1953aec2a6",
+      "priority": 1,
+      "group": "d6d2049e8ddb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "public law",
+      "meaningInSourceLanguage": "公法",
+      "id": "9213a57b4704",
+      "priority": 0,
+      "group": "36ea13e546c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "public law",
+      "meaning": "公法",
+      "audio": "b3a6bbb2795f4fb0bfdf99482a18ef36",
+      "id": "2667c015eff8",
+      "priority": 1,
+      "group": "36ea13e546c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "religious law",
+      "meaningInSourceLanguage": "宗教法",
+      "id": "dd173a1be225",
+      "priority": 0,
+      "group": "196bdf4e3d44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "religious law",
+      "meaning": "宗教法",
+      "audio": "2cd48e59c883418d813c091b364c8fe6",
+      "id": "791f6e200dfb",
+      "priority": 1,
+      "group": "196bdf4e3d44"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sports law",
+      "meaningInSourceLanguage": "体育法",
+      "id": "3217db937a47",
+      "priority": 0,
+      "group": "24ab106f7a5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sports law",
+      "meaning": "体育法",
+      "audio": "3b1fb1dff49649458b449167699161f3",
+      "id": "8b314ed7a730",
+      "priority": 1,
+      "group": "24ab106f7a5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tax law",
+      "meaningInSourceLanguage": "税法",
+      "id": "ce58b5930b6c",
+      "priority": 0,
+      "group": "26ab1558c888"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tax law",
+      "meaning": "税法",
+      "audio": "fb6ab7e93f394c58aef2d488b77f346a",
+      "id": "2410b86ec534",
+      "priority": 1,
+      "group": "26ab1558c888"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "technology law",
+      "meaningInSourceLanguage": "技术法",
+      "id": "c1984d21f648",
+      "priority": 0,
+      "group": "d36d8ab43758"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "technology law",
+      "meaning": "技术法",
+      "audio": "9690795207c945bb87cb67913c7281c5",
+      "id": "f94accff7b82",
+      "priority": 1,
+      "group": "d36d8ab43758"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "water law",
+      "meaningInSourceLanguage": "水法",
+      "id": "7846220a421f",
+      "priority": 0,
+      "group": "ed10accc7687"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "water law",
+      "meaning": "水法",
+      "audio": "52b1baa3ccea4204afba456167ff0aa6",
+      "id": "29223461d721",
+      "priority": 1,
+      "group": "ed10accc7687"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "actus reus",
+      "meaningInSourceLanguage": "犯罪行为",
+      "id": "70db51263e1e",
+      "priority": 0,
+      "group": "f478cc9f346e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "actus reus",
+      "meaning": "犯罪行为",
+      "audio": "a2ba5cd8a8f5437588003a269c025d81",
+      "id": "a9ff0981bd0b",
+      "priority": 1,
+      "group": "f478cc9f346e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mens rea",
+      "meaningInSourceLanguage": "犯罪意图",
+      "id": "10429744c785",
+      "priority": 0,
+      "group": "9014105a4939"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mens rea",
+      "meaning": "犯罪意图",
+      "audio": "9d2c20d87c8a4f4185e70055ace50bbd",
+      "id": "7e7f0c1b0a10",
+      "priority": 1,
+      "group": "9014105a4939"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "causation",
+      "meaningInSourceLanguage": "因果关系",
+      "id": "97d6928ebf7e",
+      "priority": 0,
+      "group": "377143cd9595"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "causation",
+      "meaning": "因果关系",
+      "audio": "39f564b795824b378d09d26440aed3f5",
+      "id": "826b1508c258",
+      "priority": 1,
+      "group": "377143cd9595"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "concurrence",
+      "meaningInSourceLanguage": "同时性",
+      "id": "4a1dabbca5a1",
+      "priority": 0,
+      "group": "35ba244a0ef3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "concurrence",
+      "meaning": "同时性",
+      "audio": "4884a7b0790f47e3b9d6fbdff5199762",
+      "id": "29a0c34d26a9",
+      "priority": 1,
+      "group": "35ba244a0ef3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "attendant circumstances",
+      "meaningInSourceLanguage": "伴随情况",
+      "id": "58ea64c2d5e4",
+      "priority": 0,
+      "group": "132da5ac42a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "attendant circumstances",
+      "meaning": "伴随情况",
+      "audio": "f9dcda4914454e5694e79d1ef0a1c8c6",
+      "id": "9f837c4c7df9",
+      "priority": 1,
+      "group": "132da5ac42a2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "result crime",
+      "meaningInSourceLanguage": "结果犯",
+      "id": "a425c5564eea",
+      "priority": 0,
+      "group": "4bc632a0f9a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "result crime",
+      "meaning": "结果犯",
+      "audio": "44c3f7c24da24c0f9c303ec8312af7ce",
+      "id": "f09280a400f9",
+      "priority": 1,
+      "group": "4bc632a0f9a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conduct crime",
+      "meaningInSourceLanguage": "行为犯",
+      "id": "fde10e341886",
+      "priority": 0,
+      "group": "d6a6515dd1ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conduct crime",
+      "meaning": "行为犯",
+      "audio": "963014be98c4458893d35283bce7e129",
+      "id": "4b8f752e6067",
+      "priority": 1,
+      "group": "d6a6515dd1ea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strict liability crime",
+      "meaningInSourceLanguage": "严格责任犯罪",
+      "id": "829428696ddc",
+      "priority": 0,
+      "group": "acc964dcffa1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strict liability crime",
+      "meaning": "严格责任犯罪",
+      "audio": "5fd5c81ab8154d77b3611f9878dc00d0",
+      "id": "2a0e43db7189",
+      "priority": 1,
+      "group": "acc964dcffa1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "inchoate offense",
+      "meaningInSourceLanguage": "未完成罪",
+      "id": "3768a0c16b00",
+      "priority": 0,
+      "group": "189c25b97381"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "inchoate offense",
+      "meaning": "未完成罪",
+      "audio": "034176eb0f964519a26afe65d6a2e5c5",
+      "id": "f0ef4a720bce",
+      "priority": 1,
+      "group": "189c25b97381"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solicitation",
+      "meaningInSourceLanguage": "教唆",
+      "id": "8f67c5ba67f9",
+      "priority": 0,
+      "group": "fc473387cb8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solicitation",
+      "meaning": "教唆",
+      "audio": "9acb4893b87c4dddb229592c49a99fc4",
+      "id": "e8444af96cff",
+      "priority": 1,
+      "group": "fc473387cb8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "conspiracy",
+      "meaningInSourceLanguage": "共谋",
+      "id": "9d931a1dbc16",
+      "priority": 0,
+      "group": "7e58c9454367"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "conspiracy",
+      "meaning": "共谋",
+      "audio": "c149f5a5dc314d6abf6bcd72726422bd",
+      "id": "a93da60ec417",
+      "priority": 1,
+      "group": "7e58c9454367"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "attempt",
+      "meaningInSourceLanguage": "犯罪未遂",
+      "id": "9870c4381bb4",
+      "priority": 0,
+      "group": "31bc69117b91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "attempt",
+      "meaning": "犯罪未遂",
+      "audio": "d5328e03657941fea209ae7610f9891f",
+      "id": "6795dc9ccaa8",
+      "priority": 1,
+      "group": "31bc69117b91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "necessity",
+      "meaningInSourceLanguage": "紧急避险",
+      "id": "3c556d549e85",
+      "priority": 0,
+      "group": "598e1b2f9ae9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "necessity",
+      "meaning": "紧急避险",
+      "audio": "19a90942ba21412c8eb11c1305970040",
+      "id": "537ac852271e",
+      "priority": 1,
+      "group": "598e1b2f9ae9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "duress",
+      "meaningInSourceLanguage": "胁迫",
+      "id": "2ba5625e120f",
+      "priority": 0,
+      "group": "5fa11fd9bed1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "duress",
+      "meaning": "胁迫",
+      "audio": "a07771d7973e49759db15f9fe2ad0b0f",
+      "id": "81f93763a10e",
+      "priority": 1,
+      "group": "5fa11fd9bed1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "entrapment",
+      "meaningInSourceLanguage": "警察圈套",
+      "id": "a8fad249bfc6",
+      "priority": 0,
+      "group": "e27b76346509"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "entrapment",
+      "meaning": "警察圈套",
+      "audio": "40533acbdf734bb09f73591378e0c1fd",
+      "id": "a84a76db94b0",
+      "priority": 1,
+      "group": "e27b76346509"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "insanity defense",
+      "meaningInSourceLanguage": "精神病辩护",
+      "id": "93eeac753b2a",
+      "priority": 0,
+      "group": "4f80a04336b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "insanity defense",
+      "meaning": "精神病辩护",
+      "audio": "fe7aba8f25854520897e62e893049b9c",
+      "id": "a76bf339f8fc",
+      "priority": 1,
+      "group": "4f80a04336b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diminished capacity",
+      "meaningInSourceLanguage": "减轻责任能力",
+      "id": "4ca95a47d6d0",
+      "priority": 0,
+      "group": "1be79e2bba72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diminished capacity",
+      "meaning": "减轻责任能力",
+      "audio": "f7c8949efb2a4c44989bc7be4d57defd",
+      "id": "b6daf331668d",
+      "priority": 1,
+      "group": "1be79e2bba72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "intoxication",
+      "meaningInSourceLanguage": "醉酒",
+      "id": "46678fe1174b",
+      "priority": 0,
+      "group": "9c27aebdeffa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "intoxication",
+      "meaning": "醉酒",
+      "audio": "b49f9823393a41da8ac642abf84dd185",
+      "id": "3de53c39f7fc",
+      "priority": 1,
+      "group": "9c27aebdeffa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mistake of fact",
+      "meaningInSourceLanguage": "事实错误",
+      "id": "e0398409ac4a",
+      "priority": 0,
+      "group": "4080e8c41a13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mistake of fact",
+      "meaning": "事实错误",
+      "audio": "5ec20c5810f94b2280ddc34d3e983823",
+      "id": "03b887f6f6cd",
+      "priority": 1,
+      "group": "4080e8c41a13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mistake of law",
+      "meaningInSourceLanguage": "法律错误",
+      "id": "5d696a8d9a21",
+      "priority": 0,
+      "group": "d1a40d09baff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mistake of law",
+      "meaning": "法律错误",
+      "audio": "4f2b24944a03402f8b940fdf45e2fdde",
+      "id": "2764dc2ec276",
+      "priority": 1,
+      "group": "d1a40d09baff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "consent",
+      "meaningInSourceLanguage": "同意",
+      "id": "17c8a3571a9e",
+      "priority": 0,
+      "group": "5e511e18eef4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "consent",
+      "meaning": "同意",
+      "audio": "a3794c8d20604b53907ba79bf7e12718",
+      "id": "d6f71b9243e6",
+      "priority": 1,
+      "group": "5e511e18eef4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "year and a day rule",
+      "meaningInSourceLanguage": "一年一天规则",
+      "id": "1e37fd14a5f7",
+      "priority": 0,
+      "group": "0d825187d5a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "year and a day rule",
+      "meaning": "一年一天规则",
+      "audio": "e8825c83cfc74ccd872810e8d4382db2",
+      "id": "a6f1985d9335",
+      "priority": 1,
+      "group": "0d825187d5a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "castle doctrine",
+      "meaningInSourceLanguage": "城堡原则",
+      "id": "51fe4e3f2aae",
+      "priority": 0,
+      "group": "d5f5bdf22200"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "castle doctrine",
+      "meaning": "城堡原则",
+      "audio": "818dc76003924c1f82f8d52e1cf6b2a9",
+      "id": "a7618e1d7ba0",
+      "priority": 1,
+      "group": "d5f5bdf22200"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stand your ground",
+      "meaningInSourceLanguage": "坚守阵地原则",
+      "id": "05fe52686e92",
+      "priority": 0,
+      "group": "640fb19b9b9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stand your ground",
+      "meaning": "坚守阵地原则",
+      "audio": "071783943e394468950762265b506933",
+      "id": "fcc11564157a",
+      "priority": 1,
+      "group": "640fb19b9b9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fruit of the poisonous tree",
+      "meaningInSourceLanguage": "毒树之果",
+      "id": "bed28b6b5a50",
+      "priority": 0,
+      "group": "ef70e3202a91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fruit of the poisonous tree",
+      "meaning": "毒树之果",
+      "audio": "83c90ea7d2184f469c45742db318b31f",
+      "id": "fcf131b72587",
+      "priority": 1,
+      "group": "ef70e3202a91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "inevitable discovery",
+      "meaningInSourceLanguage": "必然发现",
+      "id": "9fc85b57080d",
+      "priority": 0,
+      "group": "e32392fef7f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "inevitable discovery",
+      "meaning": "必然发现",
+      "audio": "f6aa68f4ff0e4521b2edab173492a0cb",
+      "id": "9749745d6f29",
+      "priority": 1,
+      "group": "e32392fef7f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "independent source",
+      "meaningInSourceLanguage": "独立来源",
+      "id": "7d3445fe274c",
+      "priority": 0,
+      "group": "6dd310182de6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "independent source",
+      "meaning": "独立来源",
+      "audio": "6552a031294d4c8dacf6db53a5938e01",
+      "id": "668d03a96be0",
+      "priority": 1,
+      "group": "6dd310182de6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "attenuation",
+      "meaningInSourceLanguage": "attenuation",
+      "id": "f1a174d43cd5",
+      "priority": 0,
+      "group": "e712945b5cb0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "attenuation",
+      "meaning": "attenuation",
+      "audio": "ac9ad3c7d2f246d09b3a2515fbfee723",
+      "id": "f9185eba3499",
+      "priority": 1,
+      "group": "e712945b5cb0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "good faith exception",
+      "meaningInSourceLanguage": "善意例外",
+      "id": "65f3ed877f9d",
+      "priority": 0,
+      "group": "cc4db55a2721"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "good faith exception",
+      "meaning": "善意例外",
+      "audio": "e722978c9eca49d3935fc2cba8fbd685",
+      "id": "94398a04780e",
+      "priority": 1,
+      "group": "cc4db55a2721"
+    }
+  ]
+}

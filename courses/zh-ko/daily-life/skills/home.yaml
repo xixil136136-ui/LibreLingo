@@ -1,0 +1,70 @@
+Skill:
+  Name: Home
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 집
+    Translation: 房子
+  - Word: 문
+    Translation: 门
+  - Word: 창문
+    Translation: 窗户
+  - Word: 부엌
+    Translation: 厨房
+  - Word: 침실
+    Translation: 卧室
+  - Word: 정원
+    Translation: 花园
+  - Word: 차고
+    Translation: 车库
+  - Word: 계단
+    Translation: 楼梯
+  - Word: 마당
+    Translation: 院子
+  - Word: 지붕
+    Translation: 屋顶
+
+Phrases:
+  - Phrase: 이게 제 집이에요.
+    Translation: 这是我的房子。
+  - Phrase: 문을 여세요.
+    Translation: 开门。
+  - Phrase: 부엌이 커요.
+    Translation: 厨房很大。
+  - Phrase: 침실이 깨끗해요.
+    Translation: 卧室很干净。
+  - Phrase: 정원이 있어요.
+    Translation: 有一个花园。
+  - Phrase: 창문을 닫으세요.
+    Translation: 关窗。
+
+Mini-dictionary:
+  Korean:
+    - 계단: 楼梯
+    - 침실: 卧室
+    - 창문: 窗户
+    - 부엌: 厨房
+    - 마당: 院子
+    - 집: 房子
+    - 문: 门
+    - 지붕: 屋顶
+    - 차고: 车库
+    - 정원: 花园
+  Chinese:
+    - 厨房: 부엌
+    - 房子: 집
+    - 门: 문
+    - 花园: 정원
+    - 院子: 마당
+    - 屋顶: 지붕
+    - 车库: 차고
+    - 窗户: 창문
+    - 楼梯: 계단
+    - 卧室: 침실

@@ -1,0 +1,652 @@
+{
+  "id": "99b6972b8b73",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "tree",
+      "meaningInSourceLanguage": "树",
+      "id": "0babc5ca531d",
+      "priority": 0,
+      "group": "e14340524ec4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tree",
+      "meaning": "树",
+      "audio": "0bd60125485c2a04045653ae67f214b58d5f202f623c7a4ec2384543a86ff870",
+      "id": "afaddcf4f7d3",
+      "priority": 1,
+      "group": "e14340524ec4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flower",
+      "meaningInSourceLanguage": "花",
+      "id": "e5bb0ac1c329",
+      "priority": 0,
+      "group": "54869b43f9b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flower",
+      "meaning": "花",
+      "audio": "544cc0d21762f001e139f136f88da73c38db6306f6cf0586e795e399c558a148",
+      "id": "50982210ec59",
+      "priority": 1,
+      "group": "54869b43f9b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grass",
+      "meaningInSourceLanguage": "草",
+      "id": "1984e0385d8a",
+      "priority": 0,
+      "group": "bf4ca21c0d05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grass",
+      "meaning": "草",
+      "audio": "7dfbfc2d60a8dba5d39bcf3db03a4348665c02e414ae077b7ff96ea8ea899ecd",
+      "id": "a2473702670d",
+      "priority": 1,
+      "group": "bf4ca21c0d05"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "leaf",
+      "meaningInSourceLanguage": "叶子",
+      "id": "8b73672bda5e",
+      "priority": 0,
+      "group": "feb7189c2c63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "leaf",
+      "meaning": "叶子",
+      "audio": "6524cb7f1539372e2895e668ff3a213abd1b112a524130edc174b57e4376f4e2",
+      "id": "4b2bb29eaec2",
+      "priority": 1,
+      "group": "feb7189c2c63"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "root",
+      "meaningInSourceLanguage": "根",
+      "id": "8b8985c47124",
+      "priority": 0,
+      "group": "6fb68bc4458c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "root",
+      "meaning": "根",
+      "audio": "c600d039106ce028f08326f9f074417f9fbf0be551ea1c94da5c7ec96605ff96",
+      "id": "3f025fad2dc9",
+      "priority": 1,
+      "group": "6fb68bc4458c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stem",
+      "meaningInSourceLanguage": "茎",
+      "id": "b089c1596a3f",
+      "priority": 0,
+      "group": "13cc892a58aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stem",
+      "meaning": "茎",
+      "audio": "895d5b4f3eb0fda4c715273acafde991dcbfd08c44e853979d0e247254a55cbb",
+      "id": "c55f7aec4a66",
+      "priority": 1,
+      "group": "13cc892a58aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "branch",
+      "meaningInSourceLanguage": "树枝",
+      "id": "53ef849a680b",
+      "priority": 0,
+      "group": "12dd831d4396"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "branch",
+      "meaning": "树枝",
+      "audio": "f4a760b442e3ec6ba86424c15098e01b348d1bf7bf5ff6e8329aff2367acc686",
+      "id": "cca771670d89",
+      "priority": 1,
+      "group": "12dd831d4396"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seed",
+      "meaningInSourceLanguage": "种子",
+      "id": "d31a239a5979",
+      "priority": 0,
+      "group": "da26c43887e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seed",
+      "meaning": "种子",
+      "audio": "c0059d50e9a27b98117a46943c8c6e7942e9ea23b380835672bb9d4ddaa0d8ab",
+      "id": "9f0b17746981",
+      "priority": 1,
+      "group": "da26c43887e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fruit",
+      "meaningInSourceLanguage": "水果",
+      "id": "bf94a3a667e7",
+      "priority": 0,
+      "group": "3acd8a518c24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fruit",
+      "meaning": "水果",
+      "audio": "bac7c2d7edcfb617b532c93a40a2a196c7c5d7733e37f015674b6408a9cea3d8",
+      "id": "f6c85d3655e0",
+      "priority": 1,
+      "group": "3acd8a518c24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vegetable",
+      "meaningInSourceLanguage": "蔬菜",
+      "id": "5dc9af88849a",
+      "priority": 0,
+      "group": "e58798007133"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vegetable",
+      "meaning": "蔬菜",
+      "audio": "9a3536225fa8a8b14dd4972901cc6d7e39df10ddd263b4ec482a73b8cac87107",
+      "id": "dd3a7231cf49",
+      "priority": 1,
+      "group": "e58798007133"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "petal",
+      "meaningInSourceLanguage": "花瓣",
+      "id": "31c0c5787cb8",
+      "priority": 0,
+      "group": "0b8c389aa439"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "petal",
+      "meaning": "花瓣",
+      "audio": "c13a9971528d2e032c0e8c48d0c238ec4065a6bbc970efd60d90f5041c976e75",
+      "id": "84afd316c68d",
+      "priority": 1,
+      "group": "0b8c389aa439"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pollen",
+      "meaningInSourceLanguage": "花粉",
+      "id": "944f463f0363",
+      "priority": 0,
+      "group": "59595592cfa2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pollen",
+      "meaning": "花粉",
+      "audio": "fdebc9f1a40c660030cc3706ec8cad3555a33d820b5ad6a0c1201bccac11070f",
+      "id": "18da43018962",
+      "priority": 1,
+      "group": "59595592cfa2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "nectar",
+      "meaningInSourceLanguage": "花蜜",
+      "id": "6d17496bc16f",
+      "priority": 0,
+      "group": "94c9bd13c7aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nectar",
+      "meaning": "花蜜",
+      "audio": "df3e0b2bca488938a77a1541d340c837a7b7639ca68a9892415cb125795944e5",
+      "id": "8aae5f79a51d",
+      "priority": 1,
+      "group": "94c9bd13c7aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sap",
+      "meaningInSourceLanguage": "树液",
+      "id": "c6ce1e8565b8",
+      "priority": 0,
+      "group": "82e5b2223540"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sap",
+      "meaning": "树液",
+      "audio": "52533dbb777a3aa5a6b6990a6571a6f36dfb30033c30310d9fae59ad87567f4c",
+      "id": "a7281a0d7585",
+      "priority": 1,
+      "group": "82e5b2223540"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rose",
+      "meaningInSourceLanguage": "玫瑰",
+      "id": "9afc3a21ceab",
+      "priority": 0,
+      "group": "b8adcacf396d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rose",
+      "meaning": "玫瑰",
+      "audio": "51b0b626cd6ad88dda36bc9b61cc2368af2747db4d66713307f89fa0358bd3bb",
+      "id": "4fa1d4bc5d88",
+      "priority": 1,
+      "group": "b8adcacf396d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lily",
+      "meaningInSourceLanguage": "百合",
+      "id": "5e141c5063e3",
+      "priority": 0,
+      "group": "50c9727ceae1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lily",
+      "meaning": "百合",
+      "audio": "7a3bedd45d292a5b25082798d5eb1d220effbb2f2fbc7099efb1ada4aa1bf9f1",
+      "id": "f678b54a3c66",
+      "priority": 1,
+      "group": "50c9727ceae1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tulip",
+      "meaningInSourceLanguage": "郁金香",
+      "id": "68ab19ea8b8d",
+      "priority": 0,
+      "group": "1909b40dc47e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tulip",
+      "meaning": "郁金香",
+      "audio": "62229ea3270e6142ba71390a2279422fee500006128d32813dd1c872ab76fe9b",
+      "id": "eda6c529e9e9",
+      "priority": 1,
+      "group": "1909b40dc47e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sunflower",
+      "meaningInSourceLanguage": "向日葵",
+      "id": "712b606ddc7c",
+      "priority": 0,
+      "group": "06c5de52da3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sunflower",
+      "meaning": "向日葵",
+      "audio": "963c37a1a8982bd7cdb29938c5156839fa036396b8e3665d9a849425777bed6a",
+      "id": "78aa9ea218c2",
+      "priority": 1,
+      "group": "06c5de52da3c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "daisy",
+      "meaningInSourceLanguage": "雏菊",
+      "id": "2e21bb6f2e5b",
+      "priority": 0,
+      "group": "50ce0ae6939c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "daisy",
+      "meaning": "雏菊",
+      "audio": "67b8165012320551ae4678b5ab1a2a414fa51fa10b4cef56e455ef791548c78b",
+      "id": "ba5feecfa4ce",
+      "priority": 1,
+      "group": "50ce0ae6939c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orchid",
+      "meaningInSourceLanguage": "兰花",
+      "id": "6e6060a41083",
+      "priority": 0,
+      "group": "5fa86888e80b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orchid",
+      "meaning": "兰花",
+      "audio": "b64372b5e73e4e0ce5568e766d7524a3295069ab900a10967c1a733ded0ed69a",
+      "id": "811773cd5431",
+      "priority": 1,
+      "group": "5fa86888e80b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lavender",
+      "meaningInSourceLanguage": "薰衣草",
+      "id": "cd6dc248c26f",
+      "priority": 0,
+      "group": "6df2a7614c14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lavender",
+      "meaning": "薰衣草",
+      "audio": "6659ad484ddd55de42d669b2362dbabed5e5179c9a911fe742c896fb683ac08d",
+      "id": "bf2da0cbc0b4",
+      "priority": 1,
+      "group": "6df2a7614c14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jasmine",
+      "meaningInSourceLanguage": "茉莉花",
+      "id": "0ad912c16688",
+      "priority": 0,
+      "group": "b537559625d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jasmine",
+      "meaning": "茉莉花",
+      "audio": "30318ba786dc4ee60365b405496c55ef7c12f8bdfc4a2d8df845b0744496812b",
+      "id": "c19ba64e69da",
+      "priority": 1,
+      "group": "b537559625d4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cherry blossom",
+      "meaningInSourceLanguage": "樱花",
+      "id": "47cd8738af0b",
+      "priority": 0,
+      "group": "14c35a6e70e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cherry blossom",
+      "meaning": "樱花",
+      "audio": "563f153d6957f4fe8ad520ca902c2db26a42dd4944c392bad42315e48869e1c5",
+      "id": "ef5a47989e71",
+      "priority": 1,
+      "group": "14c35a6e70e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "oak",
+      "meaningInSourceLanguage": "橡树",
+      "id": "27d158e15b8d",
+      "priority": 0,
+      "group": "e16ceb4772e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "oak",
+      "meaning": "橡树",
+      "audio": "41ea6af908bd1a4bfb9d2642f390fa11615689dbbbffa6402c8e269a001f1c5f",
+      "id": "6050fb58af6a",
+      "priority": 1,
+      "group": "e16ceb4772e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pine",
+      "meaningInSourceLanguage": "松树",
+      "id": "103a1ea44a77",
+      "priority": 0,
+      "group": "c57a3939eca7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pine",
+      "meaning": "松树",
+      "audio": "5a63cc94ace96627b2ef38be4949c987b676bbaddd2e4e273be3d4b027b19ee3",
+      "id": "17c61205f5c1",
+      "priority": 1,
+      "group": "c57a3939eca7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "maple",
+      "meaningInSourceLanguage": "枫树",
+      "id": "208f56fcde60",
+      "priority": 0,
+      "group": "5672e95fd025"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "maple",
+      "meaning": "枫树",
+      "audio": "a9a5600a1f10abd5543ad2b7d7ae842755fc3c2239c48b3e5c0fbc9ce1f4a8df",
+      "id": "2d4aee836dbc",
+      "priority": 1,
+      "group": "5672e95fd025"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "birch",
+      "meaningInSourceLanguage": "桦树",
+      "id": "8c16ff9829f0",
+      "priority": 0,
+      "group": "4163ba6f8841"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "birch",
+      "meaning": "桦树",
+      "audio": "88f1036d7b30a0f9160b72f37cd823b2fc382ca03a3df2927da1092aa6e1ad1b",
+      "id": "33bf2895b40d",
+      "priority": 1,
+      "group": "4163ba6f8841"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "willow",
+      "meaningInSourceLanguage": "柳树",
+      "id": "8fb9796d1b9d",
+      "priority": 0,
+      "group": "def45618e9b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "willow",
+      "meaning": "柳树",
+      "audio": "1ea07645a0e102716886d50345649d72f09fe468223d7c1dd9679b6fb38409cc",
+      "id": "c535e6d3a8cd",
+      "priority": 1,
+      "group": "def45618e9b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "palm",
+      "meaningInSourceLanguage": "棕榈树",
+      "id": "ad147fdb0085",
+      "priority": 0,
+      "group": "6b81236ace2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "palm",
+      "meaning": "棕榈树",
+      "audio": "145360807bc63b393a07113db0a4ea534b405cc4f001a4c8938735efe23e7852",
+      "id": "09470ef3b307",
+      "priority": 1,
+      "group": "6b81236ace2b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bamboo",
+      "meaningInSourceLanguage": "竹子",
+      "id": "86713bc844d5",
+      "priority": 0,
+      "group": "b1c55c209c1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bamboo",
+      "meaning": "竹子",
+      "audio": "f2c90c2e33a40c9711dd7eee8bf27c8ae6f21e9a2233e2ecec88ac9b8ba4b630",
+      "id": "f66916b4561f",
+      "priority": 1,
+      "group": "b1c55c209c1a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cactus",
+      "meaningInSourceLanguage": "仙人掌",
+      "id": "8e529e40a84c",
+      "priority": 0,
+      "group": "d24e81a52163"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cactus",
+      "meaning": "仙人掌",
+      "audio": "93261f4d2f448b79f18ebd40317d78fd4bcb621b37228985fa0af9565718e2ae",
+      "id": "da6fd1ac2869",
+      "priority": 1,
+      "group": "d24e81a52163"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fern",
+      "meaningInSourceLanguage": "蕨类植物",
+      "id": "9a24388d3738",
+      "priority": 0,
+      "group": "3026a588cc13"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fern",
+      "meaning": "蕨类植物",
+      "audio": "3c94b2f8bc4916f56a2ed901112f5fcd014ef07154fbf9a004d3c3e1c3de1155",
+      "id": "cb4586293e81",
+      "priority": 1,
+      "group": "3026a588cc13"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "moss",
+      "meaningInSourceLanguage": "苔藓",
+      "id": "d5edc0a8ec63",
+      "priority": 0,
+      "group": "b4b3bb0e6cff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "moss",
+      "meaning": "苔藓",
+      "audio": "c4b5e058e25ab33503f2572c0c24b751134e392320a85f15b9e45d9994c7c75c",
+      "id": "936115a5fe3c",
+      "priority": 1,
+      "group": "b4b3bb0e6cff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "algae",
+      "meaningInSourceLanguage": "藻类",
+      "id": "051b6fd5f9ce",
+      "priority": 0,
+      "group": "53e91d81c5e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "algae",
+      "meaning": "藻类",
+      "audio": "12bdbf68d183835b11c82f4d3de9bd7bcd1027e1e34fd173098a217f0118d5e9",
+      "id": "c3056d9a9698",
+      "priority": 1,
+      "group": "53e91d81c5e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fungus",
+      "meaningInSourceLanguage": "真菌",
+      "id": "d77980c39237",
+      "priority": 0,
+      "group": "2b18f37ca369"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fungus",
+      "meaning": "真菌",
+      "audio": "fa5e3980d5504f4d97447229c7cf195a76bd4029991b6c2ffaae6a7ef9453d5b",
+      "id": "caf4d09889bd",
+      "priority": 1,
+      "group": "2b18f37ca369"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mushroom",
+      "meaningInSourceLanguage": "蘑菇",
+      "id": "9fc5207d0e70",
+      "priority": 0,
+      "group": "ce46cae156c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mushroom",
+      "meaning": "蘑菇",
+      "audio": "40acccc6f208108323c6e4a9a75bbb8cf0f448287b4ee0be82dbb8ccfd632e30",
+      "id": "4aaa0d594a62",
+      "priority": 1,
+      "group": "ce46cae156c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mold",
+      "meaningInSourceLanguage": "霉菌",
+      "id": "ac47173f3ff9",
+      "priority": 0,
+      "group": "c119e1c1dbd5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mold",
+      "meaning": "霉菌",
+      "audio": "2c03ee58ecd302a9fbba272c14b5fa49bafcb351474b45d13f091823bf65fe7d",
+      "id": "19fae087d140",
+      "priority": 1,
+      "group": "c119e1c1dbd5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yeast",
+      "meaningInSourceLanguage": "酵母",
+      "id": "e4d3abc1ed74",
+      "priority": 0,
+      "group": "808b81ce803f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yeast",
+      "meaning": "酵母",
+      "audio": "38d19e8655376d6ee3a15ab24b1eada9142e9ab5a88045185a9d4fe9093549be",
+      "id": "0d2a2ea440fb",
+      "priority": 1,
+      "group": "808b81ce803f"
+    }
+  ]
+}

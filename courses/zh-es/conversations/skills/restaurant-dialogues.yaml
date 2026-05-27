@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - la reserva: 预约
     - el camarero: 服务员
+    - pedir: 点餐
+    - la cuenta: 账单
+    - delicioso: 美味
     - una mesa para dos: 两人桌
     - el plato del día: 今日特价
-    - la recomendación: 推荐
+    - la reserva: 预约
     - Quisiera: 我想要
     - el menú: 菜单
-    - pedir: 点餐
-    - delicioso: 美味
-    - la cuenta: 账单
+    - la recomendación: 推荐
   Chinese:
-    - 我想要: Quisiera
-    - 账单: la cuenta
-    - 预约: la reserva
-    - 两人桌: una mesa para dos
-    - 点餐: pedir
-    - 美味: delicioso
     - 今日特价: el plato del día
-    - 菜单: el menú
     - 推荐: la recomendación
+    - 点餐: pedir
     - 服务员: el camarero
+    - 两人桌: una mesa para dos
+    - 美味: delicioso
+    - 预约: la reserva
+    - 我想要: Quisiera
+    - 菜单: el menú
+    - 账单: la cuenta

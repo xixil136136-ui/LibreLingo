@@ -1,0 +1,465 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ho bisogno di un dottore.",
+      "meaningInSourceLanguage": "我需要医生。",
+      "id": "c84a29b3b7f4",
+      "priority": 0,
+      "group": "13336855a1f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ho bisogno di un dottore.",
+      "meaning": "我需要医生。",
+      "audio": "b08e4b93c2da244084d65e0f08d3ec1b643e637d23a4d5b1620b2ffb5c901c64",
+      "id": "68962b4c1d61",
+      "priority": 1,
+      "group": "13336855a1f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Dov'è l'ospedale?",
+      "meaningInSourceLanguage": "医院在哪里？",
+      "id": "a309a34fcbd5",
+      "priority": 0,
+      "group": "bbb1af3decc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Dov'è l'ospedale?",
+      "meaning": "医院在哪里？",
+      "audio": "878bced9adb567904f9db73188ac4a8a57f000710863c8e2d296816d24dd53b9",
+      "id": "16c063b302ca",
+      "priority": 1,
+      "group": "bbb1af3decc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ho mal di testa.",
+      "meaningInSourceLanguage": "我头痛。",
+      "id": "8dfaa6b334b7",
+      "priority": 0,
+      "group": "9013121230b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ho mal di testa.",
+      "meaning": "我头痛。",
+      "audio": "d392b89d11520aac9892fe2a333b8fe9acd4f7d3d4f0095d39061dabe8f5120c",
+      "id": "12779cba58fb",
+      "priority": 1,
+      "group": "9013121230b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ho la febbre.",
+      "meaningInSourceLanguage": "我发烧了。",
+      "id": "944eb370e101",
+      "priority": 0,
+      "group": "297f0ca73f57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ho la febbre.",
+      "meaning": "我发烧了。",
+      "audio": "36f135a855552dee8d0e3a72e4164238cf4cd386c3c62c111b0b3e0f60560f4e",
+      "id": "6cebac7ca456",
+      "priority": 1,
+      "group": "297f0ca73f57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Prendi questa medicina.",
+      "meaningInSourceLanguage": "吃这个药。",
+      "id": "2678e8636a6b",
+      "priority": 0,
+      "group": "9175b0e59c6d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Prendi questa medicina.",
+      "meaning": "吃这个药。",
+      "audio": "b2cae92e5acb87bc1c1319711bd79af816865ac2b46b224de3e44ee8a03875f0",
+      "id": "e9d22975b419",
+      "priority": 1,
+      "group": "9175b0e59c6d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hai bisogno di riposo.",
+      "meaningInSourceLanguage": "你需要休息。",
+      "id": "055164765354",
+      "priority": 0,
+      "group": "5c3f1e9c245d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hai bisogno di riposo.",
+      "meaning": "你需要休息。",
+      "audio": "b55a14c99ae4d424ce4a67068e1576b4fa46d38d8df4b48eb35a91e373ff0676",
+      "id": "2c35496cf9fb",
+      "priority": 1,
+      "group": "5c3f1e9c245d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ho mal di stomaco.",
+      "meaningInSourceLanguage": "我肚子痛。",
+      "id": "c32b7c88310b",
+      "priority": 0,
+      "group": "6b59c2e23474"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ho mal di stomaco.",
+      "meaning": "我肚子痛。",
+      "audio": "2c745e800f9765948b29a3a6ffb6b15fe8da3a4efa0648535a1089381f945e08",
+      "id": "8604e5844a05",
+      "priority": 1,
+      "group": "6b59c2e23474"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dottore",
+      "meaningInSourceLanguage": "医生",
+      "id": "8c3cdac44a01",
+      "priority": 0,
+      "group": "0bc4a3e72c77"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dottore"
+      ],
+      "phrase": [
+        {
+          "word": "医生",
+          "definition": "dottore"
+        }
+      ],
+      "id": "83a4a637ca2c",
+      "priority": 1,
+      "group": "0bc4a3e72c77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dottore",
+      "meaning": "医生",
+      "audio": "c276d714550e50f05cfb1ceb9c746dec2b8b032b3556bef2e00b4bf5d54468c4",
+      "id": "e07960d4bf53",
+      "priority": 1,
+      "group": "0bc4a3e72c77"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ospedale",
+      "meaningInSourceLanguage": "医院",
+      "id": "1d19f23e7909",
+      "priority": 0,
+      "group": "15837f122e34"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ospedale"
+      ],
+      "phrase": [
+        {
+          "word": "医院",
+          "definition": "ospedale"
+        }
+      ],
+      "id": "49990438f880",
+      "priority": 1,
+      "group": "15837f122e34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ospedale",
+      "meaning": "医院",
+      "audio": "5ce9e3487dde94bd9344c2663f5e3ce659cb3cb4e3a5aca09bdf815a1df207be",
+      "id": "20eb4feeacc6",
+      "priority": 1,
+      "group": "15837f122e34"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "medicina",
+      "meaningInSourceLanguage": "药",
+      "id": "dd86d72fcf99",
+      "priority": 0,
+      "group": "7212fc45191c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "medicina"
+      ],
+      "phrase": [
+        {
+          "word": "药",
+          "definition": "medicina"
+        }
+      ],
+      "id": "75e7b4b5675e",
+      "priority": 1,
+      "group": "7212fc45191c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "medicina",
+      "meaning": "药",
+      "audio": "2cac6f9ed8604628469cf1b47b37ba152cc8236c61e0719963b3e51b6876a446",
+      "id": "a5bf7fa84bb1",
+      "priority": 1,
+      "group": "7212fc45191c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "mal di testa",
+      "meaningInSourceLanguage": "头痛",
+      "id": "d35b91a85b75",
+      "priority": 0,
+      "group": "d60aed0b7768"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "mal di testa"
+      ],
+      "phrase": [
+        {
+          "word": "头痛",
+          "definition": "mal di testa"
+        }
+      ],
+      "id": "d7abff8f5589",
+      "priority": 1,
+      "group": "d60aed0b7768"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mal di testa",
+      "meaning": "头痛",
+      "audio": "69a44682e21da9a53ca2a639740bd9d61e09fc8fcdf276f58c7f53cbb6780f33",
+      "id": "370ede126ca7",
+      "priority": 1,
+      "group": "d60aed0b7768"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "febbre",
+      "meaningInSourceLanguage": "发烧",
+      "id": "4134195181af",
+      "priority": 0,
+      "group": "97c0cfd84a32"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "febbre"
+      ],
+      "phrase": [
+        {
+          "word": "发烧",
+          "definition": "febbre"
+        }
+      ],
+      "id": "86ef7448995b",
+      "priority": 1,
+      "group": "97c0cfd84a32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "febbre",
+      "meaning": "发烧",
+      "audio": "c5bbbacb6d6bf4adfe98ac14286b5a006879067717420ace4949f1c27e59de4c",
+      "id": "cc9c5a51705b",
+      "priority": 1,
+      "group": "97c0cfd84a32"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tosse",
+      "meaningInSourceLanguage": "咳嗽",
+      "id": "a3213137e480",
+      "priority": 0,
+      "group": "63b78ea553a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tosse"
+      ],
+      "phrase": [
+        {
+          "word": "咳嗽",
+          "definition": "tosse"
+        }
+      ],
+      "id": "3a0479944e6d",
+      "priority": 1,
+      "group": "63b78ea553a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tosse",
+      "meaning": "咳嗽",
+      "audio": "f745c12985c82fd6f0e6ab4014bc183ffb92e6e3b076d006fc9e5e1a86fb1307",
+      "id": "ccfe48a8b97a",
+      "priority": 1,
+      "group": "63b78ea553a0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dolore",
+      "meaningInSourceLanguage": "疼痛",
+      "id": "8feb1b6bd7bc",
+      "priority": 0,
+      "group": "d5498c17dbc4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dolore"
+      ],
+      "phrase": [
+        {
+          "word": "疼痛",
+          "definition": "dolore"
+        }
+      ],
+      "id": "5d4d1bd3e1a8",
+      "priority": 1,
+      "group": "d5498c17dbc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dolore",
+      "meaning": "疼痛",
+      "audio": "12f1bb871b28566bac686a14f5122d31b00f5c4878d82cc3ca6dd3c7adc9a245",
+      "id": "4bf445208cd7",
+      "priority": 1,
+      "group": "d5498c17dbc4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "farmacia",
+      "meaningInSourceLanguage": "药店",
+      "id": "3ae7a9a5fdfd",
+      "priority": 0,
+      "group": "8a9deaf12a48"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "farmacia"
+      ],
+      "phrase": [
+        {
+          "word": "药店",
+          "definition": "farmacia"
+        }
+      ],
+      "id": "e15ba8886419",
+      "priority": 1,
+      "group": "8a9deaf12a48"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "farmacia",
+      "meaning": "药店",
+      "audio": "2013d518ce955f7333495b22669b0979da48876886ccc2dd2451e277f1586c9f",
+      "id": "ef4e7b1effe0",
+      "priority": 1,
+      "group": "8a9deaf12a48"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "riposo",
+      "meaningInSourceLanguage": "休息",
+      "id": "559ac7e925d4",
+      "priority": 0,
+      "group": "c7c3178de533"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "riposo"
+      ],
+      "phrase": [
+        {
+          "word": "休息",
+          "definition": "riposo"
+        }
+      ],
+      "id": "2d531e278ad6",
+      "priority": 1,
+      "group": "c7c3178de533"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "riposo",
+      "meaning": "休息",
+      "audio": "63b339cd98e782d4cce948db5b5bc73253fcaeacb7bf88b33db90f924ad14696",
+      "id": "b88bcf3f15d1",
+      "priority": 1,
+      "group": "c7c3178de533"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "mal di stomaco",
+      "meaningInSourceLanguage": "肚子痛",
+      "id": "bcb36cb238c8",
+      "priority": 0,
+      "group": "949e7355cf2c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "mal di stomaco"
+      ],
+      "phrase": [
+        {
+          "word": "肚子痛",
+          "definition": "mal di stomaco"
+        }
+      ],
+      "id": "61b33a4af787",
+      "priority": 1,
+      "group": "949e7355cf2c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mal di stomaco",
+      "meaning": "肚子痛",
+      "audio": "773b1d128338c3fe9a5bd33e5adffaf9a79ca89fb2b5fcb587ec0a5cb6c1339c",
+      "id": "d3e245fcbe66",
+      "priority": 1,
+      "group": "949e7355cf2c"
+    }
+  ]
+}

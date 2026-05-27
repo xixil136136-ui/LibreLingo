@@ -1,0 +1,1094 @@
+{
+  "id": "6703a24b4be0",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "school",
+      "meaningInSourceLanguage": "学校",
+      "id": "7325374414e3",
+      "priority": 0,
+      "group": "e9e8f6771418"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "school",
+      "meaning": "学校",
+      "audio": "a3cfcde63ca148d5b353408122f18f48",
+      "id": "779b6b92b7bc",
+      "priority": 1,
+      "group": "e9e8f6771418"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "university",
+      "meaningInSourceLanguage": "大学",
+      "id": "bc364a9be8dd",
+      "priority": 0,
+      "group": "8c91b87cd527"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "university",
+      "meaning": "大学",
+      "audio": "0cbadf10db2541aebe6cf069983df745",
+      "id": "44902d4397af",
+      "priority": 1,
+      "group": "8c91b87cd527"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "college",
+      "meaningInSourceLanguage": "学院",
+      "id": "cf5f87d7a1f2",
+      "priority": 0,
+      "group": "7f694b8af1a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "college",
+      "meaning": "学院",
+      "audio": "cc3c5c01bcc74352b44e203ad583ecae",
+      "id": "67a201fb0227",
+      "priority": 1,
+      "group": "7f694b8af1a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "kindergarten",
+      "meaningInSourceLanguage": "幼儿园",
+      "id": "984c3bc6e7c0",
+      "priority": 0,
+      "group": "ea91bb65e52d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kindergarten",
+      "meaning": "幼儿园",
+      "audio": "a72698f5f8754f83b2cb7765256fb78c",
+      "id": "f51faa4f8199",
+      "priority": 1,
+      "group": "ea91bb65e52d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "class",
+      "meaningInSourceLanguage": "班级",
+      "id": "c27e2b6bfe6f",
+      "priority": 0,
+      "group": "2681f212518c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "class",
+      "meaning": "班级",
+      "audio": "5dc8967dd8884f488c447ecb5e1e5b18",
+      "id": "7e0e113a17af",
+      "priority": 1,
+      "group": "2681f212518c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "classroom",
+      "meaningInSourceLanguage": "教室",
+      "id": "745cd59239d7",
+      "priority": 0,
+      "group": "985ea5586139"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "classroom",
+      "meaning": "教室",
+      "audio": "1cfae6ce92164c5092f13cefd651a8fb",
+      "id": "2ed3e22fab03",
+      "priority": 1,
+      "group": "985ea5586139"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "teacher",
+      "meaningInSourceLanguage": "老师",
+      "id": "6653d9f3c529",
+      "priority": 0,
+      "group": "6dc5a6d488ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teacher",
+      "meaning": "老师",
+      "audio": "770256513dc24e128d17d48b7ccb8ab5",
+      "id": "5c64be358c6b",
+      "priority": 1,
+      "group": "6dc5a6d488ed"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "student",
+      "meaningInSourceLanguage": "学生",
+      "id": "fd2ade11e7c2",
+      "priority": 0,
+      "group": "157af69deea3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "student",
+      "meaning": "学生",
+      "audio": "945e4577cdfc4af9bf1dbc76b761b12e",
+      "id": "69c88b9bb6f3",
+      "priority": 1,
+      "group": "157af69deea3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "professor",
+      "meaningInSourceLanguage": "教授",
+      "id": "7a9b5b4e34d5",
+      "priority": 0,
+      "group": "a50328193cab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "professor",
+      "meaning": "教授",
+      "audio": "6ee55d8f749c4364b3ec9ed68e4b814f",
+      "id": "91b138b9129f",
+      "priority": 1,
+      "group": "a50328193cab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lecturer",
+      "meaningInSourceLanguage": "讲师",
+      "id": "055dab6b9cbe",
+      "priority": 0,
+      "group": "985dc7dda972"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lecturer",
+      "meaning": "讲师",
+      "audio": "76658a36e4444e9cb04db1398699195e",
+      "id": "340a5c5eb16c",
+      "priority": 1,
+      "group": "985dc7dda972"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "principal",
+      "meaningInSourceLanguage": "校长",
+      "id": "6a2104000a26",
+      "priority": 0,
+      "group": "440c9a75a075"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "principal",
+      "meaning": "校长",
+      "audio": "6fa856100d854d57a60d9b3c16365b8a",
+      "id": "5ca3f33e7e0b",
+      "priority": 1,
+      "group": "440c9a75a075"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dean",
+      "meaningInSourceLanguage": "院长",
+      "id": "047768b0b6fe",
+      "priority": 0,
+      "group": "b88987997224"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dean",
+      "meaning": "院长",
+      "audio": "f44d148df3564da88fcfa9e90b0d6fa2",
+      "id": "6d802f5c0066",
+      "priority": 1,
+      "group": "b88987997224"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tutor",
+      "meaningInSourceLanguage": "家教",
+      "id": "a7449e765536",
+      "priority": 0,
+      "group": "0f4efe34fdc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tutor",
+      "meaning": "家教",
+      "audio": "1591030b1d884dafb712f84a2da57d16",
+      "id": "ae618d9cbfcf",
+      "priority": 1,
+      "group": "0f4efe34fdc5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scholar",
+      "meaningInSourceLanguage": "学者",
+      "id": "2f67b2485e7f",
+      "priority": 0,
+      "group": "35ccd794c99e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scholar",
+      "meaning": "学者",
+      "audio": "986b2192506248599e5c41a63b80b809",
+      "id": "4c88a3068f00",
+      "priority": 1,
+      "group": "35ccd794c99e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "graduate",
+      "meaningInSourceLanguage": "毕业生",
+      "id": "cddc2c649ebb",
+      "priority": 0,
+      "group": "7b15b0c2cfd2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "graduate",
+      "meaning": "毕业生",
+      "audio": "dea1078cafb342cdb0295edc119e5530",
+      "id": "77fe325cb5f3",
+      "priority": 1,
+      "group": "7b15b0c2cfd2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "undergraduate",
+      "meaningInSourceLanguage": "本科生",
+      "id": "d73e417d2ecc",
+      "priority": 0,
+      "group": "ca3d44ec32b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "undergraduate",
+      "meaning": "本科生",
+      "audio": "f45ce9a046b14392be23fa29f4947229",
+      "id": "019da99709c9",
+      "priority": 1,
+      "group": "ca3d44ec32b9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "postgraduate",
+      "meaningInSourceLanguage": "研究生",
+      "id": "2f625267b76f",
+      "priority": 0,
+      "group": "69e377623bfe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "postgraduate",
+      "meaning": "研究生",
+      "audio": "4a070b616e5d4be996698eb9a22aacba",
+      "id": "d8289d66e253",
+      "priority": 1,
+      "group": "69e377623bfe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "doctorate",
+      "meaningInSourceLanguage": "博士学位",
+      "id": "3d921a01bd2d",
+      "priority": 0,
+      "group": "c1708cc18701"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doctorate",
+      "meaning": "博士学位",
+      "audio": "3fafa56c6ff44c588b171a5adde0641b",
+      "id": "aed35cc55685",
+      "priority": 1,
+      "group": "c1708cc18701"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "master",
+      "meaningInSourceLanguage": "硕士",
+      "id": "9c39eaaf6f0d",
+      "priority": 0,
+      "group": "3eb1dd3d6c20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "master",
+      "meaning": "硕士",
+      "audio": "0387f2e5e836478eae372c652f4173a2",
+      "id": "6cfab29ff379",
+      "priority": 1,
+      "group": "3eb1dd3d6c20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bachelor",
+      "meaningInSourceLanguage": "学士",
+      "id": "03e114dd804c",
+      "priority": 0,
+      "group": "6558134d6268"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bachelor",
+      "meaning": "学士",
+      "audio": "1cda2ee0dca74838b02ffb4ca18cb94c",
+      "id": "81b1316a50b0",
+      "priority": 1,
+      "group": "6558134d6268"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diploma",
+      "meaningInSourceLanguage": "文凭",
+      "id": "fb500c83350f",
+      "priority": 0,
+      "group": "b9954f564a51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diploma",
+      "meaning": "文凭",
+      "audio": "dac84c591aa649d989c32aa4bb37ae1f",
+      "id": "779bc879c0ce",
+      "priority": 1,
+      "group": "b9954f564a51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "certificate",
+      "meaningInSourceLanguage": "证书",
+      "id": "46fc7d39d368",
+      "priority": 0,
+      "group": "38201b238f44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "certificate",
+      "meaning": "证书",
+      "audio": "81482a2055dd485082247e21416d7bd4",
+      "id": "2caffd32fdf0",
+      "priority": 1,
+      "group": "38201b238f44"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "subject",
+      "meaningInSourceLanguage": "科目",
+      "id": "202d1c020d7d",
+      "priority": 0,
+      "group": "211e745f7dd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "subject",
+      "meaning": "科目",
+      "audio": "d11ee8ff01b44e0d917697b3f086688d",
+      "id": "b91c45f1add5",
+      "priority": 1,
+      "group": "211e745f7dd4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mathematics",
+      "meaningInSourceLanguage": "数学",
+      "id": "df93face0a06",
+      "priority": 0,
+      "group": "4d36ed165074"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mathematics",
+      "meaning": "数学",
+      "audio": "bdba8359dc1540ebae6241f3f27ca38e",
+      "id": "07addefb2bd8",
+      "priority": 1,
+      "group": "4d36ed165074"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "physics",
+      "meaningInSourceLanguage": "物理",
+      "id": "19bbda775d79",
+      "priority": 0,
+      "group": "07bfc6d2796d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "physics",
+      "meaning": "物理",
+      "audio": "2046f77dd6e84616b9937f37cab0c150",
+      "id": "714715c9984d",
+      "priority": 1,
+      "group": "07bfc6d2796d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chemistry",
+      "meaningInSourceLanguage": "化学",
+      "id": "b34546a3291d",
+      "priority": 0,
+      "group": "387ed962c774"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chemistry",
+      "meaning": "化学",
+      "audio": "14fbc7b8661c46a2a0ebf1886963ffd7",
+      "id": "dc2a5ba56565",
+      "priority": 1,
+      "group": "387ed962c774"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "biology",
+      "meaningInSourceLanguage": "生物",
+      "id": "9344899d6a1d",
+      "priority": 0,
+      "group": "d6c069d6e24c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "biology",
+      "meaning": "生物",
+      "audio": "508f4f313f0845669d90f359c07594f0",
+      "id": "b92982134cf5",
+      "priority": 1,
+      "group": "d6c069d6e24c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "history",
+      "meaningInSourceLanguage": "历史",
+      "id": "336382344224",
+      "priority": 0,
+      "group": "a3a717f0666a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "history",
+      "meaning": "历史",
+      "audio": "c06719a776a44fd6b377abdb767ca5e9",
+      "id": "5f6ef7f978ba",
+      "priority": 1,
+      "group": "a3a717f0666a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "geography",
+      "meaningInSourceLanguage": "地理",
+      "id": "17e9be035335",
+      "priority": 0,
+      "group": "3025d4e79fd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "geography",
+      "meaning": "地理",
+      "audio": "7ac33b33d8d44f539c561b6be65c3048",
+      "id": "8f28d609cde8",
+      "priority": 1,
+      "group": "3025d4e79fd8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "literature",
+      "meaningInSourceLanguage": "文学",
+      "id": "ac1048796bfe",
+      "priority": 0,
+      "group": "e7ad6ed1226a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "literature",
+      "meaning": "文学",
+      "audio": "632fe87a44684624a6e2335eb9b2060b",
+      "id": "b36ac8e73788",
+      "priority": 1,
+      "group": "e7ad6ed1226a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "philosophy",
+      "meaningInSourceLanguage": "哲学",
+      "id": "f004239d916c",
+      "priority": 0,
+      "group": "99bfd62498da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "philosophy",
+      "meaning": "哲学",
+      "audio": "63d42babdb8642a2981fb1805024b3c4",
+      "id": "ac2f2e555fb1",
+      "priority": 1,
+      "group": "99bfd62498da"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "psychology",
+      "meaningInSourceLanguage": "心理学",
+      "id": "82805dc70426",
+      "priority": 0,
+      "group": "d3a96b0af544"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "psychology",
+      "meaning": "心理学",
+      "audio": "f40969637ab2440ab8e324e4222a0f1e",
+      "id": "d2aa9e5ea8db",
+      "priority": 1,
+      "group": "d3a96b0af544"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sociology",
+      "meaningInSourceLanguage": "社会学",
+      "id": "780f51fae70d",
+      "priority": 0,
+      "group": "5959ea12f87a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sociology",
+      "meaning": "社会学",
+      "audio": "8a1bf50a51444246a34853acd2745ced",
+      "id": "1ad917ffbd2e",
+      "priority": 1,
+      "group": "5959ea12f87a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "economics",
+      "meaningInSourceLanguage": "经济学",
+      "id": "f6af8db94ff2",
+      "priority": 0,
+      "group": "117c38ed3af9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "economics",
+      "meaning": "经济学",
+      "audio": "d1c7f5461c084b8b9f3bd3a3f853e97d",
+      "id": "d2a219f646c1",
+      "priority": 1,
+      "group": "117c38ed3af9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "political science",
+      "meaningInSourceLanguage": "政治学",
+      "id": "e0d3722ef25f",
+      "priority": 0,
+      "group": "dd6f0de3514c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "political science",
+      "meaning": "政治学",
+      "audio": "52636a0cc3e940759eab8922e3ba7674",
+      "id": "1ca1b7ccfd08",
+      "priority": 1,
+      "group": "dd6f0de3514c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "engineering",
+      "meaningInSourceLanguage": "工程学",
+      "id": "41bbfac27d95",
+      "priority": 0,
+      "group": "cd972a7272a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "engineering",
+      "meaning": "工程学",
+      "audio": "c32c5edec97a4a699b0cebbb94c3e9e4",
+      "id": "531b55ca4e15",
+      "priority": 1,
+      "group": "cd972a7272a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "computer science",
+      "meaningInSourceLanguage": "计算机科学",
+      "id": "3c4738a736fc",
+      "priority": 0,
+      "group": "54695fa19616"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "computer science",
+      "meaning": "计算机科学",
+      "audio": "abfd5946ead84c3aaf2f95d5ad6b13dd",
+      "id": "713f871c61a6",
+      "priority": 1,
+      "group": "54695fa19616"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "medicine",
+      "meaningInSourceLanguage": "医学",
+      "id": "29f147842253",
+      "priority": 0,
+      "group": "9a2750716183"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "medicine",
+      "meaning": "医学",
+      "audio": "eda22578c94544508a1779b269a40ae7",
+      "id": "57a6d885cb18",
+      "priority": 1,
+      "group": "9a2750716183"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "law",
+      "meaningInSourceLanguage": "法律",
+      "id": "a927d7ebb723",
+      "priority": 0,
+      "group": "f846a5a0ef60"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "law",
+      "meaning": "法律",
+      "audio": "9a5e843dc845430eb747271f80738f65",
+      "id": "f2d41916cee8",
+      "priority": 1,
+      "group": "f846a5a0ef60"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "architecture",
+      "meaningInSourceLanguage": "建筑学",
+      "id": "35c84f560085",
+      "priority": 0,
+      "group": "5b12bc363f01"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "architecture",
+      "meaning": "建筑学",
+      "audio": "66de90a5a8924769a90df197766b3df5",
+      "id": "7c4ea2136e9a",
+      "priority": 1,
+      "group": "5b12bc363f01"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "business",
+      "meaningInSourceLanguage": "商学",
+      "id": "9d5b65439a6d",
+      "priority": 0,
+      "group": "f1ee57f19f9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "business",
+      "meaning": "商学",
+      "audio": "c34a3be75cee448a859df287cae594ae",
+      "id": "816a66b918fd",
+      "priority": 1,
+      "group": "f1ee57f19f9b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "accounting",
+      "meaningInSourceLanguage": "会计学",
+      "id": "c414f459b133",
+      "priority": 0,
+      "group": "177346e82214"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "accounting",
+      "meaning": "会计学",
+      "audio": "8e3109c066094cd88d35615cadef7197",
+      "id": "efd0e1c526af",
+      "priority": 1,
+      "group": "177346e82214"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marketing",
+      "meaningInSourceLanguage": "市场营销",
+      "id": "bda01eac1089",
+      "priority": 0,
+      "group": "95469d7030c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marketing",
+      "meaning": "市场营销",
+      "audio": "0eb467a6a499454299e351c20b164441",
+      "id": "bec7f2fb2d60",
+      "priority": 1,
+      "group": "95469d7030c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "linguistics",
+      "meaningInSourceLanguage": "语言学",
+      "id": "8e92f7987d7c",
+      "priority": 0,
+      "group": "8fcba545c38e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "linguistics",
+      "meaning": "语言学",
+      "audio": "42ee0d4789ee4c76b43a52534e3a7b50",
+      "id": "a6d78a48e681",
+      "priority": 1,
+      "group": "8fcba545c38e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "anthropology",
+      "meaningInSourceLanguage": "人类学",
+      "id": "33938eb92239",
+      "priority": 0,
+      "group": "cec84ec59f27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "anthropology",
+      "meaning": "人类学",
+      "audio": "64fb9c488589458e88d23705cfaabd0a",
+      "id": "163c3278e035",
+      "priority": 1,
+      "group": "cec84ec59f27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exam",
+      "meaningInSourceLanguage": "考试",
+      "id": "805b254f41f1",
+      "priority": 0,
+      "group": "0dcbb45f30e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exam",
+      "meaning": "考试",
+      "audio": "3f08a70f75a444ad92123753fcfb368c",
+      "id": "03fe8663c450",
+      "priority": 1,
+      "group": "0dcbb45f30e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "test",
+      "meaningInSourceLanguage": "测验",
+      "id": "a4b759ec1318",
+      "priority": 0,
+      "group": "6903eb46d16a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "test",
+      "meaning": "测验",
+      "audio": "b541de70c7624c6394c493dddf6e324b",
+      "id": "8f69fbf9c1c0",
+      "priority": 1,
+      "group": "6903eb46d16a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quiz",
+      "meaningInSourceLanguage": "小测验",
+      "id": "a2e4f1f340a0",
+      "priority": 0,
+      "group": "5b4d81c45749"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quiz",
+      "meaning": "小测验",
+      "audio": "e5bbc31666c44c0089935a8f03df6ffd",
+      "id": "e899bfbfdbbb",
+      "priority": 1,
+      "group": "5b4d81c45749"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "homework",
+      "meaningInSourceLanguage": "作业",
+      "id": "266f981be285",
+      "priority": 0,
+      "group": "8ea6515e31b3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "homework",
+      "meaning": "作业",
+      "audio": "f1d3c8b851b8435486ddb2ba3486aa64",
+      "id": "a2a2f542e5d1",
+      "priority": 1,
+      "group": "8ea6515e31b3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "assignment",
+      "meaningInSourceLanguage": "作业",
+      "id": "baa75aeea41f",
+      "priority": 0,
+      "group": "3b9233856636"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "assignment",
+      "meaning": "作业",
+      "audio": "e21e589a28e34ec5a0d26442bff73be9",
+      "id": "f303df1ab31f",
+      "priority": 1,
+      "group": "3b9233856636"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "project",
+      "meaningInSourceLanguage": "项目",
+      "id": "93776fb0b912",
+      "priority": 0,
+      "group": "0254a0b8e162"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "project",
+      "meaning": "项目",
+      "audio": "1484d63178d14939b058e36df516b5af",
+      "id": "27d0880f5a6c",
+      "priority": 1,
+      "group": "0254a0b8e162"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "research",
+      "meaningInSourceLanguage": "研究",
+      "id": "d4f4b1b9be19",
+      "priority": 0,
+      "group": "d711fa226ac3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "research",
+      "meaning": "研究",
+      "audio": "62fc11524d3a40efa11fbe9aeb353930",
+      "id": "ad52f58a8477",
+      "priority": 1,
+      "group": "d711fa226ac3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paper",
+      "meaningInSourceLanguage": "论文",
+      "id": "99237e03dfe5",
+      "priority": 0,
+      "group": "024943ee8d44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paper",
+      "meaning": "论文",
+      "audio": "63a1a20c17c34c33927f670c3340de65",
+      "id": "5da023628f8d",
+      "priority": 1,
+      "group": "024943ee8d44"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "thesis",
+      "meaningInSourceLanguage": "论文",
+      "id": "4d4e144326b0",
+      "priority": 0,
+      "group": "f8249d5fcb31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "thesis",
+      "meaning": "论文",
+      "audio": "83d556a4a4494998b656d64b40210b32",
+      "id": "ee0cb51b2ab9",
+      "priority": 1,
+      "group": "f8249d5fcb31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dissertation",
+      "meaningInSourceLanguage": "博士论文",
+      "id": "9e5ce7989d70",
+      "priority": 0,
+      "group": "60d255776c63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dissertation",
+      "meaning": "博士论文",
+      "audio": "5d92a83d5bbe4878a30117e9ca9cffc9",
+      "id": "f38f37a7bbda",
+      "priority": 1,
+      "group": "60d255776c63"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "essay",
+      "meaningInSourceLanguage": "文章",
+      "id": "d8f350e0e603",
+      "priority": 0,
+      "group": "f38ee0072538"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "essay",
+      "meaning": "文章",
+      "audio": "e5da60b5731e44df87ea518be8905da4",
+      "id": "a383e6c75697",
+      "priority": 1,
+      "group": "f38ee0072538"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "report",
+      "meaningInSourceLanguage": "报告",
+      "id": "e87287c26203",
+      "priority": 0,
+      "group": "418d800de8f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "report",
+      "meaning": "报告",
+      "audio": "e34769b47c5041a1a094afa42f73e771",
+      "id": "0117635d18a9",
+      "priority": 1,
+      "group": "418d800de8f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "presentation",
+      "meaningInSourceLanguage": "演示",
+      "id": "a761402c441b",
+      "priority": 0,
+      "group": "c9564ee9b76a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "presentation",
+      "meaning": "演示",
+      "audio": "dd71fde0425b43bd96819760e349b100",
+      "id": "d8d856169b74",
+      "priority": 1,
+      "group": "c9564ee9b76a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "seminar",
+      "meaningInSourceLanguage": "研讨会",
+      "id": "f83bc6b605e1",
+      "priority": 0,
+      "group": "d9343dc292c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seminar",
+      "meaning": "研讨会",
+      "audio": "67ce1bb547194d71a181b850f7a94c0b",
+      "id": "f6aa4faaba5f",
+      "priority": 1,
+      "group": "d9343dc292c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lecture",
+      "meaningInSourceLanguage": "讲座",
+      "id": "540063d9a906",
+      "priority": 0,
+      "group": "9adc91f7f923"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lecture",
+      "meaning": "讲座",
+      "audio": "985a4fca546449248a8660e988a6f77d",
+      "id": "9a671cd0ef18",
+      "priority": 1,
+      "group": "9adc91f7f923"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "workshop",
+      "meaningInSourceLanguage": "工作坊",
+      "id": "944b1f3bca46",
+      "priority": 0,
+      "group": "bdf29d322ccd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "workshop",
+      "meaning": "工作坊",
+      "audio": "e96141c7e3094e01ac3a893d702bdb04",
+      "id": "c9e1f5da5f84",
+      "priority": 1,
+      "group": "bdf29d322ccd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tutorial",
+      "meaningInSourceLanguage": "辅导课",
+      "id": "f95a1b14bf0d",
+      "priority": 0,
+      "group": "ea46d2ece529"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tutorial",
+      "meaning": "辅导课",
+      "audio": "b7840f80505e4e1c8dca7575301367b1",
+      "id": "eaa69fd44c9a",
+      "priority": 1,
+      "group": "ea46d2ece529"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lesson",
+      "meaningInSourceLanguage": "课",
+      "id": "de0ef716ca62",
+      "priority": 0,
+      "group": "2a81e5bfd216"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lesson",
+      "meaning": "课",
+      "audio": "b7b9b0e542d548448fd4731eb6c66b50",
+      "id": "28aa5b0a8a96",
+      "priority": 1,
+      "group": "2a81e5bfd216"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "course",
+      "meaningInSourceLanguage": "课程",
+      "id": "a8786af3a30d",
+      "priority": 0,
+      "group": "6f2618299051"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "course",
+      "meaning": "课程",
+      "audio": "be4ea0699dfb4e3d8f71d2022b5bfc69",
+      "id": "953e6df19896",
+      "priority": 1,
+      "group": "6f2618299051"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+Skill:
+  Name: Home
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 家
+    Translation: 房子
+  - Word: ドア
+    Translation: 门
+  - Word: 窓
+    Translation: 窗户
+  - Word: 台所
+    Translation: 厨房
+  - Word: 寝室
+    Translation: 卧室
+  - Word: 庭
+    Translation: 花园
+  - Word: 車庫
+    Translation: 车库
+  - Word: 階段
+    Translation: 楼梯
+  - Word: 庭
+    Translation: 院子
+  - Word: 屋根
+    Translation: 屋顶
+
+Phrases:
+  - Phrase: これは私の家です。
+    Translation: 这是我的房子。
+  - Phrase: ドアを開けてください。
+    Translation: 开门。
+  - Phrase: 台所は広いです。
+    Translation: 厨房很大。
+  - Phrase: 寝室は綺麗です。
+    Translation: 卧室很干净。
+  - Phrase: 庭があります。
+    Translation: 有一个花园。
+  - Phrase: 窓を閉めてください。
+    Translation: 关窗。
+
+Mini-dictionary:
+  Japanese:
+    - 屋根: 屋顶
+    - 庭: 花园
+    - 窓: 窗户
+    - 家: 房子
+    - 台所: 厨房
+    - 階段: 楼梯
+    - 庭: 院子
+    - 車庫: 车库
+    - ドア: 门
+    - 寝室: 卧室
+  Chinese:
+    - 院子: 庭
+    - 卧室: 寝室
+    - 花园: 庭
+    - 楼梯: 階段
+    - 门: ドア
+    - 窗户: 窓
+    - 车库: 車庫
+    - 厨房: 台所
+    - 房子: 家
+    - 屋顶: 屋根

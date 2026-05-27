@@ -1,0 +1,9 @@
+Module:
+  Name: "Daily Life"
+
+Skills:
+  - weather.yaml
+  - time.yaml
+  - family.yaml
+  - home.yaml
+  - health.yaml

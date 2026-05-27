@@ -1,0 +1,873 @@
+{
+  "id": "06d3593c4af3",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "teacher",
+      "meaningInSourceLanguage": "老师",
+      "id": "94a9f7703fae",
+      "priority": 0,
+      "group": "b1b37cc88d83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teacher",
+      "meaning": "老师",
+      "audio": "df74fc2bd4553bc9a06cd2a944013dc2744eb4a1e389d943983e1641a37c3e63",
+      "id": "ecf43a134550",
+      "priority": 1,
+      "group": "b1b37cc88d83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "student",
+      "meaningInSourceLanguage": "学生",
+      "id": "de9024b6e238",
+      "priority": 0,
+      "group": "3e8598ae150e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "student",
+      "meaning": "学生",
+      "audio": "3c4673cf85053af3520246747df680808016c7c76dde77077708b7ae308e3f06",
+      "id": "ae188166fc9c",
+      "priority": 1,
+      "group": "3e8598ae150e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "professor",
+      "meaningInSourceLanguage": "教授",
+      "id": "f5bc301369c1",
+      "priority": 0,
+      "group": "7e8694ca3aa0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "professor",
+      "meaning": "教授",
+      "audio": "561c1b7a8db3c5ad76af5c0790e06996193e6e77baac016527cb365d1ce04cb1",
+      "id": "16c32843bbc3",
+      "priority": 1,
+      "group": "7e8694ca3aa0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "classmate",
+      "meaningInSourceLanguage": "同学",
+      "id": "2349a90a999b",
+      "priority": 0,
+      "group": "564bc5814d76"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "classmate",
+      "meaning": "同学",
+      "audio": "a473c27ca964e574450cc8792f21ed3a644b28c23bf5e8837f15be9598929d4d",
+      "id": "db931a23fffa",
+      "priority": 1,
+      "group": "564bc5814d76"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "principal",
+      "meaningInSourceLanguage": "校长",
+      "id": "5a070952dbd2",
+      "priority": 0,
+      "group": "5ee60965910e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "principal",
+      "meaning": "校长",
+      "audio": "8cdd0bdc4fd6f3b41644f222ec8dd72b404ad2e77bd9f2835aa3d5f26b1734d7",
+      "id": "a59a0e105835",
+      "priority": 1,
+      "group": "5ee60965910e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "headmaster",
+      "meaningInSourceLanguage": "校长",
+      "id": "af467c0efd23",
+      "priority": 0,
+      "group": "61ea56597f66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "headmaster",
+      "meaning": "校长",
+      "audio": "8d3fb8a62fbaa6fcdfc7ee7f8f259af13dc0e7d53953812301dfd41fe7703a3a",
+      "id": "5b278c0bca32",
+      "priority": 1,
+      "group": "61ea56597f66"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "school",
+      "meaningInSourceLanguage": "学校",
+      "id": "8a97f24f48eb",
+      "priority": 0,
+      "group": "a02e66ecf565"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "school",
+      "meaning": "学校",
+      "audio": "b41bb08b7af43a4530d3692facd35ef81de99d9d03d870c52d9e76e415cba26f",
+      "id": "56518ef70e92",
+      "priority": 1,
+      "group": "a02e66ecf565"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "college",
+      "meaningInSourceLanguage": "大学",
+      "id": "98c4f3759ead",
+      "priority": 0,
+      "group": "843eca234f5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "college",
+      "meaning": "大学",
+      "audio": "e06ab6ff01c5e4633e870a5fbc5f114e9350ed2728a300310fd970cc58ebbd08",
+      "id": "3f928927ab97",
+      "priority": 1,
+      "group": "843eca234f5a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "university",
+      "meaningInSourceLanguage": "大学",
+      "id": "45b8ca5a7e21",
+      "priority": 0,
+      "group": "e9d2c6aa7106"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "university",
+      "meaning": "大学",
+      "audio": "5b6607909b560d007d82a5778cb4d08471c2a5660eea5812a7b8e189ad468c27",
+      "id": "2758dbac635b",
+      "priority": 1,
+      "group": "e9d2c6aa7106"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "classroom",
+      "meaningInSourceLanguage": "教室",
+      "id": "21be07e9669c",
+      "priority": 0,
+      "group": "58d3d58c11d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "classroom",
+      "meaning": "教室",
+      "audio": "c5341750d75694bc76266baec9dde7991c76d0f0d544d134ad4414024311c738",
+      "id": "fa4a5187270c",
+      "priority": 1,
+      "group": "58d3d58c11d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "laboratory",
+      "meaningInSourceLanguage": "实验室",
+      "id": "a1e4fb3f5640",
+      "priority": 0,
+      "group": "ea0d2c976b0c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "laboratory",
+      "meaning": "实验室",
+      "audio": "ae53d64660292134a65c3ed69fa61d858f447665c90f322828dd32cdbe95e631",
+      "id": "aa48c620ad04",
+      "priority": 1,
+      "group": "ea0d2c976b0c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "library",
+      "meaningInSourceLanguage": "图书馆",
+      "id": "b0492a1bb9e9",
+      "priority": 0,
+      "group": "bf6ba8e3c9bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "library",
+      "meaning": "图书馆",
+      "audio": "a4e3eed800a6a4201182b43eb02095ac0474ed88b5829c31493bac22f0bd0e40",
+      "id": "5f57dec7b38a",
+      "priority": 1,
+      "group": "bf6ba8e3c9bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cafeteria",
+      "meaningInSourceLanguage": "食堂",
+      "id": "a23fe0b50716",
+      "priority": 0,
+      "group": "37176c9b0765"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cafeteria",
+      "meaning": "食堂",
+      "audio": "c7b444886102c8bd8b87ef9155cf1f23772929cdac1d90af51b2cde08251f8b6",
+      "id": "9f18a3ae75f3",
+      "priority": 1,
+      "group": "37176c9b0765"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dormitory",
+      "meaningInSourceLanguage": "宿舍",
+      "id": "142961ba8946",
+      "priority": 0,
+      "group": "c33dc13e660b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dormitory",
+      "meaning": "宿舍",
+      "audio": "6d31869a9663bf3ada3e76dffcc84908ddee115d0a154127f39244c3a7ce1829",
+      "id": "bcd9cb3de5cb",
+      "priority": 1,
+      "group": "c33dc13e660b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "campus",
+      "meaningInSourceLanguage": "校园",
+      "id": "06e61fd19604",
+      "priority": 0,
+      "group": "4f6378336fdd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "campus",
+      "meaning": "校园",
+      "audio": "f4bad4806fed7fed8a1cba5ef88689828561d397d9579e0d1f353154444837fb",
+      "id": "f8b01e719833",
+      "priority": 1,
+      "group": "4f6378336fdd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blackboard",
+      "meaningInSourceLanguage": "黑板",
+      "id": "a1b3bb69de08",
+      "priority": 0,
+      "group": "eb404969a9e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blackboard",
+      "meaning": "黑板",
+      "audio": "0072f133245843dc3510ccd71dfe86037cdbaafde8ac8abab4c2e5d4635858f3",
+      "id": "6a6d71ab7f1a",
+      "priority": 1,
+      "group": "eb404969a9e7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "whiteboard",
+      "meaningInSourceLanguage": "白板",
+      "id": "74c4283a2d89",
+      "priority": 0,
+      "group": "768bf2926758"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "whiteboard",
+      "meaning": "白板",
+      "audio": "1e2f7f3eafd79b683ddf0f50d15a19d44190e04614c80775fb6d69a0aca02120",
+      "id": "287d0368f5bb",
+      "priority": 1,
+      "group": "768bf2926758"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chalk",
+      "meaningInSourceLanguage": "粉笔",
+      "id": "730dc6660895",
+      "priority": 0,
+      "group": "e01ca935ce1c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chalk",
+      "meaning": "粉笔",
+      "audio": "df5ade5658f961db4a7ce36e891b15d3b97e807c592d325524d1ce4aafcc9c86",
+      "id": "82f471bb471a",
+      "priority": 1,
+      "group": "e01ca935ce1c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marker",
+      "meaningInSourceLanguage": "马克笔",
+      "id": "59168c1dbe7b",
+      "priority": 0,
+      "group": "1df41ad06a0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marker",
+      "meaning": "马克笔",
+      "audio": "e5bf9789bb9861ed8d90e2bd3de0809825fa198301de1ec5928dd83c7ad0d13a",
+      "id": "52b28c8a217a",
+      "priority": 1,
+      "group": "1df41ad06a0d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "book",
+      "meaningInSourceLanguage": "书",
+      "id": "d694a0b95fb6",
+      "priority": 0,
+      "group": "614a958bf576"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "book",
+      "meaning": "书",
+      "audio": "a81088b4bc68231fa1aef229966a1d87a8872b0397eb9a353fab24a9af812c38",
+      "id": "eb7f146f8a41",
+      "priority": 1,
+      "group": "614a958bf576"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "textbook",
+      "meaningInSourceLanguage": "教科书",
+      "id": "a5c8b18a3def",
+      "priority": 0,
+      "group": "8ed24e94c5e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "textbook",
+      "meaning": "教科书",
+      "audio": "6400b64e0ea16b344fd87136f6c62d1b2b7019b162ea8aa7619a00e1579c099c",
+      "id": "dd52d2821c23",
+      "priority": 1,
+      "group": "8ed24e94c5e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "notebook",
+      "meaningInSourceLanguage": "笔记本",
+      "id": "2f8b50db4b67",
+      "priority": 0,
+      "group": "254c0b504e7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "notebook",
+      "meaning": "笔记本",
+      "audio": "4773481817b9bbbf06476d057b07977d5b868385c81643937608d06f20855538",
+      "id": "4662453e2659",
+      "priority": 1,
+      "group": "254c0b504e7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pen",
+      "meaningInSourceLanguage": "钢笔",
+      "id": "e727370e4b96",
+      "priority": 0,
+      "group": "f87389183f38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pen",
+      "meaning": "钢笔",
+      "audio": "164be967f35ea2942a910dad2611e9a7aa68654157350e584382d3bd39f60fec",
+      "id": "873c8944950f",
+      "priority": 1,
+      "group": "f87389183f38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pencil",
+      "meaningInSourceLanguage": "铅笔",
+      "id": "8ce40053170b",
+      "priority": 0,
+      "group": "697a1cb79e67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pencil",
+      "meaning": "铅笔",
+      "audio": "9ecf1f73033937dfb9a8b8792a6c0b4d5e91fa8f175f128102a54688ae7f880c",
+      "id": "836da93fb57b",
+      "priority": 1,
+      "group": "697a1cb79e67"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "eraser",
+      "meaningInSourceLanguage": "橡皮",
+      "id": "433dc362a5c8",
+      "priority": 0,
+      "group": "5c663588e97f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "eraser",
+      "meaning": "橡皮",
+      "audio": "93ade20aa7973ec0899b21409e505df3aad00d436bb0b22b5f198089b0c843ee",
+      "id": "c27f28f694ad",
+      "priority": 1,
+      "group": "5c663588e97f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ruler",
+      "meaningInSourceLanguage": "尺子",
+      "id": "b01e266c51cf",
+      "priority": 0,
+      "group": "068ee66edd6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ruler",
+      "meaning": "尺子",
+      "audio": "b066840c8b9d879973b0845801f5f7d11c4fb3554402bf23f9cf65d977d435a5",
+      "id": "9deade54693e",
+      "priority": 1,
+      "group": "068ee66edd6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "glue",
+      "meaningInSourceLanguage": "胶水",
+      "id": "ae34c1330aa4",
+      "priority": 0,
+      "group": "40b88800fb63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "glue",
+      "meaning": "胶水",
+      "audio": "82b4b54ef46a90f397603963c47022b35f3bed76c05938f5a80e78c74d7c7bf8",
+      "id": "53ccab8d85c2",
+      "priority": 1,
+      "group": "40b88800fb63"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scissors",
+      "meaningInSourceLanguage": "剪刀",
+      "id": "961ff0ea7ba3",
+      "priority": 0,
+      "group": "15b4dd12e32b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scissors",
+      "meaning": "剪刀",
+      "audio": "2870c9a36d256bbf6e851e9bdfd9b467822ac789827b64e8dcbe8bdad9feef1f",
+      "id": "54dd3d58747c",
+      "priority": 1,
+      "group": "15b4dd12e32b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stapler",
+      "meaningInSourceLanguage": "订书机",
+      "id": "8e166e9cf40e",
+      "priority": 0,
+      "group": "ad03747fe7f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stapler",
+      "meaning": "订书机",
+      "audio": "efb385a845ed7bc45014b6f0f3ae3f7133cda6c1384d28105c28e493f451870a",
+      "id": "64e4a8054d15",
+      "priority": 1,
+      "group": "ad03747fe7f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "paper",
+      "meaningInSourceLanguage": "纸",
+      "id": "17ad4b85be24",
+      "priority": 0,
+      "group": "4ab31efeec53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "paper",
+      "meaning": "纸",
+      "audio": "0ed9861036904a7395718d61f55e9a4ace94d83719098ee0bb1c3a083fc248f1",
+      "id": "f87dd6c1699b",
+      "priority": 1,
+      "group": "4ab31efeec53"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "desk",
+      "meaningInSourceLanguage": "书桌",
+      "id": "3b18c18c13ea",
+      "priority": 0,
+      "group": "a507bbfda4d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "desk",
+      "meaning": "书桌",
+      "audio": "ee1578c20a70374fbcdc67facdccdebdf06848796254c6591584f59476228728",
+      "id": "e778626deffb",
+      "priority": 1,
+      "group": "a507bbfda4d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "chair",
+      "meaningInSourceLanguage": "椅子",
+      "id": "78e1c1d65f02",
+      "priority": 0,
+      "group": "c2d0c1f61767"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "chair",
+      "meaning": "椅子",
+      "audio": "2eb333690401f18cecfa48c78a353db2230b923a1c051f17537d311b39ed68ab",
+      "id": "fb1779dcef48",
+      "priority": 1,
+      "group": "c2d0c1f61767"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "backpack",
+      "meaningInSourceLanguage": "书包",
+      "id": "27f26469c0ec",
+      "priority": 0,
+      "group": "7157043e7f49"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "backpack",
+      "meaning": "书包",
+      "audio": "2bb35072b23b81e9040db3d7a5a707c812f0699fd7d90808df803d15e26728c5",
+      "id": "a3d076cd6cdc",
+      "priority": 1,
+      "group": "7157043e7f49"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calculator",
+      "meaningInSourceLanguage": "计算器",
+      "id": "de8b70e90f53",
+      "priority": 0,
+      "group": "f97d38d6f98c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calculator",
+      "meaning": "计算器",
+      "audio": "8ca683b88c0fd686eaa0cd971bba87432869f2a740348eff8235f54179c4f29e",
+      "id": "598fab546e12",
+      "priority": 1,
+      "group": "f97d38d6f98c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dictionary",
+      "meaningInSourceLanguage": "字典",
+      "id": "b9ffacd564ca",
+      "priority": 0,
+      "group": "1c92654da697"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dictionary",
+      "meaning": "字典",
+      "audio": "58a98e312fef651b1e788e84a1ad99721ea6a71622d84d3465e333543d4f4bfe",
+      "id": "b0e2866db9a9",
+      "priority": 1,
+      "group": "1c92654da697"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "assignment",
+      "meaningInSourceLanguage": "作业",
+      "id": "237eab9abae7",
+      "priority": 0,
+      "group": "f0de6ac85f91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "assignment",
+      "meaning": "作业",
+      "audio": "e690dc6497bfb96ebac2804eb0b773886850f5f3b0765a66ecac7397097bc7ff",
+      "id": "d7cf70096752",
+      "priority": 1,
+      "group": "f0de6ac85f91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "homework",
+      "meaningInSourceLanguage": "家庭作业",
+      "id": "501f0a88253d",
+      "priority": 0,
+      "group": "2dfbc67491a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "homework",
+      "meaning": "家庭作业",
+      "audio": "7282e7ea08c23a525249f726975f2ae8a6b1055dd48fd776b5856d47594cd0cc",
+      "id": "7e6c7fe59a14",
+      "priority": 1,
+      "group": "2dfbc67491a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exam",
+      "meaningInSourceLanguage": "考试",
+      "id": "744eef46952d",
+      "priority": 0,
+      "group": "a6a63c08921e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exam",
+      "meaning": "考试",
+      "audio": "0ad565719a20bfc1f7625cf3d4d2780b37d044cc0cf5e136413132105b0b832e",
+      "id": "aa255199a1ec",
+      "priority": 1,
+      "group": "a6a63c08921e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "test",
+      "meaningInSourceLanguage": "测验",
+      "id": "f5f8e184ea6e",
+      "priority": 0,
+      "group": "6f7bd1f3c166"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "test",
+      "meaning": "测验",
+      "audio": "eded64044a19e37d63900988b68b05503dcc4f5483edca391ee02b01c440bd11",
+      "id": "60a0b943cbb2",
+      "priority": 1,
+      "group": "6f7bd1f3c166"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "quiz",
+      "meaningInSourceLanguage": "小测验",
+      "id": "62d9c9dde054",
+      "priority": 0,
+      "group": "e05edff3fcb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quiz",
+      "meaning": "小测验",
+      "audio": "78fa54b08aa57d522c3cc61ee49ec4b7f424e5e6289d3ceefa56f2f4fede3845",
+      "id": "f79a9b0e5aa4",
+      "priority": 1,
+      "group": "e05edff3fcb3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "grade",
+      "meaningInSourceLanguage": "成绩",
+      "id": "bd26481aa6a5",
+      "priority": 0,
+      "group": "21cfbfb648a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grade",
+      "meaning": "成绩",
+      "audio": "d5344fbb42ed313edbee69d20abb1dcf848f8b28312022206dc9fe42de889f24",
+      "id": "1087eccd7dd5",
+      "priority": 1,
+      "group": "21cfbfb648a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "score",
+      "meaningInSourceLanguage": "分数",
+      "id": "b1cea1ea97a6",
+      "priority": 0,
+      "group": "3f6379d77aac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "score",
+      "meaning": "分数",
+      "audio": "43002fbc0cb20b0257f5991e131c23df784604cdac05d6802cd27828d547e9b1",
+      "id": "f96873cad9fe",
+      "priority": 1,
+      "group": "3f6379d77aac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pass",
+      "meaningInSourceLanguage": "及格",
+      "id": "7b9e409a93bd",
+      "priority": 0,
+      "group": "3a8831f20fd0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pass",
+      "meaning": "及格",
+      "audio": "e91665ae3027b282fd8550185e15ffd9975298b1bf94a27a30e85310dcc9753b",
+      "id": "e5aae8145aa5",
+      "priority": 1,
+      "group": "3a8831f20fd0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fail",
+      "meaningInSourceLanguage": "不及格",
+      "id": "6474132d9dae",
+      "priority": 0,
+      "group": "96bebff1101d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fail",
+      "meaning": "不及格",
+      "audio": "1f6de9a6da52246c0a14b352c2d7c3dbe5f3ab77364fbf3a4d4a1ca96456d09a",
+      "id": "036ed4a1cd46",
+      "priority": 1,
+      "group": "96bebff1101d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "diploma",
+      "meaningInSourceLanguage": "文凭",
+      "id": "c1661c1d3d4c",
+      "priority": 0,
+      "group": "b74d9e0a4a8d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diploma",
+      "meaning": "文凭",
+      "audio": "f003362396fd08f5430acca7e4ad491f9d10f830edbf0319b93bd672ce750afb",
+      "id": "6557645affa6",
+      "priority": 1,
+      "group": "b74d9e0a4a8d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "degree",
+      "meaningInSourceLanguage": "学位",
+      "id": "0b975d3a811f",
+      "priority": 0,
+      "group": "8d0ec3092437"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "degree",
+      "meaning": "学位",
+      "audio": "dd05a5852f43051c7e984c0c9d2929877d53008c56389885e9d8a80847d9447b",
+      "id": "9c7077e94991",
+      "priority": 1,
+      "group": "8d0ec3092437"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bachelor",
+      "meaningInSourceLanguage": "学士",
+      "id": "3885becedb87",
+      "priority": 0,
+      "group": "cacfb0288108"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bachelor",
+      "meaning": "学士",
+      "audio": "2e78b85077d9a01cf29fc01f758b901f55a979a6e97a666e7d76e4a66673d072",
+      "id": "2520cf1dd895",
+      "priority": 1,
+      "group": "cacfb0288108"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "master",
+      "meaningInSourceLanguage": "硕士",
+      "id": "1fb90418e6e2",
+      "priority": 0,
+      "group": "20eaf5234eec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "master",
+      "meaning": "硕士",
+      "audio": "0175dab908974a1ebce7954d2f0829a99ec3b4c134a93322b6d617830e1010da",
+      "id": "1881206f999b",
+      "priority": 1,
+      "group": "20eaf5234eec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "doctorate",
+      "meaningInSourceLanguage": "博士",
+      "id": "6bcaf5618b7e",
+      "priority": 0,
+      "group": "1e0dadc2c6b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "doctorate",
+      "meaning": "博士",
+      "audio": "941f93569a17066d42c0f6f95de8864831bfc16e6682787a4aa4a24f250f827b",
+      "id": "d411f7976570",
+      "priority": 1,
+      "group": "1e0dadc2c6b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "scholarship",
+      "meaningInSourceLanguage": "奖学金",
+      "id": "c52b7d2c09db",
+      "priority": 0,
+      "group": "3971c3815427"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scholarship",
+      "meaning": "奖学金",
+      "audio": "59f688346d67cd48f405d5bef519d0d1cf05e5b73f928631da951390b7d4ef51",
+      "id": "1126b835e49d",
+      "priority": 1,
+      "group": "3971c3815427"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tuition",
+      "meaningInSourceLanguage": "学费",
+      "id": "b340d1415550",
+      "priority": 0,
+      "group": "bc20f46b16b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tuition",
+      "meaning": "学费",
+      "audio": "4630f62776913d4d4ddd7a1acc44daec59bf424abd207f82eff1c230c8ab612a",
+      "id": "2ce9ecc2f18f",
+      "priority": 1,
+      "group": "bc20f46b16b7"
+    }
+  ]
+}

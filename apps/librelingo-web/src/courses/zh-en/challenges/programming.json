@@ -1,0 +1,941 @@
+{
+  "id": "b13a2b450352",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "gigabyte",
+      "meaningInSourceLanguage": "吉字节",
+      "id": "c08821d4237c",
+      "priority": 0,
+      "group": "d18af9d9a5b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gigabyte",
+      "meaning": "吉字节",
+      "audio": "f26bc0ce138f453a94f5bbad77ad56b5",
+      "id": "b5263777e365",
+      "priority": 1,
+      "group": "d18af9d9a5b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "megabyte",
+      "meaningInSourceLanguage": "兆字节",
+      "id": "64f9ed85b4b7",
+      "priority": 0,
+      "group": "58ee09d9b6a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "megabyte",
+      "meaning": "兆字节",
+      "audio": "06b6e30d052f4f4886de0a7725801f05",
+      "id": "f6d04cd7abb0",
+      "priority": 1,
+      "group": "58ee09d9b6a9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "terabyte",
+      "meaningInSourceLanguage": "太字节",
+      "id": "56b7fddf4609",
+      "priority": 0,
+      "group": "c6a3d677fb26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "terabyte",
+      "meaning": "太字节",
+      "audio": "f399c0da9ef94ddaa8eced722641ff37",
+      "id": "a0c149e86ff9",
+      "priority": 1,
+      "group": "c6a3d677fb26"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "frequency",
+      "meaningInSourceLanguage": "频率",
+      "id": "e98427f1581a",
+      "priority": 0,
+      "group": "8c2cc76197e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frequency",
+      "meaning": "频率",
+      "audio": "7529a4b9c5164c828cdbceee79b3b9cd",
+      "id": "58001e90060a",
+      "priority": 1,
+      "group": "8c2cc76197e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "bandwidth",
+      "meaningInSourceLanguage": "带宽",
+      "id": "86497698b264",
+      "priority": 0,
+      "group": "34b7e6582fd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bandwidth",
+      "meaning": "带宽",
+      "audio": "e438da43a01345c3bc17e8c63d335b36",
+      "id": "5e841dacc235",
+      "priority": 1,
+      "group": "34b7e6582fd3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "latency",
+      "meaningInSourceLanguage": "延迟",
+      "id": "7e02ef5b5232",
+      "priority": 0,
+      "group": "d373e2774704"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "latency",
+      "meaning": "延迟",
+      "audio": "3def08a9c12a4730a4f0eef2f48e3371",
+      "id": "e57695234cd6",
+      "priority": 1,
+      "group": "d373e2774704"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bluetooth",
+      "meaningInSourceLanguage": "蓝牙",
+      "id": "98b2b662e17f",
+      "priority": 0,
+      "group": "2c8a1819d904"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bluetooth",
+      "meaning": "蓝牙",
+      "audio": "d5caad059a524744b2bed855d026961a",
+      "id": "8eaa04f3e01f",
+      "priority": 1,
+      "group": "2c8a1819d904"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "NFC",
+      "meaningInSourceLanguage": "近场通信",
+      "id": "59347542cae5",
+      "priority": 0,
+      "group": "127d2b98baae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "NFC",
+      "meaning": "近场通信",
+      "audio": "d65ae790ae0c4592a30492203c07b1b2",
+      "id": "371b3f06e391",
+      "priority": 1,
+      "group": "127d2b98baae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "GPS",
+      "meaningInSourceLanguage": "全球定位系统",
+      "id": "d0ffb1e7ed45",
+      "priority": 0,
+      "group": "d6b764e4c1fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "GPS",
+      "meaning": "全球定位系统",
+      "audio": "ede6d30ca9e64a59b0e656b35f98a27b",
+      "id": "5e96b0f2ae4e",
+      "priority": 1,
+      "group": "d6b764e4c1fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "interface",
+      "meaningInSourceLanguage": "界面",
+      "id": "8254b8768565",
+      "priority": 0,
+      "group": "762e51e6ee04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "interface",
+      "meaning": "界面",
+      "audio": "c873a4acd7e54beb9a570801e3a3e98d",
+      "id": "831e4323fde1",
+      "priority": 1,
+      "group": "762e51e6ee04"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "user experience",
+      "meaningInSourceLanguage": "用户体验",
+      "id": "00dd7af062b5",
+      "priority": 0,
+      "group": "12acde62f733"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "user experience",
+      "meaning": "用户体验",
+      "audio": "4081a0e709dc4196bd36922a2a7b755c",
+      "id": "ea10e468d8cf",
+      "priority": 1,
+      "group": "12acde62f733"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "user interface",
+      "meaningInSourceLanguage": "用户界面",
+      "id": "6ea4cedccd1b",
+      "priority": 0,
+      "group": "c3548fa27cbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "user interface",
+      "meaning": "用户界面",
+      "audio": "60cd08abe6a446d49580fffc0c77dd70",
+      "id": "79674c793c86",
+      "priority": 1,
+      "group": "c3548fa27cbd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "responsive",
+      "meaningInSourceLanguage": "响应式的",
+      "id": "9831afb6d255",
+      "priority": 0,
+      "group": "e06b27f8aa86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "responsive",
+      "meaning": "响应式的",
+      "audio": "d3cfc6db35994c5789759f1f5d94f3be",
+      "id": "bb22e5669de7",
+      "priority": 1,
+      "group": "e06b27f8aa86"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "open source",
+      "meaningInSourceLanguage": "开源",
+      "id": "5f9b4eed96c1",
+      "priority": 0,
+      "group": "3b4b76ba17b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "open source",
+      "meaning": "开源",
+      "audio": "b21877707167436f9f2290a8070cc863",
+      "id": "c2f3a16c1666",
+      "priority": 1,
+      "group": "3b4b76ba17b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "closed source",
+      "meaningInSourceLanguage": "闭源",
+      "id": "22a0b80bf062",
+      "priority": 0,
+      "group": "85a9f3c243f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "closed source",
+      "meaning": "闭源",
+      "audio": "2820e9d395004ed5b5e7c7ad67e9d112",
+      "id": "05850ce90f8d",
+      "priority": 1,
+      "group": "85a9f3c243f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "version control",
+      "meaningInSourceLanguage": "版本控制",
+      "id": "65c01c71377b",
+      "priority": 0,
+      "group": "385f098ba373"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "version control",
+      "meaning": "版本控制",
+      "audio": "304c4c6fcee4443592c45be551e5d998",
+      "id": "ea137b95b612",
+      "priority": 1,
+      "group": "385f098ba373"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Git",
+      "meaningInSourceLanguage": "Git",
+      "id": "d0e0ef5b7d12",
+      "priority": 0,
+      "group": "383ede248287"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Git",
+      "meaning": "Git",
+      "audio": "ffe751a410654194a93f27b7fee4eaf5",
+      "id": "36654f0d1804",
+      "priority": 1,
+      "group": "383ede248287"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "repository",
+      "meaningInSourceLanguage": "仓库",
+      "id": "b9970084f8fb",
+      "priority": 0,
+      "group": "d2e7b0ff8b14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "repository",
+      "meaning": "仓库",
+      "audio": "aaeb11fb75224b95bdfc1f76637c50ee",
+      "id": "1201b2f19492",
+      "priority": 1,
+      "group": "d2e7b0ff8b14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "branch",
+      "meaningInSourceLanguage": "分支",
+      "id": "945084cf316f",
+      "priority": 0,
+      "group": "5fffa7cdafb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "branch",
+      "meaning": "分支",
+      "audio": "e21cc31a67764cb5b9ab354830685a31",
+      "id": "41560081bdf3",
+      "priority": 1,
+      "group": "5fffa7cdafb6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "commit",
+      "meaningInSourceLanguage": "提交",
+      "id": "de378d142e58",
+      "priority": 0,
+      "group": "9afee8c0a83b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "commit",
+      "meaning": "提交",
+      "audio": "6e475f2289544ea4943173361628f013",
+      "id": "fa462d5f0659",
+      "priority": 1,
+      "group": "9afee8c0a83b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "push",
+      "meaningInSourceLanguage": "推送",
+      "id": "b01866af0ef5",
+      "priority": 0,
+      "group": "a0c62f74f341"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "push",
+      "meaning": "推送",
+      "audio": "bec5349429a34d178f29d1f07d2c4ee9",
+      "id": "c7f94cfa1dd4",
+      "priority": 1,
+      "group": "a0c62f74f341"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pull",
+      "meaningInSourceLanguage": "拉取",
+      "id": "d73761dad68d",
+      "priority": 0,
+      "group": "792fdfa34d33"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pull",
+      "meaning": "拉取",
+      "audio": "0cebcaeb5a1a458095152a10cb7ba3ea",
+      "id": "04d7596d161f",
+      "priority": 1,
+      "group": "792fdfa34d33"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "merge",
+      "meaningInSourceLanguage": "合并",
+      "id": "155e54931acf",
+      "priority": 0,
+      "group": "6e5d24ec3b59"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "merge",
+      "meaning": "合并",
+      "audio": "22b2845e424a4d74ab6e3548b813e6cf",
+      "id": "fab697990ddd",
+      "priority": 1,
+      "group": "6e5d24ec3b59"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "CPU",
+      "meaningInSourceLanguage": "中央处理器",
+      "id": "8b3e8fe70d97",
+      "priority": 0,
+      "group": "ce87f4aedf85"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "CPU",
+      "meaning": "中央处理器",
+      "audio": "6c8729b963f2471592b2b8ec309827b2",
+      "id": "7cad9006f487",
+      "priority": 1,
+      "group": "ce87f4aedf85"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "GPU",
+      "meaningInSourceLanguage": "图形处理器",
+      "id": "7cd05e0764c5",
+      "priority": 0,
+      "group": "0a2b6d923828"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "GPU",
+      "meaning": "图形处理器",
+      "audio": "9b3ebeacb88a4c008a30c2881f845cab",
+      "id": "89cb23bc624e",
+      "priority": 1,
+      "group": "0a2b6d923828"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "RAM",
+      "meaningInSourceLanguage": "内存",
+      "id": "061a1c0a33fe",
+      "priority": 0,
+      "group": "eb68519eb8d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "RAM",
+      "meaning": "内存",
+      "audio": "130b34d24f5b4fafb054ccf7adf391e6",
+      "id": "4da4fceec8f8",
+      "priority": 1,
+      "group": "eb68519eb8d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "motherboard",
+      "meaningInSourceLanguage": "主板",
+      "id": "5c94d955bc00",
+      "priority": 0,
+      "group": "b4cc005ca619"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "motherboard",
+      "meaning": "主板",
+      "audio": "75e3e4cfd8a44cdab228ef2da40ed5f0",
+      "id": "e30dcb8b7b42",
+      "priority": 1,
+      "group": "b4cc005ca619"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "power supply",
+      "meaningInSourceLanguage": "电源",
+      "id": "9e6179c5eb9d",
+      "priority": 0,
+      "group": "d63d6bd77f4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "power supply",
+      "meaning": "电源",
+      "audio": "a0e7c7e4a18e454183a3ce757e0d8b3d",
+      "id": "5d409611ea91",
+      "priority": 1,
+      "group": "d63d6bd77f4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heat sink",
+      "meaningInSourceLanguage": "散热器",
+      "id": "d814bf0768d8",
+      "priority": 0,
+      "group": "0c61e7811bae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heat sink",
+      "meaning": "散热器",
+      "audio": "e1cc9d022719491184c0eb6a32e9e896",
+      "id": "ad03d4b294c7",
+      "priority": 1,
+      "group": "0c61e7811bae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fan",
+      "meaningInSourceLanguage": "风扇",
+      "id": "4852b9293ee7",
+      "priority": 0,
+      "group": "038b4e010e0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fan",
+      "meaning": "风扇",
+      "audio": "8510bbe6b481479c8d06d8f88cf82e32",
+      "id": "2bdd9c226350",
+      "priority": 1,
+      "group": "038b4e010e0f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "port",
+      "meaningInSourceLanguage": "端口",
+      "id": "1f9c278c6789",
+      "priority": 0,
+      "group": "4798eab41dd6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "port",
+      "meaning": "端口",
+      "audio": "6ca835885ae54fe49fe0c6944346c1d3",
+      "id": "4a5885d472dc",
+      "priority": 1,
+      "group": "4798eab41dd6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "HDMI",
+      "meaningInSourceLanguage": "HDMI",
+      "id": "596dd7e11646",
+      "priority": 0,
+      "group": "1e03cec0e311"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "HDMI",
+      "meaning": "HDMI",
+      "audio": "f84e15ede655433098bb5c417ab06ab7",
+      "id": "4d39c60df84a",
+      "priority": 1,
+      "group": "1e03cec0e311"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "VGA",
+      "meaningInSourceLanguage": "VGA",
+      "id": "38b512d5deb8",
+      "priority": 0,
+      "group": "fb76bd592c7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "VGA",
+      "meaning": "VGA",
+      "audio": "038fc7bcf22840b7b28406002295b749",
+      "id": "af2adbcae6ec",
+      "priority": 1,
+      "group": "fb76bd592c7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "USB-C",
+      "meaningInSourceLanguage": "USB-C",
+      "id": "7206903aed83",
+      "priority": 0,
+      "group": "e835c18dc48d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "USB-C",
+      "meaning": "USB-C",
+      "audio": "7aea9e156dd44a63988e98c579455959",
+      "id": "00e3c8982e69",
+      "priority": 1,
+      "group": "e835c18dc48d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thunderbolt",
+      "meaningInSourceLanguage": "Thunderbolt",
+      "id": "db8ff2ffaf7f",
+      "priority": 0,
+      "group": "69a5d5e40687"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thunderbolt",
+      "meaning": "Thunderbolt",
+      "audio": "df596b1f2cad4a0a93e2f8b2ae92b8ea",
+      "id": "f9f59ba0b3bb",
+      "priority": 1,
+      "group": "69a5d5e40687"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cable",
+      "meaningInSourceLanguage": "电缆",
+      "id": "e0bea24ce870",
+      "priority": 0,
+      "group": "5219e3030803"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cable",
+      "meaning": "电缆",
+      "audio": "a7eb561e35a8435fa1426da79aca8144",
+      "id": "ac0ab94bde75",
+      "priority": 1,
+      "group": "5219e3030803"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "charger",
+      "meaningInSourceLanguage": "充电器",
+      "id": "e6bac97b2bb6",
+      "priority": 0,
+      "group": "cf4ae4585da2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "charger",
+      "meaning": "充电器",
+      "audio": "e15ff46fb204480c8070f0640143d4bb",
+      "id": "323e84520174",
+      "priority": 1,
+      "group": "cf4ae4585da2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "power bank",
+      "meaningInSourceLanguage": "充电宝",
+      "id": "ff9ab2085b82",
+      "priority": 0,
+      "group": "5ea1fd9bf2a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "power bank",
+      "meaning": "充电宝",
+      "audio": "ad41e9b89ae347dfacb2bc8c4ee72f1a",
+      "id": "2790553b5231",
+      "priority": 1,
+      "group": "5ea1fd9bf2a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "display",
+      "meaningInSourceLanguage": "显示器",
+      "id": "8545009c1381",
+      "priority": 0,
+      "group": "e4da2c9cbbd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "display",
+      "meaning": "显示器",
+      "audio": "9bc72aa080464388a26199dd69ebf07f",
+      "id": "8f83d8f0126f",
+      "priority": 1,
+      "group": "e4da2c9cbbd3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "screen",
+      "meaningInSourceLanguage": "屏幕",
+      "id": "bebb87d188dd",
+      "priority": 0,
+      "group": "91c424eb33fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "screen",
+      "meaning": "屏幕",
+      "audio": "aed44c3fce7143e2856735036fd7655c",
+      "id": "30409ce471b0",
+      "priority": 1,
+      "group": "91c424eb33fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "touchscreen",
+      "meaningInSourceLanguage": "触摸屏",
+      "id": "c17753e722e8",
+      "priority": 0,
+      "group": "2bfc9db5f068"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "touchscreen",
+      "meaning": "触摸屏",
+      "audio": "34412b5a80494d2f8324b7429607ccea",
+      "id": "d0f4732740bb",
+      "priority": 1,
+      "group": "2bfc9db5f068"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "resolution",
+      "meaningInSourceLanguage": "分辨率",
+      "id": "158bd02342a1",
+      "priority": 0,
+      "group": "bf25dde6715e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "resolution",
+      "meaning": "分辨率",
+      "audio": "9f99291a149d415a8c28d837740fb4f9",
+      "id": "ac4e0b7fd55e",
+      "priority": 1,
+      "group": "bf25dde6715e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pixel",
+      "meaningInSourceLanguage": "像素",
+      "id": "5c41d8f0f38d",
+      "priority": 0,
+      "group": "86f5f2e0a017"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pixel",
+      "meaning": "像素",
+      "audio": "b836ef0f5b6a42a180b8de2ddedd0670",
+      "id": "769efecbab41",
+      "priority": 1,
+      "group": "86f5f2e0a017"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "refresh rate",
+      "meaningInSourceLanguage": "刷新率",
+      "id": "fb46ce1572af",
+      "priority": 0,
+      "group": "1d20009aaffe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "refresh rate",
+      "meaning": "刷新率",
+      "audio": "538fa1b3036642df8aab6046fc5c9199",
+      "id": "5c5ddb44cde0",
+      "priority": 1,
+      "group": "1d20009aaffe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "operating system",
+      "meaningInSourceLanguage": "操作系统",
+      "id": "0a77e45db3bf",
+      "priority": 0,
+      "group": "fd82f6b72ebb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "operating system",
+      "meaning": "操作系统",
+      "audio": "10bb212de3df468d9c433eacb2765ced",
+      "id": "f725e337d176",
+      "priority": 1,
+      "group": "fd82f6b72ebb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Windows",
+      "meaningInSourceLanguage": "Windows系统",
+      "id": "960c5335a85e",
+      "priority": 0,
+      "group": "a67ec7719bf2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Windows",
+      "meaning": "Windows系统",
+      "audio": "cb444681d0254e7a9575502844c2b72d",
+      "id": "035f8c5dde87",
+      "priority": 1,
+      "group": "a67ec7719bf2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "macOS",
+      "meaningInSourceLanguage": "苹果系统",
+      "id": "ef17437b7cf1",
+      "priority": 0,
+      "group": "e64af7d8aa3b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "macOS",
+      "meaning": "苹果系统",
+      "audio": "92d293f940c4453c860816b8f36eb0fd",
+      "id": "4cac238bdee7",
+      "priority": 1,
+      "group": "e64af7d8aa3b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Linux",
+      "meaningInSourceLanguage": "Linux系统",
+      "id": "0cda5e92f58a",
+      "priority": 0,
+      "group": "f486b2aaac8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Linux",
+      "meaning": "Linux系统",
+      "audio": "e64dd450f7f444958bb30d2482293f67",
+      "id": "df2ef1b65e3b",
+      "priority": 1,
+      "group": "f486b2aaac8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "iOS",
+      "meaningInSourceLanguage": "iOS系统",
+      "id": "fb0030b6c2bc",
+      "priority": 0,
+      "group": "1980354c7d90"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "iOS",
+      "meaning": "iOS系统",
+      "audio": "ac1ef592394c464b85204a2f55cd756a",
+      "id": "43da03fd00d1",
+      "priority": 1,
+      "group": "1980354c7d90"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Android",
+      "meaningInSourceLanguage": "安卓系统",
+      "id": "9966f62ecb5b",
+      "priority": 0,
+      "group": "9d71282581fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Android",
+      "meaning": "安卓系统",
+      "audio": "0bca2e284d7e4972aa9a373b590c44de",
+      "id": "eac07e110f73",
+      "priority": 1,
+      "group": "9d71282581fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "terminal",
+      "meaningInSourceLanguage": "终端",
+      "id": "65ae6f650dbf",
+      "priority": 0,
+      "group": "69a4c16b7c61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "terminal",
+      "meaning": "终端",
+      "audio": "5ab593ff68dc42458b8eff1951ec4799",
+      "id": "3eeeabbeea55",
+      "priority": 1,
+      "group": "69a4c16b7c61"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "command line",
+      "meaningInSourceLanguage": "命令行",
+      "id": "1dd3ecb4999b",
+      "priority": 0,
+      "group": "7961a45b4d87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "command line",
+      "meaning": "命令行",
+      "audio": "02cc893be236420e813c90b9589f81f1",
+      "id": "f4d421208ddb",
+      "priority": 1,
+      "group": "7961a45b4d87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "shell",
+      "meaningInSourceLanguage": "Shell",
+      "id": "96586ca70858",
+      "priority": 0,
+      "group": "c9c3acd87c9a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "shell",
+      "meaning": "Shell",
+      "audio": "ef8ebf10204f4afb90828742b3ada688",
+      "id": "2008e6132db1",
+      "priority": 1,
+      "group": "c9c3acd87c9a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "console",
+      "meaningInSourceLanguage": "控制台",
+      "id": "25348d9ae739",
+      "priority": 0,
+      "group": "f9a867a86203"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "console",
+      "meaning": "控制台",
+      "audio": "4ab2a6d0643b43189938ab5ace2463bc",
+      "id": "030a9c784bc1",
+      "priority": 1,
+      "group": "f9a867a86203"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "package manager",
+      "meaningInSourceLanguage": "包管理",
+      "id": "2dab7a7b0167",
+      "priority": 0,
+      "group": "dcbe50cadabe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "package manager",
+      "meaning": "包管理",
+      "audio": "cbdd2f5c59194195bda47642bec6bfb9",
+      "id": "8298ee71b95b",
+      "priority": 1,
+      "group": "dcbe50cadabe"
+    }
+  ]
+}

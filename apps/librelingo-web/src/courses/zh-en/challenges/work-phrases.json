@@ -1,0 +1,346 @@
+{
+  "id": "7e45d0dc0ac5",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I go to work every day.",
+      "meaningInSourceLanguage": "我每天去上班。",
+      "id": "e8484be04301",
+      "priority": 0,
+      "group": "50ed5ab9d68e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I go to work every day.",
+      "meaning": "我每天去上班。",
+      "audio": "7bf2866e26204998d238413d13b99de54f1b2b943fa228e10bfcbdeb282c65b2",
+      "id": "6a688914468f",
+      "priority": 1,
+      "group": "50ed5ab9d68e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I work as an engineer.",
+      "meaningInSourceLanguage": "我是一名工程师。",
+      "id": "92e0de6a9305",
+      "priority": 0,
+      "group": "0aa269774be5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I work as an engineer.",
+      "meaning": "我是一名工程师。",
+      "audio": "b0774912fa21de60549522c4883f4614a3ccd052923c8e48994594e3c75cc920",
+      "id": "b5e24112463e",
+      "priority": 1,
+      "group": "0aa269774be5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What do you do for a living?",
+      "meaningInSourceLanguage": "你做什么工作？",
+      "id": "fa0de22cddfb",
+      "priority": 0,
+      "group": "e81113e34e27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What do you do for a living?",
+      "meaning": "你做什么工作？",
+      "audio": "57bf5e9248b55442b722fd5e1a6fa3357c3c8654c451dc5ff7914af36e47b258",
+      "id": "6e7b03ecd5c4",
+      "priority": 1,
+      "group": "e81113e34e27"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have a meeting at 10am.",
+      "meaningInSourceLanguage": "我上午十点有个会议。",
+      "id": "b6f3622f02a2",
+      "priority": 0,
+      "group": "b7c8c7ecd3d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have a meeting at 10am.",
+      "meaning": "我上午十点有个会议。",
+      "audio": "70e1d488c822c8f83ea647b5285c108c24b4f63aafa0f287ad5224cda9ea993d",
+      "id": "60987145e540",
+      "priority": 1,
+      "group": "b7c8c7ecd3d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need to finish this report.",
+      "meaningInSourceLanguage": "我需要完成这份报告。",
+      "id": "ddf120c19277",
+      "priority": 0,
+      "group": "eb78cf60f16d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need to finish this report.",
+      "meaning": "我需要完成这份报告。",
+      "audio": "e0625596cfe16533ab57d48242d51aab734639b5a0ac9a091b572bc947652f3f",
+      "id": "895ebb2d5658",
+      "priority": 1,
+      "group": "eb78cf60f16d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I take a day off?",
+      "meaningInSourceLanguage": "我能请一天假吗？",
+      "id": "34c9faf237bd",
+      "priority": 0,
+      "group": "b47cacaafa87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I take a day off?",
+      "meaning": "我能请一天假吗？",
+      "audio": "6641bae051ddf9a8a047dba3f8e9764f9485c16f327ceaabdac8749eb990208e",
+      "id": "2fe1cbcf4db6",
+      "priority": 1,
+      "group": "b47cacaafa87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm looking for a job.",
+      "meaningInSourceLanguage": "我在找工作。",
+      "id": "38f0344ab0a5",
+      "priority": 0,
+      "group": "c14119f39b39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm looking for a job.",
+      "meaning": "我在找工作。",
+      "audio": "7729adee9b04363e0b673fd525f9d4916109a59cdcaaade028ff76a9649ec552",
+      "id": "909096095967",
+      "priority": 1,
+      "group": "c14119f39b39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have an interview tomorrow.",
+      "meaningInSourceLanguage": "我明天有个面试。",
+      "id": "262c3dc99c7c",
+      "priority": 0,
+      "group": "c554f60b207c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have an interview tomorrow.",
+      "meaning": "我明天有个面试。",
+      "audio": "9aa04df7fc186c0e4aaca3a4a878b1e3da37f5a68c1afcceea711168b5a942e4",
+      "id": "3a8437510126",
+      "priority": 1,
+      "group": "c554f60b207c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much is the salary?",
+      "meaningInSourceLanguage": "工资是多少？",
+      "id": "f5f8ae341157",
+      "priority": 0,
+      "group": "8c0ff2e6694c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much is the salary?",
+      "meaning": "工资是多少？",
+      "audio": "58852a1d6e214326b453cbac9dbcd589a50b11f7ae86fcc5e94d2af80af8db38",
+      "id": "5932501b326a",
+      "priority": 1,
+      "group": "8c0ff2e6694c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to apply for this position.",
+      "meaningInSourceLanguage": "我想申请这个职位。",
+      "id": "0f1d7c76f332",
+      "priority": 0,
+      "group": "dace5326e0b6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to apply for this position.",
+      "meaning": "我想申请这个职位。",
+      "audio": "85890f9a8aa2c1f971068e03051fdec4a6db65947dcdc6fc096f47cb8e8fe1de",
+      "id": "9033fe7a7d8f",
+      "priority": 1,
+      "group": "dace5326e0b6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please send me your resume.",
+      "meaningInSourceLanguage": "请把你的简历发给我。",
+      "id": "d23c451ef492",
+      "priority": 0,
+      "group": "f18b3053fd14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please send me your resume.",
+      "meaning": "请把你的简历发给我。",
+      "audio": "b73a9188deb73fd044d29a8f41df931ada91fbc035d34d8cb90da9b6bcdead62",
+      "id": "433adb37bb8e",
+      "priority": 1,
+      "group": "f18b3053fd14"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We need to meet the deadline.",
+      "meaningInSourceLanguage": "我们需要赶上截止日期。",
+      "id": "2c60673afb84",
+      "priority": 0,
+      "group": "5e51973c2a08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We need to meet the deadline.",
+      "meaning": "我们需要赶上截止日期。",
+      "audio": "a5cebb963734730558b5efa0cc62f60229e6e2b9cd2b88bd04b49ce1b2921eef",
+      "id": "d5c29be85e85",
+      "priority": 1,
+      "group": "5e51973c2a08"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm working on a new project.",
+      "meaningInSourceLanguage": "我在做一个新项目。",
+      "id": "ed51a39bc91a",
+      "priority": 0,
+      "group": "671131f9442d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm working on a new project.",
+      "meaning": "我在做一个新项目。",
+      "audio": "8dd1cea6b008910e7481148623ecbfe024ee3238154960d6c757948cf18ba25d",
+      "id": "e52c4132a96d",
+      "priority": 1,
+      "group": "671131f9442d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can you send me the document?",
+      "meaningInSourceLanguage": "你能把文件发给我吗？",
+      "id": "58347c171f63",
+      "priority": 0,
+      "group": "1e9af866c696"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can you send me the document?",
+      "meaning": "你能把文件发给我吗？",
+      "audio": "63e728437c43747358c9ff430398e30ee4714a262e30d23b35a5c1562485b3a0",
+      "id": "fb6c9266b095",
+      "priority": 1,
+      "group": "1e9af866c696"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Let's schedule a meeting.",
+      "meaningInSourceLanguage": "我们安排一个会议吧。",
+      "id": "172a7f3c15bf",
+      "priority": 0,
+      "group": "595922c401d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Let's schedule a meeting.",
+      "meaning": "我们安排一个会议吧。",
+      "audio": "998f0726234fd459ac65049a1afa6e552c3bd5b2125a29229412e1f64865b1d1",
+      "id": "c0204ffeb31d",
+      "priority": 1,
+      "group": "595922c401d6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I got a promotion!",
+      "meaningInSourceLanguage": "我升职了！",
+      "id": "927960a24798",
+      "priority": 0,
+      "group": "67d302ad87e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I got a promotion!",
+      "meaning": "我升职了！",
+      "audio": "c9e2679ccef2e02936a5c17a138420fcb1960f5e6a0a1bdd2eb9d3a8b24d336e",
+      "id": "eb160d71769e",
+      "priority": 1,
+      "group": "67d302ad87e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I quit my job.",
+      "meaningInSourceLanguage": "我辞职了。",
+      "id": "1448cc137788",
+      "priority": 0,
+      "group": "faa3813b3119"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I quit my job.",
+      "meaning": "我辞职了。",
+      "audio": "e5bcae5234c1ec23bd7b6312510f8cae45d98b94924abf884aba6dc34f64a4ac",
+      "id": "5620e05c17d2",
+      "priority": 1,
+      "group": "faa3813b3119"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm self-employed.",
+      "meaningInSourceLanguage": "我是自雇人士。",
+      "id": "1c5b316d0b41",
+      "priority": 0,
+      "group": "b1dd94c48ce9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm self-employed.",
+      "meaning": "我是自雇人士。",
+      "audio": "8ddfabc7342c952ebdf0d7b754730f669d0fbf0e51c56a064927f67f4d60f73d",
+      "id": "b2276101efa9",
+      "priority": 1,
+      "group": "b1dd94c48ce9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I work remotely.",
+      "meaningInSourceLanguage": "我远程工作。",
+      "id": "fe75e54868c0",
+      "priority": 0,
+      "group": "1b98e3c0361a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I work remotely.",
+      "meaning": "我远程工作。",
+      "audio": "11062fccfd95c70d3690f0b673b2bc766cea3b8ee23fe29e5a12d8a697e0e907",
+      "id": "8500dcb5fd7a",
+      "priority": 1,
+      "group": "1b98e3c0361a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "We need to increase sales.",
+      "meaningInSourceLanguage": "我们需要增加销售额。",
+      "id": "3b96b292d4d4",
+      "priority": 0,
+      "group": "3cab36e8def3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "We need to increase sales.",
+      "meaning": "我们需要增加销售额。",
+      "audio": "cc7c2b6faf3c79f84a1ae1481407c8f3d1114890ce78809105b9b1b8dd629964",
+      "id": "bea7ff35453d",
+      "priority": 1,
+      "group": "3cab36e8def3"
+    }
+  ]
+}

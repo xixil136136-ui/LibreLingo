@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "제 어머니예요.",
+      "meaningInSourceLanguage": "这是我的妈妈。",
+      "id": "5ae67e9a49af",
+      "priority": 0,
+      "group": "fe0b150780ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "제 어머니예요.",
+      "meaning": "这是我的妈妈。",
+      "audio": "a2d3fb14438a26e0afc9f5b1c13b6e612d81dcf9975a2eed9ff92629a068fc1a",
+      "id": "dfbebea724de",
+      "priority": 1,
+      "group": "fe0b150780ae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "아버지가 키가 크세요.",
+      "meaningInSourceLanguage": "我的爸爸很高。",
+      "id": "edb36a8f784a",
+      "priority": 0,
+      "group": "a36716de941a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아버지가 키가 크세요.",
+      "meaning": "我的爸爸很高。",
+      "audio": "b7838d9def991074a5afcdadb3206ec85b62762542108d9396be7ca4961fc451",
+      "id": "25e9d3282abd",
+      "priority": 1,
+      "group": "a36716de941a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "여자 형제가 있어요.",
+      "meaningInSourceLanguage": "我有一个姐妹。",
+      "id": "38a6078776a6",
+      "priority": 0,
+      "group": "ac321fff1064"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "여자 형제가 있어요.",
+      "meaning": "我有一个姐妹。",
+      "audio": "2666a177ca5182f5fbc80ed568c00fae3ef8e2bbd14b3f18f4e5fc792c39ae51",
+      "id": "ecf41ae16d6f",
+      "priority": 1,
+      "group": "ac321fff1064"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "남자 형제가 젊어요.",
+      "meaningInSourceLanguage": "我的兄弟很年轻。",
+      "id": "d4564fbf258d",
+      "priority": 0,
+      "group": "2f712339e9f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "남자 형제가 젊어요.",
+      "meaning": "我的兄弟很年轻。",
+      "audio": "fcb5fc70fb0387fd1389f862fbfeeabbed93acc377e634e76bfa3b62c5065926",
+      "id": "8dd6f6a4b200",
+      "priority": 1,
+      "group": "2f712339e9f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "그녀는 제 친구예요.",
+      "meaningInSourceLanguage": "她是我的朋友。",
+      "id": "90737641eb60",
+      "priority": 0,
+      "group": "c20f8885187c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "그녀는 제 친구예요.",
+      "meaning": "她是我的朋友。",
+      "audio": "d65a392504e9b0e405f25924382ffa632f1689a7aecdb3a21f66749377a8d369",
+      "id": "fa87477b97fc",
+      "priority": 1,
+      "group": "c20f8885187c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "아이가 행복해요.",
+      "meaningInSourceLanguage": "孩子很高兴。",
+      "id": "4c10d2b68d1e",
+      "priority": 0,
+      "group": "ee2d8cc62610"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아이가 행복해요.",
+      "meaning": "孩子很高兴。",
+      "audio": "c32ad6d799e4a9afe66acbc851a1b65af743a3abc591a642d59a596e3ce41d96",
+      "id": "95b5bc6c81fb",
+      "priority": 1,
+      "group": "ee2d8cc62610"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "제 아내는 친절해요.",
+      "meaningInSourceLanguage": "我的妻子很善良。",
+      "id": "6df653a47c1b",
+      "priority": 0,
+      "group": "93b9412c9b05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "제 아내는 친절해요.",
+      "meaning": "我的妻子很善良。",
+      "audio": "7c623f48a2e2bc25c88e52f257b10f9994a69de12981917cfc51cfc200ef3807",
+      "id": "722a774c7534",
+      "priority": 1,
+      "group": "93b9412c9b05"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "어머니",
+      "meaningInSourceLanguage": "母亲",
+      "id": "4fcb0d5a1f56",
+      "priority": 0,
+      "group": "69dc4bbbc0ff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "어머니"
+      ],
+      "phrase": [
+        {
+          "word": "母亲",
+          "definition": "어머니"
+        }
+      ],
+      "id": "371be8725b9e",
+      "priority": 1,
+      "group": "69dc4bbbc0ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "어머니",
+      "meaning": "母亲",
+      "audio": "28558defaae4044550125da67b818728817137fb935d1dabb9e2bd2c1cf8fd12",
+      "id": "bf58df3d5ddc",
+      "priority": 1,
+      "group": "69dc4bbbc0ff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "아버지",
+      "meaningInSourceLanguage": "父亲",
+      "id": "2d8c4db277de",
+      "priority": 0,
+      "group": "bd6cc6b6c253"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "아버지"
+      ],
+      "phrase": [
+        {
+          "word": "父亲",
+          "definition": "아버지"
+        }
+      ],
+      "id": "01a4be7ecfd3",
+      "priority": 1,
+      "group": "bd6cc6b6c253"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아버지",
+      "meaning": "父亲",
+      "audio": "be563b3c681b8265b58f5cbc003b1ebb85c4390e3554a7e83acb8e8d1072d268",
+      "id": "3428f40a3b96",
+      "priority": 1,
+      "group": "bd6cc6b6c253"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "자매",
+      "meaningInSourceLanguage": "姐妹",
+      "id": "5695e0c7e1a3",
+      "priority": 0,
+      "group": "dbfa79f63c8b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "자매"
+      ],
+      "phrase": [
+        {
+          "word": "姐妹",
+          "definition": "자매"
+        }
+      ],
+      "id": "9541d82bd780",
+      "priority": 1,
+      "group": "dbfa79f63c8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "자매",
+      "meaning": "姐妹",
+      "audio": "cc5ee9601a1ef80a3013b4488cbae4b039b0929df1506fa51bf37fa0e2469992",
+      "id": "d4e87ee40d28",
+      "priority": 1,
+      "group": "dbfa79f63c8b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "형제",
+      "meaningInSourceLanguage": "兄弟",
+      "id": "66c204507cb3",
+      "priority": 0,
+      "group": "f73a8157bba2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "형제"
+      ],
+      "phrase": [
+        {
+          "word": "兄弟",
+          "definition": "형제"
+        }
+      ],
+      "id": "1818f1f0a2c4",
+      "priority": 1,
+      "group": "f73a8157bba2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "형제",
+      "meaning": "兄弟",
+      "audio": "7dac15f8e10abd8f8e8d3c4f9ffd00afdde123dfee041c89431575c7b6762fad",
+      "id": "6eecec6ecace",
+      "priority": 1,
+      "group": "f73a8157bba2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "딸",
+      "meaningInSourceLanguage": "女儿",
+      "id": "3e90baecb3b0",
+      "priority": 0,
+      "group": "bf245d0cdec6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "딸"
+      ],
+      "phrase": [
+        {
+          "word": "女儿",
+          "definition": "딸"
+        }
+      ],
+      "id": "61190ee7e1e7",
+      "priority": 1,
+      "group": "bf245d0cdec6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "딸",
+      "meaning": "女儿",
+      "audio": "0c5214ebb5991d6c82093029ee3aca8d3c23c12c04f153ba18ed6b94cfc1b635",
+      "id": "277fe0c88eef",
+      "priority": 1,
+      "group": "bf245d0cdec6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "아들",
+      "meaningInSourceLanguage": "儿子",
+      "id": "7182db39fce3",
+      "priority": 0,
+      "group": "234de6883499"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "아들"
+      ],
+      "phrase": [
+        {
+          "word": "儿子",
+          "definition": "아들"
+        }
+      ],
+      "id": "93b078452f26",
+      "priority": 1,
+      "group": "234de6883499"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아들",
+      "meaning": "儿子",
+      "audio": "a186d3ebf0e5754d5f9886e84206830c35b7fd2e4b27f38be5485e93440ea68d",
+      "id": "acc592951955",
+      "priority": 1,
+      "group": "234de6883499"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "아내",
+      "meaningInSourceLanguage": "妻子",
+      "id": "c241205ef819",
+      "priority": 0,
+      "group": "dd85a642f1d3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "아내"
+      ],
+      "phrase": [
+        {
+          "word": "妻子",
+          "definition": "아내"
+        }
+      ],
+      "id": "12babedb2cea",
+      "priority": 1,
+      "group": "dd85a642f1d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아내",
+      "meaning": "妻子",
+      "audio": "5e7430e23b958de34e4ede6f209a93f8efb93882ee099820f91d92ad07e951e9",
+      "id": "d50599dfdcd7",
+      "priority": 1,
+      "group": "dd85a642f1d3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "남편",
+      "meaningInSourceLanguage": "丈夫",
+      "id": "e2d2d5c65b89",
+      "priority": 0,
+      "group": "209e21627607"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "남편"
+      ],
+      "phrase": [
+        {
+          "word": "丈夫",
+          "definition": "남편"
+        }
+      ],
+      "id": "ab285445ef2b",
+      "priority": 1,
+      "group": "209e21627607"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "남편",
+      "meaning": "丈夫",
+      "audio": "72b9c11a9841d83370c8f2ac06e69fe43b39f50c13b8341bc60a226e3d64b3cf",
+      "id": "a8f7bf86ad43",
+      "priority": 1,
+      "group": "209e21627607"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "친구",
+      "meaningInSourceLanguage": "朋友",
+      "id": "26283952a2a0",
+      "priority": 0,
+      "group": "cc9ecba7455f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "친구"
+      ],
+      "phrase": [
+        {
+          "word": "朋友",
+          "definition": "친구"
+        }
+      ],
+      "id": "10f5d5784a84",
+      "priority": 1,
+      "group": "cc9ecba7455f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "친구",
+      "meaning": "朋友",
+      "audio": "db23d10fc6cf6d796b9dccca09a2aead431f317ba43935e5f86d65696f065248",
+      "id": "fa2c7468be46",
+      "priority": 1,
+      "group": "cc9ecba7455f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "아이",
+      "meaningInSourceLanguage": "孩子",
+      "id": "859e939b4e1b",
+      "priority": 0,
+      "group": "bef924ebfd62"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "아이"
+      ],
+      "phrase": [
+        {
+          "word": "孩子",
+          "definition": "아이"
+        }
+      ],
+      "id": "0c57612a4043",
+      "priority": 1,
+      "group": "bef924ebfd62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "아이",
+      "meaning": "孩子",
+      "audio": "25f3b14b80f51d7facf5caee1066a205dd8ba99c71809dcc442ee61ab18e38a4",
+      "id": "863e46328a7b",
+      "priority": 1,
+      "group": "bef924ebfd62"
+    }
+  ]
+}

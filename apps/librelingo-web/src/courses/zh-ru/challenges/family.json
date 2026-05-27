@@ -1,0 +1,465 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это моя мама.",
+      "meaningInSourceLanguage": "这是我的妈妈。",
+      "id": "dd3dea7da15b",
+      "priority": 0,
+      "group": "66a639110299"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это моя мама.",
+      "meaning": "这是我的妈妈。",
+      "audio": "74b1d3d1963c25fe14e808e21b07b5971eb40ba7e18ad1a9be6dc01332cbffc1",
+      "id": "da658f809270",
+      "priority": 1,
+      "group": "66a639110299"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мой отец высокий.",
+      "meaningInSourceLanguage": "我的爸爸很高。",
+      "id": "af6c1957df1c",
+      "priority": 0,
+      "group": "956f24511daf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мой отец высокий.",
+      "meaning": "我的爸爸很高。",
+      "audio": "db29f0f165f82f7b37d0abd8ed36fd838b7e4ddfe41eb1a6961d6b3ce58610b1",
+      "id": "655ad4f8beb8",
+      "priority": 1,
+      "group": "956f24511daf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня есть сестра.",
+      "meaningInSourceLanguage": "我有一个姐妹。",
+      "id": "8b9e252df813",
+      "priority": 0,
+      "group": "8caa1de54656"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня есть сестра.",
+      "meaning": "我有一个姐妹。",
+      "audio": "6259eab6fb971a70338c29717ffc14683b677a7cc182b9e1bc9495debec86eeb",
+      "id": "7c4dfbe703c2",
+      "priority": 1,
+      "group": "8caa1de54656"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мой брат молодой.",
+      "meaningInSourceLanguage": "我的兄弟很年轻。",
+      "id": "0e030529f5ed",
+      "priority": 0,
+      "group": "68be968d13cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мой брат молодой.",
+      "meaning": "我的兄弟很年轻。",
+      "audio": "259e0d4634aeea02b4eb8756c2dc448c61757d060c95f0118aaae7824e9397ac",
+      "id": "667a1e364735",
+      "priority": 1,
+      "group": "68be968d13cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Она моя подруга.",
+      "meaningInSourceLanguage": "她是我的朋友。",
+      "id": "e23539095b5a",
+      "priority": 0,
+      "group": "0daf25e1de81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Она моя подруга.",
+      "meaning": "她是我的朋友。",
+      "audio": "b569156c8ddb6bc5743101a7b9b01e06cb5adbcc2539a3a457face8a5373c8ba",
+      "id": "0fe6b3f0278e",
+      "priority": 1,
+      "group": "0daf25e1de81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ребёнок счастлив.",
+      "meaningInSourceLanguage": "孩子很高兴。",
+      "id": "444a70eb6e1a",
+      "priority": 0,
+      "group": "011e64b2d93e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ребёнок счастлив.",
+      "meaning": "孩子很高兴。",
+      "audio": "2fa55642d704dcf41763ca88266ecc2f0446c71dedf1b5ae9a729d9bb85d4fc1",
+      "id": "bfb43a70ec29",
+      "priority": 1,
+      "group": "011e64b2d93e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Моя жена добрая.",
+      "meaningInSourceLanguage": "我的妻子很善良。",
+      "id": "e21fece068af",
+      "priority": 0,
+      "group": "ef4f9d57b319"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Моя жена добрая.",
+      "meaning": "我的妻子很善良。",
+      "audio": "d2ecd8fab7d3656156dd589c74ecff5af0354ebe4c6e9caf5a2402443f593218",
+      "id": "8433d168e93c",
+      "priority": 1,
+      "group": "ef4f9d57b319"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "мать",
+      "meaningInSourceLanguage": "母亲",
+      "id": "1d66f9b01196",
+      "priority": 0,
+      "group": "61d8ecfbefe5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "мать"
+      ],
+      "phrase": [
+        {
+          "word": "母亲",
+          "definition": "мать"
+        }
+      ],
+      "id": "03d46cb90293",
+      "priority": 1,
+      "group": "61d8ecfbefe5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "мать",
+      "meaning": "母亲",
+      "audio": "2b482eab73ddc82d7940446b0fe055dc9ce4ee73737b787b0ec9a7ca0b15e157",
+      "id": "bc73363f39bd",
+      "priority": 1,
+      "group": "61d8ecfbefe5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "отец",
+      "meaningInSourceLanguage": "父亲",
+      "id": "c99362f27021",
+      "priority": 0,
+      "group": "4c499551d3b2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "отец"
+      ],
+      "phrase": [
+        {
+          "word": "父亲",
+          "definition": "отец"
+        }
+      ],
+      "id": "a21d42e12f1f",
+      "priority": 1,
+      "group": "4c499551d3b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "отец",
+      "meaning": "父亲",
+      "audio": "46e7e92c7019d1d5a85b66a8d3d3b09c8f20ce650715733dab2a5e2a7082fb23",
+      "id": "0eb505aa5b5f",
+      "priority": 1,
+      "group": "4c499551d3b2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сестра",
+      "meaningInSourceLanguage": "姐妹",
+      "id": "798ac1a4c8e5",
+      "priority": 0,
+      "group": "9dae89ac2dee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сестра"
+      ],
+      "phrase": [
+        {
+          "word": "姐妹",
+          "definition": "сестра"
+        }
+      ],
+      "id": "6cb4fa989fd2",
+      "priority": 1,
+      "group": "9dae89ac2dee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сестра",
+      "meaning": "姐妹",
+      "audio": "1f6b23b46687789569cbea5da6fbe9b9352e948a1c91bb9ca3c2cf7bde10b350",
+      "id": "4e0bd460026a",
+      "priority": 1,
+      "group": "9dae89ac2dee"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "брат",
+      "meaningInSourceLanguage": "兄弟",
+      "id": "bde502d25948",
+      "priority": 0,
+      "group": "2521a9936b36"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "брат"
+      ],
+      "phrase": [
+        {
+          "word": "兄弟",
+          "definition": "брат"
+        }
+      ],
+      "id": "632a0807ae19",
+      "priority": 1,
+      "group": "2521a9936b36"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "брат",
+      "meaning": "兄弟",
+      "audio": "1d1b8c5fcf3a4c74edbd9cb6f4ed8dd6851a829a22b608d81b298160befb1eb3",
+      "id": "d27ea3fb0fe3",
+      "priority": 1,
+      "group": "2521a9936b36"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дочь",
+      "meaningInSourceLanguage": "女儿",
+      "id": "56d76e4e5118",
+      "priority": 0,
+      "group": "e038a01d4ede"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дочь"
+      ],
+      "phrase": [
+        {
+          "word": "女儿",
+          "definition": "дочь"
+        }
+      ],
+      "id": "cdf1690c2757",
+      "priority": 1,
+      "group": "e038a01d4ede"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дочь",
+      "meaning": "女儿",
+      "audio": "c5364b3d8fbc2361ca7b85e0aa995ef1829c198ce98181382df3fae3cc70c84e",
+      "id": "6bfa818555e8",
+      "priority": 1,
+      "group": "e038a01d4ede"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "сын",
+      "meaningInSourceLanguage": "儿子",
+      "id": "d9bfb494123d",
+      "priority": 0,
+      "group": "3b3aff8b2b08"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "сын"
+      ],
+      "phrase": [
+        {
+          "word": "儿子",
+          "definition": "сын"
+        }
+      ],
+      "id": "25feffc49664",
+      "priority": 1,
+      "group": "3b3aff8b2b08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сын",
+      "meaning": "儿子",
+      "audio": "cad5f8a92ef45fba5e3950c3dbe3daee0b926fe3082a99513c93507b5a90ca7c",
+      "id": "ec9e02c93762",
+      "priority": 1,
+      "group": "3b3aff8b2b08"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "жена",
+      "meaningInSourceLanguage": "妻子",
+      "id": "e40e59c74690",
+      "priority": 0,
+      "group": "305bafb7aa51"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "жена"
+      ],
+      "phrase": [
+        {
+          "word": "妻子",
+          "definition": "жена"
+        }
+      ],
+      "id": "c5d6b356e7d4",
+      "priority": 1,
+      "group": "305bafb7aa51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "жена",
+      "meaning": "妻子",
+      "audio": "cb3e53f74cc226504d3c64ac7fdb1b734364c0405e71b5895b94aed1d4c18b6b",
+      "id": "aabb377d4546",
+      "priority": 1,
+      "group": "305bafb7aa51"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "муж",
+      "meaningInSourceLanguage": "丈夫",
+      "id": "775f32e87274",
+      "priority": 0,
+      "group": "ec975bcca949"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "муж"
+      ],
+      "phrase": [
+        {
+          "word": "丈夫",
+          "definition": "муж"
+        }
+      ],
+      "id": "51efd51bd47d",
+      "priority": 1,
+      "group": "ec975bcca949"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "муж",
+      "meaning": "丈夫",
+      "audio": "c56bff3088001935847ffe537684f5e4b1c639d1952db03630aedf2d64bac8c8",
+      "id": "2ecd485c5c3c",
+      "priority": 1,
+      "group": "ec975bcca949"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "друг",
+      "meaningInSourceLanguage": "朋友",
+      "id": "95ceecbd6f83",
+      "priority": 0,
+      "group": "07523127ccf9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "друг"
+      ],
+      "phrase": [
+        {
+          "word": "朋友",
+          "definition": "друг"
+        }
+      ],
+      "id": "8049abd4acdb",
+      "priority": 1,
+      "group": "07523127ccf9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "друг",
+      "meaning": "朋友",
+      "audio": "49aa986c360caed0732596ef40e32538daf6ca4dd3152ae72c04442781aed8db",
+      "id": "6c369253f6ad",
+      "priority": 1,
+      "group": "07523127ccf9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ребёнок",
+      "meaningInSourceLanguage": "孩子",
+      "id": "88dd6cbe051d",
+      "priority": 0,
+      "group": "bb4c611248a9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ребёнок"
+      ],
+      "phrase": [
+        {
+          "word": "孩子",
+          "definition": "ребёнок"
+        }
+      ],
+      "id": "8036a03c8b67",
+      "priority": 1,
+      "group": "bb4c611248a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ребёнок",
+      "meaning": "孩子",
+      "audio": "b64324c19d45e64a38c90424eaff19f9f4fe42661dae1c45135b57e889e6176a",
+      "id": "95f4bd3d0aea",
+      "priority": 1,
+      "group": "bb4c611248a9"
+    }
+  ]
+}

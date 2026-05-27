@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Voglio una bevanda.",
+      "meaningInSourceLanguage": "我想要一杯饮料。",
+      "id": "625493658165",
+      "priority": 0,
+      "group": "8f3cb17d4a00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Voglio una bevanda.",
+      "meaning": "我想要一杯饮料。",
+      "audio": "7cde04fe4e681a7b47a8950f69d19cd0cd3b79eee9f1302debc7dae99c01131a",
+      "id": "80a5557df2fb",
+      "priority": 1,
+      "group": "8f3cb17d4a00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il cibo è buono.",
+      "meaningInSourceLanguage": "食物很好。",
+      "id": "f8433ffd6b8e",
+      "priority": 0,
+      "group": "a91621eb58d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il cibo è buono.",
+      "meaning": "食物很好。",
+      "audio": "5f638b614533b5bcdb64b441372b5d03c1921728bd4b3f6cd54215a9642e6fce",
+      "id": "06014d8169e2",
+      "priority": 1,
+      "group": "a91621eb58d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso avere un bicchiere d'acqua?",
+      "meaningInSourceLanguage": "能给我一杯水吗？",
+      "id": "1982a2401d80",
+      "priority": 0,
+      "group": "3a58875461d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso avere un bicchiere d'acqua?",
+      "meaning": "能给我一杯水吗？",
+      "audio": "b7fbe6618853fadcb54bf8217b03f5912bc3562da8f3ec0b706877ddd2bcff06",
+      "id": "420e38473945",
+      "priority": 1,
+      "group": "3a58875461d0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Abbiamo bisogno di una bottiglia di vino.",
+      "meaningInSourceLanguage": "我们需要一瓶酒。",
+      "id": "bf1795f17bf5",
+      "priority": 0,
+      "group": "e1a0cef5adab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Abbiamo bisogno di una bottiglia di vino.",
+      "meaning": "我们需要一瓶酒。",
+      "audio": "d92767d1c6df6af3a67bfa8ea072d9f4bc944dc93d1f9c6cbe8058a402e91b24",
+      "id": "ac4c1d78d83e",
+      "priority": 1,
+      "group": "e1a0cef5adab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vorrei il dolce.",
+      "meaningInSourceLanguage": "我想要甜点。",
+      "id": "7d72f9fe8712",
+      "priority": 0,
+      "group": "09ee2e89cdf0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vorrei il dolce.",
+      "meaning": "我想要甜点。",
+      "audio": "a5551699aca7d0de5bf326c4dda95a7c0c6017802a34cf14f1596ad3394b9782",
+      "id": "e15fa23df92b",
+      "priority": 1,
+      "group": "09ee2e89cdf0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Passami il sale, per favore.",
+      "meaningInSourceLanguage": "请把盐递给我。",
+      "id": "751f6d581ed5",
+      "priority": 0,
+      "group": "c3533816e653"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Passami il sale, per favore.",
+      "meaning": "请把盐递给我。",
+      "audio": "cbe5175776dd4c662860c0dc6a36d93607ad1f0b5eb56875ecf3b797dd79d636",
+      "id": "b98e00e82e2d",
+      "priority": 1,
+      "group": "c3533816e653"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ristorante",
+      "meaningInSourceLanguage": "餐厅",
+      "id": "19449d6f6e93",
+      "priority": 0,
+      "group": "9742b368e3a2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ristorante"
+      ],
+      "phrase": [
+        {
+          "word": "餐厅",
+          "definition": "ristorante"
+        }
+      ],
+      "id": "a03a8dc45bfe",
+      "priority": 1,
+      "group": "9742b368e3a2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ristorante",
+      "meaning": "餐厅",
+      "audio": "deb02c12ee22061fbbe79291a0b1ba1e1997b4f0638392c168e85b6b5bf92c70",
+      "id": "d52d5fa0d84a",
+      "priority": 1,
+      "group": "9742b368e3a2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bevanda",
+      "meaningInSourceLanguage": "饮料",
+      "id": "2393086c0f6d",
+      "priority": 0,
+      "group": "5324b1a5fe6c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bevanda"
+      ],
+      "phrase": [
+        {
+          "word": "饮料",
+          "definition": "bevanda"
+        }
+      ],
+      "id": "1307c311d1c9",
+      "priority": 1,
+      "group": "5324b1a5fe6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bevanda",
+      "meaning": "饮料",
+      "audio": "26c7e28c2487570e839c68d086cc1d9d4a7e0ce916d051b9eaec673c6870cbaf",
+      "id": "9258d9c01017",
+      "priority": 1,
+      "group": "5324b1a5fe6c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cibo",
+      "meaningInSourceLanguage": "食物",
+      "id": "5443fd3fc35e",
+      "priority": 0,
+      "group": "561e91052dc1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cibo"
+      ],
+      "phrase": [
+        {
+          "word": "食物",
+          "definition": "cibo"
+        }
+      ],
+      "id": "7a1466417f5e",
+      "priority": 1,
+      "group": "561e91052dc1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cibo",
+      "meaning": "食物",
+      "audio": "96c783f6e5b8de607be22a28d6c5d0b87a1ac3b1214774c633bb4e150bdd7b27",
+      "id": "40c713aa3340",
+      "priority": 1,
+      "group": "561e91052dc1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tovagliolo",
+      "meaningInSourceLanguage": "餐巾",
+      "id": "0b258b104a96",
+      "priority": 0,
+      "group": "3b549a5e5ea5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tovagliolo"
+      ],
+      "phrase": [
+        {
+          "word": "餐巾",
+          "definition": "tovagliolo"
+        }
+      ],
+      "id": "ebbdf7060b96",
+      "priority": 1,
+      "group": "3b549a5e5ea5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tovagliolo",
+      "meaning": "餐巾",
+      "audio": "b179347a79ea0a7f3c63840f17e6e1f96d3bc919891b18aaebbe2ed7b444afc1",
+      "id": "027f84303b50",
+      "priority": 1,
+      "group": "3b549a5e5ea5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sale",
+      "meaningInSourceLanguage": "盐",
+      "id": "9828b18f524e",
+      "priority": 0,
+      "group": "554c81712ea4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sale"
+      ],
+      "phrase": [
+        {
+          "word": "盐",
+          "definition": "sale"
+        }
+      ],
+      "id": "b603998e450d",
+      "priority": 1,
+      "group": "554c81712ea4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sale",
+      "meaning": "盐",
+      "audio": "36b04d435157f31a9454b7dc0abba03ccfb7a26f4e84fda1909ef6190fc05f11",
+      "id": "c14aeac087d7",
+      "priority": 1,
+      "group": "554c81712ea4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pepe",
+      "meaningInSourceLanguage": "胡椒",
+      "id": "79b05d6a36d7",
+      "priority": 0,
+      "group": "44693d5e97c4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pepe"
+      ],
+      "phrase": [
+        {
+          "word": "胡椒",
+          "definition": "pepe"
+        }
+      ],
+      "id": "63db14eb09ac",
+      "priority": 1,
+      "group": "44693d5e97c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pepe",
+      "meaning": "胡椒",
+      "audio": "349af07709c1928f100698751cf0e6178279aa42799874890a17611bec15a3f2",
+      "id": "e65a20540da1",
+      "priority": 1,
+      "group": "44693d5e97c4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bicchiere",
+      "meaningInSourceLanguage": "玻璃杯",
+      "id": "7d2e9c04216b",
+      "priority": 0,
+      "group": "dd6a49c630bc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bicchiere"
+      ],
+      "phrase": [
+        {
+          "word": "玻璃杯",
+          "definition": "bicchiere"
+        }
+      ],
+      "id": "d2dd0702dbd6",
+      "priority": 1,
+      "group": "dd6a49c630bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bicchiere",
+      "meaning": "玻璃杯",
+      "audio": "de3b9f49cf932eaf89b662b7a7db6fd23c194299104d7f138de73096945320e0",
+      "id": "27c1dd572895",
+      "priority": 1,
+      "group": "dd6a49c630bc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bottiglia",
+      "meaningInSourceLanguage": "瓶子",
+      "id": "7c1a673d7a1a",
+      "priority": 0,
+      "group": "d992b0a8770d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bottiglia"
+      ],
+      "phrase": [
+        {
+          "word": "瓶子",
+          "definition": "bottiglia"
+        }
+      ],
+      "id": "712fbb0757c2",
+      "priority": 1,
+      "group": "d992b0a8770d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bottiglia",
+      "meaning": "瓶子",
+      "audio": "452ecaa468dc406f04059b0d63f4d0dda49bba65a588759ac779c69101305fbc",
+      "id": "1bc058d084a8",
+      "priority": 1,
+      "group": "d992b0a8770d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dolce",
+      "meaningInSourceLanguage": "甜点",
+      "id": "2b4bf55ce2aa",
+      "priority": 0,
+      "group": "72058cd5afbd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dolce"
+      ],
+      "phrase": [
+        {
+          "word": "甜点",
+          "definition": "dolce"
+        }
+      ],
+      "id": "a59a0176a151",
+      "priority": 1,
+      "group": "72058cd5afbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dolce",
+      "meaning": "甜点",
+      "audio": "83a5ba724741f33f525095380e07197a6c442c66b540aa6605d73caeffc607f6",
+      "id": "790a6b451f7f",
+      "priority": 1,
+      "group": "72058cd5afbd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "piatto principale",
+      "meaningInSourceLanguage": "主菜",
+      "id": "2d9fb7766146",
+      "priority": 0,
+      "group": "3779494e8c78"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "piatto principale"
+      ],
+      "phrase": [
+        {
+          "word": "主菜",
+          "definition": "piatto principale"
+        }
+      ],
+      "id": "67b7c048d465",
+      "priority": 1,
+      "group": "3779494e8c78"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "piatto principale",
+      "meaning": "主菜",
+      "audio": "6e960410e3b54e6b1b74a7bf655a67b95c9cd942c5af724cd09f07cc49fba437",
+      "id": "92780fa9268c",
+      "priority": 1,
+      "group": "3779494e8c78"
+    }
+  ]
+}

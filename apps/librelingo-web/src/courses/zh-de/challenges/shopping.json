@@ -1,0 +1,482 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wie viel kostet das?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "d2de72a83325",
+      "priority": 0,
+      "group": "15da103595a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wie viel kostet das?",
+      "meaning": "这个多少钱？",
+      "audio": "5f158c504ad16a1fcb85435eb18ce20bc0cbe742013bb6525b7f1eabdca3b4e0",
+      "id": "4cebc8b7bc65",
+      "priority": 1,
+      "group": "15da103595a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Es ist zu teuer.",
+      "meaningInSourceLanguage": "太贵了。",
+      "id": "4ddd41dd45aa",
+      "priority": 0,
+      "group": "84528fcd4ca6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Es ist zu teuer.",
+      "meaning": "太贵了。",
+      "audio": "a570259e47250bf51a734cf1f24561933a85b9d610d6bc64699e0a67b5de7694",
+      "id": "d7177e98ff9e",
+      "priority": 1,
+      "group": "84528fcd4ca6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Das ist gute Qualität.",
+      "meaningInSourceLanguage": "这个质量很好。",
+      "id": "06a1dd7c4449",
+      "priority": 0,
+      "group": "00ff05ac393b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Das ist gute Qualität.",
+      "meaning": "这个质量很好。",
+      "audio": "9e0c1ab816926b067c249832603dc6d5f8a2076b3db6e6af8e57480c970fe7ec",
+      "id": "2f038ed1831c",
+      "priority": 1,
+      "group": "00ff05ac393b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ist das Geschäft geöffnet?",
+      "meaningInSourceLanguage": "商店开门吗？",
+      "id": "72df3efd4ac8",
+      "priority": 0,
+      "group": "f14ebd2c00f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ist das Geschäft geöffnet?",
+      "meaning": "商店开门吗？",
+      "audio": "12343046066c44d06de7e8f0e9b02bf26bccd0a5876c10c188abc7b477f9c587",
+      "id": "34a7a172abeb",
+      "priority": 1,
+      "group": "f14ebd2c00f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Es ist heute geschlossen.",
+      "meaningInSourceLanguage": "今天关门了。",
+      "id": "59db38fc899a",
+      "priority": 0,
+      "group": "1e0a8eb915e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Es ist heute geschlossen.",
+      "meaning": "今天关门了。",
+      "audio": "556b07987c604d0d0547971a5f3e2c6cd3193119836f68fbb81ae149a404e40c",
+      "id": "83cfc14a77ac",
+      "priority": 1,
+      "group": "1e0a8eb915e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kann ich das zurückgeben?",
+      "meaningInSourceLanguage": "能退货吗？",
+      "id": "2e3959ddb4bf",
+      "priority": 0,
+      "group": "90cb6037fa02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kann ich das zurückgeben?",
+      "meaning": "能退货吗？",
+      "audio": "bb44a601bec5384f71fe34b00227502332a362696d34352cceca3035439e62fe",
+      "id": "ac3b68163842",
+      "priority": 1,
+      "group": "90cb6037fa02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Das Geschäft ist dort drüben.",
+      "meaningInSourceLanguage": "商店在那里。",
+      "id": "399199a36b4c",
+      "priority": 0,
+      "group": "0f66e35aaa7d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Das Geschäft ist dort drüben.",
+      "meaning": "商店在那里。",
+      "audio": "44cfb9816fcd38f315e6e583cf79281f47911bcb9068320a7668bb00b9f5e8d1",
+      "id": "7e59c953136d",
+      "priority": 1,
+      "group": "0f66e35aaa7d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich habe kein Geld.",
+      "meaningInSourceLanguage": "我没钱。",
+      "id": "fa57b38f4cc7",
+      "priority": 0,
+      "group": "7fb1674cc400"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich habe kein Geld.",
+      "meaning": "我没钱。",
+      "audio": "57d6559eb7ece48344c86fa531c020f68fcdda4b6a2c422a103841343905f5bb",
+      "id": "47f2af526b84",
+      "priority": 1,
+      "group": "7fb1674cc400"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Geschäft",
+      "meaningInSourceLanguage": "商店",
+      "id": "0ebd11dc43dd",
+      "priority": 0,
+      "group": "12463e814993"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Geschäft"
+      ],
+      "phrase": [
+        {
+          "word": "商店",
+          "definition": "Geschäft"
+        }
+      ],
+      "id": "23104c188f6f",
+      "priority": 1,
+      "group": "12463e814993"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Geschäft",
+      "meaning": "商店",
+      "audio": "830d65063ff04a93f4f5503ce4209af7fc5d9f212d55cd49f72c364d774b0e7b",
+      "id": "bfa5f8bdac44",
+      "priority": 1,
+      "group": "12463e814993"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Preis",
+      "meaningInSourceLanguage": "价格",
+      "id": "a721617d3469",
+      "priority": 0,
+      "group": "d89316f1d9da"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Preis"
+      ],
+      "phrase": [
+        {
+          "word": "价格",
+          "definition": "Preis"
+        }
+      ],
+      "id": "4c206afcad4d",
+      "priority": 1,
+      "group": "d89316f1d9da"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Preis",
+      "meaning": "价格",
+      "audio": "d8168e7f3abecb6205570b29c1dbb2da39aeff9fde19501ead146ce0c0b20fbc",
+      "id": "d56dca22181a",
+      "priority": 1,
+      "group": "d89316f1d9da"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "teuer",
+      "meaningInSourceLanguage": "贵的",
+      "id": "bedec19c6a76",
+      "priority": 0,
+      "group": "2e61d3350696"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "teuer"
+      ],
+      "phrase": [
+        {
+          "word": "贵的",
+          "definition": "teuer"
+        }
+      ],
+      "id": "82306ed04b83",
+      "priority": 1,
+      "group": "2e61d3350696"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teuer",
+      "meaning": "贵的",
+      "audio": "a9e31e559aef69bc3283ba686cce9891003cc8af8261f6df005b757d42f3f58f",
+      "id": "7de1377e599f",
+      "priority": 1,
+      "group": "2e61d3350696"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "billig",
+      "meaningInSourceLanguage": "便宜的",
+      "id": "4022b5594c74",
+      "priority": 0,
+      "group": "58fc34984581"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "billig"
+      ],
+      "phrase": [
+        {
+          "word": "便宜的",
+          "definition": "billig"
+        }
+      ],
+      "id": "3626543acfb0",
+      "priority": 1,
+      "group": "58fc34984581"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "billig",
+      "meaning": "便宜的",
+      "audio": "df11d43ebe50004d505a88526f53520552ca6dd764c3e6f92f7a48823fa97932",
+      "id": "46a2db36f48c",
+      "priority": 1,
+      "group": "58fc34984581"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Geld",
+      "meaningInSourceLanguage": "钱",
+      "id": "f08f3234a38d",
+      "priority": 0,
+      "group": "0406c90f7fcf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Geld"
+      ],
+      "phrase": [
+        {
+          "word": "钱",
+          "definition": "Geld"
+        }
+      ],
+      "id": "70b0ad20ca9f",
+      "priority": 1,
+      "group": "0406c90f7fcf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Geld",
+      "meaning": "钱",
+      "audio": "439b3d985e8e1e61297e05be83036a1ab6247a814d22a81a8a26c8a7bb905776",
+      "id": "f4545cc52c29",
+      "priority": 1,
+      "group": "0406c90f7fcf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Qualität",
+      "meaningInSourceLanguage": "质量",
+      "id": "ea002da67f20",
+      "priority": 0,
+      "group": "f4f4cbad227c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Qualität"
+      ],
+      "phrase": [
+        {
+          "word": "质量",
+          "definition": "Qualität"
+        }
+      ],
+      "id": "6388b15d69dd",
+      "priority": 1,
+      "group": "f4f4cbad227c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Qualität",
+      "meaning": "质量",
+      "audio": "73d2bae926afc5b1c795a52b76c3e906073d1e1f3dda13da7dc262fcf2d54be6",
+      "id": "f36705a59471",
+      "priority": 1,
+      "group": "f4f4cbad227c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Marke",
+      "meaningInSourceLanguage": "品牌",
+      "id": "fd47f204907e",
+      "priority": 0,
+      "group": "ccabf6731eff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Marke"
+      ],
+      "phrase": [
+        {
+          "word": "品牌",
+          "definition": "Marke"
+        }
+      ],
+      "id": "c760a7d0fc61",
+      "priority": 1,
+      "group": "ccabf6731eff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Marke",
+      "meaning": "品牌",
+      "audio": "5c5bdbfb5f585c955e2ba8a618b08e85c2d4e4cf9a001ad5b65b59573dae8bf2",
+      "id": "40de259cebb8",
+      "priority": 1,
+      "group": "ccabf6731eff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Rückgabe",
+      "meaningInSourceLanguage": "退货",
+      "id": "9e7ef21e04a3",
+      "priority": 0,
+      "group": "522f7fbaba08"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Rückgabe"
+      ],
+      "phrase": [
+        {
+          "word": "退货",
+          "definition": "Rückgabe"
+        }
+      ],
+      "id": "c7276dc9c9f3",
+      "priority": 1,
+      "group": "522f7fbaba08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Rückgabe",
+      "meaning": "退货",
+      "audio": "76fcca68c575fd313712c7fa2ca5eba120f30a0fc8dc100efbd8bf4c7325b009",
+      "id": "fde41198469e",
+      "priority": 1,
+      "group": "522f7fbaba08"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "geöffnet",
+      "meaningInSourceLanguage": "营业",
+      "id": "d45f75e2a719",
+      "priority": 0,
+      "group": "8837a3c3ebaf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "geöffnet"
+      ],
+      "phrase": [
+        {
+          "word": "营业",
+          "definition": "geöffnet"
+        }
+      ],
+      "id": "7818c67b4abe",
+      "priority": 1,
+      "group": "8837a3c3ebaf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "geöffnet",
+      "meaning": "营业",
+      "audio": "9c40eee142cb267753d99608fcfbbbca4ba673b4cf27552569f409240a753c8e",
+      "id": "e33de6d85ecc",
+      "priority": 1,
+      "group": "8837a3c3ebaf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "geschlossen",
+      "meaningInSourceLanguage": "关门",
+      "id": "9d71f25e9222",
+      "priority": 0,
+      "group": "ad8ef6083167"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "geschlossen"
+      ],
+      "phrase": [
+        {
+          "word": "关门",
+          "definition": "geschlossen"
+        }
+      ],
+      "id": "a39c5e070d67",
+      "priority": 1,
+      "group": "ad8ef6083167"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "geschlossen",
+      "meaning": "关门",
+      "audio": "e78f00cec65a799b2674eb1ef9e22527107f9352cc30fd547c19a9214ff44c41",
+      "id": "06afee0ad15b",
+      "priority": 1,
+      "group": "ad8ef6083167"
+    }
+  ]
+}

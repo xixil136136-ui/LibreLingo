@@ -1,0 +1,567 @@
+{
+  "id": "fde8df7dfb1f",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ticket",
+      "meaningInSourceLanguage": "票",
+      "id": "cf0a39690ae9",
+      "priority": 0,
+      "group": "eb1d148f550e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ticket",
+      "meaning": "票",
+      "audio": "ee1fa56d18534aa8a708056f2d7ac439",
+      "id": "1251fb59b114",
+      "priority": 1,
+      "group": "eb1d148f550e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "audience",
+      "meaningInSourceLanguage": "观众",
+      "id": "8b5cb0e9ca0e",
+      "priority": 0,
+      "group": "690b4742b488"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "audience",
+      "meaning": "观众",
+      "audio": "e71dd28629db43719e3700b4303d35ab",
+      "id": "0da28b2b78c0",
+      "priority": 1,
+      "group": "690b4742b488"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stage",
+      "meaningInSourceLanguage": "舞台",
+      "id": "791485d239ba",
+      "priority": 0,
+      "group": "440dff53aeb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stage",
+      "meaning": "舞台",
+      "audio": "7d5486a2534e4b60b85dc6ebf74ba31b",
+      "id": "e1ba326a9ef3",
+      "priority": 1,
+      "group": "440dff53aeb7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "costume",
+      "meaningInSourceLanguage": "服装",
+      "id": "3d9bb76968a5",
+      "priority": 0,
+      "group": "14398dcbec22"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "costume",
+      "meaning": "服装",
+      "audio": "941d68e23fd44dd9bfeb0fbbd79e8809",
+      "id": "c2b1a40388bf",
+      "priority": 1,
+      "group": "14398dcbec22"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "makeup",
+      "meaningInSourceLanguage": "化妆",
+      "id": "1f67d7f897ca",
+      "priority": 0,
+      "group": "334bc9878fa4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "makeup",
+      "meaning": "化妆",
+      "audio": "bfa264b796474db0ad9c1e3dc9da1bae",
+      "id": "b1f55e2378f9",
+      "priority": 1,
+      "group": "334bc9878fa4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "props",
+      "meaningInSourceLanguage": "道具",
+      "id": "3fb332f25590",
+      "priority": 0,
+      "group": "f1d52a3e0701"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "props",
+      "meaning": "道具",
+      "audio": "b4145eca38ce448bb1011e937fcee57d",
+      "id": "1dddd4665eae",
+      "priority": 1,
+      "group": "f1d52a3e0701"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "game",
+      "meaningInSourceLanguage": "游戏",
+      "id": "3a29316a3d39",
+      "priority": 0,
+      "group": "546394c9f62f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "game",
+      "meaning": "游戏",
+      "audio": "7f9048aa192246a0abd499f7b53f6d34",
+      "id": "f1b1a8590a85",
+      "priority": 1,
+      "group": "546394c9f62f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "video game",
+      "meaningInSourceLanguage": "电子游戏",
+      "id": "f2ccecebbb9b",
+      "priority": 0,
+      "group": "f8588946b3e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "video game",
+      "meaning": "电子游戏",
+      "audio": "d31e214a8f554ca6a7e9fee3f8abf32d",
+      "id": "afcb60e67fdd",
+      "priority": 1,
+      "group": "f8588946b3e1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "board game",
+      "meaningInSourceLanguage": "桌游",
+      "id": "813908ffa97e",
+      "priority": 0,
+      "group": "e2d1ea31ed75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "board game",
+      "meaning": "桌游",
+      "audio": "2546e8f133724df787e4b13827ebfdff",
+      "id": "673254cae1c0",
+      "priority": 1,
+      "group": "e2d1ea31ed75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "card game",
+      "meaningInSourceLanguage": "纸牌游戏",
+      "id": "8eecf188ff06",
+      "priority": 0,
+      "group": "eab838dab791"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "card game",
+      "meaning": "纸牌游戏",
+      "audio": "14cade26e46046279f43bbf39cd94ffe",
+      "id": "6a164d6fe173",
+      "priority": 1,
+      "group": "eab838dab791"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "puzzle",
+      "meaningInSourceLanguage": "拼图",
+      "id": "6cb80b588798",
+      "priority": 0,
+      "group": "8ce28c88d8cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "puzzle",
+      "meaning": "拼图",
+      "audio": "3af325cfce4a4f978ece15ab9f4fd483",
+      "id": "0383d22b9d0c",
+      "priority": 1,
+      "group": "8ce28c88d8cd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "crossword",
+      "meaningInSourceLanguage": "填字游戏",
+      "id": "923b92021203",
+      "priority": 0,
+      "group": "ab70da0c0657"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "crossword",
+      "meaning": "填字游戏",
+      "audio": "1b37e726af3741ebbacd591b1a64935b",
+      "id": "756e79a849c7",
+      "priority": 1,
+      "group": "ab70da0c0657"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "reading",
+      "meaningInSourceLanguage": "阅读",
+      "id": "985f770e5cc9",
+      "priority": 0,
+      "group": "068bdf2a02af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reading",
+      "meaning": "阅读",
+      "audio": "bb7895d7d8254bf598045a4dd72c30b6",
+      "id": "fe940401556c",
+      "priority": 1,
+      "group": "068bdf2a02af"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "book",
+      "meaningInSourceLanguage": "书",
+      "id": "4301d2e5623b",
+      "priority": 0,
+      "group": "695f40f1ecbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "book",
+      "meaning": "书",
+      "audio": "fda9cd3ae4a64b6ea03345b5e83f1a9c",
+      "id": "6cc5550948da",
+      "priority": 1,
+      "group": "695f40f1ecbb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "magazine",
+      "meaningInSourceLanguage": "杂志",
+      "id": "ab7e1b2e84a0",
+      "priority": 0,
+      "group": "f14f88ebde6b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "magazine",
+      "meaning": "杂志",
+      "audio": "be7226399c4c472c8923423cb728b204",
+      "id": "31fde8c67b68",
+      "priority": 1,
+      "group": "f14f88ebde6b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "newspaper",
+      "meaningInSourceLanguage": "报纸",
+      "id": "309bde7bc0e0",
+      "priority": 0,
+      "group": "615ff6d2a2f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "newspaper",
+      "meaning": "报纸",
+      "audio": "531f73f656974030a02e8c1e86047a88",
+      "id": "d5a7e4276d00",
+      "priority": 1,
+      "group": "615ff6d2a2f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comic",
+      "meaningInSourceLanguage": "漫画",
+      "id": "834dad6bc864",
+      "priority": 0,
+      "group": "727f0be370b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comic",
+      "meaning": "漫画",
+      "audio": "d2ded0182d7e46fdaa93d763e99e6a87",
+      "id": "1c8a3eb5b3b8",
+      "priority": 1,
+      "group": "727f0be370b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hobby",
+      "meaningInSourceLanguage": "爱好",
+      "id": "b7e397137a20",
+      "priority": 0,
+      "group": "51f7d9064f38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hobby",
+      "meaning": "爱好",
+      "audio": "29f8a218fc584b9a8c9ea52011c8240a",
+      "id": "64967a284365",
+      "priority": 1,
+      "group": "51f7d9064f38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "collection",
+      "meaningInSourceLanguage": "收藏",
+      "id": "17148e609dd0",
+      "priority": 0,
+      "group": "fe4dd1d11d3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "collection",
+      "meaning": "收藏",
+      "audio": "ff6728f9afea433eb6259ac54f8c045b",
+      "id": "df67cdaaf5e5",
+      "priority": 1,
+      "group": "fe4dd1d11d3c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "travel",
+      "meaningInSourceLanguage": "旅行",
+      "id": "301ce1bccde1",
+      "priority": 0,
+      "group": "ec01ed5066e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "travel",
+      "meaning": "旅行",
+      "audio": "f5dde9a948324828949f1c940da93084",
+      "id": "ac71762b363e",
+      "priority": 1,
+      "group": "ec01ed5066e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sightseeing",
+      "meaningInSourceLanguage": "观光",
+      "id": "1777928d1c9f",
+      "priority": 0,
+      "group": "15157dd2f571"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sightseeing",
+      "meaning": "观光",
+      "audio": "ce1753cc9e284343accee44161fb8739",
+      "id": "5bef2b7b1c1e",
+      "priority": 1,
+      "group": "15157dd2f571"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cooking",
+      "meaningInSourceLanguage": "烹饪",
+      "id": "8f7e6a02e2d8",
+      "priority": 0,
+      "group": "5a3fc4179133"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cooking",
+      "meaning": "烹饪",
+      "audio": "88ed5f076a5d4159a2bfaa68584703c8",
+      "id": "b0f65350b7da",
+      "priority": 1,
+      "group": "5a3fc4179133"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "baking",
+      "meaningInSourceLanguage": "烘焙",
+      "id": "6a159efeae86",
+      "priority": 0,
+      "group": "69fa540d9471"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "baking",
+      "meaning": "烘焙",
+      "audio": "28d993121f794cb488e0ecc017aa127e",
+      "id": "7ae84d3a05d6",
+      "priority": 1,
+      "group": "69fa540d9471"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fishing",
+      "meaningInSourceLanguage": "钓鱼",
+      "id": "71fc2c272899",
+      "priority": 0,
+      "group": "a5ea86d35a4c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fishing",
+      "meaning": "钓鱼",
+      "audio": "4d80eb27f75f4e0aa3c971cc2d3ea09d",
+      "id": "ac5553035e6f",
+      "priority": 1,
+      "group": "a5ea86d35a4c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "camping",
+      "meaningInSourceLanguage": "露营",
+      "id": "b6b8a22ed6cb",
+      "priority": 0,
+      "group": "9abb16605fc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "camping",
+      "meaning": "露营",
+      "audio": "c18dce08e19546bf8d3a728d3a850d86",
+      "id": "722dbac38f1a",
+      "priority": 1,
+      "group": "9abb16605fc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "karaoke",
+      "meaningInSourceLanguage": "卡拉OK",
+      "id": "adc17ce3d801",
+      "priority": 0,
+      "group": "754de480b55c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "karaoke",
+      "meaning": "卡拉OK",
+      "audio": "58f1b0a3dcf742a0b36b86b01d5cc3a7",
+      "id": "993a9c3b5705",
+      "priority": 1,
+      "group": "754de480b55c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "singing",
+      "meaningInSourceLanguage": "唱歌",
+      "id": "5dfb3ce36017",
+      "priority": 0,
+      "group": "f198c891d71e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "singing",
+      "meaning": "唱歌",
+      "audio": "76c47095994149c0a81085ff058bbfce",
+      "id": "dbf0cfcf3c93",
+      "priority": 1,
+      "group": "f198c891d71e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "internet",
+      "meaningInSourceLanguage": "上网",
+      "id": "b10946b354c8",
+      "priority": 0,
+      "group": "7362d6d83509"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "internet",
+      "meaning": "上网",
+      "audio": "add7fe0df5764fc3a0d98734e12bb71d",
+      "id": "0435cf02d22d",
+      "priority": 1,
+      "group": "7362d6d83509"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "social media",
+      "meaningInSourceLanguage": "社交媒体",
+      "id": "8e8eb0d2813a",
+      "priority": 0,
+      "group": "82cf7efe9bc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "social media",
+      "meaning": "社交媒体",
+      "audio": "77a94f91232f46e192a7aa880bef4faa",
+      "id": "7d5d0d8cbdd8",
+      "priority": 1,
+      "group": "82cf7efe9bc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "streaming",
+      "meaningInSourceLanguage": "流媒体",
+      "id": "a897c7a908d3",
+      "priority": 0,
+      "group": "b80eddba31ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "streaming",
+      "meaning": "流媒体",
+      "audio": "f82f9741e4b144938f28ea480cf024f0",
+      "id": "d2aa49210e2a",
+      "priority": 1,
+      "group": "b80eddba31ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "podcast",
+      "meaningInSourceLanguage": "播客",
+      "id": "87d03d89175d",
+      "priority": 0,
+      "group": "e52708533694"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "podcast",
+      "meaning": "播客",
+      "audio": "16d8e03e041945eabcbb28e4cbab1922",
+      "id": "aec573405bae",
+      "priority": 1,
+      "group": "e52708533694"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "blog",
+      "meaningInSourceLanguage": "博客",
+      "id": "1d38452b2403",
+      "priority": 0,
+      "group": "d4a78925c901"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "blog",
+      "meaning": "博客",
+      "audio": "2ad4bb4df14d4417b4f9d04b838b77fc",
+      "id": "3c87d818d101",
+      "priority": 1,
+      "group": "d4a78925c901"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vlog",
+      "meaningInSourceLanguage": "视频博客",
+      "id": "6fbbd57fca4c",
+      "priority": 0,
+      "group": "cdc96ec2f426"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vlog",
+      "meaning": "视频博客",
+      "audio": "7aa1c2bfa53b4e2f87c8a54c2998a52a",
+      "id": "9f543b61bbef",
+      "priority": 1,
+      "group": "cdc96ec2f426"
+    }
+  ]
+}

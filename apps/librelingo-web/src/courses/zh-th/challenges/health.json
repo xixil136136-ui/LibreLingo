@@ -1,0 +1,465 @@
+{
+  "id": "e859eeaa5871",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันต้องการหมอ",
+      "meaningInSourceLanguage": "我需要医生。",
+      "id": "f076391d595f",
+      "priority": 0,
+      "group": "7494a5834b37"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันต้องการหมอ",
+      "meaning": "我需要医生。",
+      "audio": "7a92b8df4255315bd66ff74700965d48e8eeacecf78a0657370c71e5ee7f0cb0",
+      "id": "73150746f4c3",
+      "priority": 1,
+      "group": "7494a5834b37"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "โรงพยาบาลอยู่ที่ไหน",
+      "meaningInSourceLanguage": "医院在哪里？",
+      "id": "e29e874f8335",
+      "priority": 0,
+      "group": "951a448ff8ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "โรงพยาบาลอยู่ที่ไหน",
+      "meaning": "医院在哪里？",
+      "audio": "e82bd0275a1d0b40a2b08288a127e3ac4927c29c459f7df114e15fd73b8ae8d7",
+      "id": "ff6edae742ff",
+      "priority": 1,
+      "group": "951a448ff8ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันปวดหัว",
+      "meaningInSourceLanguage": "我头痛。",
+      "id": "289abcf00389",
+      "priority": 0,
+      "group": "c5c9985240f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันปวดหัว",
+      "meaning": "我头痛。",
+      "audio": "2708c09f015cb8189ad4b9c536e65f5924303906047f2086090db85b6702f454",
+      "id": "7949b810334d",
+      "priority": 1,
+      "group": "c5c9985240f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันเป็นไข้",
+      "meaningInSourceLanguage": "我发烧了。",
+      "id": "0b126f53a075",
+      "priority": 0,
+      "group": "ba6ef41a6ac4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันเป็นไข้",
+      "meaning": "我发烧了。",
+      "audio": "451ffc0ec2b07b0a616646505d03b02c2cbe72510db287ce64ea1d2a9ed4cc01",
+      "id": "94afda20db87",
+      "priority": 1,
+      "group": "ba6ef41a6ac4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "กินยานี้",
+      "meaningInSourceLanguage": "吃这个药。",
+      "id": "0173ba00accc",
+      "priority": 0,
+      "group": "13d9d95bf1b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "กินยานี้",
+      "meaning": "吃这个药。",
+      "audio": "5aecb90c611bc178856760b7f58307a3502c43bc14defcbd8fa8b2bc1eb49753",
+      "id": "2329d184d2c8",
+      "priority": 1,
+      "group": "13d9d95bf1b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "คุณต้องการพักผ่อน",
+      "meaningInSourceLanguage": "你需要休息。",
+      "id": "300c0f5a33b2",
+      "priority": 0,
+      "group": "b96c035e33a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "คุณต้องการพักผ่อน",
+      "meaning": "你需要休息。",
+      "audio": "d7a89b25b3472d2195450aa9cd5fdf4f8f537082dc0af991736eab0de8c4f30d",
+      "id": "28dd2145b756",
+      "priority": 1,
+      "group": "b96c035e33a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันปวดท้อง",
+      "meaningInSourceLanguage": "我肚子痛。",
+      "id": "f6504616dcec",
+      "priority": 0,
+      "group": "1a529ed12da6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันปวดท้อง",
+      "meaning": "我肚子痛。",
+      "audio": "519e5b5178e23172b5b8bfc1bc3df86870e33d6e7dd270230ac83976365b89e9",
+      "id": "837319a5c640",
+      "priority": 1,
+      "group": "1a529ed12da6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "หมอ",
+      "meaningInSourceLanguage": "医生",
+      "id": "29645144a441",
+      "priority": 0,
+      "group": "60ea03cfe6e0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "หมอ"
+      ],
+      "phrase": [
+        {
+          "word": "医生",
+          "definition": "หมอ"
+        }
+      ],
+      "id": "e8088fb21301",
+      "priority": 1,
+      "group": "60ea03cfe6e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "หมอ",
+      "meaning": "医生",
+      "audio": "9064935b21b178ca6782d2e5baf08be6d9731317707aebb8b39780721cea15c7",
+      "id": "cf51c8604b4a",
+      "priority": 1,
+      "group": "60ea03cfe6e0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "โรงพยาบาล",
+      "meaningInSourceLanguage": "医院",
+      "id": "a0a37c9505f8",
+      "priority": 0,
+      "group": "c8a2ad9e0d8c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "โรงพยาบาล"
+      ],
+      "phrase": [
+        {
+          "word": "医院",
+          "definition": "โรงพยาบาล"
+        }
+      ],
+      "id": "1129165f69bc",
+      "priority": 1,
+      "group": "c8a2ad9e0d8c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "โรงพยาบาล",
+      "meaning": "医院",
+      "audio": "f5158c78d770f8868eb14fd4453fdc8cb083a5303047c5397a72d2673924ea28",
+      "id": "f1a92f8f87b0",
+      "priority": 1,
+      "group": "c8a2ad9e0d8c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ยา",
+      "meaningInSourceLanguage": "药",
+      "id": "14afaf198ff5",
+      "priority": 0,
+      "group": "56155a199db3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ยา"
+      ],
+      "phrase": [
+        {
+          "word": "药",
+          "definition": "ยา"
+        }
+      ],
+      "id": "4469ee8e4f14",
+      "priority": 1,
+      "group": "56155a199db3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ยา",
+      "meaning": "药",
+      "audio": "6339466fbe10a76d7933bcf506b89da72e564aee4721844f716d133c87a549ed",
+      "id": "d3e47ca61f17",
+      "priority": 1,
+      "group": "56155a199db3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ปวดหัว",
+      "meaningInSourceLanguage": "头痛",
+      "id": "a474f3ab688f",
+      "priority": 0,
+      "group": "d36c70539cb7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ปวดหัว"
+      ],
+      "phrase": [
+        {
+          "word": "头痛",
+          "definition": "ปวดหัว"
+        }
+      ],
+      "id": "06e1daaef298",
+      "priority": 1,
+      "group": "d36c70539cb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ปวดหัว",
+      "meaning": "头痛",
+      "audio": "62f3784dcb815511ede5ba4e97aaa1285878c00a7c76a8fd4a6ebabac99ef641",
+      "id": "6887ab9423db",
+      "priority": 1,
+      "group": "d36c70539cb7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ไข้",
+      "meaningInSourceLanguage": "发烧",
+      "id": "7962f3e33e01",
+      "priority": 0,
+      "group": "4cb0a1a5613e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ไข้"
+      ],
+      "phrase": [
+        {
+          "word": "发烧",
+          "definition": "ไข้"
+        }
+      ],
+      "id": "65721d2094f9",
+      "priority": 1,
+      "group": "4cb0a1a5613e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไข้",
+      "meaning": "发烧",
+      "audio": "787e30644feaadfadc9d59e62e5e1ebaba23c91facff75983f78d5a084bdb61f",
+      "id": "1ea80345da12",
+      "priority": 1,
+      "group": "4cb0a1a5613e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ไอ",
+      "meaningInSourceLanguage": "咳嗽",
+      "id": "3e010c9b3283",
+      "priority": 0,
+      "group": "07bd7074091b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ไอ"
+      ],
+      "phrase": [
+        {
+          "word": "咳嗽",
+          "definition": "ไอ"
+        }
+      ],
+      "id": "250154931af3",
+      "priority": 1,
+      "group": "07bd7074091b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไอ",
+      "meaning": "咳嗽",
+      "audio": "c64820179c5433d73456b5d62072f5695d17fb9be7a3fc580432aecd052d2095",
+      "id": "8e44350f2f2e",
+      "priority": 1,
+      "group": "07bd7074091b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ปวด",
+      "meaningInSourceLanguage": "疼痛",
+      "id": "8da2098fd376",
+      "priority": 0,
+      "group": "c88ed22e7439"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ปวด"
+      ],
+      "phrase": [
+        {
+          "word": "疼痛",
+          "definition": "ปวด"
+        }
+      ],
+      "id": "f13ebd494244",
+      "priority": 1,
+      "group": "c88ed22e7439"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ปวด",
+      "meaning": "疼痛",
+      "audio": "264c9e85f4bbcfbc001cb1b9b35ec0c0f399b235cb913f695947f2b173e90961",
+      "id": "0499f2ee7d71",
+      "priority": 1,
+      "group": "c88ed22e7439"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ร้านขายยา",
+      "meaningInSourceLanguage": "药店",
+      "id": "66fd15a09830",
+      "priority": 0,
+      "group": "59937073836b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ร้านขายยา"
+      ],
+      "phrase": [
+        {
+          "word": "药店",
+          "definition": "ร้านขายยา"
+        }
+      ],
+      "id": "4c2f480b9cc6",
+      "priority": 1,
+      "group": "59937073836b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ร้านขายยา",
+      "meaning": "药店",
+      "audio": "8f28d5475921d9ef0f902475eb266b7316fadd7f40bee1f7bfefd6c41f4a9c3f",
+      "id": "a0741aa1635f",
+      "priority": 1,
+      "group": "59937073836b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "พักผ่อน",
+      "meaningInSourceLanguage": "休息",
+      "id": "dcee1383327c",
+      "priority": 0,
+      "group": "535dd9ddd07a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "พักผ่อน"
+      ],
+      "phrase": [
+        {
+          "word": "休息",
+          "definition": "พักผ่อน"
+        }
+      ],
+      "id": "dd17f6a3a6f2",
+      "priority": 1,
+      "group": "535dd9ddd07a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พักผ่อน",
+      "meaning": "休息",
+      "audio": "82a900532f42081f4756b73df322e762db09e52883050791493e22d040d2e1e6",
+      "id": "c3da325529bf",
+      "priority": 1,
+      "group": "535dd9ddd07a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ปวดท้อง",
+      "meaningInSourceLanguage": "肚子痛",
+      "id": "298fcc288c2d",
+      "priority": 0,
+      "group": "a8535d9ccff0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ปวดท้อง"
+      ],
+      "phrase": [
+        {
+          "word": "肚子痛",
+          "definition": "ปวดท้อง"
+        }
+      ],
+      "id": "dd2ffe9314ad",
+      "priority": 1,
+      "group": "a8535d9ccff0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ปวดท้อง",
+      "meaning": "肚子痛",
+      "audio": "c3bceab334b7822ed4f039d27d661dd7a6ba6d5ae2713e5901e6d9aea5d7bb85",
+      "id": "906c9530b2e0",
+      "priority": 1,
+      "group": "a8535d9ccff0"
+    }
+  ]
+}

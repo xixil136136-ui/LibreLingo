@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Поверните налево здесь.",
+      "meaningInSourceLanguage": "在这里左转。",
+      "id": "af8ff71097b0",
+      "priority": 0,
+      "group": "a447198af305"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Поверните налево здесь.",
+      "meaning": "在这里左转。",
+      "audio": "85472a47f97bfab741b1143ce16215f936a5ff75ddf542739f90704fedb67125",
+      "id": "4a5719f46c4c",
+      "priority": 1,
+      "group": "a447198af305"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Идите прямо.",
+      "meaningInSourceLanguage": "一直往前走。",
+      "id": "3861bfbb4759",
+      "priority": 0,
+      "group": "60c471217e65"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Идите прямо.",
+      "meaning": "一直往前走。",
+      "audio": "29edd33e3cedb628aae8d2305f5da3eb151e40c1aea52cbb1225e4d151dcbabd",
+      "id": "7273e1c8c13a",
+      "priority": 1,
+      "group": "60c471217e65"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Где находится вокзал?",
+      "meaningInSourceLanguage": "车站在哪里？",
+      "id": "33ebeb435e4d",
+      "priority": 0,
+      "group": "41cbec837e7b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Где находится вокзал?",
+      "meaning": "车站在哪里？",
+      "audio": "44ba19df0206aa407ec85a9409aaf9f8dc7ee8960664ad8768457188d22cdb5a",
+      "id": "d8fd5c678ed9",
+      "priority": 1,
+      "group": "41cbec837e7b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это далеко отсюда?",
+      "meaningInSourceLanguage": "离这里远吗？",
+      "id": "9815c3ed98e6",
+      "priority": 0,
+      "group": "63cc27b64d6f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это далеко отсюда?",
+      "meaning": "离这里远吗？",
+      "audio": "e49d10d9829816382c6e0bc20de90fd58c0059e19d52731a6b31e2a567ba5efa",
+      "id": "fe60e5b8c2f5",
+      "priority": 1,
+      "group": "63cc27b64d6f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мне нужна карта.",
+      "meaningInSourceLanguage": "我需要一张地图。",
+      "id": "84cb8b80fa82",
+      "priority": 0,
+      "group": "62f8661d6582"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мне нужна карта.",
+      "meaning": "我需要一张地图。",
+      "audio": "d0155d42ca008935c00ca063f0943795a2dea29fad332303976ef2923d253fd6",
+      "id": "50c138f5b244",
+      "priority": 1,
+      "group": "62f8661d6582"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "налево",
+      "meaningInSourceLanguage": "左边",
+      "id": "7c5065df09ee",
+      "priority": 0,
+      "group": "afdd57e5e32d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "налево"
+      ],
+      "phrase": [
+        {
+          "word": "左边",
+          "definition": "налево"
+        }
+      ],
+      "id": "75452e80409a",
+      "priority": 1,
+      "group": "afdd57e5e32d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "налево",
+      "meaning": "左边",
+      "audio": "d601e70299285c828b1e54260de320f7b4bc9eff323d9bf6bec0dfbde1303bc3",
+      "id": "b3d8e64a3f11",
+      "priority": 1,
+      "group": "afdd57e5e32d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "направо",
+      "meaningInSourceLanguage": "右边",
+      "id": "ff0b39ab6a28",
+      "priority": 0,
+      "group": "98d0ba20e22e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "направо"
+      ],
+      "phrase": [
+        {
+          "word": "右边",
+          "definition": "направо"
+        }
+      ],
+      "id": "b4d1d7539582",
+      "priority": 1,
+      "group": "98d0ba20e22e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "направо",
+      "meaning": "右边",
+      "audio": "f75b9fa4e84cc1e039e45d54cdc8a525c2f6c7efc9af625cb12e116fa2ee0113",
+      "id": "ed810c66d2b3",
+      "priority": 1,
+      "group": "98d0ba20e22e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "прямо",
+      "meaningInSourceLanguage": "直走",
+      "id": "6f9e3b67185f",
+      "priority": 0,
+      "group": "3af6f8cd8217"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "прямо"
+      ],
+      "phrase": [
+        {
+          "word": "直走",
+          "definition": "прямо"
+        }
+      ],
+      "id": "4b37fefd4f1a",
+      "priority": 1,
+      "group": "3af6f8cd8217"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "прямо",
+      "meaning": "直走",
+      "audio": "a0a97a254106d4a899e707b5fa1e3a8736a26a1da21330284d14582dcb99b517",
+      "id": "5c4004a3ba6f",
+      "priority": 1,
+      "group": "3af6f8cd8217"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "здесь",
+      "meaningInSourceLanguage": "这里",
+      "id": "195ddcd5830a",
+      "priority": 0,
+      "group": "cc95c80b332c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "здесь"
+      ],
+      "phrase": [
+        {
+          "word": "这里",
+          "definition": "здесь"
+        }
+      ],
+      "id": "016b1289f74b",
+      "priority": 1,
+      "group": "cc95c80b332c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "здесь",
+      "meaning": "这里",
+      "audio": "f9ac3ae09c7569ca85a9409ae305a2c8c196173c956e6591194a3290570b91a3",
+      "id": "1c7c02dddbca",
+      "priority": 1,
+      "group": "cc95c80b332c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "там",
+      "meaningInSourceLanguage": "那里",
+      "id": "956b1124a220",
+      "priority": 0,
+      "group": "2a288cb281f7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "там"
+      ],
+      "phrase": [
+        {
+          "word": "那里",
+          "definition": "там"
+        }
+      ],
+      "id": "761955920d53",
+      "priority": 1,
+      "group": "2a288cb281f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "там",
+      "meaning": "那里",
+      "audio": "73ac0f43938bf94fab9a417416b08fbe4de778d64b104fdb2ce31c497e5d8e49",
+      "id": "adff82f8133a",
+      "priority": 1,
+      "group": "2a288cb281f7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "близко",
+      "meaningInSourceLanguage": "附近",
+      "id": "ecb2c00b5225",
+      "priority": 0,
+      "group": "dbd400e3dad9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "близко"
+      ],
+      "phrase": [
+        {
+          "word": "附近",
+          "definition": "близко"
+        }
+      ],
+      "id": "8293890546b2",
+      "priority": 1,
+      "group": "dbd400e3dad9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "близко",
+      "meaning": "附近",
+      "audio": "5aafaf41e70d57598e6a46a4a41052992074927eed0b66a63afabf2a70989bb9",
+      "id": "a720d15b5cea",
+      "priority": 1,
+      "group": "dbd400e3dad9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "далеко",
+      "meaningInSourceLanguage": "远",
+      "id": "719355eda5ce",
+      "priority": 0,
+      "group": "41148b0b8c5e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "далеко"
+      ],
+      "phrase": [
+        {
+          "word": "远",
+          "definition": "далеко"
+        }
+      ],
+      "id": "c902e8b9ef7f",
+      "priority": 1,
+      "group": "41148b0b8c5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "далеко",
+      "meaning": "远",
+      "audio": "21d63567f6c49c6405bfc48a51da9158c85042994f780587df3c50974d68ea7c",
+      "id": "0c3a4c2a92f6",
+      "priority": 1,
+      "group": "41148b0b8c5e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "карта",
+      "meaningInSourceLanguage": "地图",
+      "id": "db1815b0fa6a",
+      "priority": 0,
+      "group": "90584e730446"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "карта"
+      ],
+      "phrase": [
+        {
+          "word": "地图",
+          "definition": "карта"
+        }
+      ],
+      "id": "67832befc46e",
+      "priority": 1,
+      "group": "90584e730446"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "карта",
+      "meaning": "地图",
+      "audio": "04c944130561cf5759c595385fc9e82848ab90f4fdfeb331758e07f65155b2ba",
+      "id": "e525b2a9c10e",
+      "priority": 1,
+      "group": "90584e730446"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "улица",
+      "meaningInSourceLanguage": "街道",
+      "id": "f5b9ace33d2f",
+      "priority": 0,
+      "group": "9319bd6d67cb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "улица"
+      ],
+      "phrase": [
+        {
+          "word": "街道",
+          "definition": "улица"
+        }
+      ],
+      "id": "3600d239cdfb",
+      "priority": 1,
+      "group": "9319bd6d67cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "улица",
+      "meaning": "街道",
+      "audio": "2e35deaa73b44c65f2b277aa01d5498e2898b48ef89a5fa3b4660a597d2d9b40",
+      "id": "6ad1bd6ff04c",
+      "priority": 1,
+      "group": "9319bd6d67cb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "дорога",
+      "meaningInSourceLanguage": "路",
+      "id": "52f73d8ab7b4",
+      "priority": 0,
+      "group": "91374b14c447"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "дорога"
+      ],
+      "phrase": [
+        {
+          "word": "路",
+          "definition": "дорога"
+        }
+      ],
+      "id": "70d5e9013b70",
+      "priority": 1,
+      "group": "91374b14c447"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "дорога",
+      "meaning": "路",
+      "audio": "06c8e3717c606a1c56fd01e386443d8612d25adfa1f1ecc96bf0b5d6d10f490e",
+      "id": "2075b9022647",
+      "priority": 1,
+      "group": "91374b14c447"
+    }
+  ]
+}

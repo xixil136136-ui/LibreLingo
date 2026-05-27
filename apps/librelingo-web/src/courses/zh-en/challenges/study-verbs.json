@@ -1,0 +1,737 @@
+{
+  "id": "3579ff0f9976",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "study",
+      "meaningInSourceLanguage": "学习",
+      "id": "0b517095af7e",
+      "priority": 0,
+      "group": "fd7da2830c80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "study",
+      "meaning": "学习",
+      "audio": "75b879a49680be0c086e35a46b1c89ed567c70ffa78c87c7c56c3024c6503ef1",
+      "id": "022a057f669e",
+      "priority": 1,
+      "group": "fd7da2830c80"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "learn",
+      "meaningInSourceLanguage": "学习",
+      "id": "57e2a8030b53",
+      "priority": 0,
+      "group": "4e399f9360ad"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "learn",
+      "meaning": "学习",
+      "audio": "2ec28e48da09209e17d3bd43ba95fbc6c55ac1982d5cae6bbec67ccb77bdcdfd",
+      "id": "6b2e0c25f465",
+      "priority": 1,
+      "group": "4e399f9360ad"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "teach",
+      "meaningInSourceLanguage": "教",
+      "id": "6bc6182dae30",
+      "priority": 0,
+      "group": "078acdf33f17"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "teach",
+      "meaning": "教",
+      "audio": "c7d6689e6799f7db27adac9e4b880fe3c131f484a88dd8602e4b61d1e4adf9e3",
+      "id": "ee8e1aa9da6d",
+      "priority": 1,
+      "group": "078acdf33f17"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "read",
+      "meaningInSourceLanguage": "读",
+      "id": "7e89f37cc9d7",
+      "priority": 0,
+      "group": "d3698f34a885"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "read",
+      "meaning": "读",
+      "audio": "28a42dcdc17fa0a14b3b59ed8d01beb1dfb99fa4ea1a7a40c809c5bef1997581",
+      "id": "3bef65752343",
+      "priority": 1,
+      "group": "d3698f34a885"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "write",
+      "meaningInSourceLanguage": "写",
+      "id": "b17b0a94164e",
+      "priority": 0,
+      "group": "797bf677a968"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "write",
+      "meaning": "写",
+      "audio": "22b396dbdc9dbcc87ded2c9fd7d71a4ae2a083c07b60b9459a809ec8f25db894",
+      "id": "54ddd6148f20",
+      "priority": 1,
+      "group": "797bf677a968"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calculate",
+      "meaningInSourceLanguage": "计算",
+      "id": "9f44293b56ea",
+      "priority": 0,
+      "group": "d8812d3f859d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calculate",
+      "meaning": "计算",
+      "audio": "3a1301bef83ea5ecdf419f21dab1264feada61e788a46cdc72fd6b69c3541867",
+      "id": "0f8ca2c40a62",
+      "priority": 1,
+      "group": "d8812d3f859d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "memorize",
+      "meaningInSourceLanguage": "记忆",
+      "id": "ebd56fb37413",
+      "priority": 0,
+      "group": "c1c8543d4a8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "memorize",
+      "meaning": "记忆",
+      "audio": "de1e96bff51d151fdf20feb95a5f3ecf8ae2342ee5d1a924313afbe92cab4860",
+      "id": "66eab27eb4e6",
+      "priority": 1,
+      "group": "c1c8543d4a8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "understand",
+      "meaningInSourceLanguage": "理解",
+      "id": "279c552b8f84",
+      "priority": 0,
+      "group": "beba91f9b684"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "understand",
+      "meaning": "理解",
+      "audio": "cb158861fb2c256622277e411cc9783373d57c11a5a03a960513696f9021ac3c",
+      "id": "68d18acf90cc",
+      "priority": 1,
+      "group": "beba91f9b684"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "comprehend",
+      "meaningInSourceLanguage": "理解",
+      "id": "47ad5c584e20",
+      "priority": 0,
+      "group": "1f7a4db9b47f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "comprehend",
+      "meaning": "理解",
+      "audio": "41b5117af917f12ed2044cecffe990c052a16dbf560c6dcfef4af6cc4812bc10",
+      "id": "df363455d1fa",
+      "priority": 1,
+      "group": "1f7a4db9b47f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "analyze",
+      "meaningInSourceLanguage": "分析",
+      "id": "2cdeff69cb83",
+      "priority": 0,
+      "group": "b4292e35a7ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "analyze",
+      "meaning": "分析",
+      "audio": "d7d0fc8eb991df67cfd3fa72626fa64291cb16d2bdef679473c6f01eb29e311c",
+      "id": "ceb91618b39f",
+      "priority": 1,
+      "group": "b4292e35a7ce"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "research",
+      "meaningInSourceLanguage": "研究",
+      "id": "d3b5aade91ae",
+      "priority": 0,
+      "group": "f5241d57cbe8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "research",
+      "meaning": "研究",
+      "audio": "db3bfb746217f78859ff8234fbbeaa056e9accad1d7ee2d2dcfb7c253c556116",
+      "id": "8995f5821bb8",
+      "priority": 1,
+      "group": "f5241d57cbe8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "experiment",
+      "meaningInSourceLanguage": "实验",
+      "id": "14f864ce233c",
+      "priority": 0,
+      "group": "ee52cd2c67d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "experiment",
+      "meaning": "实验",
+      "audio": "ffedc3e68ec8f320ad2bf2f1af4c6130042907c8e897e3888b43982a49284c30",
+      "id": "070f966554a5",
+      "priority": 1,
+      "group": "ee52cd2c67d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "observe",
+      "meaningInSourceLanguage": "观察",
+      "id": "78b3f4815ccb",
+      "priority": 0,
+      "group": "37bb6b33f10e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "observe",
+      "meaning": "观察",
+      "audio": "ee8700b8c33d63163a997cbc047a165e8a1053041dd27f326245e56dcda7ad54",
+      "id": "eeb25f742d4e",
+      "priority": 1,
+      "group": "37bb6b33f10e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "practice",
+      "meaningInSourceLanguage": "练习",
+      "id": "165cc9ffe2a9",
+      "priority": 0,
+      "group": "296db8b29cc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "practice",
+      "meaning": "练习",
+      "audio": "1863c0d39b6212de25103a528bb91151accc7ae6065f7b91bb2695f878145ed8",
+      "id": "c6a76c56f93e",
+      "priority": 1,
+      "group": "296db8b29cc5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "review",
+      "meaningInSourceLanguage": "复习",
+      "id": "15db9e7fd30a",
+      "priority": 0,
+      "group": "c7db567868ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "review",
+      "meaning": "复习",
+      "audio": "dd0013981bbbfdf011eadd083c82adf8c9c0fd760a9ce070453b17146dcbe501",
+      "id": "41a6e9488d66",
+      "priority": 1,
+      "group": "c7db567868ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "prepare",
+      "meaningInSourceLanguage": "准备",
+      "id": "aefb62d20170",
+      "priority": 0,
+      "group": "31df0033d66c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prepare",
+      "meaning": "准备",
+      "audio": "d4c254b0c00d62db9edd23a9e1173a8c3fc159741a7f7bb5a25721b070259f34",
+      "id": "f2efb8548739",
+      "priority": 1,
+      "group": "31df0033d66c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "present",
+      "meaningInSourceLanguage": "展示",
+      "id": "3ee0ef4073c7",
+      "priority": 0,
+      "group": "4f56fd2f05f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "present",
+      "meaning": "展示",
+      "audio": "ff4a9030d0c9c592a32e0a511e0ac4afaf21eb1dae3981a435bb05e1169d7576",
+      "id": "e864acf2f94b",
+      "priority": 1,
+      "group": "4f56fd2f05f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "discuss",
+      "meaningInSourceLanguage": "讨论",
+      "id": "5026c6d2bc5f",
+      "priority": 0,
+      "group": "cd4b81a8f348"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discuss",
+      "meaning": "讨论",
+      "audio": "b81e55678bec76abbc3a983438778970512433ae8a58fa5105b2698d4321404c",
+      "id": "bb086d3af58c",
+      "priority": 1,
+      "group": "cd4b81a8f348"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "debate",
+      "meaningInSourceLanguage": "辩论",
+      "id": "c978c918c551",
+      "priority": 0,
+      "group": "7ccdae5e58b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "debate",
+      "meaning": "辩论",
+      "audio": "97882f3b5cb7e8976e8836e29ed5e7e358bf0d02105e40fcae9e6a3b9165d7bc",
+      "id": "e49ee4f21d6e",
+      "priority": 1,
+      "group": "7ccdae5e58b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "summarize",
+      "meaningInSourceLanguage": "总结",
+      "id": "2b6326cf33ff",
+      "priority": 0,
+      "group": "010d7f73929e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "summarize",
+      "meaning": "总结",
+      "audio": "58232fb9dc3f40914d656d662b6aede3dce3c5fbb155a7e47a95a5e8fbae180e",
+      "id": "e59be761c248",
+      "priority": 1,
+      "group": "010d7f73929e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "outline",
+      "meaningInSourceLanguage": "概括",
+      "id": "620b8ca0f1fa",
+      "priority": 0,
+      "group": "dd1f7ec3a66c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "outline",
+      "meaning": "概括",
+      "audio": "a70f829cb0d64bcefdfa1b2f5cf53aabae0a05077c3f5d95f96e8314fae69927",
+      "id": "8e3ffae26827",
+      "priority": 1,
+      "group": "dd1f7ec3a66c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "explain",
+      "meaningInSourceLanguage": "解释",
+      "id": "fceb72648a91",
+      "priority": 0,
+      "group": "a6b0c624937f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "explain",
+      "meaning": "解释",
+      "audio": "9ca2f7f148edd040d54d349a105a5c76b79ce4083077a159a45beef2d6a1e8fd",
+      "id": "eccc789953e9",
+      "priority": 1,
+      "group": "a6b0c624937f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "demonstrate",
+      "meaningInSourceLanguage": "演示",
+      "id": "fcaebbb6f61f",
+      "priority": 0,
+      "group": "3e43b2a2b20b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "demonstrate",
+      "meaning": "演示",
+      "audio": "fba2bd88baee75a62aea526633ea818ef23c2b6f2e21df147eec27dc797a73c3",
+      "id": "73e06e548419",
+      "priority": 1,
+      "group": "3e43b2a2b20b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "apply",
+      "meaningInSourceLanguage": "应用",
+      "id": "ed92a48a9665",
+      "priority": 0,
+      "group": "9767551e1479"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "apply",
+      "meaning": "应用",
+      "audio": "a18feacc338e8557a30a9cd93b29aadc85e1160b4fce90d01f4194d8b282063f",
+      "id": "ad38cb5da0cc",
+      "priority": 1,
+      "group": "9767551e1479"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "solve",
+      "meaningInSourceLanguage": "解决",
+      "id": "f64f67185d4b",
+      "priority": 0,
+      "group": "690e7b3935c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "solve",
+      "meaning": "解决",
+      "audio": "43c529b9a1331685c22a8491a16e5d9713fd7ac547994e8150baec15d5f5937d",
+      "id": "777d70ba1a76",
+      "priority": 1,
+      "group": "690e7b3935c3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "evaluate",
+      "meaningInSourceLanguage": "评估",
+      "id": "3a522d734e9f",
+      "priority": 0,
+      "group": "e9a576c485e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "evaluate",
+      "meaning": "评估",
+      "audio": "bad8e8ae08d72405735712c8bcf3e0b6e558e51d90da48efc104a4f5eaedd78c",
+      "id": "a9175a57a645",
+      "priority": 1,
+      "group": "e9a576c485e8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "compare",
+      "meaningInSourceLanguage": "比较",
+      "id": "1381e6ecfa91",
+      "priority": 0,
+      "group": "3c6aad7538ca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "compare",
+      "meaning": "比较",
+      "audio": "4c9ed084ce0f2c18b2741742bff47909f5604ce4ff11feeba3c0b574d092ee5f",
+      "id": "e86aa2597370",
+      "priority": 1,
+      "group": "3c6aad7538ca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "contrast",
+      "meaningInSourceLanguage": "对比",
+      "id": "3a0e1ba2aa71",
+      "priority": 0,
+      "group": "08c1860e8510"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "contrast",
+      "meaning": "对比",
+      "audio": "7e237d62ae20a97543fd949a86e0800a938943c869cbd068178560275a975611",
+      "id": "7f20bd0078d3",
+      "priority": 1,
+      "group": "08c1860e8510"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "define",
+      "meaningInSourceLanguage": "定义",
+      "id": "ed9bbc0b6cb8",
+      "priority": 0,
+      "group": "3cb167d7b461"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "define",
+      "meaning": "定义",
+      "audio": "38805042ca500b0a88014d4115ccc57230a703b87f3674ce3766ba0d431686b8",
+      "id": "335eba36dbe6",
+      "priority": 1,
+      "group": "3cb167d7b461"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "classify",
+      "meaningInSourceLanguage": "分类",
+      "id": "8eb2646e510c",
+      "priority": 0,
+      "group": "353721da42c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "classify",
+      "meaning": "分类",
+      "audio": "6e987e15ba21da651181fa8de975c9e6a688d74e06db748d861989a30a05eed9",
+      "id": "89ba5913209c",
+      "priority": 1,
+      "group": "353721da42c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "identify",
+      "meaningInSourceLanguage": "识别",
+      "id": "9169045d1285",
+      "priority": 0,
+      "group": "869981e4aa0a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "identify",
+      "meaning": "识别",
+      "audio": "5bcd9611cf1c7619148d6d056c39a0f00901b8e57a5d5ce9859af30903b1a6df",
+      "id": "20c9f82049f6",
+      "priority": 1,
+      "group": "869981e4aa0a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "translate",
+      "meaningInSourceLanguage": "翻译",
+      "id": "24c2a9592c8a",
+      "priority": 0,
+      "group": "22578bc4706f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "translate",
+      "meaning": "翻译",
+      "audio": "6b689fcf82cd15440da8a3f46ece1bd9817fab0e1ef4e9328a28d2a41a926198",
+      "id": "dc49b39f12a2",
+      "priority": 1,
+      "group": "22578bc4706f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pronounce",
+      "meaningInSourceLanguage": "发音",
+      "id": "9b55a60c684a",
+      "priority": 0,
+      "group": "ab491b337722"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pronounce",
+      "meaning": "发音",
+      "audio": "cb42a6c4f43d025c124e39917a6c7927ffcf127d76d901bae6badf428ce060d6",
+      "id": "9f4faf2ec6ff",
+      "priority": 1,
+      "group": "ab491b337722"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "spell",
+      "meaningInSourceLanguage": "拼写",
+      "id": "ff1c40add6cc",
+      "priority": 0,
+      "group": "0c0c2e5151bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "spell",
+      "meaning": "拼写",
+      "audio": "e032348bca83e1043d11e43d76a357bee58d26d2666f613453eb8dcca95926f4",
+      "id": "530c8ca03c25",
+      "priority": 1,
+      "group": "0c0c2e5151bb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "edit",
+      "meaningInSourceLanguage": "编辑",
+      "id": "3e77ed175daf",
+      "priority": 0,
+      "group": "c29f648446e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "edit",
+      "meaning": "编辑",
+      "audio": "ae21afaf6b469253d715dd1f5570984db2e5523d9adeaab3c08559352b1e8843",
+      "id": "c446a1ed3d8b",
+      "priority": 1,
+      "group": "c29f648446e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "proofread",
+      "meaningInSourceLanguage": "校对",
+      "id": "4e074c111d15",
+      "priority": 0,
+      "group": "1ce65fbc21b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "proofread",
+      "meaning": "校对",
+      "audio": "4304980e59e29422097e8e31d0196fe2266f9c86e20b020b0aa926dcf8ecdd13",
+      "id": "f027b19ab97b",
+      "priority": 1,
+      "group": "1ce65fbc21b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "publish",
+      "meaningInSourceLanguage": "出版",
+      "id": "22dab2df99ce",
+      "priority": 0,
+      "group": "33892d3ab76f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "publish",
+      "meaning": "出版",
+      "audio": "5caccc83fc478505e389411ba20115cb3bbc9d82a62235afab0fbe73fbd09c36",
+      "id": "0a19c86d5737",
+      "priority": 1,
+      "group": "33892d3ab76f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "graduate",
+      "meaningInSourceLanguage": "毕业",
+      "id": "412256c5a882",
+      "priority": 0,
+      "group": "8b3dead13c19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "graduate",
+      "meaning": "毕业",
+      "audio": "ef7015c88abf3923f6e0b296ab6922d43023206a728644578c27d77f3b221431",
+      "id": "03bd037a0660",
+      "priority": 1,
+      "group": "8b3dead13c19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "enroll",
+      "meaningInSourceLanguage": "注册",
+      "id": "5f1e07fe93bb",
+      "priority": 0,
+      "group": "18bbad6ee414"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "enroll",
+      "meaning": "注册",
+      "audio": "82306a2f95f86cb50468d13ce97cecc228c2ea3962f4d06980dc2624c1cf2ef4",
+      "id": "547a163b78b6",
+      "priority": 1,
+      "group": "18bbad6ee414"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "register",
+      "meaningInSourceLanguage": "登记",
+      "id": "79ee66ec44cc",
+      "priority": 0,
+      "group": "2bac2e37641b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "register",
+      "meaning": "登记",
+      "audio": "291c1e79a255fed1e0459c0f91577324817bb81d4751d2febf974f16ea8f6ef2",
+      "id": "0a259c5610db",
+      "priority": 1,
+      "group": "2bac2e37641b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "attend",
+      "meaningInSourceLanguage": "出席",
+      "id": "12a4efd241e4",
+      "priority": 0,
+      "group": "dea3a49568c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "attend",
+      "meaning": "出席",
+      "audio": "14173a3dc6b501465ddae7924cb9ef107eb726432909664d49b1863a085e37fe",
+      "id": "5dd89e73a09e",
+      "priority": 1,
+      "group": "dea3a49568c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "skip",
+      "meaningInSourceLanguage": "逃课",
+      "id": "a006fa5c8cff",
+      "priority": 0,
+      "group": "0469b07c6dc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "skip",
+      "meaning": "逃课",
+      "audio": "48a5940d7e2c97423922f78fb05353b5a12520694376c78973140635792136d9",
+      "id": "2c48d033cf96",
+      "priority": 1,
+      "group": "0469b07c6dc5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "drop out",
+      "meaningInSourceLanguage": "辍学",
+      "id": "010d5529c002",
+      "priority": 0,
+      "group": "0982da404e89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drop out",
+      "meaning": "辍学",
+      "audio": "04322377ce5531d2918338e0a8d4bd3a6ce93454a6c5d5c46273c31d6dbe7b13",
+      "id": "a9437c45a8a7",
+      "priority": 1,
+      "group": "0982da404e89"
+    }
+  ]
+}

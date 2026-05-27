@@ -1,0 +1,652 @@
+{
+  "id": "00edbcd79f94",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "exercise",
+      "meaningInSourceLanguage": "锻炼",
+      "id": "1fe7164ce041",
+      "priority": 0,
+      "group": "2b21f3648e7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exercise",
+      "meaning": "锻炼",
+      "audio": "5097895bbc27b92e30ca54f36301ddb478128bdd3192ad186328f1fdd5d46d52",
+      "id": "b07b508a5e47",
+      "priority": 1,
+      "group": "2b21f3648e7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "workout",
+      "meaningInSourceLanguage": "训练",
+      "id": "1efc804d1b72",
+      "priority": 0,
+      "group": "b777fb3ebc4b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "workout",
+      "meaning": "训练",
+      "audio": "aff791ad425c4ad0af959753efbe7438e9f939e1b9445d7be0dd9e5275f9067d",
+      "id": "b1adcc9aa3f2",
+      "priority": 1,
+      "group": "b777fb3ebc4b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gym",
+      "meaningInSourceLanguage": "健身房",
+      "id": "080937bacdaa",
+      "priority": 0,
+      "group": "bcd522223f4e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gym",
+      "meaning": "健身房",
+      "audio": "27460f16ecb53c9252fa2dc071ff9e34ccf9f711b6b0609e2e5703e8db467248",
+      "id": "22b29badb901",
+      "priority": 1,
+      "group": "bcd522223f4e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "running",
+      "meaningInSourceLanguage": "跑步",
+      "id": "8d30c64cc09d",
+      "priority": 0,
+      "group": "a3fb0eedca2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "running",
+      "meaning": "跑步",
+      "audio": "ef70c9b8c509c5cac84cec40c3c6d3b0d5c1c0c60a87f6c8094a1a3070ce641a",
+      "id": "f94d86b83f2b",
+      "priority": 1,
+      "group": "a3fb0eedca2d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jogging",
+      "meaningInSourceLanguage": "慢跑",
+      "id": "f9a15e6964e4",
+      "priority": 0,
+      "group": "eb0dff13f210"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jogging",
+      "meaning": "慢跑",
+      "audio": "9969d96381429b8eca1c8acd3fa1078ccfbb242cae7cbc2d47eedecc5d8c538c",
+      "id": "d382375e59ec",
+      "priority": 1,
+      "group": "eb0dff13f210"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "walking",
+      "meaningInSourceLanguage": "步行",
+      "id": "b7bb84e3cc41",
+      "priority": 0,
+      "group": "10fdca50ecc3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "walking",
+      "meaning": "步行",
+      "audio": "8a771285f176416a862dc1a2d94de9ef8df9c96e3e493e4de7da1304f396a258",
+      "id": "cae388ed20dd",
+      "priority": 1,
+      "group": "10fdca50ecc3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "swimming",
+      "meaningInSourceLanguage": "游泳",
+      "id": "e2c59a5767e2",
+      "priority": 0,
+      "group": "219843559ab4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "swimming",
+      "meaning": "游泳",
+      "audio": "f8a7472959d017fc8699aed5ea6a2b12508f0e7916608ab9cb16cdcfd9a1db74",
+      "id": "68fd14832a13",
+      "priority": 1,
+      "group": "219843559ab4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cycling",
+      "meaningInSourceLanguage": "骑自行车",
+      "id": "42c3e55ff747",
+      "priority": 0,
+      "group": "54df7b8a88e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cycling",
+      "meaning": "骑自行车",
+      "audio": "bf7b89a246a7ffb55baeac6e7a556703e1acd096672e2ae2cc2f10dfc340bce2",
+      "id": "019857ffb1af",
+      "priority": 1,
+      "group": "54df7b8a88e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "yoga",
+      "meaningInSourceLanguage": "瑜伽",
+      "id": "2b4949324a16",
+      "priority": 0,
+      "group": "dc709996a266"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "yoga",
+      "meaning": "瑜伽",
+      "audio": "cec8d54475824ac74678712daaae3ba5c954f9e7664ef6b4ae1eeb8c388954e2",
+      "id": "1e0d953eca5e",
+      "priority": 1,
+      "group": "dc709996a266"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pilates",
+      "meaningInSourceLanguage": "普拉提",
+      "id": "2af59fec278f",
+      "priority": 0,
+      "group": "58db098babd0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pilates",
+      "meaning": "普拉提",
+      "audio": "885ecf449977c50f707fc6455041386ae63d8d2f2f5a4445ff3cf9487446d59a",
+      "id": "80fd4943b5e2",
+      "priority": 1,
+      "group": "58db098babd0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "aerobics",
+      "meaningInSourceLanguage": "有氧运动",
+      "id": "d9045e3b7be3",
+      "priority": 0,
+      "group": "1463e07f1e8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "aerobics",
+      "meaning": "有氧运动",
+      "audio": "ae43ec5afad5f97600cce1cae0ff67cff88499800e75ea41f3bcfa0bb51649a8",
+      "id": "c9ac3be6cb56",
+      "priority": 1,
+      "group": "1463e07f1e8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stretching",
+      "meaningInSourceLanguage": "拉伸",
+      "id": "64897a244e51",
+      "priority": 0,
+      "group": "0ef2c7ef3872"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stretching",
+      "meaning": "拉伸",
+      "audio": "4b0c6d25e3deaf9fe85b560abcf947c8b059dc6469675578eba0508aedd9af35",
+      "id": "c3258e97d58e",
+      "priority": 1,
+      "group": "0ef2c7ef3872"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "warm-up",
+      "meaningInSourceLanguage": "热身",
+      "id": "08a7a76f2881",
+      "priority": 0,
+      "group": "8d2e03a03d86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "warm-up",
+      "meaning": "热身",
+      "audio": "e7f9df753aec8410b6d482cc4ebac97767f73c6c00205db86aacee595f0b4af6",
+      "id": "ebfdff2c7cc5",
+      "priority": 1,
+      "group": "8d2e03a03d86"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cool-down",
+      "meaningInSourceLanguage": "放松",
+      "id": "b61930e043ec",
+      "priority": 0,
+      "group": "945cecd385c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cool-down",
+      "meaning": "放松",
+      "audio": "83a2732449f088829e641490eb4d93190851c01dda6e7319c50f4c150d3e716c",
+      "id": "7b4ce7ecad4d",
+      "priority": 1,
+      "group": "945cecd385c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "push-up",
+      "meaningInSourceLanguage": "俯卧撑",
+      "id": "23ab97ac48a3",
+      "priority": 0,
+      "group": "e0931fdefb52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "push-up",
+      "meaning": "俯卧撑",
+      "audio": "0947bef79cd5abfd2e5523eefe81327173512b9d6eac9eb1c03fdc8aa8e26b77",
+      "id": "1ffdc6d6424c",
+      "priority": 1,
+      "group": "e0931fdefb52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sit-up",
+      "meaningInSourceLanguage": "仰卧起坐",
+      "id": "1fd6cc429d94",
+      "priority": 0,
+      "group": "0566d301fdaf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sit-up",
+      "meaning": "仰卧起坐",
+      "audio": "40554ddc7f59f29588bb74c867d7c87f5b2ac9a943409dd24a8395d1a8557282",
+      "id": "9ec1bd867ed5",
+      "priority": 1,
+      "group": "0566d301fdaf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "squat",
+      "meaningInSourceLanguage": "深蹲",
+      "id": "1b103b854c5e",
+      "priority": 0,
+      "group": "27a6208896ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "squat",
+      "meaning": "深蹲",
+      "audio": "546e22774a35254725660b058a05c8c8a77e418e0c372511f569c53346cbe428",
+      "id": "c7db36203adc",
+      "priority": 1,
+      "group": "27a6208896ba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lunges",
+      "meaningInSourceLanguage": "弓步",
+      "id": "57f6d3e8a2ff",
+      "priority": 0,
+      "group": "92e373c880fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lunges",
+      "meaning": "弓步",
+      "audio": "cee3767cf606c730e5829b2ee49e4f7e9419ff9b319c5839d594898114bf0717",
+      "id": "96a74366671c",
+      "priority": 1,
+      "group": "92e373c880fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "plank",
+      "meaningInSourceLanguage": "平板支撑",
+      "id": "48adefec44f8",
+      "priority": 0,
+      "group": "75811aa92b0d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "plank",
+      "meaning": "平板支撑",
+      "audio": "fc5e52f63124391e2670e8e094507aef69d1a589779a0543156fdb2a64fb6f7e",
+      "id": "0f84cab40786",
+      "priority": 1,
+      "group": "75811aa92b0d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dumbbell",
+      "meaningInSourceLanguage": "哑铃",
+      "id": "a6d3cea3bf65",
+      "priority": 0,
+      "group": "e4d78747534f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dumbbell",
+      "meaning": "哑铃",
+      "audio": "41962e4aeb50d602a8c22132e0a7e37567f2711a06af002255fd09bf81a5198b",
+      "id": "a00d32db7154",
+      "priority": 1,
+      "group": "e4d78747534f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "barbell",
+      "meaningInSourceLanguage": "杠铃",
+      "id": "6adcb24f87ac",
+      "priority": 0,
+      "group": "2f144fba2404"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "barbell",
+      "meaning": "杠铃",
+      "audio": "f87d79745622c76bd20e6e5f275a3fc40d3d4b9594545463fed9971937c306b4",
+      "id": "be5edbd1b4e5",
+      "priority": 1,
+      "group": "2f144fba2404"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "treadmill",
+      "meaningInSourceLanguage": "跑步机",
+      "id": "62bd2d499bee",
+      "priority": 0,
+      "group": "f11af24d2dbd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "treadmill",
+      "meaning": "跑步机",
+      "audio": "df64e947b850071acee7206f2d8eb954cd78f70ed3881e1b3bfcd9830c628c5d",
+      "id": "a6d4e719784a",
+      "priority": 1,
+      "group": "f11af24d2dbd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "stationary bike",
+      "meaningInSourceLanguage": "固定自行车",
+      "id": "69e83d7dfaf3",
+      "priority": 0,
+      "group": "f66a2aba4306"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "stationary bike",
+      "meaning": "固定自行车",
+      "audio": "a23d06b98dc36e379496af527d49f36c2db74eb1ac41c5be962bf0bfe47573d8",
+      "id": "860da93bf1ae",
+      "priority": 1,
+      "group": "f66a2aba4306"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "weight",
+      "meaningInSourceLanguage": "重量",
+      "id": "425e05cf0a66",
+      "priority": 0,
+      "group": "1c0c2d705c1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "weight",
+      "meaning": "重量",
+      "audio": "a2bafc0a60337aa0f028d353758ba15229d6cdd62ca66d2212a7985018a96927",
+      "id": "60feb1e0ccfb",
+      "priority": 1,
+      "group": "1c0c2d705c1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "repetition",
+      "meaningInSourceLanguage": "重复",
+      "id": "9f4fefa08470",
+      "priority": 0,
+      "group": "342833386a70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "repetition",
+      "meaning": "重复",
+      "audio": "986ef784726bee49ee78971d477cbd8de2cd6ec78447fcf420f6036bb955a738",
+      "id": "a2cd32fe8496",
+      "priority": 1,
+      "group": "342833386a70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "set",
+      "meaningInSourceLanguage": "组",
+      "id": "b7dc43c206ca",
+      "priority": 0,
+      "group": "2dfa1a0df253"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "set",
+      "meaning": "组",
+      "audio": "4f4c868445747245e08ca51fd3daf04b9428166744b22532daa31fd73ce62d38",
+      "id": "ecc447138392",
+      "priority": 1,
+      "group": "2dfa1a0df253"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "muscle",
+      "meaningInSourceLanguage": "肌肉",
+      "id": "1214c85b296d",
+      "priority": 0,
+      "group": "62b7048de1a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "muscle",
+      "meaning": "肌肉",
+      "audio": "fb32fd48134ed47793616eb15d583902647434d337e758d69027411c5591f402",
+      "id": "47c1fdb0e3e9",
+      "priority": 1,
+      "group": "62b7048de1a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "strength",
+      "meaningInSourceLanguage": "力量",
+      "id": "5e1593dff5da",
+      "priority": 0,
+      "group": "65d521d95541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "strength",
+      "meaning": "力量",
+      "audio": "3f22c5528d708982e44f725bc34b3660919b2f96d337c0dc512f58619a039889",
+      "id": "fbbf16d8c970",
+      "priority": 1,
+      "group": "65d521d95541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "endurance",
+      "meaningInSourceLanguage": "耐力",
+      "id": "2a34079b7b1f",
+      "priority": 0,
+      "group": "0d2bc5c7c4ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "endurance",
+      "meaning": "耐力",
+      "audio": "307e02c495cd1e8a1969099263353d5840f15de16c4d45741cd65fbee4beebad",
+      "id": "3b5222102861",
+      "priority": 1,
+      "group": "0d2bc5c7c4ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flexibility",
+      "meaningInSourceLanguage": "柔韧性",
+      "id": "3762d886f8cd",
+      "priority": 0,
+      "group": "4fd1d0f316d3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flexibility",
+      "meaning": "柔韧性",
+      "audio": "5769c4dab0195305dcf2789c34ee550e3dec7b433cdc3a44fd87151281f50464",
+      "id": "6a13a89c256c",
+      "priority": 1,
+      "group": "4fd1d0f316d3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cardio",
+      "meaningInSourceLanguage": "有氧",
+      "id": "3bd56604179f",
+      "priority": 0,
+      "group": "9ef8bcfa212f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cardio",
+      "meaning": "有氧",
+      "audio": "51ddeae50372fbd22f99da305401bb16c4bdfbbf275ea16328c2e1a42bcfe1dc",
+      "id": "3d16db5ff6cf",
+      "priority": 1,
+      "group": "9ef8bcfa212f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "calories burned",
+      "meaningInSourceLanguage": "消耗卡路里",
+      "id": "d35316297121",
+      "priority": 0,
+      "group": "8d051fd6d32b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "calories burned",
+      "meaning": "消耗卡路里",
+      "audio": "d88963f4047843de9aba71d6f37d74fddb87d38cbed661f07652bf60dd216470",
+      "id": "0bd40138c765",
+      "priority": 1,
+      "group": "8d051fd6d32b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "heart rate",
+      "meaningInSourceLanguage": "心率",
+      "id": "6c1a1e874212",
+      "priority": 0,
+      "group": "f0bca8274ab4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "heart rate",
+      "meaning": "心率",
+      "audio": "61c91a82ab02691a4a9b0aa0d640890fe22c50a03a15f48217855c6000363206",
+      "id": "3d1591bc3f01",
+      "priority": 1,
+      "group": "f0bca8274ab4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "personal trainer",
+      "meaningInSourceLanguage": "私人教练",
+      "id": "c16f76492af1",
+      "priority": 0,
+      "group": "3bd2d4747fe4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "personal trainer",
+      "meaning": "私人教练",
+      "audio": "4f10e9266d20e0e1e6f7628b8188a1dc932d83c1c57b5e60dd065bf887248478",
+      "id": "445ab2ba4435",
+      "priority": 1,
+      "group": "3bd2d4747fe4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "fitness tracker",
+      "meaningInSourceLanguage": "健身追踪器",
+      "id": "f8e3dd592c65",
+      "priority": 0,
+      "group": "772bd50d8b96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fitness tracker",
+      "meaning": "健身追踪器",
+      "audio": "6cc01685696bcc6b5931a1ecf2632e872be00092b2fc6b348c3f2108ed4a5f0b",
+      "id": "f1016fe9f394",
+      "priority": 1,
+      "group": "772bd50d8b96"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "marathon",
+      "meaningInSourceLanguage": "马拉松",
+      "id": "203762811c1f",
+      "priority": 0,
+      "group": "5e8b4c1cd005"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "marathon",
+      "meaning": "马拉松",
+      "audio": "3114d0e951a39e9d3b95a84ecaa6b2646469d7600b8696e832b47b4263f2d2d4",
+      "id": "f094924cef8c",
+      "priority": 1,
+      "group": "5e8b4c1cd005"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sport",
+      "meaningInSourceLanguage": "运动",
+      "id": "bf827813786f",
+      "priority": 0,
+      "group": "175e3526ab8e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sport",
+      "meaning": "运动",
+      "audio": "023036fa59838894c6385337663aee18cec7c92fbf9318d3a67b763edbefe10c",
+      "id": "d7f47b81638b",
+      "priority": 1,
+      "group": "175e3526ab8e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "athlete",
+      "meaningInSourceLanguage": "运动员",
+      "id": "ee719ba1cd54",
+      "priority": 0,
+      "group": "fc70c0fffb35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "athlete",
+      "meaning": "运动员",
+      "audio": "db74a347188b1b885bb183088f0d65468a47069107d93619c28e8385ddc0f07d",
+      "id": "8087e940693d",
+      "priority": 1,
+      "group": "fc70c0fffb35"
+    }
+  ]
+}

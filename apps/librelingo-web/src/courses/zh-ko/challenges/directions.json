@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "여기서 왼쪽으로 도세요.",
+      "meaningInSourceLanguage": "在这里左转。",
+      "id": "cd828b7d8f89",
+      "priority": 0,
+      "group": "d5b844c19200"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "여기서 왼쪽으로 도세요.",
+      "meaning": "在这里左转。",
+      "audio": "b667ec4acfb7cfbe0895e204caf8fa722f766c3c1c8c8912d6708ebced13ec37",
+      "id": "d033fdfcbc35",
+      "priority": 1,
+      "group": "d5b844c19200"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "직진하세요.",
+      "meaningInSourceLanguage": "一直往前走。",
+      "id": "ec1522fbb032",
+      "priority": 0,
+      "group": "435fb76ae6f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "직진하세요.",
+      "meaning": "一直往前走。",
+      "audio": "ad236e59c89ba3cc21a60f6104876765e77e9783b6442db08d273329b9db95e7",
+      "id": "62e5928e3710",
+      "priority": 1,
+      "group": "435fb76ae6f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "역이 어디예요?",
+      "meaningInSourceLanguage": "车站在哪里？",
+      "id": "7339bd5e53ed",
+      "priority": 0,
+      "group": "3be4b7b1ca08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "역이 어디예요?",
+      "meaning": "车站在哪里？",
+      "audio": "f48d78a5dbf2419d651a8e0ed80b1f0eaf425b8e4b8006420a0f91deede49aad",
+      "id": "82ada2033e03",
+      "priority": 1,
+      "group": "3be4b7b1ca08"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "여기서 멀어요?",
+      "meaningInSourceLanguage": "离这里远吗？",
+      "id": "62cf0270ad6b",
+      "priority": 0,
+      "group": "b21315bb959b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "여기서 멀어요?",
+      "meaning": "离这里远吗？",
+      "audio": "45eb072efb4e18612e0304d6ec4718d3ead1e0431cb3ee6bad812592ef0b289c",
+      "id": "578129cc32c6",
+      "priority": 1,
+      "group": "b21315bb959b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "지도가 필요해요.",
+      "meaningInSourceLanguage": "我需要一张地图。",
+      "id": "73b510f609c0",
+      "priority": 0,
+      "group": "930eb5af9cd3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "지도가 필요해요.",
+      "meaning": "我需要一张地图。",
+      "audio": "e1109a7c28d91562904607f1b8b730f0ed19d9088f2ae2eb00f2f10d55f94071",
+      "id": "55ec2989a13c",
+      "priority": 1,
+      "group": "930eb5af9cd3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "왼쪽",
+      "meaningInSourceLanguage": "左边",
+      "id": "3578a30f68c1",
+      "priority": 0,
+      "group": "22a2dfc61e1a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "왼쪽"
+      ],
+      "phrase": [
+        {
+          "word": "左边",
+          "definition": "왼쪽"
+        }
+      ],
+      "id": "d2931f88e4e5",
+      "priority": 1,
+      "group": "22a2dfc61e1a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "왼쪽",
+      "meaning": "左边",
+      "audio": "6fcb9cc5cc5e710e3b51f9e3e58af421df1b672793c065b2cc4d86724c504b27",
+      "id": "98b52544c5fe",
+      "priority": 1,
+      "group": "22a2dfc61e1a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "오른쪽",
+      "meaningInSourceLanguage": "右边",
+      "id": "3dec6719b924",
+      "priority": 0,
+      "group": "7b7e4e5b389b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "오른쪽"
+      ],
+      "phrase": [
+        {
+          "word": "右边",
+          "definition": "오른쪽"
+        }
+      ],
+      "id": "589c4a14e8c7",
+      "priority": 1,
+      "group": "7b7e4e5b389b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "오른쪽",
+      "meaning": "右边",
+      "audio": "79d12a80b67e8703f56ff41ef6972c13c52805ddef59e50720187d76a2a1642f",
+      "id": "3ef4fdf32c26",
+      "priority": 1,
+      "group": "7b7e4e5b389b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "직진",
+      "meaningInSourceLanguage": "直走",
+      "id": "1dcff1c0172b",
+      "priority": 0,
+      "group": "d8f49f39a8c0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "직진"
+      ],
+      "phrase": [
+        {
+          "word": "直走",
+          "definition": "직진"
+        }
+      ],
+      "id": "676127208fd1",
+      "priority": 1,
+      "group": "d8f49f39a8c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "직진",
+      "meaning": "直走",
+      "audio": "a5ef5bada97cc075a1154984c97f5ede6650a24f6d2f1970237cb7b0a8db321f",
+      "id": "0c82b2f6b9db",
+      "priority": 1,
+      "group": "d8f49f39a8c0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "여기",
+      "meaningInSourceLanguage": "这里",
+      "id": "763baebf68c8",
+      "priority": 0,
+      "group": "70e188257e2d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "여기"
+      ],
+      "phrase": [
+        {
+          "word": "这里",
+          "definition": "여기"
+        }
+      ],
+      "id": "f2ac8f8c7d37",
+      "priority": 1,
+      "group": "70e188257e2d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "여기",
+      "meaning": "这里",
+      "audio": "ce9bc301166dd349541295a49e8617a4a99a19e0232e7186c765a38070270eaf",
+      "id": "0e890a647af9",
+      "priority": 1,
+      "group": "70e188257e2d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "거기",
+      "meaningInSourceLanguage": "那里",
+      "id": "829c24ba11de",
+      "priority": 0,
+      "group": "7c2ac1c81159"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "거기"
+      ],
+      "phrase": [
+        {
+          "word": "那里",
+          "definition": "거기"
+        }
+      ],
+      "id": "ec482ddff983",
+      "priority": 1,
+      "group": "7c2ac1c81159"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "거기",
+      "meaning": "那里",
+      "audio": "9677a9ee87ce26695dc5320079c835972f42197b0f503d8b2937d41580c08987",
+      "id": "dbc4a40ad5ce",
+      "priority": 1,
+      "group": "7c2ac1c81159"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "가까이",
+      "meaningInSourceLanguage": "附近",
+      "id": "b7545efac761",
+      "priority": 0,
+      "group": "481b1b6e7ade"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "가까이"
+      ],
+      "phrase": [
+        {
+          "word": "附近",
+          "definition": "가까이"
+        }
+      ],
+      "id": "7125afdd258b",
+      "priority": 1,
+      "group": "481b1b6e7ade"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "가까이",
+      "meaning": "附近",
+      "audio": "b38b9d3168f9224db17bce1744e638f76cc4a53a1fc5e1864e10ec66c8cf1c4e",
+      "id": "400f31e19a27",
+      "priority": 1,
+      "group": "481b1b6e7ade"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "멀다",
+      "meaningInSourceLanguage": "远",
+      "id": "bc02449398b2",
+      "priority": 0,
+      "group": "f734ea6610db"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "멀다"
+      ],
+      "phrase": [
+        {
+          "word": "远",
+          "definition": "멀다"
+        }
+      ],
+      "id": "3382433d098a",
+      "priority": 1,
+      "group": "f734ea6610db"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "멀다",
+      "meaning": "远",
+      "audio": "abe530bb51a5cd5ac0817fe2cca9a90d35dc39f15500f1453eaac8c23b524689",
+      "id": "0f77e587154e",
+      "priority": 1,
+      "group": "f734ea6610db"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "지도",
+      "meaningInSourceLanguage": "地图",
+      "id": "1d43042d9132",
+      "priority": 0,
+      "group": "9186ad487bcf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "지도"
+      ],
+      "phrase": [
+        {
+          "word": "地图",
+          "definition": "지도"
+        }
+      ],
+      "id": "a02bb1e1564c",
+      "priority": 1,
+      "group": "9186ad487bcf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "지도",
+      "meaning": "地图",
+      "audio": "cc6965e6b022fba5b3dbb633bfd5c168459f88fb2095f3fc1628b7b439fe6284",
+      "id": "5054a0a83404",
+      "priority": 1,
+      "group": "9186ad487bcf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "거리",
+      "meaningInSourceLanguage": "街道",
+      "id": "1dc527d17191",
+      "priority": 0,
+      "group": "a75bd88865d7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "거리"
+      ],
+      "phrase": [
+        {
+          "word": "街道",
+          "definition": "거리"
+        }
+      ],
+      "id": "7d54270d0782",
+      "priority": 1,
+      "group": "a75bd88865d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "거리",
+      "meaning": "街道",
+      "audio": "711bd4532b81f87ff4be40be121355da1f122fd70a4cb00c53d14687851f01d9",
+      "id": "ef07ea1876f1",
+      "priority": 1,
+      "group": "a75bd88865d7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "길",
+      "meaningInSourceLanguage": "路",
+      "id": "ede1afe2da80",
+      "priority": 0,
+      "group": "832718b842bf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "길"
+      ],
+      "phrase": [
+        {
+          "word": "路",
+          "definition": "길"
+        }
+      ],
+      "id": "a255eeeaefe6",
+      "priority": 1,
+      "group": "832718b842bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "길",
+      "meaning": "路",
+      "audio": "487e7e03217bafb0f56501ef6698aa2236395cedce8ce2aa35edb37e6672284e",
+      "id": "935df49551cd",
+      "priority": 1,
+      "group": "832718b842bf"
+    }
+  ]
+}

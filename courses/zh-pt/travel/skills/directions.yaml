@@ -1,0 +1,68 @@
+Skill:
+  Name: Directions
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: esquerda
+    Translation: 左边
+  - Word: direita
+    Translation: 右边
+  - Word: reto
+    Translation: 直走
+  - Word: aqui
+    Translation: 这里
+  - Word: ali
+    Translation: 那里
+  - Word: perto
+    Translation: 附近
+  - Word: longe
+    Translation: 远
+  - Word: mapa
+    Translation: 地图
+  - Word: rua
+    Translation: 街道
+  - Word: estrada
+    Translation: 路
+
+Phrases:
+  - Phrase: Vire à esquerda aqui.
+    Translation: 在这里左转。
+  - Phrase: Siga em frente.
+    Translation: 一直往前走。
+  - Phrase: Onde fica a estação?
+    Translation: 车站在哪里？
+  - Phrase: É longe daqui?
+    Translation: 离这里远吗？
+  - Phrase: Preciso de um mapa.
+    Translation: 我需要一张地图。
+
+Mini-dictionary:
+  Portuguese:
+    - esquerda: 左边
+    - reto: 直走
+    - mapa: 地图
+    - direita: 右边
+    - estrada: 路
+    - perto: 附近
+    - ali: 那里
+    - aqui: 这里
+    - longe: 远
+    - rua: 街道
+  Chinese:
+    - 远: longe
+    - 右边: direita
+    - 直走: reto
+    - 这里: aqui
+    - 街道: rua
+    - 路: estrada
+    - 那里: ali
+    - 附近: perto
+    - 地图: mapa
+    - 左边: esquerda

@@ -113,6 +113,311 @@
       ]
     },
     {
+      "title": "Travel",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "links",
+            "rechts",
+            "geradeaus",
+            "hier",
+            "dort",
+            "nah",
+            "weit",
+            "Karte",
+            "Straße",
+            "Weg",
+            "Hier links abbiegen.",
+            "Geradeaus gehen.",
+            "Wo ist der Bahnhof?",
+            "Ist es weit von hier?",
+            "Ich brauche eine Karte."
+          ],
+          "practiceHref": "directions",
+          "id": "569673478a3d",
+          "title": "Directions",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Zug",
+            "Bus",
+            "Taxi",
+            "U-Bahn",
+            "Hotel",
+            "Gepäck",
+            "Bahnhof",
+            "Flug",
+            "Verspätung",
+            "Boarding",
+            "Wo ist die Bushaltestelle?",
+            "Der Zug hat Verspätung.",
+            "Ich habe Gepäck.",
+            "Wie viel kostet der Zug?",
+            "Wo ist der Taxistand?"
+          ],
+          "practiceHref": "transportation",
+          "id": "38c2ea1c36d2",
+          "title": "Transportation",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Zimmer",
+            "Bett",
+            "Dusche",
+            "Badezimmer",
+            "Handtuch",
+            "Kissen",
+            "Decke",
+            "Stockwerk",
+            "Rezeption",
+            "Gast",
+            "Ich brauche ein Zimmer.",
+            "Wie viel pro Nacht?",
+            "Wo ist das Badezimmer?",
+            "Kann ich ein Handtuch haben?",
+            "Das Bett ist bequem.",
+            "Ich bin hier ein Gast.",
+            "Ist die Rezeption auf dieser Etage?"
+          ],
+          "practiceHref": "hotel",
+          "id": "d7279e4777cd",
+          "title": "Hotel",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Restaurant",
+            "Getränk",
+            "Essen",
+            "Serviette",
+            "Salz",
+            "Pfeffer",
+            "Glas",
+            "Flasche",
+            "Nachspeise",
+            "Hauptgericht",
+            "Ich möchte ein Getränk.",
+            "Das Essen ist gut.",
+            "Kann ich ein Glas Wasser haben?",
+            "Wir brauchen eine Flasche Wein.",
+            "Ich hätte gern eine Nachspeise.",
+            "Gib mir bitte das Salz."
+          ],
+          "practiceHref": "restaurant",
+          "id": "379dca1c8ae9",
+          "title": "Restaurant",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Geschäft",
+            "Preis",
+            "teuer",
+            "billig",
+            "Geld",
+            "Qualität",
+            "Marke",
+            "Rückgabe",
+            "geöffnet",
+            "geschlossen",
+            "Wie viel kostet das?",
+            "Es ist zu teuer.",
+            "Das ist gute Qualität.",
+            "Ist das Geschäft geöffnet?",
+            "Es ist heute geschlossen.",
+            "Kann ich das zurückgeben?",
+            "Das Geschäft ist dort drüben.",
+            "Ich habe kein Geld."
+          ],
+          "practiceHref": "shopping",
+          "id": "e859eeaa5871",
+          "title": "Shopping",
+          "levels": 4
+        }
+      ]
+    },
+    {
+      "title": "Daily Life",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "sonnig",
+            "Regen",
+            "Schnee",
+            "Wind",
+            "Wolke",
+            "kalt",
+            "heiß",
+            "warm",
+            "Temperatur",
+            "Regenschirm",
+            "Heute ist es sonnig.",
+            "Es wird regnen.",
+            "Es ist sehr kalt draußen.",
+            "Bring einen Regenschirm mit.",
+            "Wie ist die Temperatur?",
+            "Es schneit.",
+            "Heute ist es warm.",
+            "Es ist windig."
+          ],
+          "practiceHref": "weather",
+          "id": "569673478a3d",
+          "title": "Weather",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Morgen",
+            "Nachmittag",
+            "Abend",
+            "Nacht",
+            "heute",
+            "morgen",
+            "gestern",
+            "jetzt",
+            "später",
+            "früh",
+            "Am Morgen.",
+            "Bis morgen.",
+            "Es ist früher Morgen.",
+            "Ich bin jetzt frei.",
+            "Bis später.",
+            "Am Nachmittag."
+          ],
+          "practiceHref": "time",
+          "id": "38c2ea1c36d2",
+          "title": "Time",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Mutter",
+            "Vater",
+            "Schwester",
+            "Bruder",
+            "Tochter",
+            "Sohn",
+            "Frau",
+            "Mann",
+            "Freund",
+            "Kind",
+            "Das ist meine Mutter.",
+            "Mein Vater ist groß.",
+            "Ich habe eine Schwester.",
+            "Mein Bruder ist jung.",
+            "Sie ist meine Freundin.",
+            "Das Kind ist glücklich.",
+            "Meine Frau ist nett."
+          ],
+          "practiceHref": "family",
+          "id": "d7279e4777cd",
+          "title": "Family",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Haus",
+            "Tür",
+            "Fenster",
+            "Küche",
+            "Schlafzimmer",
+            "Garten",
+            "Garage",
+            "Treppe",
+            "Hof",
+            "Dach",
+            "Das ist mein Haus.",
+            "Öffne die Tür.",
+            "Die Küche ist groß.",
+            "Das Schlafzimmer ist sauber.",
+            "Es gibt einen Garten.",
+            "Schließe das Fenster."
+          ],
+          "practiceHref": "home",
+          "id": "379dca1c8ae9",
+          "title": "Home",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Arzt",
+            "Krankenhaus",
+            "Medizin",
+            "Kopfschmerzen",
+            "Fieber",
+            "Husten",
+            "Schmerz",
+            "Apotheke",
+            "Ruhe",
+            "Bauchschmerzen",
+            "Ich brauche einen Arzt.",
+            "Wo ist das Krankenhaus?",
+            "Ich habe Kopfschmerzen.",
+            "Ich habe Fieber.",
+            "Nimm diese Medizin.",
+            "Du brauchst Ruhe.",
+            "Ich habe Bauchschmerzen."
+          ],
+          "practiceHref": "health",
+          "id": "e859eeaa5871",
+          "title": "Health",
+          "levels": 4
+        }
+      ]
+    },
+    {
       "title": "Conversations",
       "skills": [
         {

@@ -1,0 +1,516 @@
+{
+  "id": "9a54f3b40779",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "water",
+      "meaningInSourceLanguage": "水",
+      "id": "d3b150a42f66",
+      "priority": 0,
+      "group": "61a13ce4aca6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "water",
+      "meaning": "水",
+      "audio": "34a64dc1b791e5e1ff58b47cadd8e1569d4cf44b2d172b92f029310da8296458",
+      "id": "a2de57a0cc17",
+      "priority": 1,
+      "group": "61a13ce4aca6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "tea",
+      "meaningInSourceLanguage": "茶",
+      "id": "109b81253836",
+      "priority": 0,
+      "group": "e3f143992d92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tea",
+      "meaning": "茶",
+      "audio": "8fe6ca788971cf9b30f072f0aa5d0fdbb26fcabce7b881ee4b846fa5d55aa380",
+      "id": "9c69a1a6dea4",
+      "priority": 1,
+      "group": "e3f143992d92"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coffee",
+      "meaningInSourceLanguage": "咖啡",
+      "id": "877ec2f69c10",
+      "priority": 0,
+      "group": "a1a708082238"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coffee",
+      "meaning": "咖啡",
+      "audio": "5698a06c5a808e6ea8175a4f1ca241c1d64f5cf606305d76edcd201810ecb8c8",
+      "id": "8734722bd0a2",
+      "priority": 1,
+      "group": "a1a708082238"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "juice",
+      "meaningInSourceLanguage": "果汁",
+      "id": "44129bc9e4c1",
+      "priority": 0,
+      "group": "1f1b4c43535c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "juice",
+      "meaning": "果汁",
+      "audio": "516921161c745d6cc2cccaab833e3544763e3c0dc62e3ae8d48f39d444a59472",
+      "id": "d59c2e6c6fe9",
+      "priority": 1,
+      "group": "1f1b4c43535c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "milk",
+      "meaningInSourceLanguage": "牛奶",
+      "id": "5ce0e692118b",
+      "priority": 0,
+      "group": "fe1c0d67741a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "milk",
+      "meaning": "牛奶",
+      "audio": "325cadd0b5045b348b225bef568d96189edd587585fdf45a93599cb4b80b4ba9",
+      "id": "3ad36c48269c",
+      "priority": 1,
+      "group": "fe1c0d67741a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soda",
+      "meaningInSourceLanguage": "汽水",
+      "id": "8efbb82efd18",
+      "priority": 0,
+      "group": "9451cc8d45f0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soda",
+      "meaning": "汽水",
+      "audio": "52ebcb0396d68fcfed2deed081924717d0b5b4565ef34ba01ec359bcc1b4477c",
+      "id": "11366feffdc5",
+      "priority": 1,
+      "group": "9451cc8d45f0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "beer",
+      "meaningInSourceLanguage": "啤酒",
+      "id": "688b1f6e2844",
+      "priority": 0,
+      "group": "0714f8cb3b52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "beer",
+      "meaning": "啤酒",
+      "audio": "33c0a1d146525da77346abbabba968985014e17c599f616fa1ccf8470b82ea9e",
+      "id": "8a1e74fbc7c7",
+      "priority": 1,
+      "group": "0714f8cb3b52"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "wine",
+      "meaningInSourceLanguage": "葡萄酒",
+      "id": "e35623881532",
+      "priority": 0,
+      "group": "1f0a68dafc19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "wine",
+      "meaning": "葡萄酒",
+      "audio": "13bba84f8a50eed7708fc1beb3c71125022b3e8ad41e86c3eaa1421212189433",
+      "id": "4b9d2e9c5320",
+      "priority": 1,
+      "group": "1f0a68dafc19"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "whiskey",
+      "meaningInSourceLanguage": "威士忌",
+      "id": "524b9cb64c93",
+      "priority": 0,
+      "group": "f8e90c9cc243"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "whiskey",
+      "meaning": "威士忌",
+      "audio": "3737d775ee50b55ca58ab2544b310328090863f15ec00f8af89e1d8087d1df60",
+      "id": "bb542a731b8e",
+      "priority": 1,
+      "group": "f8e90c9cc243"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "vodka",
+      "meaningInSourceLanguage": "伏特加",
+      "id": "96c67908d9b6",
+      "priority": 0,
+      "group": "b969bf8599f7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "vodka",
+      "meaning": "伏特加",
+      "audio": "c5c6fe3b31d5608a1481e08e18c8e305efe63051ba832a9605fd2dc5fd24fb16",
+      "id": "f67c44dd1fbb",
+      "priority": 1,
+      "group": "b969bf8599f7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rum",
+      "meaningInSourceLanguage": "朗姆酒",
+      "id": "4c03b8184839",
+      "priority": 0,
+      "group": "436693dbfa5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rum",
+      "meaning": "朗姆酒",
+      "audio": "409b04e3e2be6a2eb7e6951ed0abcab2b90741c9fd705eb85b82380b180eeb97",
+      "id": "0bef72686828",
+      "priority": 1,
+      "group": "436693dbfa5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "champagne",
+      "meaningInSourceLanguage": "香槟",
+      "id": "773b418195bf",
+      "priority": 0,
+      "group": "ceca36f6dd40"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "champagne",
+      "meaning": "香槟",
+      "audio": "5a79753366374b5885473db1ec907f30c792fd374aa0efdceb8a62db31979ffd",
+      "id": "ddb03216a94c",
+      "priority": 1,
+      "group": "ceca36f6dd40"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cocktail",
+      "meaningInSourceLanguage": "鸡尾酒",
+      "id": "6f9d4f932653",
+      "priority": 0,
+      "group": "4820445f20c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cocktail",
+      "meaning": "鸡尾酒",
+      "audio": "f07c1c52d2f7d2414fe8c3e7e9ca5fa34a3f125b33695bbd3112aa757774ca95",
+      "id": "6631c8368c93",
+      "priority": 1,
+      "group": "4820445f20c4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lemonade",
+      "meaningInSourceLanguage": "柠檬水",
+      "id": "bfe694a581f1",
+      "priority": 0,
+      "group": "13d0efed944c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lemonade",
+      "meaning": "柠檬水",
+      "audio": "d5a13df914691eec8adcee19569120e70bdab821be4a7c3e9f3131d9620b65fd",
+      "id": "ac1220a23e8a",
+      "priority": 1,
+      "group": "13d0efed944c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "smoothie",
+      "meaningInSourceLanguage": "冰沙",
+      "id": "7e211bffa22b",
+      "priority": 0,
+      "group": "e73f3b0c3895"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "smoothie",
+      "meaning": "冰沙",
+      "audio": "802f38fe4c95ade4f332a755f7287e12668e9b43e0cd6332a5a9ef1c5422b49a",
+      "id": "60a5285dab1d",
+      "priority": 1,
+      "group": "e73f3b0c3895"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "milkshake",
+      "meaningInSourceLanguage": "奶昔",
+      "id": "7459fa5e506e",
+      "priority": 0,
+      "group": "c48ca44e3b26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "milkshake",
+      "meaning": "奶昔",
+      "audio": "c7fc5f6a37127bc8d999b33283e9038f724b1a457eb8ec87597270fe21189b3b",
+      "id": "8d8366c58d04",
+      "priority": 1,
+      "group": "c48ca44e3b26"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hot chocolate",
+      "meaningInSourceLanguage": "热巧克力",
+      "id": "0921bcd978d8",
+      "priority": 0,
+      "group": "831c5510bf81"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hot chocolate",
+      "meaning": "热巧克力",
+      "audio": "8e16e5ff63b2466ef1caf337fb334bccd66295247ceb39ff5e2108d813267165",
+      "id": "b901d565b341",
+      "priority": 1,
+      "group": "831c5510bf81"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mineral water",
+      "meaningInSourceLanguage": "矿泉水",
+      "id": "f3505944a231",
+      "priority": 0,
+      "group": "579d4cf3605c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mineral water",
+      "meaning": "矿泉水",
+      "audio": "fb4ce135e8f90e11d2d37c93aeedc5b5579c7c2d6b92d0a66f76fb0ac4923adc",
+      "id": "a1438b0bf9f1",
+      "priority": 1,
+      "group": "579d4cf3605c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sparkling water",
+      "meaningInSourceLanguage": "气泡水",
+      "id": "a3ea29b7a2bb",
+      "priority": 0,
+      "group": "f3781cfc6da0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sparkling water",
+      "meaning": "气泡水",
+      "audio": "00e4c4e7a980f8afd0f8c57dbceef3f92fa89eca4265311169fcca1863cf0145",
+      "id": "62bb91016321",
+      "priority": 1,
+      "group": "f3781cfc6da0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "coconut water",
+      "meaningInSourceLanguage": "椰子水",
+      "id": "47ec23841e05",
+      "priority": 0,
+      "group": "13cce8acf947"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "coconut water",
+      "meaning": "椰子水",
+      "audio": "cb0cde5956d615e3c2011eda35ba06e474b6b85e171d70976b26f978f3e6ba01",
+      "id": "b6b327e5cd5e",
+      "priority": 1,
+      "group": "13cce8acf947"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soy milk",
+      "meaningInSourceLanguage": "豆浆",
+      "id": "98741c70a778",
+      "priority": 0,
+      "group": "82872ec12933"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soy milk",
+      "meaning": "豆浆",
+      "audio": "2132aa043627154834e49c16d37920dfefff17693be627e8f50a9f70c5bfd90f",
+      "id": "7c18717eeadf",
+      "priority": 1,
+      "group": "82872ec12933"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "green tea",
+      "meaningInSourceLanguage": "绿茶",
+      "id": "cc6c91d7fb59",
+      "priority": 0,
+      "group": "f03b25f5e9b1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "green tea",
+      "meaning": "绿茶",
+      "audio": "eafa4d40f19cddb5ed15a6095ab4c7ff76a05c5a808baf172a2014a52358df87",
+      "id": "a87651ecab2e",
+      "priority": 1,
+      "group": "f03b25f5e9b1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "black tea",
+      "meaningInSourceLanguage": "红茶",
+      "id": "c347c9411149",
+      "priority": 0,
+      "group": "e425a53672c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "black tea",
+      "meaning": "红茶",
+      "audio": "06c4145d09431b823d76f448a06397e1acc1b2fc68dd9ec5d47241dfe60e5a68",
+      "id": "0ed699de72b9",
+      "priority": 1,
+      "group": "e425a53672c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "herbal tea",
+      "meaningInSourceLanguage": "花草茶",
+      "id": "3fdb1fd414e0",
+      "priority": 0,
+      "group": "a30698e73bc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "herbal tea",
+      "meaning": "花草茶",
+      "audio": "1a2a72e841c7a43a47f92e6572c3768df414dfa1e0fbf56af89613987029e6db",
+      "id": "f454294d02f0",
+      "priority": 1,
+      "group": "a30698e73bc5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "iced tea",
+      "meaningInSourceLanguage": "冰茶",
+      "id": "a844cc414891",
+      "priority": 0,
+      "group": "7dc30423b35e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "iced tea",
+      "meaning": "冰茶",
+      "audio": "e48125e8be293929e191fa20edfe10cd8c0819b8d42399d4331e7e2e4e5d1335",
+      "id": "5f3c01e1884b",
+      "priority": 1,
+      "group": "7dc30423b35e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "latte",
+      "meaningInSourceLanguage": "拿铁",
+      "id": "a2e0531fbddb",
+      "priority": 0,
+      "group": "7fe6b8ab2a62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "latte",
+      "meaning": "拿铁",
+      "audio": "68852a9f967ffa96abf43e7ec912298a709e7667e842323069bdba6a913cb327",
+      "id": "246e4d9987e8",
+      "priority": 1,
+      "group": "7fe6b8ab2a62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "cappuccino",
+      "meaningInSourceLanguage": "卡布奇诺",
+      "id": "7dae5971bc46",
+      "priority": 0,
+      "group": "d4919830706d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cappuccino",
+      "meaning": "卡布奇诺",
+      "audio": "57ec7413d8be79cbeb995912f3ee4bc187f4b031b23bccaba2e8d64d581581f7",
+      "id": "42c5a0d59732",
+      "priority": 1,
+      "group": "d4919830706d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "espresso",
+      "meaningInSourceLanguage": "浓缩咖啡",
+      "id": "097250b96dc3",
+      "priority": 0,
+      "group": "a9d08cca3586"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "espresso",
+      "meaning": "浓缩咖啡",
+      "audio": "ae4ed0bf991053052e9038576cc138beae051d65c5e8309626ad4b7bd85749ba",
+      "id": "c64dff313183",
+      "priority": 1,
+      "group": "a9d08cca3586"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mocha",
+      "meaningInSourceLanguage": "摩卡",
+      "id": "d7ac97f759a6",
+      "priority": 0,
+      "group": "5d9bcc599d65"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mocha",
+      "meaning": "摩卡",
+      "audio": "7b6da67ee1e788c4f54f1cb30188bbd30b73d7d2e25521f2db66ba4c8a022af6",
+      "id": "f9fe28ab7d09",
+      "priority": 1,
+      "group": "5d9bcc599d65"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Americano",
+      "meaningInSourceLanguage": "美式咖啡",
+      "id": "3b623aee8bd3",
+      "priority": 0,
+      "group": "cdd936d16179"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Americano",
+      "meaning": "美式咖啡",
+      "audio": "b9527577bf61d6f75290bd9c904e62a949331b1f4da052daa31747f2057e7b8e",
+      "id": "d950275f1a34",
+      "priority": 1,
+      "group": "cdd936d16179"
+    }
+  ]
+}

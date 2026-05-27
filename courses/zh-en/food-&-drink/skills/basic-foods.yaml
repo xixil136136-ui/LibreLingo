@@ -49,28 +49,28 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - egg: 鸡蛋
-    - fruit: 水果
-    - milk: 牛奶
-    - coffee: 咖啡
-    - fish: 鱼
     - sugar: 糖
-    - rice: 米饭
-    - vegetable: 蔬菜
-    - bread: 面包
-    - chicken: 鸡肉
+    - fish: 鱼
+    - coffee: 咖啡
     - tea: 茶
+    - milk: 牛奶
+    - bread: 面包
     - water: 水
+    - vegetable: 蔬菜
+    - fruit: 水果
+    - chicken: 鸡肉
+    - rice: 米饭
+    - egg: 鸡蛋
   Chinese:
     - 鱼: fish
-    - 咖啡: coffee
-    - 鸡蛋: egg
-    - 水: water
-    - 水果: fruit
-    - 蔬菜: vegetable
-    - 糖: sugar
     - 鸡肉: chicken
-    - 茶: tea
-    - 牛奶: milk
-    - 面包: bread
+    - 水: water
     - 米饭: rice
+    - 面包: bread
+    - 咖啡: coffee
+    - 蔬菜: vegetable
+    - 鸡蛋: egg
+    - 水果: fruit
+    - 茶: tea
+    - 糖: sugar
+    - 牛奶: milk

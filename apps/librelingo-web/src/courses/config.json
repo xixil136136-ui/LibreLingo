@@ -6,7 +6,7 @@
       "yamlFolder": "test-1",
       "jsonFolder": "test-1"
     },
-    "deploy": true,
+    "deploy": false,
     "inProduction": false,
     "name": "test-1",
     "source": "English",

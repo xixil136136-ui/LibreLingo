@@ -1,0 +1,567 @@
+{
+  "id": "cdfab82d398e",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "drums",
+      "meaningInSourceLanguage": "鼓",
+      "id": "6e33071cce86",
+      "priority": 0,
+      "group": "6e4365410aef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "drums",
+      "meaning": "鼓",
+      "audio": "bc049925a76d4e2e94d2079011ff17aa",
+      "id": "947903b9bede",
+      "priority": 1,
+      "group": "6e4365410aef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "flute",
+      "meaningInSourceLanguage": "笛子",
+      "id": "2f658a315627",
+      "priority": 0,
+      "group": "e714d56fdbb4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "flute",
+      "meaning": "笛子",
+      "audio": "778bbba9cf024aeaae2d610f2d33ff92",
+      "id": "50c3e839f23f",
+      "priority": 1,
+      "group": "e714d56fdbb4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "trumpet",
+      "meaningInSourceLanguage": "小号",
+      "id": "a317a5b1f7d3",
+      "priority": 0,
+      "group": "1b2cf63a9c95"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trumpet",
+      "meaning": "小号",
+      "audio": "35b880c71f0b4441a9bc8d47532544ac",
+      "id": "d50e8860d126",
+      "priority": 1,
+      "group": "1b2cf63a9c95"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "saxophone",
+      "meaningInSourceLanguage": "萨克斯",
+      "id": "336f4bc3c03f",
+      "priority": 0,
+      "group": "50e4d7dbb16a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "saxophone",
+      "meaning": "萨克斯",
+      "audio": "fc2b9d286f60431683e6b9795f0dc990",
+      "id": "a2cf1d7ca645",
+      "priority": 1,
+      "group": "50e4d7dbb16a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "orchestra",
+      "meaningInSourceLanguage": "管弦乐队",
+      "id": "23dce7c3a899",
+      "priority": 0,
+      "group": "579fe4a789e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "orchestra",
+      "meaning": "管弦乐队",
+      "audio": "33cc0bb1c7244ca8afba71e23adae1c6",
+      "id": "3c0f967d4175",
+      "priority": 1,
+      "group": "579fe4a789e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "symphony",
+      "meaningInSourceLanguage": "交响乐",
+      "id": "7dfa8fdacf1a",
+      "priority": 0,
+      "group": "3d634201356b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "symphony",
+      "meaning": "交响乐",
+      "audio": "bf4704faa4d84dbb8e129c98e794cda0",
+      "id": "690d191e2938",
+      "priority": 1,
+      "group": "3d634201356b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "rock",
+      "meaningInSourceLanguage": "摇滚",
+      "id": "6c088aaeb43b",
+      "priority": 0,
+      "group": "809495148e77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "rock",
+      "meaning": "摇滚",
+      "audio": "b6aa553d49394decabc4db00e492a679",
+      "id": "b88290b4a55a",
+      "priority": 1,
+      "group": "809495148e77"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pop",
+      "meaningInSourceLanguage": "流行",
+      "id": "c51a2a5fa368",
+      "priority": 0,
+      "group": "57da53369894"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pop",
+      "meaning": "流行",
+      "audio": "ffe2b39b98b2445ea3e1051da8614a26",
+      "id": "6f121da9096b",
+      "priority": 1,
+      "group": "57da53369894"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jazz",
+      "meaningInSourceLanguage": "爵士",
+      "id": "9836cbed1fc0",
+      "priority": 0,
+      "group": "0cdff9ce7be2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jazz",
+      "meaning": "爵士",
+      "audio": "ef16a8d6a80847dd9e547a47704d5188",
+      "id": "04c427bd3076",
+      "priority": 1,
+      "group": "0cdff9ce7be2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "classical",
+      "meaningInSourceLanguage": "古典",
+      "id": "b1166de7945d",
+      "priority": 0,
+      "group": "5217b64627d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "classical",
+      "meaning": "古典",
+      "audio": "0be6802b1f8041bc8564591867d396bd",
+      "id": "8d255111f322",
+      "priority": 1,
+      "group": "5217b64627d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "hip hop",
+      "meaningInSourceLanguage": "嘻哈",
+      "id": "d252052cc39f",
+      "priority": 0,
+      "group": "13acd56c8a2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hip hop",
+      "meaning": "嘻哈",
+      "audio": "9c588dc09a624af0a69a108a47c67efe",
+      "id": "9f316c0ec8b4",
+      "priority": 1,
+      "group": "13acd56c8a2a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "R&B",
+      "meaningInSourceLanguage": "节奏蓝调",
+      "id": "00c65be4ec9c",
+      "priority": 0,
+      "group": "bf8b406a7081"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "R&B",
+      "meaning": "节奏蓝调",
+      "audio": "c95a637982014ea2b14d7f15391fa3ce",
+      "id": "39a10ea82c5b",
+      "priority": 1,
+      "group": "bf8b406a7081"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "folk",
+      "meaningInSourceLanguage": "民谣",
+      "id": "20ac3a37c0b6",
+      "priority": 0,
+      "group": "93d5f61664ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "folk",
+      "meaning": "民谣",
+      "audio": "43a78ac8a8694a738f93cf8650c82683",
+      "id": "73103526749d",
+      "priority": 1,
+      "group": "93d5f61664ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "electronic",
+      "meaningInSourceLanguage": "电子音乐",
+      "id": "a44c1f612e37",
+      "priority": 0,
+      "group": "aa4fdbe3a62d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "electronic",
+      "meaning": "电子音乐",
+      "audio": "fae5cc3e9b214c45969d3adf896a20ac",
+      "id": "d4297c7d14fc",
+      "priority": 1,
+      "group": "aa4fdbe3a62d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "dance",
+      "meaningInSourceLanguage": "舞蹈",
+      "id": "96c37a9a7194",
+      "priority": 0,
+      "group": "61ea06b3391e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dance",
+      "meaning": "舞蹈",
+      "audio": "abdc525c9356408f9c36580804ac68a2",
+      "id": "ecee55ec86e3",
+      "priority": 1,
+      "group": "61ea06b3391e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ballet",
+      "meaningInSourceLanguage": "芭蕾",
+      "id": "2a042b49341d",
+      "priority": 0,
+      "group": "78440846161c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ballet",
+      "meaning": "芭蕾",
+      "audio": "58fc8a3571c04c71a81c802085b757ab",
+      "id": "38ffd821c4a5",
+      "priority": 1,
+      "group": "78440846161c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "modern dance",
+      "meaningInSourceLanguage": "现代舞",
+      "id": "99d4b5806470",
+      "priority": 0,
+      "group": "cfb11f4810ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "modern dance",
+      "meaning": "现代舞",
+      "audio": "cf5b3e6b1deb4017b9e5240bf26f2382",
+      "id": "34cf83b26e38",
+      "priority": 1,
+      "group": "cfb11f4810ef"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "art",
+      "meaningInSourceLanguage": "艺术",
+      "id": "6b5db65a06c4",
+      "priority": 0,
+      "group": "531d30d7759d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "art",
+      "meaning": "艺术",
+      "audio": "fdca22097dc74a9dae9a1d20145afb95",
+      "id": "80afdf2c64fb",
+      "priority": 1,
+      "group": "531d30d7759d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "painting",
+      "meaningInSourceLanguage": "绘画",
+      "id": "de3b747e4106",
+      "priority": 0,
+      "group": "a78377550541"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "painting",
+      "meaning": "绘画",
+      "audio": "2671f06585a7470d84ee15049636299d",
+      "id": "2c2ba3c8e291",
+      "priority": 1,
+      "group": "a78377550541"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sculpture",
+      "meaningInSourceLanguage": "雕塑",
+      "id": "0ebc0ca84989",
+      "priority": 0,
+      "group": "e98ee898857b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sculpture",
+      "meaning": "雕塑",
+      "audio": "3b6993d3ca634fe2bb71449e4215c255",
+      "id": "db32f0b762e6",
+      "priority": 1,
+      "group": "e98ee898857b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "photography",
+      "meaningInSourceLanguage": "摄影",
+      "id": "7c22136fd0ed",
+      "priority": 0,
+      "group": "c4b199ef482f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "photography",
+      "meaning": "摄影",
+      "audio": "36aeadc4e2174c2babcdccfcaeaf9a7a",
+      "id": "00694722d67e",
+      "priority": 1,
+      "group": "c4b199ef482f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "exhibition",
+      "meaningInSourceLanguage": "展览",
+      "id": "677ed35633e4",
+      "priority": 0,
+      "group": "b2e9f1f49219"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exhibition",
+      "meaning": "展览",
+      "audio": "13b12edee7f14aa890ecb8690afaf8fb",
+      "id": "8b9367c39ad2",
+      "priority": 1,
+      "group": "b2e9f1f49219"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "museum",
+      "meaningInSourceLanguage": "博物馆",
+      "id": "2c87001ac72f",
+      "priority": 0,
+      "group": "a01cae933687"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "museum",
+      "meaning": "博物馆",
+      "audio": "a49c2793723644d99fb9fac89931b2fe",
+      "id": "68efb0f79262",
+      "priority": 1,
+      "group": "a01cae933687"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "gallery",
+      "meaningInSourceLanguage": "画廊",
+      "id": "3b1c90b88242",
+      "priority": 0,
+      "group": "c46ccec1539f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "gallery",
+      "meaning": "画廊",
+      "audio": "0f0c3303f40b438f946c89ed2f0ecdbf",
+      "id": "33e8833cca6e",
+      "priority": 1,
+      "group": "c46ccec1539f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "literature",
+      "meaningInSourceLanguage": "文学",
+      "id": "c1a37471b32e",
+      "priority": 0,
+      "group": "373d82495524"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "literature",
+      "meaning": "文学",
+      "audio": "a99166080b694343ada09de971a91ce3",
+      "id": "fef11a29e129",
+      "priority": 1,
+      "group": "373d82495524"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "poetry",
+      "meaningInSourceLanguage": "诗歌",
+      "id": "a4cd604ed6e0",
+      "priority": 0,
+      "group": "7dc63b6d4766"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "poetry",
+      "meaning": "诗歌",
+      "audio": "a0ad36c85c4a456785db5cf79d1b2cd3",
+      "id": "753abfd75745",
+      "priority": 1,
+      "group": "7dc63b6d4766"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "novel",
+      "meaningInSourceLanguage": "小说",
+      "id": "b90b55b2579d",
+      "priority": 0,
+      "group": "6b4c82512950"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "novel",
+      "meaning": "小说",
+      "audio": "3b714b290a6b47f89e417e840d651f70",
+      "id": "d6644392e3c0",
+      "priority": 1,
+      "group": "6b4c82512950"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "author",
+      "meaningInSourceLanguage": "作者",
+      "id": "9f1e235f3fd7",
+      "priority": 0,
+      "group": "02d0fb01d310"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "author",
+      "meaning": "作者",
+      "audio": "864188fd842c401d9ee06c84756a0dda",
+      "id": "a19d66d14f58",
+      "priority": 1,
+      "group": "02d0fb01d310"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "writer",
+      "meaningInSourceLanguage": "作家",
+      "id": "13acfbdb5ba6",
+      "priority": 0,
+      "group": "7b465a7059c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "writer",
+      "meaning": "作家",
+      "audio": "936241c13aa54be0ae436215bf89afcb",
+      "id": "36568393c5d6",
+      "priority": 1,
+      "group": "7b465a7059c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "poem",
+      "meaningInSourceLanguage": "诗",
+      "id": "08fbeaee5637",
+      "priority": 0,
+      "group": "cf291efc6962"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "poem",
+      "meaning": "诗",
+      "audio": "1edd38a6a6ab4bd88477d7797bb68e09",
+      "id": "d7edf88ec5e2",
+      "priority": 1,
+      "group": "cf291efc6962"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "play",
+      "meaningInSourceLanguage": "戏剧",
+      "id": "84d00b7728d5",
+      "priority": 0,
+      "group": "25b025334bda"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "play",
+      "meaning": "戏剧",
+      "audio": "af8ae9f6a85d4e9ba48495da4f3ec8ee",
+      "id": "5b311caeb1a9",
+      "priority": 1,
+      "group": "25b025334bda"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "theater",
+      "meaningInSourceLanguage": "剧院",
+      "id": "c2cb412423d5",
+      "priority": 0,
+      "group": "370fe3597d97"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "theater",
+      "meaning": "剧院",
+      "audio": "f41fe4a0ed2842ec95112211914074aa",
+      "id": "753db33f3c58",
+      "priority": 1,
+      "group": "370fe3597d97"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "performance",
+      "meaningInSourceLanguage": "表演",
+      "id": "9d1005fcfffc",
+      "priority": 0,
+      "group": "c5a599f1b0ba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "performance",
+      "meaning": "表演",
+      "audio": "e334a5f6931e4256809f1b3807403b38",
+      "id": "2096b56ab4b1",
+      "priority": 1,
+      "group": "c5a599f1b0ba"
+    }
+  ]
+}

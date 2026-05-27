@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "นี่คือบ้านของฉัน",
+      "meaningInSourceLanguage": "这是我的房子。",
+      "id": "535d1de68e35",
+      "priority": 0,
+      "group": "ffba93a75cd7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "นี่คือบ้านของฉัน",
+      "meaning": "这是我的房子。",
+      "audio": "1003df5b3705cf3250a717f0d8912859aa737a38d3cc8b06f96534b8702627ea",
+      "id": "a253f416595c",
+      "priority": 1,
+      "group": "ffba93a75cd7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เปิดประตู",
+      "meaningInSourceLanguage": "开门。",
+      "id": "6bed14036458",
+      "priority": 0,
+      "group": "42f84f668c30"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เปิดประตู",
+      "meaning": "开门。",
+      "audio": "8f4b9fc68faffd8596cb2af5327140a39b90ca2fbfa6ce397e3a02efa81c73c1",
+      "id": "e958947cf78f",
+      "priority": 1,
+      "group": "42f84f668c30"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ครัวใหญ่",
+      "meaningInSourceLanguage": "厨房很大。",
+      "id": "5a54a4b546d4",
+      "priority": 0,
+      "group": "698f73e0c13e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ครัวใหญ่",
+      "meaning": "厨房很大。",
+      "audio": "6901203bda673d5d22a32d01fb48f46817258085caf10eb64a224693b9962b24",
+      "id": "e6d7b92e8e27",
+      "priority": 1,
+      "group": "698f73e0c13e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ห้องนอนสะอาด",
+      "meaningInSourceLanguage": "卧室很干净。",
+      "id": "938d55190e6b",
+      "priority": 0,
+      "group": "d221df667fba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ห้องนอนสะอาด",
+      "meaning": "卧室很干净。",
+      "audio": "8d5c72437f157b992c49ffea6711f7885e84534ce85bf432306a267192e62483",
+      "id": "5320864d4c0d",
+      "priority": 1,
+      "group": "d221df667fba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "มีสวน",
+      "meaningInSourceLanguage": "有一个花园。",
+      "id": "fd998b6f6ed0",
+      "priority": 0,
+      "group": "77fcf921c975"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "มีสวน",
+      "meaning": "有一个花园。",
+      "audio": "5fabff3cfac97aff3f1abaa9994c9c7cf9f01666ff4fe021b95794b955952bd7",
+      "id": "a593b7ea7afb",
+      "priority": 1,
+      "group": "77fcf921c975"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ปิดหน้าต่าง",
+      "meaningInSourceLanguage": "关窗。",
+      "id": "744c07d1b449",
+      "priority": 0,
+      "group": "eeb25c7b3c22"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ปิดหน้าต่าง",
+      "meaning": "关窗。",
+      "audio": "f45734a64a9928cbfcfcf91c2c70aa0a2cc17dcc9ac903ded2c515a8434b86cd",
+      "id": "29e9e4631f71",
+      "priority": 1,
+      "group": "eeb25c7b3c22"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "บ้าน",
+      "meaningInSourceLanguage": "房子",
+      "id": "b353efa27315",
+      "priority": 0,
+      "group": "6b35c292e047"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "บ้าน"
+      ],
+      "phrase": [
+        {
+          "word": "房子",
+          "definition": "บ้าน"
+        }
+      ],
+      "id": "2c6d69029f4a",
+      "priority": 1,
+      "group": "6b35c292e047"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "บ้าน",
+      "meaning": "房子",
+      "audio": "27b49fb55305fbe6303611d98d9481c5858d8830647c31f452981c651fa54d24",
+      "id": "58be25de0ae8",
+      "priority": 1,
+      "group": "6b35c292e047"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ประตู",
+      "meaningInSourceLanguage": "门",
+      "id": "d5deeecc1a90",
+      "priority": 0,
+      "group": "667b9767d88d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ประตู"
+      ],
+      "phrase": [
+        {
+          "word": "门",
+          "definition": "ประตู"
+        }
+      ],
+      "id": "0c6028ac50cb",
+      "priority": 1,
+      "group": "667b9767d88d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ประตู",
+      "meaning": "门",
+      "audio": "e6e064a5a069edf8bc264aee101a363312b43aaf9cffd7c057716970a67097c8",
+      "id": "ec36d47c218c",
+      "priority": 1,
+      "group": "667b9767d88d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "หน้าต่าง",
+      "meaningInSourceLanguage": "窗户",
+      "id": "49cddee1b173",
+      "priority": 0,
+      "group": "a6347d128fce"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "หน้าต่าง"
+      ],
+      "phrase": [
+        {
+          "word": "窗户",
+          "definition": "หน้าต่าง"
+        }
+      ],
+      "id": "5e00aff1a6d0",
+      "priority": 1,
+      "group": "a6347d128fce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "หน้าต่าง",
+      "meaning": "窗户",
+      "audio": "733ada017c94a78d632aed0a5e1ff13b6483eda03869bccaa3f7ba1fe8189ce1",
+      "id": "f749892ddf6c",
+      "priority": 1,
+      "group": "a6347d128fce"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ครัว",
+      "meaningInSourceLanguage": "厨房",
+      "id": "a35330c68868",
+      "priority": 0,
+      "group": "4609e32fcba8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ครัว"
+      ],
+      "phrase": [
+        {
+          "word": "厨房",
+          "definition": "ครัว"
+        }
+      ],
+      "id": "30b541648cb3",
+      "priority": 1,
+      "group": "4609e32fcba8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ครัว",
+      "meaning": "厨房",
+      "audio": "0aea67b6136ffec354abb32ac43c3b8d7d7530ba1e6e59cb029ac369e67b7554",
+      "id": "323b44577a4d",
+      "priority": 1,
+      "group": "4609e32fcba8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ห้องนอน",
+      "meaningInSourceLanguage": "卧室",
+      "id": "2682b6057087",
+      "priority": 0,
+      "group": "be1dbc2c82c4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ห้องนอน"
+      ],
+      "phrase": [
+        {
+          "word": "卧室",
+          "definition": "ห้องนอน"
+        }
+      ],
+      "id": "31b57c11ea9c",
+      "priority": 1,
+      "group": "be1dbc2c82c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ห้องนอน",
+      "meaning": "卧室",
+      "audio": "cc7876c94a282b1b1e81d772f21dad14181012fbbcccf668d255066c9989ea46",
+      "id": "dd54385b3b5f",
+      "priority": 1,
+      "group": "be1dbc2c82c4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สวน",
+      "meaningInSourceLanguage": "花园",
+      "id": "89e8983f4fd6",
+      "priority": 0,
+      "group": "e12cba68a14d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สวน"
+      ],
+      "phrase": [
+        {
+          "word": "花园",
+          "definition": "สวน"
+        }
+      ],
+      "id": "49320c39e8c3",
+      "priority": 1,
+      "group": "e12cba68a14d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สวน",
+      "meaning": "花园",
+      "audio": "79fb8dc2e0d771ac3d4a939264b58b33e8664bdb3fd683c383a1361ca294c19e",
+      "id": "53ad311ef57a",
+      "priority": 1,
+      "group": "e12cba68a14d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "โรงรถ",
+      "meaningInSourceLanguage": "车库",
+      "id": "360f5c2cebfa",
+      "priority": 0,
+      "group": "d46adf768b2b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "โรงรถ"
+      ],
+      "phrase": [
+        {
+          "word": "车库",
+          "definition": "โรงรถ"
+        }
+      ],
+      "id": "c87b7f3afee2",
+      "priority": 1,
+      "group": "d46adf768b2b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "โรงรถ",
+      "meaning": "车库",
+      "audio": "dbe595799553e3fa66dbd1ddb1b7b7c51eaa35e631ec33e86f3ed5a5afb4b120",
+      "id": "b6a092f4c001",
+      "priority": 1,
+      "group": "d46adf768b2b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "บันได",
+      "meaningInSourceLanguage": "楼梯",
+      "id": "3b0904f3489e",
+      "priority": 0,
+      "group": "f5428ee805ee"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "บันได"
+      ],
+      "phrase": [
+        {
+          "word": "楼梯",
+          "definition": "บันได"
+        }
+      ],
+      "id": "c918e4898c68",
+      "priority": 1,
+      "group": "f5428ee805ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "บันได",
+      "meaning": "楼梯",
+      "audio": "308fc5f83da0f4d5aa98a02804de6453e270059eef40967dc5547b86e3731f09",
+      "id": "1f7f14bc25a3",
+      "priority": 1,
+      "group": "f5428ee805ee"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สนาม",
+      "meaningInSourceLanguage": "院子",
+      "id": "bdd36ee25687",
+      "priority": 0,
+      "group": "df036f66d14f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สนาม"
+      ],
+      "phrase": [
+        {
+          "word": "院子",
+          "definition": "สนาม"
+        }
+      ],
+      "id": "4ea2c488e053",
+      "priority": 1,
+      "group": "df036f66d14f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สนาม",
+      "meaning": "院子",
+      "audio": "3c9af51117a0f1307ce1b6f8908fa0b0bf79260afa37c61fe3569d47b88f15d6",
+      "id": "5699be11175a",
+      "priority": 1,
+      "group": "df036f66d14f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "หลังคา",
+      "meaningInSourceLanguage": "屋顶",
+      "id": "1017fc0a82c7",
+      "priority": 0,
+      "group": "bef7b67c20fc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "หลังคา"
+      ],
+      "phrase": [
+        {
+          "word": "屋顶",
+          "definition": "หลังคา"
+        }
+      ],
+      "id": "f254a99c948c",
+      "priority": 1,
+      "group": "bef7b67c20fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "หลังคา",
+      "meaning": "屋顶",
+      "audio": "5ddb4cd9a4def245b158bce2ce62136ceee0584a520ca0e88f74a17b86ef6c22",
+      "id": "17ad534f871c",
+      "priority": 1,
+      "group": "bef7b67c20fc"
+    }
+  ]
+}

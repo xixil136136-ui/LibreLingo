@@ -1,0 +1,448 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Esta é minha casa.",
+      "meaningInSourceLanguage": "这是我的房子。",
+      "id": "122da7901fa8",
+      "priority": 0,
+      "group": "a792da48111f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Esta é minha casa.",
+      "meaning": "这是我的房子。",
+      "audio": "36e752c3b1b2c00a669b717c3a258f429361f71e60830ea6750516891130a508",
+      "id": "da628f8f0eca",
+      "priority": 1,
+      "group": "a792da48111f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Abra a porta.",
+      "meaningInSourceLanguage": "开门。",
+      "id": "9d17fbc26c11",
+      "priority": 0,
+      "group": "e12f2067c79c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Abra a porta.",
+      "meaning": "开门。",
+      "audio": "7f6b98b5d8d1c3d93c62e864ce9160578ccb2ca37f356f71baf58bda977ece3c",
+      "id": "ca4908acafb5",
+      "priority": 1,
+      "group": "e12f2067c79c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A cozinha é grande.",
+      "meaningInSourceLanguage": "厨房很大。",
+      "id": "ed99e6b1d7e6",
+      "priority": 0,
+      "group": "e011d0d55e58"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A cozinha é grande.",
+      "meaning": "厨房很大。",
+      "audio": "245e7911dddfcc43686a6d8e30700dbc5cd6c88f1ca71bd65cae31281e029d75",
+      "id": "7d6a3a797788",
+      "priority": 1,
+      "group": "e011d0d55e58"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "O quarto está limpo.",
+      "meaningInSourceLanguage": "卧室很干净。",
+      "id": "2cf0f3aeae8d",
+      "priority": 0,
+      "group": "8619ededb202"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "O quarto está limpo.",
+      "meaning": "卧室很干净。",
+      "audio": "ea00a2ba25b074da9aad0ad92645c3dd7d8182615d0ae0967babab0529f0e712",
+      "id": "c0dae408cbd7",
+      "priority": 1,
+      "group": "8619ededb202"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Há um jardim.",
+      "meaningInSourceLanguage": "有一个花园。",
+      "id": "85117881d485",
+      "priority": 0,
+      "group": "d74f2bfb07a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Há um jardim.",
+      "meaning": "有一个花园。",
+      "audio": "5a2ec69f0b7735d914cf11b55ca06e3290f0e56824bb96703ae90067a311c3f8",
+      "id": "5596ccf2413a",
+      "priority": 1,
+      "group": "d74f2bfb07a1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Feche a janela.",
+      "meaningInSourceLanguage": "关窗。",
+      "id": "93f94363bc4b",
+      "priority": 0,
+      "group": "500324ddc90d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Feche a janela.",
+      "meaning": "关窗。",
+      "audio": "3d3ebf60ebdcfb747981d1ac7eb22f1be8912f67e1d6a2e607eaa76e226f40d6",
+      "id": "dfe9207ae366",
+      "priority": 1,
+      "group": "500324ddc90d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "casa",
+      "meaningInSourceLanguage": "房子",
+      "id": "02891c60f04a",
+      "priority": 0,
+      "group": "bc2a1acd11dc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "casa"
+      ],
+      "phrase": [
+        {
+          "word": "房子",
+          "definition": "casa"
+        }
+      ],
+      "id": "26367e435a1c",
+      "priority": 1,
+      "group": "bc2a1acd11dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "casa",
+      "meaning": "房子",
+      "audio": "3a3e83958b36d2b1ea8fcd49c5b0b582e9e65f39c24964e3e2a6b90a4a070781",
+      "id": "3076439e62a2",
+      "priority": 1,
+      "group": "bc2a1acd11dc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "porta",
+      "meaningInSourceLanguage": "门",
+      "id": "ca9c6b542e69",
+      "priority": 0,
+      "group": "1f5dbe2fcc3c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "porta"
+      ],
+      "phrase": [
+        {
+          "word": "门",
+          "definition": "porta"
+        }
+      ],
+      "id": "0abe1fefc753",
+      "priority": 1,
+      "group": "1f5dbe2fcc3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "porta",
+      "meaning": "门",
+      "audio": "854cca815818da0c354fe204a19aebea1e683211e21d73f4e995558329ee2265",
+      "id": "0484f07f9a01",
+      "priority": 1,
+      "group": "1f5dbe2fcc3c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "janela",
+      "meaningInSourceLanguage": "窗户",
+      "id": "06d444757436",
+      "priority": 0,
+      "group": "18b46794f410"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "janela"
+      ],
+      "phrase": [
+        {
+          "word": "窗户",
+          "definition": "janela"
+        }
+      ],
+      "id": "859e66cfd563",
+      "priority": 1,
+      "group": "18b46794f410"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "janela",
+      "meaning": "窗户",
+      "audio": "b96f36ed5582f99eea57628656f870800a1a866919d05548bdc8c92a8ae96afb",
+      "id": "dc73bf020c6b",
+      "priority": 1,
+      "group": "18b46794f410"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cozinha",
+      "meaningInSourceLanguage": "厨房",
+      "id": "c409de46c263",
+      "priority": 0,
+      "group": "6f40602a08ce"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cozinha"
+      ],
+      "phrase": [
+        {
+          "word": "厨房",
+          "definition": "cozinha"
+        }
+      ],
+      "id": "aa3cf5577466",
+      "priority": 1,
+      "group": "6f40602a08ce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cozinha",
+      "meaning": "厨房",
+      "audio": "d7d83c854f5b35e59853df647265489e41600152db42b2f45f3526b9adc204aa",
+      "id": "00aaab7e5a96",
+      "priority": 1,
+      "group": "6f40602a08ce"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "quarto",
+      "meaningInSourceLanguage": "卧室",
+      "id": "63e32de57df4",
+      "priority": 0,
+      "group": "0b0b2d74fcdb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "quarto"
+      ],
+      "phrase": [
+        {
+          "word": "卧室",
+          "definition": "quarto"
+        }
+      ],
+      "id": "22d250c466b9",
+      "priority": 1,
+      "group": "0b0b2d74fcdb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quarto",
+      "meaning": "卧室",
+      "audio": "fa5019cf7583108c441777d201608837670f9a2d499632d6eeab38f971a1434b",
+      "id": "67c033c393e7",
+      "priority": 1,
+      "group": "0b0b2d74fcdb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "jardim",
+      "meaningInSourceLanguage": "花园",
+      "id": "12dcf15a8633",
+      "priority": 0,
+      "group": "fe25713495a5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "jardim"
+      ],
+      "phrase": [
+        {
+          "word": "花园",
+          "definition": "jardim"
+        }
+      ],
+      "id": "ae0bef2c0e80",
+      "priority": 1,
+      "group": "fe25713495a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jardim",
+      "meaning": "花园",
+      "audio": "d8652a34e2dcd94ad5c60b43a012f88938bdbf2fe7820a8093777e5873fea766",
+      "id": "e6575067e00d",
+      "priority": 1,
+      "group": "fe25713495a5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "garagem",
+      "meaningInSourceLanguage": "车库",
+      "id": "b54f3dafe286",
+      "priority": 0,
+      "group": "9fcab2cb0de2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "garagem"
+      ],
+      "phrase": [
+        {
+          "word": "车库",
+          "definition": "garagem"
+        }
+      ],
+      "id": "e9483c990d9c",
+      "priority": 1,
+      "group": "9fcab2cb0de2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "garagem",
+      "meaning": "车库",
+      "audio": "ae2a7a5f2f42199cd9112a6f39d33cff156fba135539081614ffee78091f0951",
+      "id": "8b2448b4782c",
+      "priority": 1,
+      "group": "9fcab2cb0de2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "escadas",
+      "meaningInSourceLanguage": "楼梯",
+      "id": "f484663f7ae4",
+      "priority": 0,
+      "group": "17b34437429b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "escadas"
+      ],
+      "phrase": [
+        {
+          "word": "楼梯",
+          "definition": "escadas"
+        }
+      ],
+      "id": "0c918bb9f98f",
+      "priority": 1,
+      "group": "17b34437429b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "escadas",
+      "meaning": "楼梯",
+      "audio": "112686148bceb54dfc71733075c11d43299e5eb9e834aaf624f88fa89834b927",
+      "id": "a86e05c1a9d2",
+      "priority": 1,
+      "group": "17b34437429b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "quintal",
+      "meaningInSourceLanguage": "院子",
+      "id": "4ba8ea80e09e",
+      "priority": 0,
+      "group": "d8d9e475fbfe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "quintal"
+      ],
+      "phrase": [
+        {
+          "word": "院子",
+          "definition": "quintal"
+        }
+      ],
+      "id": "329b37f00962",
+      "priority": 1,
+      "group": "d8d9e475fbfe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "quintal",
+      "meaning": "院子",
+      "audio": "25303830cb18febe730e6e80d97d8c1ec63d2ec35bd11e53a522d58c91ef9caf",
+      "id": "f171b0447255",
+      "priority": 1,
+      "group": "d8d9e475fbfe"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "telhado",
+      "meaningInSourceLanguage": "屋顶",
+      "id": "093a039f5e4f",
+      "priority": 0,
+      "group": "c8cfbfefdb67"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "telhado"
+      ],
+      "phrase": [
+        {
+          "word": "屋顶",
+          "definition": "telhado"
+        }
+      ],
+      "id": "b461cfbfd770",
+      "priority": 1,
+      "group": "c8cfbfefdb67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "telhado",
+      "meaning": "屋顶",
+      "audio": "6903c70ed546834ef629452c12a2eb187ba6335c1724ff03b966bef80968011f",
+      "id": "0685cae12562",
+      "priority": 1,
+      "group": "c8cfbfefdb67"
+    }
+  ]
+}
