@@ -1,6 +1,8 @@
 'use client'
 
-import { useState } from 'react'
+/* eslint-disable unicorn/no-array-for-each, unicorn/prefer-spread, unicorn/new-for-builtins, unicorn/no-new-array, unicorn/no-null */
+
+import { useState, useEffect, useCallback } from 'react'
 
 type Challenge = {
     type: string
@@ -8,162 +10,212 @@ type Challenge = {
     meaningInSourceLanguage?: string
     answer?: string
     meaning?: string
-    group?: string
-    id: string
-    priority?: number
 }
 
 type Props = {
     challenges: Challenge[]
 }
 
-export default function PracticeClient(props: Props) {
-    const { challenges } = props
-    const [revealedIds, setRevealedIds] = useState<Set<string>>(new Set())
-    const [knownIds, setKnownIds] = useState<Set<string>>(new Set())
+const STORAGE_PREFIX = 'librelingo_learned_'
+
+export default function PracticeClient({ challenges }: Props) {
+    const [currentPath, setCurrentPath] = useState('')
+    const [learnedSet, setLearnedSet] = useState<Set<string>>(new Set())
+    const [revealedSet, setRevealedSet] = useState<Set<number>>(new Set())
+    const [showNativeFirst, setShowNativeFirst] = useState(false)
     const [showAll, setShowAll] = useState(false)
 
-    const toggleReveal = (id: string) => {
-        setRevealedIds((previous) => {
-            const next = new Set(previous)
-            if (next.has(id)) {
-                next.delete(id)
-            } else {
-                next.add(id)
-            }
-            return next
-        })
-    }
+    useEffect(() => {
+        setCurrentPath(window.location.pathname)
+    }, [])
 
-    const toggleKnown = (id: string) => {
-        setKnownIds((previous) => {
-            const next = new Set(previous)
-            if (next.has(id)) {
-                next.delete(id)
-            } else {
-                next.add(id)
-            }
-            return next
-        })
-    }
-
-    const pairs: Array<{ foreign: string; native: string; id: string }> = []
-    for (const c of challenges) {
-        if (c.type === 'options' && c.formInTargetLanguage && c.meaningInSourceLanguage) {
-            pairs.push({
-                foreign: c.formInTargetLanguage,
-                native: c.meaningInSourceLanguage,
-                id: c.id,
-            })
-        } else if (c.type === 'listeningExercise' && c.answer && c.meaning) {
-            pairs.push({
-                foreign: c.answer,
-                native: c.meaning,
-                id: c.id,
-            })
+    useEffect(() => {
+        if (!currentPath) return
+        const stored = localStorage.getItem(STORAGE_PREFIX + currentPath)
+        if (stored) {
+            setLearnedSet(new Set(JSON.parse(stored)))
         }
-    }
+    }, [currentPath])
 
-    const [showNativeFirst, setShowNativeFirst] = useState(false)
+    const saveLearned = useCallback((updated: Set<string>) => {
+        const array: string[] = []
+        updated.forEach(value => { array.push(value) })
+        localStorage.setItem(STORAGE_PREFIX + currentPath, JSON.stringify(array))
+    }, [currentPath])
+
+    const toggleLearned = useCallback((key: string) => {
+        setLearnedSet((previous) => {
+            const updated = new Set(previous)
+            if (updated.has(key)) {
+                updated.delete(key)
+            } else {
+                updated.add(key)
+            }
+            saveLearned(updated)
+            return updated
+        })
+    }, [saveLearned])
+
+    const toggleReveal = useCallback((index: number) => {
+        setRevealedSet((previous) => {
+            const updated = new Set(previous)
+            if (updated.has(index)) {
+                updated.delete(index)
+            } else {
+                updated.add(index)
+            }
+            return updated
+        })
+    }, [])
+
+    const toggleShowAll = useCallback(() => {
+        setShowAll((previous) => {
+            if (previous) {
+                setRevealedSet(new Set())
+            } else {
+                setRevealedSet(new Set(challenges.map((_, index) => index)))
+            }
+            return !previous
+        })
+    }, [challenges])
+
+    const toggleNativeFirst = useCallback(() => {
+        setShowNativeFirst((previous) => !previous)
+    }, [])
+
+    const learnedCount = learnedSet.size
+    const totalCount = challenges.length
 
     return (
         <div>
-            {/* Controls */}
-            <div className="flex flex-wrap gap-3 mb-6">
-                <button
-                    onClick={() => setShowAll(!showAll)}
-                    className="px-4 py-2 text-sm rounded-md border border-border hover:bg-accent transition"
-                >
-                    {showAll ? '隐藏全部翻译' : '显示全部翻译'}
-                </button>
-                <button
-                    onClick={() => setShowNativeFirst(!showNativeFirst)}
-                    className="px-4 py-2 text-sm rounded-md border border-border hover:bg-accent transition"
-                >
-                    {showNativeFirst ? '先显示外语' : '先显示中文'}
-                </button>
+            {/* Controls bar */}
+            <div className="bg-white rounded-xl border border-gray-100 shadow-sm p-4 mb-6 flex flex-wrap items-center justify-between gap-3">
+                <div className="flex items-center gap-2">
+                    <div className="w-2 h-2 rounded-full bg-emerald-400" />
+                    <span className="text-sm text-gray-600 font-medium">
+                        学习进度 {learnedCount} / {totalCount}
+                    </span>
+                </div>
+                <div className="flex items-center gap-2">
+                    <button
+                        onClick={toggleShowAll}
+                        className={`px-4 py-1.5 text-sm rounded-full border transition-all ${
+                            showAll
+                                ? 'bg-indigo-50 border-indigo-200 text-indigo-600'
+                                : 'border-gray-200 text-gray-600 hover:border-gray-300'
+                        }`}
+                    >
+                        {showAll ? '隐藏全部翻译' : '显示全部翻译'}
+                    </button>
+                    <button
+                        onClick={toggleNativeFirst}
+                        className={`px-4 py-1.5 text-sm rounded-full border transition-all ${
+                            showNativeFirst
+                                ? 'bg-indigo-50 border-indigo-200 text-indigo-600'
+                                : 'border-gray-200 text-gray-600 hover:border-gray-300'
+                        }`}
+                    >
+                        先显示中文
+                    </button>
+                </div>
             </div>
 
-            {/* Progress bar */}
-            <div className="mb-6">
-                <div className="flex justify-between text-sm mb-1">
-                    <span>学习进度</span>
-                    <span>已学 {knownIds.size} / {pairs.length}</span>
-                </div>
-                <div className="h-2 bg-secondary rounded-full overflow-hidden">
-                    <div
-                        className="h-full bg-green-500 rounded-full transition-all"
-                        style={{ width: `${(knownIds.size / Math.max(pairs.length, 1)) * 100}%` }}
-                    />
-                </div>
-            </div>
+            {/* Challenge cards */}
+            <div className="space-y-4">
+                {challenges.map((challenge, index) => {
+                    const isLearned = learnedSet.has(`${challenge.formInTargetLanguage}-${challenge.meaningInSourceLanguage}-${index}`)
+                    const isRevealed = revealedSet.has(index)
 
-            {/* Challenge Cards */}
-            <div className="grid grid-cols-1 gap-4">
-                {pairs.map((pair) => {
-                    const isRevealed = showAll || revealedIds.has(pair.id)
-                    const isKnown = knownIds.has(pair.id)
+                    // Generate a unique color based on index
+                    const colors = ['from-indigo-50 to-white', 'from-purple-50 to-white', 'from-blue-50 to-white', 'from-pink-50 to-white', 'from-emerald-50 to-white']
+                    const colorClass = colors[index % colors.length]
 
-                    const displayTarget = showNativeFirst ? pair.native : pair.foreign
-                    const displayHidden = showNativeFirst ? pair.foreign : pair.native
+                    const foreign = challenge.formInTargetLanguage || challenge.answer || ''
+                    const native = challenge.meaningInSourceLanguage || challenge.meaning || ''
 
                     return (
                         <div
-                            key={pair.id}
-                            className={`rounded-lg border p-4 transition-colors ${
-                                isKnown
-                                    ? 'border-green-300 bg-green-50 dark:bg-green-950/20 dark:border-green-800'
-                                    : 'border-border bg-card'
+                            key={index}
+                            className={`bg-white rounded-xl border shadow-sm overflow-hidden transition-all duration-200 ${
+                                isLearned ? 'border-emerald-200 bg-emerald-50/30' : 'border-gray-100'
                             }`}
                         >
-                            <div className="flex items-start justify-between">
-                                <div className="flex-1">
-                                    <p className="text-lg font-medium mb-1">
-                                        {displayTarget}
-                                    </p>
-                                    {isRevealed ? (
-                                        <p className="text-muted-foreground">
-                                            {displayHidden}
-                                        </p>
-                                    ) : (
+                            <div className={`p-5 bg-gradient-to-br ${colorClass}`}>
+                                <div className="flex items-start justify-between gap-4">
+                                    <div className="flex-1 min-w-0">
+                                        {/* Show foreign text first (or native if toggled) */}
+                                        {!showNativeFirst && (
+                                            <p className="text-xl font-semibold text-gray-800 mb-2 break-words">
+                                                {foreign}
+                                            </p>
+                                        )}
+                                        {showNativeFirst && isRevealed && (
+                                            <p className="text-xl font-semibold text-gray-800 mb-2 break-words">
+                                                {foreign}
+                                            </p>
+                                        )}
+
+                                        {/* Translation */}
+                                        {isRevealed ? (
+                                            <p className="text-base text-gray-500 border-t border-gray-100 pt-2 mt-1">
+                                                {native}
+                                            </p>
+                                        ) : (
+                                            <button
+                                                onClick={() => toggleReveal(index)}
+                                                className="text-sm text-gray-400 hover:text-indigo-500 transition-colors mt-1"
+                                            >
+                                                点击显示翻译 →
+                                            </button>
+                                        )}
+
+                                        {/* Show native first mode */}
+                                        {showNativeFirst && !isRevealed && (
+                                            <div>
+                                                <p className="text-xl font-semibold text-gray-500 mb-2 break-words">
+                                                    {native}
+                                                </p>
+                                                <button
+                                                    onClick={() => toggleReveal(index)}
+                                                    className="text-sm text-gray-400 hover:text-indigo-500 transition-colors"
+                                                >
+                                                    点击显示外语 →
+                                                </button>
+                                            </div>
+                                        )}
+                                    </div>
+                                    <div className="flex flex-col gap-1.5 shrink-0">
                                         <button
-                                            onClick={() => toggleReveal(pair.id)}
-                                            className="text-sm text-blue-500 hover:underline"
+                                            onClick={() => toggleReveal(index)}
+                                            className={`px-3 py-1 text-xs rounded-lg border transition-all ${
+                                                isRevealed
+                                                    ? 'bg-gray-50 border-gray-200 text-gray-500'
+                                                    : 'border-gray-200 text-gray-400 hover:border-indigo-200 hover:text-indigo-500'
+                                            }`}
                                         >
-                                            点击显示翻译
+                                            {isRevealed ? '隐藏' : '显示'}
                                         </button>
-                                    )}
-                                </div>
-                                <div className="flex gap-2 ml-4">
-                                    <button
-                                        onClick={() => toggleReveal(pair.id)}
-                                        className="px-3 py-1 text-xs rounded-md border border-border hover:bg-accent transition"
-                                    >
-                                        {isRevealed ? '隐藏' : '显示'}
-                                    </button>
-                                    <button
-                                        onClick={() => toggleKnown(pair.id)}
-                                        className={`px-3 py-1 text-xs rounded-md border transition ${
-                                            isKnown
-                                                ? 'bg-green-500 text-white border-green-500'
-                                                : 'border-border hover:bg-accent'
-                                        }`}
-                                    >
-                                        {isKnown ? '已掌握' : '标记已学'}
-                                    </button>
+                                        <button
+                                            onClick={() => toggleLearned(`${challenge.formInTargetLanguage}-${challenge.meaningInSourceLanguage}-${index}`)}
+                                            className={`px-3 py-1 text-xs rounded-lg border transition-all ${
+                                                isLearned
+                                                    ? 'bg-emerald-50 border-emerald-200 text-emerald-600'
+                                                    : 'border-gray-200 text-gray-400 hover:border-emerald-200 hover:text-emerald-600'
+                                            }`}
+                                        >
+                                            {isLearned ? '已掌握 ✓' : '标记已学'}
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
+                            {/* Progress bar at bottom */}
+                            {isLearned && (
+                                <div className="h-1 bg-emerald-400 w-full" />
+                            )}
                         </div>
                     )
                 })}
             </div>
-
-            {/* Empty state */}
-            {pairs.length === 0 && (
-                <p className="text-center text-muted-foreground py-12">
-                    暂无练习内容
-                </p>
-            )}
         </div>
     )
 }

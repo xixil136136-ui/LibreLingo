@@ -74,3 +74,13 @@
         @apply bg-background text-foreground;
     }
 }
+
+@layer utilities {
+    .card-hover {
+        @apply transition-all duration-300 ease-out;
+    }
+
+    .card-hover:hover {
+        @apply -translate-y-1.5 shadow-xl;
+    }
+}

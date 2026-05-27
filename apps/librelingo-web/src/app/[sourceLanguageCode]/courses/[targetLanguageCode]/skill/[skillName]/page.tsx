@@ -3,7 +3,7 @@ import fs from 'node:fs'
 import { notFound } from 'next/navigation'
 import { listAvailableCourses } from '@/data/course'
 import PracticeClient from './practice-client'
-import { getLanguageLabel, getSkillLabel } from '@/app/language-labels'
+import { getLanguageLabel, getLanguageFlag, getSkillLabel } from '@/app/language-labels'
 
 type Props = {
     params: {
@@ -13,107 +13,103 @@ type Props = {
     }
 }
 
+type Challenge = {
+    type: string
+    formInTargetLanguage?: string
+    meaningInSourceLanguage?: string
+    answer?: string
+    meaning?: string
+}
+
+type SkillData = {
+    challenges: Challenge[]
+}
+
 export async function generateStaticParams() {
     const courses = await listAvailableCourses()
-    const parameters: Array<{
-        sourceLanguageCode: string
-        targetLanguageCode: string
-        skillName: string
-    }> = []
+    const parameters: Props['params'][] = []
 
     for (const course of courses) {
-        const challengeDirectory = path.join(
+        const challengesDirectory = path.join(
             process.cwd(),
             'src',
             'courses',
-            course.id,
+            `${course.uiLanguage}-${course.languageCode}`,
             'challenges'
         )
+
         try {
-            const files = await fs.promises.readdir(challengeDirectory)
+            const files = await fs.promises.readdir(challengesDirectory)
             for (const file of files) {
                 if (file.endsWith('.json')) {
                     parameters.push({
                         sourceLanguageCode: course.uiLanguage,
                         targetLanguageCode: course.languageCode,
-                        skillName: file.replaceAll('.json', ''),
+                        skillName: file.replace('.json', ''),
                     })
                 }
             }
         } catch {
-            // No challenges directory for this course
+            continue
         }
     }
 
     return parameters
 }
 
-async function loadChallenges(
-    sourceLanguageCode: string,
-    targetLanguageCode: string,
-    skillName: string
-) {
-    const courses = await listAvailableCourses()
-    const course = courses.find(
-        (c) =>
-            c.uiLanguage === sourceLanguageCode &&
-            c.languageCode === targetLanguageCode
-    )
+export default async function SkillPage({ params }: Props) {
+    const { sourceLanguageCode, targetLanguageCode, skillName } = params
+    const langLabel = getLanguageLabel(targetLanguageCode)
+    const flag = getLanguageFlag(targetLanguageCode)
+    const skillLabel = getSkillLabel(skillName)
 
-    if (!course) {
-        return
-    }
-
-    const challengePath = path.join(
+    const challengesPath = path.join(
         process.cwd(),
         'src',
         'courses',
-        course.id,
+        `${sourceLanguageCode}-${targetLanguageCode}`,
         'challenges',
         `${skillName}.json`
     )
 
+    let skillData: SkillData
+
     try {
-        const content = await fs.promises.readFile(challengePath, 'utf8')
-        return JSON.parse(content)
+        const content = await fs.promises.readFile(challengesPath, 'utf8')
+        skillData = JSON.parse(content)
     } catch {
-        return
-    }
-}
-
-export default async function SkillPracticePage(props: Props) {
-    const { sourceLanguageCode, targetLanguageCode, skillName } = props.params
-    const data = await loadChallenges(
-        sourceLanguageCode,
-        targetLanguageCode,
-        skillName
-    )
-
-    if (!data) {
         notFound()
     }
 
-    const challenges = data.challenges || []
-    const targetLabel = getLanguageLabel(targetLanguageCode)
-    const skillLabel = getSkillLabel(skillName)
+    if (!skillData.challenges || skillData.challenges.length === 0) {
+        notFound()
+    }
 
     return (
-        <div className="container mx-auto p-6">
-            <h1 className="text-3xl font-bold mb-2">{skillLabel}</h1>
-            <p className="text-muted-foreground mb-8">
-                {targetLabel} · {challenges.length} 个练习 · {data.levels} 个等级
-            </p>
-            <PracticeClient
-                challenges={challenges}
-            />
-            <div className="mt-8">
+        <div className="mx-auto max-w-3xl px-4 py-8">
+            {/* Skill header */}
+            <div className="mb-8">
                 <a
                     href={`/${sourceLanguageCode}/courses/${targetLanguageCode}`}
-                    className="text-sm text-muted-foreground hover:underline"
+                    className="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-indigo-500 transition-colors mb-4"
                 >
-                    &larr; 返回课程
+                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
+                    </svg>
+                    返回课程
                 </a>
+                <div className="flex items-center gap-3">
+                    <span className="text-3xl">{flag}</span>
+                    <div>
+                        <h1 className="text-2xl font-extrabold text-gray-800">{skillLabel}</h1>
+                        <p className="text-sm text-gray-500">
+                            {langLabel} · {skillData.challenges.length} 个练习
+                        </p>
+                    </div>
+                </div>
             </div>
+
+            <PracticeClient challenges={skillData.challenges} />
         </div>
     )
 }
