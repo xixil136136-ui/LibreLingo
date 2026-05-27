@@ -1,0 +1,74 @@
+Skill:
+  Name: Weather
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: soleggiato
+    Translation: 晴天
+  - Word: pioggia
+    Translation: 雨
+  - Word: neve
+    Translation: 雪
+  - Word: vento
+    Translation: 风
+  - Word: nuvola
+    Translation: 云
+  - Word: freddo
+    Translation: 冷
+  - Word: caldo
+    Translation: 热
+  - Word: tiepido
+    Translation: 温暖
+  - Word: temperatura
+    Translation: 温度
+  - Word: ombrello
+    Translation: 雨伞
+
+Phrases:
+  - Phrase: Oggi c'è sole.
+    Translation: 今天天气晴朗。
+  - Phrase: Pioverà.
+    Translation: 要下雨了。
+  - Phrase: Fa molto freddo fuori.
+    Translation: 外面很冷。
+  - Phrase: Porta un ombrello.
+    Translation: 带上雨伞。
+  - Phrase: Qual è la temperatura?
+    Translation: 多少度？
+  - Phrase: Nevica.
+    Translation: 下雪了。
+  - Phrase: Oggi fa tiepido.
+    Translation: 今天很暖和。
+  - Phrase: C'è vento.
+    Translation: 刮风了。
+
+Mini-dictionary:
+  Italian:
+    - temperatura: 温度
+    - tiepido: 温暖
+    - ombrello: 雨伞
+    - neve: 雪
+    - nuvola: 云
+    - pioggia: 雨
+    - soleggiato: 晴天
+    - vento: 风
+    - freddo: 冷
+    - caldo: 热
+  Chinese:
+    - 温暖: tiepido
+    - 雪: neve
+    - 风: vento
+    - 冷: freddo
+    - 温度: temperatura
+    - 晴天: soleggiato
+    - 热: caldo
+    - 雨: pioggia
+    - 雨伞: ombrello
+    - 云: nuvola

@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - aujourd'hui: 今天
-    - hier: 昨天
-    - soir: 晚上
-    - nuit: 夜晚
-    - demain: 明天
-    - maintenant: 现在
     - après-midi: 下午
     - matin: 早上
+    - demain: 明天
+    - hier: 昨天
+    - nuit: 夜晚
+    - aujourd'hui: 今天
     - plus tard: 稍后
+    - maintenant: 现在
     - tôt: 早
+    - soir: 晚上
   Chinese:
-    - 现在: maintenant
+    - 今天: aujourd'hui
+    - 明天: demain
     - 夜晚: nuit
+    - 现在: maintenant
+    - 早上: matin
     - 晚上: soir
     - 下午: après-midi
-    - 明天: demain
-    - 稍后: plus tard
     - 早: tôt
-    - 今天: aujourd'hui
     - 昨天: hier
-    - 早上: matin
+    - 稍后: plus tard

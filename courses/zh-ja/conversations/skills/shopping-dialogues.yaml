@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Japanese:
+    - exchange: 换货
     - receipt: 收据
-    - cash: 现金
-    - credit card: 信用卡
+    - How much: 多少钱
     - discount: 折扣
+    - cash: 现金
+    - try on: 试穿
+    - credit card: 信用卡
+    - size: 尺寸
     - color: 颜色
     - too expensive: 太贵
-    - exchange: 换货
-    - How much: 多少钱
-    - try on: 试穿
-    - size: 尺寸
   Chinese:
-    - 太贵: too expensive
-    - 尺寸: size
-    - 信用卡: credit card
-    - 多少钱: How much
+    - 换货: exchange
     - 收据: receipt
     - 折扣: discount
-    - 换货: exchange
-    - 颜色: color
-    - 现金: cash
+    - 尺寸: size
+    - 信用卡: credit card
     - 试穿: try on
+    - 多少钱: How much
+    - 颜色: color
+    - 太贵: too expensive
+    - 现金: cash

@@ -1,0 +1,74 @@
+Skill:
+  Name: Shopping
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 店
+    Translation: 商店
+  - Word: 値段
+    Translation: 价格
+  - Word: 高い
+    Translation: 贵的
+  - Word: 安い
+    Translation: 便宜的
+  - Word: お金
+    Translation: 钱
+  - Word: 品質
+    Translation: 质量
+  - Word: ブランド
+    Translation: 品牌
+  - Word: 返品
+    Translation: 退货
+  - Word: 営業中
+    Translation: 营业
+  - Word: 閉店
+    Translation: 关门
+
+Phrases:
+  - Phrase: これはいくらですか？
+    Translation: 这个多少钱？
+  - Phrase: 高すぎます。
+    Translation: 太贵了。
+  - Phrase: これは品質が良いです。
+    Translation: 这个质量很好。
+  - Phrase: 店は営業中ですか？
+    Translation: 商店开门吗？
+  - Phrase: 今日は閉店です。
+    Translation: 今天关门了。
+  - Phrase: これを返品できますか？
+    Translation: 能退货吗？
+  - Phrase: 店はあそこです。
+    Translation: 商店在那里。
+  - Phrase: お金がありません。
+    Translation: 我没钱。
+
+Mini-dictionary:
+  Japanese:
+    - 安い: 便宜的
+    - 品質: 质量
+    - 営業中: 营业
+    - 閉店: 关门
+    - お金: 钱
+    - ブランド: 品牌
+    - 値段: 价格
+    - 返品: 退货
+    - 高い: 贵的
+    - 店: 商店
+  Chinese:
+    - 退货: 返品
+    - 品牌: ブランド
+    - 营业: 営業中
+    - 关门: 閉店
+    - 贵的: 高い
+    - 商店: 店
+    - 价格: 値段
+    - 便宜的: 安い
+    - 质量: 品質
+    - 钱: お金

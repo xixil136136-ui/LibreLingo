@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Garage: 车库
-    - Küche: 厨房
-    - Treppe: 楼梯
-    - Haus: 房子
-    - Garten: 花园
     - Fenster: 窗户
-    - Hof: 院子
+    - Garten: 花园
+    - Küche: 厨房
+    - Haus: 房子
     - Schlafzimmer: 卧室
+    - Treppe: 楼梯
     - Dach: 屋顶
+    - Garage: 车库
+    - Hof: 院子
     - Tür: 门
   Chinese:
-    - 车库: Garage
-    - 院子: Hof
+    - 厨房: Küche
     - 窗户: Fenster
-    - 房子: Haus
     - 楼梯: Treppe
-    - 花园: Garten
+    - 院子: Hof
+    - 车库: Garage
+    - 屋顶: Dach
     - 门: Tür
     - 卧室: Schlafzimmer
-    - 屋顶: Dach
-    - 厨房: Küche
+    - 房子: Haus
+    - 花园: Garten

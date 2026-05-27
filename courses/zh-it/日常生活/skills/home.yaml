@@ -1,0 +1,70 @@
+Skill:
+  Name: Home
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: casa
+    Translation: 房子
+  - Word: porta
+    Translation: 门
+  - Word: finestra
+    Translation: 窗户
+  - Word: cucina
+    Translation: 厨房
+  - Word: camera da letto
+    Translation: 卧室
+  - Word: giardino
+    Translation: 花园
+  - Word: garage
+    Translation: 车库
+  - Word: scale
+    Translation: 楼梯
+  - Word: cortile
+    Translation: 院子
+  - Word: tetto
+    Translation: 屋顶
+
+Phrases:
+  - Phrase: Questa è la mia casa.
+    Translation: 这是我的房子。
+  - Phrase: Apri la porta.
+    Translation: 开门。
+  - Phrase: La cucina è grande.
+    Translation: 厨房很大。
+  - Phrase: La camera da letto è pulita.
+    Translation: 卧室很干净。
+  - Phrase: C'è un giardino.
+    Translation: 有一个花园。
+  - Phrase: Chiudi la finestra.
+    Translation: 关窗。
+
+Mini-dictionary:
+  Italian:
+    - giardino: 花园
+    - porta: 门
+    - scale: 楼梯
+    - casa: 房子
+    - garage: 车库
+    - finestra: 窗户
+    - cortile: 院子
+    - camera da letto: 卧室
+    - tetto: 屋顶
+    - cucina: 厨房
+  Chinese:
+    - 院子: cortile
+    - 屋顶: tetto
+    - 花园: giardino
+    - 楼梯: scale
+    - 厨房: cucina
+    - 卧室: camera da letto
+    - 门: porta
+    - 车库: garage
+    - 窗户: finestra
+    - 房子: casa

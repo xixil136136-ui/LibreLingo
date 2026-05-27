@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - departure: 出发
-    - customs: 海关
     - ticket: 票
-    - platform: 站台
-    - one-way: 单程
-    - visa: 签证
     - round trip: 往返
-    - arrival: 到达
+    - visa: 签证
     - passport: 护照
     - airport: 机场
+    - departure: 出发
+    - customs: 海关
+    - arrival: 到达
+    - one-way: 单程
+    - platform: 站台
   Chinese:
     - 护照: passport
-    - 站台: platform
     - 签证: visa
-    - 单程: one-way
-    - 海关: customs
-    - 往返: round trip
-    - 到达: arrival
+    - 站台: platform
     - 机场: airport
-    - 票: ticket
+    - 到达: arrival
     - 出发: departure
+    - 单程: one-way
+    - 往返: round trip
+    - 票: ticket
+    - 海关: customs

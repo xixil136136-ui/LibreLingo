@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - puerta: 门
-    - dormitorio: 卧室
-    - techo: 屋顶
-    - escaleras: 楼梯
-    - casa: 房子
-    - cocina: 厨房
     - jardín: 花园
+    - puerta: 门
     - patio: 院子
-    - garaje: 车库
     - ventana: 窗户
+    - techo: 屋顶
+    - casa: 房子
+    - garaje: 车库
+    - cocina: 厨房
+    - dormitorio: 卧室
+    - escaleras: 楼梯
   Chinese:
-    - 屋顶: techo
-    - 门: puerta
     - 楼梯: escaleras
-    - 厨房: cocina
-    - 窗户: ventana
-    - 车库: garaje
     - 卧室: dormitorio
-    - 房子: casa
+    - 窗户: ventana
+    - 屋顶: techo
     - 院子: patio
+    - 车库: garaje
+    - 门: puerta
+    - 房子: casa
     - 花园: jardín
+    - 厨房: cocina

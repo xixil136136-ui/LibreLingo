@@ -14,11 +14,40 @@ type Challenge = {
 
 type Props = {
     challenges: Challenge[]
+    targetLanguageCode: string
 }
 
 const STORAGE_PREFIX = 'librelingo_learned_'
 
-export default function PracticeClient({ challenges }: Props) {
+// Map language codes to Web Speech API language tags
+const SPEECH_LANG_MAP: Record<string, string> = {
+    en: 'en-US',
+    ja: 'ja-JP',
+    ko: 'ko-KR',
+    fr: 'fr-FR',
+    de: 'de-DE',
+    es: 'es-ES',
+    it: 'it-IT',
+    pt: 'pt-BR',
+    ru: 'ru-RU',
+    th: 'th-TH',
+}
+
+function speak(text: string, langCode: string) {
+    if (typeof window === 'undefined' || !window.speechSynthesis) return
+    window.speechSynthesis.cancel() // stop any ongoing speech
+    const utterance = new SpeechSynthesisUtterance(text)
+    utterance.lang = SPEECH_LANG_MAP[langCode] || langCode
+    utterance.rate = 0.9
+    utterance.pitch = 1
+    // Try to find a matching voice for the language
+    const voices = window.speechSynthesis.getVoices()
+    const matchingVoice = voices.find(v => v.lang.startsWith(langCode))
+    if (matchingVoice) utterance.voice = matchingVoice
+    window.speechSynthesis.speak(utterance)
+}
+
+export default function PracticeClient({ challenges, targetLanguageCode }: Props) {
     const [currentPath, setCurrentPath] = useState('')
     const [learnedSet, setLearnedSet] = useState<Set<string>>(new Set())
     const [revealedSet, setRevealedSet] = useState<Set<number>>(new Set())
@@ -27,6 +56,10 @@ export default function PracticeClient({ challenges }: Props) {
 
     useEffect(() => {
         setCurrentPath(window.location.pathname)
+        // Pre-load voices for the language
+        if (typeof window !== 'undefined' && window.speechSynthesis) {
+            window.speechSynthesis.getVoices() // triggers async load
+        }
     }, [])
 
     useEffect(() => {
@@ -145,14 +178,34 @@ export default function PracticeClient({ challenges }: Props) {
                                     <div className="flex-1 min-w-0">
                                         {/* Show foreign text first (or native if toggled) */}
                                         {!showNativeFirst && (
-                                            <p className="text-xl font-semibold text-gray-800 mb-2 break-words">
-                                                {foreign}
-                                            </p>
+                                            <div
+                                                className="flex items-start gap-2 cursor-pointer group"
+                                                onClick={() => speak(foreign, targetLanguageCode)}
+                                            >
+                                                <p className="text-xl font-semibold text-gray-800 mb-2 break-words">
+                                                    {foreign}
+                                                </p>
+                                                <span className="text-gray-300 group-hover:text-indigo-400 transition-colors mt-1 shrink-0" title="朗读">
+                                                    <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                                                        <path strokeLinecap="round" strokeLinejoin="round" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+                                                    </svg>
+                                                </span>
+                                            </div>
                                         )}
                                         {showNativeFirst && isRevealed && (
-                                            <p className="text-xl font-semibold text-gray-800 mb-2 break-words">
-                                                {foreign}
-                                            </p>
+                                            <div
+                                                className="flex items-start gap-2 cursor-pointer group"
+                                                onClick={() => speak(foreign, targetLanguageCode)}
+                                            >
+                                                <p className="text-xl font-semibold text-gray-800 mb-2 break-words">
+                                                    {foreign}
+                                                </p>
+                                                <span className="text-gray-300 group-hover:text-indigo-400 transition-colors mt-1 shrink-0" title="朗读">
+                                                    <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                                                        <path strokeLinecap="round" strokeLinejoin="round" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+                                                    </svg>
+                                                </span>
+                                            </div>
                                         )}
 
                                         {/* Translation */}
@@ -185,6 +238,15 @@ export default function PracticeClient({ challenges }: Props) {
                                         )}
                                     </div>
                                     <div className="flex flex-col gap-1.5 shrink-0">
+                                        <button
+                                            onClick={() => speak(foreign, targetLanguageCode)}
+                                            className="px-3 py-1.5 text-xs rounded-lg border transition-all border-gray-200 text-gray-400 hover:border-indigo-200 hover:text-indigo-500"
+                                            title="朗读"
+                                        >
+                                            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                                                <path strokeLinecap="round" strokeLinejoin="round" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+                                            </svg>
+                                        </button>
                                         <button
                                             onClick={() => toggleReveal(index)}
                                             className={`px-3 py-1 text-xs rounded-lg border transition-all ${

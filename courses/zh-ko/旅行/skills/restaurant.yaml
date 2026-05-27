@@ -1,0 +1,70 @@
+Skill:
+  Name: Restaurant
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 식당
+    Translation: 餐厅
+  - Word: 음료
+    Translation: 饮料
+  - Word: 음식
+    Translation: 食物
+  - Word: 냅킨
+    Translation: 餐巾
+  - Word: 소금
+    Translation: 盐
+  - Word: 후추
+    Translation: 胡椒
+  - Word: 컵
+    Translation: 玻璃杯
+  - Word: 병
+    Translation: 瓶子
+  - Word: 디저트
+    Translation: 甜点
+  - Word: 메인 요리
+    Translation: 主菜
+
+Phrases:
+  - Phrase: 음료를 원해요.
+    Translation: 我想要一杯饮料。
+  - Phrase: 음식이 맛있어요.
+    Translation: 食物很好。
+  - Phrase: 물 한 잔 주세요.
+    Translation: 能给我一杯水吗？
+  - Phrase: 와인 한 병이 필요해요.
+    Translation: 我们需要一瓶酒。
+  - Phrase: 디저트를 원해요.
+    Translation: 我想要甜点。
+  - Phrase: 소금 좀 주세요.
+    Translation: 请把盐递给我。
+
+Mini-dictionary:
+  Korean:
+    - 음식: 食物
+    - 후추: 胡椒
+    - 소금: 盐
+    - 식당: 餐厅
+    - 병: 瓶子
+    - 컵: 玻璃杯
+    - 메인 요리: 主菜
+    - 음료: 饮料
+    - 디저트: 甜点
+    - 냅킨: 餐巾
+  Chinese:
+    - 主菜: 메인 요리
+    - 甜点: 디저트
+    - 瓶子: 병
+    - 食物: 음식
+    - 玻璃杯: 컵
+    - 胡椒: 후추
+    - 饮料: 음료
+    - 餐巾: 냅킨
+    - 餐厅: 식당
+    - 盐: 소금

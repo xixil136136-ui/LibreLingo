@@ -1,0 +1,70 @@
+Skill:
+  Name: Restaurant
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: restaurante
+    Translation: 餐厅
+  - Word: bebida
+    Translation: 饮料
+  - Word: comida
+    Translation: 食物
+  - Word: guardanapo
+    Translation: 餐巾
+  - Word: sal
+    Translation: 盐
+  - Word: pimenta
+    Translation: 胡椒
+  - Word: copo
+    Translation: 玻璃杯
+  - Word: garrafa
+    Translation: 瓶子
+  - Word: sobremesa
+    Translation: 甜点
+  - Word: prato principal
+    Translation: 主菜
+
+Phrases:
+  - Phrase: Quero uma bebida.
+    Translation: 我想要一杯饮料。
+  - Phrase: A comida é boa.
+    Translation: 食物很好。
+  - Phrase: Posso ter um copo de água?
+    Translation: 能给我一杯水吗？
+  - Phrase: Precisamos de uma garrafa de vinho.
+    Translation: 我们需要一瓶酒。
+  - Phrase: Gostaria de sobremesa.
+    Translation: 我想要甜点。
+  - Phrase: Passe-me o sal, por favor.
+    Translation: 请把盐递给我。
+
+Mini-dictionary:
+  Portuguese:
+    - guardanapo: 餐巾
+    - sal: 盐
+    - sobremesa: 甜点
+    - garrafa: 瓶子
+    - pimenta: 胡椒
+    - bebida: 饮料
+    - prato principal: 主菜
+    - comida: 食物
+    - copo: 玻璃杯
+    - restaurante: 餐厅
+  Chinese:
+    - 瓶子: garrafa
+    - 玻璃杯: copo
+    - 食物: comida
+    - 饮料: bebida
+    - 餐厅: restaurante
+    - 餐巾: guardanapo
+    - 胡椒: pimenta
+    - 盐: sal
+    - 甜点: sobremesa
+    - 主菜: prato principal

@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - esquerda: 左边
+    - longe: 远
     - reto: 直走
     - mapa: 地图
     - direita: 右边
-    - estrada: 路
-    - perto: 附近
     - ali: 那里
-    - aqui: 这里
-    - longe: 远
     - rua: 街道
+    - esquerda: 左边
+    - perto: 附近
+    - estrada: 路
+    - aqui: 这里
   Chinese:
-    - 远: longe
+    - 左边: esquerda
+    - 路: estrada
+    - 附近: perto
     - 右边: direita
-    - 直走: reto
     - 这里: aqui
     - 街道: rua
-    - 路: estrada
     - 那里: ali
-    - 附近: perto
+    - 远: longe
     - 地图: mapa
-    - 左边: esquerda
+    - 直走: reto

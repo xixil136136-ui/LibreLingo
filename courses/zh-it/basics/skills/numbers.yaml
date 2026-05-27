@@ -42,23 +42,23 @@ Phrases:
 Mini-dictionary:
   Italian:
     - cinque: 五
-    - sette: 七
     - otto: 八
-    - sei: 六
-    - dieci: 十
-    - tre: 三
-    - uno: 一
-    - due: 二
-    - quattro: 四
     - nove: 九
+    - sei: 六
+    - tre: 三
+    - dieci: 十
+    - uno: 一
+    - quattro: 四
+    - due: 二
+    - sette: 七
   Chinese:
+    - 十: dieci
+    - 五: cinque
+    - 六: sei
+    - 四: quattro
     - 二: due
-    - 三: tre
+    - 一: uno
     - 九: nove
     - 八: otto
-    - 六: sei
+    - 三: tre
     - 七: sette
-    - 五: cinque
-    - 十: dieci
-    - 一: uno
-    - 四: quattro

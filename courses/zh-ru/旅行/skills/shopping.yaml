@@ -1,0 +1,74 @@
+Skill:
+  Name: Shopping
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: магазин
+    Translation: 商店
+  - Word: цена
+    Translation: 价格
+  - Word: дорогой
+    Translation: 贵的
+  - Word: дешёвый
+    Translation: 便宜的
+  - Word: деньги
+    Translation: 钱
+  - Word: качество
+    Translation: 质量
+  - Word: бренд
+    Translation: 品牌
+  - Word: возврат
+    Translation: 退货
+  - Word: открыто
+    Translation: 营业
+  - Word: закрыто
+    Translation: 关门
+
+Phrases:
+  - Phrase: Сколько это стоит?
+    Translation: 这个多少钱？
+  - Phrase: Это слишком дорого.
+    Translation: 太贵了。
+  - Phrase: Это хорошего качества.
+    Translation: 这个质量很好。
+  - Phrase: Магазин открыт?
+    Translation: 商店开门吗？
+  - Phrase: Сегодня закрыто.
+    Translation: 今天关门了。
+  - Phrase: Можно вернуть это?
+    Translation: 能退货吗？
+  - Phrase: Магазин вон там.
+    Translation: 商店在那里。
+  - Phrase: У меня нет денег.
+    Translation: 我没钱。
+
+Mini-dictionary:
+  Russian:
+    - магазин: 商店
+    - бренд: 品牌
+    - цена: 价格
+    - качество: 质量
+    - дешёвый: 便宜的
+    - возврат: 退货
+    - дорогой: 贵的
+    - открыто: 营业
+    - закрыто: 关门
+    - деньги: 钱
+  Chinese:
+    - 贵的: дорогой
+    - 关门: закрыто
+    - 品牌: бренд
+    - 商店: магазин
+    - 便宜的: дешёвый
+    - 价格: цена
+    - 钱: деньги
+    - 退货: возврат
+    - 营业: открыто
+    - 质量: качество

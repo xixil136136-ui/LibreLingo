@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - recto: 直走
-    - mapa: 地图
-    - carretera: 路
-    - lejos: 远
-    - aquí: 这里
-    - calle: 街道
-    - allí: 那里
-    - izquierda: 左边
     - cerca: 附近
+    - carretera: 路
+    - mapa: 地图
+    - izquierda: 左边
+    - recto: 直走
+    - allí: 那里
+    - aquí: 这里
+    - lejos: 远
     - derecha: 右边
+    - calle: 街道
   Chinese:
-    - 右边: derecha
-    - 左边: izquierda
-    - 直走: recto
     - 街道: calle
     - 地图: mapa
-    - 远: lejos
+    - 左边: izquierda
+    - 右边: derecha
     - 路: carretera
     - 这里: aquí
-    - 那里: allí
     - 附近: cerca
+    - 远: lejos
+    - 直走: recto
+    - 那里: allí

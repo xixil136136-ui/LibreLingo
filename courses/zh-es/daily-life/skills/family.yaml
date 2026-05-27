@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - hermana: 姐妹
-    - hijo: 儿子
-    - niño: 孩子
-    - madre: 母亲
     - amigo: 朋友
-    - esposo: 丈夫
-    - esposa: 妻子
-    - hermano: 兄弟
-    - padre: 父亲
+    - niño: 孩子
     - hija: 女儿
+    - madre: 母亲
+    - hermano: 兄弟
+    - esposa: 妻子
+    - esposo: 丈夫
+    - padre: 父亲
+    - hijo: 儿子
+    - hermana: 姐妹
   Chinese:
-    - 孩子: niño
     - 父亲: padre
-    - 姐妹: hermana
+    - 妻子: esposa
     - 母亲: madre
+    - 朋友: amigo
+    - 孩子: niño
     - 丈夫: esposo
     - 儿子: hijo
-    - 女儿: hija
-    - 妻子: esposa
-    - 朋友: amigo
     - 兄弟: hermano
+    - 姐妹: hermana
+    - 女儿: hija

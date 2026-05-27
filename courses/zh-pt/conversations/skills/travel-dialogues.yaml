@@ -56,23 +56,23 @@ Phrases:
 Mini-dictionary:
   Portuguese:
     - o aeroporto: 机场
-    - a alfândega: 海关
-    - só ida: 单程
-    - o visto: 签证
-    - a plataforma: 站台
-    - o bilhete: 票
     - a chegada: 到达
-    - a partida: 出发
-    - ida e volta: 往返
+    - a plataforma: 站台
     - o passaporte: 护照
+    - o bilhete: 票
+    - só ida: 单程
+    - a alfândega: 海关
+    - ida e volta: 往返
+    - o visto: 签证
+    - a partida: 出发
   Chinese:
-    - 机场: o aeroporto
-    - 往返: ida e volta
     - 出发: a partida
-    - 到达: a chegada
-    - 护照: o passaporte
     - 海关: a alfândega
-    - 单程: só ida
+    - 护照: o passaporte
     - 签证: o visto
     - 站台: a plataforma
+    - 到达: a chegada
     - 票: o bilhete
+    - 单程: só ida
+    - 往返: ida e volta
+    - 机场: o aeroporto

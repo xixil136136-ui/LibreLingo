@@ -1,0 +1,72 @@
+Skill:
+  Name: Family
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 母
+    Translation: 母亲
+  - Word: 父
+    Translation: 父亲
+  - Word: 姉妹
+    Translation: 姐妹
+  - Word: 兄弟
+    Translation: 兄弟
+  - Word: 娘
+    Translation: 女儿
+  - Word: 息子
+    Translation: 儿子
+  - Word: 妻
+    Translation: 妻子
+  - Word: 夫
+    Translation: 丈夫
+  - Word: 友達
+    Translation: 朋友
+  - Word: 子供
+    Translation: 孩子
+
+Phrases:
+  - Phrase: これは私の母です。
+    Translation: 这是我的妈妈。
+  - Phrase: 父は背が高いです。
+    Translation: 我的爸爸很高。
+  - Phrase: 姉妹がいます。
+    Translation: 我有一个姐妹。
+  - Phrase: 兄弟は若いです。
+    Translation: 我的兄弟很年轻。
+  - Phrase: 彼女は私の友達です。
+    Translation: 她是我的朋友。
+  - Phrase: 子供は幸せです。
+    Translation: 孩子很高兴。
+  - Phrase: 妻は優しいです。
+    Translation: 我的妻子很善良。
+
+Mini-dictionary:
+  Japanese:
+    - 父: 父亲
+    - 子供: 孩子
+    - 姉妹: 姐妹
+    - 友達: 朋友
+    - 息子: 儿子
+    - 夫: 丈夫
+    - 兄弟: 兄弟
+    - 妻: 妻子
+    - 母: 母亲
+    - 娘: 女儿
+  Chinese:
+    - 儿子: 息子
+    - 孩子: 子供
+    - 妻子: 妻
+    - 父亲: 父
+    - 母亲: 母
+    - 女儿: 娘
+    - 丈夫: 夫
+    - 兄弟: 兄弟
+    - 朋友: 友達
+    - 姐妹: 姉妹

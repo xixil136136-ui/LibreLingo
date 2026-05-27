@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - stazione: 车站
-    - autobus: 公共汽车
-    - volo: 航班
     - taxi: 出租车
     - treno: 火车
     - ritardo: 延误
-    - imbarco: 登机
+    - stazione: 车站
     - metropolitana: 地铁
-    - hotel: 酒店
+    - autobus: 公共汽车
+    - volo: 航班
     - bagaglio: 行李
+    - imbarco: 登机
+    - hotel: 酒店
   Chinese:
-    - 公共汽车: autobus
-    - 登机: imbarco
-    - 延误: ritardo
     - 航班: volo
-    - 行李: bagaglio
-    - 车站: stazione
-    - 地铁: metropolitana
+    - 延误: ritardo
+    - 公共汽车: autobus
     - 火车: treno
-    - 出租车: taxi
+    - 行李: bagaglio
     - 酒店: hotel
+    - 车站: stazione
+    - 登机: imbarco
+    - 地铁: metropolitana
+    - 出租车: taxi

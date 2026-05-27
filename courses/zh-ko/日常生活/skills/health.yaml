@@ -1,0 +1,72 @@
+Skill:
+  Name: Health
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 의사
+    Translation: 医生
+  - Word: 병원
+    Translation: 医院
+  - Word: 약
+    Translation: 药
+  - Word: 두통
+    Translation: 头痛
+  - Word: 열
+    Translation: 发烧
+  - Word: 기침
+    Translation: 咳嗽
+  - Word: 통증
+    Translation: 疼痛
+  - Word: 약국
+    Translation: 药店
+  - Word: 휴식
+    Translation: 休息
+  - Word: 복통
+    Translation: 肚子痛
+
+Phrases:
+  - Phrase: 의사가 필요해요.
+    Translation: 我需要医生。
+  - Phrase: 병원이 어디예요?
+    Translation: 医院在哪里？
+  - Phrase: 두통이 있어요.
+    Translation: 我头痛。
+  - Phrase: 열이 있어요.
+    Translation: 我发烧了。
+  - Phrase: 이 약을 드세요.
+    Translation: 吃这个药。
+  - Phrase: 휴식이 필요해요.
+    Translation: 你需要休息。
+  - Phrase: 복통이 있어요.
+    Translation: 我肚子痛。
+
+Mini-dictionary:
+  Korean:
+    - 약: 药
+    - 통증: 疼痛
+    - 열: 发烧
+    - 휴식: 休息
+    - 복통: 肚子痛
+    - 기침: 咳嗽
+    - 약국: 药店
+    - 의사: 医生
+    - 두통: 头痛
+    - 병원: 医院
+  Chinese:
+    - 头痛: 두통
+    - 肚子痛: 복통
+    - 医生: 의사
+    - 药店: 약국
+    - 药: 약
+    - 疼痛: 통증
+    - 医院: 병원
+    - 休息: 휴식
+    - 发烧: 열
+    - 咳嗽: 기침

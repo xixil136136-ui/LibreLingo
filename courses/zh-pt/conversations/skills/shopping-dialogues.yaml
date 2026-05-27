@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - trocar: 换货
-    - experimentar: 试穿
-    - o tamanho: 尺寸
-    - muito caro: 太贵
     - o recibo: 收据
-    - o cartão de crédito: 信用卡
-    - Quanto: 多少钱
-    - o dinheiro: 现金
-    - o desconto: 折扣
     - a cor: 颜色
+    - o tamanho: 尺寸
+    - o desconto: 折扣
+    - Quanto: 多少钱
+    - muito caro: 太贵
+    - experimentar: 试穿
+    - o dinheiro: 现金
+    - o cartão de crédito: 信用卡
+    - trocar: 换货
   Chinese:
-    - 多少钱: Quanto
-    - 太贵: muito caro
-    - 信用卡: o cartão de crédito
-    - 尺寸: o tamanho
-    - 颜色: a cor
     - 折扣: o desconto
-    - 现金: o dinheiro
+    - 多少钱: Quanto
     - 换货: trocar
-    - 收据: o recibo
+    - 信用卡: o cartão de crédito
+    - 颜色: a cor
+    - 太贵: muito caro
+    - 现金: o dinheiro
+    - 尺寸: o tamanho
     - 试穿: experimentar
+    - 收据: o recibo

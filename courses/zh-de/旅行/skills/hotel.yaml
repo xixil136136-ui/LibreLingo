@@ -1,0 +1,72 @@
+Skill:
+  Name: Hotel
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Zimmer
+    Translation: 房间
+  - Word: Bett
+    Translation: 床
+  - Word: Dusche
+    Translation: 淋浴
+  - Word: Badezimmer
+    Translation: 浴室
+  - Word: Handtuch
+    Translation: 毛巾
+  - Word: Kissen
+    Translation: 枕头
+  - Word: Decke
+    Translation: 毯子
+  - Word: Stockwerk
+    Translation: 楼层
+  - Word: Rezeption
+    Translation: 前台
+  - Word: Gast
+    Translation: 客人
+
+Phrases:
+  - Phrase: Ich brauche ein Zimmer.
+    Translation: 我需要一个房间。
+  - Phrase: Wie viel pro Nacht?
+    Translation: 每晚多少钱？
+  - Phrase: Wo ist das Badezimmer?
+    Translation: 浴室在哪里？
+  - Phrase: Kann ich ein Handtuch haben?
+    Translation: 能给我一条毛巾吗？
+  - Phrase: Das Bett ist bequem.
+    Translation: 床很舒服。
+  - Phrase: Ich bin hier ein Gast.
+    Translation: 我是这里的客人。
+  - Phrase: Ist die Rezeption auf dieser Etage?
+    Translation: 前台在这一层吗？
+
+Mini-dictionary:
+  German:
+    - Badezimmer: 浴室
+    - Kissen: 枕头
+    - Bett: 床
+    - Gast: 客人
+    - Rezeption: 前台
+    - Decke: 毯子
+    - Stockwerk: 楼层
+    - Zimmer: 房间
+    - Handtuch: 毛巾
+    - Dusche: 淋浴
+  Chinese:
+    - 毛巾: Handtuch
+    - 客人: Gast
+    - 房间: Zimmer
+    - 楼层: Stockwerk
+    - 前台: Rezeption
+    - 枕头: Kissen
+    - 淋浴: Dusche
+    - 床: Bett
+    - 浴室: Badezimmer
+    - 毯子: Decke

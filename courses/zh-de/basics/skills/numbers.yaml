@@ -41,24 +41,24 @@ Phrases:
 
 Mini-dictionary:
   German:
+    - zwei: 二
+    - acht: 八
     - sechs: 六
     - neun: 九
-    - drei: 三
-    - acht: 八
-    - zwei: 二
-    - fünf: 五
     - zehn: 十
-    - eins: 一
     - sieben: 七
+    - eins: 一
+    - drei: 三
+    - fünf: 五
     - vier: 四
   Chinese:
-    - 五: fünf
-    - 一: eins
-    - 八: acht
-    - 七: sieben
-    - 九: neun
     - 三: drei
-    - 十: zehn
-    - 六: sechs
-    - 四: vier
     - 二: zwei
+    - 九: neun
+    - 六: sechs
+    - 一: eins
+    - 五: fünf
+    - 八: acht
+    - 十: zehn
+    - 七: sieben
+    - 四: vier

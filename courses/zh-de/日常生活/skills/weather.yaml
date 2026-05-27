@@ -1,0 +1,74 @@
+Skill:
+  Name: Weather
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: sonnig
+    Translation: 晴天
+  - Word: Regen
+    Translation: 雨
+  - Word: Schnee
+    Translation: 雪
+  - Word: Wind
+    Translation: 风
+  - Word: Wolke
+    Translation: 云
+  - Word: kalt
+    Translation: 冷
+  - Word: heiß
+    Translation: 热
+  - Word: warm
+    Translation: 温暖
+  - Word: Temperatur
+    Translation: 温度
+  - Word: Regenschirm
+    Translation: 雨伞
+
+Phrases:
+  - Phrase: Heute ist es sonnig.
+    Translation: 今天天气晴朗。
+  - Phrase: Es wird regnen.
+    Translation: 要下雨了。
+  - Phrase: Es ist sehr kalt draußen.
+    Translation: 外面很冷。
+  - Phrase: Bring einen Regenschirm mit.
+    Translation: 带上雨伞。
+  - Phrase: Wie ist die Temperatur?
+    Translation: 多少度？
+  - Phrase: Es schneit.
+    Translation: 下雪了。
+  - Phrase: Heute ist es warm.
+    Translation: 今天很暖和。
+  - Phrase: Es ist windig.
+    Translation: 刮风了。
+
+Mini-dictionary:
+  German:
+    - Wind: 风
+    - Temperatur: 温度
+    - warm: 温暖
+    - sonnig: 晴天
+    - Regenschirm: 雨伞
+    - kalt: 冷
+    - Wolke: 云
+    - Schnee: 雪
+    - heiß: 热
+    - Regen: 雨
+  Chinese:
+    - 晴天: sonnig
+    - 温度: Temperatur
+    - 风: Wind
+    - 冷: kalt
+    - 雪: Schnee
+    - 热: heiß
+    - 雨伞: Regenschirm
+    - 温暖: warm
+    - 雨: Regen
+    - 云: Wolke

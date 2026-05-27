@@ -1,0 +1,68 @@
+Skill:
+  Name: Directions
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: left
+    Translation: 左边
+  - Word: right
+    Translation: 右边
+  - Word: straight
+    Translation: 直走
+  - Word: here
+    Translation: 这里
+  - Word: there
+    Translation: 那里
+  - Word: near
+    Translation: 附近
+  - Word: far
+    Translation: 远
+  - Word: map
+    Translation: 地图
+  - Word: street
+    Translation: 街道
+  - Word: road
+    Translation: 路
+
+Phrases:
+  - Phrase: Where is the station?
+    Translation: 车站在哪里？
+  - Phrase: Turn left here.
+    Translation: 在这里左转。
+  - Phrase: Go straight ahead.
+    Translation: 一直往前走。
+  - Phrase: Is it far from here?
+    Translation: 离这里远吗？
+  - Phrase: I need a map.
+    Translation: 我需要一张地图。
+
+Mini-dictionary:
+  English:
+    - far: 远
+    - near: 附近
+    - map: 地图
+    - road: 路
+    - here: 这里
+    - there: 那里
+    - street: 街道
+    - right: 右边
+    - straight: 直走
+    - left: 左边
+  Chinese:
+    - 右边: right
+    - 附近: near
+    - 地图: map
+    - 左边: left
+    - 这里: here
+    - 那里: there
+    - 街道: street
+    - 路: road
+    - 远: far
+    - 直走: straight

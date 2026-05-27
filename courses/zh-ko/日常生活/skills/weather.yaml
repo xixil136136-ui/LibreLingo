@@ -1,0 +1,74 @@
+Skill:
+  Name: Weather
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 맑음
+    Translation: 晴天
+  - Word: 비
+    Translation: 雨
+  - Word: 눈
+    Translation: 雪
+  - Word: 바람
+    Translation: 风
+  - Word: 구름
+    Translation: 云
+  - Word: 춥다
+    Translation: 冷
+  - Word: 덥다
+    Translation: 热
+  - Word: 따뜻하다
+    Translation: 温暖
+  - Word: 기온
+    Translation: 温度
+  - Word: 우산
+    Translation: 雨伞
+
+Phrases:
+  - Phrase: 오늘 날씨가 맑아요.
+    Translation: 今天天气晴朗。
+  - Phrase: 비가 올 거예요.
+    Translation: 要下雨了。
+  - Phrase: 밖이 아주 추워요.
+    Translation: 外面很冷。
+  - Phrase: 우산 가져가세요.
+    Translation: 带上雨伞。
+  - Phrase: 기온이 몇 도예요?
+    Translation: 多少度？
+  - Phrase: 눈이 와요.
+    Translation: 下雪了。
+  - Phrase: 오늘 따뜻해요.
+    Translation: 今天很暖和。
+  - Phrase: 바람이 불어요.
+    Translation: 刮风了。
+
+Mini-dictionary:
+  Korean:
+    - 비: 雨
+    - 덥다: 热
+    - 구름: 云
+    - 기온: 温度
+    - 맑음: 晴天
+    - 춥다: 冷
+    - 눈: 雪
+    - 우산: 雨伞
+    - 바람: 风
+    - 따뜻하다: 温暖
+  Chinese:
+    - 温暖: 따뜻하다
+    - 晴天: 맑음
+    - 云: 구름
+    - 雨伞: 우산
+    - 雪: 눈
+    - 冷: 춥다
+    - 热: 덥다
+    - 温度: 기온
+    - 风: 바람
+    - 雨: 비

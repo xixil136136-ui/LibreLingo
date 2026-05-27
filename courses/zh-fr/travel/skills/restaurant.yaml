@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   French:
+    - sel: 盐
+    - bouteille: 瓶子
     - nourriture: 食物
     - poivre: 胡椒
-    - verre: 玻璃杯
     - restaurant: 餐厅
-    - bouteille: 瓶子
-    - plat principal: 主菜
-    - boisson: 饮料
     - serviette de table: 餐巾
-    - sel: 盐
+    - plat principal: 主菜
+    - verre: 玻璃杯
+    - boisson: 饮料
     - dessert: 甜点
   Chinese:
-    - 玻璃杯: verre
-    - 胡椒: poivre
-    - 盐: sel
-    - 甜点: dessert
-    - 饮料: boisson
-    - 瓶子: bouteille
-    - 餐巾: serviette de table
-    - 食物: nourriture
     - 餐厅: restaurant
+    - 盐: sel
+    - 餐巾: serviette de table
+    - 饮料: boisson
+    - 玻璃杯: verre
     - 主菜: plat principal
+    - 胡椒: poivre
+    - 食物: nourriture
+    - 瓶子: bouteille
+    - 甜点: dessert

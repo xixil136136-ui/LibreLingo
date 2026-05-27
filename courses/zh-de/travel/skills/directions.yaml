@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Weg: 路
-    - Karte: 地图
-    - hier: 这里
-    - links: 左边
-    - rechts: 右边
     - weit: 远
+    - Karte: 地图
     - dort: 那里
     - nah: 附近
+    - hier: 这里
+    - links: 左边
     - geradeaus: 直走
+    - rechts: 右边
+    - Weg: 路
     - Straße: 街道
   Chinese:
-    - 左边: links
-    - 街道: Straße
-    - 右边: rechts
-    - 路: Weg
     - 附近: nah
-    - 这里: hier
-    - 那里: dort
+    - 左边: links
     - 直走: geradeaus
     - 远: weit
+    - 那里: dort
+    - 右边: rechts
     - 地图: Karte
+    - 路: Weg
+    - 这里: hier
+    - 街道: Straße

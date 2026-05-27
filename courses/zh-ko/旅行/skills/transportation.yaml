@@ -1,0 +1,68 @@
+Skill:
+  Name: Transportation
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 기차
+    Translation: 火车
+  - Word: 버스
+    Translation: 公共汽车
+  - Word: 택시
+    Translation: 出租车
+  - Word: 지하철
+    Translation: 地铁
+  - Word: 호텔
+    Translation: 酒店
+  - Word: 짐
+    Translation: 行李
+  - Word: 역
+    Translation: 车站
+  - Word: 비행기
+    Translation: 航班
+  - Word: 지연
+    Translation: 延误
+  - Word: 탑승
+    Translation: 登机
+
+Phrases:
+  - Phrase: 버스 정류장이 어디예요?
+    Translation: 公共汽车站在哪里？
+  - Phrase: 기차가 지연되었어요.
+    Translation: 火车晚点了。
+  - Phrase: 짐이 있어요.
+    Translation: 我有行李。
+  - Phrase: 기차는 얼마예요?
+    Translation: 火车票多少钱？
+  - Phrase: 택시 승강장이 어디예요?
+    Translation: 出租车站在哪里？
+
+Mini-dictionary:
+  Korean:
+    - 택시: 出租车
+    - 호텔: 酒店
+    - 지하철: 地铁
+    - 역: 车站
+    - 짐: 行李
+    - 지연: 延误
+    - 탑승: 登机
+    - 버스: 公共汽车
+    - 기차: 火车
+    - 비행기: 航班
+  Chinese:
+    - 延误: 지연
+    - 出租车: 택시
+    - 行李: 짐
+    - 登机: 탑승
+    - 公共汽车: 버스
+    - 车站: 역
+    - 酒店: 호텔
+    - 火车: 기차
+    - 地铁: 지하철
+    - 航班: 비행기

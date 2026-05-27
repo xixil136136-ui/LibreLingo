@@ -50,23 +50,23 @@ Phrases:
 Mini-dictionary:
   German:
     - Bett: 床
-    - Decke: 毯子
+    - Rezeption: 前台
+    - Badezimmer: 浴室
+    - Dusche: 淋浴
+    - Handtuch: 毛巾
+    - Zimmer: 房间
     - Stockwerk: 楼层
     - Gast: 客人
     - Kissen: 枕头
-    - Dusche: 淋浴
-    - Handtuch: 毛巾
-    - Badezimmer: 浴室
-    - Zimmer: 房间
-    - Rezeption: 前台
+    - Decke: 毯子
   Chinese:
-    - 淋浴: Dusche
-    - 床: Bett
-    - 房间: Zimmer
-    - 客人: Gast
     - 楼层: Stockwerk
-    - 前台: Rezeption
     - 浴室: Badezimmer
-    - 毛巾: Handtuch
     - 毯子: Decke
     - 枕头: Kissen
+    - 前台: Rezeption
+    - 毛巾: Handtuch
+    - 房间: Zimmer
+    - 客人: Gast
+    - 淋浴: Dusche
+    - 床: Bett

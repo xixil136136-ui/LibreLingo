@@ -42,24 +42,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - tres: 三
-    - seis: 六
-    - nueve: 九
-    - dos: 二
-    - cuatro: 四
-    - siete: 七
-    - uno: 一
     - cinco: 五
     - diez: 十
+    - siete: 七
+    - cuatro: 四
     - ocho: 八
+    - nueve: 九
+    - dos: 二
+    - tres: 三
+    - uno: 一
+    - seis: 六
   Chinese:
-    - 九: nueve
-    - 十: diez
-    - 六: seis
-    - 八: ocho
-    - 七: siete
-    - 二: dos
-    - 一: uno
-    - 五: cinco
-    - 三: tres
     - 四: cuatro
+    - 五: cinco
+    - 七: siete
+    - 十: diez
+    - 一: uno
+    - 三: tres
+    - 二: dos
+    - 八: ocho
+    - 九: nueve
+    - 六: seis

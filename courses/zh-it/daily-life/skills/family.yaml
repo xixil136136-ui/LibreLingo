@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - figlia: 女儿
-    - moglie: 妻子
-    - marito: 丈夫
-    - sorella: 姐妹
-    - madre: 母亲
-    - bambino: 孩子
-    - fratello: 兄弟
-    - figlio: 儿子
     - amico: 朋友
+    - figlio: 儿子
+    - madre: 母亲
+    - moglie: 妻子
+    - sorella: 姐妹
+    - bambino: 孩子
     - padre: 父亲
+    - figlia: 女儿
+    - marito: 丈夫
+    - fratello: 兄弟
   Chinese:
+    - 孩子: bambino
     - 丈夫: marito
+    - 父亲: padre
     - 兄弟: fratello
     - 儿子: figlio
-    - 朋友: amico
-    - 父亲: padre
-    - 母亲: madre
     - 姐妹: sorella
+    - 母亲: madre
     - 妻子: moglie
+    - 朋友: amico
     - 女儿: figlia
-    - 孩子: bambino

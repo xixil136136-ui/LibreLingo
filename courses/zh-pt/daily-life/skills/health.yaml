@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - farmácia: 药店
-    - dor de estômago: 肚子痛
-    - dor: 疼痛
     - descanso: 休息
     - tosse: 咳嗽
     - remédio: 药
     - hospital: 医院
-    - médico: 医生
+    - dor: 疼痛
+    - farmácia: 药店
     - dor de cabeça: 头痛
+    - dor de estômago: 肚子痛
+    - médico: 医生
     - febre: 发烧
   Chinese:
-    - 药: remédio
-    - 发烧: febre
-    - 医生: médico
-    - 疼痛: dor
-    - 咳嗽: tosse
+    - 头痛: dor de cabeça
     - 医院: hospital
     - 药店: farmácia
+    - 发烧: febre
     - 肚子痛: dor de estômago
+    - 疼痛: dor
     - 休息: descanso
-    - 头痛: dor de cabeça
+    - 医生: médico
+    - 药: remédio
+    - 咳嗽: tosse

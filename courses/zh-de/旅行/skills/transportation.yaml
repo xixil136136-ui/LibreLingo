@@ -1,0 +1,68 @@
+Skill:
+  Name: Transportation
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Zug
+    Translation: 火车
+  - Word: Bus
+    Translation: 公共汽车
+  - Word: Taxi
+    Translation: 出租车
+  - Word: U-Bahn
+    Translation: 地铁
+  - Word: Hotel
+    Translation: 酒店
+  - Word: Gepäck
+    Translation: 行李
+  - Word: Bahnhof
+    Translation: 车站
+  - Word: Flug
+    Translation: 航班
+  - Word: Verspätung
+    Translation: 延误
+  - Word: Boarding
+    Translation: 登机
+
+Phrases:
+  - Phrase: Wo ist die Bushaltestelle?
+    Translation: 公共汽车站在哪里？
+  - Phrase: Der Zug hat Verspätung.
+    Translation: 火车晚点了。
+  - Phrase: Ich habe Gepäck.
+    Translation: 我有行李。
+  - Phrase: Wie viel kostet der Zug?
+    Translation: 火车票多少钱？
+  - Phrase: Wo ist der Taxistand?
+    Translation: 出租车站在哪里？
+
+Mini-dictionary:
+  German:
+    - Bus: 公共汽车
+    - Taxi: 出租车
+    - Gepäck: 行李
+    - U-Bahn: 地铁
+    - Flug: 航班
+    - Verspätung: 延误
+    - Bahnhof: 车站
+    - Boarding: 登机
+    - Hotel: 酒店
+    - Zug: 火车
+  Chinese:
+    - 车站: Bahnhof
+    - 出租车: Taxi
+    - 酒店: Hotel
+    - 延误: Verspätung
+    - 公共汽车: Bus
+    - 火车: Zug
+    - 登机: Boarding
+    - 行李: Gepäck
+    - 地铁: U-Bahn
+    - 航班: Flug

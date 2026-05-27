@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Hotel: 酒店
-    - Bus: 公共汽车
-    - Boarding: 登机
-    - Flug: 航班
-    - Taxi: 出租车
-    - U-Bahn: 地铁
     - Verspätung: 延误
-    - Bahnhof: 车站
+    - U-Bahn: 地铁
     - Gepäck: 行李
+    - Flug: 航班
+    - Hotel: 酒店
     - Zug: 火车
+    - Taxi: 出租车
+    - Bus: 公共汽车
+    - Bahnhof: 车站
+    - Boarding: 登机
   Chinese:
-    - 火车: Zug
-    - 延误: Verspätung
-    - 公共汽车: Bus
-    - 酒店: Hotel
-    - 行李: Gepäck
-    - 航班: Flug
     - 地铁: U-Bahn
     - 登机: Boarding
-    - 车站: Bahnhof
+    - 公共汽车: Bus
     - 出租车: Taxi
+    - 酒店: Hotel
+    - 航班: Flug
+    - 车站: Bahnhof
+    - 行李: Gepäck
+    - 延误: Verspätung
+    - 火车: Zug

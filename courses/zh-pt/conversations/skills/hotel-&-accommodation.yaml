@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - o ar condicionado: 空调
     - fazer check-out: 退房
-    - o serviço de quarto: 客房服务
-    - o WiFi: 无线网络
-    - o quarto duplo: 双人间
-    - a chave do quarto: 房卡
     - a reserva: 预订
+    - o WiFi: 无线网络
     - o café da manhã: 早餐
+    - o ar condicionado: 空调
+    - o serviço de quarto: 客房服务
     - o quarto individual: 单人间
+    - a chave do quarto: 房卡
     - fazer check-in: 入住
+    - o quarto duplo: 双人间
   Chinese:
     - 退房: fazer check-out
-    - 房卡: a chave do quarto
     - 预订: a reserva
-    - 双人间: o quarto duplo
-    - 无线网络: o WiFi
-    - 空调: o ar condicionado
-    - 早餐: o café da manhã
     - 入住: fazer check-in
-    - 客房服务: o serviço de quarto
+    - 无线网络: o WiFi
+    - 早餐: o café da manhã
+    - 空调: o ar condicionado
+    - 房卡: a chave do quarto
     - 单人间: o quarto individual
+    - 双人间: o quarto duplo
+    - 客房服务: o serviço de quarto

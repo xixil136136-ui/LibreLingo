@@ -1,0 +1,68 @@
+Skill:
+  Name: Transportation
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: รถไฟ
+    Translation: 火车
+  - Word: รถเมล์
+    Translation: 公共汽车
+  - Word: แท็กซี่
+    Translation: 出租车
+  - Word: รถไฟฟ้า
+    Translation: 地铁
+  - Word: โรงแรม
+    Translation: 酒店
+  - Word: กระเป๋า
+    Translation: 行李
+  - Word: สถานี
+    Translation: 车站
+  - Word: เที่ยวบิน
+    Translation: 航班
+  - Word: ล่าช้า
+    Translation: 延误
+  - Word: ขึ้นเครื่อง
+    Translation: 登机
+
+Phrases:
+  - Phrase: ป้ายรถเมล์อยู่ที่ไหน
+    Translation: 公共汽车站在哪里？
+  - Phrase: รถไฟล่าช้า
+    Translation: 火车晚点了。
+  - Phrase: ฉันมีกระเป๋าเดินทาง
+    Translation: 我有行李。
+  - Phrase: รถไฟเท่าไหร่
+    Translation: 火车票多少钱？
+  - Phrase: ที่จอดแท็กซี่อยู่ที่ไหน
+    Translation: 出租车站在哪里？
+
+Mini-dictionary:
+  Thai:
+    - เที่ยวบิน: 航班
+    - ล่าช้า: 延误
+    - รถไฟ: 火车
+    - โรงแรม: 酒店
+    - รถเมล์: 公共汽车
+    - สถานี: 车站
+    - ขึ้นเครื่อง: 登机
+    - แท็กซี่: 出租车
+    - รถไฟฟ้า: 地铁
+    - กระเป๋า: 行李
+  Chinese:
+    - 航班: เที่ยวบิน
+    - 火车: รถไฟ
+    - 酒店: โรงแรม
+    - 延误: ล่าช้า
+    - 行李: กระเป๋า
+    - 地铁: รถไฟฟ้า
+    - 公共汽车: รถเมล์
+    - 车站: สถานี
+    - 登机: ขึ้นเครื่อง
+    - 出租车: แท็กซี่

@@ -109,7 +109,7 @@ export default async function SkillPage({ params }: Props) {
                 </div>
             </div>
 
-            <PracticeClient challenges={skillData.challenges} />
+            <PracticeClient challenges={skillData.challenges} targetLanguageCode={targetLanguageCode} />
         </div>
     )
 }

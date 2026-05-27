@@ -23,8 +23,11 @@ def create_course_yaml(course_id, course_info):
     modules = course_info["modules"]
     skill_files_by_module = []
 
+    module_name_translations = {"Travel": "旅行", "Daily Life": "日常生活"}
+
     for mod in modules:
         mod_name = mod["name"]
+        mod_display_name = module_name_translations.get(mod_name, mod_name)
         mod_dirname = mod_name.lower().replace(" ", "-")
         skill_filenames = []
 
@@ -105,7 +108,7 @@ Mini-dictionary:
 
         skill_refs = "\n".join([f'  - {f}' for f in skill_filenames])
         module_yaml = f"""Module:
-  Name: "{mod_name}"
+  Name: "{mod_display_name}"
 
 Skills:
 {skill_refs}

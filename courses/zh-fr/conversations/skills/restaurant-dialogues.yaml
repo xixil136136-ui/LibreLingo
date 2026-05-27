@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   French:
+    - recommendation: 推荐
+    - order: 点餐
+    - today's special: 今日特价
+    - menu: 菜单
+    - reservation: 预约
+    - table for two: 两人桌
     - I would like: 我想要
     - bill: 账单
-    - today's special: 今日特价
-    - waiter: 服务员
-    - menu: 菜单
-    - order: 点餐
-    - reservation: 预约
     - delicious: 美味
-    - recommendation: 推荐
-    - table for two: 两人桌
+    - waiter: 服务员
   Chinese:
-    - 美味: delicious
-    - 预约: reservation
     - 菜单: menu
-    - 今日特价: today's special
-    - 两人桌: table for two
-    - 推荐: recommendation
+    - 我想要: I would like
+    - 美味: delicious
     - 点餐: order
+    - 今日特价: today's special
+    - 推荐: recommendation
+    - 预约: reservation
+    - 两人桌: table for two
     - 账单: bill
     - 服务员: waiter
-    - 我想要: I would like

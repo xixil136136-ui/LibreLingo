@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - fille: 女儿
-    - fils: 儿子
     - mari: 丈夫
-    - ami: 朋友
+    - enfant: 孩子
+    - fille: 女儿
     - père: 父亲
+    - femme: 妻子
+    - fils: 儿子
+    - ami: 朋友
     - frère: 兄弟
     - sœur: 姐妹
-    - enfant: 孩子
     - mère: 母亲
-    - femme: 妻子
   Chinese:
-    - 母亲: mère
-    - 丈夫: mari
     - 妻子: femme
-    - 朋友: ami
-    - 父亲: père
-    - 儿子: fils
-    - 女儿: fille
-    - 姐妹: sœur
-    - 孩子: enfant
     - 兄弟: frère
+    - 母亲: mère
+    - 孩子: enfant
+    - 父亲: père
+    - 姐妹: sœur
+    - 女儿: fille
+    - 儿子: fils
+    - 朋友: ami
+    - 丈夫: mari

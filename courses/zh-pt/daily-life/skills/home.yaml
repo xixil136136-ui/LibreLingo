@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - telhado: 屋顶
+    - quintal: 院子
+    - cozinha: 厨房
     - jardim: 花园
     - garagem: 车库
+    - quarto: 卧室
+    - telhado: 屋顶
     - casa: 房子
     - porta: 门
     - escadas: 楼梯
-    - quarto: 卧室
-    - cozinha: 厨房
     - janela: 窗户
-    - quintal: 院子
   Chinese:
-    - 厨房: cozinha
     - 楼梯: escadas
-    - 车库: garagem
     - 花园: jardim
+    - 卧室: quarto
+    - 车库: garagem
     - 院子: quintal
     - 窗户: janela
-    - 屋顶: telhado
     - 房子: casa
-    - 卧室: quarto
+    - 屋顶: telhado
     - 门: porta
+    - 厨房: cozinha

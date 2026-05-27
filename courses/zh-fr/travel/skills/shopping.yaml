@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   French:
+    - prix: 价格
     - magasin: 商店
     - fermé: 关门
     - cher: 贵的
-    - argent: 钱
-    - prix: 价格
     - marque: 品牌
-    - qualité: 质量
-    - ouvert: 营业
+    - argent: 钱
     - retour: 退货
+    - ouvert: 营业
     - bon marché: 便宜的
+    - qualité: 质量
   Chinese:
-    - 贵的: cher
-    - 品牌: marque
     - 商店: magasin
-    - 便宜的: bon marché
-    - 营业: ouvert
-    - 钱: argent
-    - 价格: prix
-    - 关门: fermé
     - 质量: qualité
+    - 贵的: cher
     - 退货: retour
+    - 营业: ouvert
+    - 价格: prix
+    - 品牌: marque
+    - 钱: argent
+    - 便宜的: bon marché
+    - 关门: fermé

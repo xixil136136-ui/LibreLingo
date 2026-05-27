@@ -1,0 +1,70 @@
+Skill:
+  Name: Time
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: mattina
+    Translation: 早上
+  - Word: pomeriggio
+    Translation: 下午
+  - Word: sera
+    Translation: 晚上
+  - Word: notte
+    Translation: 夜晚
+  - Word: oggi
+    Translation: 今天
+  - Word: domani
+    Translation: 明天
+  - Word: ieri
+    Translation: 昨天
+  - Word: adesso
+    Translation: 现在
+  - Word: più tardi
+    Translation: 稍后
+  - Word: presto
+    Translation: 早
+
+Phrases:
+  - Phrase: Al mattino.
+    Translation: 在早上。
+  - Phrase: A domani.
+    Translation: 明天见。
+  - Phrase: È mattina presto.
+    Translation: 现在是清晨。
+  - Phrase: Sono libero ora.
+    Translation: 我现在有空。
+  - Phrase: A più tardi.
+    Translation: 回头见。
+  - Phrase: Nel pomeriggio.
+    Translation: 在下午。
+
+Mini-dictionary:
+  Italian:
+    - pomeriggio: 下午
+    - ieri: 昨天
+    - mattina: 早上
+    - adesso: 现在
+    - oggi: 今天
+    - più tardi: 稍后
+    - presto: 早
+    - notte: 夜晚
+    - sera: 晚上
+    - domani: 明天
+  Chinese:
+    - 下午: pomeriggio
+    - 明天: domani
+    - 早上: mattina
+    - 早: presto
+    - 晚上: sera
+    - 昨天: ieri
+    - 今天: oggi
+    - 夜晚: notte
+    - 现在: adesso
+    - 稍后: più tardi

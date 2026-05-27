@@ -1,0 +1,72 @@
+Skill:
+  Name: Family
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: мать
+    Translation: 母亲
+  - Word: отец
+    Translation: 父亲
+  - Word: сестра
+    Translation: 姐妹
+  - Word: брат
+    Translation: 兄弟
+  - Word: дочь
+    Translation: 女儿
+  - Word: сын
+    Translation: 儿子
+  - Word: жена
+    Translation: 妻子
+  - Word: муж
+    Translation: 丈夫
+  - Word: друг
+    Translation: 朋友
+  - Word: ребёнок
+    Translation: 孩子
+
+Phrases:
+  - Phrase: Это моя мама.
+    Translation: 这是我的妈妈。
+  - Phrase: Мой отец высокий.
+    Translation: 我的爸爸很高。
+  - Phrase: У меня есть сестра.
+    Translation: 我有一个姐妹。
+  - Phrase: Мой брат молодой.
+    Translation: 我的兄弟很年轻。
+  - Phrase: Она моя подруга.
+    Translation: 她是我的朋友。
+  - Phrase: Ребёнок счастлив.
+    Translation: 孩子很高兴。
+  - Phrase: Моя жена добрая.
+    Translation: 我的妻子很善良。
+
+Mini-dictionary:
+  Russian:
+    - сын: 儿子
+    - ребёнок: 孩子
+    - жена: 妻子
+    - сестра: 姐妹
+    - брат: 兄弟
+    - муж: 丈夫
+    - отец: 父亲
+    - дочь: 女儿
+    - мать: 母亲
+    - друг: 朋友
+  Chinese:
+    - 女儿: дочь
+    - 兄弟: брат
+    - 妻子: жена
+    - 儿子: сын
+    - 母亲: мать
+    - 父亲: отец
+    - 孩子: ребёнок
+    - 丈夫: муж
+    - 朋友: друг
+    - 姐妹: сестра

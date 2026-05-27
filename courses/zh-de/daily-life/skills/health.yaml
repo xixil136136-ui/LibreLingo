@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Arzt: 医生
     - Fieber: 发烧
+    - Krankenhaus: 医院
+    - Kopfschmerzen: 头痛
     - Ruhe: 休息
     - Medizin: 药
-    - Schmerz: 疼痛
-    - Husten: 咳嗽
-    - Kopfschmerzen: 头痛
-    - Krankenhaus: 医院
-    - Bauchschmerzen: 肚子痛
     - Apotheke: 药店
+    - Bauchschmerzen: 肚子痛
+    - Husten: 咳嗽
+    - Schmerz: 疼痛
+    - Arzt: 医生
   Chinese:
     - 医生: Arzt
-    - 肚子痛: Bauchschmerzen
-    - 咳嗽: Husten
-    - 药: Medizin
-    - 发烧: Fieber
-    - 头痛: Kopfschmerzen
-    - 疼痛: Schmerz
-    - 医院: Krankenhaus
     - 药店: Apotheke
+    - 药: Medizin
+    - 咳嗽: Husten
+    - 头痛: Kopfschmerzen
+    - 医院: Krankenhaus
+    - 疼痛: Schmerz
+    - 肚子痛: Bauchschmerzen
     - 休息: Ruhe
+    - 发烧: Fieber

@@ -1,0 +1,72 @@
+Skill:
+  Name: Health
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: médico
+    Translation: 医生
+  - Word: hospital
+    Translation: 医院
+  - Word: remédio
+    Translation: 药
+  - Word: dor de cabeça
+    Translation: 头痛
+  - Word: febre
+    Translation: 发烧
+  - Word: tosse
+    Translation: 咳嗽
+  - Word: dor
+    Translation: 疼痛
+  - Word: farmácia
+    Translation: 药店
+  - Word: descanso
+    Translation: 休息
+  - Word: dor de estômago
+    Translation: 肚子痛
+
+Phrases:
+  - Phrase: Preciso de um médico.
+    Translation: 我需要医生。
+  - Phrase: Onde fica o hospital?
+    Translation: 医院在哪里？
+  - Phrase: Estou com dor de cabeça.
+    Translation: 我头痛。
+  - Phrase: Estou com febre.
+    Translation: 我发烧了。
+  - Phrase: Tome este remédio.
+    Translation: 吃这个药。
+  - Phrase: Você precisa de descanso.
+    Translation: 你需要休息。
+  - Phrase: Estou com dor de estômago.
+    Translation: 我肚子痛。
+
+Mini-dictionary:
+  Portuguese:
+    - tosse: 咳嗽
+    - descanso: 休息
+    - febre: 发烧
+    - dor de estômago: 肚子痛
+    - remédio: 药
+    - dor: 疼痛
+    - médico: 医生
+    - dor de cabeça: 头痛
+    - farmácia: 药店
+    - hospital: 医院
+  Chinese:
+    - 咳嗽: tosse
+    - 发烧: febre
+    - 头痛: dor de cabeça
+    - 疼痛: dor
+    - 药店: farmácia
+    - 肚子痛: dor de estômago
+    - 医院: hospital
+    - 医生: médico
+    - 休息: descanso
+    - 药: remédio

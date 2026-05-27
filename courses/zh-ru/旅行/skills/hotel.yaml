@@ -1,0 +1,72 @@
+Skill:
+  Name: Hotel
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: номер
+    Translation: 房间
+  - Word: кровать
+    Translation: 床
+  - Word: душ
+    Translation: 淋浴
+  - Word: ванная
+    Translation: 浴室
+  - Word: полотенце
+    Translation: 毛巾
+  - Word: подушка
+    Translation: 枕头
+  - Word: одеяло
+    Translation: 毯子
+  - Word: этаж
+    Translation: 楼层
+  - Word: стойка регистрации
+    Translation: 前台
+  - Word: гость
+    Translation: 客人
+
+Phrases:
+  - Phrase: Мне нужен номер.
+    Translation: 我需要一个房间。
+  - Phrase: Сколько за ночь?
+    Translation: 每晚多少钱？
+  - Phrase: Где находится ванная?
+    Translation: 浴室在哪里？
+  - Phrase: Можно полотенце?
+    Translation: 能给我一条毛巾吗？
+  - Phrase: Кровать удобная.
+    Translation: 床很舒服。
+  - Phrase: Я здесь гость.
+    Translation: 我是这里的客人。
+  - Phrase: Стойка регистрации на этом этаже?
+    Translation: 前台在这一层吗？
+
+Mini-dictionary:
+  Russian:
+    - номер: 房间
+    - стойка регистрации: 前台
+    - одеяло: 毯子
+    - этаж: 楼层
+    - кровать: 床
+    - подушка: 枕头
+    - ванная: 浴室
+    - гость: 客人
+    - душ: 淋浴
+    - полотенце: 毛巾
+  Chinese:
+    - 楼层: этаж
+    - 前台: стойка регистрации
+    - 毛巾: полотенце
+    - 毯子: одеяло
+    - 客人: гость
+    - 淋浴: душ
+    - 房间: номер
+    - 浴室: ванная
+    - 床: кровать
+    - 枕头: подушка

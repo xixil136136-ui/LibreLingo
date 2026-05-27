@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - l'aria condizionata: 空调
     - la colazione: 早餐
-    - il servizio in camera: 客房服务
+    - l'aria condizionata: 空调
     - la camera singola: 单人间
-    - fare il check-out: 退房
-    - fare il check-in: 入住
-    - il WiFi: 无线网络
-    - la prenotazione: 预订
+    - il servizio in camera: 客房服务
     - la camera doppia: 双人间
+    - il WiFi: 无线网络
     - la chiave della camera: 房卡
+    - fare il check-out: 退房
+    - la prenotazione: 预订
+    - fare il check-in: 入住
   Chinese:
-    - 单人间: la camera singola
-    - 双人间: la camera doppia
-    - 空调: l'aria condizionata
     - 入住: fare il check-in
     - 无线网络: il WiFi
-    - 客房服务: il servizio in camera
+    - 双人间: la camera doppia
     - 预订: la prenotazione
+    - 客房服务: il servizio in camera
     - 退房: fare il check-out
-    - 房卡: la chiave della camera
+    - 单人间: la camera singola
     - 早餐: la colazione
+    - 空调: l'aria condizionata
+    - 房卡: la chiave della camera

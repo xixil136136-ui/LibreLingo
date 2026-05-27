@@ -1,0 +1,72 @@
+Skill:
+  Name: Health
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Arzt
+    Translation: 医生
+  - Word: Krankenhaus
+    Translation: 医院
+  - Word: Medizin
+    Translation: 药
+  - Word: Kopfschmerzen
+    Translation: 头痛
+  - Word: Fieber
+    Translation: 发烧
+  - Word: Husten
+    Translation: 咳嗽
+  - Word: Schmerz
+    Translation: 疼痛
+  - Word: Apotheke
+    Translation: 药店
+  - Word: Ruhe
+    Translation: 休息
+  - Word: Bauchschmerzen
+    Translation: 肚子痛
+
+Phrases:
+  - Phrase: Ich brauche einen Arzt.
+    Translation: 我需要医生。
+  - Phrase: Wo ist das Krankenhaus?
+    Translation: 医院在哪里？
+  - Phrase: Ich habe Kopfschmerzen.
+    Translation: 我头痛。
+  - Phrase: Ich habe Fieber.
+    Translation: 我发烧了。
+  - Phrase: Nimm diese Medizin.
+    Translation: 吃这个药。
+  - Phrase: Du brauchst Ruhe.
+    Translation: 你需要休息。
+  - Phrase: Ich habe Bauchschmerzen.
+    Translation: 我肚子痛。
+
+Mini-dictionary:
+  German:
+    - Fieber: 发烧
+    - Apotheke: 药店
+    - Schmerz: 疼痛
+    - Kopfschmerzen: 头痛
+    - Arzt: 医生
+    - Ruhe: 休息
+    - Medizin: 药
+    - Krankenhaus: 医院
+    - Bauchschmerzen: 肚子痛
+    - Husten: 咳嗽
+  Chinese:
+    - 医院: Krankenhaus
+    - 咳嗽: Husten
+    - 发烧: Fieber
+    - 医生: Arzt
+    - 肚子痛: Bauchschmerzen
+    - 休息: Ruhe
+    - 头痛: Kopfschmerzen
+    - 疼痛: Schmerz
+    - 药: Medizin
+    - 药店: Apotheke

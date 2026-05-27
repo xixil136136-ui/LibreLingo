@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - mal de tête: 头痛
-    - médecin: 医生
     - douleur: 疼痛
-    - fièvre: 发烧
-    - toux: 咳嗽
-    - mal de ventre: 肚子痛
-    - médicament: 药
     - pharmacie: 药店
-    - hôpital: 医院
+    - mal de ventre: 肚子痛
     - repos: 休息
+    - médecin: 医生
+    - mal de tête: 头痛
+    - toux: 咳嗽
+    - hôpital: 医院
+    - médicament: 药
+    - fièvre: 发烧
   Chinese:
+    - 肚子痛: mal de ventre
     - 药: médicament
-    - 药店: pharmacie
+    - 咳嗽: toux
+    - 疼痛: douleur
+    - 医生: médecin
     - 医院: hôpital
     - 发烧: fièvre
-    - 咳嗽: toux
-    - 休息: repos
-    - 医生: médecin
-    - 疼痛: douleur
-    - 肚子痛: mal de ventre
     - 头痛: mal de tête
+    - 休息: repos
+    - 药店: pharmacie

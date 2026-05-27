@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - two: 二
-    - ten: 十
-    - four: 四
     - three: 三
-    - seven: 七
+    - two: 二
     - one: 一
     - eight: 八
     - nine: 九
     - five: 五
     - six: 六
+    - ten: 十
+    - four: 四
+    - seven: 七
   Chinese:
-    - 四: four
+    - 五: five
+    - 七: seven
+    - 二: two
+    - 六: six
+    - 八: eight
+    - 三: three
     - 十: ten
     - 九: nine
-    - 七: seven
-    - 八: eight
+    - 四: four
     - 一: one
-    - 五: five
-    - 三: three
-    - 六: six
-    - 二: two

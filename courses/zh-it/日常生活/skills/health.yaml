@@ -1,0 +1,72 @@
+Skill:
+  Name: Health
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: dottore
+    Translation: 医生
+  - Word: ospedale
+    Translation: 医院
+  - Word: medicina
+    Translation: 药
+  - Word: mal di testa
+    Translation: 头痛
+  - Word: febbre
+    Translation: 发烧
+  - Word: tosse
+    Translation: 咳嗽
+  - Word: dolore
+    Translation: 疼痛
+  - Word: farmacia
+    Translation: 药店
+  - Word: riposo
+    Translation: 休息
+  - Word: mal di stomaco
+    Translation: 肚子痛
+
+Phrases:
+  - Phrase: Ho bisogno di un dottore.
+    Translation: 我需要医生。
+  - Phrase: Dov'è l'ospedale?
+    Translation: 医院在哪里？
+  - Phrase: Ho mal di testa.
+    Translation: 我头痛。
+  - Phrase: Ho la febbre.
+    Translation: 我发烧了。
+  - Phrase: Prendi questa medicina.
+    Translation: 吃这个药。
+  - Phrase: Hai bisogno di riposo.
+    Translation: 你需要休息。
+  - Phrase: Ho mal di stomaco.
+    Translation: 我肚子痛。
+
+Mini-dictionary:
+  Italian:
+    - tosse: 咳嗽
+    - medicina: 药
+    - dottore: 医生
+    - mal di testa: 头痛
+    - ospedale: 医院
+    - farmacia: 药店
+    - riposo: 休息
+    - mal di stomaco: 肚子痛
+    - febbre: 发烧
+    - dolore: 疼痛
+  Chinese:
+    - 肚子痛: mal di stomaco
+    - 头痛: mal di testa
+    - 医生: dottore
+    - 咳嗽: tosse
+    - 药: medicina
+    - 疼痛: dolore
+    - 医院: ospedale
+    - 休息: riposo
+    - 药店: farmacia
+    - 发烧: febbre

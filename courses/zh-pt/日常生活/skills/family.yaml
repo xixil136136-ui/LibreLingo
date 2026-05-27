@@ -1,0 +1,72 @@
+Skill:
+  Name: Family
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: mãe
+    Translation: 母亲
+  - Word: pai
+    Translation: 父亲
+  - Word: irmã
+    Translation: 姐妹
+  - Word: irmão
+    Translation: 兄弟
+  - Word: filha
+    Translation: 女儿
+  - Word: filho
+    Translation: 儿子
+  - Word: esposa
+    Translation: 妻子
+  - Word: marido
+    Translation: 丈夫
+  - Word: amigo
+    Translation: 朋友
+  - Word: criança
+    Translation: 孩子
+
+Phrases:
+  - Phrase: Esta é minha mãe.
+    Translation: 这是我的妈妈。
+  - Phrase: Meu pai é alto.
+    Translation: 我的爸爸很高。
+  - Phrase: Tenho uma irmã.
+    Translation: 我有一个姐妹。
+  - Phrase: Meu irmão é jovem.
+    Translation: 我的兄弟很年轻。
+  - Phrase: Ela é minha amiga.
+    Translation: 她是我的朋友。
+  - Phrase: A criança está feliz.
+    Translation: 孩子很高兴。
+  - Phrase: Minha esposa é gentil.
+    Translation: 我的妻子很善良。
+
+Mini-dictionary:
+  Portuguese:
+    - mãe: 母亲
+    - irmão: 兄弟
+    - marido: 丈夫
+    - filha: 女儿
+    - irmã: 姐妹
+    - filho: 儿子
+    - pai: 父亲
+    - criança: 孩子
+    - amigo: 朋友
+    - esposa: 妻子
+  Chinese:
+    - 孩子: criança
+    - 妻子: esposa
+    - 儿子: filho
+    - 朋友: amigo
+    - 女儿: filha
+    - 姐妹: irmã
+    - 丈夫: marido
+    - 母亲: mãe
+    - 父亲: pai
+    - 兄弟: irmão

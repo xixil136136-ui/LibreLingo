@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - el visado: 签证
-    - el andén: 站台
-    - el pasaporte: 护照
-    - ida y vuelta: 往返
     - el aeropuerto: 机场
+    - ida y vuelta: 往返
+    - el pasaporte: 护照
+    - el visado: 签证
+    - la aduana: 海关
     - la salida: 出发
-    - ida: 单程
     - la llegada: 到达
     - el billete: 票
-    - la aduana: 海关
+    - el andén: 站台
+    - ida: 单程
   Chinese:
-    - 到达: la llegada
-    - 站台: el andén
-    - 票: el billete
-    - 出发: la salida
-    - 往返: ida y vuelta
-    - 海关: la aduana
     - 签证: el visado
-    - 机场: el aeropuerto
-    - 单程: ida
     - 护照: el pasaporte
+    - 票: el billete
+    - 往返: ida y vuelta
+    - 出发: la salida
+    - 海关: la aduana
+    - 站台: el andén
+    - 到达: la llegada
+    - 单程: ida
+    - 机场: el aeropuerto

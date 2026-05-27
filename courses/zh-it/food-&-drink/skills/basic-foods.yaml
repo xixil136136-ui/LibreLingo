@@ -46,26 +46,26 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - riso: 米饭
-    - verdura: 蔬菜
+    - frutta: 水果
     - caffè: 咖啡
-    - pesce: 鱼
-    - tè: 茶
+    - pollo: 鸡肉
     - acqua: 水
     - latte: 牛奶
-    - pane: 面包
-    - frutta: 水果
-    - pollo: 鸡肉
     - uovo: 鸡蛋
+    - verdura: 蔬菜
+    - tè: 茶
+    - riso: 米饭
+    - pesce: 鱼
+    - pane: 面包
   Chinese:
-    - 鸡蛋: uovo
-    - 茶: tè
     - 水: acqua
+    - 鸡蛋: uovo
     - 米饭: riso
-    - 鸡肉: pollo
     - 面包: pane
-    - 蔬菜: verdura
-    - 牛奶: latte
     - 水果: frutta
-    - 咖啡: caffè
     - 鱼: pesce
+    - 牛奶: latte
+    - 蔬菜: verdura
+    - 鸡肉: pollo
+    - 咖啡: caffè
+    - 茶: tè

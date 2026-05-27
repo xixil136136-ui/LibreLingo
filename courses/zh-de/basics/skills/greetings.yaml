@@ -43,24 +43,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Bitte: 请/不客气
-    - Wie geht's: 你好吗
-    - Ja: 是的
-    - Guten Abend: 晚上好
-    - Guten Morgen: 早上好
-    - Entschuldigung: 对不起
-    - Tschüss: 再见
-    - Nein: 不是
     - Danke: 谢谢
+    - Tschüss: 再见
+    - Ja: 是的
+    - Entschuldigung: 对不起
+    - Wie geht's: 你好吗
+    - Nein: 不是
     - Hallo: 你好
+    - Guten Morgen: 早上好
+    - Bitte: 请/不客气
+    - Guten Abend: 晚上好
   Chinese:
+    - 早上好: Guten Morgen
+    - 不是: Nein
+    - 你好吗: Wie geht's
+    - 你好: Hallo
+    - 请/不客气: Bitte
     - 再见: Tschüss
     - 对不起: Entschuldigung
     - 晚上好: Guten Abend
-    - 早上好: Guten Morgen
-    - 你好吗: Wie geht's
     - 是的: Ja
-    - 请/不客气: Bitte
-    - 不是: Nein
-    - 你好: Hallo
     - 谢谢: Danke

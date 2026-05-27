@@ -1,0 +1,72 @@
+Skill:
+  Name: Hotel
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: stanza
+    Translation: 房间
+  - Word: letto
+    Translation: 床
+  - Word: doccia
+    Translation: 淋浴
+  - Word: bagno
+    Translation: 浴室
+  - Word: asciugamano
+    Translation: 毛巾
+  - Word: cuscino
+    Translation: 枕头
+  - Word: coperta
+    Translation: 毯子
+  - Word: piano
+    Translation: 楼层
+  - Word: reception
+    Translation: 前台
+  - Word: ospite
+    Translation: 客人
+
+Phrases:
+  - Phrase: Ho bisogno di una stanza.
+    Translation: 我需要一个房间。
+  - Phrase: Quanto a notte?
+    Translation: 每晚多少钱？
+  - Phrase: Dov'è il bagno?
+    Translation: 浴室在哪里？
+  - Phrase: Posso avere un asciugamano?
+    Translation: 能给我一条毛巾吗？
+  - Phrase: Il letto è comodo.
+    Translation: 床很舒服。
+  - Phrase: Sono un ospite qui.
+    Translation: 我是这里的客人。
+  - Phrase: La reception è a questo piano?
+    Translation: 前台在这一层吗？
+
+Mini-dictionary:
+  Italian:
+    - stanza: 房间
+    - piano: 楼层
+    - letto: 床
+    - reception: 前台
+    - doccia: 淋浴
+    - ospite: 客人
+    - bagno: 浴室
+    - asciugamano: 毛巾
+    - cuscino: 枕头
+    - coperta: 毯子
+  Chinese:
+    - 枕头: cuscino
+    - 床: letto
+    - 楼层: piano
+    - 毛巾: asciugamano
+    - 客人: ospite
+    - 浴室: bagno
+    - 淋浴: doccia
+    - 前台: reception
+    - 房间: stanza
+    - 毯子: coperta

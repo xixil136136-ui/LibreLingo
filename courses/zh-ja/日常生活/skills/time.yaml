@@ -1,0 +1,70 @@
+Skill:
+  Name: Time
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 朝
+    Translation: 早上
+  - Word: 午後
+    Translation: 下午
+  - Word: 夕方
+    Translation: 晚上
+  - Word: 夜
+    Translation: 夜晚
+  - Word: 今日
+    Translation: 今天
+  - Word: 明日
+    Translation: 明天
+  - Word: 昨日
+    Translation: 昨天
+  - Word: 今
+    Translation: 现在
+  - Word: 後で
+    Translation: 稍后
+  - Word: 早い
+    Translation: 早
+
+Phrases:
+  - Phrase: 朝に。
+    Translation: 在早上。
+  - Phrase: また明日。
+    Translation: 明天见。
+  - Phrase: 早朝です。
+    Translation: 现在是清晨。
+  - Phrase: 今は暇です。
+    Translation: 我现在有空。
+  - Phrase: また後で。
+    Translation: 回头见。
+  - Phrase: 午後に。
+    Translation: 在下午。
+
+Mini-dictionary:
+  Japanese:
+    - 昨日: 昨天
+    - 今日: 今天
+    - 明日: 明天
+    - 朝: 早上
+    - 後で: 稍后
+    - 夕方: 晚上
+    - 今: 现在
+    - 夜: 夜晚
+    - 早い: 早
+    - 午後: 下午
+  Chinese:
+    - 昨天: 昨日
+    - 下午: 午後
+    - 夜晚: 夜
+    - 明天: 明日
+    - 稍后: 後で
+    - 早: 早い
+    - 早上: 朝
+    - 晚上: 夕方
+    - 现在: 今
+    - 今天: 今日

@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - temperatura: 温度
     - pioggia: 雨
-    - soleggiato: 晴天
+    - freddo: 冷
+    - ombrello: 雨伞
+    - nuvola: 云
     - vento: 风
     - caldo: 热
-    - freddo: 冷
-    - neve: 雪
-    - nuvola: 云
-    - ombrello: 雨伞
+    - temperatura: 温度
     - tiepido: 温暖
+    - neve: 雪
+    - soleggiato: 晴天
   Chinese:
+    - 雨: pioggia
+    - 晴天: soleggiato
+    - 冷: freddo
+    - 风: vento
+    - 雨伞: ombrello
     - 云: nuvola
     - 温暖: tiepido
-    - 晴天: soleggiato
-    - 雨伞: ombrello
-    - 风: vento
-    - 冷: freddo
     - 温度: temperatura
-    - 雪: neve
-    - 雨: pioggia
     - 热: caldo
+    - 雪: neve

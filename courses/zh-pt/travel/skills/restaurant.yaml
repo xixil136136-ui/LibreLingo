@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - sobremesa: 甜点
-    - prato principal: 主菜
-    - bebida: 饮料
-    - guardanapo: 餐巾
-    - sal: 盐
-    - restaurante: 餐厅
-    - copo: 玻璃杯
-    - comida: 食物
     - garrafa: 瓶子
     - pimenta: 胡椒
+    - sal: 盐
+    - comida: 食物
+    - bebida: 饮料
+    - prato principal: 主菜
+    - sobremesa: 甜点
+    - restaurante: 餐厅
+    - copo: 玻璃杯
+    - guardanapo: 餐巾
   Chinese:
-    - 主菜: prato principal
-    - 餐厅: restaurante
-    - 瓶子: garrafa
-    - 甜点: sobremesa
-    - 盐: sal
-    - 饮料: bebida
-    - 玻璃杯: copo
-    - 餐巾: guardanapo
-    - 食物: comida
     - 胡椒: pimenta
+    - 瓶子: garrafa
+    - 玻璃杯: copo
+    - 餐厅: restaurante
+    - 主菜: prato principal
+    - 饮料: bebida
+    - 盐: sal
+    - 食物: comida
+    - 餐巾: guardanapo
+    - 甜点: sobremesa

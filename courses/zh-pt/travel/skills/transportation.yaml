@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - estação: 车站
+    - atraso: 延误
     - voo: 航班
-    - táxi: 出租车
-    - trem: 火车
-    - hotel: 酒店
     - embarque: 登机
     - bagagem: 行李
+    - trem: 火车
+    - estação: 车站
     - ônibus: 公共汽车
     - metrô: 地铁
-    - atraso: 延误
+    - táxi: 出租车
+    - hotel: 酒店
   Chinese:
     - 出租车: táxi
-    - 地铁: metrô
-    - 延误: atraso
-    - 登机: embarque
-    - 行李: bagagem
-    - 车站: estação
-    - 公共汽车: ônibus
-    - 酒店: hotel
-    - 航班: voo
     - 火车: trem
+    - 行李: bagagem
+    - 地铁: metrô
+    - 航班: voo
+    - 车站: estação
+    - 酒店: hotel
+    - 延误: atraso
+    - 公共汽车: ônibus
+    - 登机: embarque

@@ -1,0 +1,68 @@
+Skill:
+  Name: Directions
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 왼쪽
+    Translation: 左边
+  - Word: 오른쪽
+    Translation: 右边
+  - Word: 직진
+    Translation: 直走
+  - Word: 여기
+    Translation: 这里
+  - Word: 거기
+    Translation: 那里
+  - Word: 가까이
+    Translation: 附近
+  - Word: 멀다
+    Translation: 远
+  - Word: 지도
+    Translation: 地图
+  - Word: 거리
+    Translation: 街道
+  - Word: 길
+    Translation: 路
+
+Phrases:
+  - Phrase: 여기서 왼쪽으로 도세요.
+    Translation: 在这里左转。
+  - Phrase: 직진하세요.
+    Translation: 一直往前走。
+  - Phrase: 역이 어디예요?
+    Translation: 车站在哪里？
+  - Phrase: 여기서 멀어요?
+    Translation: 离这里远吗？
+  - Phrase: 지도가 필요해요.
+    Translation: 我需要一张地图。
+
+Mini-dictionary:
+  Korean:
+    - 거리: 街道
+    - 왼쪽: 左边
+    - 오른쪽: 右边
+    - 직진: 直走
+    - 여기: 这里
+    - 멀다: 远
+    - 길: 路
+    - 가까이: 附近
+    - 거기: 那里
+    - 지도: 地图
+  Chinese:
+    - 路: 길
+    - 街道: 거리
+    - 右边: 오른쪽
+    - 地图: 지도
+    - 这里: 여기
+    - 左边: 왼쪽
+    - 远: 멀다
+    - 那里: 거기
+    - 附近: 가까이
+    - 直走: 직진

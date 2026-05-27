@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - das Einzelzimmer: 单人间
-    - die Klimaanlage: 空调
-    - die Reservierung: 预订
-    - das Frühstück: 早餐
-    - das WLAN: 无线网络
-    - auschecken: 退房
-    - einchecken: 入住
-    - der Zimmerschlüssel: 房卡
     - der Zimmerservice: 客房服务
+    - der Zimmerschlüssel: 房卡
+    - einchecken: 入住
+    - auschecken: 退房
+    - die Reservierung: 预订
+    - das Einzelzimmer: 单人间
+    - das WLAN: 无线网络
+    - die Klimaanlage: 空调
     - das Doppelzimmer: 双人间
+    - das Frühstück: 早餐
   Chinese:
-    - 早餐: das Frühstück
-    - 预订: die Reservierung
-    - 空调: die Klimaanlage
-    - 退房: auschecken
-    - 单人间: das Einzelzimmer
-    - 无线网络: das WLAN
-    - 入住: einchecken
     - 双人间: das Doppelzimmer
-    - 客房服务: der Zimmerservice
+    - 空调: die Klimaanlage
     - 房卡: der Zimmerschlüssel
+    - 单人间: das Einzelzimmer
+    - 预订: die Reservierung
+    - 早餐: das Frühstück
+    - 无线网络: das WLAN
+    - 客房服务: der Zimmerservice
+    - 入住: einchecken
+    - 退房: auschecken

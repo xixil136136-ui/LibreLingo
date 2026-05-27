@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - retraso: 延误
-    - autobús: 公共汽车
     - equipaje: 行李
     - taxi: 出租车
+    - autobús: 公共汽车
+    - embarque: 登机
+    - metro: 地铁
+    - tren: 火车
+    - retraso: 延误
+    - estación: 车站
     - vuelo: 航班
     - hotel: 酒店
-    - embarque: 登机
-    - estación: 车站
-    - tren: 火车
-    - metro: 地铁
   Chinese:
-    - 行李: equipaje
-    - 火车: tren
-    - 登机: embarque
-    - 公共汽车: autobús
     - 航班: vuelo
-    - 地铁: metro
     - 车站: estación
     - 延误: retraso
-    - 出租车: taxi
+    - 火车: tren
+    - 行李: equipaje
     - 酒店: hotel
+    - 地铁: metro
+    - 公共汽车: autobús
+    - 登机: embarque
+    - 出租车: taxi

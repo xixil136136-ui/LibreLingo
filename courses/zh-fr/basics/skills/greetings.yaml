@@ -43,24 +43,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - bonsoir: 晚上好
     - pardon: 对不起
-    - merci: 谢谢
     - oui: 是的
-    - non: 不是
-    - s'il vous plaît: 请
-    - bonne journée: 祝好
-    - de rien: 不客气
     - au revoir: 再见
+    - bonne journée: 祝好
+    - merci: 谢谢
+    - non: 不是
     - bonjour: 你好/早上好
+    - de rien: 不客气
+    - s'il vous plaît: 请
+    - bonsoir: 晚上好
   Chinese:
-    - 祝好: bonne journée
-    - 请: s'il vous plaît
-    - 你好/早上好: bonjour
-    - 不客气: de rien
-    - 谢谢: merci
-    - 不是: non
-    - 对不起: pardon
     - 再见: au revoir
+    - 不客气: de rien
+    - 请: s'il vous plaît
+    - 对不起: pardon
     - 晚上好: bonsoir
+    - 祝好: bonne journée
     - 是的: oui
+    - 谢谢: merci
+    - 你好/早上好: bonjour
+    - 不是: non

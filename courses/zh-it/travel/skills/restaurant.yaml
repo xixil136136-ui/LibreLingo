@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - bicchiere: 玻璃杯
     - sale: 盐
-    - piatto principale: 主菜
-    - bevanda: 饮料
-    - pepe: 胡椒
+    - bottiglia: 瓶子
     - dolce: 甜点
     - ristorante: 餐厅
-    - cibo: 食物
-    - bottiglia: 瓶子
+    - piatto principale: 主菜
+    - pepe: 胡椒
+    - bevanda: 饮料
     - tovagliolo: 餐巾
+    - cibo: 食物
+    - bicchiere: 玻璃杯
   Chinese:
-    - 食物: cibo
+    - 胡椒: pepe
     - 主菜: piatto principale
+    - 餐巾: tovagliolo
+    - 瓶子: bottiglia
     - 玻璃杯: bicchiere
     - 盐: sale
-    - 饮料: bevanda
-    - 餐巾: tovagliolo
-    - 餐厅: ristorante
+    - 食物: cibo
     - 甜点: dolce
-    - 瓶子: bottiglia
-    - 胡椒: pepe
+    - 餐厅: ristorante
+    - 饮料: bevanda

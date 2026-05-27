@@ -1,0 +1,74 @@
+Skill:
+  Name: Weather
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: soleado
+    Translation: 晴天
+  - Word: lluvia
+    Translation: 雨
+  - Word: nieve
+    Translation: 雪
+  - Word: viento
+    Translation: 风
+  - Word: nube
+    Translation: 云
+  - Word: frío
+    Translation: 冷
+  - Word: calor
+    Translation: 热
+  - Word: cálido
+    Translation: 温暖
+  - Word: temperatura
+    Translation: 温度
+  - Word: paraguas
+    Translation: 雨伞
+
+Phrases:
+  - Phrase: Hoy hace sol.
+    Translation: 今天天气晴朗。
+  - Phrase: Va a llover.
+    Translation: 要下雨了。
+  - Phrase: Hace mucho frío afuera.
+    Translation: 外面很冷。
+  - Phrase: Trae un paraguas.
+    Translation: 带上雨伞。
+  - Phrase: ¿Cuál es la temperatura?
+    Translation: 多少度？
+  - Phrase: Está nevando.
+    Translation: 下雪了。
+  - Phrase: Hoy hace calorcito.
+    Translation: 今天很暖和。
+  - Phrase: Hace viento.
+    Translation: 刮风了。
+
+Mini-dictionary:
+  Spanish:
+    - temperatura: 温度
+    - paraguas: 雨伞
+    - nube: 云
+    - lluvia: 雨
+    - frío: 冷
+    - calor: 热
+    - cálido: 温暖
+    - soleado: 晴天
+    - nieve: 雪
+    - viento: 风
+  Chinese:
+    - 晴天: soleado
+    - 热: calor
+    - 雪: nieve
+    - 温度: temperatura
+    - 冷: frío
+    - 雨伞: paraguas
+    - 温暖: cálido
+    - 云: nube
+    - 风: viento
+    - 雨: lluvia

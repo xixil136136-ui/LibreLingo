@@ -1,0 +1,72 @@
+Skill:
+  Name: Family
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: madre
+    Translation: 母亲
+  - Word: padre
+    Translation: 父亲
+  - Word: sorella
+    Translation: 姐妹
+  - Word: fratello
+    Translation: 兄弟
+  - Word: figlia
+    Translation: 女儿
+  - Word: figlio
+    Translation: 儿子
+  - Word: moglie
+    Translation: 妻子
+  - Word: marito
+    Translation: 丈夫
+  - Word: amico
+    Translation: 朋友
+  - Word: bambino
+    Translation: 孩子
+
+Phrases:
+  - Phrase: Questa è mia madre.
+    Translation: 这是我的妈妈。
+  - Phrase: Mio padre è alto.
+    Translation: 我的爸爸很高。
+  - Phrase: Ho una sorella.
+    Translation: 我有一个姐妹。
+  - Phrase: Mio fratello è giovane.
+    Translation: 我的兄弟很年轻。
+  - Phrase: Lei è la mia amica.
+    Translation: 她是我的朋友。
+  - Phrase: Il bambino è felice.
+    Translation: 孩子很高兴。
+  - Phrase: Mia moglie è gentile.
+    Translation: 我的妻子很善良。
+
+Mini-dictionary:
+  Italian:
+    - bambino: 孩子
+    - figlio: 儿子
+    - sorella: 姐妹
+    - fratello: 兄弟
+    - padre: 父亲
+    - moglie: 妻子
+    - amico: 朋友
+    - marito: 丈夫
+    - figlia: 女儿
+    - madre: 母亲
+  Chinese:
+    - 孩子: bambino
+    - 姐妹: sorella
+    - 母亲: madre
+    - 父亲: padre
+    - 儿子: figlio
+    - 女儿: figlia
+    - 妻子: moglie
+    - 朋友: amico
+    - 兄弟: fratello
+    - 丈夫: marito

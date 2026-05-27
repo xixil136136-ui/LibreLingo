@@ -46,23 +46,23 @@ Phrases:
 Mini-dictionary:
   English:
     - receipt: 收据
-    - expensive: 贵的
-    - size: 尺寸
+    - price: 价格
     - discount: 折扣
     - color: 颜色
-    - money: 钱
     - shop: 商店
     - try on: 试穿
+    - expensive: 贵的
+    - money: 钱
+    - size: 尺寸
     - cheap: 便宜的
-    - price: 价格
   Chinese:
-    - 便宜的: cheap
-    - 尺寸: size
-    - 价格: price
     - 收据: receipt
+    - 商店: shop
+    - 价格: price
     - 折扣: discount
     - 贵的: expensive
-    - 颜色: color
-    - 钱: money
-    - 商店: shop
+    - 尺寸: size
     - 试穿: try on
+    - 颜色: color
+    - 便宜的: cheap
+    - 钱: money

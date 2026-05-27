@@ -57,22 +57,22 @@ Mini-dictionary:
   German:
     - die Ankunft: 到达
     - der Reisepass: 护照
-    - die Abfahrt: 出发
     - der Zoll: 海关
-    - das Visum: 签证
-    - der Flughafen: 机场
     - einfach: 单程
-    - der Bahnsteig: 站台
     - hin und zurück: 往返
+    - der Flughafen: 机场
     - die Fahrkarte: 票
+    - das Visum: 签证
+    - die Abfahrt: 出发
+    - der Bahnsteig: 站台
   Chinese:
-    - 出发: die Abfahrt
-    - 签证: das Visum
-    - 单程: einfach
-    - 护照: der Reisepass
-    - 票: die Fahrkarte
-    - 海关: der Zoll
-    - 到达: die Ankunft
     - 机场: der Flughafen
+    - 海关: der Zoll
     - 站台: der Bahnsteig
     - 往返: hin und zurück
+    - 到达: die Ankunft
+    - 出发: die Abfahrt
+    - 签证: das Visum
+    - 护照: der Reisepass
+    - 单程: einfach
+    - 票: die Fahrkarte

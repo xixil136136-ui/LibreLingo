@@ -1,0 +1,68 @@
+Skill:
+  Name: Transportation
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 電車
+    Translation: 火车
+  - Word: バス
+    Translation: 公共汽车
+  - Word: タクシー
+    Translation: 出租车
+  - Word: 地下鉄
+    Translation: 地铁
+  - Word: ホテル
+    Translation: 酒店
+  - Word: 荷物
+    Translation: 行李
+  - Word: 駅
+    Translation: 车站
+  - Word: 飛行機
+    Translation: 航班
+  - Word: 遅れ
+    Translation: 延误
+  - Word: 搭乗
+    Translation: 登机
+
+Phrases:
+  - Phrase: バス停はどこですか？
+    Translation: 公共汽车站在哪里？
+  - Phrase: 電車が遅れています。
+    Translation: 火车晚点了。
+  - Phrase: 荷物があります。
+    Translation: 我有行李。
+  - Phrase: 電車はいくらですか？
+    Translation: 火车票多少钱？
+  - Phrase: タクシー乗り場はどこですか？
+    Translation: 出租车站在哪里？
+
+Mini-dictionary:
+  Japanese:
+    - 遅れ: 延误
+    - ホテル: 酒店
+    - 地下鉄: 地铁
+    - 駅: 车站
+    - 飛行機: 航班
+    - 電車: 火车
+    - タクシー: 出租车
+    - バス: 公共汽车
+    - 荷物: 行李
+    - 搭乗: 登机
+  Chinese:
+    - 登机: 搭乗
+    - 火车: 電車
+    - 车站: 駅
+    - 航班: 飛行機
+    - 地铁: 地下鉄
+    - 出租车: タクシー
+    - 延误: 遅れ
+    - 酒店: ホテル
+    - 公共汽车: バス
+    - 行李: 荷物

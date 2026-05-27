@@ -1,0 +1,70 @@
+Skill:
+  Name: Home
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: maison
+    Translation: 房子
+  - Word: porte
+    Translation: 门
+  - Word: fenêtre
+    Translation: 窗户
+  - Word: cuisine
+    Translation: 厨房
+  - Word: chambre à coucher
+    Translation: 卧室
+  - Word: jardin
+    Translation: 花园
+  - Word: garage
+    Translation: 车库
+  - Word: escalier
+    Translation: 楼梯
+  - Word: cour
+    Translation: 院子
+  - Word: toit
+    Translation: 屋顶
+
+Phrases:
+  - Phrase: C'est ma maison.
+    Translation: 这是我的房子。
+  - Phrase: Ouvrez la porte.
+    Translation: 开门。
+  - Phrase: La cuisine est grande.
+    Translation: 厨房很大。
+  - Phrase: La chambre est propre.
+    Translation: 卧室很干净。
+  - Phrase: Il y a un jardin.
+    Translation: 有一个花园。
+  - Phrase: Fermez la fenêtre.
+    Translation: 关窗。
+
+Mini-dictionary:
+  French:
+    - escalier: 楼梯
+    - chambre à coucher: 卧室
+    - cuisine: 厨房
+    - maison: 房子
+    - jardin: 花园
+    - porte: 门
+    - garage: 车库
+    - toit: 屋顶
+    - fenêtre: 窗户
+    - cour: 院子
+  Chinese:
+    - 卧室: chambre à coucher
+    - 厨房: cuisine
+    - 楼梯: escalier
+    - 门: porte
+    - 车库: garage
+    - 院子: cour
+    - 窗户: fenêtre
+    - 花园: jardin
+    - 房子: maison
+    - 屋顶: toit

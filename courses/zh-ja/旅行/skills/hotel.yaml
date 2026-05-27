@@ -1,0 +1,72 @@
+Skill:
+  Name: Hotel
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: 部屋
+    Translation: 房间
+  - Word: ベッド
+    Translation: 床
+  - Word: シャワー
+    Translation: 淋浴
+  - Word: 浴室
+    Translation: 浴室
+  - Word: タオル
+    Translation: 毛巾
+  - Word: 枕
+    Translation: 枕头
+  - Word: 毛布
+    Translation: 毯子
+  - Word: 階
+    Translation: 楼层
+  - Word: フロント
+    Translation: 前台
+  - Word: ゲスト
+    Translation: 客人
+
+Phrases:
+  - Phrase: 部屋が必要です。
+    Translation: 我需要一个房间。
+  - Phrase: 一泊いくらですか？
+    Translation: 每晚多少钱？
+  - Phrase: 浴室はどこですか？
+    Translation: 浴室在哪里？
+  - Phrase: タオルをお願いします。
+    Translation: 能给我一条毛巾吗？
+  - Phrase: ベッドが快適です。
+    Translation: 床很舒服。
+  - Phrase: 私はここのゲストです。
+    Translation: 我是这里的客人。
+  - Phrase: フロントはこの階ですか？
+    Translation: 前台在这一层吗？
+
+Mini-dictionary:
+  Japanese:
+    - 階: 楼层
+    - シャワー: 淋浴
+    - 部屋: 房间
+    - 浴室: 浴室
+    - タオル: 毛巾
+    - ゲスト: 客人
+    - 毛布: 毯子
+    - フロント: 前台
+    - ベッド: 床
+    - 枕: 枕头
+  Chinese:
+    - 前台: フロント
+    - 淋浴: シャワー
+    - 楼层: 階
+    - 床: ベッド
+    - 浴室: 浴室
+    - 毯子: 毛布
+    - 枕头: 枕
+    - 客人: ゲスト
+    - 房间: 部屋
+    - 毛巾: タオル

@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - tos: 咳嗽
-    - dolor de cabeza: 头痛
-    - fiebre: 发烧
-    - dolor: 疼痛
     - descanso: 休息
+    - tos: 咳嗽
     - medicina: 药
+    - dolor: 疼痛
     - farmacia: 药店
     - hospital: 医院
     - dolor de estómago: 肚子痛
+    - fiebre: 发烧
+    - dolor de cabeza: 头痛
     - médico: 医生
   Chinese:
-    - 发烧: fiebre
-    - 头痛: dolor de cabeza
-    - 药: medicina
-    - 医生: médico
-    - 药店: farmacia
-    - 医院: hospital
-    - 肚子痛: dolor de estómago
-    - 疼痛: dolor
     - 咳嗽: tos
+    - 药店: farmacia
+    - 肚子痛: dolor de estómago
+    - 发烧: fiebre
+    - 医院: hospital
+    - 头痛: dolor de cabeza
     - 休息: descanso
+    - 医生: médico
+    - 药: medicina
+    - 疼痛: dolor

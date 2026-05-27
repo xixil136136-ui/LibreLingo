@@ -50,23 +50,23 @@ Phrases:
 Mini-dictionary:
   Portuguese:
     - hóspede: 客人
+    - chuveiro: 淋浴
     - recepção: 前台
     - travesseiro: 枕头
-    - cama: 床
-    - cobertor: 毯子
-    - banheiro: 浴室
-    - chuveiro: 淋浴
-    - andar: 楼层
     - toalha: 毛巾
+    - cama: 床
+    - andar: 楼层
+    - cobertor: 毯子
     - quarto: 房间
+    - banheiro: 浴室
   Chinese:
-    - 毛巾: toalha
     - 淋浴: chuveiro
-    - 床: cama
-    - 浴室: banheiro
     - 枕头: travesseiro
-    - 楼层: andar
-    - 毯子: cobertor
     - 前台: recepção
+    - 毛巾: toalha
+    - 浴室: banheiro
     - 房间: quarto
+    - 毯子: cobertor
+    - 楼层: andar
     - 客人: hóspede
+    - 床: cama

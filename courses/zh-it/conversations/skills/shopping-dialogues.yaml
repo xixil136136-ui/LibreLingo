@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - cambiare: 换货
     - la taglia: 尺寸
-    - lo scontrino: 收据
-    - lo sconto: 折扣
-    - troppo caro: 太贵
-    - il colore: 颜色
     - la carta di credito: 信用卡
+    - il colore: 颜色
     - il contante: 现金
+    - lo scontrino: 收据
     - Quanto: 多少钱
+    - lo sconto: 折扣
     - provare: 试穿
+    - troppo caro: 太贵
+    - cambiare: 换货
   Chinese:
-    - 收据: lo scontrino
     - 多少钱: Quanto
+    - 换货: cambiare
+    - 太贵: troppo caro
     - 试穿: provare
-    - 颜色: il colore
+    - 收据: lo scontrino
+    - 现金: il contante
+    - 信用卡: la carta di credito
     - 尺寸: la taglia
     - 折扣: lo sconto
-    - 太贵: troppo caro
-    - 换货: cambiare
-    - 信用卡: la carta di credito
-    - 现金: il contante
+    - 颜色: il colore

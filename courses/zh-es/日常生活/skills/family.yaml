@@ -1,0 +1,72 @@
+Skill:
+  Name: Family
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: madre
+    Translation: 母亲
+  - Word: padre
+    Translation: 父亲
+  - Word: hermana
+    Translation: 姐妹
+  - Word: hermano
+    Translation: 兄弟
+  - Word: hija
+    Translation: 女儿
+  - Word: hijo
+    Translation: 儿子
+  - Word: esposa
+    Translation: 妻子
+  - Word: esposo
+    Translation: 丈夫
+  - Word: amigo
+    Translation: 朋友
+  - Word: niño
+    Translation: 孩子
+
+Phrases:
+  - Phrase: Esta es mi madre.
+    Translation: 这是我的妈妈。
+  - Phrase: Mi padre es alto.
+    Translation: 我的爸爸很高。
+  - Phrase: Tengo una hermana.
+    Translation: 我有一个姐妹。
+  - Phrase: Mi hermano es joven.
+    Translation: 我的兄弟很年轻。
+  - Phrase: Ella es mi amiga.
+    Translation: 她是我的朋友。
+  - Phrase: El niño está feliz.
+    Translation: 孩子很高兴。
+  - Phrase: Mi esposa es amable.
+    Translation: 我的妻子很善良。
+
+Mini-dictionary:
+  Spanish:
+    - niño: 孩子
+    - hija: 女儿
+    - padre: 父亲
+    - hermano: 兄弟
+    - esposo: 丈夫
+    - hermana: 姐妹
+    - hijo: 儿子
+    - esposa: 妻子
+    - madre: 母亲
+    - amigo: 朋友
+  Chinese:
+    - 丈夫: esposo
+    - 女儿: hija
+    - 儿子: hijo
+    - 妻子: esposa
+    - 母亲: madre
+    - 朋友: amigo
+    - 父亲: padre
+    - 兄弟: hermano
+    - 孩子: niño
+    - 姐妹: hermana

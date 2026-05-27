@@ -1,0 +1,72 @@
+Skill:
+  Name: Hotel
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: quarto
+    Translation: 房间
+  - Word: cama
+    Translation: 床
+  - Word: chuveiro
+    Translation: 淋浴
+  - Word: banheiro
+    Translation: 浴室
+  - Word: toalha
+    Translation: 毛巾
+  - Word: travesseiro
+    Translation: 枕头
+  - Word: cobertor
+    Translation: 毯子
+  - Word: andar
+    Translation: 楼层
+  - Word: recepção
+    Translation: 前台
+  - Word: hóspede
+    Translation: 客人
+
+Phrases:
+  - Phrase: Preciso de um quarto.
+    Translation: 我需要一个房间。
+  - Phrase: Quanto por noite?
+    Translation: 每晚多少钱？
+  - Phrase: Onde fica o banheiro?
+    Translation: 浴室在哪里？
+  - Phrase: Posso ter uma toalha?
+    Translation: 能给我一条毛巾吗？
+  - Phrase: A cama é confortável.
+    Translation: 床很舒服。
+  - Phrase: Sou hóspede aqui.
+    Translation: 我是这里的客人。
+  - Phrase: A recepção fica neste andar?
+    Translation: 前台在这一层吗？
+
+Mini-dictionary:
+  Portuguese:
+    - banheiro: 浴室
+    - quarto: 房间
+    - cama: 床
+    - toalha: 毛巾
+    - chuveiro: 淋浴
+    - cobertor: 毯子
+    - travesseiro: 枕头
+    - recepção: 前台
+    - andar: 楼层
+    - hóspede: 客人
+  Chinese:
+    - 枕头: travesseiro
+    - 浴室: banheiro
+    - 前台: recepção
+    - 毛巾: toalha
+    - 楼层: andar
+    - 客人: hóspede
+    - 房间: quarto
+    - 淋浴: chuveiro
+    - 床: cama
+    - 毯子: cobertor

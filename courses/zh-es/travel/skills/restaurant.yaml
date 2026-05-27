@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - plato principal: 主菜
-    - pimienta: 胡椒
-    - bebida: 饮料
     - servilleta: 餐巾
-    - sal: 盐
     - vaso: 玻璃杯
     - postre: 甜点
-    - restaurante: 餐厅
-    - botella: 瓶子
+    - sal: 盐
     - comida: 食物
+    - bebida: 饮料
+    - pimienta: 胡椒
+    - botella: 瓶子
+    - restaurante: 餐厅
+    - plato principal: 主菜
   Chinese:
+    - 甜点: postre
+    - 玻璃杯: vaso
+    - 主菜: plato principal
+    - 饮料: bebida
+    - 盐: sal
+    - 胡椒: pimienta
+    - 食物: comida
+    - 瓶子: botella
     - 餐厅: restaurante
     - 餐巾: servilleta
-    - 胡椒: pimienta
-    - 主菜: plato principal
-    - 瓶子: botella
-    - 玻璃杯: vaso
-    - 盐: sal
-    - 饮料: bebida
-    - 食物: comida
-    - 甜点: postre

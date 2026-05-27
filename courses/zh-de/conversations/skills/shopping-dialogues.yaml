@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - die Kreditkarte: 信用卡
-    - Wie viel: 多少钱
-    - das Bargeld: 现金
     - die Farbe: 颜色
+    - umtauschen: 换货
+    - Wie viel: 多少钱
+    - die Größe: 尺寸
+    - die Kreditkarte: 信用卡
+    - der Rabatt: 折扣
+    - das Bargeld: 现金
     - die Quittung: 收据
     - zu teuer: 太贵
-    - die Größe: 尺寸
-    - umtauschen: 换货
-    - der Rabatt: 折扣
     - anprobieren: 试穿
   Chinese:
-    - 现金: das Bargeld
-    - 颜色: die Farbe
-    - 折扣: der Rabatt
+    - 试穿: anprobieren
     - 尺寸: die Größe
     - 信用卡: die Kreditkarte
-    - 太贵: zu teuer
     - 收据: die Quittung
+    - 太贵: zu teuer
+    - 折扣: der Rabatt
     - 换货: umtauschen
-    - 试穿: anprobieren
+    - 颜色: die Farbe
+    - 现金: das Bargeld
     - 多少钱: Wie viel

@@ -1,0 +1,70 @@
+Skill:
+  Name: Time
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: matin
+    Translation: 早上
+  - Word: après-midi
+    Translation: 下午
+  - Word: soir
+    Translation: 晚上
+  - Word: nuit
+    Translation: 夜晚
+  - Word: aujourd'hui
+    Translation: 今天
+  - Word: demain
+    Translation: 明天
+  - Word: hier
+    Translation: 昨天
+  - Word: maintenant
+    Translation: 现在
+  - Word: plus tard
+    Translation: 稍后
+  - Word: tôt
+    Translation: 早
+
+Phrases:
+  - Phrase: Le matin.
+    Translation: 在早上。
+  - Phrase: À demain.
+    Translation: 明天见。
+  - Phrase: C'est tôt le matin.
+    Translation: 现在是清晨。
+  - Phrase: Je suis libre maintenant.
+    Translation: 我现在有空。
+  - Phrase: À plus tard.
+    Translation: 回头见。
+  - Phrase: L'après-midi.
+    Translation: 在下午。
+
+Mini-dictionary:
+  French:
+    - hier: 昨天
+    - aujourd'hui: 今天
+    - tôt: 早
+    - nuit: 夜晚
+    - soir: 晚上
+    - maintenant: 现在
+    - après-midi: 下午
+    - plus tard: 稍后
+    - matin: 早上
+    - demain: 明天
+  Chinese:
+    - 夜晚: nuit
+    - 今天: aujourd'hui
+    - 早: tôt
+    - 早上: matin
+    - 昨天: hier
+    - 稍后: plus tard
+    - 晚上: soir
+    - 明天: demain
+    - 现在: maintenant
+    - 下午: après-midi

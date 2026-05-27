@@ -1,0 +1,74 @@
+Skill:
+  Name: Shopping
+  Id: 5
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: magasin
+    Translation: 商店
+  - Word: prix
+    Translation: 价格
+  - Word: cher
+    Translation: 贵的
+  - Word: bon marché
+    Translation: 便宜的
+  - Word: argent
+    Translation: 钱
+  - Word: qualité
+    Translation: 质量
+  - Word: marque
+    Translation: 品牌
+  - Word: retour
+    Translation: 退货
+  - Word: ouvert
+    Translation: 营业
+  - Word: fermé
+    Translation: 关门
+
+Phrases:
+  - Phrase: Combien ça coûte ?
+    Translation: 这个多少钱？
+  - Phrase: C'est trop cher.
+    Translation: 太贵了。
+  - Phrase: C'est de bonne qualité.
+    Translation: 这个质量很好。
+  - Phrase: Le magasin est ouvert ?
+    Translation: 商店开门吗？
+  - Phrase: C'est fermé aujourd'hui.
+    Translation: 今天关门了。
+  - Phrase: Puis-je retourner ceci ?
+    Translation: 能退货吗？
+  - Phrase: Le magasin est là-bas.
+    Translation: 商店在那里。
+  - Phrase: Je n'ai pas d'argent.
+    Translation: 我没钱。
+
+Mini-dictionary:
+  French:
+    - bon marché: 便宜的
+    - prix: 价格
+    - cher: 贵的
+    - magasin: 商店
+    - qualité: 质量
+    - marque: 品牌
+    - ouvert: 营业
+    - retour: 退货
+    - fermé: 关门
+    - argent: 钱
+  Chinese:
+    - 品牌: marque
+    - 钱: argent
+    - 质量: qualité
+    - 营业: ouvert
+    - 退货: retour
+    - 贵的: cher
+    - 商店: magasin
+    - 便宜的: bon marché
+    - 关门: fermé
+    - 价格: prix
