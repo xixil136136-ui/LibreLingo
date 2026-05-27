@@ -1,0 +1,12 @@
+__pycache__
+.pdm-python
+.next
+node_modules
+playwright-report
+test-results
+neovide_backtraces.log
+**/*.tsbuildinfo
+/apps/librelingo-web/out/
+/apps/librelingo-web/src/courses/*
+/courses/*
+!/apps/librelingo-web/src/courses/test-*
