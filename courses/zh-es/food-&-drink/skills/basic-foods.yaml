@@ -46,26 +46,26 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - fruta: 水果
-    - té: 茶
+    - verdura: 蔬菜
+    - pescado: 鱼
+    - pan: 面包
     - agua: 水
     - pollo: 鸡肉
-    - pescado: 鱼
-    - arroz: 米饭
-    - verdura: 蔬菜
-    - leche: 牛奶
+    - fruta: 水果
     - huevo: 鸡蛋
+    - leche: 牛奶
+    - arroz: 米饭
     - café: 咖啡
-    - pan: 面包
+    - té: 茶
   Chinese:
+    - 鸡蛋: huevo
+    - 水: agua
+    - 牛奶: leche
+    - 面包: pan
+    - 鸡肉: pollo
     - 鱼: pescado
     - 米饭: arroz
-    - 面包: pan
-    - 茶: té
-    - 水: agua
-    - 鸡蛋: huevo
-    - 咖啡: café
-    - 牛奶: leche
-    - 蔬菜: verdura
     - 水果: fruta
-    - 鸡肉: pollo
+    - 茶: té
+    - 蔬菜: verdura
+    - 咖啡: café

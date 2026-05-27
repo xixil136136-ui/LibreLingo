@@ -10,12 +10,12 @@ Skill:
 
 
 New words:
-  - Word: menu
-    Translation: 菜单
-  - Word: waiter
-    Translation: 服务员
-  - Word: bill
-    Translation: 账单
+  - Word: snack
+    Translation: 小吃
+  - Word: lunch
+    Translation: 午餐
+  - Word: dinner
+    Translation: 晚餐
   - Word: table
     Translation: 桌子
   - Word: fork
@@ -32,12 +32,12 @@ New words:
     Translation: 小费
 
 Phrases:
-  - Phrase: Can I see the menu?
-    Translation: 我能看看菜单吗？
+  - Phrase: I want a snack.
+    Translation: 我想要小吃。
   - Phrase: I'd like to order.
     Translation: 我想点餐。
-  - Phrase: The bill, please.
-    Translation: 请给我账单。
+  - Phrase: Let's have dinner together.
+    Translation: 我们一起吃晚餐吧。
   - Phrase: A table for two.
     Translation: 两个人的桌子。
   - Phrase: This is very good.
@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - table: 桌子
-    - plate: 盘子
     - knife: 刀
-    - spoon: 勺子
-    - fork: 叉子
-    - menu: 菜单
-    - tip: 小费
-    - bill: 账单
+    - lunch: 午餐
+    - plate: 盘子
+    - snack: 小吃
     - cup: 杯子
-    - waiter: 服务员
+    - fork: 叉子
+    - tip: 小费
+    - spoon: 勺子
+    - table: 桌子
+    - dinner: 晚餐
   Chinese:
-    - 刀: knife
-    - 菜单: menu
-    - 勺子: spoon
-    - 盘子: plate
     - 叉子: fork
-    - 桌子: table
-    - 账单: bill
-    - 服务员: waiter
+    - 晚餐: dinner
     - 杯子: cup
+    - 桌子: table
+    - 刀: knife
     - 小费: tip
+    - 盘子: plate
+    - 小吃: snack
+    - 勺子: spoon
+    - 午餐: lunch

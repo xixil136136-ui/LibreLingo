@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Glas: 玻璃杯
-    - Restaurant: 餐厅
-    - Getränk: 饮料
-    - Nachspeise: 甜点
-    - Essen: 食物
     - Flasche: 瓶子
     - Serviette: 餐巾
-    - Salz: 盐
+    - Getränk: 饮料
+    - Glas: 玻璃杯
     - Pfeffer: 胡椒
     - Hauptgericht: 主菜
+    - Restaurant: 餐厅
+    - Essen: 食物
+    - Salz: 盐
+    - Nachspeise: 甜点
   Chinese:
-    - 玻璃杯: Glas
+    - 餐巾: Serviette
     - 食物: Essen
+    - 盐: Salz
+    - 玻璃杯: Glas
+    - 餐厅: Restaurant
+    - 甜点: Nachspeise
     - 胡椒: Pfeffer
     - 瓶子: Flasche
-    - 甜点: Nachspeise
-    - 餐巾: Serviette
-    - 餐厅: Restaurant
-    - 主菜: Hauptgericht
-    - 盐: Salz
     - 饮料: Getränk
+    - 主菜: Hauptgericht

@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   French:
+    - WiFi: 无线网络
+    - check in: 入住
     - single room: 单人间
     - reservation: 预订
-    - WiFi: 无线网络
-    - room key: 房卡
-    - double room: 双人间
-    - check in: 入住
     - air conditioning: 空调
+    - room key: 房卡
     - room service: 客房服务
-    - check out: 退房
+    - double room: 双人间
     - breakfast: 早餐
+    - check out: 退房
   Chinese:
+    - 双人间: double room
+    - 单人间: single room
+    - 客房服务: room service
+    - 空调: air conditioning
     - 入住: check in
-    - 无线网络: WiFi
+    - 退房: check out
+    - 早餐: breakfast
     - 房卡: room key
     - 预订: reservation
-    - 客房服务: room service
-    - 单人间: single room
-    - 空调: air conditioning
-    - 双人间: double room
-    - 早餐: breakfast
-    - 退房: check out
+    - 无线网络: WiFi

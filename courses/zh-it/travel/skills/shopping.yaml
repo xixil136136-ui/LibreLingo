@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - qualità: 质量
-    - reso: 退货
-    - negozio: 商店
     - marca: 品牌
     - prezzo: 价格
-    - economico: 便宜的
     - aperto: 营业
-    - caro: 贵的
-    - chiuso: 关门
     - soldi: 钱
+    - chiuso: 关门
+    - reso: 退货
+    - qualità: 质量
+    - economico: 便宜的
+    - caro: 贵的
+    - negozio: 商店
   Chinese:
-    - 贵的: caro
-    - 品牌: marca
-    - 退货: reso
-    - 钱: soldi
-    - 便宜的: economico
-    - 价格: prezzo
-    - 营业: aperto
-    - 商店: negozio
     - 关门: chiuso
+    - 营业: aperto
+    - 品牌: marca
+    - 钱: soldi
     - 质量: qualità
+    - 退货: reso
+    - 便宜的: economico
+    - 商店: negozio
+    - 价格: prezzo
+    - 贵的: caro

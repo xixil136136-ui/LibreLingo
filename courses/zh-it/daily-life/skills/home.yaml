@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - scale: 楼梯
-    - camera da letto: 卧室
-    - giardino: 花园
-    - cortile: 院子
     - finestra: 窗户
-    - casa: 房子
+    - scale: 楼梯
     - garage: 车库
+    - giardino: 花园
+    - casa: 房子
     - tetto: 屋顶
+    - cortile: 院子
+    - camera da letto: 卧室
     - cucina: 厨房
     - porta: 门
   Chinese:
-    - 屋顶: tetto
-    - 花园: giardino
-    - 院子: cortile
-    - 楼梯: scale
-    - 房子: casa
     - 车库: garage
     - 门: porta
+    - 花园: giardino
     - 窗户: finestra
-    - 厨房: cucina
+    - 楼梯: scale
+    - 屋顶: tetto
+    - 院子: cortile
+    - 房子: casa
     - 卧室: camera da letto
+    - 厨房: cucina

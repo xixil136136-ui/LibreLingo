@@ -56,23 +56,23 @@ Phrases:
 Mini-dictionary:
   Spanish:
     - la reserva: 预订
+    - el servicio de habitaciones: 客房服务
+    - el WiFi: 无线网络
+    - la habitación individual: 单人间
     - el aire acondicionado: 空调
+    - el desayuno: 早餐
+    - salir: 退房
+    - la llave de la habitación: 房卡
     - registrarse: 入住
     - la habitación doble: 双人间
-    - salir: 退房
-    - el servicio de habitaciones: 客房服务
-    - la habitación individual: 单人间
-    - la llave de la habitación: 房卡
-    - el WiFi: 无线网络
-    - el desayuno: 早餐
   Chinese:
-    - 入住: registrarse
-    - 双人间: la habitación doble
-    - 退房: salir
-    - 早餐: el desayuno
-    - 无线网络: el WiFi
-    - 空调: el aire acondicionado
-    - 单人间: la habitación individual
     - 客房服务: el servicio de habitaciones
+    - 入住: registrarse
+    - 早餐: el desayuno
+    - 双人间: la habitación doble
+    - 无线网络: el WiFi
     - 房卡: la llave de la habitación
+    - 空调: el aire acondicionado
+    - 退房: salir
+    - 单人间: la habitación individual
     - 预订: la reserva

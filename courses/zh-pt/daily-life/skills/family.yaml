@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - amigo: 朋友
-    - irmão: 兄弟
-    - irmã: 姐妹
     - mãe: 母亲
+    - filho: 儿子
     - marido: 丈夫
     - criança: 孩子
-    - esposa: 妻子
-    - filho: 儿子
     - filha: 女儿
+    - amigo: 朋友
+    - esposa: 妻子
     - pai: 父亲
+    - irmã: 姐妹
+    - irmão: 兄弟
   Chinese:
+    - 朋友: amigo
+    - 丈夫: marido
+    - 父亲: pai
+    - 兄弟: irmão
+    - 母亲: mãe
     - 女儿: filha
+    - 儿子: filho
+    - 孩子: criança
     - 妻子: esposa
     - 姐妹: irmã
-    - 孩子: criança
-    - 父亲: pai
-    - 丈夫: marido
-    - 母亲: mãe
-    - 朋友: amigo
-    - 兄弟: irmão
-    - 儿子: filho

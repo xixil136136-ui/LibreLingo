@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - barato: 便宜的
-    - preço: 价格
+    - marca: 品牌
     - loja: 商店
     - qualidade: 质量
-    - marca: 品牌
-    - devolução: 退货
+    - barato: 便宜的
     - aberto: 营业
-    - caro: 贵的
     - fechado: 关门
+    - devolução: 退货
     - dinheiro: 钱
+    - caro: 贵的
+    - preço: 价格
   Chinese:
-    - 贵的: caro
-    - 价格: preço
     - 品牌: marca
-    - 质量: qualidade
-    - 营业: aberto
-    - 钱: dinheiro
-    - 退货: devolução
-    - 商店: loja
+    - 价格: preço
     - 关门: fechado
+    - 质量: qualidade
     - 便宜的: barato
+    - 营业: aberto
+    - 贵的: caro
+    - 退货: devolução
+    - 钱: dinheiro
+    - 商店: loja

@@ -50,23 +50,23 @@ Phrases:
 Mini-dictionary:
   Spanish:
     - descanso: 休息
-    - tos: 咳嗽
-    - medicina: 药
-    - dolor: 疼痛
-    - farmacia: 药店
-    - hospital: 医院
-    - dolor de estómago: 肚子痛
-    - fiebre: 发烧
     - dolor de cabeza: 头痛
+    - dolor: 疼痛
+    - hospital: 医院
+    - fiebre: 发烧
     - médico: 医生
+    - farmacia: 药店
+    - medicina: 药
+    - tos: 咳嗽
+    - dolor de estómago: 肚子痛
   Chinese:
-    - 咳嗽: tos
-    - 药店: farmacia
     - 肚子痛: dolor de estómago
-    - 发烧: fiebre
-    - 医院: hospital
-    - 头痛: dolor de cabeza
-    - 休息: descanso
-    - 医生: médico
-    - 药: medicina
     - 疼痛: dolor
+    - 咳嗽: tos
+    - 药: medicina
+    - 发烧: fiebre
+    - 药店: farmacia
+    - 休息: descanso
+    - 医院: hospital
+    - 医生: médico
+    - 头痛: dolor de cabeza

@@ -41,24 +41,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - cinque: 五
-    - otto: 八
-    - nove: 九
-    - sei: 六
-    - tre: 三
-    - dieci: 十
-    - uno: 一
+    - sette: 七
     - quattro: 四
     - due: 二
-    - sette: 七
+    - cinque: 五
+    - nove: 九
+    - otto: 八
+    - sei: 六
+    - tre: 三
+    - uno: 一
+    - dieci: 十
   Chinese:
+    - 三: tre
+    - 二: due
+    - 九: nove
+    - 四: quattro
+    - 七: sette
     - 十: dieci
+    - 一: uno
     - 五: cinque
     - 六: sei
-    - 四: quattro
-    - 二: due
-    - 一: uno
-    - 九: nove
     - 八: otto
-    - 三: tre
-    - 七: sette

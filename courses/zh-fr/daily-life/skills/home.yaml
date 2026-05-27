@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - toit: 屋顶
-    - porte: 门
-    - jardin: 花园
-    - garage: 车库
-    - fenêtre: 窗户
-    - chambre à coucher: 卧室
-    - maison: 房子
     - escalier: 楼梯
-    - cour: 院子
+    - porte: 门
+    - garage: 车库
+    - maison: 房子
     - cuisine: 厨房
+    - toit: 屋顶
+    - fenêtre: 窗户
+    - cour: 院子
+    - chambre à coucher: 卧室
+    - jardin: 花园
   Chinese:
-    - 厨房: cuisine
-    - 门: porte
+    - 车库: garage
     - 院子: cour
+    - 窗户: fenêtre
     - 屋顶: toit
-    - 卧室: chambre à coucher
     - 房子: maison
     - 花园: jardin
-    - 车库: garage
-    - 窗户: fenêtre
+    - 厨房: cuisine
     - 楼梯: escalier
+    - 门: porte
+    - 卧室: chambre à coucher

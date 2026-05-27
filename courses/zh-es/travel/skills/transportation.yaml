@@ -46,23 +46,23 @@ Phrases:
 Mini-dictionary:
   Spanish:
     - equipaje: 行李
-    - taxi: 出租车
+    - estación: 车站
     - autobús: 公共汽车
     - embarque: 登机
+    - taxi: 出租车
+    - hotel: 酒店
+    - retraso: 延误
+    - vuelo: 航班
     - metro: 地铁
     - tren: 火车
-    - retraso: 延误
-    - estación: 车站
-    - vuelo: 航班
-    - hotel: 酒店
   Chinese:
-    - 航班: vuelo
-    - 车站: estación
     - 延误: retraso
-    - 火车: tren
-    - 行李: equipaje
-    - 酒店: hotel
+    - 车站: estación
+    - 航班: vuelo
     - 地铁: metro
-    - 公共汽车: autobús
-    - 登机: embarque
+    - 酒店: hotel
     - 出租车: taxi
+    - 登机: embarque
+    - 行李: equipaje
+    - 火车: tren
+    - 公共汽车: autobús

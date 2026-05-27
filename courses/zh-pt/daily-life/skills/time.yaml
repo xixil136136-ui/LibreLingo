@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - noite: 夜晚
-    - amanhã: 明天
-    - manhã: 早上
     - cedo: 早
-    - ontem: 昨天
-    - mais tarde: 稍后
-    - noite: 晚上
     - tarde: 下午
     - hoje: 今天
+    - noite: 晚上
+    - noite: 夜晚
+    - mais tarde: 稍后
+    - ontem: 昨天
+    - amanhã: 明天
     - agora: 现在
+    - manhã: 早上
   Chinese:
+    - 夜晚: noite
+    - 早上: manhã
+    - 昨天: ontem
     - 稍后: mais tarde
     - 今天: hoje
-    - 早: cedo
-    - 明天: amanhã
-    - 昨天: ontem
-    - 现在: agora
-    - 早上: manhã
-    - 晚上: noite
     - 下午: tarde
-    - 夜晚: noite
+    - 明天: amanhã
+    - 晚上: noite
+    - 现在: agora
+    - 早: cedo

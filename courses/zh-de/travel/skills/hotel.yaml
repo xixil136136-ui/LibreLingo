@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Bett: 床
     - Rezeption: 前台
-    - Badezimmer: 浴室
     - Dusche: 淋浴
+    - Kissen: 枕头
     - Handtuch: 毛巾
     - Zimmer: 房间
-    - Stockwerk: 楼层
+    - Bett: 床
     - Gast: 客人
-    - Kissen: 枕头
+    - Badezimmer: 浴室
+    - Stockwerk: 楼层
     - Decke: 毯子
   Chinese:
-    - 楼层: Stockwerk
-    - 浴室: Badezimmer
-    - 毯子: Decke
-    - 枕头: Kissen
-    - 前台: Rezeption
     - 毛巾: Handtuch
-    - 房间: Zimmer
+    - 枕头: Kissen
+    - 浴室: Badezimmer
+    - 前台: Rezeption
     - 客人: Gast
-    - 淋浴: Dusche
     - 床: Bett
+    - 毯子: Decke
+    - 房间: Zimmer
+    - 淋浴: Dusche
+    - 楼层: Stockwerk

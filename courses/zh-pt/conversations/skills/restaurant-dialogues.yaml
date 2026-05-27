@@ -22,8 +22,8 @@ New words:
     Translation: 美味
   - Word: a recomendação
     Translation: 推荐
-  - Word: a reserva
-    Translation: 预约
+  - Word: appetizer
+    Translation: 开胃菜
   - Word: o garçom
     Translation: 服务员
   - Word: uma mesa para dois
@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - pedir: 点餐
-    - o cardápio: 菜单
+    - a recomendação: 推荐
+    - uma mesa para dois: 两人桌
+    - Eu gostaria de: 我想要
+    - o garçom: 服务员
     - a conta: 账单
     - o prato do dia: 今日特价
-    - Eu gostaria de: 我想要
-    - a recomendação: 推荐
-    - a reserva: 预约
-    - o garçom: 服务员
-    - uma mesa para dois: 两人桌
+    - o cardápio: 菜单
+    - appetizer: 开胃菜
     - delicioso: 美味
+    - pedir: 点餐
   Chinese:
-    - 两人桌: uma mesa para dois
-    - 账单: a conta
-    - 点餐: pedir
-    - 今日特价: o prato do dia
-    - 服务员: o garçom
     - 推荐: a recomendação
-    - 美味: delicioso
-    - 我想要: Eu gostaria de
+    - 今日特价: o prato do dia
+    - 账单: a conta
     - 菜单: o cardápio
-    - 预约: a reserva
+    - 开胃菜: appetizer
+    - 服务员: o garçom
+    - 我想要: Eu gostaria de
+    - 美味: delicioso
+    - 点餐: pedir
+    - 两人桌: uma mesa para dois

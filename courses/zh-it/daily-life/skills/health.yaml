@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - mal di stomaco: 肚子痛
     - tosse: 咳嗽
-    - riposo: 休息
-    - febbre: 发烧
-    - medicina: 药
-    - farmacia: 药店
     - dolore: 疼痛
-    - ospedale: 医院
-    - mal di testa: 头痛
     - dottore: 医生
+    - mal di testa: 头痛
+    - ospedale: 医院
+    - riposo: 休息
+    - farmacia: 药店
+    - medicina: 药
+    - mal di stomaco: 肚子痛
+    - febbre: 发烧
   Chinese:
-    - 医院: ospedale
-    - 疼痛: dolore
-    - 药店: farmacia
     - 发烧: febbre
-    - 头痛: mal di testa
-    - 医生: dottore
-    - 药: medicina
-    - 肚子痛: mal di stomaco
+    - 疼痛: dolore
     - 咳嗽: tosse
+    - 药: medicina
+    - 药店: farmacia
+    - 医生: dottore
     - 休息: riposo
+    - 肚子痛: mal di stomaco
+    - 医院: ospedale
+    - 头痛: mal di testa

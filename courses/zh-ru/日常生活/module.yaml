@@ -1,9 +1,0 @@
-Module:
-  Name: "日常生活"
-
-Skills:
-  - weather.yaml
-  - time.yaml
-  - family.yaml
-  - home.yaml
-  - health.yaml

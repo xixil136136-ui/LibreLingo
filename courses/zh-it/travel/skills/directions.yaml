@@ -46,23 +46,23 @@ Phrases:
 Mini-dictionary:
   Italian:
     - strada: 街道
-    - dritto: 直走
-    - vicino: 附近
     - sinistra: 左边
-    - destra: 右边
+    - vicino: 附近
+    - via: 路
     - lì: 那里
+    - dritto: 直走
+    - mappa: 地图
+    - destra: 右边
     - lontano: 远
     - qui: 这里
-    - via: 路
-    - mappa: 地图
   Chinese:
-    - 路: via
-    - 右边: destra
-    - 附近: vicino
-    - 直走: dritto
+    - 街道: strada
     - 左边: sinistra
     - 远: lontano
+    - 附近: vicino
     - 地图: mappa
-    - 街道: strada
+    - 右边: destra
+    - 直走: dritto
+    - 路: via
     - 那里: lì
     - 这里: qui

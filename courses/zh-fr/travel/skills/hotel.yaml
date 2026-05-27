@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - étage: 楼层
-    - douche: 淋浴
     - salle de bain: 浴室
-    - lit: 床
-    - oreiller: 枕头
+    - couverture: 毯子
     - réception: 前台
     - invité: 客人
-    - chambre: 房间
-    - couverture: 毯子
+    - lit: 床
+    - étage: 楼层
     - serviette: 毛巾
+    - chambre: 房间
+    - douche: 淋浴
+    - oreiller: 枕头
   Chinese:
     - 毛巾: serviette
     - 枕头: oreiller
-    - 房间: chambre
-    - 楼层: étage
     - 毯子: couverture
-    - 床: lit
     - 前台: réception
-    - 淋浴: douche
+    - 楼层: étage
+    - 房间: chambre
     - 浴室: salle de bain
+    - 床: lit
+    - 淋浴: douche
     - 客人: invité

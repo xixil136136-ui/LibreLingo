@@ -48,23 +48,23 @@ Phrases:
 Mini-dictionary:
   Spanish:
     - jardín: 花园
-    - puerta: 门
-    - patio: 院子
-    - ventana: 窗户
+    - escaleras: 楼梯
     - techo: 屋顶
+    - ventana: 窗户
+    - dormitorio: 卧室
     - casa: 房子
+    - patio: 院子
+    - puerta: 门
     - garaje: 车库
     - cocina: 厨房
-    - dormitorio: 卧室
-    - escaleras: 楼梯
   Chinese:
-    - 楼梯: escaleras
-    - 卧室: dormitorio
-    - 窗户: ventana
-    - 屋顶: techo
     - 院子: patio
     - 车库: garaje
     - 门: puerta
+    - 厨房: cocina
+    - 屋顶: techo
+    - 窗户: ventana
     - 房子: casa
     - 花园: jardín
-    - 厨房: cocina
+    - 楼梯: escaleras
+    - 卧室: dormitorio

@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - frío: 冷
-    - cálido: 温暖
-    - paraguas: 雨伞
     - calor: 热
-    - temperatura: 温度
+    - cálido: 温暖
+    - frío: 冷
     - viento: 风
-    - nieve: 雪
-    - soleado: 晴天
     - lluvia: 雨
+    - soleado: 晴天
+    - temperatura: 温度
     - nube: 云
+    - paraguas: 雨伞
+    - nieve: 雪
   Chinese:
     - 云: nube
     - 雨伞: paraguas
+    - 雪: nieve
     - 冷: frío
     - 风: viento
-    - 温暖: cálido
-    - 雪: nieve
+    - 晴天: soleado
+    - 温度: temperatura
     - 热: calor
     - 雨: lluvia
-    - 温度: temperatura
-    - 晴天: soleado
+    - 温暖: cálido

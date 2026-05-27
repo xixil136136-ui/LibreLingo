@@ -46,23 +46,23 @@ Phrases:
 Mini-dictionary:
   English:
     - street: 街道
-    - right: 右边
-    - there: 那里
-    - far: 远
-    - straight: 直走
-    - road: 路
-    - near: 附近
-    - here: 这里
-    - left: 左边
     - map: 地图
+    - near: 附近
+    - left: 左边
+    - straight: 直走
+    - right: 右边
+    - road: 路
+    - there: 那里
+    - here: 这里
+    - far: 远
   Chinese:
-    - 左边: left
     - 直走: straight
-    - 这里: here
-    - 附近: near
     - 远: far
-    - 路: road
-    - 那里: there
     - 地图: map
     - 街道: street
+    - 附近: near
+    - 路: road
+    - 这里: here
     - 右边: right
+    - 那里: there
+    - 左边: left

@@ -43,24 +43,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - no: 不是
+    - buenas tardes: 下午好
+    - buenos días: 早上好
+    - sí: 是的
     - de nada: 不客气
-    - hola: 你好
-    - gracias: 谢谢
     - perdón: 对不起
     - por favor: 请
-    - buenos días: 早上好
-    - buenas tardes: 下午好
+    - hola: 你好
     - adiós: 再见
-    - sí: 是的
+    - no: 不是
+    - gracias: 谢谢
   Chinese:
-    - 不是: no
-    - 你好: hola
-    - 再见: adiós
     - 对不起: perdón
-    - 请: por favor
-    - 是的: sí
     - 不客气: de nada
     - 早上好: buenos días
+    - 请: por favor
+    - 再见: adiós
     - 下午好: buenas tardes
+    - 不是: no
+    - 是的: sí
     - 谢谢: gracias
+    - 你好: hola

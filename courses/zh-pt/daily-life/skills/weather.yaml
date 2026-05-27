@@ -52,23 +52,23 @@ Phrases:
 Mini-dictionary:
   Portuguese:
     - frio: 冷
-    - nuvem: 云
+    - neve: 雪
+    - guarda-chuva: 雨伞
+    - vento: 风
     - chuva: 雨
+    - ensolarado: 晴天
     - ameno: 温暖
     - quente: 热
-    - vento: 风
     - temperatura: 温度
-    - ensolarado: 晴天
-    - guarda-chuva: 雨伞
-    - neve: 雪
+    - nuvem: 云
   Chinese:
-    - 温暖: ameno
-    - 云: nuvem
-    - 热: quente
-    - 风: vento
-    - 晴天: ensolarado
     - 雨: chuva
+    - 晴天: ensolarado
+    - 风: vento
+    - 温暖: ameno
     - 冷: frio
+    - 热: quente
     - 雨伞: guarda-chuva
     - 温度: temperatura
     - 雪: neve
+    - 云: nuvem

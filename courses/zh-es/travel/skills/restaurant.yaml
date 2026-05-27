@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - servilleta: 餐巾
     - vaso: 玻璃杯
-    - postre: 甜点
-    - sal: 盐
-    - comida: 食物
+    - botella: 瓶子
     - bebida: 饮料
     - pimienta: 胡椒
-    - botella: 瓶子
+    - comida: 食物
+    - sal: 盐
+    - servilleta: 餐巾
     - restaurante: 餐厅
     - plato principal: 主菜
+    - postre: 甜点
   Chinese:
-    - 甜点: postre
-    - 玻璃杯: vaso
-    - 主菜: plato principal
-    - 饮料: bebida
-    - 盐: sal
-    - 胡椒: pimienta
     - 食物: comida
     - 瓶子: botella
-    - 餐厅: restaurante
     - 餐巾: servilleta
+    - 餐厅: restaurante
+    - 饮料: bebida
+    - 主菜: plato principal
+    - 胡椒: pimienta
+    - 盐: sal
+    - 玻璃杯: vaso
+    - 甜点: postre

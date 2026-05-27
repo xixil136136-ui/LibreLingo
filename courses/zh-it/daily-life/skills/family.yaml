@@ -50,23 +50,23 @@ Phrases:
 Mini-dictionary:
   Italian:
     - amico: 朋友
-    - figlio: 儿子
-    - madre: 母亲
-    - moglie: 妻子
-    - sorella: 姐妹
-    - bambino: 孩子
-    - padre: 父亲
     - figlia: 女儿
-    - marito: 丈夫
+    - moglie: 妻子
+    - bambino: 孩子
     - fratello: 兄弟
+    - sorella: 姐妹
+    - padre: 父亲
+    - marito: 丈夫
+    - madre: 母亲
+    - figlio: 儿子
   Chinese:
-    - 孩子: bambino
-    - 丈夫: marito
     - 父亲: padre
-    - 兄弟: fratello
-    - 儿子: figlio
-    - 姐妹: sorella
-    - 母亲: madre
     - 妻子: moglie
+    - 孩子: bambino
+    - 母亲: madre
+    - 兄弟: fratello
+    - 丈夫: marito
     - 朋友: amico
     - 女儿: figlia
+    - 儿子: figlio
+    - 姐妹: sorella

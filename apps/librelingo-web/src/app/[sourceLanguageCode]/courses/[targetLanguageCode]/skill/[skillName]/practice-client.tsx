@@ -33,18 +33,94 @@ const SPEECH_LANG_MAP: Record<string, string> = {
     th: 'th-TH',
 }
 
+// Prioritized voice name patterns for natural-sounding voices, per language
+// Google voices (Chrome/Edge) are typically the most natural.
+// Apple voices (Safari) are second best.
+const VOICE_PREFERENCES: Record<string, string[]> = {
+    en: ['Google US English', 'Google UK English Female', 'Google UK English Male', 'Microsoft David', 'Microsoft Zira', 'Samantha', 'Alex', 'Karen', 'Daniel'],
+    ja: ['Google 日本語', 'Google 日本', 'Kyoko', 'Otoya', 'Hattori'],
+    ko: ['Google 한국의', 'Google 한국', 'Yuna', 'Narae'],
+    fr: ['Google Français', 'Google France', 'Thomas', 'Amélie', 'Virginie'],
+    de: ['Google Deutsch', 'Google Germany', 'Anna', 'Markus'],
+    es: ['Google Español', 'Google Spain', 'Monica', 'Jorge', 'Diego'],
+    it: ['Google Italiano', 'Google Italy', 'Alice', 'Federica', 'Luca'],
+    pt: ['Google Português', 'Google Brazil', 'Luciana', 'Felipe'],
+    ru: ['Google русский', 'Google Russia', 'Milena', 'Dmitri'],
+    th: ['Google ไทย', 'Google Thailand', 'Kanya', 'Somsak'],
+}
+
+let cachedVoices: SpeechSynthesisVoice[] | null = null
+
+function loadVoices(): Promise<SpeechSynthesisVoice[]> {
+    if (cachedVoices && cachedVoices.length > 0) return Promise.resolve(cachedVoices)
+    return new Promise((resolve) => {
+        if (typeof window === 'undefined' || !window.speechSynthesis) {
+            resolve([])
+            return
+        }
+        const voices = window.speechSynthesis.getVoices()
+        if (voices.length > 0) {
+            cachedVoices = voices
+            resolve(voices)
+        } else {
+            window.speechSynthesis.onvoiceschanged = () => {
+                const loaded = window.speechSynthesis.getVoices()
+                cachedVoices = loaded
+                resolve(loaded)
+            }
+            // Fallback timeout for browsers that don't fire onvoiceschanged
+            setTimeout(() => {
+                if (!cachedVoices) {
+                    const loaded = window.speechSynthesis.getVoices()
+                    cachedVoices = loaded
+                    resolve(loaded)
+                }
+            }, 1500)
+        }
+    })
+}
+
+function pickBestVoice(langCode: string, voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | null {
+    const langTag = SPEECH_LANG_MAP[langCode] || langCode
+    const langShort = langCode
+
+    // 1. Try to match by preferred voice name patterns for this language
+    const preferredNames = VOICE_PREFERENCES[langCode] || []
+    for (const namePattern of preferredNames) {
+        const match = voices.find(v =>
+            v.lang.startsWith(langShort) && v.name.includes(namePattern)
+        )
+        if (match) return match
+    }
+
+    // 2. Fallback: any Google voice for this language (usually neural quality)
+    const googleVoice = voices.find(v => v.lang.startsWith(langShort) && v.name.includes('Google'))
+    if (googleVoice) return googleVoice
+
+    // 3. Fallback: any voice matching the exact language tag
+    const exactLang = voices.find(v => v.lang === langTag)
+    if (exactLang) return exactLang
+
+    // 4. Fallback: any voice starting with the language code
+    return voices.find(v => v.lang.startsWith(langShort)) || null
+}
+
 function speak(text: string, langCode: string) {
     if (typeof window === 'undefined' || !window.speechSynthesis) return
-    window.speechSynthesis.cancel() // stop any ongoing speech
+    window.speechSynthesis.cancel()
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = SPEECH_LANG_MAP[langCode] || langCode
-    utterance.rate = 0.9
+    utterance.rate = 0.85
     utterance.pitch = 1
-    // Try to find a matching voice for the language
-    const voices = window.speechSynthesis.getVoices()
-    const matchingVoice = voices.find(v => v.lang.startsWith(langCode))
-    if (matchingVoice) utterance.voice = matchingVoice
-    window.speechSynthesis.speak(utterance)
+    loadVoices().then((voices) => {
+        const best = pickBestVoice(langCode, voices)
+        if (best) {
+            utterance.voice = best
+        }
+        window.speechSynthesis.speak(utterance)
+    }).catch(() => {
+        window.speechSynthesis.speak(utterance)
+    })
 }
 
 export default function PracticeClient({ challenges, targetLanguageCode }: Props) {

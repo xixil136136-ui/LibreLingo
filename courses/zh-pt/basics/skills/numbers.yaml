@@ -41,24 +41,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - quatro: 四
     - um: 一
+    - dois: 二
+    - três: 三
     - cinco: 五
     - oito: 八
-    - três: 三
+    - quatro: 四
     - nove: 九
-    - dez: 十
-    - dois: 二
     - sete: 七
+    - dez: 十
     - seis: 六
   Chinese:
-    - 五: cinco
-    - 七: sete
-    - 二: dois
-    - 九: nove
-    - 十: dez
     - 八: oito
-    - 一: um
-    - 三: três
-    - 四: quatro
+    - 九: nove
     - 六: seis
+    - 二: dois
+    - 七: sete
+    - 四: quatro
+    - 一: um
+    - 十: dez
+    - 五: cinco
+    - 三: três

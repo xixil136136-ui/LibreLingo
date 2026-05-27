@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - coperta: 毯子
-    - bagno: 浴室
-    - reception: 前台
-    - asciugamano: 毛巾
-    - piano: 楼层
-    - letto: 床
-    - doccia: 淋浴
     - ospite: 客人
+    - piano: 楼层
+    - bagno: 浴室
+    - coperta: 毯子
     - stanza: 房间
+    - letto: 床
+    - asciugamano: 毛巾
+    - doccia: 淋浴
     - cuscino: 枕头
+    - reception: 前台
   Chinese:
-    - 淋浴: doccia
-    - 前台: reception
-    - 楼层: piano
-    - 房间: stanza
-    - 毛巾: asciugamano
-    - 客人: ospite
     - 枕头: cuscino
-    - 浴室: bagno
-    - 毯子: coperta
+    - 客人: ospite
     - 床: letto
+    - 前台: reception
+    - 毯子: coperta
+    - 房间: stanza
+    - 楼层: piano
+    - 毛巾: asciugamano
+    - 浴室: bagno
+    - 淋浴: doccia

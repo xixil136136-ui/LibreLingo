@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   French:
+    - tout droit: 直走
+    - loin: 远
+    - route: 路
+    - droite: 右边
     - là: 那里
     - près: 附近
-    - ici: 这里
-    - route: 路
-    - tout droit: 直走
-    - gauche: 左边
     - rue: 街道
-    - droite: 右边
+    - ici: 这里
     - carte: 地图
-    - loin: 远
+    - gauche: 左边
   Chinese:
-    - 直走: tout droit
-    - 这里: ici
-    - 地图: carte
-    - 街道: rue
-    - 左边: gauche
     - 右边: droite
     - 附近: près
-    - 路: route
-    - 那里: là
+    - 地图: carte
+    - 左边: gauche
+    - 直走: tout droit
+    - 街道: rue
     - 远: loin
+    - 那里: là
+    - 这里: ici
+    - 路: route

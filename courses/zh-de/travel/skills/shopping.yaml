@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - billig: 便宜的
-    - Qualität: 质量
+    - Geld: 钱
     - geöffnet: 营业
-    - geschlossen: 关门
+    - teuer: 贵的
     - Rückgabe: 退货
     - Marke: 品牌
+    - geschlossen: 关门
+    - billig: 便宜的
+    - Qualität: 质量
     - Geschäft: 商店
-    - teuer: 贵的
-    - Geld: 钱
     - Preis: 价格
   Chinese:
-    - 商店: Geschäft
-    - 关门: geschlossen
-    - 退货: Rückgabe
     - 品牌: Marke
+    - 退货: Rückgabe
     - 便宜的: billig
-    - 钱: Geld
-    - 营业: geöffnet
-    - 价格: Preis
     - 质量: Qualität
+    - 价格: Preis
+    - 关门: geschlossen
+    - 营业: geöffnet
+    - 钱: Geld
+    - 商店: Geschäft
     - 贵的: teuer

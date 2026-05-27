@@ -45,26 +45,26 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Gemüse: 蔬菜
     - Obst: 水果
-    - Kaffee: 咖啡
-    - Tee: 茶
-    - Brot: 面包
     - Milch: 牛奶
     - Ei: 鸡蛋
-    - Fisch: 鱼
-    - Reis: 米饭
-    - Wasser: 水
     - Hähnchen: 鸡肉
+    - Fisch: 鱼
+    - Kaffee: 咖啡
+    - Wasser: 水
+    - Gemüse: 蔬菜
+    - Reis: 米饭
+    - Tee: 茶
+    - Brot: 面包
   Chinese:
-    - 米饭: Reis
-    - 面包: Brot
-    - 鸡肉: Hähnchen
+    - 蔬菜: Gemüse
     - 鱼: Fisch
     - 咖啡: Kaffee
-    - 牛奶: Milch
+    - 鸡肉: Hähnchen
+    - 面包: Brot
+    - 水: Wasser
     - 水果: Obst
-    - 蔬菜: Gemüse
+    - 米饭: Reis
     - 茶: Tee
     - 鸡蛋: Ei
-    - 水: Wasser
+    - 牛奶: Milch

@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Korean:
-    - ticket: 票
-    - round trip: 往返
-    - visa: 签证
     - passport: 护照
-    - airport: 机场
-    - departure: 出发
+    - round trip: 往返
     - customs: 海关
     - arrival: 到达
     - one-way: 单程
     - platform: 站台
+    - airport: 机场
+    - ticket: 票
+    - departure: 出发
+    - visa: 签证
   Chinese:
+    - 机场: airport
+    - 票: ticket
+    - 往返: round trip
+    - 站台: platform
+    - 出发: departure
+    - 到达: arrival
+    - 海关: customs
+    - 单程: one-way
     - 护照: passport
     - 签证: visa
-    - 站台: platform
-    - 机场: airport
-    - 到达: arrival
-    - 出发: departure
-    - 单程: one-way
-    - 往返: round trip
-    - 票: ticket
-    - 海关: customs

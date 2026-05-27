@@ -22,8 +22,8 @@ New words:
     Translation: 美味
   - Word: la raccomandazione
     Translation: 推荐
-  - Word: la prenotazione
-    Translation: 预约
+  - Word: appetizer
+    Translation: 开胃菜
   - Word: il cameriere
     Translation: 服务员
   - Word: un tavolo per due
@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - ordinare: 点餐
-    - la raccomandazione: 推荐
-    - il conto: 账单
-    - il menu: 菜单
-    - la prenotazione: 预约
     - delizioso: 美味
+    - la raccomandazione: 推荐
     - il piatto del giorno: 今日特价
+    - ordinare: 点餐
     - Vorrei: 我想要
-    - un tavolo per due: 两人桌
+    - appetizer: 开胃菜
     - il cameriere: 服务员
+    - il conto: 账单
+    - un tavolo per due: 两人桌
+    - il menu: 菜单
   Chinese:
-    - 推荐: la raccomandazione
-    - 美味: delizioso
-    - 两人桌: un tavolo per due
-    - 菜单: il menu
     - 点餐: ordinare
     - 今日特价: il piatto del giorno
-    - 预约: la prenotazione
-    - 账单: il conto
-    - 服务员: il cameriere
+    - 开胃菜: appetizer
+    - 两人桌: un tavolo per due
+    - 推荐: la raccomandazione
     - 我想要: Vorrei
+    - 账单: il conto
+    - 美味: delizioso
+    - 菜单: il menu
+    - 服务员: il cameriere

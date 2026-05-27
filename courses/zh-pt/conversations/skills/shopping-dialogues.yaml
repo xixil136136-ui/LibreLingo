@@ -56,23 +56,23 @@ Phrases:
 Mini-dictionary:
   Portuguese:
     - o recibo: 收据
-    - a cor: 颜色
-    - o tamanho: 尺寸
-    - o desconto: 折扣
-    - Quanto: 多少钱
-    - muito caro: 太贵
-    - experimentar: 试穿
-    - o dinheiro: 现金
     - o cartão de crédito: 信用卡
+    - experimentar: 试穿
+    - o tamanho: 尺寸
+    - o dinheiro: 现金
+    - a cor: 颜色
     - trocar: 换货
+    - muito caro: 太贵
+    - Quanto: 多少钱
+    - o desconto: 折扣
   Chinese:
-    - 折扣: o desconto
-    - 多少钱: Quanto
-    - 换货: trocar
-    - 信用卡: o cartão de crédito
-    - 颜色: a cor
-    - 太贵: muito caro
     - 现金: o dinheiro
-    - 尺寸: o tamanho
+    - 折扣: o desconto
+    - 太贵: muito caro
+    - 信用卡: o cartão de crédito
     - 试穿: experimentar
+    - 换货: trocar
+    - 颜色: a cor
+    - 尺寸: o tamanho
+    - 多少钱: Quanto
     - 收据: o recibo

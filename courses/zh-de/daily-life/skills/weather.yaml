@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - warm: 温暖
-    - Schnee: 雪
-    - Wolke: 云
-    - sonnig: 晴天
     - Regen: 雨
-    - kalt: 冷
     - heiß: 热
+    - sonnig: 晴天
+    - kalt: 冷
     - Regenschirm: 雨伞
-    - Temperatur: 温度
+    - Wolke: 云
+    - warm: 温暖
     - Wind: 风
+    - Temperatur: 温度
+    - Schnee: 雪
   Chinese:
-    - 云: Wolke
-    - 雪: Schnee
-    - 热: heiß
-    - 温暖: warm
-    - 冷: kalt
     - 雨: Regen
-    - 晴天: sonnig
+    - 冷: kalt
+    - 温暖: warm
+    - 热: heiß
     - 雨伞: Regenschirm
-    - 温度: Temperatur
+    - 雪: Schnee
+    - 晴天: sonnig
     - 风: Wind
+    - 云: Wolke
+    - 温度: Temperatur

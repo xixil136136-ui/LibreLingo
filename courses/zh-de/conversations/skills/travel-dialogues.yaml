@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - die Ankunft: 到达
+    - die Abfahrt: 出发
+    - der Flughafen: 机场
     - der Reisepass: 护照
     - der Zoll: 海关
-    - einfach: 单程
-    - hin und zurück: 往返
-    - der Flughafen: 机场
-    - die Fahrkarte: 票
     - das Visum: 签证
-    - die Abfahrt: 出发
+    - einfach: 单程
     - der Bahnsteig: 站台
+    - die Fahrkarte: 票
+    - die Ankunft: 到达
+    - hin und zurück: 往返
   Chinese:
+    - 往返: hin und zurück
+    - 票: die Fahrkarte
+    - 出发: die Abfahrt
+    - 到达: die Ankunft
+    - 站台: der Bahnsteig
+    - 单程: einfach
+    - 签证: das Visum
     - 机场: der Flughafen
     - 海关: der Zoll
-    - 站台: der Bahnsteig
-    - 往返: hin und zurück
-    - 到达: die Ankunft
-    - 出发: die Abfahrt
-    - 签证: das Visum
     - 护照: der Reisepass
-    - 单程: einfach
-    - 票: die Fahrkarte

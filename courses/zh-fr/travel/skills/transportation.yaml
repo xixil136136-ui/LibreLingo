@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - embarquement: 登机
-    - métro: 地铁
-    - taxi: 出租车
-    - hôtel: 酒店
-    - bus: 公共汽车
-    - bagage: 行李
-    - retard: 延误
     - train: 火车
     - gare: 车站
+    - hôtel: 酒店
+    - embarquement: 登机
+    - taxi: 出租车
     - vol: 航班
+    - métro: 地铁
+    - bagage: 行李
+    - retard: 延误
+    - bus: 公共汽车
   Chinese:
-    - 火车: train
-    - 行李: bagage
-    - 车站: gare
+    - 延误: retard
+    - 酒店: hôtel
     - 航班: vol
+    - 出租车: taxi
+    - 火车: train
+    - 车站: gare
+    - 地铁: métro
     - 登机: embarquement
     - 公共汽车: bus
-    - 酒店: hôtel
-    - 延误: retard
-    - 地铁: métro
-    - 出租车: taxi
+    - 行李: bagage

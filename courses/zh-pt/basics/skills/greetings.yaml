@@ -43,24 +43,24 @@ Phrases:
 
 Mini-dictionary:
   Portuguese:
-    - sim: 是的
-    - boa tarde: 下午好
-    - de nada: 不客气
-    - obrigado: 谢谢
-    - desculpe: 对不起
-    - olá: 你好
-    - por favor: 请
-    - não: 不是
-    - tchau: 再见
     - bom dia: 早上好
+    - obrigado: 谢谢
+    - de nada: 不客气
+    - olá: 你好
+    - desculpe: 对不起
+    - tchau: 再见
+    - sim: 是的
+    - não: 不是
+    - por favor: 请
+    - boa tarde: 下午好
   Chinese:
-    - 下午好: boa tarde
-    - 对不起: desculpe
-    - 再见: tchau
-    - 早上好: bom dia
-    - 请: por favor
     - 不客气: de nada
-    - 不是: não
+    - 请: por favor
+    - 下午好: boa tarde
+    - 早上好: bom dia
     - 谢谢: obrigado
     - 你好: olá
     - 是的: sim
+    - 不是: não
+    - 对不起: desculpe
+    - 再见: tchau

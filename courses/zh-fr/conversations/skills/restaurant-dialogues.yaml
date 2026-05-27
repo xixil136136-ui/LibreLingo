@@ -22,8 +22,8 @@ New words:
     Translation: 美味
   - Word: recommendation
     Translation: 推荐
-  - Word: reservation
-    Translation: 预约
+  - Word: appetizer
+    Translation: 开胃菜
   - Word: waiter
     Translation: 服务员
   - Word: table for two
@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - recommendation: 推荐
-    - order: 点餐
-    - today's special: 今日特价
-    - menu: 菜单
-    - reservation: 预约
-    - table for two: 两人桌
-    - I would like: 我想要
     - bill: 账单
-    - delicious: 美味
     - waiter: 服务员
+    - I would like: 我想要
+    - menu: 菜单
+    - appetizer: 开胃菜
+    - recommendation: 推荐
+    - today's special: 今日特价
+    - order: 点餐
+    - table for two: 两人桌
+    - delicious: 美味
   Chinese:
-    - 菜单: menu
-    - 我想要: I would like
-    - 美味: delicious
-    - 点餐: order
     - 今日特价: today's special
-    - 推荐: recommendation
-    - 预约: reservation
-    - 两人桌: table for two
+    - 我想要: I would like
     - 账单: bill
+    - 推荐: recommendation
+    - 开胃菜: appetizer
+    - 两人桌: table for two
+    - 点餐: order
+    - 美味: delicious
+    - 菜单: menu
     - 服务员: waiter

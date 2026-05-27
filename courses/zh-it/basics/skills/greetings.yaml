@@ -43,24 +43,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - ciao: 你好/再见
     - no: 不是
+    - arrivederci: 再见（正式）
     - prego: 不客气
     - per favore: 请
-    - scusa: 对不起
-    - arrivederci: 再见（正式）
-    - buongiorno: 早上好
+    - ciao: 你好/再见
     - sì: 是的
+    - buongiorno: 早上好
+    - scusa: 对不起
     - buonasera: 晚上好
     - grazie: 谢谢
   Chinese:
-    - 不是: no
-    - 是的: sì
     - 谢谢: grazie
-    - 再见（正式）: arrivederci
-    - 早上好: buongiorno
-    - 你好/再见: ciao
     - 晚上好: buonasera
+    - 你好/再见: ciao
     - 对不起: scusa
     - 不客气: prego
+    - 不是: no
+    - 是的: sì
+    - 早上好: buongiorno
     - 请: per favore
+    - 再见（正式）: arrivederci

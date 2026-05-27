@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - weit: 远
-    - Karte: 地图
-    - dort: 那里
-    - nah: 附近
     - hier: 这里
+    - dort: 那里
+    - Karte: 地图
+    - Straße: 街道
     - links: 左边
+    - nah: 附近
     - geradeaus: 直走
+    - weit: 远
     - rechts: 右边
     - Weg: 路
-    - Straße: 街道
   Chinese:
+    - 远: weit
+    - 这里: hier
     - 附近: nah
+    - 右边: rechts
     - 左边: links
     - 直走: geradeaus
-    - 远: weit
-    - 那里: dort
-    - 右边: rechts
     - 地图: Karte
-    - 路: Weg
-    - 这里: hier
     - 街道: Straße
+    - 路: Weg
+    - 那里: dort

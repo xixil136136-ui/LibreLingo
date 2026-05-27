@@ -20,49 +20,49 @@ New words:
     Translation: 便宜的
   - Word: money
     Translation: 钱
-  - Word: discount
-    Translation: 折扣
-  - Word: size
-    Translation: 尺寸
-  - Word: color
-    Translation: 颜色
-  - Word: try on
-    Translation: 试穿
-  - Word: receipt
-    Translation: 收据
+  - Word: brand
+    Translation: 品牌
+  - Word: basket
+    Translation: 篮子
+  - Word: counter
+    Translation: 柜台
+  - Word: label
+    Translation: 标签
+  - Word: customer
+    Translation: 顾客
 
 Phrases:
   - Phrase: How much is this?
     Translation: 这个多少钱？
   - Phrase: It's too expensive.
     Translation: 太贵了。
-  - Phrase: Do you have a discount?
-    Translation: 有折扣吗？
-  - Phrase: Can I try this on?
-    Translation: 我能试穿这个吗？
+  - Phrase: This is a famous brand.
+    Translation: 这是一个著名品牌。
+  - Phrase: The customer is paying.
+    Translation: 顾客正在付款。
   - Phrase: I'll take it.
     Translation: 我买了。
 
 Mini-dictionary:
   English:
-    - receipt: 收据
-    - price: 价格
-    - discount: 折扣
-    - color: 颜色
-    - shop: 商店
-    - try on: 试穿
-    - expensive: 贵的
     - money: 钱
-    - size: 尺寸
+    - shop: 商店
+    - expensive: 贵的
+    - label: 标签
+    - customer: 顾客
+    - price: 价格
+    - basket: 篮子
     - cheap: 便宜的
+    - counter: 柜台
+    - brand: 品牌
   Chinese:
-    - 收据: receipt
     - 商店: shop
-    - 价格: price
-    - 折扣: discount
     - 贵的: expensive
-    - 尺寸: size
-    - 试穿: try on
-    - 颜色: color
+    - 顾客: customer
+    - 价格: price
+    - 柜台: counter
+    - 标签: label
     - 便宜的: cheap
     - 钱: money
+    - 篮子: basket
+    - 品牌: brand

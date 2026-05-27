@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - parapluie: 雨伞
-    - chaud: 热
-    - température: 温度
-    - vent: 风
     - neige: 雪
+    - vent: 风
     - nuage: 云
-    - ensoleillé: 晴天
-    - doux: 温暖
+    - chaud: 热
     - pluie: 雨
+    - température: 温度
+    - ensoleillé: 晴天
     - froid: 冷
+    - parapluie: 雨伞
+    - doux: 温暖
   Chinese:
-    - 雨伞: parapluie
     - 冷: froid
-    - 云: nuage
-    - 热: chaud
-    - 风: vent
-    - 温度: température
     - 雨: pluie
-    - 温暖: doux
     - 雪: neige
+    - 温度: température
+    - 云: nuage
+    - 风: vent
     - 晴天: ensoleillé
+    - 雨伞: parapluie
+    - 热: chaud
+    - 温暖: doux

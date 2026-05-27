@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - temprano: 早
-    - hoy: 今天
-    - ahora: 现在
-    - más tarde: 稍后
-    - mañana: 明天
-    - mañana: 早上
-    - tarde: 下午
-    - ayer: 昨天
     - noche: 夜晚
     - noche: 晚上
+    - temprano: 早
+    - tarde: 下午
+    - mañana: 明天
+    - mañana: 早上
+    - ayer: 昨天
+    - ahora: 现在
+    - hoy: 今天
+    - más tarde: 稍后
   Chinese:
-    - 昨天: ayer
-    - 明天: mañana
-    - 今天: hoy
-    - 下午: tarde
-    - 夜晚: noche
     - 现在: ahora
     - 早: temprano
+    - 夜晚: noche
     - 稍后: más tarde
-    - 晚上: noche
+    - 今天: hoy
+    - 下午: tarde
     - 早上: mañana
+    - 昨天: ayer
+    - 明天: mañana
+    - 晚上: noche

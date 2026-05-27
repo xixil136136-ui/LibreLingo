@@ -51,24 +51,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
+    - marca: 品牌
     - barato: 便宜的
     - dinero: 钱
-    - tienda: 商店
-    - marca: 品牌
-    - precio: 价格
-    - cerrado: 关门
-    - devolución: 退货
     - abierto: 营业
-    - caro: 贵的
+    - precio: 价格
     - calidad: 质量
+    - tienda: 商店
+    - devolución: 退货
+    - cerrado: 关门
+    - caro: 贵的
   Chinese:
-    - 贵的: caro
-    - 关门: cerrado
-    - 退货: devolución
-    - 品牌: marca
     - 营业: abierto
-    - 价格: precio
-    - 质量: calidad
+    - 品牌: marca
     - 商店: tienda
     - 钱: dinero
     - 便宜的: barato
+    - 退货: devolución
+    - 价格: precio
+    - 贵的: caro
+    - 质量: calidad
+    - 关门: cerrado

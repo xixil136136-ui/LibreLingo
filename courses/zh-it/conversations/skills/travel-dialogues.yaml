@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - il visto: 签证
-    - l'arrivo: 到达
     - il binario: 站台
-    - l'aeroporto: 机场
-    - la partenza: 出发
-    - andata e ritorno: 往返
-    - la dogana: 海关
-    - il biglietto: 票
-    - il passaporto: 护照
     - solo andata: 单程
+    - la dogana: 海关
+    - l'arrivo: 到达
+    - l'aeroporto: 机场
+    - il passaporto: 护照
+    - la partenza: 出发
+    - il biglietto: 票
+    - andata e ritorno: 往返
+    - il visto: 签证
   Chinese:
-    - 护照: il passaporto
-    - 站台: il binario
     - 单程: solo andata
-    - 到达: l'arrivo
     - 海关: la dogana
-    - 票: il biglietto
+    - 到达: l'arrivo
     - 出发: la partenza
-    - 签证: il visto
     - 往返: andata e ritorno
+    - 护照: il passaporto
     - 机场: l'aeroporto
+    - 签证: il visto
+    - 站台: il binario
+    - 票: il biglietto

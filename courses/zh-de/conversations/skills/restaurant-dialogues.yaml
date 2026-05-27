@@ -22,8 +22,8 @@ New words:
     Translation: 美味
   - Word: die Empfehlung
     Translation: 推荐
-  - Word: die Reservierung
-    Translation: 预约
+  - Word: appetizer
+    Translation: 开胃菜
   - Word: der Kellner
     Translation: 服务员
   - Word: ein Tisch für zwei
@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - die Rechnung: 账单
-    - der Kellner: 服务员
+    - die Speisekarte: 菜单
     - ein Tisch für zwei: 两人桌
+    - bestellen: 点餐
+    - der Kellner: 服务员
     - das Tagesgericht: 今日特价
-    - die Reservierung: 预约
+    - die Rechnung: 账单
+    - Ich möchte: 我想要
+    - appetizer: 开胃菜
     - köstlich: 美味
     - die Empfehlung: 推荐
-    - Ich möchte: 我想要
-    - bestellen: 点餐
-    - die Speisekarte: 菜单
   Chinese:
-    - 预约: die Reservierung
-    - 推荐: die Empfehlung
-    - 服务员: der Kellner
-    - 点餐: bestellen
-    - 账单: die Rechnung
-    - 两人桌: ein Tisch für zwei
-    - 我想要: Ich möchte
-    - 菜单: die Speisekarte
     - 美味: köstlich
+    - 开胃菜: appetizer
     - 今日特价: das Tagesgericht
+    - 我想要: Ich möchte
+    - 点餐: bestellen
+    - 推荐: die Empfehlung
+    - 菜单: die Speisekarte
+    - 账单: die Rechnung
+    - 服务员: der Kellner
+    - 两人桌: ein Tisch für zwei

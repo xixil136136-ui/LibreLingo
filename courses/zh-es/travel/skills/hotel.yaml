@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
+    - toalla: 毛巾
+    - almohada: 枕头
+    - cama: 床
+    - habitación: 房间
+    - piso: 楼层
     - ducha: 淋浴
     - huésped: 客人
-    - habitación: 房间
     - recepción: 前台
-    - almohada: 枕头
-    - manta: 毯子
-    - cama: 床
-    - piso: 楼层
-    - toalla: 毛巾
     - baño: 浴室
+    - manta: 毯子
   Chinese:
-    - 浴室: baño
-    - 前台: recepción
-    - 楼层: piso
-    - 枕头: almohada
-    - 毯子: manta
-    - 床: cama
+    - 毛巾: toalla
+    - 客人: huésped
     - 淋浴: ducha
     - 房间: habitación
-    - 客人: huésped
-    - 毛巾: toalla
+    - 床: cama
+    - 前台: recepción
+    - 枕头: almohada
+    - 楼层: piso
+    - 毯子: manta
+    - 浴室: baño

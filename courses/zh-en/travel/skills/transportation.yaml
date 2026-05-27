@@ -10,8 +10,8 @@ Skill:
 
 
 New words:
-  - Word: airport
-    Translation: 机场
+  - Word: bicycle
+    Translation: 自行车
   - Word: train
     Translation: 火车
   - Word: bus
@@ -20,49 +20,49 @@ New words:
     Translation: 出租车
   - Word: subway
     Translation: 地铁
-  - Word: ticket
-    Translation: 票
-  - Word: passport
-    Translation: 护照
+  - Word: motorcycle
+    Translation: 摩托车
+  - Word: helicopter
+    Translation: 直升机
   - Word: hotel
     Translation: 酒店
   - Word: luggage
     Translation: 行李
-  - Word: platform
-    Translation: 站台
+  - Word: ferry
+    Translation: 渡轮
 
 Phrases:
-  - Phrase: Where is the airport?
-    Translation: 机场在哪里？
+  - Phrase: I ride a bicycle.
+    Translation: 我骑自行车。
   - Phrase: I need a taxi.
     Translation: 我需要一辆出租车。
-  - Phrase: How much is the ticket?
-    Translation: 这张票多少钱？
+  - Phrase: Let's take the subway.
+    Translation: 我们坐地铁吧。
   - Phrase: The train is late.
     Translation: 火车晚点了。
-  - Phrase: I have a reservation.
-    Translation: 我有预约。
+  - Phrase: How much is the ferry?
+    Translation: 渡轮多少钱？
 
 Mini-dictionary:
   English:
-    - ticket: 票
-    - taxi: 出租车
-    - bus: 公共汽车
-    - passport: 护照
-    - airport: 机场
-    - platform: 站台
-    - train: 火车
+    - helicopter: 直升机
     - subway: 地铁
     - luggage: 行李
+    - train: 火车
+    - motorcycle: 摩托车
+    - taxi: 出租车
     - hotel: 酒店
+    - bicycle: 自行车
+    - bus: 公共汽车
+    - ferry: 渡轮
   Chinese:
-    - 护照: passport
-    - 火车: train
-    - 站台: platform
-    - 机场: airport
-    - 酒店: hotel
-    - 公共汽车: bus
-    - 票: ticket
     - 地铁: subway
+    - 自行车: bicycle
     - 行李: luggage
+    - 直升机: helicopter
     - 出租车: taxi
+    - 摩托车: motorcycle
+    - 火车: train
+    - 酒店: hotel
+    - 渡轮: ferry
+    - 公共汽车: bus

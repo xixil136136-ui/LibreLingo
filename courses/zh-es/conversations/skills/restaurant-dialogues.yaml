@@ -22,8 +22,8 @@ New words:
     Translation: 美味
   - Word: la recomendación
     Translation: 推荐
-  - Word: la reserva
-    Translation: 预约
+  - Word: appetizer
+    Translation: 开胃菜
   - Word: el camarero
     Translation: 服务员
   - Word: una mesa para dos
@@ -55,24 +55,24 @@ Phrases:
 
 Mini-dictionary:
   Spanish:
-    - pedir: 点餐
-    - Quisiera: 我想要
-    - una mesa para dos: 两人桌
     - el plato del día: 今日特价
-    - la cuenta: 账单
-    - la reserva: 预约
     - el menú: 菜单
     - el camarero: 服务员
-    - la recomendación: 推荐
+    - una mesa para dos: 两人桌
+    - Quisiera: 我想要
+    - appetizer: 开胃菜
     - delicioso: 美味
+    - pedir: 点餐
+    - la recomendación: 推荐
+    - la cuenta: 账单
   Chinese:
     - 两人桌: una mesa para dos
+    - 今日特价: el plato del día
+    - 开胃菜: appetizer
+    - 美味: delicioso
+    - 服务员: el camarero
     - 点餐: pedir
-    - 账单: la cuenta
+    - 菜单: el menú
     - 我想要: Quisiera
     - 推荐: la recomendación
-    - 服务员: el camarero
-    - 今日特价: el plato del día
-    - 美味: delicioso
-    - 预约: la reserva
-    - 菜单: el menú
+    - 账单: la cuenta

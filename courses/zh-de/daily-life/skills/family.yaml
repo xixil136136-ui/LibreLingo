@@ -49,24 +49,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - Schwester: 姐妹
-    - Bruder: 兄弟
-    - Frau: 妻子
     - Tochter: 女儿
-    - Mutter: 母亲
+    - Sohn: 儿子
     - Vater: 父亲
+    - Frau: 妻子
+    - Mutter: 母亲
+    - Bruder: 兄弟
+    - Schwester: 姐妹
+    - Mann: 丈夫
     - Kind: 孩子
     - Freund: 朋友
-    - Sohn: 儿子
-    - Mann: 丈夫
   Chinese:
-    - 丈夫: Mann
-    - 儿子: Sohn
-    - 朋友: Freund
-    - 孩子: Kind
-    - 兄弟: Bruder
-    - 姐妹: Schwester
     - 父亲: Vater
-    - 母亲: Mutter
-    - 妻子: Frau
+    - 孩子: Kind
+    - 朋友: Freund
     - 女儿: Tochter
+    - 母亲: Mutter
+    - 姐妹: Schwester
+    - 兄弟: Bruder
+    - 儿子: Sohn
+    - 妻子: Frau
+    - 丈夫: Mann

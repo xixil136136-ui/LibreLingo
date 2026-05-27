@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   German:
-    - später: 稍后
     - Abend: 晚上
-    - heute: 今天
-    - morgen: 明天
     - gestern: 昨天
+    - heute: 今天
+    - später: 稍后
     - jetzt: 现在
-    - Nachmittag: 下午
+    - Morgen: 早上
+    - morgen: 明天
     - früh: 早
     - Nacht: 夜晚
-    - Morgen: 早上
+    - Nachmittag: 下午
   Chinese:
+    - 早: früh
+    - 昨天: gestern
+    - 稍后: später
+    - 早上: Morgen
+    - 今天: heute
+    - 夜晚: Nacht
+    - 现在: jetzt
     - 晚上: Abend
     - 下午: Nachmittag
-    - 早上: Morgen
-    - 稍后: später
-    - 早: früh
-    - 今天: heute
-    - 现在: jetzt
-    - 夜晚: Nacht
-    - 昨天: gestern
     - 明天: morgen

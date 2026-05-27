@@ -50,23 +50,23 @@ Phrases:
 Mini-dictionary:
   German:
     - Fieber: 发烧
-    - Krankenhaus: 医院
-    - Kopfschmerzen: 头痛
-    - Ruhe: 休息
-    - Medizin: 药
-    - Apotheke: 药店
     - Bauchschmerzen: 肚子痛
-    - Husten: 咳嗽
     - Schmerz: 疼痛
+    - Ruhe: 休息
+    - Apotheke: 药店
+    - Medizin: 药
+    - Krankenhaus: 医院
     - Arzt: 医生
+    - Husten: 咳嗽
+    - Kopfschmerzen: 头痛
   Chinese:
-    - 医生: Arzt
-    - 药店: Apotheke
-    - 药: Medizin
-    - 咳嗽: Husten
     - 头痛: Kopfschmerzen
-    - 医院: Krankenhaus
-    - 疼痛: Schmerz
+    - 咳嗽: Husten
+    - 药店: Apotheke
     - 肚子痛: Bauchschmerzen
     - 休息: Ruhe
+    - 药: Medizin
+    - 疼痛: Schmerz
     - 发烧: Fieber
+    - 医生: Arzt
+    - 医院: Krankenhaus

@@ -43,24 +43,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - thank you: 谢谢
-    - you're welcome: 不客气
-    - hello: 你好
-    - how are you: 你好吗
     - I'm fine: 我很好
-    - sorry: 对不起
-    - good morning: 早上好
-    - please: 请
     - goodbye: 再见
+    - hello: 你好
+    - sorry: 对不起
+    - thank you: 谢谢
+    - good morning: 早上好
+    - how are you: 你好吗
+    - please: 请
     - good evening: 晚上好
+    - you're welcome: 不客气
   Chinese:
-    - 请: please
-    - 你好: hello
     - 你好吗: how are you
+    - 再见: goodbye
+    - 你好: hello
     - 谢谢: thank you
     - 早上好: good morning
-    - 再见: goodbye
-    - 晚上好: good evening
-    - 不客气: you're welcome
     - 对不起: sorry
+    - 晚上好: good evening
     - 我很好: I'm fine
+    - 不客气: you're welcome
+    - 请: please

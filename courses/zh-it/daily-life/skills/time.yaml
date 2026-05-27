@@ -47,24 +47,24 @@ Phrases:
 
 Mini-dictionary:
   Italian:
-    - ieri: 昨天
-    - oggi: 今天
-    - mattina: 早上
-    - pomeriggio: 下午
-    - più tardi: 稍后
     - notte: 夜晚
-    - adesso: 现在
+    - oggi: 今天
+    - più tardi: 稍后
+    - mattina: 早上
+    - ieri: 昨天
     - sera: 晚上
+    - adesso: 现在
+    - pomeriggio: 下午
     - presto: 早
     - domani: 明天
   Chinese:
-    - 夜晚: notte
     - 稍后: più tardi
-    - 现在: adesso
-    - 早上: mattina
-    - 昨天: ieri
-    - 明天: domani
-    - 下午: pomeriggio
-    - 早: presto
-    - 晚上: sera
+    - 夜晚: notte
     - 今天: oggi
+    - 晚上: sera
+    - 早上: mattina
+    - 明天: domani
+    - 现在: adesso
+    - 昨天: ieri
+    - 早: presto
+    - 下午: pomeriggio

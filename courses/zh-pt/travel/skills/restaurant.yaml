@@ -48,23 +48,23 @@ Phrases:
 Mini-dictionary:
   Portuguese:
     - garrafa: 瓶子
-    - pimenta: 胡椒
-    - sal: 盐
-    - comida: 食物
-    - bebida: 饮料
-    - prato principal: 主菜
     - sobremesa: 甜点
-    - restaurante: 餐厅
+    - bebida: 饮料
+    - comida: 食物
+    - sal: 盐
+    - prato principal: 主菜
     - copo: 玻璃杯
+    - restaurante: 餐厅
     - guardanapo: 餐巾
+    - pimenta: 胡椒
   Chinese:
+    - 食物: comida
+    - 甜点: sobremesa
+    - 餐厅: restaurante
+    - 饮料: bebida
+    - 餐巾: guardanapo
     - 胡椒: pimenta
     - 瓶子: garrafa
     - 玻璃杯: copo
-    - 餐厅: restaurante
-    - 主菜: prato principal
-    - 饮料: bebida
     - 盐: sal
-    - 食物: comida
-    - 餐巾: guardanapo
-    - 甜点: sobremesa
+    - 主菜: prato principal
