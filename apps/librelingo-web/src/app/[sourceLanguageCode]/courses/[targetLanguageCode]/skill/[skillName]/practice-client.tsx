@@ -34,19 +34,21 @@ const SPEECH_LANG_MAP: Record<string, string> = {
 }
 
 // Prioritized voice name patterns for natural-sounding voices, per language
-// Google voices (Chrome/Edge) are typically the most natural.
-// Apple voices (Safari) are second best.
+// On macOS: Samantha/Karen (neural, en), Thomas/Amélie (fr), Anna (de) are premium macOS voices.
+// On Chrome: Google Wavenet/Neural2 voices are best.
+// On Windows: Microsoft neural voices are best.
+// Priority order: macOS Premium > Google Neural > Microsoft Neural > fallback
 const VOICE_PREFERENCES: Record<string, string[]> = {
-    en: ['Google US English', 'Google UK English Female', 'Google UK English Male', 'Microsoft David', 'Microsoft Zira', 'Samantha', 'Alex', 'Karen', 'Daniel'],
-    ja: ['Google 日本語', 'Google 日本', 'Kyoko', 'Otoya', 'Hattori'],
-    ko: ['Google 한국의', 'Google 한국', 'Yuna', 'Narae'],
-    fr: ['Google Français', 'Google France', 'Thomas', 'Amélie', 'Virginie'],
-    de: ['Google Deutsch', 'Google Germany', 'Anna', 'Markus'],
-    es: ['Google Español', 'Google Spain', 'Monica', 'Jorge', 'Diego'],
-    it: ['Google Italiano', 'Google Italy', 'Alice', 'Federica', 'Luca'],
-    pt: ['Google Português', 'Google Brazil', 'Luciana', 'Felipe'],
-    ru: ['Google русский', 'Google Russia', 'Milena', 'Dmitri'],
-    th: ['Google ไทย', 'Google Thailand', 'Kanya', 'Somsak'],
+    en: ['Samantha', 'Karen', 'Daniel', 'Google US English', 'Google UK English Female', 'Google UK English Male', 'Microsoft David', 'Microsoft Zira', 'Alex'],
+    ja: ['Kyoko', 'Otoya', 'Google 日本語', 'Google 日本', 'Hattori'],
+    ko: ['Yuna', 'Narae', 'Google 한국의', 'Google 한국'],
+    fr: ['Thomas', 'Amélie', 'Virginie', 'Google Français', 'Google France'],
+    de: ['Anna', 'Markus', 'Google Deutsch', 'Google Germany'],
+    es: ['Monica', 'Jorge', 'Diego', 'Google Español', 'Google Spain'],
+    it: ['Alice', 'Federica', 'Luca', 'Google Italiano', 'Google Italy'],
+    pt: ['Luciana', 'Felipe', 'Google Português', 'Google Brazil'],
+    ru: ['Milena', 'Dmitri', 'Google русский', 'Google Russia'],
+    th: ['Kanya', 'Somsak', 'Google ไทย', 'Google Thailand'],
 }
 
 let cachedVoices: SpeechSynthesisVoice[] | null = null
@@ -110,14 +112,24 @@ function speak(text: string, langCode: string) {
     window.speechSynthesis.cancel()
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = SPEECH_LANG_MAP[langCode] || langCode
-    utterance.rate = 0.85
+    // Natural speech: slightly slow rate, natural pitch with subtle variation
+    utterance.rate = 0.82
     utterance.pitch = 1
+    utterance.volume = 1
     loadVoices().then((voices) => {
         const best = pickBestVoice(langCode, voices)
         if (best) {
             utterance.voice = best
+            console.log(`[TTS] Selected voice: ${best.name} (${best.lang})`)
+        } else {
+            console.warn(`[TTS] No matching voice found for ${langCode}, using default`)
         }
-        window.speechSynthesis.speak(utterance)
+        // Prevent iOS Safari cutoff: speak in a rAF
+        if (typeof requestAnimationFrame === 'undefined') {
+            window.speechSynthesis.speak(utterance)
+        } else {
+            requestAnimationFrame(() => window.speechSynthesis.speak(utterance))
+        }
     }).catch(() => {
         window.speechSynthesis.speak(utterance)
     })
