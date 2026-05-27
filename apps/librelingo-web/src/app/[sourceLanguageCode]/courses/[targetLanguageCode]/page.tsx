@@ -1,5 +1,6 @@
 import { getCourseDetail, getCourseId, listAvailableCourses } from '@/data/course'
 import ModuleCard from '../../../module-card'
+import { getLanguageLabel } from '@/app/language-labels'
 
 export async function generateStaticParams() {
     const courses = await listAvailableCourses()
@@ -20,11 +21,12 @@ type Props = {
 export default async function CourseHomePage({ params }: Props) {
     const courseId = await getCourseId(params)
     const detail = await getCourseDetail(courseId)
+    const languageLabel = getLanguageLabel(params.targetLanguageCode)
 
     return (
         <div className="container mx-auto p-6">
             <h1 className="text-3xl font-bold mb-8">
-                {detail.targetLanguage.name}
+                {languageLabel}
             </h1>
             {detail.modules && detail.modules.length > 0 ? (
                 <div>
@@ -39,7 +41,7 @@ export default async function CourseHomePage({ params }: Props) {
                 </div>
             ) : (
                 <p className="text-muted-foreground">
-                    No modules available for this course.
+                    此课程暂无模块
                 </p>
             )}
         </div>

@@ -15,8 +15,6 @@ type Challenge = {
 
 type Props = {
     challenges: Challenge[]
-    sourceCode: string
-    targetCode: string
 }
 
 export default function PracticeClient(props: Props) {
@@ -49,10 +47,6 @@ export default function PracticeClient(props: Props) {
         })
     }
 
-    const isOptions = challenges.every((c) => c.type === 'options' && c.formInTargetLanguage && c.meaningInSourceLanguage)
-    const isListening = challenges.every((c) => c.type === 'listeningExercise' && c.answer)
-
-    // Group challenges
     const pairs: Array<{ foreign: string; native: string; id: string }> = []
     for (const c of challenges) {
         if (c.type === 'options' && c.formInTargetLanguage && c.meaningInSourceLanguage) {
@@ -80,21 +74,21 @@ export default function PracticeClient(props: Props) {
                     onClick={() => setShowAll(!showAll)}
                     className="px-4 py-2 text-sm rounded-md border border-border hover:bg-accent transition"
                 >
-                    {showAll ? 'Hide All Translations' : 'Show All Translations'}
+                    {showAll ? '隐藏全部翻译' : '显示全部翻译'}
                 </button>
                 <button
                     onClick={() => setShowNativeFirst(!showNativeFirst)}
                     className="px-4 py-2 text-sm rounded-md border border-border hover:bg-accent transition"
                 >
-                    {showNativeFirst ? 'Show Foreign First' : 'Show Native First'}
+                    {showNativeFirst ? '先显示外语' : '先显示中文'}
                 </button>
             </div>
 
             {/* Progress bar */}
             <div className="mb-6">
                 <div className="flex justify-between text-sm mb-1">
-                    <span>Progress</span>
-                    <span>{knownIds.size} / {pairs.length} learned</span>
+                    <span>学习进度</span>
+                    <span>已学 {knownIds.size} / {pairs.length}</span>
                 </div>
                 <div className="h-2 bg-secondary rounded-full overflow-hidden">
                     <div
@@ -136,7 +130,7 @@ export default function PracticeClient(props: Props) {
                                             onClick={() => toggleReveal(pair.id)}
                                             className="text-sm text-blue-500 hover:underline"
                                         >
-                                            Tap to reveal translation
+                                            点击显示翻译
                                         </button>
                                     )}
                                 </div>
@@ -144,9 +138,8 @@ export default function PracticeClient(props: Props) {
                                     <button
                                         onClick={() => toggleReveal(pair.id)}
                                         className="px-3 py-1 text-xs rounded-md border border-border hover:bg-accent transition"
-                                        title="Toggle translation"
                                     >
-                                        {isRevealed ? 'Hide' : 'Show'}
+                                        {isRevealed ? '隐藏' : '显示'}
                                     </button>
                                     <button
                                         onClick={() => toggleKnown(pair.id)}
@@ -155,9 +148,8 @@ export default function PracticeClient(props: Props) {
                                                 ? 'bg-green-500 text-white border-green-500'
                                                 : 'border-border hover:bg-accent'
                                         }`}
-                                        title={isKnown ? 'Mark as not learned' : 'Mark as learned'}
                                     >
-                                        {isKnown ? 'Learned' : 'Mark'}
+                                        {isKnown ? '已掌握' : '标记已学'}
                                     </button>
                                 </div>
                             </div>
@@ -169,7 +161,7 @@ export default function PracticeClient(props: Props) {
             {/* Empty state */}
             {pairs.length === 0 && (
                 <p className="text-center text-muted-foreground py-12">
-                    No challenges available for this skill.
+                    暂无练习内容
                 </p>
             )}
         </div>

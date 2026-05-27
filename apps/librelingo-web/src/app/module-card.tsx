@@ -7,6 +7,7 @@ import {
 import { Button } from '@/components/ui/button'
 import { ModuleSummary } from '@/data/course'
 import Link from 'next/link'
+import { getModuleLabel, getSkillLabel } from './language-labels'
 
 type Props = {
     module: ModuleSummary
@@ -16,33 +17,26 @@ type Props = {
 
 export default function ModuleCard(props: Props) {
     const { module: module_, sourceCode, targetCode } = props
+    const moduleTitle = getModuleLabel(module_.title)
 
     return (
         <Card className="mb-6">
             <CardHeader>
-                <CardTitle className="text-xl">{module_.title}</CardTitle>
+                <CardTitle className="text-xl">{moduleTitle}</CardTitle>
             </CardHeader>
             <CardContent>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                    {module_.skills.map((skill) => (
-                        <Button
-                            key={skill.id}
-                            variant="outline"
-                            asChild
-                            className="h-auto py-4 px-4 justify-start flex-col items-start gap-1"
+                <div className="flex flex-col gap-2">
+                    {module_.skills.map((skill, index) => (
+                        <Link
+                            key={index}
+                            href={`/${sourceCode}/courses/${targetCode}/skill/${skill.practiceHref}`}
+                            className="flex justify-between items-center p-3 rounded-md border border-border hover:bg-accent transition"
                         >
-                            <Link
-                                href={`/${sourceCode}/courses/${targetCode}/skill/${skill.practiceHref}`}
-                            >
-                                <span className="font-medium text-sm">
-                                    {skill.title}
-                                </span>
-                                <span className="text-xs text-muted-foreground">
-                                    {skill.summary.length} phrases &middot;{' '}
-                                    {skill.levels} levels
-                                </span>
-                            </Link>
-                        </Button>
+                            <span className="font-medium">{getSkillLabel(skill.practiceHref)}</span>
+                            <span className="text-sm text-muted-foreground">
+                                {skill.summary.length} 个短语 · {skill.levels} 个等级
+                            </span>
+                        </Link>
                     ))}
                 </div>
             </CardContent>

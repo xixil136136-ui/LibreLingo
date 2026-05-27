@@ -3,6 +3,7 @@ import fs from 'node:fs'
 import { notFound } from 'next/navigation'
 import { listAvailableCourses } from '@/data/course'
 import PracticeClient from './practice-client'
+import { getLanguageLabel, getSkillLabel } from '@/app/language-labels'
 
 type Props = {
     params: {
@@ -93,24 +94,24 @@ export default async function SkillPracticePage(props: Props) {
     }
 
     const challenges = data.challenges || []
+    const targetLabel = getLanguageLabel(targetLanguageCode)
+    const skillLabel = getSkillLabel(skillName)
 
     return (
         <div className="container mx-auto p-6">
-            <h1 className="text-3xl font-bold mb-2 capitalize">{skillName.replaceAll('-', ' ')}</h1>
+            <h1 className="text-3xl font-bold mb-2">{skillLabel}</h1>
             <p className="text-muted-foreground mb-8">
-                {challenges.length} challenges &middot; {data.levels} levels
+                {targetLabel} · {challenges.length} 个练习 · {data.levels} 个等级
             </p>
             <PracticeClient
                 challenges={challenges}
-                sourceCode={sourceLanguageCode}
-                targetCode={targetLanguageCode}
             />
             <div className="mt-8">
                 <a
                     href={`/${sourceLanguageCode}/courses/${targetLanguageCode}`}
                     className="text-sm text-muted-foreground hover:underline"
                 >
-                    &larr; Back to course
+                    &larr; 返回课程
                 </a>
             </div>
         </div>
