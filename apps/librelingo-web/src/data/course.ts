@@ -84,12 +84,48 @@ export async function getCourseId(
     return course.id
 }
 
+export type SkillSummary = {
+    title: string
+    practiceHref: string
+    summary: string[]
+    levels: number
+    id: string
+}
+
+export type ModuleSummary = {
+    title: string
+    skills: SkillSummary[]
+}
+
 export async function getCourseDetail(courseId: string) {
-    const { languageName } = await getCourseMetadataByJsonPath(courseId)
+    const data = await getCourseMetadataByJsonPath(courseId)
+    const { languageName, modules } = data
+
+    const moduleList: ModuleSummary[] = (modules || []).map(
+        (module_: { title: string; skills: any[] }) => ({
+            title: module_.title,
+            skills: (module_.skills || []).map(
+                (skill: {
+                    title: string
+                    practiceHref: string
+                    summary: string[]
+                    levels: number
+                    id: string
+                }) => ({
+                    title: skill.title || skill.practiceHref || 'Skill',
+                    practiceHref: skill.practiceHref || '',
+                    summary: skill.summary || [],
+                    levels: skill.levels || 1,
+                    id: skill.id || '',
+                })
+            ),
+        })
+    )
 
     return {
         targetLanguage: {
             name: languageName,
         },
+        modules: moduleList,
     }
 }
