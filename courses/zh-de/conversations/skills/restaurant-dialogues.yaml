@@ -1,0 +1,78 @@
+Skill:
+  Name: Restaurant Dialogues
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Ich möchte
+    Translation: 我想要
+  - Word: die Speisekarte
+    Translation: 菜单
+  - Word: bestellen
+    Translation: 点餐
+  - Word: die Rechnung
+    Translation: 账单
+  - Word: köstlich
+    Translation: 美味
+  - Word: die Empfehlung
+    Translation: 推荐
+  - Word: die Reservierung
+    Translation: 预约
+  - Word: der Kellner
+    Translation: 服务员
+  - Word: ein Tisch für zwei
+    Translation: 两人桌
+  - Word: das Tagesgericht
+    Translation: 今日特价
+
+Phrases:
+  - Phrase: Ich möchte eine Reservierung vornehmen.
+    Translation: 我想预约。
+  - Phrase: Einen Tisch für zwei, bitte.
+    Translation: 请给我一个两人桌。
+  - Phrase: Kann ich die Speisekarte sehen?
+    Translation: 我能看看菜单吗？
+  - Phrase: Was empfehlen Sie?
+    Translation: 你推荐什么？
+  - Phrase: Ich nehme das Steak.
+    Translation: 我要牛排。
+  - Phrase: Kann ich bitte die Rechnung haben?
+    Translation: 请给我账单。
+  - Phrase: Das Essen ist köstlich!
+    Translation: 食物太好吃了！
+  - Phrase: Kann ich etwas Wasser haben?
+    Translation: 能给我一些水吗？
+  - Phrase: Ist die Bedienung inklusive?
+    Translation: 服务费包含在内吗？
+  - Phrase: Ich bin allergisch gegen Erdnüsse.
+    Translation: 我对花生过敏。
+
+Mini-dictionary:
+  German:
+    - die Empfehlung: 推荐
+    - köstlich: 美味
+    - der Kellner: 服务员
+    - Ich möchte: 我想要
+    - die Rechnung: 账单
+    - bestellen: 点餐
+    - die Speisekarte: 菜单
+    - ein Tisch für zwei: 两人桌
+    - das Tagesgericht: 今日特价
+    - die Reservierung: 预约
+  Chinese:
+    - 账单: die Rechnung
+    - 预约: die Reservierung
+    - 两人桌: ein Tisch für zwei
+    - 点餐: bestellen
+    - 今日特价: das Tagesgericht
+    - 美味: köstlich
+    - 我想要: Ich möchte
+    - 菜单: die Speisekarte
+    - 服务员: der Kellner
+    - 推荐: die Empfehlung

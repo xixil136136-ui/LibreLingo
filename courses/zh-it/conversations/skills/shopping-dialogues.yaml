@@ -1,0 +1,78 @@
+Skill:
+  Name: Shopping Dialogues
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Quanto
+    Translation: 多少钱
+  - Word: lo sconto
+    Translation: 折扣
+  - Word: la carta di credito
+    Translation: 信用卡
+  - Word: il contante
+    Translation: 现金
+  - Word: la taglia
+    Translation: 尺寸
+  - Word: il colore
+    Translation: 颜色
+  - Word: provare
+    Translation: 试穿
+  - Word: lo scontrino
+    Translation: 收据
+  - Word: troppo caro
+    Translation: 太贵
+  - Word: cambiare
+    Translation: 换货
+
+Phrases:
+  - Phrase: Quanto costa questo?
+    Translation: 这个多少钱？
+  - Phrase: Posso provarlo?
+    Translation: 我能试穿这个吗？
+  - Phrase: Ce l'ha in un altro colore?
+    Translation: 有别的颜色吗？
+  - Phrase: È troppo caro. C'è uno sconto?
+    Translation: 太贵了。有折扣吗？
+  - Phrase: Lo prendo. Posso pagare con la carta?
+    Translation: 我买了。能用卡支付吗？
+  - Phrase: Lo scontrino, per favore.
+    Translation: 请给我收据。
+  - Phrase: Vorrei cambiare questo.
+    Translation: 我想换这个。
+  - Phrase: Ha una taglia più piccola?
+    Translation: 有小一点的尺寸吗？
+  - Phrase: Ci sono i saldi?
+    Translation: 有打折活动吗？
+  - Phrase: Sto solo guardando, grazie.
+    Translation: 我就看看，谢谢。
+
+Mini-dictionary:
+  Italian:
+    - provare: 试穿
+    - lo sconto: 折扣
+    - lo scontrino: 收据
+    - cambiare: 换货
+    - troppo caro: 太贵
+    - la taglia: 尺寸
+    - la carta di credito: 信用卡
+    - Quanto: 多少钱
+    - il contante: 现金
+    - il colore: 颜色
+  Chinese:
+    - 颜色: il colore
+    - 尺寸: la taglia
+    - 换货: cambiare
+    - 试穿: provare
+    - 折扣: lo sconto
+    - 信用卡: la carta di credito
+    - 多少钱: Quanto
+    - 收据: lo scontrino
+    - 现金: il contante
+    - 太贵: troppo caro

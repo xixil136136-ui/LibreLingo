@@ -1,0 +1,78 @@
+Skill:
+  Name: Travel Dialogues
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: аэропорт
+    Translation: 机场
+  - Word: билет
+    Translation: 票
+  - Word: платформа
+    Translation: 站台
+  - Word: отправление
+    Translation: 出发
+  - Word: прибытие
+    Translation: 到达
+  - Word: в один конец
+    Translation: 单程
+  - Word: туда и обратно
+    Translation: 往返
+  - Word: паспорт
+    Translation: 护照
+  - Word: виза
+    Translation: 签证
+  - Word: таможня
+    Translation: 海关
+
+Phrases:
+  - Phrase: Где находится аэропорт?
+    Translation: 机场在哪里？
+  - Phrase: I need a ticket to Berlin.
+    Translation: 我需要一张去柏林的票。
+  - Phrase: В один конец или туда и обратно?
+    Translation: 单程还是往返？
+  - Phrase: С какой платформы отправляется поезд?
+    Translation: 火车从哪个站台出发？
+  - Phrase: Во сколько следующий автобус?
+    Translation: 下一班车几点？
+  - Phrase: Это место занято?
+    Translation: 这个座位有人吗？
+  - Phrase: Ваш паспорт, пожалуйста.
+    Translation: 请出示您的护照。
+  - Phrase: У меня нет ничего для декларации.
+    Translation: 我没有需要申报的物品。
+  - Phrase: Сколько длится поездка?
+    Translation: 旅途有多久？
+  - Phrase: Высадите меня на следующей остановке, пожалуйста.
+    Translation: 请在下一站让我下车。
+
+Mini-dictionary:
+  Russian:
+    - паспорт: 护照
+    - прибытие: 到达
+    - таможня: 海关
+    - в один конец: 单程
+    - платформа: 站台
+    - виза: 签证
+    - аэропорт: 机场
+    - туда и обратно: 往返
+    - билет: 票
+    - отправление: 出发
+  Chinese:
+    - 机场: аэропорт
+    - 站台: платформа
+    - 单程: в один конец
+    - 海关: таможня
+    - 签证: виза
+    - 票: билет
+    - 护照: паспорт
+    - 往返: туда и обратно
+    - 到达: прибытие
+    - 出发: отправление

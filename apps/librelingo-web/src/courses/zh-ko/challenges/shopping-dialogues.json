@@ -1,0 +1,516 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much does this cost?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "ed7f66ac0462",
+      "priority": 0,
+      "group": "284e9288f5c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much does this cost?",
+      "meaning": "这个多少钱？",
+      "audio": "a82322427d099044f7f40125b79289ad895934c6e226e4438c55940a3dbc2f83",
+      "id": "5ff23e8bc731",
+      "priority": 1,
+      "group": "284e9288f5c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I try this on?",
+      "meaningInSourceLanguage": "我能试穿这个吗？",
+      "id": "73dab9ae4fde",
+      "priority": 0,
+      "group": "83703cad396e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I try this on?",
+      "meaning": "我能试穿这个吗？",
+      "audio": "ae3a15f549f0182b6f2ab3c5c590215775bccc946b04c18118a1df07b8ff8253",
+      "id": "2aac52ec59bc",
+      "priority": 1,
+      "group": "83703cad396e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have this in a different color?",
+      "meaningInSourceLanguage": "有别的颜色吗？",
+      "id": "d0fdc3904ad9",
+      "priority": 0,
+      "group": "ad486176481d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have this in a different color?",
+      "meaning": "有别的颜色吗？",
+      "audio": "ef938e6d6db3c55d0e50ca1bf28ff711e5f54de0129aa79591ef52d1c19b6a13",
+      "id": "5e6efedd3538",
+      "priority": 1,
+      "group": "ad486176481d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "It's too expensive. Is there a discount?",
+      "meaningInSourceLanguage": "太贵了。有折扣吗？",
+      "id": "d6dfbfdb4aac",
+      "priority": 0,
+      "group": "ee11bfe9ea10"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "It's too expensive. Is there a discount?",
+      "meaning": "太贵了。有折扣吗？",
+      "audio": "7af4b9aa72b7a814c7e8f7959535d544f790829cdf91a2006caebbba318d72d2",
+      "id": "38d4dc7a8e4b",
+      "priority": 1,
+      "group": "ee11bfe9ea10"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll take it. Can I pay by card?",
+      "meaningInSourceLanguage": "我买了。能用卡支付吗？",
+      "id": "35753356b989",
+      "priority": 0,
+      "group": "f86146d9273b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll take it. Can I pay by card?",
+      "meaning": "我买了。能用卡支付吗？",
+      "audio": "805db5ad0e3f3adc12772587514fe5d60e197ae4ebd711bbb700e79d872dd0f5",
+      "id": "496075a1a47f",
+      "priority": 1,
+      "group": "f86146d9273b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I have a receipt, please?",
+      "meaningInSourceLanguage": "请给我收据。",
+      "id": "69eb8e0ccf8d",
+      "priority": 0,
+      "group": "013d83c3cc57"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I have a receipt, please?",
+      "meaning": "请给我收据。",
+      "audio": "b9e7a48574def4f4b0a68c6384b29a85ecfdcce067920fd205d7a4499fb1d629",
+      "id": "0466dcbd272c",
+      "priority": 1,
+      "group": "013d83c3cc57"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to exchange this.",
+      "meaningInSourceLanguage": "我想换这个。",
+      "id": "b069c103b467",
+      "priority": 0,
+      "group": "c4f61560d432"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to exchange this.",
+      "meaning": "我想换这个。",
+      "audio": "5b79159e8662e1537e149b8786ed35360cc1df2638b1826b8a63c2861ee203a1",
+      "id": "2b0899ec7e92",
+      "priority": 1,
+      "group": "c4f61560d432"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Do you have a smaller size?",
+      "meaningInSourceLanguage": "有小一点的尺寸吗？",
+      "id": "965e1cadf696",
+      "priority": 0,
+      "group": "ce1498db5d06"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Do you have a smaller size?",
+      "meaning": "有小一点的尺寸吗？",
+      "audio": "aa9ff7f994b8d6707daacb0454346dcf8abf45767f2f80bf04375b0e583eab85",
+      "id": "641692caba34",
+      "priority": 1,
+      "group": "ce1498db5d06"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is there a sale going on?",
+      "meaningInSourceLanguage": "有打折活动吗？",
+      "id": "f69ea4237435",
+      "priority": 0,
+      "group": "0e56abe42997"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is there a sale going on?",
+      "meaning": "有打折活动吗？",
+      "audio": "ff92279fb7f56255450316f3d67ab3d29223009dcc2fea4f1daab368e2079dea",
+      "id": "9571210f0f8d",
+      "priority": 1,
+      "group": "0e56abe42997"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm just looking, thanks.",
+      "meaningInSourceLanguage": "我就看看，谢谢。",
+      "id": "75be00dd0f4a",
+      "priority": 0,
+      "group": "ee62b1700955"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm just looking, thanks.",
+      "meaning": "我就看看，谢谢。",
+      "audio": "2e02324d89d29c271f83f3dbe5cd7c104f88fc29a0ade1a9a8648e7bd0b7f21a",
+      "id": "b46496c36b70",
+      "priority": 1,
+      "group": "ee62b1700955"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "How much",
+      "meaningInSourceLanguage": "多少钱",
+      "id": "501ac604cde4",
+      "priority": 0,
+      "group": "30b80fe06633"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "How much"
+      ],
+      "phrase": [
+        {
+          "word": "多少钱",
+          "definition": "How much"
+        }
+      ],
+      "id": "41d21a630858",
+      "priority": 1,
+      "group": "30b80fe06633"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much",
+      "meaning": "多少钱",
+      "audio": "dd9a965fad373414a6beb981fd27c3d61485bd75b6613c012d3f17e1caa2668c",
+      "id": "b6a0000db051",
+      "priority": 1,
+      "group": "30b80fe06633"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "discount",
+      "meaningInSourceLanguage": "折扣",
+      "id": "72a38e028f86",
+      "priority": 0,
+      "group": "da9905b1e202"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "discount"
+      ],
+      "phrase": [
+        {
+          "word": "折扣",
+          "definition": "discount"
+        }
+      ],
+      "id": "57f6667fad74",
+      "priority": 1,
+      "group": "da9905b1e202"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "discount",
+      "meaning": "折扣",
+      "audio": "5da1c3edf7283e2622859a8677e427f51a8dabe1805469f56400683a15c60959",
+      "id": "2b8ad1b9008f",
+      "priority": 1,
+      "group": "da9905b1e202"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "credit card",
+      "meaningInSourceLanguage": "信用卡",
+      "id": "75a54aefbc8a",
+      "priority": 0,
+      "group": "e08302a8e297"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "credit card"
+      ],
+      "phrase": [
+        {
+          "word": "信用卡",
+          "definition": "credit card"
+        }
+      ],
+      "id": "7602fbf906b2",
+      "priority": 1,
+      "group": "e08302a8e297"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "credit card",
+      "meaning": "信用卡",
+      "audio": "7e4f36fd6d2f2d6b5fef13354d0e2d4aea11a57763b6166242b23cecf4208c44",
+      "id": "09e2e4773af4",
+      "priority": 1,
+      "group": "e08302a8e297"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cash",
+      "meaningInSourceLanguage": "现金",
+      "id": "b5ba0edb7b32",
+      "priority": 0,
+      "group": "5880625b197f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cash"
+      ],
+      "phrase": [
+        {
+          "word": "现金",
+          "definition": "cash"
+        }
+      ],
+      "id": "b4c3f671d8e8",
+      "priority": 1,
+      "group": "5880625b197f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cash",
+      "meaning": "现金",
+      "audio": "0f8dbf4d4a2900952e68492fdfa2caba53f634429d907d03950e3dbc144af222",
+      "id": "d13c0d10f9fd",
+      "priority": 1,
+      "group": "5880625b197f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "size",
+      "meaningInSourceLanguage": "尺寸",
+      "id": "9689b4c757a2",
+      "priority": 0,
+      "group": "3d76654cf5a4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "size"
+      ],
+      "phrase": [
+        {
+          "word": "尺寸",
+          "definition": "size"
+        }
+      ],
+      "id": "57d69ebe1883",
+      "priority": 1,
+      "group": "3d76654cf5a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "size",
+      "meaning": "尺寸",
+      "audio": "1cb732d1a3412e4437c274c7f33671a56de3547fac4bd7184daa9d770f77e912",
+      "id": "b9fb91226849",
+      "priority": 1,
+      "group": "3d76654cf5a4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "color",
+      "meaningInSourceLanguage": "颜色",
+      "id": "723779cc14be",
+      "priority": 0,
+      "group": "fd873a906bcd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "color"
+      ],
+      "phrase": [
+        {
+          "word": "颜色",
+          "definition": "color"
+        }
+      ],
+      "id": "5cb7147b106c",
+      "priority": 1,
+      "group": "fd873a906bcd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "color",
+      "meaning": "颜色",
+      "audio": "a8f598c920049e9f8bd5481ed7a38abc926476f9fd2207529647001c3c508ea6",
+      "id": "438f0ff78c5f",
+      "priority": 1,
+      "group": "fd873a906bcd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "try on",
+      "meaningInSourceLanguage": "试穿",
+      "id": "f1bcf87833ab",
+      "priority": 0,
+      "group": "fcf190aca14f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "try on"
+      ],
+      "phrase": [
+        {
+          "word": "试穿",
+          "definition": "try on"
+        }
+      ],
+      "id": "37d1d38a6bba",
+      "priority": 1,
+      "group": "fcf190aca14f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "try on",
+      "meaning": "试穿",
+      "audio": "b5b3f5e0bc1ac4967aad14ccc417983470e26d5a0d11c36963ece6202a749935",
+      "id": "bbedbeb2a01d",
+      "priority": 1,
+      "group": "fcf190aca14f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "receipt",
+      "meaningInSourceLanguage": "收据",
+      "id": "eed08a4638fd",
+      "priority": 0,
+      "group": "0914ea36d397"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "receipt"
+      ],
+      "phrase": [
+        {
+          "word": "收据",
+          "definition": "receipt"
+        }
+      ],
+      "id": "20cc4a3e04eb",
+      "priority": 1,
+      "group": "0914ea36d397"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "receipt",
+      "meaning": "收据",
+      "audio": "91d0889e7235d5b66c178e1f8217eb6ac13b0100d1f34237520a1f9dc65d6866",
+      "id": "7900f6587c9c",
+      "priority": 1,
+      "group": "0914ea36d397"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "too expensive",
+      "meaningInSourceLanguage": "太贵",
+      "id": "b75fdfbf3a78",
+      "priority": 0,
+      "group": "5e24cefcb4fe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "too expensive"
+      ],
+      "phrase": [
+        {
+          "word": "太贵",
+          "definition": "too expensive"
+        }
+      ],
+      "id": "75bf7b529069",
+      "priority": 1,
+      "group": "5e24cefcb4fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "too expensive",
+      "meaning": "太贵",
+      "audio": "19aa27607da9885df1641d6d1aab5b2157175f7eb5013be90786e10a723981a4",
+      "id": "c5d0ed160136",
+      "priority": 1,
+      "group": "5e24cefcb4fe"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "exchange",
+      "meaningInSourceLanguage": "换货",
+      "id": "8914bc080838",
+      "priority": 0,
+      "group": "5d17f464bd19"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "exchange"
+      ],
+      "phrase": [
+        {
+          "word": "换货",
+          "definition": "exchange"
+        }
+      ],
+      "id": "852c1501453b",
+      "priority": 1,
+      "group": "5d17f464bd19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "exchange",
+      "meaning": "换货",
+      "audio": "632104c293c23477c30dc9a9f773829ee946a724c22b08242565dad3aa7166ce",
+      "id": "218409df0414",
+      "priority": 1,
+      "group": "5d17f464bd19"
+    }
+  ]
+}

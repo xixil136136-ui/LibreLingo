@@ -1,0 +1,516 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have a reservation.",
+      "meaningInSourceLanguage": "我有预订。",
+      "id": "f18c5c3282fd",
+      "priority": 0,
+      "group": "c3772391c8d7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have a reservation.",
+      "meaning": "我有预订。",
+      "audio": "a93660ef9d7686b643e4aec6acd972711a070637dabe3045c36434c0516e219c",
+      "id": "4fc970dcf480",
+      "priority": 1,
+      "group": "c3772391c8d7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to check in, please.",
+      "meaningInSourceLanguage": "我想办理入住。",
+      "id": "fa9c1873f30e",
+      "priority": 0,
+      "group": "7bce03352423"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to check in, please.",
+      "meaning": "我想办理入住。",
+      "audio": "6f16c8f64d0d24ff78e5a44ac14576e551de3e0776146d7afd01ea83259a7e18",
+      "id": "3b35e26dcb5b",
+      "priority": 1,
+      "group": "7bce03352423"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How much is a double room per night?",
+      "meaningInSourceLanguage": "双人间一晚多少钱？",
+      "id": "6d5957ed3e1b",
+      "priority": 0,
+      "group": "d442c94288bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How much is a double room per night?",
+      "meaning": "双人间一晚多少钱？",
+      "audio": "842299b700476ea11aa5518d7a95573be400be89c5a83ee6cc930279783bb47a",
+      "id": "3308e6e25972",
+      "priority": 1,
+      "group": "d442c94288bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is breakfast included?",
+      "meaningInSourceLanguage": "包含早餐吗？",
+      "id": "e5c53942110e",
+      "priority": 0,
+      "group": "a6c645e5f1d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is breakfast included?",
+      "meaning": "包含早餐吗？",
+      "audio": "0f1cd4ef08696a19a53ebb233c754b402369de7910c0485845961b3a02756190",
+      "id": "6444f3376a59",
+      "priority": 1,
+      "group": "a6c645e5f1d9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What's the WiFi password?",
+      "meaningInSourceLanguage": "WiFi密码是什么？",
+      "id": "f6ac5f15e497",
+      "priority": 0,
+      "group": "13fc28e0050e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What's the WiFi password?",
+      "meaning": "WiFi密码是什么？",
+      "audio": "f6f07d87bfa9937b8b1ca1949763d3fc2a9cda519350889696393a79ca74c315",
+      "id": "7aeefd0d71e7",
+      "priority": 1,
+      "group": "13fc28e0050e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The air conditioning isn't working.",
+      "meaningInSourceLanguage": "空调坏了。",
+      "id": "ac62c8cc54ab",
+      "priority": 0,
+      "group": "7bb42e1f3e85"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The air conditioning isn't working.",
+      "meaning": "空调坏了。",
+      "audio": "bedc37e4fe28785741b02edf20c03c4657085e6e1e44fb9ac9358076f1419fa0",
+      "id": "23e5ec11ad0b",
+      "priority": 1,
+      "group": "7bb42e1f3e85"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I have a wake-up call at 7am?",
+      "meaningInSourceLanguage": "能给我设置早上7点的叫醒服务吗？",
+      "id": "e911ec7d3a6e",
+      "priority": 0,
+      "group": "742af822d425"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I have a wake-up call at 7am?",
+      "meaning": "能给我设置早上7点的叫醒服务吗？",
+      "audio": "809e639c6db75e07594e9730b67afb3ba4f386594ee1921b240b7827b1a3c613",
+      "id": "b10cf48b1137",
+      "priority": 1,
+      "group": "742af822d425"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to check out, please.",
+      "meaningInSourceLanguage": "我想退房。",
+      "id": "14b813a39187",
+      "priority": 0,
+      "group": "7f11419a74c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to check out, please.",
+      "meaning": "我想退房。",
+      "audio": "6006adfd554905f179aa82387e06195052404ab0c3152cdb0b29fc22199a9cdb",
+      "id": "1dde9cf5a97a",
+      "priority": 1,
+      "group": "7f11419a74c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I store my luggage here?",
+      "meaningInSourceLanguage": "我能寄存行李吗？",
+      "id": "4600fe1b79d2",
+      "priority": 0,
+      "group": "21e639c0694f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I store my luggage here?",
+      "meaning": "我能寄存行李吗？",
+      "audio": "3e9fc5fcc60f79e4135860a15a40b6f902c22c53e79f81d468743580212d7c0c",
+      "id": "024db48d7619",
+      "priority": 1,
+      "group": "21e639c0694f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Thank you for a wonderful stay!",
+      "meaningInSourceLanguage": "谢谢，住得很愉快！",
+      "id": "60a863c930a3",
+      "priority": 0,
+      "group": "33cacd259447"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Thank you for a wonderful stay!",
+      "meaning": "谢谢，住得很愉快！",
+      "audio": "8cd3b21a0af6fdeae9689557ad30cf38c615bba7be2f4dfc8312abb18cd0b7b9",
+      "id": "12c346fd0380",
+      "priority": 1,
+      "group": "33cacd259447"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "check in",
+      "meaningInSourceLanguage": "入住",
+      "id": "5a58aed5f45a",
+      "priority": 0,
+      "group": "808f7300fcbb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "check in"
+      ],
+      "phrase": [
+        {
+          "word": "入住",
+          "definition": "check in"
+        }
+      ],
+      "id": "23e28fcab482",
+      "priority": 1,
+      "group": "808f7300fcbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check in",
+      "meaning": "入住",
+      "audio": "4c7ca33c8c0e1b60d60047ed08a1ac4dd3394ac08869a0082e50d90b6ffc30a1",
+      "id": "184e41d1e826",
+      "priority": 1,
+      "group": "808f7300fcbb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "check out",
+      "meaningInSourceLanguage": "退房",
+      "id": "6f39bef02faa",
+      "priority": 0,
+      "group": "96847aafe28e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "check out"
+      ],
+      "phrase": [
+        {
+          "word": "退房",
+          "definition": "check out"
+        }
+      ],
+      "id": "23ba3a37a7da",
+      "priority": 1,
+      "group": "96847aafe28e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "check out",
+      "meaning": "退房",
+      "audio": "b3281eb6ca8b15887603e5ee875d155c0e2bf27b6a03093e844a47f2d21ccb33",
+      "id": "c9dc1be3b8fc",
+      "priority": 1,
+      "group": "96847aafe28e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "room key",
+      "meaningInSourceLanguage": "房卡",
+      "id": "7069089b3a48",
+      "priority": 0,
+      "group": "1ce7c9185707"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "room key"
+      ],
+      "phrase": [
+        {
+          "word": "房卡",
+          "definition": "room key"
+        }
+      ],
+      "id": "a215fd38776f",
+      "priority": 1,
+      "group": "1ce7c9185707"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "room key",
+      "meaning": "房卡",
+      "audio": "85b49a59f468b5f542accc6209b2ed8e39a2916a986ca1fa857e3b578fcfc416",
+      "id": "2007d989a055",
+      "priority": 1,
+      "group": "1ce7c9185707"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "single room",
+      "meaningInSourceLanguage": "单人间",
+      "id": "d0cd5b9e0d78",
+      "priority": 0,
+      "group": "ecb79929b2e5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "single room"
+      ],
+      "phrase": [
+        {
+          "word": "单人间",
+          "definition": "single room"
+        }
+      ],
+      "id": "7081dbd49759",
+      "priority": 1,
+      "group": "ecb79929b2e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "single room",
+      "meaning": "单人间",
+      "audio": "2927f5a6e363cf0423adce0d30f34f397e07c7d224d93d7a3e8c76dff2d7d2cb",
+      "id": "226789682c4d",
+      "priority": 1,
+      "group": "ecb79929b2e5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "double room",
+      "meaningInSourceLanguage": "双人间",
+      "id": "15185e28521a",
+      "priority": 0,
+      "group": "0fb45c90ce80"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "double room"
+      ],
+      "phrase": [
+        {
+          "word": "双人间",
+          "definition": "double room"
+        }
+      ],
+      "id": "300d86277585",
+      "priority": 1,
+      "group": "0fb45c90ce80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "double room",
+      "meaning": "双人间",
+      "audio": "de65dcf3f5612e036d363f460e45f3ce5425eef097a4a2bf0aeb24be05ee1e08",
+      "id": "5c2f1f7310ca",
+      "priority": 1,
+      "group": "0fb45c90ce80"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "reservation",
+      "meaningInSourceLanguage": "预订",
+      "id": "8a0035bd9181",
+      "priority": 0,
+      "group": "a4faaec4a59c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "reservation"
+      ],
+      "phrase": [
+        {
+          "word": "预订",
+          "definition": "reservation"
+        }
+      ],
+      "id": "f0e5888db18d",
+      "priority": 1,
+      "group": "a4faaec4a59c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reservation",
+      "meaning": "预订",
+      "audio": "083387d851301ec1379988d5b7400b067d63f19e77683958383204fd29b3cf9d",
+      "id": "d9ef639ff65e",
+      "priority": 1,
+      "group": "a4faaec4a59c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "breakfast",
+      "meaningInSourceLanguage": "早餐",
+      "id": "c36f86e1a8e4",
+      "priority": 0,
+      "group": "2a5b9a061b6e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "breakfast"
+      ],
+      "phrase": [
+        {
+          "word": "早餐",
+          "definition": "breakfast"
+        }
+      ],
+      "id": "e5733c0cf14c",
+      "priority": 1,
+      "group": "2a5b9a061b6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "breakfast",
+      "meaning": "早餐",
+      "audio": "dcd94956bbd5b3aea523807ea48364eb29223f71bb53e517e8e5a2abae08f7a3",
+      "id": "40f93e4a65a3",
+      "priority": 1,
+      "group": "2a5b9a061b6e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "WiFi",
+      "meaningInSourceLanguage": "无线网络",
+      "id": "74b99f4e8800",
+      "priority": 0,
+      "group": "99a0ab5a0273"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "WiFi"
+      ],
+      "phrase": [
+        {
+          "word": "无线网络",
+          "definition": "WiFi"
+        }
+      ],
+      "id": "531a1605826a",
+      "priority": 1,
+      "group": "99a0ab5a0273"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "WiFi",
+      "meaning": "无线网络",
+      "audio": "a60aa21f6043f9f67ed647e41c6196371de04e58c916b31ef8925306b6a501be",
+      "id": "b06e018fcfce",
+      "priority": 1,
+      "group": "99a0ab5a0273"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "air conditioning",
+      "meaningInSourceLanguage": "空调",
+      "id": "ba9be1cd0bc0",
+      "priority": 0,
+      "group": "6240963e315f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "air conditioning"
+      ],
+      "phrase": [
+        {
+          "word": "空调",
+          "definition": "air conditioning"
+        }
+      ],
+      "id": "3a6dd0330c71",
+      "priority": 1,
+      "group": "6240963e315f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "air conditioning",
+      "meaning": "空调",
+      "audio": "46993bcfcdbd0081ad6e88e08b3d042ba0a79bf3730b21e6635aa85835ded853",
+      "id": "1de84b1d02e7",
+      "priority": 1,
+      "group": "6240963e315f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "room service",
+      "meaningInSourceLanguage": "客房服务",
+      "id": "4c17fe6e143d",
+      "priority": 0,
+      "group": "a9d6bdaae54d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "room service"
+      ],
+      "phrase": [
+        {
+          "word": "客房服务",
+          "definition": "room service"
+        }
+      ],
+      "id": "112083ebb23f",
+      "priority": 1,
+      "group": "a9d6bdaae54d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "room service",
+      "meaning": "客房服务",
+      "audio": "b9daa9f282a4422eabbc4518aaab809da9f27cac2898562a87695c0e513c11bf",
+      "id": "22e4c29debbb",
+      "priority": 1,
+      "group": "a9d6bdaae54d"
+    }
+  ]
+}

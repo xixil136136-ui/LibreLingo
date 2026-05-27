@@ -1,0 +1,516 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันต้องการจองโต๊ะ",
+      "meaningInSourceLanguage": "我想预约。",
+      "id": "3a3a68bfa98a",
+      "priority": 0,
+      "group": "17e9b7ddfa61"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันต้องการจองโต๊ะ",
+      "meaning": "我想预约。",
+      "audio": "442e80bf597351b50009e2e18d53dbc2a7f889374008856abf062cc421af1372",
+      "id": "9539a9f35e3c",
+      "priority": 1,
+      "group": "17e9b7ddfa61"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "โต๊ะสำหรับสองคนครับ",
+      "meaningInSourceLanguage": "请给我一个两人桌。",
+      "id": "7c76efc5fdeb",
+      "priority": 0,
+      "group": "ebb858b58fbe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "โต๊ะสำหรับสองคนครับ",
+      "meaning": "请给我一个两人桌。",
+      "audio": "7d5d4f8522c61047b86632d4e37eba6dce8b06758aaa11d26a017292bc98d21e",
+      "id": "c110647c8319",
+      "priority": 1,
+      "group": "ebb858b58fbe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอดูเมนูหน่อยได้ไหม",
+      "meaningInSourceLanguage": "我能看看菜单吗？",
+      "id": "859c27b2c0f0",
+      "priority": 0,
+      "group": "607946a4e23f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอดูเมนูหน่อยได้ไหม",
+      "meaning": "我能看看菜单吗？",
+      "audio": "daf3313ed8bed9b939a1264d8c43d63656b347272c6462506177b69ab9321d75",
+      "id": "9d2567380653",
+      "priority": 1,
+      "group": "607946a4e23f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "คุณแนะนำอะไร",
+      "meaningInSourceLanguage": "你推荐什么？",
+      "id": "492903ac4ba4",
+      "priority": 0,
+      "group": "1167e503bb1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "คุณแนะนำอะไร",
+      "meaning": "你推荐什么？",
+      "audio": "36346803b21b641a83ec25f70928b55e8e8d8b3b8e9620332ce6e47b7c1889c2",
+      "id": "31556bf08634",
+      "priority": 1,
+      "group": "1167e503bb1d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันขอสเต็ก",
+      "meaningInSourceLanguage": "我要牛排。",
+      "id": "98da80361e8b",
+      "priority": 0,
+      "group": "e05800b67e39"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันขอสเต็ก",
+      "meaning": "我要牛排。",
+      "audio": "dff5d9d1931c758b8cfce17dee57514f4fcb0d65a807f047b098b8de59b7d020",
+      "id": "dfccc98c1c89",
+      "priority": 1,
+      "group": "e05800b67e39"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เช็คบิลด้วยครับ",
+      "meaningInSourceLanguage": "请给我账单。",
+      "id": "187dc4eb133a",
+      "priority": 0,
+      "group": "e9233581b371"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เช็คบิลด้วยครับ",
+      "meaning": "请给我账单。",
+      "audio": "3918e75c1ae4db0cdb8be6861308d5c38ff307905e55876594a3ca9b14759c50",
+      "id": "c38b50dce060",
+      "priority": 1,
+      "group": "e9233581b371"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "อาหารอร่อยมาก",
+      "meaningInSourceLanguage": "食物太好吃了！",
+      "id": "e886296031be",
+      "priority": 0,
+      "group": "0578b1a67e41"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อาหารอร่อยมาก",
+      "meaning": "食物太好吃了！",
+      "audio": "8ae06cfe05a2e36c5d7af8680e826e7a7fd999165bb8ff5d8f472b729a67381e",
+      "id": "657ddeee6a61",
+      "priority": 1,
+      "group": "0578b1a67e41"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอน้ำหน่อยได้ไหม",
+      "meaningInSourceLanguage": "能给我一些水吗？",
+      "id": "59d44beb89cf",
+      "priority": 0,
+      "group": "0072f697619e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอน้ำหน่อยได้ไหม",
+      "meaning": "能给我一些水吗？",
+      "audio": "9b65bfe64b5add359fff42dc48309065deb2b4380b67c87c4be847b9255658ba",
+      "id": "7af8c6c71ed3",
+      "priority": 1,
+      "group": "0072f697619e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "รวมค่าบริการหรือยัง",
+      "meaningInSourceLanguage": "服务费包含在内吗？",
+      "id": "c057c706476e",
+      "priority": 0,
+      "group": "628aed279bf1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "รวมค่าบริการหรือยัง",
+      "meaning": "服务费包含在内吗？",
+      "audio": "3fc650eb5ec524a9dc673a7a76adf52d93f11c7bc58803d4559c08db83154577",
+      "id": "317dbecef53f",
+      "priority": 1,
+      "group": "628aed279bf1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันแพ้ถั่วลิสง",
+      "meaningInSourceLanguage": "我对花生过敏。",
+      "id": "ed50444bfc33",
+      "priority": 0,
+      "group": "fa97d4dd4656"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันแพ้ถั่วลิสง",
+      "meaning": "我对花生过敏。",
+      "audio": "de0d56a782b3952f005150b0c36eb57951fe8841446d74597ec477b8a67fa1e2",
+      "id": "5dda7c07ca45",
+      "priority": 1,
+      "group": "fa97d4dd4656"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ฉันอยากได้",
+      "meaningInSourceLanguage": "我想要",
+      "id": "c127bdc4a13f",
+      "priority": 0,
+      "group": "d83c10d0b943"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ฉันอยากได้"
+      ],
+      "phrase": [
+        {
+          "word": "我想要",
+          "definition": "ฉันอยากได้"
+        }
+      ],
+      "id": "c3d7f8c2abee",
+      "priority": 1,
+      "group": "d83c10d0b943"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันอยากได้",
+      "meaning": "我想要",
+      "audio": "5855d56170af97f6ce2a0d44c6a4399a963fd69fc5bd77a48eb50d18b796cf21",
+      "id": "e877c5c21137",
+      "priority": 1,
+      "group": "d83c10d0b943"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เมนู",
+      "meaningInSourceLanguage": "菜单",
+      "id": "1c673b970026",
+      "priority": 0,
+      "group": "c71175abac5e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เมนู"
+      ],
+      "phrase": [
+        {
+          "word": "菜单",
+          "definition": "เมนู"
+        }
+      ],
+      "id": "30fd064487e7",
+      "priority": 1,
+      "group": "c71175abac5e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เมนู",
+      "meaning": "菜单",
+      "audio": "72b78238879caa1aa3648f180a5a2db7727f93551779b948ec96e3e80d840536",
+      "id": "7cb08e330b89",
+      "priority": 1,
+      "group": "c71175abac5e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สั่งอาหาร",
+      "meaningInSourceLanguage": "点餐",
+      "id": "1b21953bd861",
+      "priority": 0,
+      "group": "4a0482d77ea7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สั่งอาหาร"
+      ],
+      "phrase": [
+        {
+          "word": "点餐",
+          "definition": "สั่งอาหาร"
+        }
+      ],
+      "id": "bab61f73d4ea",
+      "priority": 1,
+      "group": "4a0482d77ea7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สั่งอาหาร",
+      "meaning": "点餐",
+      "audio": "7bf16349da8cdb64af797056fc9b0bcf607b45d6514934bd6414c80f1f8d6202",
+      "id": "4bcedf6c4ead",
+      "priority": 1,
+      "group": "4a0482d77ea7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "บิล",
+      "meaningInSourceLanguage": "账单",
+      "id": "00f03db58fe1",
+      "priority": 0,
+      "group": "a17e07cbabb0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "บิล"
+      ],
+      "phrase": [
+        {
+          "word": "账单",
+          "definition": "บิล"
+        }
+      ],
+      "id": "0c57bf0652ca",
+      "priority": 1,
+      "group": "a17e07cbabb0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "บิล",
+      "meaning": "账单",
+      "audio": "5432edb0ccf40437fafc8f2a7159325d392de6dcde73a860cc2016f4ccceb883",
+      "id": "b78a429b2ca0",
+      "priority": 1,
+      "group": "a17e07cbabb0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "อร่อย",
+      "meaningInSourceLanguage": "美味",
+      "id": "457e774c23fb",
+      "priority": 0,
+      "group": "cfca02c51ea0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "อร่อย"
+      ],
+      "phrase": [
+        {
+          "word": "美味",
+          "definition": "อร่อย"
+        }
+      ],
+      "id": "4e4490fa5844",
+      "priority": 1,
+      "group": "cfca02c51ea0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อร่อย",
+      "meaning": "美味",
+      "audio": "86c1fdf6ccb75b9ba691b34bb99961ea286d1facadb9e5a32ba42a00aeffd8a6",
+      "id": "6bd2f7094db9",
+      "priority": 1,
+      "group": "cfca02c51ea0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "คำแนะนำ",
+      "meaningInSourceLanguage": "推荐",
+      "id": "bc0691cb51ab",
+      "priority": 0,
+      "group": "ab0105252d83"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "คำแนะนำ"
+      ],
+      "phrase": [
+        {
+          "word": "推荐",
+          "definition": "คำแนะนำ"
+        }
+      ],
+      "id": "17f2333bb07e",
+      "priority": 1,
+      "group": "ab0105252d83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "คำแนะนำ",
+      "meaning": "推荐",
+      "audio": "aafca090a60111b90fad3d2f1cd8cd8e77d86612ebb190e4cc0046c2f900869e",
+      "id": "33a3db293710",
+      "priority": 1,
+      "group": "ab0105252d83"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "การจอง",
+      "meaningInSourceLanguage": "预约",
+      "id": "6f6830d999a9",
+      "priority": 0,
+      "group": "39c95bba8a05"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "การจอง"
+      ],
+      "phrase": [
+        {
+          "word": "预约",
+          "definition": "การจอง"
+        }
+      ],
+      "id": "c9f6b4566367",
+      "priority": 1,
+      "group": "39c95bba8a05"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "การจอง",
+      "meaning": "预约",
+      "audio": "e1cfdb14500f6318a5ab98bfabb31676768b857a5e69f940f1b3af8a462ec980",
+      "id": "b558cd370562",
+      "priority": 1,
+      "group": "39c95bba8a05"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "พนักงานเสิร์ฟ",
+      "meaningInSourceLanguage": "服务员",
+      "id": "eecaed838cca",
+      "priority": 0,
+      "group": "74eb36164965"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "พนักงานเสิร์ฟ"
+      ],
+      "phrase": [
+        {
+          "word": "服务员",
+          "definition": "พนักงานเสิร์ฟ"
+        }
+      ],
+      "id": "a025f966f2a8",
+      "priority": 1,
+      "group": "74eb36164965"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พนักงานเสิร์ฟ",
+      "meaning": "服务员",
+      "audio": "c99741167c717beebd3d86f8bb1fcd12d1333c97cb0ca9d05da5dbb13b8ca1cc",
+      "id": "566fa9e38ef3",
+      "priority": 1,
+      "group": "74eb36164965"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "โต๊ะสำหรับสองคน",
+      "meaningInSourceLanguage": "两人桌",
+      "id": "4e3be6bcc6fa",
+      "priority": 0,
+      "group": "89d64de153c3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "โต๊ะสำหรับสองคน"
+      ],
+      "phrase": [
+        {
+          "word": "两人桌",
+          "definition": "โต๊ะสำหรับสองคน"
+        }
+      ],
+      "id": "c1215bf49025",
+      "priority": 1,
+      "group": "89d64de153c3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "โต๊ะสำหรับสองคน",
+      "meaning": "两人桌",
+      "audio": "8464feaf6cf03f06f6e2e51dc1f48557685a8aa01cd1e027adcd27c936179889",
+      "id": "0753da25c817",
+      "priority": 1,
+      "group": "89d64de153c3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เมนูพิเศษวันนี้",
+      "meaningInSourceLanguage": "今日特价",
+      "id": "827386bb584a",
+      "priority": 0,
+      "group": "a380e11fa4fe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เมนูพิเศษวันนี้"
+      ],
+      "phrase": [
+        {
+          "word": "今日特价",
+          "definition": "เมนูพิเศษวันนี้"
+        }
+      ],
+      "id": "6fceee7f687a",
+      "priority": 1,
+      "group": "a380e11fa4fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เมนูพิเศษวันนี้",
+      "meaning": "今日特价",
+      "audio": "8c0d2db48b37f5c4169d394f4b80e5f99cfe8666c78d6746fb1f3a5fdc3a7cbc",
+      "id": "48377cb28038",
+      "priority": 1,
+      "group": "a380e11fa4fe"
+    }
+  ]
+}

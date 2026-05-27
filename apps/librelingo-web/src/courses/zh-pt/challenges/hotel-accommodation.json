@@ -1,0 +1,516 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tenho uma reserva.",
+      "meaningInSourceLanguage": "我有预订。",
+      "id": "cd07bb9c50fa",
+      "priority": 0,
+      "group": "6b07162d3280"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tenho uma reserva.",
+      "meaning": "我有预订。",
+      "audio": "c875ce4dc713e3a8b87bc050b31f9b06930a268e7817208a629381bfbb45c01c",
+      "id": "b73f8cb919a2",
+      "priority": 1,
+      "group": "6b07162d3280"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gostaria de fazer check-in, por favor.",
+      "meaningInSourceLanguage": "我想办理入住。",
+      "id": "92ba575a3f8c",
+      "priority": 0,
+      "group": "3642612c3e7e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gostaria de fazer check-in, por favor.",
+      "meaning": "我想办理入住。",
+      "audio": "da5766dd208e4b466602583c48b9aeb4078701439ffea87a53c04d6e6b656c0b",
+      "id": "5b70a3fa2199",
+      "priority": 1,
+      "group": "3642612c3e7e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Quanto custa um quarto duplo por noite?",
+      "meaningInSourceLanguage": "双人间一晚多少钱？",
+      "id": "67ad07d96bba",
+      "priority": 0,
+      "group": "473879039df3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Quanto custa um quarto duplo por noite?",
+      "meaning": "双人间一晚多少钱？",
+      "audio": "4f6891c69c0cd1ce2baa2d0f844ddba4804c296328b7903df3c6707ce0490d92",
+      "id": "675f72b5e7c5",
+      "priority": 1,
+      "group": "473879039df3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "O café da manhã está incluído?",
+      "meaningInSourceLanguage": "包含早餐吗？",
+      "id": "481a0128d90c",
+      "priority": 0,
+      "group": "e28569a86b1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "O café da manhã está incluído?",
+      "meaning": "包含早餐吗？",
+      "audio": "0a16eb23066e2a1c24a3c6e1a8818aeedd9176b2e8458898da7a69ab7d8471f5",
+      "id": "f6d6d6a259d4",
+      "priority": 1,
+      "group": "e28569a86b1b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Qual é a senha do WiFi?",
+      "meaningInSourceLanguage": "WiFi密码是什么？",
+      "id": "6e557b056ac0",
+      "priority": 0,
+      "group": "182beeb557b5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Qual é a senha do WiFi?",
+      "meaning": "WiFi密码是什么？",
+      "audio": "b0db6d7ba7492e5883939c511744d4dacec8de2b577c638b363ec1e5be6ca678",
+      "id": "79bcb9259d7e",
+      "priority": 1,
+      "group": "182beeb557b5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "O ar condicionado não está funcionando.",
+      "meaningInSourceLanguage": "空调坏了。",
+      "id": "9fa1c190992c",
+      "priority": 0,
+      "group": "c46eb2616bc8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "O ar condicionado não está funcionando.",
+      "meaning": "空调坏了。",
+      "audio": "f3399ae0cad3de834910304a0a8b913f4894f7cc65a3a6154c8f5efdfe83ed48",
+      "id": "2a19d5c77296",
+      "priority": 1,
+      "group": "c46eb2616bc8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pode me dar um despertador às 7h?",
+      "meaningInSourceLanguage": "能给我设置早上7点的叫醒服务吗？",
+      "id": "ecb32205b4f1",
+      "priority": 0,
+      "group": "e3887a0732c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pode me dar um despertador às 7h?",
+      "meaning": "能给我设置早上7点的叫醒服务吗？",
+      "audio": "737663bd422f0f1caac9d6e29a9492506dfa9f0ec6e1fa7d8e13d99babec4ff1",
+      "id": "08f5fe9ec417",
+      "priority": 1,
+      "group": "e3887a0732c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gostaria de fazer check-out, por favor.",
+      "meaningInSourceLanguage": "我想退房。",
+      "id": "bc19d68b2eb2",
+      "priority": 0,
+      "group": "3eccdc5ebd1e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gostaria de fazer check-out, por favor.",
+      "meaning": "我想退房。",
+      "audio": "34c02c0f7ee4c3c3c15eb370566d8ec65686c963b67bbe13ccf966e18cfd99ac",
+      "id": "47b52360e3a5",
+      "priority": 1,
+      "group": "3eccdc5ebd1e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso deixar minha bagagem aqui?",
+      "meaningInSourceLanguage": "我能寄存行李吗？",
+      "id": "31b633f7dc9f",
+      "priority": 0,
+      "group": "58cf29137eae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso deixar minha bagagem aqui?",
+      "meaning": "我能寄存行李吗？",
+      "audio": "35170e5a0f045b8c8945b4b4091a2055daf4bad364cda5085223f0803b2c911a",
+      "id": "645495f337b0",
+      "priority": 1,
+      "group": "58cf29137eae"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Obrigado por uma estadia maravilhosa!",
+      "meaningInSourceLanguage": "谢谢，住得很愉快！",
+      "id": "24d3ab10fa2c",
+      "priority": 0,
+      "group": "103efe9f9dbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Obrigado por uma estadia maravilhosa!",
+      "meaning": "谢谢，住得很愉快！",
+      "audio": "9880f5c40d8096e194b07f2c77fd3fbca11f78f5401219f2adb5fb6c9e064f98",
+      "id": "ba7bb75fd8e8",
+      "priority": 1,
+      "group": "103efe9f9dbb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "fazer check-in",
+      "meaningInSourceLanguage": "入住",
+      "id": "43380b612f21",
+      "priority": 0,
+      "group": "f31adfac4cb2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "fazer check-in"
+      ],
+      "phrase": [
+        {
+          "word": "入住",
+          "definition": "fazer check-in"
+        }
+      ],
+      "id": "3b6aae32d210",
+      "priority": 1,
+      "group": "f31adfac4cb2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fazer check-in",
+      "meaning": "入住",
+      "audio": "decaddaa922f9efe16995e872d01894f681fc090b30e369f653ff6af9c2688bc",
+      "id": "98e629543136",
+      "priority": 1,
+      "group": "f31adfac4cb2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "fazer check-out",
+      "meaningInSourceLanguage": "退房",
+      "id": "b1debd99050a",
+      "priority": 0,
+      "group": "d184cc2637e8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "fazer check-out"
+      ],
+      "phrase": [
+        {
+          "word": "退房",
+          "definition": "fazer check-out"
+        }
+      ],
+      "id": "47327911920b",
+      "priority": 1,
+      "group": "d184cc2637e8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "fazer check-out",
+      "meaning": "退房",
+      "audio": "a5554ff02a45ca5d8990a6306f8f1c6dc5adf4059f03da742235c3be8d6f03d1",
+      "id": "dc21c53e0bf3",
+      "priority": 1,
+      "group": "d184cc2637e8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a chave do quarto",
+      "meaningInSourceLanguage": "房卡",
+      "id": "e53f4148d3a9",
+      "priority": 0,
+      "group": "a47bd39319a5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a chave do quarto"
+      ],
+      "phrase": [
+        {
+          "word": "房卡",
+          "definition": "a chave do quarto"
+        }
+      ],
+      "id": "40ee80fdcfdd",
+      "priority": 1,
+      "group": "a47bd39319a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a chave do quarto",
+      "meaning": "房卡",
+      "audio": "6055aa8e37cb529bad7e73b77c58b5af12175a9578c0e9a4be59f54a12e53ba5",
+      "id": "62b8b555f2b7",
+      "priority": 1,
+      "group": "a47bd39319a5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o quarto individual",
+      "meaningInSourceLanguage": "单人间",
+      "id": "8eda99abc891",
+      "priority": 0,
+      "group": "58e83e7fc8c1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o quarto individual"
+      ],
+      "phrase": [
+        {
+          "word": "单人间",
+          "definition": "o quarto individual"
+        }
+      ],
+      "id": "356895974f47",
+      "priority": 1,
+      "group": "58e83e7fc8c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o quarto individual",
+      "meaning": "单人间",
+      "audio": "402012ff566c3b399d299c5c3d2eef1589255769f7c9a8f61ebf11a2feb34faf",
+      "id": "85946d0f2b0c",
+      "priority": 1,
+      "group": "58e83e7fc8c1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o quarto duplo",
+      "meaningInSourceLanguage": "双人间",
+      "id": "da58f4dbe874",
+      "priority": 0,
+      "group": "9aa06ce63cc7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o quarto duplo"
+      ],
+      "phrase": [
+        {
+          "word": "双人间",
+          "definition": "o quarto duplo"
+        }
+      ],
+      "id": "d842afb2769c",
+      "priority": 1,
+      "group": "9aa06ce63cc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o quarto duplo",
+      "meaning": "双人间",
+      "audio": "94a2cef83ca0eb1e4a83c6a2133e6dde30c0d1e74c38ec243d772a16355675a6",
+      "id": "2cfd77331fd1",
+      "priority": 1,
+      "group": "9aa06ce63cc7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a reserva",
+      "meaningInSourceLanguage": "预订",
+      "id": "43dd2da31c37",
+      "priority": 0,
+      "group": "47846e1eb878"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a reserva"
+      ],
+      "phrase": [
+        {
+          "word": "预订",
+          "definition": "a reserva"
+        }
+      ],
+      "id": "796ce5c82f63",
+      "priority": 1,
+      "group": "47846e1eb878"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a reserva",
+      "meaning": "预订",
+      "audio": "77eecfaa9e5d4009f6aaf5606f547d6911572e6eafbf23cff90f53cc95f52446",
+      "id": "df1d26b735bd",
+      "priority": 1,
+      "group": "47846e1eb878"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o café da manhã",
+      "meaningInSourceLanguage": "早餐",
+      "id": "5d558c95d88f",
+      "priority": 0,
+      "group": "f53cc772036d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o café da manhã"
+      ],
+      "phrase": [
+        {
+          "word": "早餐",
+          "definition": "o café da manhã"
+        }
+      ],
+      "id": "cba6063d55b3",
+      "priority": 1,
+      "group": "f53cc772036d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o café da manhã",
+      "meaning": "早餐",
+      "audio": "685d4af00fc85f8c442eeab4a98743b79e11926554dbf3dc16612db2782b5346",
+      "id": "cf9be0d1dbd8",
+      "priority": 1,
+      "group": "f53cc772036d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o WiFi",
+      "meaningInSourceLanguage": "无线网络",
+      "id": "12e204334042",
+      "priority": 0,
+      "group": "841e9d80ba7f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o WiFi"
+      ],
+      "phrase": [
+        {
+          "word": "无线网络",
+          "definition": "o WiFi"
+        }
+      ],
+      "id": "0daa9bc2c2ac",
+      "priority": 1,
+      "group": "841e9d80ba7f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o WiFi",
+      "meaning": "无线网络",
+      "audio": "4ed119bc1f29a50d1350078146e8475cba5688e157db4adc3f91c7a43f60bba7",
+      "id": "a188ea39d071",
+      "priority": 1,
+      "group": "841e9d80ba7f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o ar condicionado",
+      "meaningInSourceLanguage": "空调",
+      "id": "1c5cc6e54872",
+      "priority": 0,
+      "group": "5bf43cd0646d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o ar condicionado"
+      ],
+      "phrase": [
+        {
+          "word": "空调",
+          "definition": "o ar condicionado"
+        }
+      ],
+      "id": "3bbbae3b1246",
+      "priority": 1,
+      "group": "5bf43cd0646d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o ar condicionado",
+      "meaning": "空调",
+      "audio": "0c135272006fdfbbad8a8cab6ac3875b0be8119268b0a55b1f90e17ec19c576d",
+      "id": "ab40068a7fb5",
+      "priority": 1,
+      "group": "5bf43cd0646d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o serviço de quarto",
+      "meaningInSourceLanguage": "客房服务",
+      "id": "03323b2c6dfd",
+      "priority": 0,
+      "group": "09f6bdf132b0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o serviço de quarto"
+      ],
+      "phrase": [
+        {
+          "word": "客房服务",
+          "definition": "o serviço de quarto"
+        }
+      ],
+      "id": "a390967fbf6a",
+      "priority": 1,
+      "group": "09f6bdf132b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o serviço de quarto",
+      "meaning": "客房服务",
+      "audio": "c982089a07a47b3e19f2080667816716782cb81dfceacfe42403c7e68507f016",
+      "id": "c4ccd8ea8cda",
+      "priority": 1,
+      "group": "09f6bdf132b0"
+    }
+  ]
+}

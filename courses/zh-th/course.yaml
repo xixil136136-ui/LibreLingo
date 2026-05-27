@@ -1,0 +1,49 @@
+Course:
+  Language:
+    Name: Thai
+    IETF BCP 47: th
+
+  For speakers of:
+    Name: Chinese
+    IETF BCP 47: zh
+
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+  Repository: https://github.com/xixil136136-ui/LibreLingo
+
+  Special characters:
+  - "ก"
+  - "ข"
+  - "ค"
+  - "ง"
+  - "จ"
+  - "ฉ"
+  - "ช"
+  - "ซ"
+  - "ด"
+  - "ต"
+  - "ท"
+  - "น"
+  - "บ"
+  - "ป"
+  - "พ"
+  - "ม"
+  - "ย"
+  - "ร"
+  - "ล"
+  - "ว"
+  - "ส"
+  - "อ"
+  - "ห"
+
+Modules:
+  - basics
+  - food-&-drink
+  - conversations
+
+Settings:
+    Audio:
+      Enabled: True

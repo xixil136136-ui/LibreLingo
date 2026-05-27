@@ -1,0 +1,78 @@
+Skill:
+  Name: Restaurant Dialogues
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: ฉันอยากได้
+    Translation: 我想要
+  - Word: เมนู
+    Translation: 菜单
+  - Word: สั่งอาหาร
+    Translation: 点餐
+  - Word: บิล
+    Translation: 账单
+  - Word: อร่อย
+    Translation: 美味
+  - Word: คำแนะนำ
+    Translation: 推荐
+  - Word: การจอง
+    Translation: 预约
+  - Word: พนักงานเสิร์ฟ
+    Translation: 服务员
+  - Word: โต๊ะสำหรับสองคน
+    Translation: 两人桌
+  - Word: เมนูพิเศษวันนี้
+    Translation: 今日特价
+
+Phrases:
+  - Phrase: ฉันต้องการจองโต๊ะ
+    Translation: 我想预约。
+  - Phrase: โต๊ะสำหรับสองคนครับ
+    Translation: 请给我一个两人桌。
+  - Phrase: ขอดูเมนูหน่อยได้ไหม
+    Translation: 我能看看菜单吗？
+  - Phrase: คุณแนะนำอะไร
+    Translation: 你推荐什么？
+  - Phrase: ฉันขอสเต็ก
+    Translation: 我要牛排。
+  - Phrase: เช็คบิลด้วยครับ
+    Translation: 请给我账单。
+  - Phrase: อาหารอร่อยมาก
+    Translation: 食物太好吃了！
+  - Phrase: ขอน้ำหน่อยได้ไหม
+    Translation: 能给我一些水吗？
+  - Phrase: รวมค่าบริการหรือยัง
+    Translation: 服务费包含在内吗？
+  - Phrase: ฉันแพ้ถั่วลิสง
+    Translation: 我对花生过敏。
+
+Mini-dictionary:
+  Thai:
+    - การจอง: 预约
+    - เมนูพิเศษวันนี้: 今日特价
+    - ฉันอยากได้: 我想要
+    - สั่งอาหาร: 点餐
+    - คำแนะนำ: 推荐
+    - บิล: 账单
+    - เมนู: 菜单
+    - อร่อย: 美味
+    - พนักงานเสิร์ฟ: 服务员
+    - โต๊ะสำหรับสองคน: 两人桌
+  Chinese:
+    - 两人桌: โต๊ะสำหรับสองคน
+    - 菜单: เมนู
+    - 预约: การจอง
+    - 账单: บิล
+    - 美味: อร่อย
+    - 我想要: ฉันอยากได้
+    - 推荐: คำแนะนำ
+    - 今日特价: เมนูพิเศษวันนี้
+    - 服务员: พนักงานเสิร์ฟ
+    - 点餐: สั่งอาหาร

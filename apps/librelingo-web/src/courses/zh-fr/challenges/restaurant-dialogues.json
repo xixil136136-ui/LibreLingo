@@ -1,0 +1,516 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'd like to make a reservation.",
+      "meaningInSourceLanguage": "我想预约。",
+      "id": "1396be83d69e",
+      "priority": 0,
+      "group": "15be7bec0e51"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'd like to make a reservation.",
+      "meaning": "我想预约。",
+      "audio": "ccd5664e9ca231a93a9212741ba8f1fe684677c99c5ddffd090c95a6ddeeea2e",
+      "id": "45d9e7e8c59e",
+      "priority": 1,
+      "group": "15be7bec0e51"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A table for two, please.",
+      "meaningInSourceLanguage": "请给我一个两人桌。",
+      "id": "cb32e583933b",
+      "priority": 0,
+      "group": "ac314c8cebca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A table for two, please.",
+      "meaning": "请给我一个两人桌。",
+      "audio": "8b08de7d9696965370e34c049c1cc13b7702adbd7a7590966595eb01ebf9a6b5",
+      "id": "3b55d16b5253",
+      "priority": 1,
+      "group": "ac314c8cebca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I see the menu?",
+      "meaningInSourceLanguage": "我能看看菜单吗？",
+      "id": "fe1b0217cbfa",
+      "priority": 0,
+      "group": "796f804f4da4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I see the menu?",
+      "meaning": "我能看看菜单吗？",
+      "audio": "688e7b3a926c003a88fe267755480b78f6488d0afd4131546d86c60fdcba577f",
+      "id": "aa46d794b59e",
+      "priority": 1,
+      "group": "796f804f4da4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What do you recommend?",
+      "meaningInSourceLanguage": "你推荐什么？",
+      "id": "825d89885140",
+      "priority": 0,
+      "group": "edf24b58a061"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What do you recommend?",
+      "meaning": "你推荐什么？",
+      "audio": "c74409386006d37469d34803e246c32258ecc3a7edaeffee1aed6bb5b1daeb6f",
+      "id": "5f4592e9fa75",
+      "priority": 1,
+      "group": "edf24b58a061"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'll have the steak, please.",
+      "meaningInSourceLanguage": "我要牛排。",
+      "id": "99c300d46e03",
+      "priority": 0,
+      "group": "77cf4c40d3a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'll have the steak, please.",
+      "meaning": "我要牛排。",
+      "audio": "b43040e2a7941b5d388235b9e38d13845fb454d53d64cc700cda8c059d05f244",
+      "id": "848eedc16c26",
+      "priority": 1,
+      "group": "77cf4c40d3a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Could I have the bill, please?",
+      "meaningInSourceLanguage": "请给我账单。",
+      "id": "cd901e002073",
+      "priority": 0,
+      "group": "c1f371a5f194"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Could I have the bill, please?",
+      "meaning": "请给我账单。",
+      "audio": "4b21b7ed91811ad22789813e3762d51bc2392736954516b942e17c0ea68dd737",
+      "id": "3d6b4df65873",
+      "priority": 1,
+      "group": "c1f371a5f194"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "The food is delicious!",
+      "meaningInSourceLanguage": "食物太好吃了！",
+      "id": "549ba8e95e33",
+      "priority": 0,
+      "group": "78bc6219b223"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "The food is delicious!",
+      "meaning": "食物太好吃了！",
+      "audio": "32bdf0deb30a616fab3628fd6803f30722aee6f0b04a7c33a7c2830bd46d18aa",
+      "id": "6ac531592071",
+      "priority": 1,
+      "group": "78bc6219b223"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I have some water?",
+      "meaningInSourceLanguage": "能给我一些水吗？",
+      "id": "a66e1e9ed328",
+      "priority": 0,
+      "group": "78a76957778c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I have some water?",
+      "meaning": "能给我一些水吗？",
+      "audio": "a3f785a11fb4bb6657851a3b5ced5815a8f56100e1ea707f1621262e599179d5",
+      "id": "b57296460dd3",
+      "priority": 1,
+      "group": "78a76957778c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is service charge included?",
+      "meaningInSourceLanguage": "服务费包含在内吗？",
+      "id": "5a0b7b52171d",
+      "priority": 0,
+      "group": "1ef67222845b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is service charge included?",
+      "meaning": "服务费包含在内吗？",
+      "audio": "eabfd915d547bca201ef7bcb544fc8debb5a9d1f28a53b567475380cb474a0b3",
+      "id": "4ab7c338ae66",
+      "priority": 1,
+      "group": "1ef67222845b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I'm allergic to peanuts.",
+      "meaningInSourceLanguage": "我对花生过敏。",
+      "id": "1f3bbe9a61e2",
+      "priority": 0,
+      "group": "7494cb991a94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I'm allergic to peanuts.",
+      "meaning": "我对花生过敏。",
+      "audio": "1fbba605a07b619d5204f4849cdc1d20b31f19dcc4edaa8ba93d24f5bfd1a52e",
+      "id": "fd8469614708",
+      "priority": 1,
+      "group": "7494cb991a94"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "I would like",
+      "meaningInSourceLanguage": "我想要",
+      "id": "ba94b1388c8b",
+      "priority": 0,
+      "group": "cf62277cb0cd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "I would like"
+      ],
+      "phrase": [
+        {
+          "word": "我想要",
+          "definition": "I would like"
+        }
+      ],
+      "id": "875b561257d4",
+      "priority": 1,
+      "group": "cf62277cb0cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I would like",
+      "meaning": "我想要",
+      "audio": "d7135d23c2a8aaec9e4159357180e893af85f3b8c457ed43c35572b7abab7b04",
+      "id": "3d6b896d5d27",
+      "priority": 1,
+      "group": "cf62277cb0cd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "menu",
+      "meaningInSourceLanguage": "菜单",
+      "id": "4950b3b09108",
+      "priority": 0,
+      "group": "a1e9b76e8daf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "menu"
+      ],
+      "phrase": [
+        {
+          "word": "菜单",
+          "definition": "menu"
+        }
+      ],
+      "id": "df11a762d541",
+      "priority": 1,
+      "group": "a1e9b76e8daf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "menu",
+      "meaning": "菜单",
+      "audio": "14b002656a6a934ea9df8bbdac3b1b889d7b4e43e5338a68d05c00c66360d1e7",
+      "id": "eeeb7158e5e3",
+      "priority": 1,
+      "group": "a1e9b76e8daf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "order",
+      "meaningInSourceLanguage": "点餐",
+      "id": "661c9a7325d9",
+      "priority": 0,
+      "group": "11674d06205c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "order"
+      ],
+      "phrase": [
+        {
+          "word": "点餐",
+          "definition": "order"
+        }
+      ],
+      "id": "1c316738a393",
+      "priority": 1,
+      "group": "11674d06205c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "order",
+      "meaning": "点餐",
+      "audio": "80e39822175b696473258a43e2f9e0360535a9a5a86ca060cac9d72b653bcce3",
+      "id": "574cc2737c72",
+      "priority": 1,
+      "group": "11674d06205c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bill",
+      "meaningInSourceLanguage": "账单",
+      "id": "44c4ee99101a",
+      "priority": 0,
+      "group": "469a0b654bc7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bill"
+      ],
+      "phrase": [
+        {
+          "word": "账单",
+          "definition": "bill"
+        }
+      ],
+      "id": "eb4776c9f307",
+      "priority": 1,
+      "group": "469a0b654bc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bill",
+      "meaning": "账单",
+      "audio": "c16bcdbeba121f0ebad1fec783eaf514ee518cae8ff1ee5a9cd0e24a4b222683",
+      "id": "16243c35184d",
+      "priority": 1,
+      "group": "469a0b654bc7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "delicious",
+      "meaningInSourceLanguage": "美味",
+      "id": "aae682dbabd4",
+      "priority": 0,
+      "group": "3b2179f6281e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "delicious"
+      ],
+      "phrase": [
+        {
+          "word": "美味",
+          "definition": "delicious"
+        }
+      ],
+      "id": "46921b11113c",
+      "priority": 1,
+      "group": "3b2179f6281e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "delicious",
+      "meaning": "美味",
+      "audio": "077e25f1eaf9d66de4648d4d214484f52e1f67b1a6c982a0ace2757600192c9b",
+      "id": "95aad5eabb44",
+      "priority": 1,
+      "group": "3b2179f6281e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "recommendation",
+      "meaningInSourceLanguage": "推荐",
+      "id": "fa1dffde3b23",
+      "priority": 0,
+      "group": "85756396c994"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "recommendation"
+      ],
+      "phrase": [
+        {
+          "word": "推荐",
+          "definition": "recommendation"
+        }
+      ],
+      "id": "083e6f0cc065",
+      "priority": 1,
+      "group": "85756396c994"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "recommendation",
+      "meaning": "推荐",
+      "audio": "ade655ed312575c04680298da61f6aac1a084fa7b3b64c2d13afb8e0d0412a87",
+      "id": "550230ac1954",
+      "priority": 1,
+      "group": "85756396c994"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "reservation",
+      "meaningInSourceLanguage": "预约",
+      "id": "510af9b79370",
+      "priority": 0,
+      "group": "ad5871a53383"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "reservation"
+      ],
+      "phrase": [
+        {
+          "word": "预约",
+          "definition": "reservation"
+        }
+      ],
+      "id": "f5331e75f267",
+      "priority": 1,
+      "group": "ad5871a53383"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "reservation",
+      "meaning": "预约",
+      "audio": "e71223856f441e965b40e96b35e963a3bd5343b71d7981c9c2b9aaf403825e92",
+      "id": "e74436aff706",
+      "priority": 1,
+      "group": "ad5871a53383"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "waiter",
+      "meaningInSourceLanguage": "服务员",
+      "id": "b3b892c39148",
+      "priority": 0,
+      "group": "54152b31995b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "waiter"
+      ],
+      "phrase": [
+        {
+          "word": "服务员",
+          "definition": "waiter"
+        }
+      ],
+      "id": "bfe235491a9b",
+      "priority": 1,
+      "group": "54152b31995b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waiter",
+      "meaning": "服务员",
+      "audio": "493dcce24683c52f8b6b5bfa9590c2336f27b9129d05fda25665088658fe33d3",
+      "id": "627b99c041cb",
+      "priority": 1,
+      "group": "54152b31995b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "table for two",
+      "meaningInSourceLanguage": "两人桌",
+      "id": "eec170c366e9",
+      "priority": 0,
+      "group": "6164cc64f26a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "table for two"
+      ],
+      "phrase": [
+        {
+          "word": "两人桌",
+          "definition": "table for two"
+        }
+      ],
+      "id": "846aab053663",
+      "priority": 1,
+      "group": "6164cc64f26a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "table for two",
+      "meaning": "两人桌",
+      "audio": "e79d70920fcc6c544da8aff2635648ec0f9667dbfa064b4afae05d9610025454",
+      "id": "2cde5259f844",
+      "priority": 1,
+      "group": "6164cc64f26a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "today's special",
+      "meaningInSourceLanguage": "今日特价",
+      "id": "9b5f66bbc964",
+      "priority": 0,
+      "group": "57026a02788b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "today's special"
+      ],
+      "phrase": [
+        {
+          "word": "今日特价",
+          "definition": "today's special"
+        }
+      ],
+      "id": "ce6d1bbfa9da",
+      "priority": 1,
+      "group": "57026a02788b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "today's special",
+      "meaning": "今日特价",
+      "audio": "0351db14be20768f6a3ae8119a6e77b7abe9b465734349dacd8f8e35fbf02325",
+      "id": "820680f198d0",
+      "priority": 1,
+      "group": "57026a02788b"
+    }
+  ]
+}

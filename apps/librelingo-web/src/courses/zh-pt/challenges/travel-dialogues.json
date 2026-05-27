@@ -1,0 +1,516 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Onde fica o aeroporto?",
+      "meaningInSourceLanguage": "机场在哪里？",
+      "id": "15cd301141b9",
+      "priority": 0,
+      "group": "f178e64acd1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Onde fica o aeroporto?",
+      "meaning": "机场在哪里？",
+      "audio": "723dd5743052fc65c97f3114c80eebb848cef9ae5f4e560273ac81f97d568688",
+      "id": "aae481f3ad10",
+      "priority": 1,
+      "group": "f178e64acd1f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a ticket to Berlin.",
+      "meaningInSourceLanguage": "我需要一张去柏林的票。",
+      "id": "690f5dea79b4",
+      "priority": 0,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a ticket to Berlin.",
+      "meaning": "我需要一张去柏林的票。",
+      "audio": "84a6f0daf1c81f682823182490a89b3c67f2722896080a8d1663825186aa7b1d",
+      "id": "287ecd9493e4",
+      "priority": 1,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Só ida ou ida e volta?",
+      "meaningInSourceLanguage": "单程还是往返？",
+      "id": "4537f52aa922",
+      "priority": 0,
+      "group": "30b3345946c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Só ida ou ida e volta?",
+      "meaning": "单程还是往返？",
+      "audio": "4cadacc149abdcff87f2903c058a87ac74bcd37c05acfd1cc74ef7c2fc3e2d3e",
+      "id": "3d8fc4adfe1a",
+      "priority": 1,
+      "group": "30b3345946c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "De qual plataforma o trem sai?",
+      "meaningInSourceLanguage": "火车从哪个站台出发？",
+      "id": "65d67e6749e5",
+      "priority": 0,
+      "group": "86ea78dbc115"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "De qual plataforma o trem sai?",
+      "meaning": "火车从哪个站台出发？",
+      "audio": "371b23d9c5061c0375c36e028f4810214bcbabd6a28fe9fd02d0cd3fabac1b15",
+      "id": "ce1f59f31637",
+      "priority": 1,
+      "group": "86ea78dbc115"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A que horas sai o próximo ônibus?",
+      "meaningInSourceLanguage": "下一班车几点？",
+      "id": "4592e7e24a24",
+      "priority": 0,
+      "group": "81c62f8002f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A que horas sai o próximo ônibus?",
+      "meaning": "下一班车几点？",
+      "audio": "ff1b5ea96f79470af629d432293320d04f3faebc49e7dd91ce50554439dbbe39",
+      "id": "9f10c48290c7",
+      "priority": 1,
+      "group": "81c62f8002f5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Este lugar está ocupado?",
+      "meaningInSourceLanguage": "这个座位有人吗？",
+      "id": "1db0e4848c0b",
+      "priority": 0,
+      "group": "2c5f9c410466"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Este lugar está ocupado?",
+      "meaning": "这个座位有人吗？",
+      "audio": "c7706bff600d8a528ab9830933c2227a9f9b7f76bd04b7d4b04686c82371640b",
+      "id": "2847bdc06d8b",
+      "priority": 1,
+      "group": "2c5f9c410466"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Seu passaporte, por favor.",
+      "meaningInSourceLanguage": "请出示您的护照。",
+      "id": "033fc5d0eb78",
+      "priority": 0,
+      "group": "98fb319f2675"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Seu passaporte, por favor.",
+      "meaning": "请出示您的护照。",
+      "audio": "7529d755385915e4e0a794e6d84552b6b594f35e56327955f4650feef57d1774",
+      "id": "2be846c142f4",
+      "priority": 1,
+      "group": "98fb319f2675"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Não tenho nada a declarar.",
+      "meaningInSourceLanguage": "我没有需要申报的物品。",
+      "id": "98cf2edba885",
+      "priority": 0,
+      "group": "5c8601bcd831"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Não tenho nada a declarar.",
+      "meaning": "我没有需要申报的物品。",
+      "audio": "9be6cd6093d51b0f359dbfe78c0e7286cd21d97e6f448e62140811593951f47c",
+      "id": "6c26d52c93f4",
+      "priority": 1,
+      "group": "5c8601bcd831"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Quanto tempo dura a viagem?",
+      "meaningInSourceLanguage": "旅途有多久？",
+      "id": "6535bfab30d8",
+      "priority": 0,
+      "group": "9c67596c0348"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Quanto tempo dura a viagem?",
+      "meaning": "旅途有多久？",
+      "audio": "d1ac7d25448158e2deb3bfe5c2b3fde1589072022f518446650b877530821a16",
+      "id": "083ae96a719e",
+      "priority": 1,
+      "group": "9c67596c0348"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Me deixe na próxima parada, por favor.",
+      "meaningInSourceLanguage": "请在下一站让我下车。",
+      "id": "5a6cedb1823d",
+      "priority": 0,
+      "group": "ab9d76f76181"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Me deixe na próxima parada, por favor.",
+      "meaning": "请在下一站让我下车。",
+      "audio": "d6b198c9b5e39d5162cb9d2bfc41f44af03e3d99d4361aec28825c3a30286cf0",
+      "id": "aacd235fcb9a",
+      "priority": 1,
+      "group": "ab9d76f76181"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o aeroporto",
+      "meaningInSourceLanguage": "机场",
+      "id": "2d5bf8d018e0",
+      "priority": 0,
+      "group": "ceece1170771"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o aeroporto"
+      ],
+      "phrase": [
+        {
+          "word": "机场",
+          "definition": "o aeroporto"
+        }
+      ],
+      "id": "cc18ae4329a2",
+      "priority": 1,
+      "group": "ceece1170771"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o aeroporto",
+      "meaning": "机场",
+      "audio": "38de61699ae19d78b2894883d4896c7d0eba38a2d1003c0a337e83dfa5d85c1e",
+      "id": "b64a6fa435bc",
+      "priority": 1,
+      "group": "ceece1170771"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o bilhete",
+      "meaningInSourceLanguage": "票",
+      "id": "f22eeeca3dda",
+      "priority": 0,
+      "group": "b1f304a309f3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o bilhete"
+      ],
+      "phrase": [
+        {
+          "word": "票",
+          "definition": "o bilhete"
+        }
+      ],
+      "id": "ec7422c2ae15",
+      "priority": 1,
+      "group": "b1f304a309f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o bilhete",
+      "meaning": "票",
+      "audio": "034a7d47bfd7ed4b1ca918362e5e0558b02962f49abbfce50f3207dec0cc15b1",
+      "id": "3f349011e65b",
+      "priority": 1,
+      "group": "b1f304a309f3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a plataforma",
+      "meaningInSourceLanguage": "站台",
+      "id": "0d14a6f6d9b6",
+      "priority": 0,
+      "group": "067dc8bcabb3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a plataforma"
+      ],
+      "phrase": [
+        {
+          "word": "站台",
+          "definition": "a plataforma"
+        }
+      ],
+      "id": "e56e0a81fcc7",
+      "priority": 1,
+      "group": "067dc8bcabb3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a plataforma",
+      "meaning": "站台",
+      "audio": "81df84ee21ae623142fdc291186013213a97b4afd6091f277b4a9484c9e4f114",
+      "id": "d24c8713c90e",
+      "priority": 1,
+      "group": "067dc8bcabb3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a partida",
+      "meaningInSourceLanguage": "出发",
+      "id": "8b89a7b9961c",
+      "priority": 0,
+      "group": "62e7d5e41ba0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a partida"
+      ],
+      "phrase": [
+        {
+          "word": "出发",
+          "definition": "a partida"
+        }
+      ],
+      "id": "c8c9703dac30",
+      "priority": 1,
+      "group": "62e7d5e41ba0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a partida",
+      "meaning": "出发",
+      "audio": "d6f8dcd717bf2ed2e18c6eb9bfa151cb331a542358bbd439a24e7e086f146978",
+      "id": "f05ff8e24573",
+      "priority": 1,
+      "group": "62e7d5e41ba0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a chegada",
+      "meaningInSourceLanguage": "到达",
+      "id": "f0943b865ec7",
+      "priority": 0,
+      "group": "d753cbb538c0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a chegada"
+      ],
+      "phrase": [
+        {
+          "word": "到达",
+          "definition": "a chegada"
+        }
+      ],
+      "id": "6eba61128958",
+      "priority": 1,
+      "group": "d753cbb538c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a chegada",
+      "meaning": "到达",
+      "audio": "56c449729fa783cdc8aaa16b02bb9ab9d2de65693afebd5ae1b1cedb9d33cc9e",
+      "id": "08d0268ca7e0",
+      "priority": 1,
+      "group": "d753cbb538c0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "só ida",
+      "meaningInSourceLanguage": "单程",
+      "id": "75e22c2229e5",
+      "priority": 0,
+      "group": "81149bf8a681"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "só ida"
+      ],
+      "phrase": [
+        {
+          "word": "单程",
+          "definition": "só ida"
+        }
+      ],
+      "id": "c1747c09b0b6",
+      "priority": 1,
+      "group": "81149bf8a681"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "só ida",
+      "meaning": "单程",
+      "audio": "a13227654bfd0e1faac5ecadff73e612ddb3f5632de0121331d27934883bd6b0",
+      "id": "89d77c880371",
+      "priority": 1,
+      "group": "81149bf8a681"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ida e volta",
+      "meaningInSourceLanguage": "往返",
+      "id": "d8dc8e2aee76",
+      "priority": 0,
+      "group": "ca916eb1edb1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ida e volta"
+      ],
+      "phrase": [
+        {
+          "word": "往返",
+          "definition": "ida e volta"
+        }
+      ],
+      "id": "551737a25f08",
+      "priority": 1,
+      "group": "ca916eb1edb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ida e volta",
+      "meaning": "往返",
+      "audio": "17b33def044a5c7d4b8eb3254d164eef39ee1b62b55051fea27183c866159a7d",
+      "id": "6703a39951c1",
+      "priority": 1,
+      "group": "ca916eb1edb1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o passaporte",
+      "meaningInSourceLanguage": "护照",
+      "id": "ffde43388ea7",
+      "priority": 0,
+      "group": "bdfc007e9814"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o passaporte"
+      ],
+      "phrase": [
+        {
+          "word": "护照",
+          "definition": "o passaporte"
+        }
+      ],
+      "id": "51e09e3b5f4a",
+      "priority": 1,
+      "group": "bdfc007e9814"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o passaporte",
+      "meaning": "护照",
+      "audio": "74770ad97930078056a78c6fa9e51210616731e701f4be0a37ea77307db7b9e7",
+      "id": "2aec727ee537",
+      "priority": 1,
+      "group": "bdfc007e9814"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o visto",
+      "meaningInSourceLanguage": "签证",
+      "id": "947bed0353d4",
+      "priority": 0,
+      "group": "1a01a6dbd36a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o visto"
+      ],
+      "phrase": [
+        {
+          "word": "签证",
+          "definition": "o visto"
+        }
+      ],
+      "id": "f6e33d4e807d",
+      "priority": 1,
+      "group": "1a01a6dbd36a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o visto",
+      "meaning": "签证",
+      "audio": "82596a10245cbd13f2ba7bd92573055aa58da002af356309445a8a87c4e1d98d",
+      "id": "a533604f68b8",
+      "priority": 1,
+      "group": "1a01a6dbd36a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a alfândega",
+      "meaningInSourceLanguage": "海关",
+      "id": "5f2a139ee418",
+      "priority": 0,
+      "group": "2ddbe5e2d4c7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a alfândega"
+      ],
+      "phrase": [
+        {
+          "word": "海关",
+          "definition": "a alfândega"
+        }
+      ],
+      "id": "b41b4208ad26",
+      "priority": 1,
+      "group": "2ddbe5e2d4c7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a alfândega",
+      "meaning": "海关",
+      "audio": "16740669b1489c72b7b2364bbdd166f90a6b454e26f3e7dee90c5018e9c2ccf4",
+      "id": "167e830be4a2",
+      "priority": 1,
+      "group": "2ddbe5e2d4c7"
+    }
+  ]
+}

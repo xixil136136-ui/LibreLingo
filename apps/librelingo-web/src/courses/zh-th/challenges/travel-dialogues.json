@@ -1,0 +1,516 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "สนามบินอยู่ที่ไหน",
+      "meaningInSourceLanguage": "机场在哪里？",
+      "id": "5c668e0f6b8a",
+      "priority": 0,
+      "group": "c0a7ff4dfb8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สนามบินอยู่ที่ไหน",
+      "meaning": "机场在哪里？",
+      "audio": "8bb3bc582c10a73d80017126f511fdcf99eaad2f9759dede5327c794f1956913",
+      "id": "d78e4bc7aad8",
+      "priority": 1,
+      "group": "c0a7ff4dfb8b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a ticket to Berlin.",
+      "meaningInSourceLanguage": "我需要一张去柏林的票。",
+      "id": "690f5dea79b4",
+      "priority": 0,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a ticket to Berlin.",
+      "meaning": "我需要一张去柏林的票。",
+      "audio": "288cfdb4ace0ba1d9f6859f4e92fc42250013e73be31d99a94b4767d0c20cb34",
+      "id": "287ecd9493e4",
+      "priority": 1,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เที่ยวเดียวหรือไปกลับ",
+      "meaningInSourceLanguage": "单程还是往返？",
+      "id": "b368bfae004d",
+      "priority": 0,
+      "group": "3c146ab87412"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เที่ยวเดียวหรือไปกลับ",
+      "meaning": "单程还是往返？",
+      "audio": "1d71929b35a97a7bb53cfc6554a812060173b00eeab78d5f65cc647c88dc591d",
+      "id": "a9dc97f1a634",
+      "priority": 1,
+      "group": "3c146ab87412"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "รถไฟออกจากชานชาลาไหน",
+      "meaningInSourceLanguage": "火车从哪个站台出发？",
+      "id": "77edb1024599",
+      "priority": 0,
+      "group": "34b86ff3bd7b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "รถไฟออกจากชานชาลาไหน",
+      "meaning": "火车从哪个站台出发？",
+      "audio": "38cb8a06590da39ebfa87e7db8b27c0a21410fb97b98513ccca64e92a4a322be",
+      "id": "d147ecae4317",
+      "priority": 1,
+      "group": "34b86ff3bd7b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "รถเที่ยวหน้าไปกี่โมง",
+      "meaningInSourceLanguage": "下一班车几点？",
+      "id": "0025e44d32db",
+      "priority": 0,
+      "group": "c18abb1e713a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "รถเที่ยวหน้าไปกี่โมง",
+      "meaning": "下一班车几点？",
+      "audio": "df58a06f8fd40ec9a0af0ec00e3c1a8d7aa08f3657f7cb0cd89bc97208223eb4",
+      "id": "01a3ccdf0fa4",
+      "priority": 1,
+      "group": "c18abb1e713a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ที่นั่งนี้มีคนหรือยัง",
+      "meaningInSourceLanguage": "这个座位有人吗？",
+      "id": "41f192912ad1",
+      "priority": 0,
+      "group": "d124e59e2cb6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ที่นั่งนี้มีคนหรือยัง",
+      "meaning": "这个座位有人吗？",
+      "audio": "4a9fe6bfc7d2c9d56c36c59c0f7da6a82ee8015ad198bc2ab1bcfcad89245f1e",
+      "id": "444dc10c020b",
+      "priority": 1,
+      "group": "d124e59e2cb6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอดูพาสปอร์ตด้วยครับ",
+      "meaningInSourceLanguage": "请出示您的护照。",
+      "id": "07ae85a48ff8",
+      "priority": 0,
+      "group": "35c0d9d82676"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอดูพาสปอร์ตด้วยครับ",
+      "meaning": "请出示您的护照。",
+      "audio": "31030aa4e0ac47fad8ba29e0df287ee1c7249cc2f267a7193f09b881d6a93a0a",
+      "id": "b5b57f9c5846",
+      "priority": 1,
+      "group": "35c0d9d82676"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันไม่มีของต้องแจ้งศุลกากร",
+      "meaningInSourceLanguage": "我没有需要申报的物品。",
+      "id": "5f161aab72a3",
+      "priority": 0,
+      "group": "5aea38f7f19f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันไม่มีของต้องแจ้งศุลกากร",
+      "meaning": "我没有需要申报的物品。",
+      "audio": "3b2ce0a2b0eaaa4538ec807c732be04dc532ac6aead3dfdfe50d431844543eb5",
+      "id": "c3b471e74987",
+      "priority": 1,
+      "group": "5aea38f7f19f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "เดินทางนานแค่ไหน",
+      "meaningInSourceLanguage": "旅途有多久？",
+      "id": "72e9a58a1571",
+      "priority": 0,
+      "group": "dfac9218bdd1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เดินทางนานแค่ไหน",
+      "meaning": "旅途有多久？",
+      "audio": "dad90b09ffc5bed92f1bb8dd45f476c4c295eda1df64477d0f07b37b366a1e4d",
+      "id": "37057ece032b",
+      "priority": 1,
+      "group": "dfac9218bdd1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ลงป้ายหน้าด้วยครับ",
+      "meaningInSourceLanguage": "请在下一站让我下车。",
+      "id": "ee4682956b34",
+      "priority": 0,
+      "group": "f193deab39d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ลงป้ายหน้าด้วยครับ",
+      "meaning": "请在下一站让我下车。",
+      "audio": "a007f1b68a96582b19458c687227ec866912ad873115007876fad33c8a651e12",
+      "id": "007540473a76",
+      "priority": 1,
+      "group": "f193deab39d2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สนามบิน",
+      "meaningInSourceLanguage": "机场",
+      "id": "2b17b9596e1b",
+      "priority": 0,
+      "group": "15ef195e21a3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สนามบิน"
+      ],
+      "phrase": [
+        {
+          "word": "机场",
+          "definition": "สนามบิน"
+        }
+      ],
+      "id": "96f23e68defd",
+      "priority": 1,
+      "group": "15ef195e21a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สนามบิน",
+      "meaning": "机场",
+      "audio": "f8d47bc5003ac35ae4c620268f83ba779f2e04a3aa0b434a01be7c804d84b14f",
+      "id": "06b347bd7d2e",
+      "priority": 1,
+      "group": "15ef195e21a3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ตั๋ว",
+      "meaningInSourceLanguage": "票",
+      "id": "d75138ddfcad",
+      "priority": 0,
+      "group": "00de83461b9b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ตั๋ว"
+      ],
+      "phrase": [
+        {
+          "word": "票",
+          "definition": "ตั๋ว"
+        }
+      ],
+      "id": "e2978b605c3a",
+      "priority": 1,
+      "group": "00de83461b9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ตั๋ว",
+      "meaning": "票",
+      "audio": "2eebf348c985741bea62399d927836af95d04e08dd643f9e2b9c7090096fc849",
+      "id": "050cfdb3de3f",
+      "priority": 1,
+      "group": "00de83461b9b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ชานชาลา",
+      "meaningInSourceLanguage": "站台",
+      "id": "aed62174c05a",
+      "priority": 0,
+      "group": "65bfb228d352"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ชานชาลา"
+      ],
+      "phrase": [
+        {
+          "word": "站台",
+          "definition": "ชานชาลา"
+        }
+      ],
+      "id": "c121ff072384",
+      "priority": 1,
+      "group": "65bfb228d352"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ชานชาลา",
+      "meaning": "站台",
+      "audio": "f1cab9e3189a98bdd4c190e3a4d281bbf4775a52a0ce69fc7e29ba81ce09988d",
+      "id": "e21fcbf72c2a",
+      "priority": 1,
+      "group": "65bfb228d352"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ออกเดินทาง",
+      "meaningInSourceLanguage": "出发",
+      "id": "990d183a4c88",
+      "priority": 0,
+      "group": "548ad2d0abdc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ออกเดินทาง"
+      ],
+      "phrase": [
+        {
+          "word": "出发",
+          "definition": "ออกเดินทาง"
+        }
+      ],
+      "id": "b3936ef56837",
+      "priority": 1,
+      "group": "548ad2d0abdc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ออกเดินทาง",
+      "meaning": "出发",
+      "audio": "6ede3cfe7449d42e190d088101366f2d1e281123dc345cb3f5cb51353c30fb75",
+      "id": "a283c9b9d8b6",
+      "priority": 1,
+      "group": "548ad2d0abdc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ถึง",
+      "meaningInSourceLanguage": "到达",
+      "id": "f10af84b4eaa",
+      "priority": 0,
+      "group": "530948e66465"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ถึง"
+      ],
+      "phrase": [
+        {
+          "word": "到达",
+          "definition": "ถึง"
+        }
+      ],
+      "id": "36d6dd1550ce",
+      "priority": 1,
+      "group": "530948e66465"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ถึง",
+      "meaning": "到达",
+      "audio": "3e46456f5c80aca2871780c617dfec3a9b7f92b4319a6efea99a80705631804f",
+      "id": "3307bb468c07",
+      "priority": 1,
+      "group": "530948e66465"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เที่ยวเดียว",
+      "meaningInSourceLanguage": "单程",
+      "id": "4219b071c10e",
+      "priority": 0,
+      "group": "81d42c017414"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เที่ยวเดียว"
+      ],
+      "phrase": [
+        {
+          "word": "单程",
+          "definition": "เที่ยวเดียว"
+        }
+      ],
+      "id": "14e7c6f60a46",
+      "priority": 1,
+      "group": "81d42c017414"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เที่ยวเดียว",
+      "meaning": "单程",
+      "audio": "fd35fd33d0ebaf52737d4e48b2951e1e69b447f6e17e55ea7a3e6609f04b37ac",
+      "id": "fb41f99f6612",
+      "priority": 1,
+      "group": "81d42c017414"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ไป-กลับ",
+      "meaningInSourceLanguage": "往返",
+      "id": "cdc16b13443c",
+      "priority": 0,
+      "group": "98bbcd647084"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ไป-กลับ"
+      ],
+      "phrase": [
+        {
+          "word": "往返",
+          "definition": "ไป-กลับ"
+        }
+      ],
+      "id": "1f689988c941",
+      "priority": 1,
+      "group": "98bbcd647084"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไป-กลับ",
+      "meaning": "往返",
+      "audio": "1c0c921133ccf71cd12ab817bbde56d6acafc1c67f0634e193b50e366d12bbcc",
+      "id": "052e4ba7315e",
+      "priority": 1,
+      "group": "98bbcd647084"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "พาสปอร์ต",
+      "meaningInSourceLanguage": "护照",
+      "id": "37c0280b1dde",
+      "priority": 0,
+      "group": "9a73fef30a12"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "พาสปอร์ต"
+      ],
+      "phrase": [
+        {
+          "word": "护照",
+          "definition": "พาสปอร์ต"
+        }
+      ],
+      "id": "0a7a98e919af",
+      "priority": 1,
+      "group": "9a73fef30a12"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "พาสปอร์ต",
+      "meaning": "护照",
+      "audio": "2fc1c8300257ede197a8a839f28111dd169dcdf0ba3e054338268e56aaafb732",
+      "id": "0ced559ad506",
+      "priority": 1,
+      "group": "9a73fef30a12"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "วีซ่า",
+      "meaningInSourceLanguage": "签证",
+      "id": "ebae11ebd23d",
+      "priority": 0,
+      "group": "2ba6d7d7fb56"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "วีซ่า"
+      ],
+      "phrase": [
+        {
+          "word": "签证",
+          "definition": "วีซ่า"
+        }
+      ],
+      "id": "eb893524368c",
+      "priority": 1,
+      "group": "2ba6d7d7fb56"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "วีซ่า",
+      "meaning": "签证",
+      "audio": "cc7dabd84fee5eda95014845a44a96275686efe536f126275a41f4b959a4de66",
+      "id": "058945082119",
+      "priority": 1,
+      "group": "2ba6d7d7fb56"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ศุลกากร",
+      "meaningInSourceLanguage": "海关",
+      "id": "e8d6d27cf45b",
+      "priority": 0,
+      "group": "a97826e0283f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ศุลกากร"
+      ],
+      "phrase": [
+        {
+          "word": "海关",
+          "definition": "ศุลกากร"
+        }
+      ],
+      "id": "7a9305cab395",
+      "priority": 1,
+      "group": "a97826e0283f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ศุลกากร",
+      "meaning": "海关",
+      "audio": "50191ee850eaa88d2bb9335a2fe65646dc9aad177a3d3723ad3d66f774ccc5cb",
+      "id": "54fb8ea8af7c",
+      "priority": 1,
+      "group": "a97826e0283f"
+    }
+  ]
+}

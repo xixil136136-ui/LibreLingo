@@ -1,0 +1,78 @@
+Skill:
+  Name: Travel Dialogues
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: airport
+    Translation: 机场
+  - Word: ticket
+    Translation: 票
+  - Word: platform
+    Translation: 站台
+  - Word: departure
+    Translation: 出发
+  - Word: arrival
+    Translation: 到达
+  - Word: one-way
+    Translation: 单程
+  - Word: round trip
+    Translation: 往返
+  - Word: passport
+    Translation: 护照
+  - Word: visa
+    Translation: 签证
+  - Word: customs
+    Translation: 海关
+
+Phrases:
+  - Phrase: Where is the airport?
+    Translation: 机场在哪里？
+  - Phrase: I need a ticket to Berlin.
+    Translation: 我需要一张去柏林的票。
+  - Phrase: One-way or round trip?
+    Translation: 单程还是往返？
+  - Phrase: Which platform does the train leave from?
+    Translation: 火车从哪个站台出发？
+  - Phrase: What time is the next bus?
+    Translation: 下一班车几点？
+  - Phrase: Is this seat taken?
+    Translation: 这个座位有人吗？
+  - Phrase: Can I see your passport, please?
+    Translation: 请出示您的护照。
+  - Phrase: I have nothing to declare.
+    Translation: 我没有需要申报的物品。
+  - Phrase: How long is the journey?
+    Translation: 旅途有多久？
+  - Phrase: Please let me off at the next stop.
+    Translation: 请在下一站让我下车。
+
+Mini-dictionary:
+  French:
+    - departure: 出发
+    - passport: 护照
+    - customs: 海关
+    - ticket: 票
+    - airport: 机场
+    - round trip: 往返
+    - arrival: 到达
+    - platform: 站台
+    - one-way: 单程
+    - visa: 签证
+  Chinese:
+    - 到达: arrival
+    - 机场: airport
+    - 站台: platform
+    - 单程: one-way
+    - 海关: customs
+    - 护照: passport
+    - 签证: visa
+    - 出发: departure
+    - 往返: round trip
+    - 票: ticket

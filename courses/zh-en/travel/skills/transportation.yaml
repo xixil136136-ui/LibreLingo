@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - hotel: 酒店
-    - airport: 机场
-    - subway: 地铁
-    - luggage: 行李
     - taxi: 出租车
+    - subway: 地铁
     - passport: 护照
-    - platform: 站台
-    - train: 火车
-    - bus: 公共汽车
+    - luggage: 行李
+    - hotel: 酒店
     - ticket: 票
+    - airport: 机场
+    - train: 火车
+    - platform: 站台
+    - bus: 公共汽车
   Chinese:
-    - 票: ticket
-    - 行李: luggage
-    - 护照: passport
-    - 火车: train
-    - 公共汽车: bus
     - 出租车: taxi
-    - 酒店: hotel
-    - 站台: platform
     - 机场: airport
+    - 站台: platform
+    - 行李: luggage
+    - 火车: train
     - 地铁: subway
+    - 公共汽车: bus
+    - 护照: passport
+    - 酒店: hotel
+    - 票: ticket

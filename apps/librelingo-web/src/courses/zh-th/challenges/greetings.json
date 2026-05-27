@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "สวัสดีครับ สบายดีไหม",
+      "meaningInSourceLanguage": "你好，你好吗？",
+      "id": "b4f25dae7f4c",
+      "priority": 0,
+      "group": "8c441947fc7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สวัสดีครับ สบายดีไหม",
+      "meaning": "你好，你好吗？",
+      "audio": "6c8b441cd4794f44c55454d61abcf2d19848b71ccfeed45c64db33ba62d49cc8",
+      "id": "4ca235ee03e4",
+      "priority": 1,
+      "group": "8c441947fc7a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "อรุณสวัสดิ์ครับ ขอบคุณ",
+      "meaningInSourceLanguage": "早上好，谢谢。",
+      "id": "a244045ecf24",
+      "priority": 0,
+      "group": "cf953ec940f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อรุณสวัสดิ์ครับ ขอบคุณ",
+      "meaning": "早上好，谢谢。",
+      "audio": "cd9e40783c7cf4a99a5347e70474efa4de9a06f9277d1ff55203a2a0cbb3e089",
+      "id": "0d1aca538fc1",
+      "priority": 1,
+      "group": "cf953ec940f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ลาก่อน แล้วเจอกัน",
+      "meaningInSourceLanguage": "再见，回头见。",
+      "id": "781d0e376c51",
+      "priority": 0,
+      "group": "523554de0c34"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ลาก่อน แล้วเจอกัน",
+      "meaning": "再见，回头见。",
+      "audio": "39fdf4b919d5987f96bbe0fc97524a05f689a190a7d0566ea0283f94c5883f11",
+      "id": "bedd594ab0ba",
+      "priority": 1,
+      "group": "523554de0c34"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอบคุณมากครับ",
+      "meaningInSourceLanguage": "非常感谢。",
+      "id": "0f4d49f29adf",
+      "priority": 0,
+      "group": "e1f6a09eb3fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอบคุณมากครับ",
+      "meaning": "非常感谢。",
+      "audio": "ed6737117809760f98c40f97c54f738ffbef86d3d4138f0264abd585cfb682e3",
+      "id": "2dd0c430bd4d",
+      "priority": 1,
+      "group": "e1f6a09eb3fc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอโทษครับ ห้องน้ำอยู่ที่ไหน",
+      "meaningInSourceLanguage": "对不起，洗手间在哪里？",
+      "id": "3b8bcd14cd74",
+      "priority": 0,
+      "group": "74218c462e5a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอโทษครับ ห้องน้ำอยู่ที่ไหน",
+      "meaning": "对不起，洗手间在哪里？",
+      "audio": "4b133b049cb1f7a30b999931e0b6a89a97b26205458593541c34df0d821ecb16",
+      "id": "88f0ecb02f2f",
+      "priority": 1,
+      "group": "74218c462e5a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สวัสดี",
+      "meaningInSourceLanguage": "你好",
+      "id": "5b21eadd0095",
+      "priority": 0,
+      "group": "b516ff8fbab4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สวัสดี"
+      ],
+      "phrase": [
+        {
+          "word": "你好",
+          "definition": "สวัสดี"
+        }
+      ],
+      "id": "8aed22b42c92",
+      "priority": 1,
+      "group": "b516ff8fbab4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สวัสดี",
+      "meaning": "你好",
+      "audio": "11f4f1b13663324ab8eb600563c630107ee721216e8c35924bae3947338d7b50",
+      "id": "2769715cc602",
+      "priority": 1,
+      "group": "b516ff8fbab4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ลาก่อน",
+      "meaningInSourceLanguage": "再见",
+      "id": "29a626ebf2cd",
+      "priority": 0,
+      "group": "24024e3a3901"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ลาก่อน"
+      ],
+      "phrase": [
+        {
+          "word": "再见",
+          "definition": "ลาก่อน"
+        }
+      ],
+      "id": "0aea5114b7d8",
+      "priority": 1,
+      "group": "24024e3a3901"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ลาก่อน",
+      "meaning": "再见",
+      "audio": "88b4ac63224f573d2a6415751e2c955065044114a08c4c4b544c9de317a10593",
+      "id": "f79472ba91d5",
+      "priority": 1,
+      "group": "24024e3a3901"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "อรุณสวัสดิ์",
+      "meaningInSourceLanguage": "早上好",
+      "id": "f90042d21db5",
+      "priority": 0,
+      "group": "6e81a7bbb841"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "อรุณสวัสดิ์"
+      ],
+      "phrase": [
+        {
+          "word": "早上好",
+          "definition": "อรุณสวัสดิ์"
+        }
+      ],
+      "id": "2331129438c2",
+      "priority": 1,
+      "group": "6e81a7bbb841"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อรุณสวัสดิ์",
+      "meaning": "早上好",
+      "audio": "287420663cf79f6868673d154eb698a9862b9c71dcaf31c86f588671a4da590b",
+      "id": "1e0b6d77bc54",
+      "priority": 1,
+      "group": "6e81a7bbb841"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ขอบคุณ",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "c720b367a08a",
+      "priority": 0,
+      "group": "a99803160630"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ขอบคุณ"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "ขอบคุณ"
+        }
+      ],
+      "id": "36f694ee12da",
+      "priority": 1,
+      "group": "a99803160630"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอบคุณ",
+      "meaning": "谢谢",
+      "audio": "4bbf9079aa647d4a86b46ade82bc87cda972b23a14e33e57b8efd1c53a657a34",
+      "id": "606ac558d50d",
+      "priority": 1,
+      "group": "a99803160630"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "กรุณา",
+      "meaningInSourceLanguage": "请",
+      "id": "013e4104b5c2",
+      "priority": 0,
+      "group": "57e431278b32"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "กรุณา"
+      ],
+      "phrase": [
+        {
+          "word": "请",
+          "definition": "กรุณา"
+        }
+      ],
+      "id": "eaefece0cdc8",
+      "priority": 1,
+      "group": "57e431278b32"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "กรุณา",
+      "meaning": "请",
+      "audio": "ceab600879ca86fe259ba8e2c66aadfb9b181c4343ef637980851b489762b21d",
+      "id": "d854fd548868",
+      "priority": 1,
+      "group": "57e431278b32"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ขอโทษ",
+      "meaningInSourceLanguage": "对不起",
+      "id": "a1a4c57a097e",
+      "priority": 0,
+      "group": "071fc6fc8e50"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ขอโทษ"
+      ],
+      "phrase": [
+        {
+          "word": "对不起",
+          "definition": "ขอโทษ"
+        }
+      ],
+      "id": "57c3c044d15a",
+      "priority": 1,
+      "group": "071fc6fc8e50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอโทษ",
+      "meaning": "对不起",
+      "audio": "09ccbef39cfb844e51740f95b47479a5b0f1f48798d5ef6bc9c01e2a90eb5237",
+      "id": "7e09c7579d47",
+      "priority": 1,
+      "group": "071fc6fc8e50"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ใช่",
+      "meaningInSourceLanguage": "是的",
+      "id": "0ac81f4f4c32",
+      "priority": 0,
+      "group": "16419612f710"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ใช่"
+      ],
+      "phrase": [
+        {
+          "word": "是的",
+          "definition": "ใช่"
+        }
+      ],
+      "id": "29dd7e40345f",
+      "priority": 1,
+      "group": "16419612f710"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ใช่",
+      "meaning": "是的",
+      "audio": "cf3169f9c7ed2a72ccb3d2777c17b5da94b17a2efe415676e3da87bfe982271f",
+      "id": "5fa4ee94eee5",
+      "priority": 1,
+      "group": "16419612f710"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ไม่ใช่",
+      "meaningInSourceLanguage": "不是",
+      "id": "c0ae1d55d4af",
+      "priority": 0,
+      "group": "3a3d3102fe67"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ไม่ใช่"
+      ],
+      "phrase": [
+        {
+          "word": "不是",
+          "definition": "ไม่ใช่"
+        }
+      ],
+      "id": "91ca9dcfae64",
+      "priority": 1,
+      "group": "3a3d3102fe67"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไม่ใช่",
+      "meaning": "不是",
+      "audio": "9dbc66d861bff09c15504372603338b4a425906d1a0cd672b1269c335da5d50c",
+      "id": "d2e65081f163",
+      "priority": 1,
+      "group": "3a3d3102fe67"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ไม่เป็นไร",
+      "meaningInSourceLanguage": "没关系/不客气",
+      "id": "13da5f8fcd8e",
+      "priority": 0,
+      "group": "374604e29d70"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ไม่เป็นไร"
+      ],
+      "phrase": [
+        {
+          "word": "没关系/不客气",
+          "definition": "ไม่เป็นไร"
+        }
+      ],
+      "id": "9ad26edb9da4",
+      "priority": 1,
+      "group": "374604e29d70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไม่เป็นไร",
+      "meaning": "没关系/不客气",
+      "audio": "f8c4aa624c7f7f396746d8557caeb8f73c7d9530fc38cfc5c39de4e876f43f47",
+      "id": "72fa1910a24e",
+      "priority": 1,
+      "group": "374604e29d70"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สบายดีไหม",
+      "meaningInSourceLanguage": "你好吗",
+      "id": "a67ca2988e95",
+      "priority": 0,
+      "group": "a13a0aa8c66c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สบายดีไหม"
+      ],
+      "phrase": [
+        {
+          "word": "你好吗",
+          "definition": "สบายดีไหม"
+        }
+      ],
+      "id": "96932c827712",
+      "priority": 1,
+      "group": "a13a0aa8c66c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สบายดีไหม",
+      "meaning": "你好吗",
+      "audio": "151714bfde088a0748d6b933f5cf81dec08ff910b6c6369cfe5d7c4d468fc202",
+      "id": "a35e09dc1552",
+      "priority": 1,
+      "group": "a13a0aa8c66c"
+    }
+  ]
+}

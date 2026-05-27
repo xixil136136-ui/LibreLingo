@@ -1,0 +1,78 @@
+Skill:
+  Name: Restaurant Dialogues
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Quisiera
+    Translation: 我想要
+  - Word: el menú
+    Translation: 菜单
+  - Word: pedir
+    Translation: 点餐
+  - Word: la cuenta
+    Translation: 账单
+  - Word: delicioso
+    Translation: 美味
+  - Word: la recomendación
+    Translation: 推荐
+  - Word: la reserva
+    Translation: 预约
+  - Word: el camarero
+    Translation: 服务员
+  - Word: una mesa para dos
+    Translation: 两人桌
+  - Word: el plato del día
+    Translation: 今日特价
+
+Phrases:
+  - Phrase: Me gustaría hacer una reserva.
+    Translation: 我想预约。
+  - Phrase: Una mesa para dos, por favor.
+    Translation: 请给我一个两人桌。
+  - Phrase: ¿Puedo ver el menú?
+    Translation: 我能看看菜单吗？
+  - Phrase: ¿Qué recomienda?
+    Translation: 你推荐什么？
+  - Phrase: Quiero el filete, por favor.
+    Translation: 我要牛排。
+  - Phrase: ¿Me trae la cuenta, por favor?
+    Translation: 请给我账单。
+  - Phrase: ¡La comida está deliciosa!
+    Translation: 食物太好吃了！
+  - Phrase: ¿Me puede dar un poco de agua?
+    Translation: 能给我一些水吗？
+  - Phrase: ¿Está incluido el servicio?
+    Translation: 服务费包含在内吗？
+  - Phrase: Soy alérgico al cacahuete.
+    Translation: 我对花生过敏。
+
+Mini-dictionary:
+  Spanish:
+    - la reserva: 预约
+    - el camarero: 服务员
+    - una mesa para dos: 两人桌
+    - el plato del día: 今日特价
+    - la recomendación: 推荐
+    - Quisiera: 我想要
+    - el menú: 菜单
+    - pedir: 点餐
+    - delicioso: 美味
+    - la cuenta: 账单
+  Chinese:
+    - 我想要: Quisiera
+    - 账单: la cuenta
+    - 预约: la reserva
+    - 两人桌: una mesa para dos
+    - 点餐: pedir
+    - 美味: delicioso
+    - 今日特价: el plato del día
+    - 菜单: el menú
+    - 推荐: la recomendación
+    - 服务员: el camarero

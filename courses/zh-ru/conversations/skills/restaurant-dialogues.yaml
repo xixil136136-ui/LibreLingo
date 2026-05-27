@@ -1,0 +1,78 @@
+Skill:
+  Name: Restaurant Dialogues
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Я хотел бы
+    Translation: 我想要
+  - Word: меню
+    Translation: 菜单
+  - Word: заказать
+    Translation: 点餐
+  - Word: счёт
+    Translation: 账单
+  - Word: вкусно
+    Translation: 美味
+  - Word: рекомендация
+    Translation: 推荐
+  - Word: бронирование
+    Translation: 预约
+  - Word: официант
+    Translation: 服务员
+  - Word: столик на двоих
+    Translation: 两人桌
+  - Word: блюдо дня
+    Translation: 今日特价
+
+Phrases:
+  - Phrase: Я хотел бы забронировать столик.
+    Translation: 我想预约。
+  - Phrase: Столик на двоих, пожалуйста.
+    Translation: 请给我一个两人桌。
+  - Phrase: Можно посмотреть меню?
+    Translation: 我能看看菜单吗？
+  - Phrase: Что вы порекомендуете?
+    Translation: 你推荐什么？
+  - Phrase: Я возьму стейк.
+    Translation: 我要牛排。
+  - Phrase: Счёт, пожалуйста.
+    Translation: 请给我账单。
+  - Phrase: Еда очень вкусная!
+    Translation: 食物太好吃了！
+  - Phrase: Можно воды?
+    Translation: 能给我一些水吗？
+  - Phrase: Обслуживание включено?
+    Translation: 服务费包含在内吗？
+  - Phrase: У меня аллергия на арахис.
+    Translation: 我对花生过敏。
+
+Mini-dictionary:
+  Russian:
+    - меню: 菜单
+    - рекомендация: 推荐
+    - столик на двоих: 两人桌
+    - бронирование: 预约
+    - официант: 服务员
+    - вкусно: 美味
+    - блюдо дня: 今日特价
+    - заказать: 点餐
+    - счёт: 账单
+    - Я хотел бы: 我想要
+  Chinese:
+    - 账单: счёт
+    - 推荐: рекомендация
+    - 服务员: официант
+    - 今日特价: блюдо дня
+    - 美味: вкусно
+    - 点餐: заказать
+    - 菜单: меню
+    - 预约: бронирование
+    - 两人桌: столик на двоих
+    - 我想要: Я хотел бы

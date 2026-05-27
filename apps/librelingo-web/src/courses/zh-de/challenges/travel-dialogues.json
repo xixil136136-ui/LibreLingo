@@ -1,0 +1,516 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wo ist der Flughafen?",
+      "meaningInSourceLanguage": "机场在哪里？",
+      "id": "12f0a6870ccd",
+      "priority": 0,
+      "group": "ce06eb02a347"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wo ist der Flughafen?",
+      "meaning": "机场在哪里？",
+      "audio": "1c0946db8d400b4dcf9fbf16462fff91c18d1ca31f88074cc84fef4bd12c17e3",
+      "id": "93d1358089e3",
+      "priority": 1,
+      "group": "ce06eb02a347"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich brauche eine Fahrkarte nach Berlin.",
+      "meaningInSourceLanguage": "我需要一张去柏林的票。",
+      "id": "eceeff35d044",
+      "priority": 0,
+      "group": "609cf31c2dd8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich brauche eine Fahrkarte nach Berlin.",
+      "meaning": "我需要一张去柏林的票。",
+      "audio": "b659167547dd6669904902145cbb2fc01dc254bc44b037611901f9bf39ca004e",
+      "id": "f3992282b2b8",
+      "priority": 1,
+      "group": "609cf31c2dd8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Einfach oder hin und zurück?",
+      "meaningInSourceLanguage": "单程还是往返？",
+      "id": "daa0a9c07130",
+      "priority": 0,
+      "group": "021f3dd83314"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Einfach oder hin und zurück?",
+      "meaning": "单程还是往返？",
+      "audio": "5bfe9d3ebe0e0aee9487af9d6a105022c09603af0ca86aba8e998b30969761ef",
+      "id": "3109d2af0c40",
+      "priority": 1,
+      "group": "021f3dd83314"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Von welchem Bahnsteig fährt der Zug ab?",
+      "meaningInSourceLanguage": "火车从哪个站台出发？",
+      "id": "b2a0df764f3c",
+      "priority": 0,
+      "group": "31b3138e77ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Von welchem Bahnsteig fährt der Zug ab?",
+      "meaning": "火车从哪个站台出发？",
+      "audio": "f853dc6f8119b538a59b5c408c257b147da3f8976e5c7bd6317fcfc49ca6d805",
+      "id": "98f6df876ac0",
+      "priority": 1,
+      "group": "31b3138e77ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wann kommt der nächste Bus?",
+      "meaningInSourceLanguage": "下一班车几点？",
+      "id": "fa530c4f9ac7",
+      "priority": 0,
+      "group": "814e3501a1e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wann kommt der nächste Bus?",
+      "meaning": "下一班车几点？",
+      "audio": "9cf2dc3131fdc1c282a7126e23df5499e4552bec9e22bd4d373147863344a660",
+      "id": "e45e01439891",
+      "priority": 1,
+      "group": "814e3501a1e3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ist dieser Platz frei?",
+      "meaningInSourceLanguage": "这个座位有人吗？",
+      "id": "1d6eb1feee0c",
+      "priority": 0,
+      "group": "9983eb5d25e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ist dieser Platz frei?",
+      "meaning": "这个座位有人吗？",
+      "audio": "bc4c2a619a38aea4c8a8f532ca7efd8a77b8618475dce952c8b01c872d91fa47",
+      "id": "bdd8a2dba37f",
+      "priority": 1,
+      "group": "9983eb5d25e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ihren Reisepass, bitte.",
+      "meaningInSourceLanguage": "请出示您的护照。",
+      "id": "70e3101ccbf7",
+      "priority": 0,
+      "group": "ba091ad264c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ihren Reisepass, bitte.",
+      "meaning": "请出示您的护照。",
+      "audio": "731375268ac37bd3fafe5ebc4b0a4603ee0c1e4010fe70e00f6e9d34a4b64701",
+      "id": "476c7e5b0291",
+      "priority": 1,
+      "group": "ba091ad264c2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich habe nichts zu verzollen.",
+      "meaningInSourceLanguage": "我没有需要申报的物品。",
+      "id": "030b530f2546",
+      "priority": 0,
+      "group": "058cd4ae5969"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich habe nichts zu verzollen.",
+      "meaning": "我没有需要申报的物品。",
+      "audio": "b1035f20b5cbe56464973d0c4fe1ebe85e12c9f1fd39fa6d871902a7dee005da",
+      "id": "1469b980db9f",
+      "priority": 1,
+      "group": "058cd4ae5969"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Wie lange dauert die Reise?",
+      "meaningInSourceLanguage": "旅途有多久？",
+      "id": "9094016c7121",
+      "priority": 0,
+      "group": "bd10c18a4ccd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wie lange dauert die Reise?",
+      "meaning": "旅途有多久？",
+      "audio": "967ce60a1c48416b32d41825d060036197a6766dc2746b3773367051c9a910f9",
+      "id": "fa85763b49ac",
+      "priority": 1,
+      "group": "bd10c18a4ccd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Lassen Sie mich bitte an der nächsten Haltestelle aussteigen.",
+      "meaningInSourceLanguage": "请在下一站让我下车。",
+      "id": "a3365c8f0483",
+      "priority": 0,
+      "group": "96a9915fff23"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Lassen Sie mich bitte an der nächsten Haltestelle aussteigen.",
+      "meaning": "请在下一站让我下车。",
+      "audio": "29141a6dbe74d80e019f77079ca5873c0e16210f88934bfeb7c4d394d424c718",
+      "id": "5a74f36db982",
+      "priority": 1,
+      "group": "96a9915fff23"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "der Flughafen",
+      "meaningInSourceLanguage": "机场",
+      "id": "b096e8f7707d",
+      "priority": 0,
+      "group": "a7ccfd318c29"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "der Flughafen"
+      ],
+      "phrase": [
+        {
+          "word": "机场",
+          "definition": "der Flughafen"
+        }
+      ],
+      "id": "3039c9405e85",
+      "priority": 1,
+      "group": "a7ccfd318c29"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "der Flughafen",
+      "meaning": "机场",
+      "audio": "ffeaca554acbcc2a1806ef4cdab69e30b4be58e8e822bb29698f739944c9d8bb",
+      "id": "e2bd25d96dd4",
+      "priority": 1,
+      "group": "a7ccfd318c29"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "die Fahrkarte",
+      "meaningInSourceLanguage": "票",
+      "id": "fe4776af99a5",
+      "priority": 0,
+      "group": "6836c14bc979"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "die Fahrkarte"
+      ],
+      "phrase": [
+        {
+          "word": "票",
+          "definition": "die Fahrkarte"
+        }
+      ],
+      "id": "e4bebd8cb7e7",
+      "priority": 1,
+      "group": "6836c14bc979"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "die Fahrkarte",
+      "meaning": "票",
+      "audio": "578b09a0277d94b5941a1cd525149d8d1966f56a34f9b5b3551c6f05b59391cb",
+      "id": "4cc050457e26",
+      "priority": 1,
+      "group": "6836c14bc979"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "der Bahnsteig",
+      "meaningInSourceLanguage": "站台",
+      "id": "4f87a9bede15",
+      "priority": 0,
+      "group": "0ccd835785bd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "der Bahnsteig"
+      ],
+      "phrase": [
+        {
+          "word": "站台",
+          "definition": "der Bahnsteig"
+        }
+      ],
+      "id": "fefab7532c10",
+      "priority": 1,
+      "group": "0ccd835785bd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "der Bahnsteig",
+      "meaning": "站台",
+      "audio": "68ee46c9c20fb8ac716c600850076acf8c82b979e9edf672cc08ec921ff7c404",
+      "id": "8223114d1e08",
+      "priority": 1,
+      "group": "0ccd835785bd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "die Abfahrt",
+      "meaningInSourceLanguage": "出发",
+      "id": "875e873d1ac5",
+      "priority": 0,
+      "group": "e48b5e3f9bbb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "die Abfahrt"
+      ],
+      "phrase": [
+        {
+          "word": "出发",
+          "definition": "die Abfahrt"
+        }
+      ],
+      "id": "2d20f54d3bf4",
+      "priority": 1,
+      "group": "e48b5e3f9bbb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "die Abfahrt",
+      "meaning": "出发",
+      "audio": "2924701abfa80995315b006b7c731d31a94fbccb529ff006c7089a63c9ece3fa",
+      "id": "2dec1d47c1d0",
+      "priority": 1,
+      "group": "e48b5e3f9bbb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "die Ankunft",
+      "meaningInSourceLanguage": "到达",
+      "id": "d7155c3dac21",
+      "priority": 0,
+      "group": "c2ba4ba5efd9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "die Ankunft"
+      ],
+      "phrase": [
+        {
+          "word": "到达",
+          "definition": "die Ankunft"
+        }
+      ],
+      "id": "5ae06a463257",
+      "priority": 1,
+      "group": "c2ba4ba5efd9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "die Ankunft",
+      "meaning": "到达",
+      "audio": "db9d81fb563ec56d5633814cfaeac2882cae9f181e317691716f970e4ee91b99",
+      "id": "e50038c9463e",
+      "priority": 1,
+      "group": "c2ba4ba5efd9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "einfach",
+      "meaningInSourceLanguage": "单程",
+      "id": "a62f00c33a54",
+      "priority": 0,
+      "group": "4abef690832d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "einfach"
+      ],
+      "phrase": [
+        {
+          "word": "单程",
+          "definition": "einfach"
+        }
+      ],
+      "id": "c34d5975b14b",
+      "priority": 1,
+      "group": "4abef690832d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "einfach",
+      "meaning": "单程",
+      "audio": "f2ec5009ef38934a223bc71526d8b8a495015aa30bd14a667611d9f41c144a71",
+      "id": "38cc4b3e726f",
+      "priority": 1,
+      "group": "4abef690832d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "hin und zurück",
+      "meaningInSourceLanguage": "往返",
+      "id": "d48bd0b0256e",
+      "priority": 0,
+      "group": "ba38822c8fce"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "hin und zurück"
+      ],
+      "phrase": [
+        {
+          "word": "往返",
+          "definition": "hin und zurück"
+        }
+      ],
+      "id": "8ab02c559de6",
+      "priority": 1,
+      "group": "ba38822c8fce"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "hin und zurück",
+      "meaning": "往返",
+      "audio": "edf4e564959808fc8b8e64c0a477d42de093cebf69960d7cf62a1d9d5452aaea",
+      "id": "08f485edc7fe",
+      "priority": 1,
+      "group": "ba38822c8fce"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "der Reisepass",
+      "meaningInSourceLanguage": "护照",
+      "id": "78d050787956",
+      "priority": 0,
+      "group": "e7a4c25b44e9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "der Reisepass"
+      ],
+      "phrase": [
+        {
+          "word": "护照",
+          "definition": "der Reisepass"
+        }
+      ],
+      "id": "818494ab1355",
+      "priority": 1,
+      "group": "e7a4c25b44e9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "der Reisepass",
+      "meaning": "护照",
+      "audio": "517bf2da027b28d59da29e7dc7599c4bc787aa7faa5077039c3f71e667277d69",
+      "id": "e820ae568054",
+      "priority": 1,
+      "group": "e7a4c25b44e9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "das Visum",
+      "meaningInSourceLanguage": "签证",
+      "id": "23dbc6669587",
+      "priority": 0,
+      "group": "3b4a1b4dfd21"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "das Visum"
+      ],
+      "phrase": [
+        {
+          "word": "签证",
+          "definition": "das Visum"
+        }
+      ],
+      "id": "bd6b3a382e13",
+      "priority": 1,
+      "group": "3b4a1b4dfd21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "das Visum",
+      "meaning": "签证",
+      "audio": "a6686ccd981d26f5427a24c5005453e3bb6b47ec47303cb6dda35dfe46f78a9e",
+      "id": "bd7025488030",
+      "priority": 1,
+      "group": "3b4a1b4dfd21"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "der Zoll",
+      "meaningInSourceLanguage": "海关",
+      "id": "04e37b9fceaf",
+      "priority": 0,
+      "group": "c6ca1a98494a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "der Zoll"
+      ],
+      "phrase": [
+        {
+          "word": "海关",
+          "definition": "der Zoll"
+        }
+      ],
+      "id": "d7a2da9ede1b",
+      "priority": 1,
+      "group": "c6ca1a98494a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "der Zoll",
+      "meaning": "海关",
+      "audio": "9e50c7a85230967eaf4b1cc4715859266cbd649950d0dc792faac1e0c0be2d3d",
+      "id": "8166010af42e",
+      "priority": 1,
+      "group": "c6ca1a98494a"
+    }
+  ]
+}

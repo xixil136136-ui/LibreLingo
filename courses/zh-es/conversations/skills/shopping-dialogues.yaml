@@ -1,0 +1,78 @@
+Skill:
+  Name: Shopping Dialogues
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Cuánto
+    Translation: 多少钱
+  - Word: el descuento
+    Translation: 折扣
+  - Word: la tarjeta de crédito
+    Translation: 信用卡
+  - Word: el efectivo
+    Translation: 现金
+  - Word: la talla
+    Translation: 尺寸
+  - Word: el color
+    Translation: 颜色
+  - Word: probarse
+    Translation: 试穿
+  - Word: el recibo
+    Translation: 收据
+  - Word: demasiado caro
+    Translation: 太贵
+  - Word: cambiar
+    Translation: 换货
+
+Phrases:
+  - Phrase: ¿Cuánto cuesta esto?
+    Translation: 这个多少钱？
+  - Phrase: ¿Puedo probármelo?
+    Translation: 我能试穿这个吗？
+  - Phrase: ¿Lo tiene en otro color?
+    Translation: 有别的颜色吗？
+  - Phrase: Es demasiado caro. ¿Hay descuento?
+    Translation: 太贵了。有折扣吗？
+  - Phrase: Me lo llevo. ¿Puedo pagar con tarjeta?
+    Translation: 我买了。能用卡支付吗？
+  - Phrase: ¿Me da un recibo, por favor?
+    Translation: 请给我收据。
+  - Phrase: Quisiera cambiar esto.
+    Translation: 我想换这个。
+  - Phrase: ¿Tiene una talla más pequeña?
+    Translation: 有小一点的尺寸吗？
+  - Phrase: ¿Hay rebajas?
+    Translation: 有打折活动吗？
+  - Phrase: Sólo estoy mirando, gracias.
+    Translation: 我就看看，谢谢。
+
+Mini-dictionary:
+  Spanish:
+    - el recibo: 收据
+    - cambiar: 换货
+    - el efectivo: 现金
+    - el descuento: 折扣
+    - el color: 颜色
+    - demasiado caro: 太贵
+    - Cuánto: 多少钱
+    - probarse: 试穿
+    - la talla: 尺寸
+    - la tarjeta de crédito: 信用卡
+  Chinese:
+    - 尺寸: la talla
+    - 换货: cambiar
+    - 收据: el recibo
+    - 现金: el efectivo
+    - 折扣: el descuento
+    - 颜色: el color
+    - 太贵: demasiado caro
+    - 试穿: probarse
+    - 信用卡: la tarjeta de crédito
+    - 多少钱: Cuánto

@@ -1,0 +1,66 @@
+Skill:
+  Name: Greetings
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+
+New words:
+  - Word: olá
+    Translation: 你好
+  - Word: tchau
+    Translation: 再见
+  - Word: bom dia
+    Translation: 早上好
+  - Word: boa tarde
+    Translation: 下午好
+  - Word: obrigado
+    Translation: 谢谢
+  - Word: por favor
+    Translation: 请
+  - Word: desculpe
+    Translation: 对不起
+  - Word: sim
+    Translation: 是的
+  - Word: não
+    Translation: 不是
+  - Word: de nada
+    Translation: 不客气
+
+Phrases:
+  - Phrase: Olá! Como vai?
+    Translation: 你好！你好吗？
+  - Phrase: Bom dia, obrigado.
+    Translation: 早上好，谢谢。
+  - Phrase: Tchau, até logo.
+    Translation: 再见，回头见。
+  - Phrase: Muito obrigado!
+    Translation: 非常感谢！
+  - Phrase: Desculpe, onde fica o banheiro?
+    Translation: 对不起，洗手间在哪里？
+
+Mini-dictionary:
+  Portuguese:
+    - obrigado: 谢谢
+    - de nada: 不客气
+    - tchau: 再见
+    - bom dia: 早上好
+    - desculpe: 对不起
+    - sim: 是的
+    - boa tarde: 下午好
+    - por favor: 请
+    - não: 不是
+    - olá: 你好
+  Chinese:
+    - 不是: não
+    - 不客气: de nada
+    - 再见: tchau
+    - 早上好: bom dia
+    - 下午好: boa tarde
+    - 你好: olá
+    - 是的: sim
+    - 谢谢: obrigado
+    - 对不起: desculpe
+    - 请: por favor

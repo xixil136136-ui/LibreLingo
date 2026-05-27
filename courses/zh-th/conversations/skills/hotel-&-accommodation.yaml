@@ -1,0 +1,78 @@
+Skill:
+  Name: Hotel & Accommodation
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: เช็คอิน
+    Translation: 入住
+  - Word: เช็คเอาท์
+    Translation: 退房
+  - Word: กุญแจห้อง
+    Translation: 房卡
+  - Word: ห้องเดี่ยว
+    Translation: 单人间
+  - Word: ห้องคู่
+    Translation: 双人间
+  - Word: การจอง
+    Translation: 预订
+  - Word: อาหารเช้า
+    Translation: 早餐
+  - Word: WiFi
+    Translation: 无线网络
+  - Word: แอร์
+    Translation: 空调
+  - Word: รูมเซอร์วิส
+    Translation: 客房服务
+
+Phrases:
+  - Phrase: ฉันจองห้องไว้แล้ว
+    Translation: 我有预订。
+  - Phrase: ฉันขอเช็คอินครับ
+    Translation: 我想办理入住。
+  - Phrase: ห้องคู่คืนละเท่าไหร่
+    Translation: 双人间一晚多少钱？
+  - Phrase: รวมอาหารเช้าไหม
+    Translation: 包含早餐吗？
+  - Phrase: รหัส WiFi คืออะไร
+    Translation: WiFi密码是什么？
+  - Phrase: แอร์เสีย
+    Translation: 空调坏了。
+  - Phrase: ช่วยปลุกตอน 7 โมงได้ไหม
+    Translation: 能给我设置早上7点的叫醒服务吗？
+  - Phrase: ฉันขอเช็คเอาท์
+    Translation: 我想退房。
+  - Phrase: ฝากกระเป๋าไว้ที่นี่ได้ไหม
+    Translation: 我能寄存行李吗？
+  - Phrase: ขอบคุณสำหรับการต้อนรับที่ดี
+    Translation: 谢谢，住得很愉快！
+
+Mini-dictionary:
+  Thai:
+    - แอร์: 空调
+    - การจอง: 预订
+    - กุญแจห้อง: 房卡
+    - เช็คอิน: 入住
+    - อาหารเช้า: 早餐
+    - ห้องคู่: 双人间
+    - รูมเซอร์วิส: 客房服务
+    - เช็คเอาท์: 退房
+    - ห้องเดี่ยว: 单人间
+    - WiFi: 无线网络
+  Chinese:
+    - 预订: การจอง
+    - 客房服务: รูมเซอร์วิส
+    - 入住: เช็คอิน
+    - 空调: แอร์
+    - 房卡: กุญแจห้อง
+    - 无线网络: WiFi
+    - 早餐: อาหารเช้า
+    - 单人间: ห้องเดี่ยว
+    - 退房: เช็คเอาท์
+    - 双人间: ห้องคู่

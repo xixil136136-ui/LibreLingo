@@ -1,0 +1,78 @@
+Skill:
+  Name: Travel Dialogues
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: el aeropuerto
+    Translation: 机场
+  - Word: el billete
+    Translation: 票
+  - Word: el andén
+    Translation: 站台
+  - Word: la salida
+    Translation: 出发
+  - Word: la llegada
+    Translation: 到达
+  - Word: ida
+    Translation: 单程
+  - Word: ida y vuelta
+    Translation: 往返
+  - Word: el pasaporte
+    Translation: 护照
+  - Word: el visado
+    Translation: 签证
+  - Word: la aduana
+    Translation: 海关
+
+Phrases:
+  - Phrase: ¿Dónde está el aeropuerto?
+    Translation: 机场在哪里？
+  - Phrase: I need a ticket to Berlin.
+    Translation: 我需要一张去柏林的票。
+  - Phrase: ¿Ida o ida y vuelta?
+    Translation: 单程还是往返？
+  - Phrase: ¿De qué andén sale el tren?
+    Translation: 火车从哪个站台出发？
+  - Phrase: ¿A qué hora sale el próximo autobús?
+    Translation: 下一班车几点？
+  - Phrase: ¿Está ocupado este asiento?
+    Translation: 这个座位有人吗？
+  - Phrase: Su pasaporte, por favor.
+    Translation: 请出示您的护照。
+  - Phrase: No tengo nada que declarar.
+    Translation: 我没有需要申报的物品。
+  - Phrase: ¿Cuánto dura el viaje?
+    Translation: 旅途有多久？
+  - Phrase: Déjeme en la próxima parada, por favor.
+    Translation: 请在下一站让我下车。
+
+Mini-dictionary:
+  Spanish:
+    - la llegada: 到达
+    - el pasaporte: 护照
+    - ida: 单程
+    - la salida: 出发
+    - la aduana: 海关
+    - el visado: 签证
+    - el andén: 站台
+    - el billete: 票
+    - ida y vuelta: 往返
+    - el aeropuerto: 机场
+  Chinese:
+    - 站台: el andén
+    - 机场: el aeropuerto
+    - 海关: la aduana
+    - 到达: la llegada
+    - 出发: la salida
+    - 票: el billete
+    - 签证: el visado
+    - 护照: el pasaporte
+    - 往返: ida y vuelta
+    - 单程: ida

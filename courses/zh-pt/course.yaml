@@ -1,0 +1,38 @@
+Course:
+  Language:
+    Name: Portuguese
+    IETF BCP 47: pt
+
+  For speakers of:
+    Name: Chinese
+    IETF BCP 47: zh
+
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+  Repository: https://github.com/xixil136136-ui/LibreLingo
+
+  Special characters:
+  - "á"
+  - "à"
+  - "â"
+  - "ã"
+  - "ç"
+  - "é"
+  - "ê"
+  - "í"
+  - "ó"
+  - "ô"
+  - "õ"
+  - "ú"
+
+Modules:
+  - basics
+  - food-&-drink
+  - conversations
+
+Settings:
+    Audio:
+      Enabled: True

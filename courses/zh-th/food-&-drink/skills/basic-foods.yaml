@@ -1,0 +1,70 @@
+Skill:
+  Name: Basic Foods
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: น้ำ
+    Translation: 水
+  - Word: ขนมปัง
+    Translation: 面包
+  - Word: ข้าว
+    Translation: 米饭
+  - Word: นม
+    Translation: 牛奶
+  - Word: ไข่
+    Translation: 鸡蛋
+  - Word: ไก่
+    Translation: 鸡肉
+  - Word: ปลา
+    Translation: 鱼
+  - Word: ผลไม้
+    Translation: 水果
+  - Word: ผัก
+    Translation: 蔬菜
+  - Word: ชา
+    Translation: 茶
+  - Word: กาแฟ
+    Translation: 咖啡
+
+Phrases:
+  - Phrase: ขอน้ำหน่อยครับ
+    Translation: 我想要水。
+  - Phrase: ขอขนมปังกับนมครับ
+    Translation: 请给我面包和牛奶。
+  - Phrase: ฉันชอบข้าว
+    Translation: 我喜欢米饭。
+  - Phrase: อร่อยมาก
+    Translation: 这个很好吃。
+
+Mini-dictionary:
+  Thai:
+    - ขนมปัง: 面包
+    - ข้าว: 米饭
+    - ไก่: 鸡肉
+    - ปลา: 鱼
+    - ผัก: 蔬菜
+    - กาแฟ: 咖啡
+    - ชา: 茶
+    - ผลไม้: 水果
+    - น้ำ: 水
+    - ไข่: 鸡蛋
+    - นม: 牛奶
+  Chinese:
+    - 鸡肉: ไก่
+    - 茶: ชา
+    - 米饭: ข้าว
+    - 面包: ขนมปัง
+    - 水: น้ำ
+    - 鱼: ปลา
+    - 鸡蛋: ไข่
+    - 蔬菜: ผัก
+    - 水果: ผลไม้
+    - 牛奶: นม
+    - 咖啡: กาแฟ

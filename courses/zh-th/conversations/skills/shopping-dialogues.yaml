@@ -1,0 +1,78 @@
+Skill:
+  Name: Shopping Dialogues
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: เท่าไหร่
+    Translation: 多少钱
+  - Word: ส่วนลด
+    Translation: 折扣
+  - Word: บัตรเครดิต
+    Translation: 信用卡
+  - Word: เงินสด
+    Translation: 现金
+  - Word: ขนาด
+    Translation: 尺寸
+  - Word: สี
+    Translation: 颜色
+  - Word: ลองใส่
+    Translation: 试穿
+  - Word: ใบเสร็จ
+    Translation: 收据
+  - Word: แพงเกินไป
+    Translation: 太贵
+  - Word: เปลี่ยนสินค้า
+    Translation: 换货
+
+Phrases:
+  - Phrase: อันนี้เท่าไหร่
+    Translation: 这个多少钱？
+  - Phrase: ลองใส่ได้ไหม
+    Translation: 我能试穿这个吗？
+  - Phrase: มีสีอื่นไหม
+    Translation: 有别的颜色吗？
+  - Phrase: แพงเกินไป มีส่วนลดไหม
+    Translation: 太贵了。有折扣吗？
+  - Phrase: ฉันเอาอันนี้ จ่ายด้วยบัตรได้ไหม
+    Translation: 我买了。能用卡支付吗？
+  - Phrase: ขอใบเสร็จด้วยครับ
+    Translation: 请给我收据。
+  - Phrase: ฉันอยากเปลี่ยนอันนี้
+    Translation: 我想换这个。
+  - Phrase: มีขนาดเล็กกว่านี้ไหม
+    Translation: 有小一点的尺寸吗？
+  - Phrase: มีลดราคาไหม
+    Translation: 有打折活动吗？
+  - Phrase: แค่ดูเฉยๆ ขอบคุณ
+    Translation: 我就看看，谢谢。
+
+Mini-dictionary:
+  Thai:
+    - ส่วนลด: 折扣
+    - ขนาด: 尺寸
+    - เปลี่ยนสินค้า: 换货
+    - แพงเกินไป: 太贵
+    - ลองใส่: 试穿
+    - เท่าไหร่: 多少钱
+    - เงินสด: 现金
+    - ใบเสร็จ: 收据
+    - บัตรเครดิต: 信用卡
+    - สี: 颜色
+  Chinese:
+    - 颜色: สี
+    - 多少钱: เท่าไหร่
+    - 信用卡: บัตรเครดิต
+    - 尺寸: ขนาด
+    - 现金: เงินสด
+    - 换货: เปลี่ยนสินค้า
+    - 太贵: แพงเกินไป
+    - 试穿: ลองใส่
+    - 收据: ใบเสร็จ
+    - 折扣: ส่วนลด

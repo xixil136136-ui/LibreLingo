@@ -1,0 +1,516 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Dónde está el aeropuerto?",
+      "meaningInSourceLanguage": "机场在哪里？",
+      "id": "c51db9a76cd8",
+      "priority": 0,
+      "group": "0e3289e853e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Dónde está el aeropuerto?",
+      "meaning": "机场在哪里？",
+      "audio": "cfd320c49fad6cddbc36674694ae855e44e14db4812aa80a13d6601abe35d80c",
+      "id": "044686064aa7",
+      "priority": 1,
+      "group": "0e3289e853e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a ticket to Berlin.",
+      "meaningInSourceLanguage": "我需要一张去柏林的票。",
+      "id": "690f5dea79b4",
+      "priority": 0,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a ticket to Berlin.",
+      "meaning": "我需要一张去柏林的票。",
+      "audio": "a97e78ff873d67bd21f025af4109da2ae53cd91480fb6996c4c18cd8c361061f",
+      "id": "287ecd9493e4",
+      "priority": 1,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Ida o ida y vuelta?",
+      "meaningInSourceLanguage": "单程还是往返？",
+      "id": "426a6e4ac4c4",
+      "priority": 0,
+      "group": "c95e2c041635"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Ida o ida y vuelta?",
+      "meaning": "单程还是往返？",
+      "audio": "57951afc1d29871ff5546b7d8ce148832d20da3da52231db53626ba6c2b4a348",
+      "id": "1267d71ebb12",
+      "priority": 1,
+      "group": "c95e2c041635"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿De qué andén sale el tren?",
+      "meaningInSourceLanguage": "火车从哪个站台出发？",
+      "id": "102b112d9e1f",
+      "priority": 0,
+      "group": "792de810b7a4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿De qué andén sale el tren?",
+      "meaning": "火车从哪个站台出发？",
+      "audio": "c5645b84213d7a4a47029fdaf776fa065e7804623b3dba11bd7477219fc9ac29",
+      "id": "23b1bee27de6",
+      "priority": 1,
+      "group": "792de810b7a4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿A qué hora sale el próximo autobús?",
+      "meaningInSourceLanguage": "下一班车几点？",
+      "id": "37afab538981",
+      "priority": 0,
+      "group": "20e9a7ea212a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿A qué hora sale el próximo autobús?",
+      "meaning": "下一班车几点？",
+      "audio": "a02694822f8b4f98ce38988b76146daf765b3dd8f5cd8bfd69ab301a3625aea6",
+      "id": "ddb8bac4a5d4",
+      "priority": 1,
+      "group": "20e9a7ea212a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Está ocupado este asiento?",
+      "meaningInSourceLanguage": "这个座位有人吗？",
+      "id": "5b6f4eef722b",
+      "priority": 0,
+      "group": "e83f8464ccf6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Está ocupado este asiento?",
+      "meaning": "这个座位有人吗？",
+      "audio": "b6ece7793ea9371b998675464f5f3bfb243b505ed88d1a584575654727d48b2a",
+      "id": "1e82e6408f37",
+      "priority": 1,
+      "group": "e83f8464ccf6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Su pasaporte, por favor.",
+      "meaningInSourceLanguage": "请出示您的护照。",
+      "id": "aa507f03b342",
+      "priority": 0,
+      "group": "d8cdcef847ec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Su pasaporte, por favor.",
+      "meaning": "请出示您的护照。",
+      "audio": "b73804f18b76d7938e10d39064f807771d378909fab39ef8888c45452b21c9c1",
+      "id": "12682e1baedd",
+      "priority": 1,
+      "group": "d8cdcef847ec"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "No tengo nada que declarar.",
+      "meaningInSourceLanguage": "我没有需要申报的物品。",
+      "id": "cdf10a5fd176",
+      "priority": 0,
+      "group": "b0ad3b81a578"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "No tengo nada que declarar.",
+      "meaning": "我没有需要申报的物品。",
+      "audio": "17e69bc7a1f306484428a23f45c01cf610c4d713e34c1690a6c135ae338608b8",
+      "id": "7cf1f4291f9e",
+      "priority": 1,
+      "group": "b0ad3b81a578"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "¿Cuánto dura el viaje?",
+      "meaningInSourceLanguage": "旅途有多久？",
+      "id": "7b37d04d3056",
+      "priority": 0,
+      "group": "6d4d7b7e408b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "¿Cuánto dura el viaje?",
+      "meaning": "旅途有多久？",
+      "audio": "c013575b4a0fde2e98e276821f09ad7b33316389e8b4d42ee4bfa03bb07dce39",
+      "id": "6636aaf7fe3f",
+      "priority": 1,
+      "group": "6d4d7b7e408b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Déjeme en la próxima parada, por favor.",
+      "meaningInSourceLanguage": "请在下一站让我下车。",
+      "id": "4518b315e7d9",
+      "priority": 0,
+      "group": "e6ed1e570607"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Déjeme en la próxima parada, por favor.",
+      "meaning": "请在下一站让我下车。",
+      "audio": "59f9859c5b794ffcc9b3aceed8fd812b1fb2bf966609cefbba88c4b1487a0331",
+      "id": "a27d77283c60",
+      "priority": 1,
+      "group": "e6ed1e570607"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "el aeropuerto",
+      "meaningInSourceLanguage": "机场",
+      "id": "da43d2ef6f46",
+      "priority": 0,
+      "group": "f0384677d724"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "el aeropuerto"
+      ],
+      "phrase": [
+        {
+          "word": "机场",
+          "definition": "el aeropuerto"
+        }
+      ],
+      "id": "bafbd4863984",
+      "priority": 1,
+      "group": "f0384677d724"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "el aeropuerto",
+      "meaning": "机场",
+      "audio": "b05a0b0eb4fa38cf994564d6e57c808158a9798eec9883bbeeefa0cb3585a43a",
+      "id": "56b8e864a1ac",
+      "priority": 1,
+      "group": "f0384677d724"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "el billete",
+      "meaningInSourceLanguage": "票",
+      "id": "35f996ccff93",
+      "priority": 0,
+      "group": "e1de32e4d79f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "el billete"
+      ],
+      "phrase": [
+        {
+          "word": "票",
+          "definition": "el billete"
+        }
+      ],
+      "id": "4fc2f12263c4",
+      "priority": 1,
+      "group": "e1de32e4d79f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "el billete",
+      "meaning": "票",
+      "audio": "0af8cf2eae272aaf77f2ef224a6d09cf4b471f58d63bbd7815ac993057980c8e",
+      "id": "92ffaae4927a",
+      "priority": 1,
+      "group": "e1de32e4d79f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "el andén",
+      "meaningInSourceLanguage": "站台",
+      "id": "d5ca4b674be6",
+      "priority": 0,
+      "group": "fa3ceee56511"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "el andén"
+      ],
+      "phrase": [
+        {
+          "word": "站台",
+          "definition": "el andén"
+        }
+      ],
+      "id": "3b88b5dca559",
+      "priority": 1,
+      "group": "fa3ceee56511"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "el andén",
+      "meaning": "站台",
+      "audio": "c0cf3c8b97f750632d3362b3231a5295c4dd8c61ca6de90c883065983ccf5854",
+      "id": "a9db63acb566",
+      "priority": 1,
+      "group": "fa3ceee56511"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "la salida",
+      "meaningInSourceLanguage": "出发",
+      "id": "2c5dee8b8fde",
+      "priority": 0,
+      "group": "122a61db7cf2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "la salida"
+      ],
+      "phrase": [
+        {
+          "word": "出发",
+          "definition": "la salida"
+        }
+      ],
+      "id": "3bb173beb883",
+      "priority": 1,
+      "group": "122a61db7cf2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "la salida",
+      "meaning": "出发",
+      "audio": "f4f71dca8fbc465a14d9f6b996539fe8a7416d284f32201fa22ffe0767b022a7",
+      "id": "1c34d266d836",
+      "priority": 1,
+      "group": "122a61db7cf2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "la llegada",
+      "meaningInSourceLanguage": "到达",
+      "id": "6accf141e648",
+      "priority": 0,
+      "group": "1ac683441f2a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "la llegada"
+      ],
+      "phrase": [
+        {
+          "word": "到达",
+          "definition": "la llegada"
+        }
+      ],
+      "id": "86790c9ce24c",
+      "priority": 1,
+      "group": "1ac683441f2a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "la llegada",
+      "meaning": "到达",
+      "audio": "34c330a9bbc4bf1649300e4126c8c8130faf75f03b975b17e62c866628a0f037",
+      "id": "b43e54e2c5ec",
+      "priority": 1,
+      "group": "1ac683441f2a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ida",
+      "meaningInSourceLanguage": "单程",
+      "id": "43f05b86139e",
+      "priority": 0,
+      "group": "697ae64d75e0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ida"
+      ],
+      "phrase": [
+        {
+          "word": "单程",
+          "definition": "ida"
+        }
+      ],
+      "id": "dac425de0014",
+      "priority": 1,
+      "group": "697ae64d75e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ida",
+      "meaning": "单程",
+      "audio": "131aa8eb451986bddac1299decf3016b53e12048b02fd9341c2b9a6ff7886e40",
+      "id": "b801c3c1a886",
+      "priority": 1,
+      "group": "697ae64d75e0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ida y vuelta",
+      "meaningInSourceLanguage": "往返",
+      "id": "360c71d0b2da",
+      "priority": 0,
+      "group": "0686828ff4f5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ida y vuelta"
+      ],
+      "phrase": [
+        {
+          "word": "往返",
+          "definition": "ida y vuelta"
+        }
+      ],
+      "id": "29b3ebd0e61d",
+      "priority": 1,
+      "group": "0686828ff4f5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ida y vuelta",
+      "meaning": "往返",
+      "audio": "22a39526a45bf4ddb1bf436640771ebdfd958e11ab4957b56a3573988bd48200",
+      "id": "0950f4a00c01",
+      "priority": 1,
+      "group": "0686828ff4f5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "el pasaporte",
+      "meaningInSourceLanguage": "护照",
+      "id": "c4536d80db96",
+      "priority": 0,
+      "group": "4de36e9b7b9b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "el pasaporte"
+      ],
+      "phrase": [
+        {
+          "word": "护照",
+          "definition": "el pasaporte"
+        }
+      ],
+      "id": "6386136a9f33",
+      "priority": 1,
+      "group": "4de36e9b7b9b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "el pasaporte",
+      "meaning": "护照",
+      "audio": "6e44ac4ac85ea497f7331dbead4770034791c0668c35af1ea7bf95c85331dda4",
+      "id": "8c7c86d9e078",
+      "priority": 1,
+      "group": "4de36e9b7b9b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "el visado",
+      "meaningInSourceLanguage": "签证",
+      "id": "3979dc2acf82",
+      "priority": 0,
+      "group": "4ab50a8ea3e0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "el visado"
+      ],
+      "phrase": [
+        {
+          "word": "签证",
+          "definition": "el visado"
+        }
+      ],
+      "id": "85f449819f45",
+      "priority": 1,
+      "group": "4ab50a8ea3e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "el visado",
+      "meaning": "签证",
+      "audio": "de6c09c1932be25576c2f0ae00f442a69f5bd20613b4039f03296e95926d2a69",
+      "id": "b1af197d1fad",
+      "priority": 1,
+      "group": "4ab50a8ea3e0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "la aduana",
+      "meaningInSourceLanguage": "海关",
+      "id": "94e56b66075f",
+      "priority": 0,
+      "group": "e2b98d5ff2fc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "la aduana"
+      ],
+      "phrase": [
+        {
+          "word": "海关",
+          "definition": "la aduana"
+        }
+      ],
+      "id": "ee25ec14623c",
+      "priority": 1,
+      "group": "e2b98d5ff2fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "la aduana",
+      "meaning": "海关",
+      "audio": "731a361353981e830b25ed1ef57df30878881584bf5e4a8174bc636566961a05",
+      "id": "cd86c7cce64e",
+      "priority": 1,
+      "group": "e2b98d5ff2fc"
+    }
+  ]
+}

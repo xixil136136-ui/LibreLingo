@@ -1,0 +1,255 @@
+{
+  "languageName": "Spanish",
+  "languageCode": "es",
+  "uiLanguage": "zh",
+  "specialCharacters": [
+    "á",
+    "é",
+    "í",
+    "ó",
+    "ú",
+    "ü",
+    "ñ",
+    "¿",
+    "¡"
+  ],
+  "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+  "license": {
+    "name": {
+      "short": "CC BY-SA 4.0",
+      "full": "Attribution-ShareAlike 4.0 International"
+    },
+    "link": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "modules": [
+    {
+      "title": "Basics",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "hola",
+            "adiós",
+            "buenos días",
+            "buenas tardes",
+            "gracias",
+            "por favor",
+            "perdón",
+            "sí",
+            "no",
+            "de nada",
+            "¡Hola! ¿Cómo estás?",
+            "Buenos días, gracias.",
+            "Adiós, hasta luego.",
+            "Muchas gracias.",
+            "Perdón, ¿dónde está el baño?"
+          ],
+          "practiceHref": "greetings",
+          "id": "569673478a3d",
+          "title": "Greetings",
+          "levels": 3
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "uno",
+            "dos",
+            "tres",
+            "cuatro",
+            "cinco",
+            "seis",
+            "siete",
+            "ocho",
+            "nueve",
+            "diez",
+            "Uno, dos, tres.",
+            "Son las cinco.",
+            "Hay diez personas."
+          ],
+          "practiceHref": "numbers",
+          "id": "38c2ea1c36d2",
+          "title": "Numbers",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Food & Drink",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "agua",
+            "pan",
+            "arroz",
+            "leche",
+            "huevo",
+            "pollo",
+            "pescado",
+            "fruta",
+            "verdura",
+            "té",
+            "café",
+            "Quiero agua.",
+            "Pan y leche, por favor.",
+            "Me gusta el arroz.",
+            "Está delicioso."
+          ],
+          "practiceHref": "basic-foods",
+          "id": "569673478a3d",
+          "title": "Basic Foods",
+          "levels": 3
+        }
+      ]
+    },
+    {
+      "title": "Conversations",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Quisiera",
+            "el menú",
+            "pedir",
+            "la cuenta",
+            "delicioso",
+            "la recomendación",
+            "la reserva",
+            "el camarero",
+            "una mesa para dos",
+            "el plato del día",
+            "Me gustaría hacer una reserva.",
+            "Una mesa para dos, por favor.",
+            "¿Puedo ver el menú?",
+            "¿Qué recomienda?",
+            "Quiero el filete, por favor.",
+            "¿Me trae la cuenta, por favor?",
+            "¡La comida está deliciosa!",
+            "¿Me puede dar un poco de agua?",
+            "¿Está incluido el servicio?",
+            "Soy alérgico al cacahuete."
+          ],
+          "practiceHref": "restaurant-dialogues",
+          "id": "569673478a3d",
+          "title": "Restaurant Dialogues",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "Cuánto",
+            "el descuento",
+            "la tarjeta de crédito",
+            "el efectivo",
+            "la talla",
+            "el color",
+            "probarse",
+            "el recibo",
+            "demasiado caro",
+            "cambiar",
+            "¿Cuánto cuesta esto?",
+            "¿Puedo probármelo?",
+            "¿Lo tiene en otro color?",
+            "Es demasiado caro. ¿Hay descuento?",
+            "Me lo llevo. ¿Puedo pagar con tarjeta?",
+            "¿Me da un recibo, por favor?",
+            "Quisiera cambiar esto.",
+            "¿Tiene una talla más pequeña?",
+            "¿Hay rebajas?",
+            "Sólo estoy mirando, gracias."
+          ],
+          "practiceHref": "shopping-dialogues",
+          "id": "38c2ea1c36d2",
+          "title": "Shopping Dialogues",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "el aeropuerto",
+            "el billete",
+            "el andén",
+            "la salida",
+            "la llegada",
+            "ida",
+            "ida y vuelta",
+            "el pasaporte",
+            "el visado",
+            "la aduana",
+            "¿Dónde está el aeropuerto?",
+            "I need a ticket to Berlin.",
+            "¿Ida o ida y vuelta?",
+            "¿De qué andén sale el tren?",
+            "¿A qué hora sale el próximo autobús?",
+            "¿Está ocupado este asiento?",
+            "Su pasaporte, por favor.",
+            "No tengo nada que declarar.",
+            "¿Cuánto dura el viaje?",
+            "Déjeme en la próxima parada, por favor."
+          ],
+          "practiceHref": "travel-dialogues",
+          "id": "d7279e4777cd",
+          "title": "Travel Dialogues",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "registrarse",
+            "salir",
+            "la llave de la habitación",
+            "la habitación individual",
+            "la habitación doble",
+            "la reserva",
+            "el desayuno",
+            "el WiFi",
+            "el aire acondicionado",
+            "el servicio de habitaciones",
+            "Tengo una reserva.",
+            "Quisiera registrarme, por favor.",
+            "¿Cuánto cuesta una habitación doble por noche?",
+            "¿Está incluido el desayuno?",
+            "¿Cuál es la contraseña del WiFi?",
+            "El aire acondicionado no funciona.",
+            "¿Puede darme una llamada de despertar a las 7?",
+            "Quisiera salir, por favor.",
+            "¿Puedo dejar mi equipaje aquí?",
+            "¡Gracias por una estancia maravillosa!"
+          ],
+          "practiceHref": "hotel-accommodation",
+          "id": "379dca1c8ae9",
+          "title": "Hotel & Accommodation",
+          "levels": 4
+        }
+      ]
+    }
+  ]
+}

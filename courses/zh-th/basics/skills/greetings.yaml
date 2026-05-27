@@ -1,0 +1,66 @@
+Skill:
+  Name: Greetings
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+
+New words:
+  - Word: สวัสดี
+    Translation: 你好
+  - Word: ลาก่อน
+    Translation: 再见
+  - Word: อรุณสวัสดิ์
+    Translation: 早上好
+  - Word: ขอบคุณ
+    Translation: 谢谢
+  - Word: กรุณา
+    Translation: 请
+  - Word: ขอโทษ
+    Translation: 对不起
+  - Word: ใช่
+    Translation: 是的
+  - Word: ไม่ใช่
+    Translation: 不是
+  - Word: ไม่เป็นไร
+    Translation: 没关系/不客气
+  - Word: สบายดีไหม
+    Translation: 你好吗
+
+Phrases:
+  - Phrase: สวัสดีครับ สบายดีไหม
+    Translation: 你好，你好吗？
+  - Phrase: อรุณสวัสดิ์ครับ ขอบคุณ
+    Translation: 早上好，谢谢。
+  - Phrase: ลาก่อน แล้วเจอกัน
+    Translation: 再见，回头见。
+  - Phrase: ขอบคุณมากครับ
+    Translation: 非常感谢。
+  - Phrase: ขอโทษครับ ห้องน้ำอยู่ที่ไหน
+    Translation: 对不起，洗手间在哪里？
+
+Mini-dictionary:
+  Thai:
+    - กรุณา: 请
+    - ขอบคุณ: 谢谢
+    - สวัสดี: 你好
+    - ขอโทษ: 对不起
+    - อรุณสวัสดิ์: 早上好
+    - ไม่เป็นไร: 没关系/不客气
+    - สบายดีไหม: 你好吗
+    - ไม่ใช่: 不是
+    - ลาก่อน: 再见
+    - ใช่: 是的
+  Chinese:
+    - 请: กรุณา
+    - 你好吗: สบายดีไหม
+    - 再见: ลาก่อน
+    - 你好: สวัสดี
+    - 是的: ใช่
+    - 早上好: อรุณสวัสดิ์
+    - 谢谢: ขอบคุณ
+    - 没关系/不客气: ไม่เป็นไร
+    - 不是: ไม่ใช่
+    - 对不起: ขอโทษ

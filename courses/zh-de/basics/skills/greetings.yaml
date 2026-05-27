@@ -1,0 +1,66 @@
+Skill:
+  Name: Greetings
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+
+New words:
+  - Word: Hallo
+    Translation: 你好
+  - Word: Tschüss
+    Translation: 再见
+  - Word: Guten Morgen
+    Translation: 早上好
+  - Word: Guten Abend
+    Translation: 晚上好
+  - Word: Danke
+    Translation: 谢谢
+  - Word: Bitte
+    Translation: 请/不客气
+  - Word: Entschuldigung
+    Translation: 对不起
+  - Word: Ja
+    Translation: 是的
+  - Word: Nein
+    Translation: 不是
+  - Word: Wie geht's
+    Translation: 你好吗
+
+Phrases:
+  - Phrase: Hallo, wie geht's?
+    Translation: 你好，你好吗？
+  - Phrase: Guten Morgen, danke.
+    Translation: 早上好，谢谢。
+  - Phrase: Tschüss, bis später.
+    Translation: 再见，回头见。
+  - Phrase: Danke schön!
+    Translation: 非常感谢！
+  - Phrase: Entschuldigung, wo ist der Bahnhof?
+    Translation: 对不起，车站在哪里？
+
+Mini-dictionary:
+  German:
+    - Danke: 谢谢
+    - Ja: 是的
+    - Wie geht's: 你好吗
+    - Guten Morgen: 早上好
+    - Tschüss: 再见
+    - Guten Abend: 晚上好
+    - Entschuldigung: 对不起
+    - Bitte: 请/不客气
+    - Nein: 不是
+    - Hallo: 你好
+  Chinese:
+    - 不是: Nein
+    - 再见: Tschüss
+    - 对不起: Entschuldigung
+    - 早上好: Guten Morgen
+    - 谢谢: Danke
+    - 你好吗: Wie geht's
+    - 是的: Ja
+    - 你好: Hallo
+    - 晚上好: Guten Abend
+    - 请/不客气: Bitte

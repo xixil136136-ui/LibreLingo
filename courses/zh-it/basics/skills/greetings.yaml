@@ -1,0 +1,66 @@
+Skill:
+  Name: Greetings
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+
+New words:
+  - Word: ciao
+    Translation: 你好/再见
+  - Word: buongiorno
+    Translation: 早上好
+  - Word: buonasera
+    Translation: 晚上好
+  - Word: grazie
+    Translation: 谢谢
+  - Word: per favore
+    Translation: 请
+  - Word: scusa
+    Translation: 对不起
+  - Word: sì
+    Translation: 是的
+  - Word: no
+    Translation: 不是
+  - Word: prego
+    Translation: 不客气
+  - Word: arrivederci
+    Translation: 再见（正式）
+
+Phrases:
+  - Phrase: Ciao! Come stai?
+    Translation: 你好！你好吗？
+  - Phrase: Buongiorno, grazie.
+    Translation: 早上好，谢谢。
+  - Phrase: Arrivederci, a presto.
+    Translation: 再见，回头见。
+  - Phrase: Mille grazie!
+    Translation: 非常感谢！
+  - Phrase: Scusa, dov'è il bagno?
+    Translation: 对不起，洗手间在哪里？
+
+Mini-dictionary:
+  Italian:
+    - buonasera: 晚上好
+    - grazie: 谢谢
+    - sì: 是的
+    - no: 不是
+    - ciao: 你好/再见
+    - buongiorno: 早上好
+    - scusa: 对不起
+    - per favore: 请
+    - arrivederci: 再见（正式）
+    - prego: 不客气
+  Chinese:
+    - 你好/再见: ciao
+    - 不是: no
+    - 早上好: buongiorno
+    - 谢谢: grazie
+    - 不客气: prego
+    - 对不起: scusa
+    - 请: per favore
+    - 是的: sì
+    - 晚上好: buonasera
+    - 再见（正式）: arrivederci

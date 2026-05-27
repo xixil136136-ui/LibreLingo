@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hallo, wie geht's?",
+      "meaningInSourceLanguage": "你好，你好吗？",
+      "id": "11c0e69b5035",
+      "priority": 0,
+      "group": "36afcfc084b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hallo, wie geht's?",
+      "meaning": "你好，你好吗？",
+      "audio": "26c966594928d8d1f2dff651518e5b8eecc39f1005b570d22310417af065bcc6",
+      "id": "e2849f06bbd3",
+      "priority": 1,
+      "group": "36afcfc084b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Guten Morgen, danke.",
+      "meaningInSourceLanguage": "早上好，谢谢。",
+      "id": "34275aa42f4c",
+      "priority": 0,
+      "group": "97e2fa42ffb5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Guten Morgen, danke.",
+      "meaning": "早上好，谢谢。",
+      "audio": "bf6097187946b284a342217c0c4a506738a7e84e18639c83d0a987285cdafdc2",
+      "id": "fc3a2b131085",
+      "priority": 1,
+      "group": "97e2fa42ffb5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tschüss, bis später.",
+      "meaningInSourceLanguage": "再见，回头见。",
+      "id": "df440ccea610",
+      "priority": 0,
+      "group": "4c498c32068a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tschüss, bis später.",
+      "meaning": "再见，回头见。",
+      "audio": "db76b6b2c505eb9567fa6e27d887a46aac8a2a832541bae4d615d36e5f822a3b",
+      "id": "3b30526fdfed",
+      "priority": 1,
+      "group": "4c498c32068a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Danke schön!",
+      "meaningInSourceLanguage": "非常感谢！",
+      "id": "896ea8b8905e",
+      "priority": 0,
+      "group": "223fcefcdfe0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Danke schön!",
+      "meaning": "非常感谢！",
+      "audio": "0b879ef3107a9e699f534f028f6cd3f9be56cd0abccc4cb3b2a1d44cc920ffa5",
+      "id": "5918b2a1e394",
+      "priority": 1,
+      "group": "223fcefcdfe0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Entschuldigung, wo ist der Bahnhof?",
+      "meaningInSourceLanguage": "对不起，车站在哪里？",
+      "id": "9ea971475a91",
+      "priority": 0,
+      "group": "e0e553441c69"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Entschuldigung, wo ist der Bahnhof?",
+      "meaning": "对不起，车站在哪里？",
+      "audio": "1a766b30c50f0965b128fc07c877651f83b1a8231c751f540297b74a36afcb47",
+      "id": "d182f9b684a3",
+      "priority": 1,
+      "group": "e0e553441c69"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Hallo",
+      "meaningInSourceLanguage": "你好",
+      "id": "b2676d2d89ad",
+      "priority": 0,
+      "group": "c15cb7c06367"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Hallo"
+      ],
+      "phrase": [
+        {
+          "word": "你好",
+          "definition": "Hallo"
+        }
+      ],
+      "id": "1fb4384df830",
+      "priority": 1,
+      "group": "c15cb7c06367"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hallo",
+      "meaning": "你好",
+      "audio": "bfc98657a2cc0b57235e6f195c4ef286681a4b2bf9ee794adde51454b94d0891",
+      "id": "33b5abb4ad9a",
+      "priority": 1,
+      "group": "c15cb7c06367"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Tschüss",
+      "meaningInSourceLanguage": "再见",
+      "id": "a33ec36fd1f6",
+      "priority": 0,
+      "group": "6e3c90d65646"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Tschüss"
+      ],
+      "phrase": [
+        {
+          "word": "再见",
+          "definition": "Tschüss"
+        }
+      ],
+      "id": "5cc05d4afc55",
+      "priority": 1,
+      "group": "6e3c90d65646"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tschüss",
+      "meaning": "再见",
+      "audio": "f2a16734114f5040760f57e191918a9fb383570081f1460a2c0c857af8c6ad73",
+      "id": "63ca529c1742",
+      "priority": 1,
+      "group": "6e3c90d65646"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Guten Morgen",
+      "meaningInSourceLanguage": "早上好",
+      "id": "71098690a744",
+      "priority": 0,
+      "group": "f4ef4c87bdde"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Guten Morgen"
+      ],
+      "phrase": [
+        {
+          "word": "早上好",
+          "definition": "Guten Morgen"
+        }
+      ],
+      "id": "f97b80e9ff89",
+      "priority": 1,
+      "group": "f4ef4c87bdde"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Guten Morgen",
+      "meaning": "早上好",
+      "audio": "0bfeb9528e6b4082829928baeff5114a5e96314e263b255bfd8c6ce0707ed0a8",
+      "id": "b7be6a0ff77c",
+      "priority": 1,
+      "group": "f4ef4c87bdde"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Guten Abend",
+      "meaningInSourceLanguage": "晚上好",
+      "id": "b30319fc360a",
+      "priority": 0,
+      "group": "30fea232dbb7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Guten Abend"
+      ],
+      "phrase": [
+        {
+          "word": "晚上好",
+          "definition": "Guten Abend"
+        }
+      ],
+      "id": "6c4b9ab42923",
+      "priority": 1,
+      "group": "30fea232dbb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Guten Abend",
+      "meaning": "晚上好",
+      "audio": "b319f2d7d06cdfa9363d3b255a93c61b4b360529fb57d0c60b5f741a1b5bfd5c",
+      "id": "69dc798306f6",
+      "priority": 1,
+      "group": "30fea232dbb7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Danke",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "58c30bc0b9f5",
+      "priority": 0,
+      "group": "47ceb22ed641"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Danke"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "Danke"
+        }
+      ],
+      "id": "3112afb59d31",
+      "priority": 1,
+      "group": "47ceb22ed641"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Danke",
+      "meaning": "谢谢",
+      "audio": "fce1220a0d20e747157086d5f80dce40f59962ea7c7739c01c89c8176088d366",
+      "id": "dc115316fcec",
+      "priority": 1,
+      "group": "47ceb22ed641"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Bitte",
+      "meaningInSourceLanguage": "请/不客气",
+      "id": "939d84b36cbe",
+      "priority": 0,
+      "group": "3e23bf9c0eed"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Bitte"
+      ],
+      "phrase": [
+        {
+          "word": "请/不客气",
+          "definition": "Bitte"
+        }
+      ],
+      "id": "847d926dfc72",
+      "priority": 1,
+      "group": "3e23bf9c0eed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bitte",
+      "meaning": "请/不客气",
+      "audio": "96a6838221b2369fad7c0866df5fead75030b925e32df99a77389415b26c04ee",
+      "id": "555dcf6ef850",
+      "priority": 1,
+      "group": "3e23bf9c0eed"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Entschuldigung",
+      "meaningInSourceLanguage": "对不起",
+      "id": "f7a251f136c6",
+      "priority": 0,
+      "group": "057df5bf3539"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Entschuldigung"
+      ],
+      "phrase": [
+        {
+          "word": "对不起",
+          "definition": "Entschuldigung"
+        }
+      ],
+      "id": "3a3a9d7b9b0e",
+      "priority": 1,
+      "group": "057df5bf3539"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Entschuldigung",
+      "meaning": "对不起",
+      "audio": "f76d3eb12eb041e5160ec9ea4100274287e992d2a26590ec3707d804f25586b5",
+      "id": "0f17a79e1c9c",
+      "priority": 1,
+      "group": "057df5bf3539"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Ja",
+      "meaningInSourceLanguage": "是的",
+      "id": "f78fad385d54",
+      "priority": 0,
+      "group": "0bdc09d31d74"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Ja"
+      ],
+      "phrase": [
+        {
+          "word": "是的",
+          "definition": "Ja"
+        }
+      ],
+      "id": "57a2047dbc24",
+      "priority": 1,
+      "group": "0bdc09d31d74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ja",
+      "meaning": "是的",
+      "audio": "09d54c18e5f3fb086bf0906439b7e2edc93a23b922d27fd3f3abd15d019a9f22",
+      "id": "e541e53b6297",
+      "priority": 1,
+      "group": "0bdc09d31d74"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Nein",
+      "meaningInSourceLanguage": "不是",
+      "id": "f2b47c29c4c6",
+      "priority": 0,
+      "group": "a6143d8eda7a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Nein"
+      ],
+      "phrase": [
+        {
+          "word": "不是",
+          "definition": "Nein"
+        }
+      ],
+      "id": "2e9142adf14b",
+      "priority": 1,
+      "group": "a6143d8eda7a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Nein",
+      "meaning": "不是",
+      "audio": "a90af24e76d8f80f498c05824ac2f74e32c0bead57d2af38be6224193ea14858",
+      "id": "06bbf4778ea9",
+      "priority": 1,
+      "group": "a6143d8eda7a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Wie geht's",
+      "meaningInSourceLanguage": "你好吗",
+      "id": "b96a15c87f87",
+      "priority": 0,
+      "group": "ffcb78941b08"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Wie geht's"
+      ],
+      "phrase": [
+        {
+          "word": "你好吗",
+          "definition": "Wie geht's"
+        }
+      ],
+      "id": "bb9f7f2d6469",
+      "priority": 1,
+      "group": "ffcb78941b08"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Wie geht's",
+      "meaning": "你好吗",
+      "audio": "5b165248222621c0b6b133b4daeb392eb0058ba83ea0df82cdbd59021bde7983",
+      "id": "60964885180a",
+      "priority": 1,
+      "group": "ffcb78941b08"
+    }
+  ]
+}

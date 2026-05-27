@@ -1,0 +1,78 @@
+Skill:
+  Name: Restaurant Dialogues
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: I would like
+    Translation: 我想要
+  - Word: menu
+    Translation: 菜单
+  - Word: order
+    Translation: 点餐
+  - Word: bill
+    Translation: 账单
+  - Word: delicious
+    Translation: 美味
+  - Word: recommendation
+    Translation: 推荐
+  - Word: reservation
+    Translation: 预约
+  - Word: waiter
+    Translation: 服务员
+  - Word: table for two
+    Translation: 两人桌
+  - Word: today's special
+    Translation: 今日特价
+
+Phrases:
+  - Phrase: I'd like to make a reservation.
+    Translation: 我想预约。
+  - Phrase: A table for two, please.
+    Translation: 请给我一个两人桌。
+  - Phrase: Can I see the menu?
+    Translation: 我能看看菜单吗？
+  - Phrase: What do you recommend?
+    Translation: 你推荐什么？
+  - Phrase: I'll have the steak, please.
+    Translation: 我要牛排。
+  - Phrase: Could I have the bill, please?
+    Translation: 请给我账单。
+  - Phrase: The food is delicious!
+    Translation: 食物太好吃了！
+  - Phrase: Can I have some water?
+    Translation: 能给我一些水吗？
+  - Phrase: Is service charge included?
+    Translation: 服务费包含在内吗？
+  - Phrase: I'm allergic to peanuts.
+    Translation: 我对花生过敏。
+
+Mini-dictionary:
+  English:
+    - bill: 账单
+    - recommendation: 推荐
+    - menu: 菜单
+    - reservation: 预约
+    - I would like: 我想要
+    - delicious: 美味
+    - order: 点餐
+    - table for two: 两人桌
+    - today's special: 今日特价
+    - waiter: 服务员
+  Chinese:
+    - 服务员: waiter
+    - 推荐: recommendation
+    - 菜单: menu
+    - 今日特价: today's special
+    - 账单: bill
+    - 预约: reservation
+    - 点餐: order
+    - 两人桌: table for two
+    - 我想要: I would like
+    - 美味: delicious

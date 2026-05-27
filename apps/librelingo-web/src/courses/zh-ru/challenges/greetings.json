@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Здравствуйте! Как дела?",
+      "meaningInSourceLanguage": "你好！你好吗？",
+      "id": "a418ea113dbc",
+      "priority": 0,
+      "group": "467b62bbcaba"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Здравствуйте! Как дела?",
+      "meaning": "你好！你好吗？",
+      "audio": "89359c7bcc3a7cfcd5a1e310cbb5e76e34447c456a1d128a85895366f2820821",
+      "id": "788ed912da0a",
+      "priority": 1,
+      "group": "467b62bbcaba"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Доброе утро, спасибо.",
+      "meaningInSourceLanguage": "早上好，谢谢。",
+      "id": "e5088f52d763",
+      "priority": 0,
+      "group": "6a2bc848dc6b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Доброе утро, спасибо.",
+      "meaning": "早上好，谢谢。",
+      "audio": "d042a281601acae91d4274ab3691281bfc8f87e7db5097248e7e4513df535d30",
+      "id": "0f8de8b2bc05",
+      "priority": 1,
+      "group": "6a2bc848dc6b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "До свидания, до встречи.",
+      "meaningInSourceLanguage": "再见，回头见。",
+      "id": "c43f02b09b51",
+      "priority": 0,
+      "group": "f4b9ec245d72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "До свидания, до встречи.",
+      "meaning": "再见，回头见。",
+      "audio": "df2909f9c98bcec8b163199ca778b2f3f33861bda0e14623c421ca799a7b58f6",
+      "id": "8c5655e7cf9d",
+      "priority": 1,
+      "group": "f4b9ec245d72"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Большое спасибо!",
+      "meaningInSourceLanguage": "非常感谢！",
+      "id": "f1a6a1365d48",
+      "priority": 0,
+      "group": "fac6c0a62548"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Большое спасибо!",
+      "meaning": "非常感谢！",
+      "audio": "e9d33bd54e0a670300b7075b2008115e4202d873caeb13751369ed54b6010536",
+      "id": "199f4a5d51eb",
+      "priority": 1,
+      "group": "fac6c0a62548"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Извините, где туалет?",
+      "meaningInSourceLanguage": "对不起，洗手间在哪里？",
+      "id": "9366f2644cc0",
+      "priority": 0,
+      "group": "54a573829e44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Извините, где туалет?",
+      "meaning": "对不起，洗手间在哪里？",
+      "audio": "62ed3f2e9a66c0c66b0e16b3d0438ed10664b7f9afa9822ee62abf6b3bae6627",
+      "id": "da0422828607",
+      "priority": 1,
+      "group": "54a573829e44"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Здравствуйте",
+      "meaningInSourceLanguage": "你好（正式）",
+      "id": "ccd04ea962e9",
+      "priority": 0,
+      "group": "e21dc1644f47"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Здравствуйте"
+      ],
+      "phrase": [
+        {
+          "word": "你好（正式）",
+          "definition": "Здравствуйте"
+        }
+      ],
+      "id": "85bea437428c",
+      "priority": 1,
+      "group": "e21dc1644f47"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Здравствуйте",
+      "meaning": "你好（正式）",
+      "audio": "6547a721c445b4b98781a601f9561881b92457658f544c4abf3bf89fb08ec08f",
+      "id": "50d455ebced2",
+      "priority": 1,
+      "group": "e21dc1644f47"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Привет",
+      "meaningInSourceLanguage": "你好（非正式）",
+      "id": "1a50c5579432",
+      "priority": 0,
+      "group": "f43657306306"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Привет"
+      ],
+      "phrase": [
+        {
+          "word": "你好（非正式）",
+          "definition": "Привет"
+        }
+      ],
+      "id": "512b1d58cbcb",
+      "priority": 1,
+      "group": "f43657306306"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Привет",
+      "meaning": "你好（非正式）",
+      "audio": "145e1d7372a200573c8d35d918866137a5ee7d40505d22455e12a7884d842be3",
+      "id": "9274132e4f38",
+      "priority": 1,
+      "group": "f43657306306"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "До свидания",
+      "meaningInSourceLanguage": "再见",
+      "id": "a2f71040242e",
+      "priority": 0,
+      "group": "80730f7d7026"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "До свидания"
+      ],
+      "phrase": [
+        {
+          "word": "再见",
+          "definition": "До свидания"
+        }
+      ],
+      "id": "703a9fd1a93d",
+      "priority": 1,
+      "group": "80730f7d7026"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "До свидания",
+      "meaning": "再见",
+      "audio": "9cdbdbe1fd31c4f3a5159b52b263d84dbfd00d86877d5249fcd69a3bf41c5226",
+      "id": "a3714d4c2176",
+      "priority": 1,
+      "group": "80730f7d7026"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Спасибо",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "c8962cb1c5a6",
+      "priority": 0,
+      "group": "ca267ddfaada"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Спасибо"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "Спасибо"
+        }
+      ],
+      "id": "34d34e1161e7",
+      "priority": 1,
+      "group": "ca267ddfaada"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Спасибо",
+      "meaning": "谢谢",
+      "audio": "c81fafc4e05c3af0e468876705dcf0b4e554d5eb287ec2d43f9e24eec3c8da66",
+      "id": "7f120fe53384",
+      "priority": 1,
+      "group": "ca267ddfaada"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Пожалуйста",
+      "meaningInSourceLanguage": "请/不客气",
+      "id": "819bd90698f9",
+      "priority": 0,
+      "group": "e24e2bc35b98"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Пожалуйста"
+      ],
+      "phrase": [
+        {
+          "word": "请/不客气",
+          "definition": "Пожалуйста"
+        }
+      ],
+      "id": "264dba365267",
+      "priority": 1,
+      "group": "e24e2bc35b98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Пожалуйста",
+      "meaning": "请/不客气",
+      "audio": "e3376dcba76d4db868f5a60aeddfc98db5fefdd8c58a7caa250c3876a1c91095",
+      "id": "6a103e1791a0",
+      "priority": 1,
+      "group": "e24e2bc35b98"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Извините",
+      "meaningInSourceLanguage": "对不起",
+      "id": "b9d0b1e4814d",
+      "priority": 0,
+      "group": "0bf08abeb027"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Извините"
+      ],
+      "phrase": [
+        {
+          "word": "对不起",
+          "definition": "Извините"
+        }
+      ],
+      "id": "b04690c8b0e7",
+      "priority": 1,
+      "group": "0bf08abeb027"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Извините",
+      "meaning": "对不起",
+      "audio": "c1d87c4301351e3368fbb918d8af05015a50dabea825ead2733cffb28c3e5cfd",
+      "id": "5743f7ad7ed0",
+      "priority": 1,
+      "group": "0bf08abeb027"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Да",
+      "meaningInSourceLanguage": "是的",
+      "id": "860de45262cd",
+      "priority": 0,
+      "group": "85f573bce225"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Да"
+      ],
+      "phrase": [
+        {
+          "word": "是的",
+          "definition": "Да"
+        }
+      ],
+      "id": "40115a333af3",
+      "priority": 1,
+      "group": "85f573bce225"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Да",
+      "meaning": "是的",
+      "audio": "dd079b569235296a7ff34c6e3ddd8476346641f2fd10b4c1c611a84ca811f85b",
+      "id": "e824ddb8f6bc",
+      "priority": 1,
+      "group": "85f573bce225"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Нет",
+      "meaningInSourceLanguage": "不是",
+      "id": "f4da306a8054",
+      "priority": 0,
+      "group": "fd7e5ed59b74"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Нет"
+      ],
+      "phrase": [
+        {
+          "word": "不是",
+          "definition": "Нет"
+        }
+      ],
+      "id": "5924c021d343",
+      "priority": 1,
+      "group": "fd7e5ed59b74"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Нет",
+      "meaning": "不是",
+      "audio": "7ba7adaa8d4a2d2fb7c90558596a865fabb47d516ff99a60e096519ab839afa6",
+      "id": "be983dc9cf59",
+      "priority": 1,
+      "group": "fd7e5ed59b74"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Как дела?",
+      "meaningInSourceLanguage": "你好吗",
+      "id": "a829313ea920",
+      "priority": 0,
+      "group": "3f67e2630f26"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Как дела?"
+      ],
+      "phrase": [
+        {
+          "word": "你好吗",
+          "definition": "Как дела?"
+        }
+      ],
+      "id": "deead05d33b5",
+      "priority": 1,
+      "group": "3f67e2630f26"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Как дела?",
+      "meaning": "你好吗",
+      "audio": "f3a3a95c484364bc7ed7e7c5092cfc7c00d4d56d899bb928775bb3d34299a623",
+      "id": "96f9b0fb24b8",
+      "priority": 1,
+      "group": "3f67e2630f26"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Хорошо",
+      "meaningInSourceLanguage": "很好",
+      "id": "29dc72f37de3",
+      "priority": 0,
+      "group": "4f92487f8b35"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Хорошо"
+      ],
+      "phrase": [
+        {
+          "word": "很好",
+          "definition": "Хорошо"
+        }
+      ],
+      "id": "2634270ac327",
+      "priority": 1,
+      "group": "4f92487f8b35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Хорошо",
+      "meaning": "很好",
+      "audio": "75c19b89c338f96b89649c9b86de56ae4d296cd2891bb3db629a5164e82fd81e",
+      "id": "07aa2a1b9a3a",
+      "priority": 1,
+      "group": "4f92487f8b35"
+    }
+  ]
+}

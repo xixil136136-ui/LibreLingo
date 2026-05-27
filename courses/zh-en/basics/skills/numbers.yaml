@@ -45,28 +45,24 @@ Phrases:
 
 Mini-dictionary:
   English:
+    - six: 六
+    - nine: 九
     - one: 一
     - two: 二
-    - three: 三
     - four: 四
-    - five: 五
-    - six: 六
-    - seven: 七
-    - eight: 八
-    - nine: 九
     - ten: 十
-    - o'clock: 点钟
-    - and: 和
+    - three: 三
+    - eight: 八
+    - seven: 七
+    - five: 五
   Chinese:
     - 一: one
+    - 九: nine
     - 二: two
+    - 七: seven
+    - 十: ten
     - 三: three
-    - 四: four
+    - 八: eight
     - 五: five
     - 六: six
-    - 七: seven
-    - 八: eight
-    - 九: nine
-    - 十: ten
-    - 点钟: o'clock
-    - 和: and
+    - 四: four

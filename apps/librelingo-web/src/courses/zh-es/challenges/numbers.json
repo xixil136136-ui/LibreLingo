@@ -1,0 +1,397 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Uno, dos, tres.",
+      "meaningInSourceLanguage": "一、二、三。",
+      "id": "97fde55e8737",
+      "priority": 0,
+      "group": "3d2dfb3a12ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Uno, dos, tres.",
+      "meaning": "一、二、三。",
+      "audio": "72af3414581bddc627f244421d6d0de7e7d5bdf9a1864fde4049578da348243e",
+      "id": "bca9cdf3080e",
+      "priority": 1,
+      "group": "3d2dfb3a12ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Son las cinco.",
+      "meaningInSourceLanguage": "现在五点钟。",
+      "id": "ba179662ceb1",
+      "priority": 0,
+      "group": "6e708e987104"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Son las cinco.",
+      "meaning": "现在五点钟。",
+      "audio": "197fd100fcbd863171a8d0b1d4723ef5b8accb503f46613df853cfdf06f87480",
+      "id": "9330d1a999bc",
+      "priority": 1,
+      "group": "6e708e987104"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Hay diez personas.",
+      "meaningInSourceLanguage": "有十个人。",
+      "id": "e8b620f18a6b",
+      "priority": 0,
+      "group": "7ea0d875e42f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Hay diez personas.",
+      "meaning": "有十个人。",
+      "audio": "1ce7559f98bc43f2a3f7fabf298bbdd4deb6564bf560ef9abfe833a803d91274",
+      "id": "43093bfef22f",
+      "priority": 1,
+      "group": "7ea0d875e42f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "uno",
+      "meaningInSourceLanguage": "一",
+      "id": "5446fac31aa8",
+      "priority": 0,
+      "group": "40e0540b5d68"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "uno"
+      ],
+      "phrase": [
+        {
+          "word": "一",
+          "definition": "uno"
+        }
+      ],
+      "id": "2dfbdc4cb21b",
+      "priority": 1,
+      "group": "40e0540b5d68"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "uno",
+      "meaning": "一",
+      "audio": "0d0886e82c276c0699340295e63813371ecc07ce33361d7d3eb3aa897673ffb7",
+      "id": "2964ba9c7ba6",
+      "priority": 1,
+      "group": "40e0540b5d68"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "dos",
+      "meaningInSourceLanguage": "二",
+      "id": "0787bc69e7ab",
+      "priority": 0,
+      "group": "290db523f0d4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "dos"
+      ],
+      "phrase": [
+        {
+          "word": "二",
+          "definition": "dos"
+        }
+      ],
+      "id": "aa21a53b9a29",
+      "priority": 1,
+      "group": "290db523f0d4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "dos",
+      "meaning": "二",
+      "audio": "7ec0420eef9c6d8a7fdf05ce8cf05fe6888b630af80a472bb6e05742a0828e5b",
+      "id": "6a94eac291ae",
+      "priority": 1,
+      "group": "290db523f0d4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tres",
+      "meaningInSourceLanguage": "三",
+      "id": "95d0994b89a2",
+      "priority": 0,
+      "group": "9c96a1cf4d6e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tres"
+      ],
+      "phrase": [
+        {
+          "word": "三",
+          "definition": "tres"
+        }
+      ],
+      "id": "24b59904ad1c",
+      "priority": 1,
+      "group": "9c96a1cf4d6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tres",
+      "meaning": "三",
+      "audio": "975823d10f76f886c0b31cb8513498622de0b9be4d4f010b4e03b1f07efa16c5",
+      "id": "b8ae371f163a",
+      "priority": 1,
+      "group": "9c96a1cf4d6e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cuatro",
+      "meaningInSourceLanguage": "四",
+      "id": "1ccab5b09727",
+      "priority": 0,
+      "group": "82622ba70e44"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cuatro"
+      ],
+      "phrase": [
+        {
+          "word": "四",
+          "definition": "cuatro"
+        }
+      ],
+      "id": "f300dbd72de8",
+      "priority": 1,
+      "group": "82622ba70e44"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cuatro",
+      "meaning": "四",
+      "audio": "3b732b0ef332ec252e474e79cb2f680774b4b78a15ee6197a1923bbf25e515d5",
+      "id": "cb8c8428c5cf",
+      "priority": 1,
+      "group": "82622ba70e44"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "cinco",
+      "meaningInSourceLanguage": "五",
+      "id": "54dd0c0f2191",
+      "priority": 0,
+      "group": "242f11d61aea"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "cinco"
+      ],
+      "phrase": [
+        {
+          "word": "五",
+          "definition": "cinco"
+        }
+      ],
+      "id": "ef3dd86ac827",
+      "priority": 1,
+      "group": "242f11d61aea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "cinco",
+      "meaning": "五",
+      "audio": "ce5b4ecbd00ccab68b8917bf41b5873ff74f5378bef072d138c63a298f9ea464",
+      "id": "021c3278cf29",
+      "priority": 1,
+      "group": "242f11d61aea"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "seis",
+      "meaningInSourceLanguage": "六",
+      "id": "a4aea2862abb",
+      "priority": 0,
+      "group": "6d9a406aefbe"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "seis"
+      ],
+      "phrase": [
+        {
+          "word": "六",
+          "definition": "seis"
+        }
+      ],
+      "id": "fd8fa185c1d9",
+      "priority": 1,
+      "group": "6d9a406aefbe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "seis",
+      "meaning": "六",
+      "audio": "ea6b0725b1ea5046d9eff311d510fe411a4611235102ff42ec3af9469411f3c7",
+      "id": "c5b2851b3f35",
+      "priority": 1,
+      "group": "6d9a406aefbe"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "siete",
+      "meaningInSourceLanguage": "七",
+      "id": "005b22c149b0",
+      "priority": 0,
+      "group": "2ea9ed7e1061"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "siete"
+      ],
+      "phrase": [
+        {
+          "word": "七",
+          "definition": "siete"
+        }
+      ],
+      "id": "5cbc5c4e28c6",
+      "priority": 1,
+      "group": "2ea9ed7e1061"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "siete",
+      "meaning": "七",
+      "audio": "1e0bc63ba42d6215c1579d8d8aa467b5019e52f482c20276fdb1f5cf4122dfe4",
+      "id": "978a04cf00d8",
+      "priority": 1,
+      "group": "2ea9ed7e1061"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ocho",
+      "meaningInSourceLanguage": "八",
+      "id": "87fa74585e8c",
+      "priority": 0,
+      "group": "d630de8a1789"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ocho"
+      ],
+      "phrase": [
+        {
+          "word": "八",
+          "definition": "ocho"
+        }
+      ],
+      "id": "3897809d444b",
+      "priority": 1,
+      "group": "d630de8a1789"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ocho",
+      "meaning": "八",
+      "audio": "fe5d615944f721d5635ec280b6048a40be7d0cd425fa002b7eb3ccbdb536f342",
+      "id": "437c93af11fe",
+      "priority": 1,
+      "group": "d630de8a1789"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "nueve",
+      "meaningInSourceLanguage": "九",
+      "id": "d8c017aa160c",
+      "priority": 0,
+      "group": "9a828991a7f6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "nueve"
+      ],
+      "phrase": [
+        {
+          "word": "九",
+          "definition": "nueve"
+        }
+      ],
+      "id": "1be5354d4d95",
+      "priority": 1,
+      "group": "9a828991a7f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "nueve",
+      "meaning": "九",
+      "audio": "057bf13c2c8950fb2073c2f93647fd24c2f033ca5d2b8c25a300d508a6b89bca",
+      "id": "6d2e35ef201e",
+      "priority": 1,
+      "group": "9a828991a7f6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "diez",
+      "meaningInSourceLanguage": "十",
+      "id": "d5fa574dfaa7",
+      "priority": 0,
+      "group": "13b684668808"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "diez"
+      ],
+      "phrase": [
+        {
+          "word": "十",
+          "definition": "diez"
+        }
+      ],
+      "id": "b0bafca1cfff",
+      "priority": 1,
+      "group": "13b684668808"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "diez",
+      "meaning": "十",
+      "audio": "3f395a42f3d0da8775a4f1658c0b2d7ac551cdc922392caf7a7aeccd84c06a93",
+      "id": "b85f9d3ebb5f",
+      "priority": 1,
+      "group": "13b684668808"
+    }
+  ]
+}

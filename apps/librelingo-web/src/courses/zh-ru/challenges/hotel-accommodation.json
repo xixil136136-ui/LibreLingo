@@ -1,0 +1,516 @@
+{
+  "id": "379dca1c8ae9",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня есть бронирование.",
+      "meaningInSourceLanguage": "我有预订。",
+      "id": "f2149df76715",
+      "priority": 0,
+      "group": "e4e05840dfda"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня есть бронирование.",
+      "meaning": "我有预订。",
+      "audio": "27ff46c459b4ae0ccc9ceb55ae69097cbf3e8c0c5f5f4512df7aec22529c7c34",
+      "id": "41b1ac7d4ce4",
+      "priority": 1,
+      "group": "e4e05840dfda"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я хотел бы заселиться.",
+      "meaningInSourceLanguage": "我想办理入住。",
+      "id": "de5c258eb010",
+      "priority": 0,
+      "group": "394d6ec8490a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я хотел бы заселиться.",
+      "meaning": "我想办理入住。",
+      "audio": "f1b8d1971fc4667241e3ec5f7cd7021c8f37a072062d4f63939cf326b078b8f4",
+      "id": "338286751999",
+      "priority": 1,
+      "group": "394d6ec8490a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сколько стоит двухместный номер за ночь?",
+      "meaningInSourceLanguage": "双人间一晚多少钱？",
+      "id": "8c03895642bd",
+      "priority": 0,
+      "group": "8641681256a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сколько стоит двухместный номер за ночь?",
+      "meaning": "双人间一晚多少钱？",
+      "audio": "c73dae8bde4553971d5c348bab8631af0ce21fbbe3338c9e971bbe592452f868",
+      "id": "4116898d0c22",
+      "priority": 1,
+      "group": "8641681256a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Завтрак включён?",
+      "meaningInSourceLanguage": "包含早餐吗？",
+      "id": "fc7cfd1a744a",
+      "priority": 0,
+      "group": "645427876102"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Завтрак включён?",
+      "meaning": "包含早餐吗？",
+      "audio": "a8551288b6ced3d6f13706d3019c6b8754279e6f31532dda446e9c5f6d6f5992",
+      "id": "8ded414b2a0e",
+      "priority": 1,
+      "group": "645427876102"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Какой пароль от WiFi?",
+      "meaningInSourceLanguage": "WiFi密码是什么？",
+      "id": "7bd4b35f0e3e",
+      "priority": 0,
+      "group": "1019d28b2b64"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Какой пароль от WiFi?",
+      "meaning": "WiFi密码是什么？",
+      "audio": "4a6d64f1952ec282187cb9295fcec3bbc5acdca0133aa1a156266a6f5cf9fe97",
+      "id": "8b101dd4af24",
+      "priority": 1,
+      "group": "1019d28b2b64"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кондиционер не работает.",
+      "meaningInSourceLanguage": "空调坏了。",
+      "id": "5f060dee2fda",
+      "priority": 0,
+      "group": "f068b987331d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кондиционер не работает.",
+      "meaning": "空调坏了。",
+      "audio": "213a1451cde5f4847cd93014b076697f8c7f25894f98c0b8233de69bc072685a",
+      "id": "e873469c87e2",
+      "priority": 1,
+      "group": "f068b987331d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можно заказать пробуждение в 7 утра?",
+      "meaningInSourceLanguage": "能给我设置早上7点的叫醒服务吗？",
+      "id": "6739dd892985",
+      "priority": 0,
+      "group": "4b89700b37c0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можно заказать пробуждение в 7 утра?",
+      "meaning": "能给我设置早上7点的叫醒服务吗？",
+      "audio": "64f706ca16a7d419ba4a04cb6ee14f35284b1153d9826db062c45f3ef5cbf3c0",
+      "id": "99ee53484ea7",
+      "priority": 1,
+      "group": "4b89700b37c0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я хотел бы выехать.",
+      "meaningInSourceLanguage": "我想退房。",
+      "id": "7506222f471a",
+      "priority": 0,
+      "group": "0d92f8385d7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я хотел бы выехать.",
+      "meaning": "我想退房。",
+      "audio": "3222f37685037cbb84fcc4a00f73e7655190f4b98266cdcc8962b098e6aac040",
+      "id": "81da2298c35c",
+      "priority": 1,
+      "group": "0d92f8385d7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можно оставить багаж здесь?",
+      "meaningInSourceLanguage": "我能寄存行李吗？",
+      "id": "d448a04c415a",
+      "priority": 0,
+      "group": "fc5d70492ee4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можно оставить багаж здесь?",
+      "meaning": "我能寄存行李吗？",
+      "audio": "9cff9253e07a57868780bd9fef53fd5cc1725c31d55d256a0873761391307c83",
+      "id": "395e496bef69",
+      "priority": 1,
+      "group": "fc5d70492ee4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Спасибо за прекрасное пребывание!",
+      "meaningInSourceLanguage": "谢谢，住得很愉快！",
+      "id": "d5a33618ae37",
+      "priority": 0,
+      "group": "61059aecc116"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Спасибо за прекрасное пребывание!",
+      "meaning": "谢谢，住得很愉快！",
+      "audio": "dab5752911c79e34a2d81b93605d332a14b5a5acb8f6e5bcd87362bfd6440710",
+      "id": "69ac859558f3",
+      "priority": 1,
+      "group": "61059aecc116"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "заселиться",
+      "meaningInSourceLanguage": "入住",
+      "id": "f5e8af553079",
+      "priority": 0,
+      "group": "e8adaef8a808"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "заселиться"
+      ],
+      "phrase": [
+        {
+          "word": "入住",
+          "definition": "заселиться"
+        }
+      ],
+      "id": "c703a47a3928",
+      "priority": 1,
+      "group": "e8adaef8a808"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "заселиться",
+      "meaning": "入住",
+      "audio": "6c4593c56b4b72af449969491907ef09e42581ec95b950c049cefa6219e0d3a8",
+      "id": "c0c87f1ae874",
+      "priority": 1,
+      "group": "e8adaef8a808"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "выехать",
+      "meaningInSourceLanguage": "退房",
+      "id": "bd7f8305af79",
+      "priority": 0,
+      "group": "821f8386ba35"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "выехать"
+      ],
+      "phrase": [
+        {
+          "word": "退房",
+          "definition": "выехать"
+        }
+      ],
+      "id": "2813e7e38a52",
+      "priority": 1,
+      "group": "821f8386ba35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "выехать",
+      "meaning": "退房",
+      "audio": "9554034f515f60d8c13326ba6fb421ef596a48de73aabdd81cef5a9ac03eacb6",
+      "id": "8bca4fbc27eb",
+      "priority": 1,
+      "group": "821f8386ba35"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ключ от номера",
+      "meaningInSourceLanguage": "房卡",
+      "id": "a00a12fbf4dd",
+      "priority": 0,
+      "group": "8a8902f2dcc7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ключ от номера"
+      ],
+      "phrase": [
+        {
+          "word": "房卡",
+          "definition": "ключ от номера"
+        }
+      ],
+      "id": "963bcc4a5c94",
+      "priority": 1,
+      "group": "8a8902f2dcc7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ключ от номера",
+      "meaning": "房卡",
+      "audio": "d6ee7ed5b56089963934f141d71ebb6355e71ec31c5d482a41de0fe6bdaa4788",
+      "id": "d0b66630624f",
+      "priority": 1,
+      "group": "8a8902f2dcc7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "одноместный номер",
+      "meaningInSourceLanguage": "单人间",
+      "id": "cce78d9118a7",
+      "priority": 0,
+      "group": "e9244e6e8890"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "одноместный номер"
+      ],
+      "phrase": [
+        {
+          "word": "单人间",
+          "definition": "одноместный номер"
+        }
+      ],
+      "id": "182e95da8211",
+      "priority": 1,
+      "group": "e9244e6e8890"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "одноместный номер",
+      "meaning": "单人间",
+      "audio": "49750012473af05b9801f7eab2cea84b60924aa455bf27bd0e5191675c4bac21",
+      "id": "a798fdc7b838",
+      "priority": 1,
+      "group": "e9244e6e8890"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "двухместный номер",
+      "meaningInSourceLanguage": "双人间",
+      "id": "34019ae1c602",
+      "priority": 0,
+      "group": "eef49af8eee5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "двухместный номер"
+      ],
+      "phrase": [
+        {
+          "word": "双人间",
+          "definition": "двухместный номер"
+        }
+      ],
+      "id": "07d80e333489",
+      "priority": 1,
+      "group": "eef49af8eee5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "двухместный номер",
+      "meaning": "双人间",
+      "audio": "dc9d19767f94ac65cb1a0b22ef9a50930c7a119d9cae35530d58c3075c7d43ee",
+      "id": "1d3177b56e8e",
+      "priority": 1,
+      "group": "eef49af8eee5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бронирование",
+      "meaningInSourceLanguage": "预订",
+      "id": "f10d0323e8c9",
+      "priority": 0,
+      "group": "bd71e8138e46"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бронирование"
+      ],
+      "phrase": [
+        {
+          "word": "预订",
+          "definition": "бронирование"
+        }
+      ],
+      "id": "cc38a24de80a",
+      "priority": 1,
+      "group": "bd71e8138e46"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бронирование",
+      "meaning": "预订",
+      "audio": "d5e20e4bad3e5a044ca8df5aa34002a259e8f1908b55f3626b4172d5bf3c3315",
+      "id": "61eacc1fe537",
+      "priority": 1,
+      "group": "bd71e8138e46"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "завтрак",
+      "meaningInSourceLanguage": "早餐",
+      "id": "fcf658f5b9f2",
+      "priority": 0,
+      "group": "2a20e0b2492b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "завтрак"
+      ],
+      "phrase": [
+        {
+          "word": "早餐",
+          "definition": "завтрак"
+        }
+      ],
+      "id": "d24e569339c3",
+      "priority": 1,
+      "group": "2a20e0b2492b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "завтрак",
+      "meaning": "早餐",
+      "audio": "25f2afb725c7c4e05dd917146bf2e99f8491ec868775eea0e80865bd0d61bf76",
+      "id": "0bfa28275cf6",
+      "priority": 1,
+      "group": "2a20e0b2492b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "WiFi",
+      "meaningInSourceLanguage": "无线网络",
+      "id": "74b99f4e8800",
+      "priority": 0,
+      "group": "99a0ab5a0273"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "WiFi"
+      ],
+      "phrase": [
+        {
+          "word": "无线网络",
+          "definition": "WiFi"
+        }
+      ],
+      "id": "531a1605826a",
+      "priority": 1,
+      "group": "99a0ab5a0273"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "WiFi",
+      "meaning": "无线网络",
+      "audio": "b3aa932b1aa32843335cb68c452fe2c61a63a626771347aa004badadd2ee809f",
+      "id": "b06e018fcfce",
+      "priority": 1,
+      "group": "99a0ab5a0273"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кондиционер",
+      "meaningInSourceLanguage": "空调",
+      "id": "acc5fe4614dd",
+      "priority": 0,
+      "group": "c21bf7357fb5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кондиционер"
+      ],
+      "phrase": [
+        {
+          "word": "空调",
+          "definition": "кондиционер"
+        }
+      ],
+      "id": "5985f3575324",
+      "priority": 1,
+      "group": "c21bf7357fb5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кондиционер",
+      "meaning": "空调",
+      "audio": "8888833abd797f19252b1b3711042d246c180d395b24275252ee9df7a6d2c469",
+      "id": "7e31721ec4e1",
+      "priority": 1,
+      "group": "c21bf7357fb5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "обслуживание в номере",
+      "meaningInSourceLanguage": "客房服务",
+      "id": "1c3c58777b80",
+      "priority": 0,
+      "group": "1d9a5484fe77"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "обслуживание в номере"
+      ],
+      "phrase": [
+        {
+          "word": "客房服务",
+          "definition": "обслуживание в номере"
+        }
+      ],
+      "id": "de7df37e6e8a",
+      "priority": 1,
+      "group": "1d9a5484fe77"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "обслуживание в номере",
+      "meaning": "客房服务",
+      "audio": "a3aa8253a3e3f2333fc35e696caaea010b7872addded88b4d9727aa71c1dc14c",
+      "id": "1b7830324f15",
+      "priority": 1,
+      "group": "1d9a5484fe77"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+Skill:
+  Name: Hotel & Accommodation
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: fare il check-in
+    Translation: 入住
+  - Word: fare il check-out
+    Translation: 退房
+  - Word: la chiave della camera
+    Translation: 房卡
+  - Word: la camera singola
+    Translation: 单人间
+  - Word: la camera doppia
+    Translation: 双人间
+  - Word: la prenotazione
+    Translation: 预订
+  - Word: la colazione
+    Translation: 早餐
+  - Word: il WiFi
+    Translation: 无线网络
+  - Word: l'aria condizionata
+    Translation: 空调
+  - Word: il servizio in camera
+    Translation: 客房服务
+
+Phrases:
+  - Phrase: Ho una prenotazione.
+    Translation: 我有预订。
+  - Phrase: Vorrei fare il check-in, per favore.
+    Translation: 我想办理入住。
+  - Phrase: Quanto costa una camera doppia a notte?
+    Translation: 双人间一晚多少钱？
+  - Phrase: La colazione è inclusa?
+    Translation: 包含早餐吗？
+  - Phrase: Qual è la password del WiFi?
+    Translation: WiFi密码是什么？
+  - Phrase: L'aria condizionata non funziona.
+    Translation: 空调坏了。
+  - Phrase: Posso avere una sveglia alle 7?
+    Translation: 能给我设置早上7点的叫醒服务吗？
+  - Phrase: Vorrei fare il check-out, per favore.
+    Translation: 我想退房。
+  - Phrase: Posso lasciare il bagaglio qui?
+    Translation: 我能寄存行李吗？
+  - Phrase: Grazie per un soggiorno meraviglioso!
+    Translation: 谢谢，住得很愉快！
+
+Mini-dictionary:
+  Italian:
+    - la prenotazione: 预订
+    - la chiave della camera: 房卡
+    - la camera doppia: 双人间
+    - il servizio in camera: 客房服务
+    - il WiFi: 无线网络
+    - fare il check-in: 入住
+    - fare il check-out: 退房
+    - la colazione: 早餐
+    - l'aria condizionata: 空调
+    - la camera singola: 单人间
+  Chinese:
+    - 房卡: la chiave della camera
+    - 空调: l'aria condizionata
+    - 双人间: la camera doppia
+    - 无线网络: il WiFi
+    - 早餐: la colazione
+    - 客房服务: il servizio in camera
+    - 预订: la prenotazione
+    - 入住: fare il check-in
+    - 单人间: la camera singola
+    - 退房: fare il check-out

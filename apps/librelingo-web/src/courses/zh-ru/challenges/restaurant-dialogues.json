@@ -1,0 +1,516 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я хотел бы забронировать столик.",
+      "meaningInSourceLanguage": "我想预约。",
+      "id": "df67af79b9e1",
+      "priority": 0,
+      "group": "905f06bae5c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я хотел бы забронировать столик.",
+      "meaning": "我想预约。",
+      "audio": "5cac03ecbff42a929236e3212d727de5c6b0d9de4f6f193405243963956ea240",
+      "id": "87f3085d62fb",
+      "priority": 1,
+      "group": "905f06bae5c1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Столик на двоих, пожалуйста.",
+      "meaningInSourceLanguage": "请给我一个两人桌。",
+      "id": "b03d45770bf3",
+      "priority": 0,
+      "group": "882aad95b887"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Столик на двоих, пожалуйста.",
+      "meaning": "请给我一个两人桌。",
+      "audio": "61d7ccfc948ddbb484bc9970e6cad56b82aec7ae5dbc7e79c210ae587d8998ea",
+      "id": "da7466483b92",
+      "priority": 1,
+      "group": "882aad95b887"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можно посмотреть меню?",
+      "meaningInSourceLanguage": "我能看看菜单吗？",
+      "id": "1abcd0f9069f",
+      "priority": 0,
+      "group": "0e3ef8f49a00"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можно посмотреть меню?",
+      "meaning": "我能看看菜单吗？",
+      "audio": "582923f7d08ce2c84443cec7d515cccc58e8e370b6f664e7adf370f6316e4cd7",
+      "id": "ddff884e8617",
+      "priority": 1,
+      "group": "0e3ef8f49a00"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Что вы порекомендуете?",
+      "meaningInSourceLanguage": "你推荐什么？",
+      "id": "872c65c477be",
+      "priority": 0,
+      "group": "3d2c95ede3cc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Что вы порекомендуете?",
+      "meaning": "你推荐什么？",
+      "audio": "3f60859be407ddcdbc36314b220e2d341fb3cc4205063cafa3161337e1dace72",
+      "id": "8cdc9e47d316",
+      "priority": 1,
+      "group": "3d2c95ede3cc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я возьму стейк.",
+      "meaningInSourceLanguage": "我要牛排。",
+      "id": "c02c28dccf16",
+      "priority": 0,
+      "group": "0c4913d39991"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я возьму стейк.",
+      "meaning": "我要牛排。",
+      "audio": "9257579baae5144ed5c6ebc2a823eb104798b70d2a32a85474d92b8b785345d6",
+      "id": "0260621e94b8",
+      "priority": 1,
+      "group": "0c4913d39991"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Счёт, пожалуйста.",
+      "meaningInSourceLanguage": "请给我账单。",
+      "id": "e3c019a327ff",
+      "priority": 0,
+      "group": "68b043af0a1d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Счёт, пожалуйста.",
+      "meaning": "请给我账单。",
+      "audio": "5ff0292b102a20ca7b6944093843f22dbdd6fab65db46f748f71c7b9ee4be484",
+      "id": "d02e582b8798",
+      "priority": 1,
+      "group": "68b043af0a1d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Еда очень вкусная!",
+      "meaningInSourceLanguage": "食物太好吃了！",
+      "id": "5e8840bf388e",
+      "priority": 0,
+      "group": "32ddb944d5f6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Еда очень вкусная!",
+      "meaning": "食物太好吃了！",
+      "audio": "e811c36afb1dd1565dc83045ce8b6f61b8c56bd5c0fac09a2d8aac8c7afeddd2",
+      "id": "4edc6071fbd8",
+      "priority": 1,
+      "group": "32ddb944d5f6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можно воды?",
+      "meaningInSourceLanguage": "能给我一些水吗？",
+      "id": "4feb30b0945f",
+      "priority": 0,
+      "group": "c26cdae6d1c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можно воды?",
+      "meaning": "能给我一些水吗？",
+      "audio": "4c18190f96369140dd8fc1a24c50fd120cbe03197a5cc6fd16eefff6d594eeba",
+      "id": "393060738afc",
+      "priority": 1,
+      "group": "c26cdae6d1c5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Обслуживание включено?",
+      "meaningInSourceLanguage": "服务费包含在内吗？",
+      "id": "a6a8dd27dca1",
+      "priority": 0,
+      "group": "e1f73044d8f3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Обслуживание включено?",
+      "meaning": "服务费包含在内吗？",
+      "audio": "7da08185023903b88edee32c061255f3adf58c99bdb937312d2ffd332d14c050",
+      "id": "5754a1b23bba",
+      "priority": 1,
+      "group": "e1f73044d8f3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня аллергия на арахис.",
+      "meaningInSourceLanguage": "我对花生过敏。",
+      "id": "00c620ff7079",
+      "priority": 0,
+      "group": "9e92659e3600"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня аллергия на арахис.",
+      "meaning": "我对花生过敏。",
+      "audio": "6d0b295c662e5e9221188655178c56a3b1d4de4bc4d426983cfdd43d2f4b856a",
+      "id": "a853e7ee5343",
+      "priority": 1,
+      "group": "9e92659e3600"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Я хотел бы",
+      "meaningInSourceLanguage": "我想要",
+      "id": "baf51e8500ed",
+      "priority": 0,
+      "group": "8e9c978b724c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Я хотел бы"
+      ],
+      "phrase": [
+        {
+          "word": "我想要",
+          "definition": "Я хотел бы"
+        }
+      ],
+      "id": "2aac44563b8d",
+      "priority": 1,
+      "group": "8e9c978b724c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я хотел бы",
+      "meaning": "我想要",
+      "audio": "2858491aa0e45278df4d11042b09cfdf522daf33d401e622e1a480a8e58a3683",
+      "id": "e565dbe22125",
+      "priority": 1,
+      "group": "8e9c978b724c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "меню",
+      "meaningInSourceLanguage": "菜单",
+      "id": "040351a006a9",
+      "priority": 0,
+      "group": "ab367be455f1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "меню"
+      ],
+      "phrase": [
+        {
+          "word": "菜单",
+          "definition": "меню"
+        }
+      ],
+      "id": "4a5263fb66ec",
+      "priority": 1,
+      "group": "ab367be455f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "меню",
+      "meaning": "菜单",
+      "audio": "1e533de734a36985c5dd892a53b905f66f44349e178b532f5bd96cfeb6604e83",
+      "id": "d38aed09e189",
+      "priority": 1,
+      "group": "ab367be455f1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "заказать",
+      "meaningInSourceLanguage": "点餐",
+      "id": "a05cbae01049",
+      "priority": 0,
+      "group": "ad4fb97d6d72"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "заказать"
+      ],
+      "phrase": [
+        {
+          "word": "点餐",
+          "definition": "заказать"
+        }
+      ],
+      "id": "380fe8d80653",
+      "priority": 1,
+      "group": "ad4fb97d6d72"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "заказать",
+      "meaning": "点餐",
+      "audio": "f6c5aec9b61c74e2c90aa3ae21d852ead0519321fa05434c9fde8d0aada100ea",
+      "id": "f15f1c1f0d5f",
+      "priority": 1,
+      "group": "ad4fb97d6d72"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "счёт",
+      "meaningInSourceLanguage": "账单",
+      "id": "ab129857fdb0",
+      "priority": 0,
+      "group": "733396d10b54"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "счёт"
+      ],
+      "phrase": [
+        {
+          "word": "账单",
+          "definition": "счёт"
+        }
+      ],
+      "id": "7db409c567e9",
+      "priority": 1,
+      "group": "733396d10b54"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "счёт",
+      "meaning": "账单",
+      "audio": "614635696fae595eaa4d0056a3f7c20a9e8f3a1ead9651233af087d2a34252a7",
+      "id": "bd46de404fa0",
+      "priority": 1,
+      "group": "733396d10b54"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вкусно",
+      "meaningInSourceLanguage": "美味",
+      "id": "08eca94d46b8",
+      "priority": 0,
+      "group": "f601a1f805de"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вкусно"
+      ],
+      "phrase": [
+        {
+          "word": "美味",
+          "definition": "вкусно"
+        }
+      ],
+      "id": "503049d6ca4b",
+      "priority": 1,
+      "group": "f601a1f805de"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вкусно",
+      "meaning": "美味",
+      "audio": "21b0686e2ccbffbdaf284fa6518d2b61cb3e1dc1550087eafc43d89302c35e93",
+      "id": "2800c14efaa3",
+      "priority": 1,
+      "group": "f601a1f805de"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рекомендация",
+      "meaningInSourceLanguage": "推荐",
+      "id": "433f1a56e279",
+      "priority": 0,
+      "group": "f0e62f22201d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рекомендация"
+      ],
+      "phrase": [
+        {
+          "word": "推荐",
+          "definition": "рекомендация"
+        }
+      ],
+      "id": "c30d3a57f2ac",
+      "priority": 1,
+      "group": "f0e62f22201d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рекомендация",
+      "meaning": "推荐",
+      "audio": "8c2e12596eb1a0f18f5da2d5d9d065bd35bcb0132fe329f9377e35abe635917f",
+      "id": "c704bd29af4a",
+      "priority": 1,
+      "group": "f0e62f22201d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "бронирование",
+      "meaningInSourceLanguage": "预约",
+      "id": "f87592523b1c",
+      "priority": 0,
+      "group": "e8b8eafc64a8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "бронирование"
+      ],
+      "phrase": [
+        {
+          "word": "预约",
+          "definition": "бронирование"
+        }
+      ],
+      "id": "ed34b85c9746",
+      "priority": 1,
+      "group": "e8b8eafc64a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "бронирование",
+      "meaning": "预约",
+      "audio": "d5e20e4bad3e5a044ca8df5aa34002a259e8f1908b55f3626b4172d5bf3c3315",
+      "id": "f84886e634ea",
+      "priority": 1,
+      "group": "e8b8eafc64a8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "официант",
+      "meaningInSourceLanguage": "服务员",
+      "id": "9189b8318c24",
+      "priority": 0,
+      "group": "1f957678d629"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "официант"
+      ],
+      "phrase": [
+        {
+          "word": "服务员",
+          "definition": "официант"
+        }
+      ],
+      "id": "347d52f99364",
+      "priority": 1,
+      "group": "1f957678d629"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "официант",
+      "meaning": "服务员",
+      "audio": "8b7f495b857b68c0d221c8fce444862d244bd964949d9ae2f8427447d51e58ee",
+      "id": "9887fbdff993",
+      "priority": 1,
+      "group": "1f957678d629"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "столик на двоих",
+      "meaningInSourceLanguage": "两人桌",
+      "id": "c3888a217afb",
+      "priority": 0,
+      "group": "34cd2417b570"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "столик на двоих"
+      ],
+      "phrase": [
+        {
+          "word": "两人桌",
+          "definition": "столик на двоих"
+        }
+      ],
+      "id": "9526477b7b8f",
+      "priority": 1,
+      "group": "34cd2417b570"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "столик на двоих",
+      "meaning": "两人桌",
+      "audio": "35ed7df218c3e335c409a6504aa3c05ed5c177521d52f0e8025e94779ce92aa8",
+      "id": "460b7f373563",
+      "priority": 1,
+      "group": "34cd2417b570"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "блюдо дня",
+      "meaningInSourceLanguage": "今日特价",
+      "id": "db8a6872978a",
+      "priority": 0,
+      "group": "2b4c13976721"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "блюдо дня"
+      ],
+      "phrase": [
+        {
+          "word": "今日特价",
+          "definition": "блюдо дня"
+        }
+      ],
+      "id": "bfe755895b5d",
+      "priority": 1,
+      "group": "2b4c13976721"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "блюдо дня",
+      "meaning": "今日特价",
+      "audio": "12ce7ae47cd97608a357dd3eb6dde676b908141d71bdb640a942fead11ccb0dc",
+      "id": "7c3694916575",
+      "priority": 1,
+      "group": "2b4c13976721"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+Skill:
+  Name: Numbers
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: uno
+    Translation: 一
+  - Word: due
+    Translation: 二
+  - Word: tre
+    Translation: 三
+  - Word: quattro
+    Translation: 四
+  - Word: cinque
+    Translation: 五
+  - Word: sei
+    Translation: 六
+  - Word: sette
+    Translation: 七
+  - Word: otto
+    Translation: 八
+  - Word: nove
+    Translation: 九
+  - Word: dieci
+    Translation: 十
+
+Phrases:
+  - Phrase: Uno, due, tre.
+    Translation: 一、二、三。
+  - Phrase: Sono le cinque.
+    Translation: 现在五点钟。
+  - Phrase: Ci sono dieci persone.
+    Translation: 有十个人。
+
+Mini-dictionary:
+  Italian:
+    - uno: 一
+    - sei: 六
+    - sette: 七
+    - quattro: 四
+    - otto: 八
+    - cinque: 五
+    - dieci: 十
+    - nove: 九
+    - tre: 三
+    - due: 二
+  Chinese:
+    - 五: cinque
+    - 四: quattro
+    - 七: sette
+    - 一: uno
+    - 六: sei
+    - 三: tre
+    - 十: dieci
+    - 九: nove
+    - 八: otto
+    - 二: due

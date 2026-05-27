@@ -1,0 +1,78 @@
+Skill:
+  Name: Hotel & Accommodation
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: registrarse
+    Translation: 入住
+  - Word: salir
+    Translation: 退房
+  - Word: la llave de la habitación
+    Translation: 房卡
+  - Word: la habitación individual
+    Translation: 单人间
+  - Word: la habitación doble
+    Translation: 双人间
+  - Word: la reserva
+    Translation: 预订
+  - Word: el desayuno
+    Translation: 早餐
+  - Word: el WiFi
+    Translation: 无线网络
+  - Word: el aire acondicionado
+    Translation: 空调
+  - Word: el servicio de habitaciones
+    Translation: 客房服务
+
+Phrases:
+  - Phrase: Tengo una reserva.
+    Translation: 我有预订。
+  - Phrase: Quisiera registrarme, por favor.
+    Translation: 我想办理入住。
+  - Phrase: ¿Cuánto cuesta una habitación doble por noche?
+    Translation: 双人间一晚多少钱？
+  - Phrase: ¿Está incluido el desayuno?
+    Translation: 包含早餐吗？
+  - Phrase: ¿Cuál es la contraseña del WiFi?
+    Translation: WiFi密码是什么？
+  - Phrase: El aire acondicionado no funciona.
+    Translation: 空调坏了。
+  - Phrase: ¿Puede darme una llamada de despertar a las 7?
+    Translation: 能给我设置早上7点的叫醒服务吗？
+  - Phrase: Quisiera salir, por favor.
+    Translation: 我想退房。
+  - Phrase: ¿Puedo dejar mi equipaje aquí?
+    Translation: 我能寄存行李吗？
+  - Phrase: ¡Gracias por una estancia maravillosa!
+    Translation: 谢谢，住得很愉快！
+
+Mini-dictionary:
+  Spanish:
+    - registrarse: 入住
+    - el desayuno: 早餐
+    - el aire acondicionado: 空调
+    - la habitación doble: 双人间
+    - el servicio de habitaciones: 客房服务
+    - la habitación individual: 单人间
+    - salir: 退房
+    - la reserva: 预订
+    - la llave de la habitación: 房卡
+    - el WiFi: 无线网络
+  Chinese:
+    - 早餐: el desayuno
+    - 入住: registrarse
+    - 预订: la reserva
+    - 房卡: la llave de la habitación
+    - 单人间: la habitación individual
+    - 客房服务: el servicio de habitaciones
+    - 空调: el aire acondicionado
+    - 双人间: la habitación doble
+    - 无线网络: el WiFi
+    - 退房: salir

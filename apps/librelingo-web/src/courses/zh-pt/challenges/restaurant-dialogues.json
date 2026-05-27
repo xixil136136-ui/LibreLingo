@@ -1,0 +1,516 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gostaria de fazer uma reserva.",
+      "meaningInSourceLanguage": "我想预约。",
+      "id": "2ec1effa6a2e",
+      "priority": 0,
+      "group": "ee2cba9ed31e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gostaria de fazer uma reserva.",
+      "meaning": "我想预约。",
+      "audio": "6fde94b2da832de35c55b02c3c7d23f45e689c381f590dfab869609748c4711f",
+      "id": "412b3ac4ebfe",
+      "priority": 1,
+      "group": "ee2cba9ed31e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Uma mesa para dois, por favor.",
+      "meaningInSourceLanguage": "请给我一个两人桌。",
+      "id": "5eeb12675808",
+      "priority": 0,
+      "group": "25cc27500de5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Uma mesa para dois, por favor.",
+      "meaning": "请给我一个两人桌。",
+      "audio": "82b4187f9849cedcdc03b51a2d3e45ed253c160b67ebf60982de5708bffaf2d6",
+      "id": "1106a166c73a",
+      "priority": 1,
+      "group": "25cc27500de5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso ver o cardápio?",
+      "meaningInSourceLanguage": "我能看看菜单吗？",
+      "id": "498d8c0a9577",
+      "priority": 0,
+      "group": "55795fb252fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso ver o cardápio?",
+      "meaning": "我能看看菜单吗？",
+      "audio": "671615f1c62065509f6a8f3a80531fe1214f983ee42be47fc56651dab2655362",
+      "id": "cbb25a05e505",
+      "priority": 1,
+      "group": "55795fb252fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "O que você recomenda?",
+      "meaningInSourceLanguage": "你推荐什么？",
+      "id": "e65fc63202e6",
+      "priority": 0,
+      "group": "8204b168d3ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "O que você recomenda?",
+      "meaning": "你推荐什么？",
+      "audio": "c26aae88ec49a98afbba4fa24c0c4cdc78053858bb20ba466aef54330303c56d",
+      "id": "8b9f20cd924f",
+      "priority": 1,
+      "group": "8204b168d3ff"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vou querer o bife, por favor.",
+      "meaningInSourceLanguage": "我要牛排。",
+      "id": "bd749572fab5",
+      "priority": 0,
+      "group": "e5123f0bf556"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vou querer o bife, por favor.",
+      "meaning": "我要牛排。",
+      "audio": "1cf797532b46a3a61ed2139d9e21af7183235832791db3a7d0e3e2606298d41c",
+      "id": "76b1d0a8efc6",
+      "priority": 1,
+      "group": "e5123f0bf556"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A conta, por favor.",
+      "meaningInSourceLanguage": "请给我账单。",
+      "id": "90d91ee3e480",
+      "priority": 0,
+      "group": "248d0dc6dd07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A conta, por favor.",
+      "meaning": "请给我账单。",
+      "audio": "5bfd7abac410d9fb7f34c98dd8e89a14694612ffa482d442b9b200dcfa446f17",
+      "id": "244fda5c5c31",
+      "priority": 1,
+      "group": "248d0dc6dd07"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "A comida está deliciosa!",
+      "meaningInSourceLanguage": "食物太好吃了！",
+      "id": "915f4aab496d",
+      "priority": 0,
+      "group": "170836fe5579"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "A comida está deliciosa!",
+      "meaning": "食物太好吃了！",
+      "audio": "1adad53e91802cb205c2436e10a16f3385f4b222b9093b83a6cce62287795bb0",
+      "id": "52ab860a3f8a",
+      "priority": 1,
+      "group": "170836fe5579"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pode me dar um pouco de água?",
+      "meaningInSourceLanguage": "能给我一些水吗？",
+      "id": "1cbcf90e8766",
+      "priority": 0,
+      "group": "478801c74841"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pode me dar um pouco de água?",
+      "meaning": "能给我一些水吗？",
+      "audio": "b36a5f10477111492ceb6ac8f7cd5b63675731a9684888cd7b29b6e2a9417f07",
+      "id": "fa0e54eca054",
+      "priority": 1,
+      "group": "478801c74841"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "O serviço está incluído?",
+      "meaningInSourceLanguage": "服务费包含在内吗？",
+      "id": "30ea2b533ca3",
+      "priority": 0,
+      "group": "b3f8412862e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "O serviço está incluído?",
+      "meaning": "服务费包含在内吗？",
+      "audio": "5d03eed718e4df56466894ee2a2876b068f3accd7168bb8a2fef072024a582e9",
+      "id": "bc16ebc41897",
+      "priority": 1,
+      "group": "b3f8412862e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sou alérgico a amendoim.",
+      "meaningInSourceLanguage": "我对花生过敏。",
+      "id": "d6884f233163",
+      "priority": 0,
+      "group": "8749ebb928d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sou alérgico a amendoim.",
+      "meaning": "我对花生过敏。",
+      "audio": "7a2adc0d5aba3f64f481373be18710978ed4962e8ae511147c8cf5a17e1e3254",
+      "id": "917580aea8b4",
+      "priority": 1,
+      "group": "8749ebb928d8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Eu gostaria de",
+      "meaningInSourceLanguage": "我想要",
+      "id": "48c714263da6",
+      "priority": 0,
+      "group": "9712a8745e73"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Eu gostaria de"
+      ],
+      "phrase": [
+        {
+          "word": "我想要",
+          "definition": "Eu gostaria de"
+        }
+      ],
+      "id": "30615132e46b",
+      "priority": 1,
+      "group": "9712a8745e73"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Eu gostaria de",
+      "meaning": "我想要",
+      "audio": "39f53276db3efde600733753b13c49f76a0cb1df22b0dfeb37dddf32d2666aef",
+      "id": "2f2d1cc0ec64",
+      "priority": 1,
+      "group": "9712a8745e73"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o cardápio",
+      "meaningInSourceLanguage": "菜单",
+      "id": "c72032c45d63",
+      "priority": 0,
+      "group": "f8691b48f7a5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o cardápio"
+      ],
+      "phrase": [
+        {
+          "word": "菜单",
+          "definition": "o cardápio"
+        }
+      ],
+      "id": "838e06563802",
+      "priority": 1,
+      "group": "f8691b48f7a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o cardápio",
+      "meaning": "菜单",
+      "audio": "1f0970c79ea4cecb04359da4433e66c52d0d1bbbf4a5d22fd2336937f841b12b",
+      "id": "a61906e912dd",
+      "priority": 1,
+      "group": "f8691b48f7a5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pedir",
+      "meaningInSourceLanguage": "点餐",
+      "id": "172d1c130415",
+      "priority": 0,
+      "group": "e83912c4fc83"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pedir"
+      ],
+      "phrase": [
+        {
+          "word": "点餐",
+          "definition": "pedir"
+        }
+      ],
+      "id": "ff471e448ddb",
+      "priority": 1,
+      "group": "e83912c4fc83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pedir",
+      "meaning": "点餐",
+      "audio": "b5b0f0df9fd424833fe07c42b52eafeb9b5ef2b96a19722bc635512fdc1e0c4c",
+      "id": "8e9689c0ab7c",
+      "priority": 1,
+      "group": "e83912c4fc83"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a conta",
+      "meaningInSourceLanguage": "账单",
+      "id": "d88ee28fa9af",
+      "priority": 0,
+      "group": "4430a3e69ce1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a conta"
+      ],
+      "phrase": [
+        {
+          "word": "账单",
+          "definition": "a conta"
+        }
+      ],
+      "id": "16a7b120de99",
+      "priority": 1,
+      "group": "4430a3e69ce1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a conta",
+      "meaning": "账单",
+      "audio": "5dc3d5e70c7535fc8a3b718d563e23f70c938e18ba6c362409adb89d7d3c94cc",
+      "id": "ef781a613cad",
+      "priority": 1,
+      "group": "4430a3e69ce1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "delicioso",
+      "meaningInSourceLanguage": "美味",
+      "id": "a0c7d44eb86b",
+      "priority": 0,
+      "group": "f28412c9b789"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "delicioso"
+      ],
+      "phrase": [
+        {
+          "word": "美味",
+          "definition": "delicioso"
+        }
+      ],
+      "id": "901b20fcac03",
+      "priority": 1,
+      "group": "f28412c9b789"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "delicioso",
+      "meaning": "美味",
+      "audio": "6b59e2c7ac3363c4c23cd64d10bec57d0c4c9c0eb3b2f620beb5895887b93c97",
+      "id": "60c5c0ed3615",
+      "priority": 1,
+      "group": "f28412c9b789"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a recomendação",
+      "meaningInSourceLanguage": "推荐",
+      "id": "a121421c4fe2",
+      "priority": 0,
+      "group": "939fa3e1cb09"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a recomendação"
+      ],
+      "phrase": [
+        {
+          "word": "推荐",
+          "definition": "a recomendação"
+        }
+      ],
+      "id": "fa594c3ab3d4",
+      "priority": 1,
+      "group": "939fa3e1cb09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a recomendação",
+      "meaning": "推荐",
+      "audio": "1ec168fc441c7a0f5806d512b375d130410b9ff88bffebb8737ef2897b469484",
+      "id": "7039c7c38287",
+      "priority": 1,
+      "group": "939fa3e1cb09"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a reserva",
+      "meaningInSourceLanguage": "预约",
+      "id": "a41684415245",
+      "priority": 0,
+      "group": "8897acf477fc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a reserva"
+      ],
+      "phrase": [
+        {
+          "word": "预约",
+          "definition": "a reserva"
+        }
+      ],
+      "id": "fd44927c5cb3",
+      "priority": 1,
+      "group": "8897acf477fc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a reserva",
+      "meaning": "预约",
+      "audio": "77eecfaa9e5d4009f6aaf5606f547d6911572e6eafbf23cff90f53cc95f52446",
+      "id": "a89447efd3aa",
+      "priority": 1,
+      "group": "8897acf477fc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o garçom",
+      "meaningInSourceLanguage": "服务员",
+      "id": "2a993117190d",
+      "priority": 0,
+      "group": "6afa84e7c4c2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o garçom"
+      ],
+      "phrase": [
+        {
+          "word": "服务员",
+          "definition": "o garçom"
+        }
+      ],
+      "id": "9925e9628e5c",
+      "priority": 1,
+      "group": "6afa84e7c4c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o garçom",
+      "meaning": "服务员",
+      "audio": "378040f305b21ed04664c35b7ced65496879c37aa474e0a5b13220326f26442e",
+      "id": "9d3729b6267c",
+      "priority": 1,
+      "group": "6afa84e7c4c2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "uma mesa para dois",
+      "meaningInSourceLanguage": "两人桌",
+      "id": "ffafcc3ad50d",
+      "priority": 0,
+      "group": "54e45f76751c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "uma mesa para dois"
+      ],
+      "phrase": [
+        {
+          "word": "两人桌",
+          "definition": "uma mesa para dois"
+        }
+      ],
+      "id": "e6aa6187a9f5",
+      "priority": 1,
+      "group": "54e45f76751c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "uma mesa para dois",
+      "meaning": "两人桌",
+      "audio": "21d621ba9b9df1c95ba7a943609d3f133f47348d13a776f74c9d72d8e64d3705",
+      "id": "ab01f8524655",
+      "priority": 1,
+      "group": "54e45f76751c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o prato do dia",
+      "meaningInSourceLanguage": "今日特价",
+      "id": "537f15f9dd8b",
+      "priority": 0,
+      "group": "1fdfe0216a52"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o prato do dia"
+      ],
+      "phrase": [
+        {
+          "word": "今日特价",
+          "definition": "o prato do dia"
+        }
+      ],
+      "id": "a41920d59788",
+      "priority": 1,
+      "group": "1fdfe0216a52"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o prato do dia",
+      "meaning": "今日特价",
+      "audio": "8d62b73a1dd43eebb2e25d4f259c0fe798d379f06437eb9222a0eec58772270b",
+      "id": "0a8b2d75c907",
+      "priority": 1,
+      "group": "1fdfe0216a52"
+    }
+  ]
+}

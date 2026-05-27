@@ -1,0 +1,516 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Where is the airport?",
+      "meaningInSourceLanguage": "机场在哪里？",
+      "id": "2e816970ffc8",
+      "priority": 0,
+      "group": "d93d433a9d7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Where is the airport?",
+      "meaning": "机场在哪里？",
+      "audio": "be58d04b2c6074ef460069e0edc700533ebb4b37b1d2c1771822c17ba6b0a79d",
+      "id": "7b0675afe7c4",
+      "priority": 1,
+      "group": "d93d433a9d7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a ticket to Berlin.",
+      "meaningInSourceLanguage": "我需要一张去柏林的票。",
+      "id": "690f5dea79b4",
+      "priority": 0,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a ticket to Berlin.",
+      "meaning": "我需要一张去柏林的票。",
+      "audio": "b4244be779a385c12200c6d0dabe115c1aaa154106b6a7cad1a958418ed67807",
+      "id": "287ecd9493e4",
+      "priority": 1,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "One-way or round trip?",
+      "meaningInSourceLanguage": "单程还是往返？",
+      "id": "96716568ed12",
+      "priority": 0,
+      "group": "af067f6e666a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "One-way or round trip?",
+      "meaning": "单程还是往返？",
+      "audio": "ea157848495c0e30d4978ad0269a876ea2244718a8546ffd4296a7822dd4f99b",
+      "id": "6cc2ca29bdc7",
+      "priority": 1,
+      "group": "af067f6e666a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Which platform does the train leave from?",
+      "meaningInSourceLanguage": "火车从哪个站台出发？",
+      "id": "8c02072af679",
+      "priority": 0,
+      "group": "4ed276222ac5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Which platform does the train leave from?",
+      "meaning": "火车从哪个站台出发？",
+      "audio": "306365c96406887130f755e3bc1185739287e46800b6a45c062ac803afe317b7",
+      "id": "7ae08e464362",
+      "priority": 1,
+      "group": "4ed276222ac5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "What time is the next bus?",
+      "meaningInSourceLanguage": "下一班车几点？",
+      "id": "7b8a34a6021f",
+      "priority": 0,
+      "group": "309e8a6de90d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "What time is the next bus?",
+      "meaning": "下一班车几点？",
+      "audio": "4de3ed335afa236bb7d44c2bd4df8c05c36cb04d99ce578794ff611d46ed2fd6",
+      "id": "57bba871c235",
+      "priority": 1,
+      "group": "309e8a6de90d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Is this seat taken?",
+      "meaningInSourceLanguage": "这个座位有人吗？",
+      "id": "dab17689d161",
+      "priority": 0,
+      "group": "765d42310b9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Is this seat taken?",
+      "meaning": "这个座位有人吗？",
+      "audio": "d2e1ec3a7c86380d706c2a25d6ce62c6651b2f3d77f6f844c9850637c145b94b",
+      "id": "4d1e9aa22eed",
+      "priority": 1,
+      "group": "765d42310b9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Can I see your passport, please?",
+      "meaningInSourceLanguage": "请出示您的护照。",
+      "id": "bee448a33166",
+      "priority": 0,
+      "group": "39942dc28879"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Can I see your passport, please?",
+      "meaning": "请出示您的护照。",
+      "audio": "10c945ecb8cdda774faea207ffff04fca67da71bd54fa485e5948c14e33e9c72",
+      "id": "58a6e7525131",
+      "priority": 1,
+      "group": "39942dc28879"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I have nothing to declare.",
+      "meaningInSourceLanguage": "我没有需要申报的物品。",
+      "id": "189fd892ef93",
+      "priority": 0,
+      "group": "e5ce10846ba4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I have nothing to declare.",
+      "meaning": "我没有需要申报的物品。",
+      "audio": "0983cab54cbd598e60a92b849e11bd1026f68ef054449516a5777931a497f9e1",
+      "id": "a71eba5e1012",
+      "priority": 1,
+      "group": "e5ce10846ba4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "How long is the journey?",
+      "meaningInSourceLanguage": "旅途有多久？",
+      "id": "1ee8226aefc7",
+      "priority": 0,
+      "group": "67192ed149d8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "How long is the journey?",
+      "meaning": "旅途有多久？",
+      "audio": "8bb369ba4ed885e06d1b2174f1c2c6fb35fece01f8d9fee8309e3b27628eb71a",
+      "id": "a0ae255be043",
+      "priority": 1,
+      "group": "67192ed149d8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Please let me off at the next stop.",
+      "meaningInSourceLanguage": "请在下一站让我下车。",
+      "id": "42100931d66a",
+      "priority": 0,
+      "group": "9038536ffb80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Please let me off at the next stop.",
+      "meaning": "请在下一站让我下车。",
+      "audio": "dbcc7917a31348de1bb2b5e3b48ced0263d41a8cf53a7a34698901180dc7b644",
+      "id": "0d6b5931c0ca",
+      "priority": 1,
+      "group": "9038536ffb80"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "airport",
+      "meaningInSourceLanguage": "机场",
+      "id": "59a3820884bf",
+      "priority": 0,
+      "group": "bfe9504670aa"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "airport"
+      ],
+      "phrase": [
+        {
+          "word": "机场",
+          "definition": "airport"
+        }
+      ],
+      "id": "b199bbc805f7",
+      "priority": 1,
+      "group": "bfe9504670aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "airport",
+      "meaning": "机场",
+      "audio": "661fef4e0b8dcfaff91ea54874fc16c8c2da3c3203defdcf0c78999ab158088e",
+      "id": "94eda1a752c7",
+      "priority": 1,
+      "group": "bfe9504670aa"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ticket",
+      "meaningInSourceLanguage": "票",
+      "id": "a256c17a77a3",
+      "priority": 0,
+      "group": "b257d46b6341"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ticket"
+      ],
+      "phrase": [
+        {
+          "word": "票",
+          "definition": "ticket"
+        }
+      ],
+      "id": "ba7093358ab6",
+      "priority": 1,
+      "group": "b257d46b6341"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ticket",
+      "meaning": "票",
+      "audio": "f5d5e422abff8429f8a55a2807c8719e030060c5ad1fd72281213ffa11557546",
+      "id": "28d7ace15a84",
+      "priority": 1,
+      "group": "b257d46b6341"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "platform",
+      "meaningInSourceLanguage": "站台",
+      "id": "271721a9d0a0",
+      "priority": 0,
+      "group": "e3828692f922"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "platform"
+      ],
+      "phrase": [
+        {
+          "word": "站台",
+          "definition": "platform"
+        }
+      ],
+      "id": "cb0869499d82",
+      "priority": 1,
+      "group": "e3828692f922"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "platform",
+      "meaning": "站台",
+      "audio": "3e322f764fc2b017bf3122aef01c1220a2a9745c67e796b00ff57fd3a5753f54",
+      "id": "e6b4fc967632",
+      "priority": 1,
+      "group": "e3828692f922"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "departure",
+      "meaningInSourceLanguage": "出发",
+      "id": "7fe49335f868",
+      "priority": 0,
+      "group": "ce17b9eedd70"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "departure"
+      ],
+      "phrase": [
+        {
+          "word": "出发",
+          "definition": "departure"
+        }
+      ],
+      "id": "7e3a277767ed",
+      "priority": 1,
+      "group": "ce17b9eedd70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "departure",
+      "meaning": "出发",
+      "audio": "426c5054ce8aabf5e4071856a2515935eb9c5dfb120bd872fa1a379b6dfe075b",
+      "id": "6325cfafdbcc",
+      "priority": 1,
+      "group": "ce17b9eedd70"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "arrival",
+      "meaningInSourceLanguage": "到达",
+      "id": "53ad03994d8e",
+      "priority": 0,
+      "group": "8e0965ab310c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "arrival"
+      ],
+      "phrase": [
+        {
+          "word": "到达",
+          "definition": "arrival"
+        }
+      ],
+      "id": "790d555dcfc3",
+      "priority": 1,
+      "group": "8e0965ab310c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arrival",
+      "meaning": "到达",
+      "audio": "9d0d203c2ddeea806b4bfcdb7ce628a29334255ef24a58874297efc8b87cf6ed",
+      "id": "5f3c0e38fe76",
+      "priority": 1,
+      "group": "8e0965ab310c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "one-way",
+      "meaningInSourceLanguage": "单程",
+      "id": "d61e24249372",
+      "priority": 0,
+      "group": "f127906483d6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "one-way"
+      ],
+      "phrase": [
+        {
+          "word": "单程",
+          "definition": "one-way"
+        }
+      ],
+      "id": "baec66d08bf8",
+      "priority": 1,
+      "group": "f127906483d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "one-way",
+      "meaning": "单程",
+      "audio": "496b677e9f0cb6e8a8020aaadd3b84fd8febe2cb772763778272c21574435e0f",
+      "id": "9715babc7579",
+      "priority": 1,
+      "group": "f127906483d6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "round trip",
+      "meaningInSourceLanguage": "往返",
+      "id": "19f8e1df6686",
+      "priority": 0,
+      "group": "df5e9bba419f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "round trip"
+      ],
+      "phrase": [
+        {
+          "word": "往返",
+          "definition": "round trip"
+        }
+      ],
+      "id": "e7513e513b79",
+      "priority": 1,
+      "group": "df5e9bba419f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "round trip",
+      "meaning": "往返",
+      "audio": "d9fda8a62dfb7f6aec0ceefcff9cb0f87e73a1b564eb376874ce86610256dbd7",
+      "id": "6f14ef16f254",
+      "priority": 1,
+      "group": "df5e9bba419f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "passport",
+      "meaningInSourceLanguage": "护照",
+      "id": "b878c8f4b6b0",
+      "priority": 0,
+      "group": "4eb54fd7bc5f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "passport"
+      ],
+      "phrase": [
+        {
+          "word": "护照",
+          "definition": "passport"
+        }
+      ],
+      "id": "e86d34325c01",
+      "priority": 1,
+      "group": "4eb54fd7bc5f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "passport",
+      "meaning": "护照",
+      "audio": "236e374701f166d59bcf01e9216f14e2ef749c763c9c7cc6edb9400a61dadae6",
+      "id": "6f282db5a55d",
+      "priority": 1,
+      "group": "4eb54fd7bc5f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "visa",
+      "meaningInSourceLanguage": "签证",
+      "id": "1fea17fb33d0",
+      "priority": 0,
+      "group": "fbd06c946ff6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "visa"
+      ],
+      "phrase": [
+        {
+          "word": "签证",
+          "definition": "visa"
+        }
+      ],
+      "id": "662e17b3e804",
+      "priority": 1,
+      "group": "fbd06c946ff6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "visa",
+      "meaning": "签证",
+      "audio": "a858155113f12a2a6b603f965b3c32159dbee30a8d3b92e1079ee20f6e573cdc",
+      "id": "4b0fe5c0487f",
+      "priority": 1,
+      "group": "fbd06c946ff6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "customs",
+      "meaningInSourceLanguage": "海关",
+      "id": "82fb864f5fc7",
+      "priority": 0,
+      "group": "358d24e0bcec"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "customs"
+      ],
+      "phrase": [
+        {
+          "word": "海关",
+          "definition": "customs"
+        }
+      ],
+      "id": "528b0d1dc03f",
+      "priority": 1,
+      "group": "358d24e0bcec"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "customs",
+      "meaning": "海关",
+      "audio": "8798c169ec1fe2b2cb11b10bdf5e6c8a80c747f2d30ecb014c9842665064dd55",
+      "id": "dab6f7ddcead",
+      "priority": 1,
+      "group": "358d24e0bcec"
+    }
+  ]
+}

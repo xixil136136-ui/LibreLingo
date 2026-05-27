@@ -265,6 +265,143 @@
           "levels": 3
         }
       ]
+    },
+    {
+      "title": "Conversations",
+      "skills": [
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "I would like",
+            "menu",
+            "order",
+            "bill",
+            "delicious",
+            "recommendation",
+            "reservation",
+            "waiter",
+            "table for two",
+            "today's special",
+            "I'd like to make a reservation.",
+            "A table for two, please.",
+            "Can I see the menu?",
+            "What do you recommend?",
+            "I'll have the steak, please.",
+            "Could I have the bill, please?",
+            "The food is delicious!",
+            "Can I have some water?",
+            "Is service charge included?",
+            "I'm allergic to peanuts."
+          ],
+          "practiceHref": "restaurant-dialogues",
+          "id": "569673478a3d",
+          "title": "Restaurant Dialogues",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "How much",
+            "discount",
+            "credit card",
+            "cash",
+            "size",
+            "color",
+            "try on",
+            "receipt",
+            "too expensive",
+            "exchange",
+            "How much does this cost?",
+            "Can I try this on?",
+            "Do you have this in a different color?",
+            "It's too expensive. Is there a discount?",
+            "I'll take it. Can I pay by card?",
+            "Can I have a receipt, please?",
+            "I'd like to exchange this.",
+            "Do you have a smaller size?",
+            "Is there a sale going on?",
+            "I'm just looking, thanks."
+          ],
+          "practiceHref": "shopping-dialogues",
+          "id": "38c2ea1c36d2",
+          "title": "Shopping Dialogues",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "airport",
+            "ticket",
+            "platform",
+            "departure",
+            "arrival",
+            "one-way",
+            "round trip",
+            "passport",
+            "visa",
+            "customs",
+            "Where is the airport?",
+            "I need a ticket to Berlin.",
+            "One-way or round trip?",
+            "Which platform does the train leave from?",
+            "What time is the next bus?",
+            "Is this seat taken?",
+            "Can I see your passport, please?",
+            "I have nothing to declare.",
+            "How long is the journey?",
+            "Please let me off at the next stop."
+          ],
+          "practiceHref": "travel-dialogues",
+          "id": "d7279e4777cd",
+          "title": "Travel Dialogues",
+          "levels": 4
+        },
+        {
+          "imageSet": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+          ],
+          "summary": [
+            "check in",
+            "check out",
+            "room key",
+            "single room",
+            "double room",
+            "reservation",
+            "breakfast",
+            "WiFi",
+            "air conditioning",
+            "room service",
+            "I have a reservation.",
+            "I'd like to check in, please.",
+            "How much is a double room per night?",
+            "Is breakfast included?",
+            "What's the WiFi password?",
+            "The air conditioning isn't working.",
+            "Can I have a wake-up call at 7am?",
+            "I'd like to check out, please.",
+            "Can I store my luggage here?",
+            "Thank you for a wonderful stay!"
+          ],
+          "practiceHref": "hotel-accommodation",
+          "id": "379dca1c8ae9",
+          "title": "Hotel & Accommodation",
+          "levels": 4
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,78 @@
+Skill:
+  Name: Shopping Dialogues
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: How much
+    Translation: 多少钱
+  - Word: discount
+    Translation: 折扣
+  - Word: credit card
+    Translation: 信用卡
+  - Word: cash
+    Translation: 现金
+  - Word: size
+    Translation: 尺寸
+  - Word: color
+    Translation: 颜色
+  - Word: try on
+    Translation: 试穿
+  - Word: receipt
+    Translation: 收据
+  - Word: too expensive
+    Translation: 太贵
+  - Word: exchange
+    Translation: 换货
+
+Phrases:
+  - Phrase: How much does this cost?
+    Translation: 这个多少钱？
+  - Phrase: Can I try this on?
+    Translation: 我能试穿这个吗？
+  - Phrase: Do you have this in a different color?
+    Translation: 有别的颜色吗？
+  - Phrase: It's too expensive. Is there a discount?
+    Translation: 太贵了。有折扣吗？
+  - Phrase: I'll take it. Can I pay by card?
+    Translation: 我买了。能用卡支付吗？
+  - Phrase: Can I have a receipt, please?
+    Translation: 请给我收据。
+  - Phrase: I'd like to exchange this.
+    Translation: 我想换这个。
+  - Phrase: Do you have a smaller size?
+    Translation: 有小一点的尺寸吗？
+  - Phrase: Is there a sale going on?
+    Translation: 有打折活动吗？
+  - Phrase: I'm just looking, thanks.
+    Translation: 我就看看，谢谢。
+
+Mini-dictionary:
+  Japanese:
+    - discount: 折扣
+    - receipt: 收据
+    - color: 颜色
+    - cash: 现金
+    - credit card: 信用卡
+    - How much: 多少钱
+    - too expensive: 太贵
+    - exchange: 换货
+    - size: 尺寸
+    - try on: 试穿
+  Chinese:
+    - 多少钱: How much
+    - 太贵: too expensive
+    - 收据: receipt
+    - 尺寸: size
+    - 信用卡: credit card
+    - 现金: cash
+    - 颜色: color
+    - 换货: exchange
+    - 试穿: try on
+    - 折扣: discount

@@ -1,0 +1,448 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vorrei dell'acqua.",
+      "meaningInSourceLanguage": "我想要水。",
+      "id": "0ab183106aa2",
+      "priority": 0,
+      "group": "c04bd1ef06a8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vorrei dell'acqua.",
+      "meaning": "我想要水。",
+      "audio": "546a450e89230d6e6e75aa40c66066ce858b68ff4faacdcd491a23cadbdf4643",
+      "id": "a1930fdef662",
+      "priority": 1,
+      "group": "c04bd1ef06a8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Pane e latte, per favore.",
+      "meaningInSourceLanguage": "请给我面包和牛奶。",
+      "id": "1fcf92557080",
+      "priority": 0,
+      "group": "3a4607d71ae2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Pane e latte, per favore.",
+      "meaning": "请给我面包和牛奶。",
+      "audio": "9e7553eeafd2cc56b475157d92db2cd2c79272f066687268bf1308d90a0a1f9f",
+      "id": "b3f78a690858",
+      "priority": 1,
+      "group": "3a4607d71ae2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mi piace il riso.",
+      "meaningInSourceLanguage": "我喜欢米饭。",
+      "id": "5460a631c137",
+      "priority": 0,
+      "group": "d96255ebc7b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mi piace il riso.",
+      "meaning": "我喜欢米饭。",
+      "audio": "0bb741167cfa03b46bd5791aa4300572d5ef928802582563e6785120945526fa",
+      "id": "8cf80c4273f8",
+      "priority": 1,
+      "group": "d96255ebc7b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "È delizioso.",
+      "meaningInSourceLanguage": "这个很好吃。",
+      "id": "bd03fe0468a2",
+      "priority": 0,
+      "group": "ca6271a52544"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "È delizioso.",
+      "meaning": "这个很好吃。",
+      "audio": "f748c053f67d32e88c9cf8cb0bbe9966f342e834194e42a75b353eed4390b38d",
+      "id": "da55dd2c1c40",
+      "priority": 1,
+      "group": "ca6271a52544"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "acqua",
+      "meaningInSourceLanguage": "水",
+      "id": "0299ea07459c",
+      "priority": 0,
+      "group": "b8db99e697a1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "acqua"
+      ],
+      "phrase": [
+        {
+          "word": "水",
+          "definition": "acqua"
+        }
+      ],
+      "id": "97ff94885736",
+      "priority": 1,
+      "group": "b8db99e697a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "acqua",
+      "meaning": "水",
+      "audio": "3e6a31411f49f2db29e2e350164e2d70f308ddece35a5229f7ea40a36db04ad9",
+      "id": "32cb556afce1",
+      "priority": 1,
+      "group": "b8db99e697a1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pane",
+      "meaningInSourceLanguage": "面包",
+      "id": "18c956c853a9",
+      "priority": 0,
+      "group": "b1b00fd49fb7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pane"
+      ],
+      "phrase": [
+        {
+          "word": "面包",
+          "definition": "pane"
+        }
+      ],
+      "id": "9716d616762f",
+      "priority": 1,
+      "group": "b1b00fd49fb7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pane",
+      "meaning": "面包",
+      "audio": "aaf3c2515f1d46602311ac495a62c573dc6d02a09fd9ffbb523f7ec6bb293cb1",
+      "id": "77985c66ba22",
+      "priority": 1,
+      "group": "b1b00fd49fb7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "riso",
+      "meaningInSourceLanguage": "米饭",
+      "id": "8e764851be12",
+      "priority": 0,
+      "group": "8e91a3016152"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "riso"
+      ],
+      "phrase": [
+        {
+          "word": "米饭",
+          "definition": "riso"
+        }
+      ],
+      "id": "1d319ce2d7e7",
+      "priority": 1,
+      "group": "8e91a3016152"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "riso",
+      "meaning": "米饭",
+      "audio": "03fcb69c5975317444b8e61806aff4061684f37b32544f263b9c8551f2ee6960",
+      "id": "0bfda65055ba",
+      "priority": 1,
+      "group": "8e91a3016152"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "latte",
+      "meaningInSourceLanguage": "牛奶",
+      "id": "2d28a8fc860a",
+      "priority": 0,
+      "group": "38ecdd400e1b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "latte"
+      ],
+      "phrase": [
+        {
+          "word": "牛奶",
+          "definition": "latte"
+        }
+      ],
+      "id": "d4df6898c49e",
+      "priority": 1,
+      "group": "38ecdd400e1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "latte",
+      "meaning": "牛奶",
+      "audio": "ae2a09f4a1d7a36b98887ee1cba2bef073a09bd1ba8d67def5193ad0a3e4b3a9",
+      "id": "61b8edf17a9c",
+      "priority": 1,
+      "group": "38ecdd400e1b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "uovo",
+      "meaningInSourceLanguage": "鸡蛋",
+      "id": "1c5b8c609a9f",
+      "priority": 0,
+      "group": "e74bec3f0d21"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "uovo"
+      ],
+      "phrase": [
+        {
+          "word": "鸡蛋",
+          "definition": "uovo"
+        }
+      ],
+      "id": "2785e8519e6a",
+      "priority": 1,
+      "group": "e74bec3f0d21"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "uovo",
+      "meaning": "鸡蛋",
+      "audio": "45a895be83688067cf95fa324e6e345b0e98faf4995645a514395318e182cc18",
+      "id": "603ced6d5120",
+      "priority": 1,
+      "group": "e74bec3f0d21"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pollo",
+      "meaningInSourceLanguage": "鸡肉",
+      "id": "a245fda00092",
+      "priority": 0,
+      "group": "817892fa4276"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pollo"
+      ],
+      "phrase": [
+        {
+          "word": "鸡肉",
+          "definition": "pollo"
+        }
+      ],
+      "id": "b69fd012b022",
+      "priority": 1,
+      "group": "817892fa4276"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pollo",
+      "meaning": "鸡肉",
+      "audio": "769663a0e419325b2e11b1e3b7b897ab2f01c0479b283cb5acc71347cfc6a436",
+      "id": "8988e129d993",
+      "priority": 1,
+      "group": "817892fa4276"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pesce",
+      "meaningInSourceLanguage": "鱼",
+      "id": "18d3bf46c43f",
+      "priority": 0,
+      "group": "ad2b3715bf96"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pesce"
+      ],
+      "phrase": [
+        {
+          "word": "鱼",
+          "definition": "pesce"
+        }
+      ],
+      "id": "7522afb6aa74",
+      "priority": 1,
+      "group": "ad2b3715bf96"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pesce",
+      "meaning": "鱼",
+      "audio": "88fd210d2b6507b0f0f30f51b1c988d95adbaf52eab40b9e770b7abd95fd3131",
+      "id": "f47f820e5cb9",
+      "priority": 1,
+      "group": "ad2b3715bf96"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "frutta",
+      "meaningInSourceLanguage": "水果",
+      "id": "01389c7daab1",
+      "priority": 0,
+      "group": "07888e2758ae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "frutta"
+      ],
+      "phrase": [
+        {
+          "word": "水果",
+          "definition": "frutta"
+        }
+      ],
+      "id": "64dbe6a33d81",
+      "priority": 1,
+      "group": "07888e2758ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "frutta",
+      "meaning": "水果",
+      "audio": "15006d92d4fccc9da7701c87be04e3cda95d8126f693a169912034bcf9bfc322",
+      "id": "75cf0996f97f",
+      "priority": 1,
+      "group": "07888e2758ae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "verdura",
+      "meaningInSourceLanguage": "蔬菜",
+      "id": "ce24664a8bfd",
+      "priority": 0,
+      "group": "419b0e6968a7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "verdura"
+      ],
+      "phrase": [
+        {
+          "word": "蔬菜",
+          "definition": "verdura"
+        }
+      ],
+      "id": "8b34030cd443",
+      "priority": 1,
+      "group": "419b0e6968a7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "verdura",
+      "meaning": "蔬菜",
+      "audio": "7bf01cee8d4b5e29accc31c70117bb26447c7fbd466d4177239d5781830a8c63",
+      "id": "548de5b51493",
+      "priority": 1,
+      "group": "419b0e6968a7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tè",
+      "meaningInSourceLanguage": "茶",
+      "id": "a9fd89e2670c",
+      "priority": 0,
+      "group": "9bfdc5d6fb50"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tè"
+      ],
+      "phrase": [
+        {
+          "word": "茶",
+          "definition": "tè"
+        }
+      ],
+      "id": "d59276da3666",
+      "priority": 1,
+      "group": "9bfdc5d6fb50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tè",
+      "meaning": "茶",
+      "audio": "6afe6844091e252978c23abee1177760f735d512104abb85869389fcb8a44d60",
+      "id": "87f6f17de128",
+      "priority": 1,
+      "group": "9bfdc5d6fb50"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "caffè",
+      "meaningInSourceLanguage": "咖啡",
+      "id": "6ade485dbcac",
+      "priority": 0,
+      "group": "23a5f9707c0f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "caffè"
+      ],
+      "phrase": [
+        {
+          "word": "咖啡",
+          "definition": "caffè"
+        }
+      ],
+      "id": "93e322bffad3",
+      "priority": 1,
+      "group": "23a5f9707c0f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "caffè",
+      "meaning": "咖啡",
+      "audio": "91639c6f51c87d8e50cee140f385fda35ce78510f787d7718a5167d4d92926cc",
+      "id": "fd585d2821ac",
+      "priority": 1,
+      "group": "23a5f9707c0f"
+    }
+  ]
+}

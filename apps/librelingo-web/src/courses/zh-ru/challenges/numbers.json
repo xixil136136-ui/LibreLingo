@@ -1,0 +1,397 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Один, два, три.",
+      "meaningInSourceLanguage": "一、二、三。",
+      "id": "513e360761d4",
+      "priority": 0,
+      "group": "58ccd247605b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Один, два, три.",
+      "meaning": "一、二、三。",
+      "audio": "0bf1442ee72a8de4153ac42573bd5ab3270ddc24d0228248190ef77611609793",
+      "id": "ac3244b0ae12",
+      "priority": 1,
+      "group": "58ccd247605b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сейчас пять часов.",
+      "meaningInSourceLanguage": "现在五点钟。",
+      "id": "ec87d0bd930d",
+      "priority": 0,
+      "group": "b292516d5d3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сейчас пять часов.",
+      "meaning": "现在五点钟。",
+      "audio": "7ac069c149db994d9d64e6c3d35e8f2526841860594f878dd54751d4d1580aee",
+      "id": "bb017fe041af",
+      "priority": 1,
+      "group": "b292516d5d3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Десять человек.",
+      "meaningInSourceLanguage": "有十个人。",
+      "id": "91d7e488d42f",
+      "priority": 0,
+      "group": "bdddeb4fc66d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Десять человек.",
+      "meaning": "有十个人。",
+      "audio": "20f307450d59cbc0fad61b01640f93f1b56d31dba306d6ef18c29f75d1283038",
+      "id": "2f1ad6cfde12",
+      "priority": 1,
+      "group": "bdddeb4fc66d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "один",
+      "meaningInSourceLanguage": "一",
+      "id": "cc80b826802c",
+      "priority": 0,
+      "group": "4d44e761dcca"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "один"
+      ],
+      "phrase": [
+        {
+          "word": "一",
+          "definition": "один"
+        }
+      ],
+      "id": "fb9b96b86898",
+      "priority": 1,
+      "group": "4d44e761dcca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "один",
+      "meaning": "一",
+      "audio": "f3da6e67a3575d36138399057e70eb88048599d86db3837081ba54864bba870d",
+      "id": "ef51195ad3bc",
+      "priority": 1,
+      "group": "4d44e761dcca"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "два",
+      "meaningInSourceLanguage": "二",
+      "id": "e599e1baf473",
+      "priority": 0,
+      "group": "d5853a30939f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "два"
+      ],
+      "phrase": [
+        {
+          "word": "二",
+          "definition": "два"
+        }
+      ],
+      "id": "1e3ff85de983",
+      "priority": 1,
+      "group": "d5853a30939f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "два",
+      "meaning": "二",
+      "audio": "089e0725b0d55aac2ed0110e1f143be524beed5cc08bca3f7ed7972ee52451bd",
+      "id": "1df50a2fccd1",
+      "priority": 1,
+      "group": "d5853a30939f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "три",
+      "meaningInSourceLanguage": "三",
+      "id": "38ae14788662",
+      "priority": 0,
+      "group": "93c7d30d18f4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "три"
+      ],
+      "phrase": [
+        {
+          "word": "三",
+          "definition": "три"
+        }
+      ],
+      "id": "5a5fd86edf2d",
+      "priority": 1,
+      "group": "93c7d30d18f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "три",
+      "meaning": "三",
+      "audio": "4cb42a0ce1c5754e247050a08462e20c6a05ac121afe8cac7c4807034fa53c68",
+      "id": "20d7e805f61d",
+      "priority": 1,
+      "group": "93c7d30d18f4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "четыре",
+      "meaningInSourceLanguage": "四",
+      "id": "6d6902356871",
+      "priority": 0,
+      "group": "dd1400c3cc14"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "четыре"
+      ],
+      "phrase": [
+        {
+          "word": "四",
+          "definition": "четыре"
+        }
+      ],
+      "id": "b60fed53766f",
+      "priority": 1,
+      "group": "dd1400c3cc14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "четыре",
+      "meaning": "四",
+      "audio": "eb18bf4f9181d27dcf6cb46d6ff9cb8584ad482af9e05920c0ec8f3280df92fd",
+      "id": "ffb0a99668ba",
+      "priority": 1,
+      "group": "dd1400c3cc14"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "пять",
+      "meaningInSourceLanguage": "五",
+      "id": "12f143e70c8b",
+      "priority": 0,
+      "group": "767789487f35"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "пять"
+      ],
+      "phrase": [
+        {
+          "word": "五",
+          "definition": "пять"
+        }
+      ],
+      "id": "77fd7cf72372",
+      "priority": 1,
+      "group": "767789487f35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "пять",
+      "meaning": "五",
+      "audio": "db34e48655986f98c6fdd22a6417358036a6383996afdf2c395202630a1b1b50",
+      "id": "25e3ace18258",
+      "priority": 1,
+      "group": "767789487f35"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "шесть",
+      "meaningInSourceLanguage": "六",
+      "id": "f08503c13e7a",
+      "priority": 0,
+      "group": "685f4ed88b0b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "шесть"
+      ],
+      "phrase": [
+        {
+          "word": "六",
+          "definition": "шесть"
+        }
+      ],
+      "id": "52dcc235dc8a",
+      "priority": 1,
+      "group": "685f4ed88b0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шесть",
+      "meaning": "六",
+      "audio": "e8b00efdd5967439fb5802b526336ad1153c4502951dff156402bc57e7404397",
+      "id": "401874624a39",
+      "priority": 1,
+      "group": "685f4ed88b0b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "семь",
+      "meaningInSourceLanguage": "七",
+      "id": "71f2030e1bf3",
+      "priority": 0,
+      "group": "f64f732b3a19"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "семь"
+      ],
+      "phrase": [
+        {
+          "word": "七",
+          "definition": "семь"
+        }
+      ],
+      "id": "7bf7a66b624b",
+      "priority": 1,
+      "group": "f64f732b3a19"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "семь",
+      "meaning": "七",
+      "audio": "461539cc3d0a68a9c6041f24958eca21ec6c10597d70ec6c9c7e13166d5aae63",
+      "id": "45aade8c9c63",
+      "priority": 1,
+      "group": "f64f732b3a19"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "восемь",
+      "meaningInSourceLanguage": "八",
+      "id": "ac0e7aeada0c",
+      "priority": 0,
+      "group": "c84d5148c0e1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "восемь"
+      ],
+      "phrase": [
+        {
+          "word": "八",
+          "definition": "восемь"
+        }
+      ],
+      "id": "36a1f542b71e",
+      "priority": 1,
+      "group": "c84d5148c0e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "восемь",
+      "meaning": "八",
+      "audio": "2eac6cba93c68a9972429ae65a0ebf06dacf223891b0be1e728585dd2aa9e239",
+      "id": "f0ac258a501c",
+      "priority": 1,
+      "group": "c84d5148c0e1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "девять",
+      "meaningInSourceLanguage": "九",
+      "id": "abe0b666e8e7",
+      "priority": 0,
+      "group": "3ddac1b60e8f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "девять"
+      ],
+      "phrase": [
+        {
+          "word": "九",
+          "definition": "девять"
+        }
+      ],
+      "id": "bddcd9ade21c",
+      "priority": 1,
+      "group": "3ddac1b60e8f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "девять",
+      "meaning": "九",
+      "audio": "592f33cbcad423861d8ee47b1a167a0b9ae1afe7574b95dc97b420f08efe3dc8",
+      "id": "03640546bcff",
+      "priority": 1,
+      "group": "3ddac1b60e8f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "десять",
+      "meaningInSourceLanguage": "十",
+      "id": "57b79f9e0fa2",
+      "priority": 0,
+      "group": "dd47a4acd7ea"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "десять"
+      ],
+      "phrase": [
+        {
+          "word": "十",
+          "definition": "десять"
+        }
+      ],
+      "id": "b0ba25adae01",
+      "priority": 1,
+      "group": "dd47a4acd7ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "десять",
+      "meaning": "十",
+      "audio": "123b251ba395b75bfb20f6d390f6f1fdbc7c7b73eac77afe5f433ab04a520b41",
+      "id": "7b9c86a6d0bd",
+      "priority": 1,
+      "group": "dd47a4acd7ea"
+    }
+  ]
+}

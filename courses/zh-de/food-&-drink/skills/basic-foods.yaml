@@ -1,0 +1,70 @@
+Skill:
+  Name: Basic Foods
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+    - "ä"
+
+New words:
+  - Word: Wasser
+    Translation: 水
+  - Word: Brot
+    Translation: 面包
+  - Word: Reis
+    Translation: 米饭
+  - Word: Milch
+    Translation: 牛奶
+  - Word: Ei
+    Translation: 鸡蛋
+  - Word: Hähnchen
+    Translation: 鸡肉
+  - Word: Fisch
+    Translation: 鱼
+  - Word: Obst
+    Translation: 水果
+  - Word: Gemüse
+    Translation: 蔬菜
+  - Word: Tee
+    Translation: 茶
+  - Word: Kaffee
+    Translation: 咖啡
+
+Phrases:
+  - Phrase: Ich möchte Wasser.
+    Translation: 我想要水。
+  - Phrase: Brot und Milch, bitte.
+    Translation: 请给我面包和牛奶。
+  - Phrase: Ich mag Reis.
+    Translation: 我喜欢米饭。
+  - Phrase: Das schmeckt gut.
+    Translation: 这个很好吃。
+
+Mini-dictionary:
+  German:
+    - Hähnchen: 鸡肉
+    - Obst: 水果
+    - Wasser: 水
+    - Fisch: 鱼
+    - Brot: 面包
+    - Tee: 茶
+    - Gemüse: 蔬菜
+    - Kaffee: 咖啡
+    - Milch: 牛奶
+    - Ei: 鸡蛋
+    - Reis: 米饭
+  Chinese:
+    - 蔬菜: Gemüse
+    - 鱼: Fisch
+    - 水: Wasser
+    - 鸡肉: Hähnchen
+    - 鸡蛋: Ei
+    - 牛奶: Milch
+    - 米饭: Reis
+    - 水果: Obst
+    - 面包: Brot
+    - 茶: Tee
+    - 咖啡: Kaffee

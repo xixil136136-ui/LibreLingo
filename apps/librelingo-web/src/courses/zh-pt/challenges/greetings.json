@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Olá! Como vai?",
+      "meaningInSourceLanguage": "你好！你好吗？",
+      "id": "d5cb38fd2949",
+      "priority": 0,
+      "group": "cc97a6d32022"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Olá! Como vai?",
+      "meaning": "你好！你好吗？",
+      "audio": "20e53686e3299c4fcb00950b23fd0c7691389ec1f179c327a37783a5e4a07904",
+      "id": "bdfa251c75af",
+      "priority": 1,
+      "group": "cc97a6d32022"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Bom dia, obrigado.",
+      "meaningInSourceLanguage": "早上好，谢谢。",
+      "id": "acd19bd1db3f",
+      "priority": 0,
+      "group": "d2d3c2b6f1bf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Bom dia, obrigado.",
+      "meaning": "早上好，谢谢。",
+      "audio": "3b5c1c29f3a14943dc62f8bd1793e0a76e75e3a535a3d1e9579dc231427da5b3",
+      "id": "e0b0e15cbffe",
+      "priority": 1,
+      "group": "d2d3c2b6f1bf"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tchau, até logo.",
+      "meaningInSourceLanguage": "再见，回头见。",
+      "id": "abcdda31203f",
+      "priority": 0,
+      "group": "0d37f901eaea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tchau, até logo.",
+      "meaning": "再见，回头见。",
+      "audio": "a2ada30aa564c8eff615d17cef2b91c3b6c2406e8e2d1d201e239854d647d768",
+      "id": "7456531ee07f",
+      "priority": 1,
+      "group": "0d37f901eaea"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Muito obrigado!",
+      "meaningInSourceLanguage": "非常感谢！",
+      "id": "336f6e26a6be",
+      "priority": 0,
+      "group": "83de2bcea7c6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Muito obrigado!",
+      "meaning": "非常感谢！",
+      "audio": "d185ba5c8550f7823ba5afd1d90272496b73456c1efe634c8e16d3167a3adbca",
+      "id": "01fda0d7fba8",
+      "priority": 1,
+      "group": "83de2bcea7c6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Desculpe, onde fica o banheiro?",
+      "meaningInSourceLanguage": "对不起，洗手间在哪里？",
+      "id": "8e0382942ec8",
+      "priority": 0,
+      "group": "78b9e6ed539e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Desculpe, onde fica o banheiro?",
+      "meaning": "对不起，洗手间在哪里？",
+      "audio": "52f492402ab55f15f4cc08dc401667ca7ef1d322bd6a869c4583a16497b83249",
+      "id": "6deacac4811c",
+      "priority": 1,
+      "group": "78b9e6ed539e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "olá",
+      "meaningInSourceLanguage": "你好",
+      "id": "1415ae202882",
+      "priority": 0,
+      "group": "21c1e3159e3c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "olá"
+      ],
+      "phrase": [
+        {
+          "word": "你好",
+          "definition": "olá"
+        }
+      ],
+      "id": "2fddabd9678e",
+      "priority": 1,
+      "group": "21c1e3159e3c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "olá",
+      "meaning": "你好",
+      "audio": "6d5e7aa1faca3649c1eb24ca4ecb9a0bdc86cb07ec1f66d18c0c76dccda4c2ed",
+      "id": "55a7509c33dd",
+      "priority": 1,
+      "group": "21c1e3159e3c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "tchau",
+      "meaningInSourceLanguage": "再见",
+      "id": "bbfb666d950d",
+      "priority": 0,
+      "group": "c34604ccaf8a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "tchau"
+      ],
+      "phrase": [
+        {
+          "word": "再见",
+          "definition": "tchau"
+        }
+      ],
+      "id": "8c04a867113b",
+      "priority": 1,
+      "group": "c34604ccaf8a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "tchau",
+      "meaning": "再见",
+      "audio": "e2cfc1b2837e25685ebefc5b50271939103cd1826764e4ee3a17cc868ce27781",
+      "id": "c7353049118f",
+      "priority": 1,
+      "group": "c34604ccaf8a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bom dia",
+      "meaningInSourceLanguage": "早上好",
+      "id": "48a46ba08407",
+      "priority": 0,
+      "group": "fa052d1145cf"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bom dia"
+      ],
+      "phrase": [
+        {
+          "word": "早上好",
+          "definition": "bom dia"
+        }
+      ],
+      "id": "0c9029f2189c",
+      "priority": 1,
+      "group": "fa052d1145cf"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bom dia",
+      "meaning": "早上好",
+      "audio": "4ebee7a2d9cec79e0115d871a3defb1cc8e2f10bcb11bf77e7e75714e5fea0cc",
+      "id": "42a97a12e35e",
+      "priority": 1,
+      "group": "fa052d1145cf"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "boa tarde",
+      "meaningInSourceLanguage": "下午好",
+      "id": "478f3a4864f6",
+      "priority": 0,
+      "group": "64036a9d12ed"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "boa tarde"
+      ],
+      "phrase": [
+        {
+          "word": "下午好",
+          "definition": "boa tarde"
+        }
+      ],
+      "id": "1d7bf1841ef7",
+      "priority": 1,
+      "group": "64036a9d12ed"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "boa tarde",
+      "meaning": "下午好",
+      "audio": "ea1c869282208168c4eb6d90cb1e46a5cfd9f59150ab0f43e4756ad5b249459c",
+      "id": "fdfc95ac5fc6",
+      "priority": 1,
+      "group": "64036a9d12ed"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "obrigado",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "bcc2692a38c0",
+      "priority": 0,
+      "group": "5a125f74829b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "obrigado"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "obrigado"
+        }
+      ],
+      "id": "cd3f96907341",
+      "priority": 1,
+      "group": "5a125f74829b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "obrigado",
+      "meaning": "谢谢",
+      "audio": "64f34c5b5a8646bef1e4c9b066fdb823393613764d36a863f0b965aecfae8a99",
+      "id": "d25c8fe8c526",
+      "priority": 1,
+      "group": "5a125f74829b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "por favor",
+      "meaningInSourceLanguage": "请",
+      "id": "92321fcee30a",
+      "priority": 0,
+      "group": "3084e51d8ea3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "por favor"
+      ],
+      "phrase": [
+        {
+          "word": "请",
+          "definition": "por favor"
+        }
+      ],
+      "id": "a36c7c854850",
+      "priority": 1,
+      "group": "3084e51d8ea3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "por favor",
+      "meaning": "请",
+      "audio": "71c0446bc39ca443174a4d989303ffa9710d871c649064539748d8210dbd3ee3",
+      "id": "055b034e3085",
+      "priority": 1,
+      "group": "3084e51d8ea3"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "desculpe",
+      "meaningInSourceLanguage": "对不起",
+      "id": "2aed86a8b34f",
+      "priority": 0,
+      "group": "aefed32055a1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "desculpe"
+      ],
+      "phrase": [
+        {
+          "word": "对不起",
+          "definition": "desculpe"
+        }
+      ],
+      "id": "87c6396ddd29",
+      "priority": 1,
+      "group": "aefed32055a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "desculpe",
+      "meaning": "对不起",
+      "audio": "384efe4a53bac9abcd272c00139e6759fcb8c2e6dac38eb397d09e6ff2949cd6",
+      "id": "9b5851218507",
+      "priority": 1,
+      "group": "aefed32055a1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sim",
+      "meaningInSourceLanguage": "是的",
+      "id": "86642261115b",
+      "priority": 0,
+      "group": "2d361b950f92"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sim"
+      ],
+      "phrase": [
+        {
+          "word": "是的",
+          "definition": "sim"
+        }
+      ],
+      "id": "cd37f8820d65",
+      "priority": 1,
+      "group": "2d361b950f92"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sim",
+      "meaning": "是的",
+      "audio": "02e579b1ca8ac1efdc71ed5056986ca7424ce497ccf77a8b620d91c7f73b3079",
+      "id": "409e7a8fa2a2",
+      "priority": 1,
+      "group": "2d361b950f92"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "não",
+      "meaningInSourceLanguage": "不是",
+      "id": "6775e3abd24e",
+      "priority": 0,
+      "group": "8a12359a8d1b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "não"
+      ],
+      "phrase": [
+        {
+          "word": "不是",
+          "definition": "não"
+        }
+      ],
+      "id": "e94a708b89fc",
+      "priority": 1,
+      "group": "8a12359a8d1b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "não",
+      "meaning": "不是",
+      "audio": "efad3293cfb2a5f319fdb72eb467ea13498fb1c8fd69b931bbe02728346072bb",
+      "id": "3e51ceb26c0c",
+      "priority": 1,
+      "group": "8a12359a8d1b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "de nada",
+      "meaningInSourceLanguage": "不客气",
+      "id": "22df947e2b51",
+      "priority": 0,
+      "group": "51eef38297b9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "de nada"
+      ],
+      "phrase": [
+        {
+          "word": "不客气",
+          "definition": "de nada"
+        }
+      ],
+      "id": "17e147b3c793",
+      "priority": 1,
+      "group": "51eef38297b9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "de nada",
+      "meaning": "不客气",
+      "audio": "155a60b4c8ae0077f5e4638a3f09df28dd357a049120f3b7112d2b3e6f5e61a9",
+      "id": "3d7a222a3ec6",
+      "priority": 1,
+      "group": "51eef38297b9"
+    }
+  ]
+}

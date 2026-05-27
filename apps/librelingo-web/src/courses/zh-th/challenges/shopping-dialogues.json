@@ -1,0 +1,516 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "อันนี้เท่าไหร่",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "e9cbec866bdb",
+      "priority": 0,
+      "group": "ce3ee556434e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อันนี้เท่าไหร่",
+      "meaning": "这个多少钱？",
+      "audio": "bd3225e848ef4fcc1ee1a068eb877a6eba7578f8e0546c30605f85ed306d75e1",
+      "id": "ba5b483dcab2",
+      "priority": 1,
+      "group": "ce3ee556434e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ลองใส่ได้ไหม",
+      "meaningInSourceLanguage": "我能试穿这个吗？",
+      "id": "57bf38f15a92",
+      "priority": 0,
+      "group": "17ff1c500837"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ลองใส่ได้ไหม",
+      "meaning": "我能试穿这个吗？",
+      "audio": "cc045d096f533542616c8eeedef05023e366a499be6ebb10512ad820c1f42d1f",
+      "id": "74a3ebeea209",
+      "priority": 1,
+      "group": "17ff1c500837"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "มีสีอื่นไหม",
+      "meaningInSourceLanguage": "有别的颜色吗？",
+      "id": "f80a9500b66b",
+      "priority": 0,
+      "group": "236a575d4d7c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "มีสีอื่นไหม",
+      "meaning": "有别的颜色吗？",
+      "audio": "48de859aad851d857f55a2b1554082475b97f283c97b060554cf0e2f59d050ca",
+      "id": "f7a6028055b5",
+      "priority": 1,
+      "group": "236a575d4d7c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "แพงเกินไป มีส่วนลดไหม",
+      "meaningInSourceLanguage": "太贵了。有折扣吗？",
+      "id": "3223b9942c1b",
+      "priority": 0,
+      "group": "df9cdd7addcd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แพงเกินไป มีส่วนลดไหม",
+      "meaning": "太贵了。有折扣吗？",
+      "audio": "e8dfd4affd2e9faf4465f48fea0593d897a717e6bfaa895ed7744fe84ea7a0ad",
+      "id": "13939c4e8403",
+      "priority": 1,
+      "group": "df9cdd7addcd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันเอาอันนี้ จ่ายด้วยบัตรได้ไหม",
+      "meaningInSourceLanguage": "我买了。能用卡支付吗？",
+      "id": "7ce9b89de1b7",
+      "priority": 0,
+      "group": "2709d0d6605f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันเอาอันนี้ จ่ายด้วยบัตรได้ไหม",
+      "meaning": "我买了。能用卡支付吗？",
+      "audio": "be7a16b68f110c52c22f256289680b2d79c8253ebd13534f19023dd4ff832e13",
+      "id": "1d9bf06f07d2",
+      "priority": 1,
+      "group": "2709d0d6605f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอใบเสร็จด้วยครับ",
+      "meaningInSourceLanguage": "请给我收据。",
+      "id": "12763a71239e",
+      "priority": 0,
+      "group": "649ba58a33d2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอใบเสร็จด้วยครับ",
+      "meaning": "请给我收据。",
+      "audio": "9b046a0615d25705293372f58a8ac89bbb4ef2519d731d824b61d373943d56c6",
+      "id": "b4211dbb1af4",
+      "priority": 1,
+      "group": "649ba58a33d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันอยากเปลี่ยนอันนี้",
+      "meaningInSourceLanguage": "我想换这个。",
+      "id": "a6de85abe554",
+      "priority": 0,
+      "group": "e17cd122b141"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันอยากเปลี่ยนอันนี้",
+      "meaning": "我想换这个。",
+      "audio": "103a75e48be0c6187d5487859e27cf7338aa2e94ed2c172699c21ee2b0ed88b5",
+      "id": "6ff527293f72",
+      "priority": 1,
+      "group": "e17cd122b141"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "มีขนาดเล็กกว่านี้ไหม",
+      "meaningInSourceLanguage": "有小一点的尺寸吗？",
+      "id": "77d03d524975",
+      "priority": 0,
+      "group": "f547cbe55cb8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "มีขนาดเล็กกว่านี้ไหม",
+      "meaning": "有小一点的尺寸吗？",
+      "audio": "a80522346a9c686325cf6e1b28c1e83815e69e6ab3fb0f2bcf798cafbde0d517",
+      "id": "17b750e386ec",
+      "priority": 1,
+      "group": "f547cbe55cb8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "มีลดราคาไหม",
+      "meaningInSourceLanguage": "有打折活动吗？",
+      "id": "643341902360",
+      "priority": 0,
+      "group": "0768007a31c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "มีลดราคาไหม",
+      "meaning": "有打折活动吗？",
+      "audio": "391dcc3cf298ca67dda1ff0da20ee65420fa7b86dae33e9234d98a478e77ff15",
+      "id": "813b283e5b6f",
+      "priority": 1,
+      "group": "0768007a31c9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "แค่ดูเฉยๆ ขอบคุณ",
+      "meaningInSourceLanguage": "我就看看，谢谢。",
+      "id": "33bebe9f3410",
+      "priority": 0,
+      "group": "c56bbbecdaa1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แค่ดูเฉยๆ ขอบคุณ",
+      "meaning": "我就看看，谢谢。",
+      "audio": "f935f73b05fa624924db6da4d1c00162158120a1f6b910a84a213306e1da3024",
+      "id": "329edbf3e88a",
+      "priority": 1,
+      "group": "c56bbbecdaa1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เท่าไหร่",
+      "meaningInSourceLanguage": "多少钱",
+      "id": "8b9f4b017bb1",
+      "priority": 0,
+      "group": "4ea8b60a75ac"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เท่าไหร่"
+      ],
+      "phrase": [
+        {
+          "word": "多少钱",
+          "definition": "เท่าไหร่"
+        }
+      ],
+      "id": "3613cc0ef8d1",
+      "priority": 1,
+      "group": "4ea8b60a75ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เท่าไหร่",
+      "meaning": "多少钱",
+      "audio": "65d7bc67701fa9a004fd50a85c01d4807350c25257cbb32927e1918d21cb0504",
+      "id": "cb2b666536df",
+      "priority": 1,
+      "group": "4ea8b60a75ac"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ส่วนลด",
+      "meaningInSourceLanguage": "折扣",
+      "id": "cbcd9392c7c7",
+      "priority": 0,
+      "group": "005e7ef22d66"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ส่วนลด"
+      ],
+      "phrase": [
+        {
+          "word": "折扣",
+          "definition": "ส่วนลด"
+        }
+      ],
+      "id": "b6d738f1f8f7",
+      "priority": 1,
+      "group": "005e7ef22d66"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ส่วนลด",
+      "meaning": "折扣",
+      "audio": "4683e29dbd6715dae6ce726ba4c5c6a8cf549a0d11adec6d43210fbdbecf315b",
+      "id": "61c74cd5e522",
+      "priority": 1,
+      "group": "005e7ef22d66"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "บัตรเครดิต",
+      "meaningInSourceLanguage": "信用卡",
+      "id": "9d9e2e98ea64",
+      "priority": 0,
+      "group": "8f77148f1b1f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "บัตรเครดิต"
+      ],
+      "phrase": [
+        {
+          "word": "信用卡",
+          "definition": "บัตรเครดิต"
+        }
+      ],
+      "id": "05a8c07d90bb",
+      "priority": 1,
+      "group": "8f77148f1b1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "บัตรเครดิต",
+      "meaning": "信用卡",
+      "audio": "b209afa0c218bbcdaf50147dde9881fb30e87e256e1019631988ad65e6db83f6",
+      "id": "79262d56a1fc",
+      "priority": 1,
+      "group": "8f77148f1b1f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เงินสด",
+      "meaningInSourceLanguage": "现金",
+      "id": "fb7c67c94a8d",
+      "priority": 0,
+      "group": "ce9144bc9d04"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เงินสด"
+      ],
+      "phrase": [
+        {
+          "word": "现金",
+          "definition": "เงินสด"
+        }
+      ],
+      "id": "f3bc36bef116",
+      "priority": 1,
+      "group": "ce9144bc9d04"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เงินสด",
+      "meaning": "现金",
+      "audio": "21d3fdaab73000f1bd2656fa7b611edabd141d2e12f38c61556d6cc0763d92c8",
+      "id": "b2b5c30d7af1",
+      "priority": 1,
+      "group": "ce9144bc9d04"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ขนาด",
+      "meaningInSourceLanguage": "尺寸",
+      "id": "9822c24c2efa",
+      "priority": 0,
+      "group": "a3da8f84cfa8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ขนาด"
+      ],
+      "phrase": [
+        {
+          "word": "尺寸",
+          "definition": "ขนาด"
+        }
+      ],
+      "id": "4011d75dd777",
+      "priority": 1,
+      "group": "a3da8f84cfa8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขนาด",
+      "meaning": "尺寸",
+      "audio": "a3f6473ae6f8dc61580526825e4e3f52d89e21a3f39dc576e37c823dd5d07d7a",
+      "id": "e0b5017356cb",
+      "priority": 1,
+      "group": "a3da8f84cfa8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "สี",
+      "meaningInSourceLanguage": "颜色",
+      "id": "7feedce023ec",
+      "priority": 0,
+      "group": "a053155187a5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "สี"
+      ],
+      "phrase": [
+        {
+          "word": "颜色",
+          "definition": "สี"
+        }
+      ],
+      "id": "6e7b3125d92f",
+      "priority": 1,
+      "group": "a053155187a5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "สี",
+      "meaning": "颜色",
+      "audio": "bbd92233a577acc2786fdf4e92ba45ca80f0d95e10910e2ff3cc3dd2f90d40f2",
+      "id": "5d5e4b6dec79",
+      "priority": 1,
+      "group": "a053155187a5"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ลองใส่",
+      "meaningInSourceLanguage": "试穿",
+      "id": "18cf4d044948",
+      "priority": 0,
+      "group": "2efdd6a0dac2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ลองใส่"
+      ],
+      "phrase": [
+        {
+          "word": "试穿",
+          "definition": "ลองใส่"
+        }
+      ],
+      "id": "45c176183fa7",
+      "priority": 1,
+      "group": "2efdd6a0dac2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ลองใส่",
+      "meaning": "试穿",
+      "audio": "26b8f2036500f079ce648bb8eb27f37eb96f0502c2b63b9d706ee7f629457343",
+      "id": "1d27bc00449d",
+      "priority": 1,
+      "group": "2efdd6a0dac2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ใบเสร็จ",
+      "meaningInSourceLanguage": "收据",
+      "id": "5d6fa5c069b4",
+      "priority": 0,
+      "group": "c35d6b814924"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ใบเสร็จ"
+      ],
+      "phrase": [
+        {
+          "word": "收据",
+          "definition": "ใบเสร็จ"
+        }
+      ],
+      "id": "6fe68d9beda9",
+      "priority": 1,
+      "group": "c35d6b814924"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ใบเสร็จ",
+      "meaning": "收据",
+      "audio": "1067bd077614bac06f00a1b09323c0952bb5c118d1d179d40ddb4edd00e8d89b",
+      "id": "09cb52110449",
+      "priority": 1,
+      "group": "c35d6b814924"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "แพงเกินไป",
+      "meaningInSourceLanguage": "太贵",
+      "id": "98722603fe49",
+      "priority": 0,
+      "group": "e7717ca2b283"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "แพงเกินไป"
+      ],
+      "phrase": [
+        {
+          "word": "太贵",
+          "definition": "แพงเกินไป"
+        }
+      ],
+      "id": "133ab5258171",
+      "priority": 1,
+      "group": "e7717ca2b283"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "แพงเกินไป",
+      "meaning": "太贵",
+      "audio": "cf6331aa1b5ed8039ef0e85fbe11b4bdb54b740d48cf0b4cc8dad685cf8b916f",
+      "id": "f305c331a162",
+      "priority": 1,
+      "group": "e7717ca2b283"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "เปลี่ยนสินค้า",
+      "meaningInSourceLanguage": "换货",
+      "id": "44b7fbfea4fa",
+      "priority": 0,
+      "group": "83cc2ae68f09"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "เปลี่ยนสินค้า"
+      ],
+      "phrase": [
+        {
+          "word": "换货",
+          "definition": "เปลี่ยนสินค้า"
+        }
+      ],
+      "id": "464fc8afd6c7",
+      "priority": 1,
+      "group": "83cc2ae68f09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "เปลี่ยนสินค้า",
+      "meaning": "换货",
+      "audio": "1a096b3c827407b0d41a0770ac747de51a66d95a10c45e627d8fb763c5268d6e",
+      "id": "7a5deb0e2309",
+      "priority": 1,
+      "group": "83cc2ae68f09"
+    }
+  ]
+}

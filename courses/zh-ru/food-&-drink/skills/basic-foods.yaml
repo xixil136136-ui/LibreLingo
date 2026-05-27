@@ -1,0 +1,70 @@
+Skill:
+  Name: Basic Foods
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: вода
+    Translation: 水
+  - Word: хлеб
+    Translation: 面包
+  - Word: рис
+    Translation: 米饭
+  - Word: молоко
+    Translation: 牛奶
+  - Word: яйцо
+    Translation: 鸡蛋
+  - Word: курица
+    Translation: 鸡肉
+  - Word: рыба
+    Translation: 鱼
+  - Word: фрукты
+    Translation: 水果
+  - Word: овощи
+    Translation: 蔬菜
+  - Word: чай
+    Translation: 茶
+  - Word: кофе
+    Translation: 咖啡
+
+Phrases:
+  - Phrase: Я хочу воды.
+    Translation: 我想要水。
+  - Phrase: Хлеб и молоко, пожалуйста.
+    Translation: 请给我面包和牛奶。
+  - Phrase: Мне нравится рис.
+    Translation: 我喜欢米饭。
+  - Phrase: Это вкусно.
+    Translation: 这个很好吃。
+
+Mini-dictionary:
+  Russian:
+    - кофе: 咖啡
+    - рис: 米饭
+    - вода: 水
+    - рыба: 鱼
+    - яйцо: 鸡蛋
+    - курица: 鸡肉
+    - молоко: 牛奶
+    - хлеб: 面包
+    - фрукты: 水果
+    - чай: 茶
+    - овощи: 蔬菜
+  Chinese:
+    - 水: вода
+    - 水果: фрукты
+    - 茶: чай
+    - 鸡蛋: яйцо
+    - 米饭: рис
+    - 蔬菜: овощи
+    - 咖啡: кофе
+    - 牛奶: молоко
+    - 鱼: рыба
+    - 面包: хлеб
+    - 鸡肉: курица

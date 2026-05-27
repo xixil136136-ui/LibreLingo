@@ -1,0 +1,78 @@
+Skill:
+  Name: Hotel & Accommodation
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: fazer check-in
+    Translation: 入住
+  - Word: fazer check-out
+    Translation: 退房
+  - Word: a chave do quarto
+    Translation: 房卡
+  - Word: o quarto individual
+    Translation: 单人间
+  - Word: o quarto duplo
+    Translation: 双人间
+  - Word: a reserva
+    Translation: 预订
+  - Word: o café da manhã
+    Translation: 早餐
+  - Word: o WiFi
+    Translation: 无线网络
+  - Word: o ar condicionado
+    Translation: 空调
+  - Word: o serviço de quarto
+    Translation: 客房服务
+
+Phrases:
+  - Phrase: Tenho uma reserva.
+    Translation: 我有预订。
+  - Phrase: Gostaria de fazer check-in, por favor.
+    Translation: 我想办理入住。
+  - Phrase: Quanto custa um quarto duplo por noite?
+    Translation: 双人间一晚多少钱？
+  - Phrase: O café da manhã está incluído?
+    Translation: 包含早餐吗？
+  - Phrase: Qual é a senha do WiFi?
+    Translation: WiFi密码是什么？
+  - Phrase: O ar condicionado não está funcionando.
+    Translation: 空调坏了。
+  - Phrase: Pode me dar um despertador às 7h?
+    Translation: 能给我设置早上7点的叫醒服务吗？
+  - Phrase: Gostaria de fazer check-out, por favor.
+    Translation: 我想退房。
+  - Phrase: Posso deixar minha bagagem aqui?
+    Translation: 我能寄存行李吗？
+  - Phrase: Obrigado por uma estadia maravilhosa!
+    Translation: 谢谢，住得很愉快！
+
+Mini-dictionary:
+  Portuguese:
+    - a reserva: 预订
+    - o WiFi: 无线网络
+    - o serviço de quarto: 客房服务
+    - o café da manhã: 早餐
+    - o ar condicionado: 空调
+    - o quarto duplo: 双人间
+    - fazer check-out: 退房
+    - a chave do quarto: 房卡
+    - fazer check-in: 入住
+    - o quarto individual: 单人间
+  Chinese:
+    - 入住: fazer check-in
+    - 早餐: o café da manhã
+    - 空调: o ar condicionado
+    - 单人间: o quarto individual
+    - 客房服务: o serviço de quarto
+    - 预订: a reserva
+    - 无线网络: o WiFi
+    - 房卡: a chave do quarto
+    - 双人间: o quarto duplo
+    - 退房: fazer check-out

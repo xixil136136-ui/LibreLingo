@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - menu: 菜单
-    - tip: 小费
-    - waiter: 服务员
-    - knife: 刀
-    - plate: 盘子
-    - spoon: 勺子
     - bill: 账单
-    - table: 桌子
-    - fork: 叉子
+    - tip: 小费
+    - menu: 菜单
     - cup: 杯子
+    - knife: 刀
+    - fork: 叉子
+    - spoon: 勺子
+    - table: 桌子
+    - plate: 盘子
+    - waiter: 服务员
   Chinese:
-    - 小费: tip
-    - 刀: knife
-    - 杯子: cup
     - 服务员: waiter
-    - 盘子: plate
     - 勺子: spoon
-    - 叉子: fork
-    - 菜单: menu
     - 桌子: table
+    - 刀: knife
+    - 盘子: plate
+    - 菜单: menu
+    - 小费: tip
     - 账单: bill
+    - 叉子: fork
+    - 杯子: cup

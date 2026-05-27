@@ -1,0 +1,516 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vorrei fare una prenotazione.",
+      "meaningInSourceLanguage": "我想预约。",
+      "id": "9439f2e447cc",
+      "priority": 0,
+      "group": "327434ffc783"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vorrei fare una prenotazione.",
+      "meaning": "我想预约。",
+      "audio": "c04cd88460d97cd03088392b8d850e9b1d37bc878466cda0d1a4cb050805f344",
+      "id": "599c2ce1acbc",
+      "priority": 1,
+      "group": "327434ffc783"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Un tavolo per due, per favore.",
+      "meaningInSourceLanguage": "请给我一个两人桌。",
+      "id": "f01be0a3489c",
+      "priority": 0,
+      "group": "3f20b2648d24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Un tavolo per due, per favore.",
+      "meaning": "请给我一个两人桌。",
+      "audio": "74d9a7f1917b0f20c5754cc226204b949171b96e34bda03fee46eadc717cec48",
+      "id": "505f3e2788c3",
+      "priority": 1,
+      "group": "3f20b2648d24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso vedere il menu?",
+      "meaningInSourceLanguage": "我能看看菜单吗？",
+      "id": "a082e71ce46c",
+      "priority": 0,
+      "group": "75d2569dad98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso vedere il menu?",
+      "meaning": "我能看看菜单吗？",
+      "audio": "35062bf53869827a462abf3d5b5b379e2db175ee56eec7bd87233bb9e8213fc9",
+      "id": "0f412557a716",
+      "priority": 1,
+      "group": "75d2569dad98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Cosa consiglia?",
+      "meaningInSourceLanguage": "你推荐什么？",
+      "id": "3e80030641dd",
+      "priority": 0,
+      "group": "4b75167ed4aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Cosa consiglia?",
+      "meaning": "你推荐什么？",
+      "audio": "77ca1450adb9334b6631e81f6b0801d481ed9dbf6beb9c6a475f9d738502c72d",
+      "id": "3add904fb9a6",
+      "priority": 1,
+      "group": "4b75167ed4aa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Prendo la bistecca, per favore.",
+      "meaningInSourceLanguage": "我要牛排。",
+      "id": "81adaac0b458",
+      "priority": 0,
+      "group": "566337ecb926"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Prendo la bistecca, per favore.",
+      "meaning": "我要牛排。",
+      "audio": "e6c446053476c7ee14ab2bc0fbaef395966b190cfee759255385157cf2ca0d00",
+      "id": "ecc31359fd1b",
+      "priority": 1,
+      "group": "566337ecb926"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso avere il conto, per favore?",
+      "meaningInSourceLanguage": "请给我账单。",
+      "id": "12453065e3c3",
+      "priority": 0,
+      "group": "87ca1efb9a99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso avere il conto, per favore?",
+      "meaning": "请给我账单。",
+      "audio": "d6b3053688cde04455b80f239566cebc7e5bc3cc20ed402e22546bcf670d5436",
+      "id": "58c18760af0a",
+      "priority": 1,
+      "group": "87ca1efb9a99"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il cibo è delizioso!",
+      "meaningInSourceLanguage": "食物太好吃了！",
+      "id": "4d4327340c0a",
+      "priority": 0,
+      "group": "8dedc1f1db75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il cibo è delizioso!",
+      "meaning": "食物太好吃了！",
+      "audio": "012ca26e680cc08d0226a281d09131f3713dcb794fc24898152582891194ef2f",
+      "id": "4eb998ef07f4",
+      "priority": 1,
+      "group": "8dedc1f1db75"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso avere un po' d'acqua?",
+      "meaningInSourceLanguage": "能给我一些水吗？",
+      "id": "1c2bd006e538",
+      "priority": 0,
+      "group": "4205b2b81cbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso avere un po' d'acqua?",
+      "meaning": "能给我一些水吗？",
+      "audio": "d7ef187367b55a94199d1027bb3f1f020e89cdb0892bf53b702846b4715cf383",
+      "id": "87f0d241e296",
+      "priority": 1,
+      "group": "4205b2b81cbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Il servizio è incluso?",
+      "meaningInSourceLanguage": "服务费包含在内吗？",
+      "id": "b56b586b0505",
+      "priority": 0,
+      "group": "c824140f5c6c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Il servizio è incluso?",
+      "meaning": "服务费包含在内吗？",
+      "audio": "ea17af089bcdbacf4ea33f917eca4e94d32d4762d1142d878bd60151051a75d1",
+      "id": "f164b547a88e",
+      "priority": 1,
+      "group": "c824140f5c6c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Sono allergico alle arachidi.",
+      "meaningInSourceLanguage": "我对花生过敏。",
+      "id": "d94fe64ffd3d",
+      "priority": 0,
+      "group": "0157da0a0774"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Sono allergico alle arachidi.",
+      "meaning": "我对花生过敏。",
+      "audio": "bc8c54f64842a90da80da8a6195c0e2de22ed50eab8ef9641a93592386c74517",
+      "id": "dbe6f5f3fe2f",
+      "priority": 1,
+      "group": "0157da0a0774"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Vorrei",
+      "meaningInSourceLanguage": "我想要",
+      "id": "07cd48775183",
+      "priority": 0,
+      "group": "c19e243efde8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Vorrei"
+      ],
+      "phrase": [
+        {
+          "word": "我想要",
+          "definition": "Vorrei"
+        }
+      ],
+      "id": "d5d78055a87a",
+      "priority": 1,
+      "group": "c19e243efde8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vorrei",
+      "meaning": "我想要",
+      "audio": "fba7adb69e29229e0d3aec43684a552de55c781e1c471a482785df7e8b189039",
+      "id": "83d3e21a3ba1",
+      "priority": 1,
+      "group": "c19e243efde8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "il menu",
+      "meaningInSourceLanguage": "菜单",
+      "id": "77f182ef70b1",
+      "priority": 0,
+      "group": "cd9de48ed2ae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "il menu"
+      ],
+      "phrase": [
+        {
+          "word": "菜单",
+          "definition": "il menu"
+        }
+      ],
+      "id": "4609d7cccc48",
+      "priority": 1,
+      "group": "cd9de48ed2ae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "il menu",
+      "meaning": "菜单",
+      "audio": "b37a20024d56ef1b1e22b2e9507bdf2da5c4b1aa6346bff56a0290f47dda4f80",
+      "id": "a196eb4e5204",
+      "priority": 1,
+      "group": "cd9de48ed2ae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ordinare",
+      "meaningInSourceLanguage": "点餐",
+      "id": "eaedc91995b4",
+      "priority": 0,
+      "group": "3b90778a436a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ordinare"
+      ],
+      "phrase": [
+        {
+          "word": "点餐",
+          "definition": "ordinare"
+        }
+      ],
+      "id": "f95230577fea",
+      "priority": 1,
+      "group": "3b90778a436a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ordinare",
+      "meaning": "点餐",
+      "audio": "73e061101a04aadf6d28f767ccdf5e3a922a55e0798554bf3871e540e2bcdb29",
+      "id": "bc08573e06a3",
+      "priority": 1,
+      "group": "3b90778a436a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "il conto",
+      "meaningInSourceLanguage": "账单",
+      "id": "d3cf988fa0c8",
+      "priority": 0,
+      "group": "e9a45b9e7bac"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "il conto"
+      ],
+      "phrase": [
+        {
+          "word": "账单",
+          "definition": "il conto"
+        }
+      ],
+      "id": "f7729687aeeb",
+      "priority": 1,
+      "group": "e9a45b9e7bac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "il conto",
+      "meaning": "账单",
+      "audio": "3354d2a67ce6de83a9a8d5cc273157c960f54965ed20ef3df0ddf694689cf9d4",
+      "id": "606a60da2ecc",
+      "priority": 1,
+      "group": "e9a45b9e7bac"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "delizioso",
+      "meaningInSourceLanguage": "美味",
+      "id": "3a9f7f43d599",
+      "priority": 0,
+      "group": "231484bf0c03"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "delizioso"
+      ],
+      "phrase": [
+        {
+          "word": "美味",
+          "definition": "delizioso"
+        }
+      ],
+      "id": "edcbb36847b6",
+      "priority": 1,
+      "group": "231484bf0c03"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "delizioso",
+      "meaning": "美味",
+      "audio": "5dd119d8a757e7fbed5791ef49518518b8433f5a8edc3ce8c859bc5ba3d1b3b2",
+      "id": "afed5cde75e6",
+      "priority": 1,
+      "group": "231484bf0c03"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "la raccomandazione",
+      "meaningInSourceLanguage": "推荐",
+      "id": "4d40f9796178",
+      "priority": 0,
+      "group": "645c4666406f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "la raccomandazione"
+      ],
+      "phrase": [
+        {
+          "word": "推荐",
+          "definition": "la raccomandazione"
+        }
+      ],
+      "id": "0ce7ec732bdb",
+      "priority": 1,
+      "group": "645c4666406f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "la raccomandazione",
+      "meaning": "推荐",
+      "audio": "5f0457cc5427718020fd0f176c0cc193248f32213677077583c15fb88c1fae40",
+      "id": "71666db78aaf",
+      "priority": 1,
+      "group": "645c4666406f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "la prenotazione",
+      "meaningInSourceLanguage": "预约",
+      "id": "a13893239365",
+      "priority": 0,
+      "group": "b12f37198ab0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "la prenotazione"
+      ],
+      "phrase": [
+        {
+          "word": "预约",
+          "definition": "la prenotazione"
+        }
+      ],
+      "id": "2e8ccf5e7735",
+      "priority": 1,
+      "group": "b12f37198ab0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "la prenotazione",
+      "meaning": "预约",
+      "audio": "f3c930a4f0805d33fc7fa3c24e8371c121a034ce6f05489e0f64d1254394118d",
+      "id": "07e1125ca678",
+      "priority": 1,
+      "group": "b12f37198ab0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "il cameriere",
+      "meaningInSourceLanguage": "服务员",
+      "id": "34a01f626841",
+      "priority": 0,
+      "group": "dd822973fbd4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "il cameriere"
+      ],
+      "phrase": [
+        {
+          "word": "服务员",
+          "definition": "il cameriere"
+        }
+      ],
+      "id": "e3d354ca5d0a",
+      "priority": 1,
+      "group": "dd822973fbd4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "il cameriere",
+      "meaning": "服务员",
+      "audio": "2874be6422c7618ef25c42ed706671b36fba64eed52f1c66b87a43e030ae9f77",
+      "id": "bf286fbfa6cc",
+      "priority": 1,
+      "group": "dd822973fbd4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "un tavolo per due",
+      "meaningInSourceLanguage": "两人桌",
+      "id": "bcfe42fac65f",
+      "priority": 0,
+      "group": "e4b207a552d0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "un tavolo per due"
+      ],
+      "phrase": [
+        {
+          "word": "两人桌",
+          "definition": "un tavolo per due"
+        }
+      ],
+      "id": "39b4ef35047f",
+      "priority": 1,
+      "group": "e4b207a552d0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "un tavolo per due",
+      "meaning": "两人桌",
+      "audio": "24e71d1235c0ea23f5fb97f4bbd466211009f35bdb7b7982b2fda359754e30d4",
+      "id": "0f261c7ff2a9",
+      "priority": 1,
+      "group": "e4b207a552d0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "il piatto del giorno",
+      "meaningInSourceLanguage": "今日特价",
+      "id": "24405894c152",
+      "priority": 0,
+      "group": "ae549b85ac94"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "il piatto del giorno"
+      ],
+      "phrase": [
+        {
+          "word": "今日特价",
+          "definition": "il piatto del giorno"
+        }
+      ],
+      "id": "86daee613cb8",
+      "priority": 1,
+      "group": "ae549b85ac94"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "il piatto del giorno",
+      "meaning": "今日特价",
+      "audio": "1cbf03af23b7491d30868d6fe5168c52c294fc8debded284206b285fc34dee5b",
+      "id": "4def0dc7bd6f",
+      "priority": 1,
+      "group": "ae549b85ac94"
+    }
+  ]
+}

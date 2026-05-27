@@ -1,0 +1,78 @@
+Skill:
+  Name: Travel Dialogues
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: สนามบิน
+    Translation: 机场
+  - Word: ตั๋ว
+    Translation: 票
+  - Word: ชานชาลา
+    Translation: 站台
+  - Word: ออกเดินทาง
+    Translation: 出发
+  - Word: ถึง
+    Translation: 到达
+  - Word: เที่ยวเดียว
+    Translation: 单程
+  - Word: ไป-กลับ
+    Translation: 往返
+  - Word: พาสปอร์ต
+    Translation: 护照
+  - Word: วีซ่า
+    Translation: 签证
+  - Word: ศุลกากร
+    Translation: 海关
+
+Phrases:
+  - Phrase: สนามบินอยู่ที่ไหน
+    Translation: 机场在哪里？
+  - Phrase: I need a ticket to Berlin.
+    Translation: 我需要一张去柏林的票。
+  - Phrase: เที่ยวเดียวหรือไปกลับ
+    Translation: 单程还是往返？
+  - Phrase: รถไฟออกจากชานชาลาไหน
+    Translation: 火车从哪个站台出发？
+  - Phrase: รถเที่ยวหน้าไปกี่โมง
+    Translation: 下一班车几点？
+  - Phrase: ที่นั่งนี้มีคนหรือยัง
+    Translation: 这个座位有人吗？
+  - Phrase: ขอดูพาสปอร์ตด้วยครับ
+    Translation: 请出示您的护照。
+  - Phrase: ฉันไม่มีของต้องแจ้งศุลกากร
+    Translation: 我没有需要申报的物品。
+  - Phrase: เดินทางนานแค่ไหน
+    Translation: 旅途有多久？
+  - Phrase: ลงป้ายหน้าด้วยครับ
+    Translation: 请在下一站让我下车。
+
+Mini-dictionary:
+  Thai:
+    - ตั๋ว: 票
+    - ถึง: 到达
+    - ไป-กลับ: 往返
+    - วีซ่า: 签证
+    - เที่ยวเดียว: 单程
+    - ออกเดินทาง: 出发
+    - สนามบิน: 机场
+    - พาสปอร์ต: 护照
+    - ชานชาลา: 站台
+    - ศุลกากร: 海关
+  Chinese:
+    - 海关: ศุลกากร
+    - 票: ตั๋ว
+    - 单程: เที่ยวเดียว
+    - 往返: ไป-กลับ
+    - 机场: สนามบิน
+    - 出发: ออกเดินทาง
+    - 护照: พาสปอร์ต
+    - 签证: วีซ่า
+    - 到达: ถึง
+    - 站台: ชานชาลา

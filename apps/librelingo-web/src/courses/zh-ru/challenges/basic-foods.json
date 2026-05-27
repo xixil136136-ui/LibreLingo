@@ -1,0 +1,448 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я хочу воды.",
+      "meaningInSourceLanguage": "我想要水。",
+      "id": "cff3adf30c2a",
+      "priority": 0,
+      "group": "92d1c95b0fdb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я хочу воды.",
+      "meaning": "我想要水。",
+      "audio": "c2273e871909857c37ede7bd632e9ef1837add5536207746518027e848b0eb5d",
+      "id": "414ef61d3121",
+      "priority": 1,
+      "group": "92d1c95b0fdb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Хлеб и молоко, пожалуйста.",
+      "meaningInSourceLanguage": "请给我面包和牛奶。",
+      "id": "8853c49a2c63",
+      "priority": 0,
+      "group": "1fc85223a3fe"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Хлеб и молоко, пожалуйста.",
+      "meaning": "请给我面包和牛奶。",
+      "audio": "35123b69792da848585554864ab30c3ead2031a12dbb37048f4843eff57d2a13",
+      "id": "4349ac2ebd3e",
+      "priority": 1,
+      "group": "1fc85223a3fe"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Мне нравится рис.",
+      "meaningInSourceLanguage": "我喜欢米饭。",
+      "id": "6b67b67f61a6",
+      "priority": 0,
+      "group": "c418ffdc153b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Мне нравится рис.",
+      "meaning": "我喜欢米饭。",
+      "audio": "b82e1c888cd9aa4f7c939d5b1d3793d97e4112cd9b9385612135a7551f13be12",
+      "id": "e71beeb538f9",
+      "priority": 1,
+      "group": "c418ffdc153b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это вкусно.",
+      "meaningInSourceLanguage": "这个很好吃。",
+      "id": "8fc24504db98",
+      "priority": 0,
+      "group": "1d761fe4749e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это вкусно.",
+      "meaning": "这个很好吃。",
+      "audio": "98c9d77f17bd4d409973ba74a6b74cf36f21d82fb15bd26a9c802a96854143b4",
+      "id": "eb6cedb16719",
+      "priority": 1,
+      "group": "1d761fe4749e"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "вода",
+      "meaningInSourceLanguage": "水",
+      "id": "34a1d5c4c8eb",
+      "priority": 0,
+      "group": "1798b1f7aed6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "вода"
+      ],
+      "phrase": [
+        {
+          "word": "水",
+          "definition": "вода"
+        }
+      ],
+      "id": "103ae34e9e94",
+      "priority": 1,
+      "group": "1798b1f7aed6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "вода",
+      "meaning": "水",
+      "audio": "4bc451f77b895cdf8f268bfed5d0cd655135b73159ace6f6520ae3f60ea76c7f",
+      "id": "62acb3683e27",
+      "priority": 1,
+      "group": "1798b1f7aed6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "хлеб",
+      "meaningInSourceLanguage": "面包",
+      "id": "dd5aa9526003",
+      "priority": 0,
+      "group": "84b70712e854"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "хлеб"
+      ],
+      "phrase": [
+        {
+          "word": "面包",
+          "definition": "хлеб"
+        }
+      ],
+      "id": "632ef5b1bea9",
+      "priority": 1,
+      "group": "84b70712e854"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "хлеб",
+      "meaning": "面包",
+      "audio": "fa24a211544c145b6e3c76aa8237cec5a82de9b1bf45d34bdef3b309e5eddb15",
+      "id": "cb6d2a12d22c",
+      "priority": 1,
+      "group": "84b70712e854"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рис",
+      "meaningInSourceLanguage": "米饭",
+      "id": "0e2e14b252d7",
+      "priority": 0,
+      "group": "2e354cee8a14"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рис"
+      ],
+      "phrase": [
+        {
+          "word": "米饭",
+          "definition": "рис"
+        }
+      ],
+      "id": "bdb04c816709",
+      "priority": 1,
+      "group": "2e354cee8a14"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рис",
+      "meaning": "米饭",
+      "audio": "61e810800cc05f15f07a3ef83674cb0b5560b7bc94185a6772a9c2358d41aaeb",
+      "id": "2929bc4d0220",
+      "priority": 1,
+      "group": "2e354cee8a14"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "молоко",
+      "meaningInSourceLanguage": "牛奶",
+      "id": "474120c9c1d3",
+      "priority": 0,
+      "group": "4859d75a627b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "молоко"
+      ],
+      "phrase": [
+        {
+          "word": "牛奶",
+          "definition": "молоко"
+        }
+      ],
+      "id": "38b5eac8c9c4",
+      "priority": 1,
+      "group": "4859d75a627b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "молоко",
+      "meaning": "牛奶",
+      "audio": "d524b3fbd1b05d6a3bd13477ddb712761c34abb62c52a8705da63c456649c02e",
+      "id": "60ae8d079fc6",
+      "priority": 1,
+      "group": "4859d75a627b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "яйцо",
+      "meaningInSourceLanguage": "鸡蛋",
+      "id": "e0906d9b25f5",
+      "priority": 0,
+      "group": "83cfafa5940f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "яйцо"
+      ],
+      "phrase": [
+        {
+          "word": "鸡蛋",
+          "definition": "яйцо"
+        }
+      ],
+      "id": "9d41fe308584",
+      "priority": 1,
+      "group": "83cfafa5940f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "яйцо",
+      "meaning": "鸡蛋",
+      "audio": "15eecdeac85399775ace6a36c8bb02227d57f2e659b6729ad9831d3a385d1bb0",
+      "id": "fe5493de0006",
+      "priority": 1,
+      "group": "83cfafa5940f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "курица",
+      "meaningInSourceLanguage": "鸡肉",
+      "id": "cafeca962c4f",
+      "priority": 0,
+      "group": "2f428f57653d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "курица"
+      ],
+      "phrase": [
+        {
+          "word": "鸡肉",
+          "definition": "курица"
+        }
+      ],
+      "id": "b396e4a3bfaa",
+      "priority": 1,
+      "group": "2f428f57653d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "курица",
+      "meaning": "鸡肉",
+      "audio": "22b4ebb0b98b58e2f034789af1b9a2fdead06ac671eac480675e37790815f564",
+      "id": "1a46e8f4491d",
+      "priority": 1,
+      "group": "2f428f57653d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "рыба",
+      "meaningInSourceLanguage": "鱼",
+      "id": "b4d3f36fc895",
+      "priority": 0,
+      "group": "6f3ad8491279"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "рыба"
+      ],
+      "phrase": [
+        {
+          "word": "鱼",
+          "definition": "рыба"
+        }
+      ],
+      "id": "ac708b652b85",
+      "priority": 1,
+      "group": "6f3ad8491279"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "рыба",
+      "meaning": "鱼",
+      "audio": "2875af34d90f0fb63ccd109ea80140ef7d8259a8fdb15c14ffe74a9330ebf87d",
+      "id": "1475053a7365",
+      "priority": 1,
+      "group": "6f3ad8491279"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "фрукты",
+      "meaningInSourceLanguage": "水果",
+      "id": "a8916a7a6cd1",
+      "priority": 0,
+      "group": "76302f017c87"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "фрукты"
+      ],
+      "phrase": [
+        {
+          "word": "水果",
+          "definition": "фрукты"
+        }
+      ],
+      "id": "09f5a2eae675",
+      "priority": 1,
+      "group": "76302f017c87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "фрукты",
+      "meaning": "水果",
+      "audio": "c88ba05c69c72479b5ddb64f087102f3191da9555c1eeb55a3b074c18e277cae",
+      "id": "d6c71ad8147b",
+      "priority": 1,
+      "group": "76302f017c87"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "овощи",
+      "meaningInSourceLanguage": "蔬菜",
+      "id": "41a787182d89",
+      "priority": 0,
+      "group": "6c188a5e167f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "овощи"
+      ],
+      "phrase": [
+        {
+          "word": "蔬菜",
+          "definition": "овощи"
+        }
+      ],
+      "id": "20baa0137c13",
+      "priority": 1,
+      "group": "6c188a5e167f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "овощи",
+      "meaning": "蔬菜",
+      "audio": "675109cc3241591084dd8f1e39db110cdf21b4e0ab6ad8ae7126319a0936db4d",
+      "id": "bad856e9758b",
+      "priority": 1,
+      "group": "6c188a5e167f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "чай",
+      "meaningInSourceLanguage": "茶",
+      "id": "a585ba49fd94",
+      "priority": 0,
+      "group": "02c6e9020f80"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "чай"
+      ],
+      "phrase": [
+        {
+          "word": "茶",
+          "definition": "чай"
+        }
+      ],
+      "id": "749603fecabd",
+      "priority": 1,
+      "group": "02c6e9020f80"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "чай",
+      "meaning": "茶",
+      "audio": "706e5500614131640f409a69c97cdfcb2cc1bd7f641f8d1a349561b756afb8c5",
+      "id": "7e9933d6fc38",
+      "priority": 1,
+      "group": "02c6e9020f80"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кофе",
+      "meaningInSourceLanguage": "咖啡",
+      "id": "934a796c4c89",
+      "priority": 0,
+      "group": "7cef40c51086"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кофе"
+      ],
+      "phrase": [
+        {
+          "word": "咖啡",
+          "definition": "кофе"
+        }
+      ],
+      "id": "2539a2297981",
+      "priority": 1,
+      "group": "7cef40c51086"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кофе",
+      "meaning": "咖啡",
+      "audio": "866eb97f19a6de28d4c6370368fa4ac3aa249f65989f35dd5cfabc64b8806892",
+      "id": "ef13b766bf7e",
+      "priority": 1,
+      "group": "7cef40c51086"
+    }
+  ]
+}

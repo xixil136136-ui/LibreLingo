@@ -1,0 +1,516 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Quanto custa isto?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "103411b1eb55",
+      "priority": 0,
+      "group": "f6e3cef8a433"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Quanto custa isto?",
+      "meaning": "这个多少钱？",
+      "audio": "e8392308078cb4a5553861ef5ca538140a6832ed4beb264da0016320aa8f43cb",
+      "id": "e10ef132109d",
+      "priority": 1,
+      "group": "f6e3cef8a433"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Posso experimentar?",
+      "meaningInSourceLanguage": "我能试穿这个吗？",
+      "id": "9f57b126f965",
+      "priority": 0,
+      "group": "0ef1c45a7845"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Posso experimentar?",
+      "meaning": "我能试穿这个吗？",
+      "audio": "00bcbd14f84ad914418e77643493152ccb147db04ecfbcd42be127ec9844c3ed",
+      "id": "99e00bb9b3bd",
+      "priority": 1,
+      "group": "0ef1c45a7845"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tem em outra cor?",
+      "meaningInSourceLanguage": "有别的颜色吗？",
+      "id": "2635a87ab1b9",
+      "priority": 0,
+      "group": "39c2b0839830"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tem em outra cor?",
+      "meaning": "有别的颜色吗？",
+      "audio": "12640db4a2c4f749cda744b588d7a409a600240b838374902cc4815a7852f988",
+      "id": "7bdb4ff6718c",
+      "priority": 1,
+      "group": "39c2b0839830"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Está muito caro. Tem desconto?",
+      "meaningInSourceLanguage": "太贵了。有折扣吗？",
+      "id": "af74258f8722",
+      "priority": 0,
+      "group": "c3fd095e03e5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Está muito caro. Tem desconto?",
+      "meaning": "太贵了。有折扣吗？",
+      "audio": "fca0260739e522f75eff95a1edc3ed8b91950bbd187f31b0ccafe42e5a760736",
+      "id": "d3a5f61b9e77",
+      "priority": 1,
+      "group": "c3fd095e03e5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Vou levar. Posso pagar com cartão?",
+      "meaningInSourceLanguage": "我买了。能用卡支付吗？",
+      "id": "c68a35be70f1",
+      "priority": 0,
+      "group": "715530373ba9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Vou levar. Posso pagar com cartão?",
+      "meaning": "我买了。能用卡支付吗？",
+      "audio": "4eceac3bdc9494da223ccb2222907bc509bd1b6309c478d6cf815ea22d518723",
+      "id": "2e55608733d4",
+      "priority": 1,
+      "group": "715530373ba9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "O recibo, por favor.",
+      "meaningInSourceLanguage": "请给我收据。",
+      "id": "1bb6731eea7c",
+      "priority": 0,
+      "group": "ef98e0137014"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "O recibo, por favor.",
+      "meaning": "请给我收据。",
+      "audio": "5a3c6c3ec6675d5dfe02805aeddbd7a5f073a0599142dc524e459b9cb773026b",
+      "id": "b9669a24abb3",
+      "priority": 1,
+      "group": "ef98e0137014"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Gostaria de trocar isto.",
+      "meaningInSourceLanguage": "我想换这个。",
+      "id": "4ab71f3d35db",
+      "priority": 0,
+      "group": "3e9a4f3f27d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Gostaria de trocar isto.",
+      "meaning": "我想换这个。",
+      "audio": "beb3daf1b746d33b762346160950002d9398e98a181a35373fff8629ac1dc159",
+      "id": "233e84ce1abd",
+      "priority": 1,
+      "group": "3e9a4f3f27d1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tem um tamanho menor?",
+      "meaningInSourceLanguage": "有小一点的尺寸吗？",
+      "id": "60459e677312",
+      "priority": 0,
+      "group": "ebcb8c2dde89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tem um tamanho menor?",
+      "meaning": "有小一点的尺寸吗？",
+      "audio": "476d4a862ba83c1bdaf71ca3606596d28962d379d9fc2ab61d1a3d8786dd8f78",
+      "id": "d8f4c54c2ed0",
+      "priority": 1,
+      "group": "ebcb8c2dde89"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Tem liquidação?",
+      "meaningInSourceLanguage": "有打折活动吗？",
+      "id": "2bf9589e7d41",
+      "priority": 0,
+      "group": "c10922ee045e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Tem liquidação?",
+      "meaning": "有打折活动吗？",
+      "audio": "435f648d1accfecd0ff4ff8c0ac491d18e8191754b702b3c1da43508330bb156",
+      "id": "e518ddc8bea1",
+      "priority": 1,
+      "group": "c10922ee045e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Só estou olhando, obrigado.",
+      "meaningInSourceLanguage": "我就看看，谢谢。",
+      "id": "fb1d5bba7415",
+      "priority": 0,
+      "group": "56c147fc3c07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Só estou olhando, obrigado.",
+      "meaning": "我就看看，谢谢。",
+      "audio": "3647a5e6bd44c55c985747248812cd758dff4abfe029e9821860e65e8f14e458",
+      "id": "bc0c2ddb98ee",
+      "priority": 1,
+      "group": "56c147fc3c07"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Quanto",
+      "meaningInSourceLanguage": "多少钱",
+      "id": "4ed051c79400",
+      "priority": 0,
+      "group": "43fb96732514"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Quanto"
+      ],
+      "phrase": [
+        {
+          "word": "多少钱",
+          "definition": "Quanto"
+        }
+      ],
+      "id": "8dc1daf02b73",
+      "priority": 1,
+      "group": "43fb96732514"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Quanto",
+      "meaning": "多少钱",
+      "audio": "258dd928063efd90b7eb18659df621ca44c9fbdb5be2b329b633050316eb5d14",
+      "id": "59240e9bb703",
+      "priority": 1,
+      "group": "43fb96732514"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o desconto",
+      "meaningInSourceLanguage": "折扣",
+      "id": "7b2459a83834",
+      "priority": 0,
+      "group": "f1f5a28d20c1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o desconto"
+      ],
+      "phrase": [
+        {
+          "word": "折扣",
+          "definition": "o desconto"
+        }
+      ],
+      "id": "ee76a75c2983",
+      "priority": 1,
+      "group": "f1f5a28d20c1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o desconto",
+      "meaning": "折扣",
+      "audio": "3b1a723ba905e2f631c96f8fc0a724b605095ac2d2358e9e5a8b69b524371f5c",
+      "id": "33a25b2e4043",
+      "priority": 1,
+      "group": "f1f5a28d20c1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o cartão de crédito",
+      "meaningInSourceLanguage": "信用卡",
+      "id": "4b44b18be8e9",
+      "priority": 0,
+      "group": "1f6e5a084c0b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o cartão de crédito"
+      ],
+      "phrase": [
+        {
+          "word": "信用卡",
+          "definition": "o cartão de crédito"
+        }
+      ],
+      "id": "a092ce8579b8",
+      "priority": 1,
+      "group": "1f6e5a084c0b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o cartão de crédito",
+      "meaning": "信用卡",
+      "audio": "338877ab110f12c5873eeea3351dac2e89c269297e4d5e3a52112f84246a6ff4",
+      "id": "88ecf749f048",
+      "priority": 1,
+      "group": "1f6e5a084c0b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o dinheiro",
+      "meaningInSourceLanguage": "现金",
+      "id": "1df8050f1235",
+      "priority": 0,
+      "group": "76130d27386f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o dinheiro"
+      ],
+      "phrase": [
+        {
+          "word": "现金",
+          "definition": "o dinheiro"
+        }
+      ],
+      "id": "2d1c8b850d89",
+      "priority": 1,
+      "group": "76130d27386f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o dinheiro",
+      "meaning": "现金",
+      "audio": "8a4fde6b7292fbddf52fb6814ed381e75cf981e2c9b763772e59ba366f9a7fae",
+      "id": "1ec9df4717a1",
+      "priority": 1,
+      "group": "76130d27386f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o tamanho",
+      "meaningInSourceLanguage": "尺寸",
+      "id": "84863af0c05f",
+      "priority": 0,
+      "group": "f974d4c48aae"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o tamanho"
+      ],
+      "phrase": [
+        {
+          "word": "尺寸",
+          "definition": "o tamanho"
+        }
+      ],
+      "id": "0ce404d6e319",
+      "priority": 1,
+      "group": "f974d4c48aae"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o tamanho",
+      "meaning": "尺寸",
+      "audio": "2c5d2db22be1b9b885e6a97781f93c46cb2f79be46a4d61b33f930af5727d9f4",
+      "id": "a75328635b87",
+      "priority": 1,
+      "group": "f974d4c48aae"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "a cor",
+      "meaningInSourceLanguage": "颜色",
+      "id": "a5258602b9a1",
+      "priority": 0,
+      "group": "81693dfda5c2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "a cor"
+      ],
+      "phrase": [
+        {
+          "word": "颜色",
+          "definition": "a cor"
+        }
+      ],
+      "id": "40890d036f1e",
+      "priority": 1,
+      "group": "81693dfda5c2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "a cor",
+      "meaning": "颜色",
+      "audio": "93ad6a2786ca0b213febfa6ed217d7813a6e40258dc88da47a9b1e1b9dd4ae06",
+      "id": "a8d96b33f141",
+      "priority": 1,
+      "group": "81693dfda5c2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "experimentar",
+      "meaningInSourceLanguage": "试穿",
+      "id": "2d16a161b3f8",
+      "priority": 0,
+      "group": "e11ed9e5c8b8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "experimentar"
+      ],
+      "phrase": [
+        {
+          "word": "试穿",
+          "definition": "experimentar"
+        }
+      ],
+      "id": "1769296f1fc3",
+      "priority": 1,
+      "group": "e11ed9e5c8b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "experimentar",
+      "meaning": "试穿",
+      "audio": "5b7cc1f2b4360714a260af0c9f3895190813815ce18396937b1f0633f8782011",
+      "id": "89287e3cb39f",
+      "priority": 1,
+      "group": "e11ed9e5c8b8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "o recibo",
+      "meaningInSourceLanguage": "收据",
+      "id": "1987e53e0c14",
+      "priority": 0,
+      "group": "e233aa98d1f1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "o recibo"
+      ],
+      "phrase": [
+        {
+          "word": "收据",
+          "definition": "o recibo"
+        }
+      ],
+      "id": "ffd8a70b5e9c",
+      "priority": 1,
+      "group": "e233aa98d1f1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "o recibo",
+      "meaning": "收据",
+      "audio": "8d05644b1fdcfc992f2772dfc5f0a588258f9a957c7b782704c8432d790f7f6c",
+      "id": "b4258da132b3",
+      "priority": 1,
+      "group": "e233aa98d1f1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "muito caro",
+      "meaningInSourceLanguage": "太贵",
+      "id": "19b709c561d6",
+      "priority": 0,
+      "group": "9325cb34f36a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "muito caro"
+      ],
+      "phrase": [
+        {
+          "word": "太贵",
+          "definition": "muito caro"
+        }
+      ],
+      "id": "b14a07eb4457",
+      "priority": 1,
+      "group": "9325cb34f36a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "muito caro",
+      "meaning": "太贵",
+      "audio": "1db712112a2bac80f2c6cc163517662cdf45b786522fdb96eaab6922352dfec8",
+      "id": "c65fc607c31c",
+      "priority": 1,
+      "group": "9325cb34f36a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "trocar",
+      "meaningInSourceLanguage": "换货",
+      "id": "f981e3b34b8e",
+      "priority": 0,
+      "group": "0482240f9f75"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "trocar"
+      ],
+      "phrase": [
+        {
+          "word": "换货",
+          "definition": "trocar"
+        }
+      ],
+      "id": "9970799efac3",
+      "priority": 1,
+      "group": "0482240f9f75"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "trocar",
+      "meaning": "换货",
+      "audio": "bafa90056eea223ed8802b0e9e0bf12bfd5c4356f513d8ac90142aa4ddc9aa7b",
+      "id": "2712777792c6",
+      "priority": 1,
+      "group": "0482240f9f75"
+    }
+  ]
+}

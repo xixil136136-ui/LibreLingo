@@ -292,5 +292,89 @@
     "source": "Chinese",
     "target": "French",
     "description": "French for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-de",
+      "jsonFolder": "zh-de"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "german-from-chinese",
+    "source": "Chinese",
+    "target": "German",
+    "description": "German for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-es",
+      "jsonFolder": "zh-es"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "spanish-from-chinese",
+    "source": "Chinese",
+    "target": "Spanish",
+    "description": "Spanish for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-it",
+      "jsonFolder": "zh-it"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "italian-from-chinese",
+    "source": "Chinese",
+    "target": "Italian",
+    "description": "Italian for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-pt",
+      "jsonFolder": "zh-pt"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "portuguese-from-chinese",
+    "source": "Chinese",
+    "target": "Portuguese",
+    "description": "Portuguese for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-ru",
+      "jsonFolder": "zh-ru"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "russian-from-chinese",
+    "source": "Chinese",
+    "target": "Russian",
+    "description": "Russian for Chinese speakers"
+  },
+  {
+    "url": "",
+    "repositoryURL": "https://github.com/xixil136136-ui/LibreLingo",
+    "paths": {
+      "yamlFolder": "zh-th",
+      "jsonFolder": "zh-th"
+    },
+    "deploy": true,
+    "inProduction": true,
+    "name": "thai-from-chinese",
+    "source": "Chinese",
+    "target": "Thai",
+    "description": "Thai for Chinese speakers"
   }
 ]

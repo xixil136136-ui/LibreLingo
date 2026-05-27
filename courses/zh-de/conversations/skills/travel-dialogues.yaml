@@ -1,0 +1,78 @@
+Skill:
+  Name: Travel Dialogues
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: der Flughafen
+    Translation: 机场
+  - Word: die Fahrkarte
+    Translation: 票
+  - Word: der Bahnsteig
+    Translation: 站台
+  - Word: die Abfahrt
+    Translation: 出发
+  - Word: die Ankunft
+    Translation: 到达
+  - Word: einfach
+    Translation: 单程
+  - Word: hin und zurück
+    Translation: 往返
+  - Word: der Reisepass
+    Translation: 护照
+  - Word: das Visum
+    Translation: 签证
+  - Word: der Zoll
+    Translation: 海关
+
+Phrases:
+  - Phrase: Wo ist der Flughafen?
+    Translation: 机场在哪里？
+  - Phrase: Ich brauche eine Fahrkarte nach Berlin.
+    Translation: 我需要一张去柏林的票。
+  - Phrase: Einfach oder hin und zurück?
+    Translation: 单程还是往返？
+  - Phrase: Von welchem Bahnsteig fährt der Zug ab?
+    Translation: 火车从哪个站台出发？
+  - Phrase: Wann kommt der nächste Bus?
+    Translation: 下一班车几点？
+  - Phrase: Ist dieser Platz frei?
+    Translation: 这个座位有人吗？
+  - Phrase: Ihren Reisepass, bitte.
+    Translation: 请出示您的护照。
+  - Phrase: Ich habe nichts zu verzollen.
+    Translation: 我没有需要申报的物品。
+  - Phrase: Wie lange dauert die Reise?
+    Translation: 旅途有多久？
+  - Phrase: Lassen Sie mich bitte an der nächsten Haltestelle aussteigen.
+    Translation: 请在下一站让我下车。
+
+Mini-dictionary:
+  German:
+    - die Ankunft: 到达
+    - der Zoll: 海关
+    - einfach: 单程
+    - das Visum: 签证
+    - hin und zurück: 往返
+    - die Fahrkarte: 票
+    - die Abfahrt: 出发
+    - der Bahnsteig: 站台
+    - der Reisepass: 护照
+    - der Flughafen: 机场
+  Chinese:
+    - 机场: der Flughafen
+    - 海关: der Zoll
+    - 出发: die Abfahrt
+    - 往返: hin und zurück
+    - 签证: das Visum
+    - 护照: der Reisepass
+    - 单程: einfach
+    - 到达: die Ankunft
+    - 站台: der Bahnsteig
+    - 票: die Fahrkarte

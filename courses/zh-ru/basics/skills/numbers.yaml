@@ -1,0 +1,64 @@
+Skill:
+  Name: Numbers
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: один
+    Translation: 一
+  - Word: два
+    Translation: 二
+  - Word: три
+    Translation: 三
+  - Word: четыре
+    Translation: 四
+  - Word: пять
+    Translation: 五
+  - Word: шесть
+    Translation: 六
+  - Word: семь
+    Translation: 七
+  - Word: восемь
+    Translation: 八
+  - Word: девять
+    Translation: 九
+  - Word: десять
+    Translation: 十
+
+Phrases:
+  - Phrase: Один, два, три.
+    Translation: 一、二、三。
+  - Phrase: Сейчас пять часов.
+    Translation: 现在五点钟。
+  - Phrase: Десять человек.
+    Translation: 有十个人。
+
+Mini-dictionary:
+  Russian:
+    - семь: 七
+    - девять: 九
+    - пять: 五
+    - восемь: 八
+    - четыре: 四
+    - один: 一
+    - два: 二
+    - десять: 十
+    - три: 三
+    - шесть: 六
+  Chinese:
+    - 九: девять
+    - 六: шесть
+    - 八: восемь
+    - 十: десять
+    - 三: три
+    - 七: семь
+    - 一: один
+    - 二: два
+    - 四: четыре
+    - 五: пять

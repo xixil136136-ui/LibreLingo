@@ -1,0 +1,33 @@
+Course:
+  Language:
+    Name: German
+    IETF BCP 47: de
+
+  For speakers of:
+    Name: Chinese
+    IETF BCP 47: zh
+
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+  Repository: https://github.com/xixil136136-ui/LibreLingo
+
+  Special characters:
+  - "ä"
+  - "ö"
+  - "ü"
+  - "ß"
+  - "Ä"
+  - "Ö"
+  - "Ü"
+
+Modules:
+  - basics
+  - food-&-drink
+  - conversations
+
+Settings:
+    Audio:
+      Enabled: True

@@ -1,0 +1,71 @@
+Skill:
+  Name: Basic Foods
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+    - "ò"
+    - "è"
+
+New words:
+  - Word: acqua
+    Translation: 水
+  - Word: pane
+    Translation: 面包
+  - Word: riso
+    Translation: 米饭
+  - Word: latte
+    Translation: 牛奶
+  - Word: uovo
+    Translation: 鸡蛋
+  - Word: pollo
+    Translation: 鸡肉
+  - Word: pesce
+    Translation: 鱼
+  - Word: frutta
+    Translation: 水果
+  - Word: verdura
+    Translation: 蔬菜
+  - Word: tè
+    Translation: 茶
+  - Word: caffè
+    Translation: 咖啡
+
+Phrases:
+  - Phrase: Vorrei dell'acqua.
+    Translation: 我想要水。
+  - Phrase: Pane e latte, per favore.
+    Translation: 请给我面包和牛奶。
+  - Phrase: Mi piace il riso.
+    Translation: 我喜欢米饭。
+  - Phrase: È delizioso.
+    Translation: 这个很好吃。
+
+Mini-dictionary:
+  Italian:
+    - frutta: 水果
+    - riso: 米饭
+    - acqua: 水
+    - tè: 茶
+    - latte: 牛奶
+    - pesce: 鱼
+    - verdura: 蔬菜
+    - caffè: 咖啡
+    - uovo: 鸡蛋
+    - pane: 面包
+    - pollo: 鸡肉
+  Chinese:
+    - 牛奶: latte
+    - 水果: frutta
+    - 茶: tè
+    - 水: acqua
+    - 鱼: pesce
+    - 面包: pane
+    - 蔬菜: verdura
+    - 鸡肉: pollo
+    - 咖啡: caffè
+    - 米饭: riso
+    - 鸡蛋: uovo

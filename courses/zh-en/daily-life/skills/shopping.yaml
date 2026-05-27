@@ -45,24 +45,24 @@ Phrases:
 
 Mini-dictionary:
   English:
-    - color: 颜色
-    - try on: 试穿
-    - price: 价格
-    - shop: 商店
     - expensive: 贵的
-    - cheap: 便宜的
-    - money: 钱
-    - size: 尺寸
-    - receipt: 收据
     - discount: 折扣
+    - receipt: 收据
+    - color: 颜色
+    - cheap: 便宜的
+    - price: 价格
+    - money: 钱
+    - shop: 商店
+    - size: 尺寸
+    - try on: 试穿
   Chinese:
+    - 价格: price
     - 收据: receipt
-    - 折扣: discount
-    - 试穿: try on
     - 便宜的: cheap
+    - 贵的: expensive
     - 尺寸: size
-    - 商店: shop
     - 钱: money
     - 颜色: color
-    - 贵的: expensive
-    - 价格: price
+    - 商店: shop
+    - 试穿: try on
+    - 折扣: discount

@@ -1,0 +1,448 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอน้ำหน่อยครับ",
+      "meaningInSourceLanguage": "我想要水。",
+      "id": "dbb1631a67fa",
+      "priority": 0,
+      "group": "5e7b6d1d9aca"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอน้ำหน่อยครับ",
+      "meaning": "我想要水。",
+      "audio": "8157b0feaa30ab39950a8a96aba85af8caa89e375e9ebd26745ad14ec62a2411",
+      "id": "f022f60a4367",
+      "priority": 1,
+      "group": "5e7b6d1d9aca"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ขอขนมปังกับนมครับ",
+      "meaningInSourceLanguage": "请给我面包和牛奶。",
+      "id": "0c2cc5bd8098",
+      "priority": 0,
+      "group": "f6da63a73974"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขอขนมปังกับนมครับ",
+      "meaning": "请给我面包和牛奶。",
+      "audio": "09b3fa15d2a4ea73891fe4bce1ffe9c7f7385d3af6cf25a0610634f0bfdf665c",
+      "id": "3ff542ce738b",
+      "priority": 1,
+      "group": "f6da63a73974"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ฉันชอบข้าว",
+      "meaningInSourceLanguage": "我喜欢米饭。",
+      "id": "156a79f12356",
+      "priority": 0,
+      "group": "6fa7c5505a5b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ฉันชอบข้าว",
+      "meaning": "我喜欢米饭。",
+      "audio": "abbd1ee90d0fe08589e8bbc0d9a3178f7ba360bc933e4380f7e2f3e2895fc0f2",
+      "id": "817e31fff974",
+      "priority": 1,
+      "group": "6fa7c5505a5b"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "อร่อยมาก",
+      "meaningInSourceLanguage": "这个很好吃。",
+      "id": "85810f25160e",
+      "priority": 0,
+      "group": "97a8c7e468dc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "อร่อยมาก",
+      "meaning": "这个很好吃。",
+      "audio": "a1cbbcabcb1b73f8092be84dd748be09f81477200791ba61ce96ae85ff84711d",
+      "id": "bee3ea38ff41",
+      "priority": 1,
+      "group": "97a8c7e468dc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "น้ำ",
+      "meaningInSourceLanguage": "水",
+      "id": "529494fd79b6",
+      "priority": 0,
+      "group": "a9b8fc693a4d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "น้ำ"
+      ],
+      "phrase": [
+        {
+          "word": "水",
+          "definition": "น้ำ"
+        }
+      ],
+      "id": "441e14434feb",
+      "priority": 1,
+      "group": "a9b8fc693a4d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "น้ำ",
+      "meaning": "水",
+      "audio": "7d51c7e19476e0de82a014c2857ea4de59848696cb0836cb06bbc02f3f1e6171",
+      "id": "c1fc764b9115",
+      "priority": 1,
+      "group": "a9b8fc693a4d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ขนมปัง",
+      "meaningInSourceLanguage": "面包",
+      "id": "d54e945f6949",
+      "priority": 0,
+      "group": "5e9dde8e1a98"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ขนมปัง"
+      ],
+      "phrase": [
+        {
+          "word": "面包",
+          "definition": "ขนมปัง"
+        }
+      ],
+      "id": "f3320e2c8b4c",
+      "priority": 1,
+      "group": "5e9dde8e1a98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ขนมปัง",
+      "meaning": "面包",
+      "audio": "5377d9e1e60dc3157e9b7a54fb0fe0280301ded63274e7b5751a981081f6db6e",
+      "id": "eb843fee8c81",
+      "priority": 1,
+      "group": "5e9dde8e1a98"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ข้าว",
+      "meaningInSourceLanguage": "米饭",
+      "id": "f00c377b1bcf",
+      "priority": 0,
+      "group": "9cc627026349"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ข้าว"
+      ],
+      "phrase": [
+        {
+          "word": "米饭",
+          "definition": "ข้าว"
+        }
+      ],
+      "id": "be70f0f1c4d0",
+      "priority": 1,
+      "group": "9cc627026349"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ข้าว",
+      "meaning": "米饭",
+      "audio": "ace133cd7d3010ea6383b123c30c5d352d31b201c6b4090a1c8aad9494c9398b",
+      "id": "ff601dcec2c8",
+      "priority": 1,
+      "group": "9cc627026349"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "นม",
+      "meaningInSourceLanguage": "牛奶",
+      "id": "430dcbad6864",
+      "priority": 0,
+      "group": "cdb30c22dff8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "นม"
+      ],
+      "phrase": [
+        {
+          "word": "牛奶",
+          "definition": "นม"
+        }
+      ],
+      "id": "24a479e6feac",
+      "priority": 1,
+      "group": "cdb30c22dff8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "นม",
+      "meaning": "牛奶",
+      "audio": "7007a679a2e19a23ca3d1e3a65ab4c5c57bd1b0c65d4bdf39bc6d069d8fa52d8",
+      "id": "938eb3334fb2",
+      "priority": 1,
+      "group": "cdb30c22dff8"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ไข่",
+      "meaningInSourceLanguage": "鸡蛋",
+      "id": "e38f3ec03b35",
+      "priority": 0,
+      "group": "8f3b6be38e09"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ไข่"
+      ],
+      "phrase": [
+        {
+          "word": "鸡蛋",
+          "definition": "ไข่"
+        }
+      ],
+      "id": "68be48e61df5",
+      "priority": 1,
+      "group": "8f3b6be38e09"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไข่",
+      "meaning": "鸡蛋",
+      "audio": "877799848b63ddfbc444b769592db5109bd5383394d57209c85fa6a6911bb3fb",
+      "id": "b9f6139c54cd",
+      "priority": 1,
+      "group": "8f3b6be38e09"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ไก่",
+      "meaningInSourceLanguage": "鸡肉",
+      "id": "cc2779a37f16",
+      "priority": 0,
+      "group": "164d982d20d1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ไก่"
+      ],
+      "phrase": [
+        {
+          "word": "鸡肉",
+          "definition": "ไก่"
+        }
+      ],
+      "id": "7eff8e3b58b1",
+      "priority": 1,
+      "group": "164d982d20d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ไก่",
+      "meaning": "鸡肉",
+      "audio": "a7a020e0823d7ddf0e951bb74d21ec04044f5bdbbf26e07e4286abc900d2ced8",
+      "id": "1f3c06b05003",
+      "priority": 1,
+      "group": "164d982d20d1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ปลา",
+      "meaningInSourceLanguage": "鱼",
+      "id": "7d5abde42e4c",
+      "priority": 0,
+      "group": "d1e1d0000ca9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ปลา"
+      ],
+      "phrase": [
+        {
+          "word": "鱼",
+          "definition": "ปลา"
+        }
+      ],
+      "id": "68dbec2e1c05",
+      "priority": 1,
+      "group": "d1e1d0000ca9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ปลา",
+      "meaning": "鱼",
+      "audio": "a4ae3a959c8af9b63db3c0950d97e4c74df5e760bc188d9e7a587125f7458048",
+      "id": "f359fdf39c17",
+      "priority": 1,
+      "group": "d1e1d0000ca9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ผลไม้",
+      "meaningInSourceLanguage": "水果",
+      "id": "eea9d2e4c64d",
+      "priority": 0,
+      "group": "4d3a51af8efc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ผลไม้"
+      ],
+      "phrase": [
+        {
+          "word": "水果",
+          "definition": "ผลไม้"
+        }
+      ],
+      "id": "bbf82097da55",
+      "priority": 1,
+      "group": "4d3a51af8efc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ผลไม้",
+      "meaning": "水果",
+      "audio": "db1914d390682be9d1d766775b2c52a6a0ca55d47a63b9b8825eb74dbf8951ed",
+      "id": "935390dec27d",
+      "priority": 1,
+      "group": "4d3a51af8efc"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ผัก",
+      "meaningInSourceLanguage": "蔬菜",
+      "id": "c382207bf28a",
+      "priority": 0,
+      "group": "dc8b543d8f86"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ผัก"
+      ],
+      "phrase": [
+        {
+          "word": "蔬菜",
+          "definition": "ผัก"
+        }
+      ],
+      "id": "9f27ad739622",
+      "priority": 1,
+      "group": "dc8b543d8f86"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ผัก",
+      "meaning": "蔬菜",
+      "audio": "796e1af3d9093c70a73d6aed31a5ab91d89b60c281ec1832e9522a31f28fb9e8",
+      "id": "826ba8bf02d8",
+      "priority": 1,
+      "group": "dc8b543d8f86"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ชา",
+      "meaningInSourceLanguage": "茶",
+      "id": "9a4ff37afcd3",
+      "priority": 0,
+      "group": "0617b07f9254"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ชา"
+      ],
+      "phrase": [
+        {
+          "word": "茶",
+          "definition": "ชา"
+        }
+      ],
+      "id": "1e46de651888",
+      "priority": 1,
+      "group": "0617b07f9254"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ชา",
+      "meaning": "茶",
+      "audio": "e0acc25abe4fc83c43eb6595773eefa08e235e006f5b93381086258ae53e2604",
+      "id": "ef539925b93e",
+      "priority": 1,
+      "group": "0617b07f9254"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "กาแฟ",
+      "meaningInSourceLanguage": "咖啡",
+      "id": "d4b879f07782",
+      "priority": 0,
+      "group": "bda36d8ca65a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "กาแฟ"
+      ],
+      "phrase": [
+        {
+          "word": "咖啡",
+          "definition": "กาแฟ"
+        }
+      ],
+      "id": "aa28cf42a66d",
+      "priority": 1,
+      "group": "bda36d8ca65a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "กาแฟ",
+      "meaning": "咖啡",
+      "audio": "63535c97e00d33aa8c4acc343338839b8f3b7461ba4e33884e5c547ad7d6af08",
+      "id": "b2b6ef23f94a",
+      "priority": 1,
+      "group": "bda36d8ca65a"
+    }
+  ]
+}

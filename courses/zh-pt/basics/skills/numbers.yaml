@@ -1,0 +1,64 @@
+Skill:
+  Name: Numbers
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+    - "ã"
+
+New words:
+  - Word: um
+    Translation: 一
+  - Word: dois
+    Translation: 二
+  - Word: três
+    Translation: 三
+  - Word: quatro
+    Translation: 四
+  - Word: cinco
+    Translation: 五
+  - Word: seis
+    Translation: 六
+  - Word: sete
+    Translation: 七
+  - Word: oito
+    Translation: 八
+  - Word: nove
+    Translation: 九
+  - Word: dez
+    Translation: 十
+
+Phrases:
+  - Phrase: Um, dois, três.
+    Translation: 一、二、三。
+  - Phrase: São cinco horas.
+    Translation: 现在五点钟。
+  - Phrase: Há dez pessoas.
+    Translation: 有十个人。
+
+Mini-dictionary:
+  Portuguese:
+    - oito: 八
+    - sete: 七
+    - dez: 十
+    - um: 一
+    - nove: 九
+    - cinco: 五
+    - três: 三
+    - quatro: 四
+    - seis: 六
+    - dois: 二
+  Chinese:
+    - 十: dez
+    - 五: cinco
+    - 九: nove
+    - 三: três
+    - 二: dois
+    - 一: um
+    - 七: sete
+    - 六: seis
+    - 四: quatro
+    - 八: oito

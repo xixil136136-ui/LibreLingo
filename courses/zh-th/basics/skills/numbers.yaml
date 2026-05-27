@@ -1,0 +1,64 @@
+Skill:
+  Name: Numbers
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: หนึ่ง
+    Translation: 一
+  - Word: สอง
+    Translation: 二
+  - Word: สาม
+    Translation: 三
+  - Word: สี่
+    Translation: 四
+  - Word: ห้า
+    Translation: 五
+  - Word: หก
+    Translation: 六
+  - Word: เจ็ด
+    Translation: 七
+  - Word: แปด
+    Translation: 八
+  - Word: เก้า
+    Translation: 九
+  - Word: สิบ
+    Translation: 十
+
+Phrases:
+  - Phrase: หนึ่ง สอง สาม
+    Translation: 一、二、三。
+  - Phrase: ตอนนี้ห้าโมง
+    Translation: 现在五点钟。
+  - Phrase: มีสิบคน
+    Translation: 有十个人。
+
+Mini-dictionary:
+  Thai:
+    - หนึ่ง: 一
+    - หก: 六
+    - แปด: 八
+    - สิบ: 十
+    - สี่: 四
+    - ห้า: 五
+    - สาม: 三
+    - เจ็ด: 七
+    - สอง: 二
+    - เก้า: 九
+  Chinese:
+    - 八: แปด
+    - 十: สิบ
+    - 五: ห้า
+    - 一: หนึ่ง
+    - 七: เจ็ด
+    - 九: เก้า
+    - 六: หก
+    - 二: สอง
+    - 三: สาม
+    - 四: สี่

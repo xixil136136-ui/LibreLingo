@@ -1,0 +1,65 @@
+Skill:
+  Name: Numbers
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+    - "á"
+    - "é"
+
+New words:
+  - Word: uno
+    Translation: 一
+  - Word: dos
+    Translation: 二
+  - Word: tres
+    Translation: 三
+  - Word: cuatro
+    Translation: 四
+  - Word: cinco
+    Translation: 五
+  - Word: seis
+    Translation: 六
+  - Word: siete
+    Translation: 七
+  - Word: ocho
+    Translation: 八
+  - Word: nueve
+    Translation: 九
+  - Word: diez
+    Translation: 十
+
+Phrases:
+  - Phrase: Uno, dos, tres.
+    Translation: 一、二、三。
+  - Phrase: Son las cinco.
+    Translation: 现在五点钟。
+  - Phrase: Hay diez personas.
+    Translation: 有十个人。
+
+Mini-dictionary:
+  Spanish:
+    - nueve: 九
+    - uno: 一
+    - siete: 七
+    - ocho: 八
+    - cuatro: 四
+    - cinco: 五
+    - dos: 二
+    - diez: 十
+    - seis: 六
+    - tres: 三
+  Chinese:
+    - 五: cinco
+    - 十: diez
+    - 一: uno
+    - 三: tres
+    - 七: siete
+    - 九: nueve
+    - 二: dos
+    - 六: seis
+    - 八: ocho
+    - 四: cuatro

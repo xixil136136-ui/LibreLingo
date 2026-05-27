@@ -1,0 +1,431 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ciao! Come stai?",
+      "meaningInSourceLanguage": "你好！你好吗？",
+      "id": "ca7874bf5c11",
+      "priority": 0,
+      "group": "c151dccf1969"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ciao! Come stai?",
+      "meaning": "你好！你好吗？",
+      "audio": "52b4393103436af3a387b4d10315a7353cc7114993d739ed298d5a423f1a35a1",
+      "id": "41e10c03605a",
+      "priority": 1,
+      "group": "c151dccf1969"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Buongiorno, grazie.",
+      "meaningInSourceLanguage": "早上好，谢谢。",
+      "id": "484fc7c6defa",
+      "priority": 0,
+      "group": "42e2df83e9ab"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Buongiorno, grazie.",
+      "meaning": "早上好，谢谢。",
+      "audio": "54b61a40e00667ba6dce2203a46f905ac50b43ce6f354b0a4a21ff548ff5ec02",
+      "id": "c7413c0194a5",
+      "priority": 1,
+      "group": "42e2df83e9ab"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Arrivederci, a presto.",
+      "meaningInSourceLanguage": "再见，回头见。",
+      "id": "8fe82ece3f09",
+      "priority": 0,
+      "group": "0e685e4a91b2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Arrivederci, a presto.",
+      "meaning": "再见，回头见。",
+      "audio": "f8774e3cc42eb487230edb896daabd5abaea3b666b17efe23b545e25f96750c8",
+      "id": "a7cacbbb5bad",
+      "priority": 1,
+      "group": "0e685e4a91b2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Mille grazie!",
+      "meaningInSourceLanguage": "非常感谢！",
+      "id": "0dd79b92a8e0",
+      "priority": 0,
+      "group": "9f8c098eedeb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Mille grazie!",
+      "meaning": "非常感谢！",
+      "audio": "56e220e5ba054e47cbff29b8cead8096c37c803402fe985fd3e96256f094e3c1",
+      "id": "e9129a0abb2d",
+      "priority": 1,
+      "group": "9f8c098eedeb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Scusa, dov'è il bagno?",
+      "meaningInSourceLanguage": "对不起，洗手间在哪里？",
+      "id": "9f041aac17ff",
+      "priority": 0,
+      "group": "7feaf5910b99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Scusa, dov'è il bagno?",
+      "meaning": "对不起，洗手间在哪里？",
+      "audio": "0fb02ccb51196c0a9647dbee9eb17a2c607bdb14534766fa83a2dae19418595e",
+      "id": "9276cbc3c2ea",
+      "priority": 1,
+      "group": "7feaf5910b99"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ciao",
+      "meaningInSourceLanguage": "你好/再见",
+      "id": "d15808145951",
+      "priority": 0,
+      "group": "81a4a37ed328"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ciao"
+      ],
+      "phrase": [
+        {
+          "word": "你好/再见",
+          "definition": "ciao"
+        }
+      ],
+      "id": "9c92c7ae7ebf",
+      "priority": 1,
+      "group": "81a4a37ed328"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ciao",
+      "meaning": "你好/再见",
+      "audio": "05e198659624c89772b7564f097e12bca697b5381b964002b90b0dc4723f6772",
+      "id": "66a0875b8c77",
+      "priority": 1,
+      "group": "81a4a37ed328"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "buongiorno",
+      "meaningInSourceLanguage": "早上好",
+      "id": "8cb163e72ec0",
+      "priority": 0,
+      "group": "29b0096d340d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "buongiorno"
+      ],
+      "phrase": [
+        {
+          "word": "早上好",
+          "definition": "buongiorno"
+        }
+      ],
+      "id": "d3f1cfe13e9d",
+      "priority": 1,
+      "group": "29b0096d340d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "buongiorno",
+      "meaning": "早上好",
+      "audio": "bc5474b2fb645d77db4be8a7bb10553c4eea26f257715f767ed3f5e0e2935218",
+      "id": "68c961edd8fe",
+      "priority": 1,
+      "group": "29b0096d340d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "buonasera",
+      "meaningInSourceLanguage": "晚上好",
+      "id": "a822df7e63f2",
+      "priority": 0,
+      "group": "17b16890060a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "buonasera"
+      ],
+      "phrase": [
+        {
+          "word": "晚上好",
+          "definition": "buonasera"
+        }
+      ],
+      "id": "0df507c9bd00",
+      "priority": 1,
+      "group": "17b16890060a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "buonasera",
+      "meaning": "晚上好",
+      "audio": "3c11e20a2275b4a591e2ad72651c0dcec85832c3d442a256b450651a52e30bd5",
+      "id": "5e88df5db09d",
+      "priority": 1,
+      "group": "17b16890060a"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "grazie",
+      "meaningInSourceLanguage": "谢谢",
+      "id": "f9bdc936f53f",
+      "priority": 0,
+      "group": "63d55721d391"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "grazie"
+      ],
+      "phrase": [
+        {
+          "word": "谢谢",
+          "definition": "grazie"
+        }
+      ],
+      "id": "d38e1809a747",
+      "priority": 1,
+      "group": "63d55721d391"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "grazie",
+      "meaning": "谢谢",
+      "audio": "6ee660a1051b45c4623f633cc2d3592cd5ae24cccb5d0ebdd6ff797929091afb",
+      "id": "e96c2945efea",
+      "priority": 1,
+      "group": "63d55721d391"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "per favore",
+      "meaningInSourceLanguage": "请",
+      "id": "6e4745566420",
+      "priority": 0,
+      "group": "dae5567cd288"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "per favore"
+      ],
+      "phrase": [
+        {
+          "word": "请",
+          "definition": "per favore"
+        }
+      ],
+      "id": "8f5beba7cbf7",
+      "priority": 1,
+      "group": "dae5567cd288"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "per favore",
+      "meaning": "请",
+      "audio": "fb89bbeac379ef1aad0066dba590009fbafb88109399c5b00ec530b4e8c123bf",
+      "id": "fb465077bae4",
+      "priority": 1,
+      "group": "dae5567cd288"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "scusa",
+      "meaningInSourceLanguage": "对不起",
+      "id": "b07d15a4cace",
+      "priority": 0,
+      "group": "7b9607ccf1cd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "scusa"
+      ],
+      "phrase": [
+        {
+          "word": "对不起",
+          "definition": "scusa"
+        }
+      ],
+      "id": "59dc83896762",
+      "priority": 1,
+      "group": "7b9607ccf1cd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "scusa",
+      "meaning": "对不起",
+      "audio": "994f1b6727665e688fb16909b59c8aa01e8b3794eaa599c02d970bfe5cbdf6ad",
+      "id": "c3084987a104",
+      "priority": 1,
+      "group": "7b9607ccf1cd"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sì",
+      "meaningInSourceLanguage": "是的",
+      "id": "23664f3af40c",
+      "priority": 0,
+      "group": "f44eba23b280"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sì"
+      ],
+      "phrase": [
+        {
+          "word": "是的",
+          "definition": "sì"
+        }
+      ],
+      "id": "680b3199f61b",
+      "priority": 1,
+      "group": "f44eba23b280"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sì",
+      "meaning": "是的",
+      "audio": "97c6114d65e834496ed790dc10a4515cb828e36612e933e43139514fb9375fea",
+      "id": "656e1cbf9b0a",
+      "priority": 1,
+      "group": "f44eba23b280"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "no",
+      "meaningInSourceLanguage": "不是",
+      "id": "abb8a279eda8",
+      "priority": 0,
+      "group": "56037d3ab2ea"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "no"
+      ],
+      "phrase": [
+        {
+          "word": "不是",
+          "definition": "no"
+        }
+      ],
+      "id": "ccaa76130f03",
+      "priority": 1,
+      "group": "56037d3ab2ea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "no",
+      "meaning": "不是",
+      "audio": "8fa2b589d54409dcfcbe7e3c67ac64dd217acacac4229f9d2dfd4a695b15168c",
+      "id": "8c8200717592",
+      "priority": 1,
+      "group": "56037d3ab2ea"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "prego",
+      "meaningInSourceLanguage": "不客气",
+      "id": "6e189e5f1241",
+      "priority": 0,
+      "group": "7715653785af"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "prego"
+      ],
+      "phrase": [
+        {
+          "word": "不客气",
+          "definition": "prego"
+        }
+      ],
+      "id": "d793827dccd5",
+      "priority": 1,
+      "group": "7715653785af"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "prego",
+      "meaning": "不客气",
+      "audio": "deefd8594693ff3e21586a916daec225aff69177abb93563a3d5b3366c2e6329",
+      "id": "5f6843d9d2f9",
+      "priority": 1,
+      "group": "7715653785af"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "arrivederci",
+      "meaningInSourceLanguage": "再见（正式）",
+      "id": "1fd7589bf67a",
+      "priority": 0,
+      "group": "24f27c44b3bd"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "arrivederci"
+      ],
+      "phrase": [
+        {
+          "word": "再见（正式）",
+          "definition": "arrivederci"
+        }
+      ],
+      "id": "255fe50da1b9",
+      "priority": 1,
+      "group": "24f27c44b3bd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "arrivederci",
+      "meaning": "再见（正式）",
+      "audio": "2e0658d14d42d31a10c54016e7017845eeb340d34195656805dcf9bd2b85ca7e",
+      "id": "6f9b3c6a5165",
+      "priority": 1,
+      "group": "24f27c44b3bd"
+    }
+  ]
+}

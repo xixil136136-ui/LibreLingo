@@ -1,0 +1,78 @@
+Skill:
+  Name: Travel Dialogues
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: l'aeroporto
+    Translation: 机场
+  - Word: il biglietto
+    Translation: 票
+  - Word: il binario
+    Translation: 站台
+  - Word: la partenza
+    Translation: 出发
+  - Word: l'arrivo
+    Translation: 到达
+  - Word: solo andata
+    Translation: 单程
+  - Word: andata e ritorno
+    Translation: 往返
+  - Word: il passaporto
+    Translation: 护照
+  - Word: il visto
+    Translation: 签证
+  - Word: la dogana
+    Translation: 海关
+
+Phrases:
+  - Phrase: Dov'è l'aeroporto?
+    Translation: 机场在哪里？
+  - Phrase: I need a ticket to Berlin.
+    Translation: 我需要一张去柏林的票。
+  - Phrase: Solo andata o andata e ritorno?
+    Translation: 单程还是往返？
+  - Phrase: Da quale binario parte il treno?
+    Translation: 火车从哪个站台出发？
+  - Phrase: A che ora parte il prossimo autobus?
+    Translation: 下一班车几点？
+  - Phrase: Questo posto è occupato?
+    Translation: 这个座位有人吗？
+  - Phrase: Il passaporto, per favore.
+    Translation: 请出示您的护照。
+  - Phrase: Non ho nulla da dichiarare.
+    Translation: 我没有需要申报的物品。
+  - Phrase: Quanto dura il viaggio?
+    Translation: 旅途有多久？
+  - Phrase: Mi faccia scendere alla prossima fermata, per favore.
+    Translation: 请在下一站让我下车。
+
+Mini-dictionary:
+  Italian:
+    - l'arrivo: 到达
+    - la partenza: 出发
+    - il passaporto: 护照
+    - andata e ritorno: 往返
+    - solo andata: 单程
+    - il visto: 签证
+    - l'aeroporto: 机场
+    - il binario: 站台
+    - il biglietto: 票
+    - la dogana: 海关
+  Chinese:
+    - 到达: l'arrivo
+    - 单程: solo andata
+    - 护照: il passaporto
+    - 海关: la dogana
+    - 往返: andata e ritorno
+    - 签证: il visto
+    - 机场: l'aeroporto
+    - 出发: la partenza
+    - 票: il biglietto
+    - 站台: il binario

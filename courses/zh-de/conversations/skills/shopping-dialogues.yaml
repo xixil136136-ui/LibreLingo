@@ -1,0 +1,78 @@
+Skill:
+  Name: Shopping Dialogues
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Wie viel
+    Translation: 多少钱
+  - Word: der Rabatt
+    Translation: 折扣
+  - Word: die Kreditkarte
+    Translation: 信用卡
+  - Word: das Bargeld
+    Translation: 现金
+  - Word: die Größe
+    Translation: 尺寸
+  - Word: die Farbe
+    Translation: 颜色
+  - Word: anprobieren
+    Translation: 试穿
+  - Word: die Quittung
+    Translation: 收据
+  - Word: zu teuer
+    Translation: 太贵
+  - Word: umtauschen
+    Translation: 换货
+
+Phrases:
+  - Phrase: Wie viel kostet das?
+    Translation: 这个多少钱？
+  - Phrase: Kann ich das anprobieren?
+    Translation: 我能试穿这个吗？
+  - Phrase: Haben Sie das in einer anderen Farbe?
+    Translation: 有别的颜色吗？
+  - Phrase: Das ist zu teuer. Gibt es einen Rabatt?
+    Translation: 太贵了。有折扣吗？
+  - Phrase: Ich nehme es. Kann ich mit Karte bezahlen?
+    Translation: 我买了。能用卡支付吗？
+  - Phrase: Kann ich bitte eine Quittung haben?
+    Translation: 请给我收据。
+  - Phrase: Ich möchte das umtauschen.
+    Translation: 我想换这个。
+  - Phrase: Haben Sie eine kleinere Größe?
+    Translation: 有小一点的尺寸吗？
+  - Phrase: Gibt es einen Ausverkauf?
+    Translation: 有打折活动吗？
+  - Phrase: Ich schaue nur, danke.
+    Translation: 我就看看，谢谢。
+
+Mini-dictionary:
+  German:
+    - die Quittung: 收据
+    - Wie viel: 多少钱
+    - anprobieren: 试穿
+    - die Farbe: 颜色
+    - zu teuer: 太贵
+    - die Größe: 尺寸
+    - die Kreditkarte: 信用卡
+    - das Bargeld: 现金
+    - der Rabatt: 折扣
+    - umtauschen: 换货
+  Chinese:
+    - 尺寸: die Größe
+    - 试穿: anprobieren
+    - 折扣: der Rabatt
+    - 收据: die Quittung
+    - 颜色: die Farbe
+    - 现金: das Bargeld
+    - 换货: umtauschen
+    - 多少钱: Wie viel
+    - 信用卡: die Kreditkarte
+    - 太贵: zu teuer

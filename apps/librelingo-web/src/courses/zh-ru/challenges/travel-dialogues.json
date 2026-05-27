@@ -1,0 +1,516 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Где находится аэропорт?",
+      "meaningInSourceLanguage": "机场在哪里？",
+      "id": "76234c15fedc",
+      "priority": 0,
+      "group": "02e637a2b5a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Где находится аэропорт?",
+      "meaning": "机场在哪里？",
+      "audio": "f6b49f6ad72076afe05c9e47ca8cb7c54aa08dfac3ed2f12c7838f42b6d1877f",
+      "id": "8a15cba7db37",
+      "priority": 1,
+      "group": "02e637a2b5a0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "I need a ticket to Berlin.",
+      "meaningInSourceLanguage": "我需要一张去柏林的票。",
+      "id": "690f5dea79b4",
+      "priority": 0,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "I need a ticket to Berlin.",
+      "meaning": "我需要一张去柏林的票。",
+      "audio": "a224e3f305d126f8419fc2327f497d270f9510e4b961c009a5f472d7df063abf",
+      "id": "287ecd9493e4",
+      "priority": 1,
+      "group": "1a067dd5a67e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "В один конец или туда и обратно?",
+      "meaningInSourceLanguage": "单程还是往返？",
+      "id": "c467863264a2",
+      "priority": 0,
+      "group": "9eef3af0d7f8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "В один конец или туда и обратно?",
+      "meaning": "单程还是往返？",
+      "audio": "053b2dc374e69a0ade32c6e50abd4f5b6795d74a7b0b60a7647cf4f95c1c5221",
+      "id": "1bdd5293f887",
+      "priority": 1,
+      "group": "9eef3af0d7f8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "С какой платформы отправляется поезд?",
+      "meaningInSourceLanguage": "火车从哪个站台出发？",
+      "id": "e5f2be2e52dc",
+      "priority": 0,
+      "group": "c838fd492e62"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "С какой платформы отправляется поезд?",
+      "meaning": "火车从哪个站台出发？",
+      "audio": "478e88197ddd06dd53c307565f355fefe93ae4404beaf410d06134cfc84c7028",
+      "id": "d6bc155c09ec",
+      "priority": 1,
+      "group": "c838fd492e62"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Во сколько следующий автобус?",
+      "meaningInSourceLanguage": "下一班车几点？",
+      "id": "c815e4c9c88e",
+      "priority": 0,
+      "group": "a7c8aca98c35"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Во сколько следующий автобус?",
+      "meaning": "下一班车几点？",
+      "audio": "a9bb24083ab3d4bcaa6eb5847600fc70ba3a39772a3e377af64e5a4579dff8b1",
+      "id": "95349a0ea432",
+      "priority": 1,
+      "group": "a7c8aca98c35"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Это место занято?",
+      "meaningInSourceLanguage": "这个座位有人吗？",
+      "id": "b60eee687996",
+      "priority": 0,
+      "group": "fb64a1d49f83"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Это место занято?",
+      "meaning": "这个座位有人吗？",
+      "audio": "7a2af3a1e517af317fed6f1e083cb64cf8e0169f85e976d7c76c4fef1e4801d4",
+      "id": "91e0b3af4f4f",
+      "priority": 1,
+      "group": "fb64a1d49f83"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ваш паспорт, пожалуйста.",
+      "meaningInSourceLanguage": "请出示您的护照。",
+      "id": "df46201bf320",
+      "priority": 0,
+      "group": "39285779d795"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ваш паспорт, пожалуйста.",
+      "meaning": "请出示您的护照。",
+      "audio": "d661d5dae496346a93f9dc64fd24174b426248b49696544ed243b6ed01c2d08f",
+      "id": "bf789c90dcae",
+      "priority": 1,
+      "group": "39285779d795"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У меня нет ничего для декларации.",
+      "meaningInSourceLanguage": "我没有需要申报的物品。",
+      "id": "0438c457c5cb",
+      "priority": 0,
+      "group": "11e3a3aaee70"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У меня нет ничего для декларации.",
+      "meaning": "我没有需要申报的物品。",
+      "audio": "f710d26f91d801976597041e65c8008d07f8f7a12b00e4eccec137ad089c05f9",
+      "id": "c39956a777e2",
+      "priority": 1,
+      "group": "11e3a3aaee70"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сколько длится поездка?",
+      "meaningInSourceLanguage": "旅途有多久？",
+      "id": "2fc076372654",
+      "priority": 0,
+      "group": "dc1759738ea3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сколько длится поездка?",
+      "meaning": "旅途有多久？",
+      "audio": "504b546a79d184e35fb5ece8b0687ad92c1941d82c162dd4d1daaff7e83fdf07",
+      "id": "a03a0dc66624",
+      "priority": 1,
+      "group": "dc1759738ea3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Высадите меня на следующей остановке, пожалуйста.",
+      "meaningInSourceLanguage": "请在下一站让我下车。",
+      "id": "bf930faa89fb",
+      "priority": 0,
+      "group": "66686f102e15"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Высадите меня на следующей остановке, пожалуйста.",
+      "meaning": "请在下一站让我下车。",
+      "audio": "80836095e238eafcccfdc1a1b711d7fc050df17654b8512552297a17df220f68",
+      "id": "66561cbd47d1",
+      "priority": 1,
+      "group": "66686f102e15"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "аэропорт",
+      "meaningInSourceLanguage": "机场",
+      "id": "52115f346b26",
+      "priority": 0,
+      "group": "9988a40bed98"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "аэропорт"
+      ],
+      "phrase": [
+        {
+          "word": "机场",
+          "definition": "аэропорт"
+        }
+      ],
+      "id": "351ca765e8e0",
+      "priority": 1,
+      "group": "9988a40bed98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "аэропорт",
+      "meaning": "机场",
+      "audio": "243a414d384b76ea9e74cd0a5051f25ad48bc0181fc103924305d3db5ed234da",
+      "id": "f8a87c9daf61",
+      "priority": 1,
+      "group": "9988a40bed98"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "билет",
+      "meaningInSourceLanguage": "票",
+      "id": "af76244dd985",
+      "priority": 0,
+      "group": "960d0acc8398"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "билет"
+      ],
+      "phrase": [
+        {
+          "word": "票",
+          "definition": "билет"
+        }
+      ],
+      "id": "946febfab954",
+      "priority": 1,
+      "group": "960d0acc8398"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "билет",
+      "meaning": "票",
+      "audio": "8c7cbe8a5c59416cec639babaa0608752533cbef3fe67018a555aa045b10f208",
+      "id": "e0260365aa34",
+      "priority": 1,
+      "group": "960d0acc8398"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "платформа",
+      "meaningInSourceLanguage": "站台",
+      "id": "9bf49b151595",
+      "priority": 0,
+      "group": "8fe0a9919119"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "платформа"
+      ],
+      "phrase": [
+        {
+          "word": "站台",
+          "definition": "платформа"
+        }
+      ],
+      "id": "84841fb43ae0",
+      "priority": 1,
+      "group": "8fe0a9919119"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "платформа",
+      "meaning": "站台",
+      "audio": "dda4c39475ccfe98f6681f5fafbf99aa6ebe2e18a55a630cbbf137219c1bd93b",
+      "id": "c2a6ebdca470",
+      "priority": 1,
+      "group": "8fe0a9919119"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "отправление",
+      "meaningInSourceLanguage": "出发",
+      "id": "dc70c9247708",
+      "priority": 0,
+      "group": "2b5c285c71f4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "отправление"
+      ],
+      "phrase": [
+        {
+          "word": "出发",
+          "definition": "отправление"
+        }
+      ],
+      "id": "0aafb3690a09",
+      "priority": 1,
+      "group": "2b5c285c71f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "отправление",
+      "meaning": "出发",
+      "audio": "be9d78dc735ea17cbe98f842addf0148a997f053ed0bf660c12183a0883c707a",
+      "id": "a746dff62a2f",
+      "priority": 1,
+      "group": "2b5c285c71f4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "прибытие",
+      "meaningInSourceLanguage": "到达",
+      "id": "ae7d58d05ab5",
+      "priority": 0,
+      "group": "efe4b73da715"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "прибытие"
+      ],
+      "phrase": [
+        {
+          "word": "到达",
+          "definition": "прибытие"
+        }
+      ],
+      "id": "0c3aa4640a45",
+      "priority": 1,
+      "group": "efe4b73da715"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "прибытие",
+      "meaning": "到达",
+      "audio": "45f2f0e7eb71f3c4112f02ec9e43853620eed48d54f72fb169c46e903db58344",
+      "id": "ae1f4cad43d3",
+      "priority": 1,
+      "group": "efe4b73da715"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "в один конец",
+      "meaningInSourceLanguage": "单程",
+      "id": "d0652fea6836",
+      "priority": 0,
+      "group": "39c9349fce53"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "в один конец"
+      ],
+      "phrase": [
+        {
+          "word": "单程",
+          "definition": "в один конец"
+        }
+      ],
+      "id": "cac444834469",
+      "priority": 1,
+      "group": "39c9349fce53"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "в один конец",
+      "meaning": "单程",
+      "audio": "69879d972b7782fc28f9d9f85bca19f4b9649a7f837aea73ce3944e0dc5418b6",
+      "id": "2500a4b21865",
+      "priority": 1,
+      "group": "39c9349fce53"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "туда и обратно",
+      "meaningInSourceLanguage": "往返",
+      "id": "fb63dd296b27",
+      "priority": 0,
+      "group": "a66563a2ef25"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "туда и обратно"
+      ],
+      "phrase": [
+        {
+          "word": "往返",
+          "definition": "туда и обратно"
+        }
+      ],
+      "id": "366448866446",
+      "priority": 1,
+      "group": "a66563a2ef25"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "туда и обратно",
+      "meaning": "往返",
+      "audio": "042476f8fba154681f60e2bfb9090ee92b4de5ed1f35a6b6a7323983a0707d3e",
+      "id": "888065024601",
+      "priority": 1,
+      "group": "a66563a2ef25"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "паспорт",
+      "meaningInSourceLanguage": "护照",
+      "id": "60bdc96386fb",
+      "priority": 0,
+      "group": "371dab2193b7"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "паспорт"
+      ],
+      "phrase": [
+        {
+          "word": "护照",
+          "definition": "паспорт"
+        }
+      ],
+      "id": "5a0465bd9379",
+      "priority": 1,
+      "group": "371dab2193b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "паспорт",
+      "meaning": "护照",
+      "audio": "2339947a81a21f7ab26127ff8544d6fd23f1e4c8ef5db348ee617a181c8c2802",
+      "id": "1fd3c12be3e1",
+      "priority": 1,
+      "group": "371dab2193b7"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "виза",
+      "meaningInSourceLanguage": "签证",
+      "id": "2db89707fe1e",
+      "priority": 0,
+      "group": "1cf5e4dbd2e2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "виза"
+      ],
+      "phrase": [
+        {
+          "word": "签证",
+          "definition": "виза"
+        }
+      ],
+      "id": "0d0dd1d13fc9",
+      "priority": 1,
+      "group": "1cf5e4dbd2e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "виза",
+      "meaning": "签证",
+      "audio": "d8296ace424c378d84ecf0633118adafa153ac754225b5c9eb2ec78f3512999a",
+      "id": "8f3af4a4edeb",
+      "priority": 1,
+      "group": "1cf5e4dbd2e2"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "таможня",
+      "meaningInSourceLanguage": "海关",
+      "id": "5917d3ff15d5",
+      "priority": 0,
+      "group": "1cb562e6e216"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "таможня"
+      ],
+      "phrase": [
+        {
+          "word": "海关",
+          "definition": "таможня"
+        }
+      ],
+      "id": "2d10925e6522",
+      "priority": 1,
+      "group": "1cb562e6e216"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "таможня",
+      "meaning": "海关",
+      "audio": "0b9035a5db1beecc5d97b37e4efb594ac4387a1162c83433239ef97e9b75303e",
+      "id": "4877a329d793",
+      "priority": 1,
+      "group": "1cb562e6e216"
+    }
+  ]
+}

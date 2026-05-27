@@ -1,0 +1,8 @@
+Module:
+  Name: "Conversations"
+
+Skills:
+  - restaurant-dialogues.yaml
+  - shopping-dialogues.yaml
+  - travel-dialogues.yaml
+  - hotel-&-accommodation.yaml

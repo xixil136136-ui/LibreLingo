@@ -1,0 +1,78 @@
+Skill:
+  Name: Restaurant Dialogues
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Eu gostaria de
+    Translation: 我想要
+  - Word: o cardápio
+    Translation: 菜单
+  - Word: pedir
+    Translation: 点餐
+  - Word: a conta
+    Translation: 账单
+  - Word: delicioso
+    Translation: 美味
+  - Word: a recomendação
+    Translation: 推荐
+  - Word: a reserva
+    Translation: 预约
+  - Word: o garçom
+    Translation: 服务员
+  - Word: uma mesa para dois
+    Translation: 两人桌
+  - Word: o prato do dia
+    Translation: 今日特价
+
+Phrases:
+  - Phrase: Gostaria de fazer uma reserva.
+    Translation: 我想预约。
+  - Phrase: Uma mesa para dois, por favor.
+    Translation: 请给我一个两人桌。
+  - Phrase: Posso ver o cardápio?
+    Translation: 我能看看菜单吗？
+  - Phrase: O que você recomenda?
+    Translation: 你推荐什么？
+  - Phrase: Vou querer o bife, por favor.
+    Translation: 我要牛排。
+  - Phrase: A conta, por favor.
+    Translation: 请给我账单。
+  - Phrase: A comida está deliciosa!
+    Translation: 食物太好吃了！
+  - Phrase: Pode me dar um pouco de água?
+    Translation: 能给我一些水吗？
+  - Phrase: O serviço está incluído?
+    Translation: 服务费包含在内吗？
+  - Phrase: Sou alérgico a amendoim.
+    Translation: 我对花生过敏。
+
+Mini-dictionary:
+  Portuguese:
+    - Eu gostaria de: 我想要
+    - o cardápio: 菜单
+    - a conta: 账单
+    - a recomendação: 推荐
+    - a reserva: 预约
+    - o garçom: 服务员
+    - o prato do dia: 今日特价
+    - pedir: 点餐
+    - delicioso: 美味
+    - uma mesa para dois: 两人桌
+  Chinese:
+    - 两人桌: uma mesa para dois
+    - 我想要: Eu gostaria de
+    - 今日特价: o prato do dia
+    - 服务员: o garçom
+    - 点餐: pedir
+    - 美味: delicioso
+    - 推荐: a recomendação
+    - 账单: a conta
+    - 预约: a reserva
+    - 菜单: o cardápio

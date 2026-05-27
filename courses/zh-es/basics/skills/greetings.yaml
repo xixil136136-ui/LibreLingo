@@ -1,0 +1,66 @@
+Skill:
+  Name: Greetings
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+
+New words:
+  - Word: hola
+    Translation: 你好
+  - Word: adiós
+    Translation: 再见
+  - Word: buenos días
+    Translation: 早上好
+  - Word: buenas tardes
+    Translation: 下午好
+  - Word: gracias
+    Translation: 谢谢
+  - Word: por favor
+    Translation: 请
+  - Word: perdón
+    Translation: 对不起
+  - Word: sí
+    Translation: 是的
+  - Word: no
+    Translation: 不是
+  - Word: de nada
+    Translation: 不客气
+
+Phrases:
+  - Phrase: ¡Hola! ¿Cómo estás?
+    Translation: 你好！你好吗？
+  - Phrase: Buenos días, gracias.
+    Translation: 早上好，谢谢。
+  - Phrase: Adiós, hasta luego.
+    Translation: 再见，回头见。
+  - Phrase: Muchas gracias.
+    Translation: 非常感谢。
+  - Phrase: Perdón, ¿dónde está el baño?
+    Translation: 对不起，洗手间在哪里？
+
+Mini-dictionary:
+  Spanish:
+    - hola: 你好
+    - sí: 是的
+    - de nada: 不客气
+    - buenas tardes: 下午好
+    - adiós: 再见
+    - gracias: 谢谢
+    - no: 不是
+    - por favor: 请
+    - perdón: 对不起
+    - buenos días: 早上好
+  Chinese:
+    - 不是: no
+    - 你好: hola
+    - 不客气: de nada
+    - 早上好: buenos días
+    - 再见: adiós
+    - 下午好: buenas tardes
+    - 对不起: perdón
+    - 是的: sí
+    - 谢谢: gracias
+    - 请: por favor

@@ -1,0 +1,78 @@
+Skill:
+  Name: Hotel & Accommodation
+  Id: 4
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: einchecken
+    Translation: 入住
+  - Word: auschecken
+    Translation: 退房
+  - Word: der Zimmerschlüssel
+    Translation: 房卡
+  - Word: das Einzelzimmer
+    Translation: 单人间
+  - Word: das Doppelzimmer
+    Translation: 双人间
+  - Word: die Reservierung
+    Translation: 预订
+  - Word: das Frühstück
+    Translation: 早餐
+  - Word: das WLAN
+    Translation: 无线网络
+  - Word: die Klimaanlage
+    Translation: 空调
+  - Word: der Zimmerservice
+    Translation: 客房服务
+
+Phrases:
+  - Phrase: Ich habe eine Reservierung.
+    Translation: 我有预订。
+  - Phrase: Ich möchte bitte einchecken.
+    Translation: 我想办理入住。
+  - Phrase: Was kostet ein Doppelzimmer pro Nacht?
+    Translation: 双人间一晚多少钱？
+  - Phrase: Ist Frühstück inkludiert?
+    Translation: 包含早餐吗？
+  - Phrase: Wie ist das WLAN-Passwort?
+    Translation: WiFi密码是什么？
+  - Phrase: Die Klimaanlage funktioniert nicht.
+    Translation: 空调坏了。
+  - Phrase: Kann ich bitte einen Weckruf um 7 Uhr haben?
+    Translation: 能给我设置早上7点的叫醒服务吗？
+  - Phrase: Ich möchte bitte auschecken.
+    Translation: 我想退房。
+  - Phrase: Kann ich mein Gepäck hier lassen?
+    Translation: 我能寄存行李吗？
+  - Phrase: Vielen Dank für einen wundervollen Aufenthalt!
+    Translation: 谢谢，住得很愉快！
+
+Mini-dictionary:
+  German:
+    - einchecken: 入住
+    - das Frühstück: 早餐
+    - die Klimaanlage: 空调
+    - das Doppelzimmer: 双人间
+    - das Einzelzimmer: 单人间
+    - der Zimmerservice: 客房服务
+    - der Zimmerschlüssel: 房卡
+    - auschecken: 退房
+    - die Reservierung: 预订
+    - das WLAN: 无线网络
+  Chinese:
+    - 房卡: der Zimmerschlüssel
+    - 入住: einchecken
+    - 预订: die Reservierung
+    - 无线网络: das WLAN
+    - 退房: auschecken
+    - 客房服务: der Zimmerservice
+    - 单人间: das Einzelzimmer
+    - 早餐: das Frühstück
+    - 双人间: das Doppelzimmer
+    - 空调: die Klimaanlage

@@ -1,0 +1,516 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сколько это стоит?",
+      "meaningInSourceLanguage": "这个多少钱？",
+      "id": "6998583b212d",
+      "priority": 0,
+      "group": "269485d9b0b4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сколько это стоит?",
+      "meaning": "这个多少钱？",
+      "audio": "49fc371f9d986e9e850353072573aa051a22c0624c1ce2853531a062457ea0d9",
+      "id": "c8316b390b33",
+      "priority": 1,
+      "group": "269485d9b0b4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Можно примерить?",
+      "meaningInSourceLanguage": "我能试穿这个吗？",
+      "id": "8decd5b543e5",
+      "priority": 0,
+      "group": "854d48c852b8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Можно примерить?",
+      "meaning": "我能试穿这个吗？",
+      "audio": "bcebdb3d75aef88d02ae8cdb0a66c4f5a1e2268326ba742cee73566c5b806595",
+      "id": "bedc6e55fa55",
+      "priority": 1,
+      "group": "854d48c852b8"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У вас есть другого цвета?",
+      "meaningInSourceLanguage": "有别的颜色吗？",
+      "id": "055332f90c75",
+      "priority": 0,
+      "group": "c7233f7f31fa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У вас есть другого цвета?",
+      "meaning": "有别的颜色吗？",
+      "audio": "892103603d065ce227ee60f0108e7187a1adb9b21842767e5612d6946b03a4a3",
+      "id": "21b54b8240f9",
+      "priority": 1,
+      "group": "c7233f7f31fa"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Слишком дорого. Есть скидка?",
+      "meaningInSourceLanguage": "太贵了。有折扣吗？",
+      "id": "bc1f0f87b027",
+      "priority": 0,
+      "group": "eb0fb3c22e31"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Слишком дорого. Есть скидка?",
+      "meaning": "太贵了。有折扣吗？",
+      "audio": "32d89bf9c515b5ce61aa19792186ee68ae243225c0b2a287cccea708c759f6f3",
+      "id": "5cfc7b026934",
+      "priority": 1,
+      "group": "eb0fb3c22e31"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я беру. Можно оплатить картой?",
+      "meaningInSourceLanguage": "我买了。能用卡支付吗？",
+      "id": "35af3e09f662",
+      "priority": 0,
+      "group": "10106074a318"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я беру. Можно оплатить картой?",
+      "meaning": "我买了。能用卡支付吗？",
+      "audio": "2ce21ba61109ce2580d1493e2a8862a0775dcc0b74a682427911f6b5f1c55192",
+      "id": "ca749e3c6c43",
+      "priority": 1,
+      "group": "10106074a318"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Чек, пожалуйста.",
+      "meaningInSourceLanguage": "请给我收据。",
+      "id": "972b0f80a3fd",
+      "priority": 0,
+      "group": "5d886a6f5d6e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Чек, пожалуйста.",
+      "meaning": "请给我收据。",
+      "audio": "668134aa4cb0c29b6baab59c4dad5d26bf3a19e2e5898657dff52bdd9eadd29b",
+      "id": "85b4310530d9",
+      "priority": 1,
+      "group": "5d886a6f5d6e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я хотел бы обменять это.",
+      "meaningInSourceLanguage": "我想换这个。",
+      "id": "c41ce3fca4ab",
+      "priority": 0,
+      "group": "d5603b6afbe1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я хотел бы обменять это.",
+      "meaning": "我想换这个。",
+      "audio": "bf2a547dc996adbf66d65578fca9a68cd8b8065c37853bbbf440977b6bf0a669",
+      "id": "d68789abb384",
+      "priority": 1,
+      "group": "d5603b6afbe1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "У вас есть меньший размер?",
+      "meaningInSourceLanguage": "有小一点的尺寸吗？",
+      "id": "77c8e3a671c5",
+      "priority": 0,
+      "group": "07484d00245d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "У вас есть меньший размер?",
+      "meaning": "有小一点的尺寸吗？",
+      "audio": "7e0e38f2747b5ba7dcf2ef5b4f0dabd5278715296da985f3034a5877a30ba198",
+      "id": "0263bfa52d7f",
+      "priority": 1,
+      "group": "07484d00245d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Есть распродажа?",
+      "meaningInSourceLanguage": "有打折活动吗？",
+      "id": "31cd70c185c3",
+      "priority": 0,
+      "group": "dcd262b5b12a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Есть распродажа?",
+      "meaning": "有打折活动吗？",
+      "audio": "75c9da9ca58461a02a3ff4c293e624091a501f2a8e3cd11af3acf9d08055e064",
+      "id": "030e38d325a7",
+      "priority": 1,
+      "group": "dcd262b5b12a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Я просто смотрю, спасибо.",
+      "meaningInSourceLanguage": "我就看看，谢谢。",
+      "id": "dcd52cb83842",
+      "priority": 0,
+      "group": "81585bcdb6d1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Я просто смотрю, спасибо.",
+      "meaning": "我就看看，谢谢。",
+      "audio": "af254fee0af1193e21169b4d7175c865a74c475021a7cb4c58b765bf07201915",
+      "id": "8098aa30ed9d",
+      "priority": 1,
+      "group": "81585bcdb6d1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Сколько",
+      "meaningInSourceLanguage": "多少钱",
+      "id": "5d145d4d9b62",
+      "priority": 0,
+      "group": "759ccc291237"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Сколько"
+      ],
+      "phrase": [
+        {
+          "word": "多少钱",
+          "definition": "Сколько"
+        }
+      ],
+      "id": "01fef397ec79",
+      "priority": 1,
+      "group": "759ccc291237"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сколько",
+      "meaning": "多少钱",
+      "audio": "b041aef1b7b88fbb79137f3bf55b14f56d98ad10d87f7c97184deb44e446978f",
+      "id": "6ca9aac71539",
+      "priority": 1,
+      "group": "759ccc291237"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "скидка",
+      "meaningInSourceLanguage": "折扣",
+      "id": "cafc510dbbbe",
+      "priority": 0,
+      "group": "ec660718b975"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "скидка"
+      ],
+      "phrase": [
+        {
+          "word": "折扣",
+          "definition": "скидка"
+        }
+      ],
+      "id": "69cd1c44c381",
+      "priority": 1,
+      "group": "ec660718b975"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "скидка",
+      "meaning": "折扣",
+      "audio": "3179e06c70f892fc9339c49276f4de673ea531668972e8e62739b77d928900a6",
+      "id": "6e4146352c5c",
+      "priority": 1,
+      "group": "ec660718b975"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "кредитная карта",
+      "meaningInSourceLanguage": "信用卡",
+      "id": "f5ccdf75ff59",
+      "priority": 0,
+      "group": "4c29f26fb57d"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "кредитная карта"
+      ],
+      "phrase": [
+        {
+          "word": "信用卡",
+          "definition": "кредитная карта"
+        }
+      ],
+      "id": "807ce3153584",
+      "priority": 1,
+      "group": "4c29f26fb57d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кредитная карта",
+      "meaning": "信用卡",
+      "audio": "2bfca5a7aca0e3153f64d4b1a894345547a41b5baf5b75526efdff0b31a7d3fb",
+      "id": "ee73a0d8519d",
+      "priority": 1,
+      "group": "4c29f26fb57d"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "наличные",
+      "meaningInSourceLanguage": "现金",
+      "id": "54816501f14c",
+      "priority": 0,
+      "group": "46424b0c45d6"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "наличные"
+      ],
+      "phrase": [
+        {
+          "word": "现金",
+          "definition": "наличные"
+        }
+      ],
+      "id": "48d750a698a9",
+      "priority": 1,
+      "group": "46424b0c45d6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "наличные",
+      "meaning": "现金",
+      "audio": "c56d3cb7771f52f13b78df146781213fa3d3392ae567348dc125e22c15a323cc",
+      "id": "a3ee26ef64d8",
+      "priority": 1,
+      "group": "46424b0c45d6"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "размер",
+      "meaningInSourceLanguage": "尺寸",
+      "id": "5ca3d0155585",
+      "priority": 0,
+      "group": "96a4564985f4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "размер"
+      ],
+      "phrase": [
+        {
+          "word": "尺寸",
+          "definition": "размер"
+        }
+      ],
+      "id": "80f6f1940ff0",
+      "priority": 1,
+      "group": "96a4564985f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "размер",
+      "meaning": "尺寸",
+      "audio": "39e80852a592b0ff0f40cc570b9437a592ef06cfae62c8d0c5e4a25d929648d4",
+      "id": "0538edc19946",
+      "priority": 1,
+      "group": "96a4564985f4"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "цвет",
+      "meaningInSourceLanguage": "颜色",
+      "id": "e2383800c9ee",
+      "priority": 0,
+      "group": "3308b86bd1ef"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "цвет"
+      ],
+      "phrase": [
+        {
+          "word": "颜色",
+          "definition": "цвет"
+        }
+      ],
+      "id": "80beeaef1cb3",
+      "priority": 1,
+      "group": "3308b86bd1ef"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "цвет",
+      "meaning": "颜色",
+      "audio": "67c43a9cad590fe9e274d8258e153aee7601f115edfd838090a7629a07722c05",
+      "id": "770ba3548c60",
+      "priority": 1,
+      "group": "3308b86bd1ef"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "примерить",
+      "meaningInSourceLanguage": "试穿",
+      "id": "7372de673987",
+      "priority": 0,
+      "group": "9a074e131a16"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "примерить"
+      ],
+      "phrase": [
+        {
+          "word": "试穿",
+          "definition": "примерить"
+        }
+      ],
+      "id": "aff37426abb8",
+      "priority": 1,
+      "group": "9a074e131a16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "примерить",
+      "meaning": "试穿",
+      "audio": "caab58788036b536a09e572cbb894482adb24eacfbd4f7981e6cb9098831c2a3",
+      "id": "9dc9d7ade67e",
+      "priority": 1,
+      "group": "9a074e131a16"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "чек",
+      "meaningInSourceLanguage": "收据",
+      "id": "715ecdf03e88",
+      "priority": 0,
+      "group": "2f7ae0504d07"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "чек"
+      ],
+      "phrase": [
+        {
+          "word": "收据",
+          "definition": "чек"
+        }
+      ],
+      "id": "7d4fded97406",
+      "priority": 1,
+      "group": "2f7ae0504d07"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "чек",
+      "meaning": "收据",
+      "audio": "2c13298a61ddef742055339384d8b77d19916fdddf1e8c8092ff863c159e7c29",
+      "id": "18d7327c2bee",
+      "priority": 1,
+      "group": "2f7ae0504d07"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "слишком дорого",
+      "meaningInSourceLanguage": "太贵",
+      "id": "e8a8fd05aa95",
+      "priority": 0,
+      "group": "1e71b962a434"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "слишком дорого"
+      ],
+      "phrase": [
+        {
+          "word": "太贵",
+          "definition": "слишком дорого"
+        }
+      ],
+      "id": "8fe51bafaddb",
+      "priority": 1,
+      "group": "1e71b962a434"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "слишком дорого",
+      "meaning": "太贵",
+      "audio": "862d9b76a257e5f5e92b87a08da0894401c5f7c0dec3ab408191447db0081c50",
+      "id": "31bb4111c251",
+      "priority": 1,
+      "group": "1e71b962a434"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "обменять",
+      "meaningInSourceLanguage": "换货",
+      "id": "2d1d4e8dd2da",
+      "priority": 0,
+      "group": "c24cfc9708a1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "обменять"
+      ],
+      "phrase": [
+        {
+          "word": "换货",
+          "definition": "обменять"
+        }
+      ],
+      "id": "80e233bf280a",
+      "priority": 1,
+      "group": "c24cfc9708a1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "обменять",
+      "meaning": "换货",
+      "audio": "0f51eadbd53afc472edd3eef4454231ff01b4c55754d2441c3569b46018edcf5",
+      "id": "3f400b851287",
+      "priority": 1,
+      "group": "c24cfc9708a1"
+    }
+  ]
+}

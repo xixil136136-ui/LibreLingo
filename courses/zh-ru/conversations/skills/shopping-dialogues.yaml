@@ -1,0 +1,78 @@
+Skill:
+  Name: Shopping Dialogues
+  Id: 2
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Сколько
+    Translation: 多少钱
+  - Word: скидка
+    Translation: 折扣
+  - Word: кредитная карта
+    Translation: 信用卡
+  - Word: наличные
+    Translation: 现金
+  - Word: размер
+    Translation: 尺寸
+  - Word: цвет
+    Translation: 颜色
+  - Word: примерить
+    Translation: 试穿
+  - Word: чек
+    Translation: 收据
+  - Word: слишком дорого
+    Translation: 太贵
+  - Word: обменять
+    Translation: 换货
+
+Phrases:
+  - Phrase: Сколько это стоит?
+    Translation: 这个多少钱？
+  - Phrase: Можно примерить?
+    Translation: 我能试穿这个吗？
+  - Phrase: У вас есть другого цвета?
+    Translation: 有别的颜色吗？
+  - Phrase: Слишком дорого. Есть скидка?
+    Translation: 太贵了。有折扣吗？
+  - Phrase: Я беру. Можно оплатить картой?
+    Translation: 我买了。能用卡支付吗？
+  - Phrase: Чек, пожалуйста.
+    Translation: 请给我收据。
+  - Phrase: Я хотел бы обменять это.
+    Translation: 我想换这个。
+  - Phrase: У вас есть меньший размер?
+    Translation: 有小一点的尺寸吗？
+  - Phrase: Есть распродажа?
+    Translation: 有打折活动吗？
+  - Phrase: Я просто смотрю, спасибо.
+    Translation: 我就看看，谢谢。
+
+Mini-dictionary:
+  Russian:
+    - Сколько: 多少钱
+    - примерить: 试穿
+    - обменять: 换货
+    - наличные: 现金
+    - чек: 收据
+    - слишком дорого: 太贵
+    - кредитная карта: 信用卡
+    - цвет: 颜色
+    - скидка: 折扣
+    - размер: 尺寸
+  Chinese:
+    - 尺寸: размер
+    - 多少钱: Сколько
+    - 现金: наличные
+    - 收据: чек
+    - 太贵: слишком дорого
+    - 试穿: примерить
+    - 颜色: цвет
+    - 换货: обменять
+    - 信用卡: кредитная карта
+    - 折扣: скидка

@@ -1,0 +1,516 @@
+{
+  "id": "569673478a3d",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich möchte eine Reservierung vornehmen.",
+      "meaningInSourceLanguage": "我想预约。",
+      "id": "0fa21674006a",
+      "priority": 0,
+      "group": "37aedc23e33f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich möchte eine Reservierung vornehmen.",
+      "meaning": "我想预约。",
+      "audio": "256acf9c87b12699adcaa9ae6ed48effe7f4f788ed1c824086c0068f99460ac5",
+      "id": "9ac58ba310fe",
+      "priority": 1,
+      "group": "37aedc23e33f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Einen Tisch für zwei, bitte.",
+      "meaningInSourceLanguage": "请给我一个两人桌。",
+      "id": "f4791ba02fdf",
+      "priority": 0,
+      "group": "56f3f06ee752"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Einen Tisch für zwei, bitte.",
+      "meaning": "请给我一个两人桌。",
+      "audio": "fd337f1588eadaf7d2540d43f924b5361607b6748b5e0004f2492ab9185df1b9",
+      "id": "0a4b704170de",
+      "priority": 1,
+      "group": "56f3f06ee752"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kann ich die Speisekarte sehen?",
+      "meaningInSourceLanguage": "我能看看菜单吗？",
+      "id": "59a240ed2425",
+      "priority": 0,
+      "group": "533d909f027c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kann ich die Speisekarte sehen?",
+      "meaning": "我能看看菜单吗？",
+      "audio": "c19b6acd48a3bbd1718e553e5aaa56165d90e0c61bcbca8a76c7ee6d980470fa",
+      "id": "54962c3662a6",
+      "priority": 1,
+      "group": "533d909f027c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Was empfehlen Sie?",
+      "meaningInSourceLanguage": "你推荐什么？",
+      "id": "66bb9d953e51",
+      "priority": 0,
+      "group": "34e2f94075e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Was empfehlen Sie?",
+      "meaning": "你推荐什么？",
+      "audio": "4abad1b88fc75c10fb33dd90cebe1c8d8922d4ea371ceb52d23386c1665d2ab4",
+      "id": "21b5257d405e",
+      "priority": 1,
+      "group": "34e2f94075e0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich nehme das Steak.",
+      "meaningInSourceLanguage": "我要牛排。",
+      "id": "bd33e990974c",
+      "priority": 0,
+      "group": "89e6232f35ee"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich nehme das Steak.",
+      "meaning": "我要牛排。",
+      "audio": "7e72d57c585a5bf85355452e4b23aa60f2d72773485990a4c2e991830bdc87d1",
+      "id": "172dedbc455b",
+      "priority": 1,
+      "group": "89e6232f35ee"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kann ich bitte die Rechnung haben?",
+      "meaningInSourceLanguage": "请给我账单。",
+      "id": "fbe09a601835",
+      "priority": 0,
+      "group": "210fd9e99cb1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kann ich bitte die Rechnung haben?",
+      "meaning": "请给我账单。",
+      "audio": "32d5c4ec535f16718246a641de470199e6acc85d61377014a9994679c27a8d24",
+      "id": "c7d2f33507cd",
+      "priority": 1,
+      "group": "210fd9e99cb1"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Das Essen ist köstlich!",
+      "meaningInSourceLanguage": "食物太好吃了！",
+      "id": "d25108d9c92a",
+      "priority": 0,
+      "group": "dcd25a2a2e97"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Das Essen ist köstlich!",
+      "meaning": "食物太好吃了！",
+      "audio": "c1c5ccb6900b20596a9d40ae4987fc5dfe177265d0b3eea0f9312b25b913b06d",
+      "id": "b1c167b927e7",
+      "priority": 1,
+      "group": "dcd25a2a2e97"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Kann ich etwas Wasser haben?",
+      "meaningInSourceLanguage": "能给我一些水吗？",
+      "id": "56791e5a29bd",
+      "priority": 0,
+      "group": "94290c4cc327"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Kann ich etwas Wasser haben?",
+      "meaning": "能给我一些水吗？",
+      "audio": "ec50085fd1ed6550950f0379ef1ef80479f80442d4ac1dfb594c0d1495eeef39",
+      "id": "b56722503410",
+      "priority": 1,
+      "group": "94290c4cc327"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ist die Bedienung inklusive?",
+      "meaningInSourceLanguage": "服务费包含在内吗？",
+      "id": "58b69d24108c",
+      "priority": 0,
+      "group": "a8dfe5b332a3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ist die Bedienung inklusive?",
+      "meaning": "服务费包含在内吗？",
+      "audio": "f767a24290d5121779976efb5487a99b182b8f00faf331aa600226c9b8be0d7c",
+      "id": "843756ef4024",
+      "priority": 1,
+      "group": "a8dfe5b332a3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ich bin allergisch gegen Erdnüsse.",
+      "meaningInSourceLanguage": "我对花生过敏。",
+      "id": "5c272a37a1ea",
+      "priority": 0,
+      "group": "5fadacbf03e0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich bin allergisch gegen Erdnüsse.",
+      "meaning": "我对花生过敏。",
+      "audio": "bc5c89a4af90e8d4671dd303d74da1f42ca9f798d8cb77e3b02b630258c35094",
+      "id": "7c866bd4ab54",
+      "priority": 1,
+      "group": "5fadacbf03e0"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "Ich möchte",
+      "meaningInSourceLanguage": "我想要",
+      "id": "48fa525f2f0c",
+      "priority": 0,
+      "group": "403360cb8945"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "Ich möchte"
+      ],
+      "phrase": [
+        {
+          "word": "我想要",
+          "definition": "Ich möchte"
+        }
+      ],
+      "id": "c2a481389fb7",
+      "priority": 1,
+      "group": "403360cb8945"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ich möchte",
+      "meaning": "我想要",
+      "audio": "b5c62e78a41d3e85ed3c7497957e909fc389149c5b1cf8e32d0f4d3e417acfcd",
+      "id": "39ea658e8d4f",
+      "priority": 1,
+      "group": "403360cb8945"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "die Speisekarte",
+      "meaningInSourceLanguage": "菜单",
+      "id": "3a437edd486f",
+      "priority": 0,
+      "group": "e2983f9151d9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "die Speisekarte"
+      ],
+      "phrase": [
+        {
+          "word": "菜单",
+          "definition": "die Speisekarte"
+        }
+      ],
+      "id": "92401b653a59",
+      "priority": 1,
+      "group": "e2983f9151d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "die Speisekarte",
+      "meaning": "菜单",
+      "audio": "556b7426c4a62d64eccc4fa83e8aac3512283b262ff7402a98dee278c1dbcfbe",
+      "id": "d848527eaa42",
+      "priority": 1,
+      "group": "e2983f9151d9"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "bestellen",
+      "meaningInSourceLanguage": "点餐",
+      "id": "6d18c2304c60",
+      "priority": 0,
+      "group": "031108d0a318"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "bestellen"
+      ],
+      "phrase": [
+        {
+          "word": "点餐",
+          "definition": "bestellen"
+        }
+      ],
+      "id": "63ac930d7715",
+      "priority": 1,
+      "group": "031108d0a318"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "bestellen",
+      "meaning": "点餐",
+      "audio": "f35abf380bf792e8805b946276199a1c8f58c98c29c2f75848608b05d7e096b3",
+      "id": "1e5188e6ef45",
+      "priority": 1,
+      "group": "031108d0a318"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "die Rechnung",
+      "meaningInSourceLanguage": "账单",
+      "id": "94a4440ec74f",
+      "priority": 0,
+      "group": "53ddf795416f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "die Rechnung"
+      ],
+      "phrase": [
+        {
+          "word": "账单",
+          "definition": "die Rechnung"
+        }
+      ],
+      "id": "82c6e4df21b7",
+      "priority": 1,
+      "group": "53ddf795416f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "die Rechnung",
+      "meaning": "账单",
+      "audio": "644c6754f43cc86d81bdfc2a01d490e33d565949fee7f2eb688219a57c980c5f",
+      "id": "8b5027758940",
+      "priority": 1,
+      "group": "53ddf795416f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "köstlich",
+      "meaningInSourceLanguage": "美味",
+      "id": "666641735440",
+      "priority": 0,
+      "group": "750b017c815b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "köstlich"
+      ],
+      "phrase": [
+        {
+          "word": "美味",
+          "definition": "köstlich"
+        }
+      ],
+      "id": "f81008cbdae0",
+      "priority": 1,
+      "group": "750b017c815b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "köstlich",
+      "meaning": "美味",
+      "audio": "a9d90e7bb820fb9218e096ccdec85c9c404382f785b7bdc3a99240de561de88b",
+      "id": "e21b0d6b71c6",
+      "priority": 1,
+      "group": "750b017c815b"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "die Empfehlung",
+      "meaningInSourceLanguage": "推荐",
+      "id": "d60582d43bde",
+      "priority": 0,
+      "group": "6abb4ee7cce1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "die Empfehlung"
+      ],
+      "phrase": [
+        {
+          "word": "推荐",
+          "definition": "die Empfehlung"
+        }
+      ],
+      "id": "368cec435f29",
+      "priority": 1,
+      "group": "6abb4ee7cce1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "die Empfehlung",
+      "meaning": "推荐",
+      "audio": "e0df3d86326da675fbff72a2229c0d2fe9aa658f89c899db61c43e407402ba68",
+      "id": "b1f22426e77b",
+      "priority": 1,
+      "group": "6abb4ee7cce1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "die Reservierung",
+      "meaningInSourceLanguage": "预约",
+      "id": "0221dbc0745d",
+      "priority": 0,
+      "group": "07558b464256"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "die Reservierung"
+      ],
+      "phrase": [
+        {
+          "word": "预约",
+          "definition": "die Reservierung"
+        }
+      ],
+      "id": "a457ae4077e7",
+      "priority": 1,
+      "group": "07558b464256"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "die Reservierung",
+      "meaning": "预约",
+      "audio": "530dc1d13484ec22e9a80bf09069fde9287020cc860ead388a16a4f78bc19086",
+      "id": "7e3c46aaf908",
+      "priority": 1,
+      "group": "07558b464256"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "der Kellner",
+      "meaningInSourceLanguage": "服务员",
+      "id": "636ab98cc9ed",
+      "priority": 0,
+      "group": "00c76faa8cf1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "der Kellner"
+      ],
+      "phrase": [
+        {
+          "word": "服务员",
+          "definition": "der Kellner"
+        }
+      ],
+      "id": "aba167872a75",
+      "priority": 1,
+      "group": "00c76faa8cf1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "der Kellner",
+      "meaning": "服务员",
+      "audio": "533715c0210880f7754cdf2be0b508deac302a8a9927a2ac73cf5037f7b88383",
+      "id": "988e9dfad069",
+      "priority": 1,
+      "group": "00c76faa8cf1"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "ein Tisch für zwei",
+      "meaningInSourceLanguage": "两人桌",
+      "id": "0729f8faa0f7",
+      "priority": 0,
+      "group": "854c8b9cb4bb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "ein Tisch für zwei"
+      ],
+      "phrase": [
+        {
+          "word": "两人桌",
+          "definition": "ein Tisch für zwei"
+        }
+      ],
+      "id": "1b4bdb87b203",
+      "priority": 1,
+      "group": "854c8b9cb4bb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ein Tisch für zwei",
+      "meaning": "两人桌",
+      "audio": "df148cd9e8a8bbfded46ef01dc7bca7a90f68a89a272654b8f4280b16166d59c",
+      "id": "9f0469641258",
+      "priority": 1,
+      "group": "854c8b9cb4bb"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "das Tagesgericht",
+      "meaningInSourceLanguage": "今日特价",
+      "id": "05c1526b42de",
+      "priority": 0,
+      "group": "5afd6b7084e3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "das Tagesgericht"
+      ],
+      "phrase": [
+        {
+          "word": "今日特价",
+          "definition": "das Tagesgericht"
+        }
+      ],
+      "id": "01b1a5895ffb",
+      "priority": 1,
+      "group": "5afd6b7084e3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "das Tagesgericht",
+      "meaning": "今日特价",
+      "audio": "f00183ea2e1b966e15547679ed35ff6e08257e8a401324b99e7edcf79e78c8a4",
+      "id": "e85e7e411f9f",
+      "priority": 1,
+      "group": "5afd6b7084e3"
+    }
+  ]
+}

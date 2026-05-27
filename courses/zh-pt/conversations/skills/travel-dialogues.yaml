@@ -1,0 +1,78 @@
+Skill:
+  Name: Travel Dialogues
+  Id: 3
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: o aeroporto
+    Translation: 机场
+  - Word: o bilhete
+    Translation: 票
+  - Word: a plataforma
+    Translation: 站台
+  - Word: a partida
+    Translation: 出发
+  - Word: a chegada
+    Translation: 到达
+  - Word: só ida
+    Translation: 单程
+  - Word: ida e volta
+    Translation: 往返
+  - Word: o passaporte
+    Translation: 护照
+  - Word: o visto
+    Translation: 签证
+  - Word: a alfândega
+    Translation: 海关
+
+Phrases:
+  - Phrase: Onde fica o aeroporto?
+    Translation: 机场在哪里？
+  - Phrase: I need a ticket to Berlin.
+    Translation: 我需要一张去柏林的票。
+  - Phrase: Só ida ou ida e volta?
+    Translation: 单程还是往返？
+  - Phrase: De qual plataforma o trem sai?
+    Translation: 火车从哪个站台出发？
+  - Phrase: A que horas sai o próximo ônibus?
+    Translation: 下一班车几点？
+  - Phrase: Este lugar está ocupado?
+    Translation: 这个座位有人吗？
+  - Phrase: Seu passaporte, por favor.
+    Translation: 请出示您的护照。
+  - Phrase: Não tenho nada a declarar.
+    Translation: 我没有需要申报的物品。
+  - Phrase: Quanto tempo dura a viagem?
+    Translation: 旅途有多久？
+  - Phrase: Me deixe na próxima parada, por favor.
+    Translation: 请在下一站让我下车。
+
+Mini-dictionary:
+  Portuguese:
+    - o bilhete: 票
+    - a partida: 出发
+    - a chegada: 到达
+    - o aeroporto: 机场
+    - o visto: 签证
+    - ida e volta: 往返
+    - o passaporte: 护照
+    - a plataforma: 站台
+    - a alfândega: 海关
+    - só ida: 单程
+  Chinese:
+    - 单程: só ida
+    - 出发: a partida
+    - 海关: a alfândega
+    - 票: o bilhete
+    - 签证: o visto
+    - 到达: a chegada
+    - 机场: o aeroporto
+    - 护照: o passaporte
+    - 往返: ida e volta
+    - 站台: a plataforma

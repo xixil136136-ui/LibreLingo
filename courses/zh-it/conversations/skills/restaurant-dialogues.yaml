@@ -1,0 +1,78 @@
+Skill:
+  Name: Restaurant Dialogues
+  Id: 1
+  Thumbnails:
+    - thumbnail1
+    - thumbnail2
+    - thumbnail3
+  
+  Special characters:
+
+
+New words:
+  - Word: Vorrei
+    Translation: 我想要
+  - Word: il menu
+    Translation: 菜单
+  - Word: ordinare
+    Translation: 点餐
+  - Word: il conto
+    Translation: 账单
+  - Word: delizioso
+    Translation: 美味
+  - Word: la raccomandazione
+    Translation: 推荐
+  - Word: la prenotazione
+    Translation: 预约
+  - Word: il cameriere
+    Translation: 服务员
+  - Word: un tavolo per due
+    Translation: 两人桌
+  - Word: il piatto del giorno
+    Translation: 今日特价
+
+Phrases:
+  - Phrase: Vorrei fare una prenotazione.
+    Translation: 我想预约。
+  - Phrase: Un tavolo per due, per favore.
+    Translation: 请给我一个两人桌。
+  - Phrase: Posso vedere il menu?
+    Translation: 我能看看菜单吗？
+  - Phrase: Cosa consiglia?
+    Translation: 你推荐什么？
+  - Phrase: Prendo la bistecca, per favore.
+    Translation: 我要牛排。
+  - Phrase: Posso avere il conto, per favore?
+    Translation: 请给我账单。
+  - Phrase: Il cibo è delizioso!
+    Translation: 食物太好吃了！
+  - Phrase: Posso avere un po' d'acqua?
+    Translation: 能给我一些水吗？
+  - Phrase: Il servizio è incluso?
+    Translation: 服务费包含在内吗？
+  - Phrase: Sono allergico alle arachidi.
+    Translation: 我对花生过敏。
+
+Mini-dictionary:
+  Italian:
+    - il menu: 菜单
+    - la raccomandazione: 推荐
+    - il conto: 账单
+    - il piatto del giorno: 今日特价
+    - ordinare: 点餐
+    - la prenotazione: 预约
+    - Vorrei: 我想要
+    - un tavolo per due: 两人桌
+    - il cameriere: 服务员
+    - delizioso: 美味
+  Chinese:
+    - 美味: delizioso
+    - 服务员: il cameriere
+    - 今日特价: il piatto del giorno
+    - 推荐: la raccomandazione
+    - 账单: il conto
+    - 预约: la prenotazione
+    - 我想要: Vorrei
+    - 菜单: il menu
+    - 点餐: ordinare
+    - 两人桌: un tavolo per due
